@@ -7,6 +7,7 @@ from niros.evidence import (
     statement_to_evidence,
     statements_to_evidence,
 )
+from niros.hypotheses import Hypothesis, HypothesisGenerator, HypothesisType, generate_hypotheses
 from niros.models import (
     IcaroLanguage,
     InterviewPhase,
@@ -31,6 +32,9 @@ __all__ = [
     "EvidenceItem",
     "EvidenceSource",
     "EvidenceType",
+    "Hypothesis",
+    "HypothesisGenerator",
+    "HypothesisType",
     "IcaroLanguage",
     "InputModality",
     "InterviewPhase",
@@ -43,6 +47,7 @@ __all__ = [
     "Transcript",
     "UnsupportedModalityError",
     "advance",
+    "generate_hypotheses",
     "initial_state",
     "pattern_tag_evidence",
     "pattern_tag_evidence_items",
