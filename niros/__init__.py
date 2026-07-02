@@ -8,6 +8,11 @@ from niros.evidence import (
     statements_to_evidence,
 )
 from niros.hypotheses import Hypothesis, HypothesisGenerator, HypothesisType, generate_hypotheses
+from niros.interview_engine import (
+    BlueprintPhase,
+    InterviewDecision,
+    InterviewDecisionEngine,
+)
 from niros.knowledge import KnowledgePattern, PatternLoader, PatternRelationship, PatternRelationType
 from niros.models import (
     IcaroLanguage,
@@ -37,6 +42,7 @@ from niros.statements import (
 from niros.transcript import InputModality, Transcript
 
 __all__ = [
+    "BlueprintPhase",
     "EvidenceItem",
     "EvidenceSource",
     "EvidenceType",
@@ -48,6 +54,8 @@ __all__ = [
     "IcaroLanguage",
     "KnowledgePattern",
     "InputModality",
+    "InterviewDecision",
+    "InterviewDecisionEngine",
     "InterviewPhase",
     "InterviewState",
     "InvalidTransitionError",
