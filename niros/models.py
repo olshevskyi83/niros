@@ -14,6 +14,19 @@ class InterviewPhase(str, Enum):
     HANDOFF = "handoff"
 
 
+class SupportedLanguage(str, Enum):
+    ENGLISH = "en"
+    SPANISH = "es"
+    RUSSIAN = "ru"
+
+
+class IcaroLanguage(str, Enum):
+    SPANISH = "es"
+    QUECHUA = "qu"
+    SHIPIBO = "shipibo"
+    MAZATEC = "mazatec"
+
+
 class InterviewState(BaseModel):
     session_id: str
     state: InterviewPhase
@@ -23,3 +36,5 @@ class InterviewState(BaseModel):
     missing_fields: list[str] = Field(default_factory=list)
     risk_status: str | None = None
     next_question_id: str | None = None
+    input_language: SupportedLanguage | None = None
+    icaro_language: IcaroLanguage | None = None
