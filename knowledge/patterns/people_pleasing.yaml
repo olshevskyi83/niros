@@ -1,0 +1,65 @@
+canonical_id: people_pleasing
+name: People Pleasing
+domain: relationships
+definition: A persistent tendency to prioritize others' approval, comfort, or expectations over one's own needs, often driven by fear of disapproval, conflict, or loss of connection.
+behavioral_description: The person may over-accommodate, struggle to say no, monitor others' reactions closely, suppress preferences, apologize excessively, or take responsibility for others' emotions to maintain harmony and acceptance.
+positive_evidence:
+  - Difficulty refusing requests or setting limits.
+  - Strong guilt or anxiety when others seem displeased.
+  - Habit of agreeing to avoid tension or disappointment.
+  - Prioritizing others' comfort over own needs.
+  - Self-worth closely tied to being helpful, agreeable, or liked.
+  - Checking others' reactions before expressing an opinion.
+negative_evidence:
+  - Comfortable declining requests without excessive guilt.
+  - Regular expression of own preferences in close relationships.
+  - Stable self-worth despite others' disapproval or disappointment.
+  - Willingness to tolerate short-term discomfort to honor personal limits.
+typical_phrases:
+  en:
+    - I can't say no to people.
+    - I always try to make everyone happy.
+    - I put others before myself.
+    - I'm afraid of upsetting anyone.
+    - I worry about letting people down.
+  es:
+    - No puedo decir que no.
+    - Trato de complacer a todos.
+    - Pongo a los demás antes que a mí.
+    - Me cuesta decir lo que necesito.
+    - Me preocupa defraudar a los demás.
+  ru:
+    - Мне трудно отказывать людям.
+    - Я стараюсь всем угодить.
+    - Я ставлю других выше себя.
+    - Мне сложно говорить о своих потребностях.
+    - Я переживаю, что подведу других.
+follow_up_questions:
+  en:
+    - What usually happens for you when you worry someone might be upset with you?
+    - What makes it hard to say no or express what you need?
+    - What do you fear would happen if you stopped trying to please others?
+    - When was the last time you agreed to something you did not really want?
+  es:
+    - ¿Qué suele pasarte cuando temes que alguien pueda estar molesto contigo?
+    - ¿Qué hace difícil decir que no o expresar lo que necesitas?
+    - ¿Qué temes que pasaría si dejaras de tratar de complacer a los demás?
+    - ¿Cuándo fue la última vez que aceptaste algo que en realidad no querías?
+  ru:
+    - Что обычно происходит с вами, когда вы боитесь, что кто-то может быть на вас недоволен?
+    - Что мешает вам сказать «нет» или выразить свои потребности?
+    - Чего вы боитесь, если перестанете стараться всем угодить?
+    - Когда в последний раз вы согласились на то, чего на самом деле не хотели?
+related_patterns:
+  - fear_of_rejection
+  - fear_of_disappointing_others
+  - avoidance_conflict
+  - attachment_anxiety
+  - shame_sensitivity
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  explicit_limit_setting_difficulty: 0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding approval seeking, self-suppression, boundary difficulty, relational safety, and values-action mismatch in close relationships.
