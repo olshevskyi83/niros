@@ -1,5 +1,12 @@
 """NIROS Human Understanding Engine."""
 
+from niros.evidence import (
+    EvidenceItem,
+    EvidenceSource,
+    EvidenceType,
+    statement_to_evidence,
+    statements_to_evidence,
+)
 from niros.models import (
     IcaroLanguage,
     InterviewPhase,
@@ -15,6 +22,9 @@ from niros.statements import (
 from niros.transcript import InputModality, Transcript
 
 __all__ = [
+    "EvidenceItem",
+    "EvidenceSource",
+    "EvidenceType",
     "IcaroLanguage",
     "InputModality",
     "InterviewPhase",
@@ -27,4 +37,6 @@ __all__ = [
     "advance",
     "initial_state",
     "split_transcript_to_statements",
+    "statement_to_evidence",
+    "statements_to_evidence",
 ]
