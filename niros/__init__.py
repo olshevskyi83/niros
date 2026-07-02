@@ -21,6 +21,7 @@ from niros.patterns import (
     pattern_tag_evidence,
     pattern_tag_evidence_items,
 )
+from niros.questions import FollowUpQuestionSelector, select_follow_up_questions
 from niros.state_machine import InvalidTransitionError, advance, initial_state
 from niros.statements import (
     Statement,
@@ -33,6 +34,7 @@ __all__ = [
     "EvidenceItem",
     "EvidenceSource",
     "EvidenceType",
+    "FollowUpQuestionSelector",
     "Hypothesis",
     "HypothesisGenerator",
     "HypothesisType",
@@ -54,6 +56,7 @@ __all__ = [
     "initial_state",
     "pattern_tag_evidence",
     "pattern_tag_evidence_items",
+    "select_follow_up_questions",
     "split_transcript_to_statements",
     "statement_to_evidence",
     "statements_to_evidence",
