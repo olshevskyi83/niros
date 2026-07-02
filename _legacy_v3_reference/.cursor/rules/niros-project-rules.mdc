@@ -1,0 +1,44 @@
+---
+description: NIROS project rules
+globs: **/*
+alwaysApply: true
+---
+
+# NIROS Cursor Rules
+
+You are implementing NIROS — NeuroIcaro Research Operating System.
+
+Follow the Obsidian specification. Do not invent architecture.
+
+## Hard safety rules
+
+- Do not output psychedelic dosage advice.
+- Do not output substance preparation, brewing, extraction, synthesis, or recipe instructions.
+- Do not claim treatment or cure.
+- Safety Engine must run before Scenario Generator.
+- RED or BLACK safety reports must block normal session script generation.
+
+## Coding rules
+
+- Use Python type hints.
+- Prefer Pydantic models for data schemas.
+- Keep business logic out of Streamlit pages.
+- Keep modules small and testable.
+- Add tests for core logic.
+- Do not modify unrelated files.
+- If architecture is unclear, stop and ask.
+
+## Architecture rule
+
+Obsidian specification is the source of truth. Code follows docs.
+
+
+## v3 Rules
+
+- Treat `25_Research_Notes_Inbox/00_IDEA_INBOX.md` as the primary source for raw founder ideas.
+- Treat `00_INDEX.md` as the navigation map.
+- Treat the user's declared problem as a hypothesis until `confirmed_target` is produced.
+- Do not generate final session protocols before the declared problem confirmation loop.
+- Sensor data is context, not diagnosis.
+- Preserve raw voice transcript separately from structured extraction.
+- Every clinical or therapeutic claim must link to evidence notes or be marked speculative.

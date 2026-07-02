@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "home",
+      "type": "file",
+      "file": "00_HOME.md",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "profile",
+      "type": "file",
+      "file": "05_Profile_Engine/Profile Engine Overview.md",
+      "x": 400,
+      "y": -200,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "rag",
+      "type": "file",
+      "file": "04_Research_RAG/RAG System Overview.md",
+      "x": 400,
+      "y": 0,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "composer",
+      "type": "file",
+      "file": "11_NeuroIcaro_Composer/Composer Overview.md",
+      "x": 800,
+      "y": -100,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "session",
+      "type": "file",
+      "file": "13_Session_Engine/Session Protocol Overview.md",
+      "x": 1200,
+      "y": -100,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "outcomes",
+      "type": "file",
+      "file": "17_Clinical_Research/Clinical Research Overview.md",
+      "x": 1600,
+      "y": -100,
+      "width": 300,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "home",
+      "toNode": "profile"
+    },
+    {
+      "id": "e2",
+      "fromNode": "profile",
+      "toNode": "composer"
+    },
+    {
+      "id": "e3",
+      "fromNode": "rag",
+      "toNode": "composer"
+    },
+    {
+      "id": "e4",
+      "fromNode": "composer",
+      "toNode": "session"
+    },
+    {
+      "id": "e5",
+      "fromNode": "session",
+      "toNode": "outcomes"
+    }
+  ]
+}

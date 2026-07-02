@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "5d6e3b825e7f79f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7342c11db99f0958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed9937b221691a5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Нова вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02d824dc5865644f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "28f1981579c02ab9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловий менеджер"
+        }
+      },
+      {
+        "id": "265fa9f7bf85151a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Пошук"
+        }
+      },
+      {
+        "id": "b2ebb5787a778300",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Мітки"
+        }
+      },
+      {
+        "id": "3b400d1e039bcdc0",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Всі властивості"
+        }
+      },
+      {
+        "id": "d821bc60457327a1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "884a622dafd72ca0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a4b85d02acbc999d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "15_Research/psycology/Big_Five_Foundation.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Зворотні посилання"
+        }
+      },
+      {
+        "id": "c0c6397ca884939d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "08_Sensors/00_Sensors_Overview.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Вихідні посилання"
+        }
+      },
+      {
+        "id": "b82228dc50de47d6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "08_Sensors/00_Sensors_Overview.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Вміст"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false
+    }
+  },
+  "active": "28f1981579c02ab9",
+  "lastOpenFiles": [
+    "19_Inbox/00_Capture_Rules.md",
+    "20_Workbench/Sprint_003/04_Psychological_Profile_and_Reasoning_Engine.md",
+    "20_Workbench/Sprint_003/03_Module_Registry.md",
+    "20_Workbench/Sprint_003/02_Universal_Psychological_Signal_Model.md",
+    "20_Workbench/Sprint_003/01_NIROS_Core_System_Architecture.md",
+    "20_Workbench/Sprint_003/00_Sprint_003.md",
+    "16_Development/00_Development_Overview.md",
+    "00_NIROS_ROADMAP.md",
+    "15_Research/psycology/Big_Five_Foundation.md",
+    "20_Workbench/Sprint_002/00_Sprint_002.md",
+    "20_Workbench/Sprint_001/00_Sprint_001.md",
+    "17_Project_Management/00_Project_Management_Overview.md",
+    "13_UI_UX/01_Voice_Intake_UX.md",
+    "13_UI_UX/00_UI_UX_Overview.md",
+    "11_Validation/00_Validation_Overview.md",
+    "10_Safety_and_Ethics/00_Safety_Ethics_Overview.md",
+    "07_AI_Core/00_AI_Core_Overview.md",
+    "05_Therapeutic_Engine/02_Session_Planning.md",
+    "05_Therapeutic_Engine/01_Target_Selection.md",
+    "05_Therapeutic_Engine/00_Therapeutic_Engine_Overview.md",
+    "03_Knowledge_Base/02_Paper_Ingestion_Pipeline.md",
+    "19_Inbox/02_Research_To_Read.md",
+    "03_Knowledge_Base/01_RAG_Standards.md",
+    "03_Knowledge_Base/00_Knowledge_Base_Index.md",
+    "20_Workbench/Sprint_003/05_Conversation_and_Assessment_Pipeline.md",
+    "20_Workbench/Sprint_002/07_Big_Five_Code_Architecture.md",
+    "20_Workbench/Sprint_003",
+    "20_Workbench/Sprint_002",
+    "15_Research/psycology",
+    "Без назви"
+  ]
+}

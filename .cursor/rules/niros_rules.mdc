@@ -1,0 +1,34 @@
+---
+description: NIROS project philosophy — mission, priorities, and working principles for all agents
+alwaysApply: true
+---
+
+# NIROS Project Philosophy
+
+## Mission
+
+NIROS is a practical software system that helps understand a person well enough to support thoughtful, safe, personalized care pathways. It is not an academic research project. Build software that runs, can be tested, and can be reviewed by humans.
+
+## Current priority
+
+The **Human Understanding Engine** is the active focus. Other modules (Therapeutic Engine, Music Engine, sensors, voice, UI) wait until the HUE MVP is working or the user explicitly expands scope.
+
+## How we work
+
+- **MVP first.** Ship the smallest end-to-end slice that proves the idea, then iterate.
+- **Working code over perfect architecture.** Prefer a runnable implementation today over a grand design for tomorrow.
+- **Obsidian is the source of truth.** The vault defines what NIROS is and what we are building. Read it; do not reinvent it.
+- **Cursor is the implementation environment.** Code lives in the repo; the vault guides it. Do not move product truth into code comments or ad-hoc docs.
+- **Preserve the vault architecture.** Do not rename stable top-level modules or reorganize the vault without explicit approval.
+- **No unnecessary documentation.** Do not create docs, essays, or vault pages unless they directly unblock implementation.
+- **No unnecessary research.** Do not expand literature reviews, speculative design, or parallel explorations unless the user asks.
+
+## Quality principles
+
+- **Modular, testable code.** Small modules, clear boundaries, automated tests for behavior that matters.
+- **Explainable psychology.** Hypotheses, profiles, and recommendations must trace to evidence — not opaque labels or black-box judgments.
+- **Safety first.** Risk screening, consent, and human review are constraints on every flow — not features added later.
+
+## Agent team
+
+Use the NIROS subagents in `.cursor/agents/` for specialized work. This rule sets philosophy; agents and vault docs carry implementation detail.

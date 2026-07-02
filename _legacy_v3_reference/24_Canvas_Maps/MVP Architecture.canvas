@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "q",
+      "type": "text",
+      "text": "Questionnaire + Voice Interview",
+      "x": 0,
+      "y": 0,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "stt",
+      "type": "text",
+      "text": "Whisper / STT",
+      "x": 350,
+      "y": 0,
+      "width": 220,
+      "height": 100
+    },
+    {
+      "id": "profile",
+      "type": "text",
+      "text": "Profile JSON + Markdown",
+      "x": 700,
+      "y": 0,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "rag",
+      "type": "text",
+      "text": "RAG Evidence Check",
+      "x": 700,
+      "y": 180,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "script",
+      "type": "text",
+      "text": "Script Generator",
+      "x": 1050,
+      "y": 0,
+      "width": 240,
+      "height": 100
+    },
+    {
+      "id": "export",
+      "type": "text",
+      "text": "Export to Obsidian / Audio-ready text",
+      "x": 1400,
+      "y": 0,
+      "width": 280,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {
+      "id": "a",
+      "fromNode": "q",
+      "toNode": "stt"
+    },
+    {
+      "id": "b",
+      "fromNode": "stt",
+      "toNode": "profile"
+    },
+    {
+      "id": "c",
+      "fromNode": "profile",
+      "toNode": "script"
+    },
+    {
+      "id": "d",
+      "fromNode": "rag",
+      "toNode": "script"
+    },
+    {
+      "id": "e",
+      "fromNode": "script",
+      "toNode": "export"
+    }
+  ]
+}

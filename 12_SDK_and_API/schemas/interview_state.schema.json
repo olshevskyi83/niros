@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "InterviewState",
+  "type": "object",
+  "required": [
+    "session_id",
+    "state",
+    "completed_domains",
+    "current_hypotheses"
+  ],
+  "properties": {
+    "session_id": {
+      "type": "string"
+    },
+    "state": {
+      "enum": [
+        "consent",
+        "free_narrative",
+        "declared_problem",
+        "domain_screening",
+        "hypothesis_clarification",
+        "risk_screening",
+        "profile_generation",
+        "handoff"
+      ]
+    },
+    "turn_count": {
+      "type": "integer"
+    },
+    "completed_domains": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "missing_fields": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "current_hypotheses": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "risk_status": {
+      "type": "string"
+    },
+    "next_question_id": {
+      "type": "string"
+    }
+  }
+}
