@@ -102,7 +102,7 @@ def test_pattern_relationship_rejects_invalid_weight():
 def test_loader_still_loads_patterns_without_relationships():
     patterns = PatternLoader().load_all()
 
-    assert len(patterns) == 7
+    assert len(patterns) == 13
     fear_of_disappointing_others = next(
         pattern for pattern in patterns if pattern.canonical_id == "fear_of_disappointing_others"
     )
@@ -122,6 +122,27 @@ def test_new_relationship_patterns_load_successfully(canonical_id: str):
     pattern = PatternLoader().load(canonical_id)
 
     assert pattern.domain == "relationships"
+    assert "en" in pattern.typical_phrases
+    assert "es" in pattern.typical_phrases
+    assert "ru" in pattern.typical_phrases
+    assert len(pattern.relationships) >= 3
+
+
+@pytest.mark.parametrize(
+    "canonical_id",
+    [
+        "shame_sensitivity",
+        "harsh_self_criticism",
+        "perfectionism",
+        "low_self_efficacy",
+        "identity_uncertainty",
+        "self_worth_instability",
+    ],
+)
+def test_self_concept_patterns_load_successfully(canonical_id: str):
+    pattern = PatternLoader().load(canonical_id)
+
+    assert pattern.domain == "self_concept"
     assert "en" in pattern.typical_phrases
     assert "es" in pattern.typical_phrases
     assert "ru" in pattern.typical_phrases

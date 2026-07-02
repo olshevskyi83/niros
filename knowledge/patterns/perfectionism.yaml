@@ -1,0 +1,83 @@
+canonical_id: perfectionism
+name: Perfectionism
+domain: self_concept
+definition: A rigid pattern in which self-worth or safety feels tied to flawless performance, with intense fear of mistakes and difficulty accepting good-enough outcomes.
+behavioral_description: The person may delay starting tasks for fear of imperfect results, dismiss achievements quickly, hold impossible standards, struggle to rest after success, and treat small errors as evidence of personal defectiveness rather than ordinary human limits.
+positive_evidence:
+  - Fear of mistakes or imperfect performance.
+  - Standards that feel impossible to meet.
+  - Persistent sense of never being good enough.
+  - Achievements losing emotional value quickly.
+  - Strong self-criticism after small failures.
+  - Procrastination or avoidance due to fear of imperfect results.
+  - Difficulty resting after achievement.
+  - Mistakes interpreted as revealing personal defectiveness.
+negative_evidence:
+  - Able to start tasks without needing guaranteed perfection.
+  - Satisfaction or rest after meaningful achievement.
+  - Mistakes treated as learning rather than proof of defectiveness.
+  - Standards that are high but flexible and self-compassionate.
+typical_phrases:
+  en:
+    - I delay starting tasks because I am afraid the result will not be perfect.
+    - I put off starting because I am afraid it will not be perfect.
+    - Even small mistakes make me feel intensely ashamed.
+    - When I finish something, I quickly dismiss it and move on to what still needs improvement.
+    - I quickly dismiss my achievements and move on.
+    - No matter what I achieve, it never feels good enough.
+    - It never feels good enough no matter what I do.
+    - I cannot rest after achieving something because it never feels good enough.
+    - If I make one error, it feels like it reveals something defective about me.
+    - One mistake makes me feel like something is wrong with me.
+    - Nothing I do ever feels good enough.
+  es:
+    - Retrasso empezar tareas porque temo que el resultado no sea perfecto.
+    - Incluso los errores pequeños me hacen sentir vergüenza intensa.
+    - Cuando termino algo, lo descarto rápido y paso a lo que aún falta mejorar.
+    - No importa lo que logre, nunca se siente suficientemente bueno.
+    - No puedo descansar después de lograr algo porque nunca se siente suficiente.
+    - Si cometo un error, siento que revela algo defectuoso en mí.
+  ru:
+    - Я откладываю начало задач, потому что боюсь, что результат не будет идеальным.
+    - Даже мелкие ошибки вызывают у меня сильный стыд.
+    - Когда я что-то заканчиваю, быстро обесцениваю это и перехожу к тому, что ещё нужно улучшить.
+    - Что бы я ни достиг, этого всегда кажется недостаточно хорошим.
+    - Я не могу отдохнуть после достижения, потому что этого никогда не кажется достаточно.
+    - Если я допускаю ошибку, кажется, что это раскрывает во мне что-то деfectное.
+follow_up_questions:
+  en:
+    - What feels at risk for you when something is not perfect?
+    - What happens inside you right after you finish something well?
+    - What makes it hard to start when the outcome might be imperfect?
+    - When has a small mistake felt bigger than the situation itself?
+  es:
+    - ¿Qué sientes que está en riesgo cuando algo no es perfecto?
+    - ¿Qué pasa dentro de ti justo después de terminar algo bien?
+    - ¿Qué hace difícil empezar cuando el resultado podría ser imperfecto?
+    - ¿Cuándo un error pequeño se sintió más grande que la situación misma?
+  ru:
+    - Что для вас ощущается под угрозой, когда что-то не идеально?
+    - Что происходит внутри вас сразу после того, как вы что-то хорошо завершили?
+    - Что мешает начать, когда результат может оказаться несовершенным?
+    - Когда небольшая ошибка казалась больше, чем сама ситуация?
+related_patterns:
+  - harsh_self_criticism
+  - shame_sensitivity
+  - low_self_efficacy
+relationships:
+  - target_pattern: harsh_self_criticism
+    relation_type: often_coexists_with
+    weight: 0.84
+  - target_pattern: shame_sensitivity
+    relation_type: may_strengthen
+    weight: 0.79
+  - target_pattern: low_self_efficacy
+    relation_type: possible_consequence
+    weight: 0.71
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  flexible_standards_present: -0.15
+interview_priority: 8
+therapeutic_relevance: Important for understanding fear-based performance pressure, shame-linked standards, avoidance, and why achievement may not translate into stable self-worth.

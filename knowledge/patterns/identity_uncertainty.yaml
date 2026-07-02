@@ -1,0 +1,89 @@
+canonical_id: identity_uncertainty
+name: Identity Uncertainty
+domain: self_concept
+definition: A persistent lack of stable self-definition, in which the person struggles to know who they are, what they want, or what life direction fits them.
+behavioral_description: The person may shift self-image across contexts, change goals or preferences with the people around them, feel empty or undefined, borrow others' preferences to feel grounded, and struggle to make choices because identity feels unclear.
+positive_evidence:
+  - Not knowing who they really are.
+  - Self-image changing depending on context or other people.
+  - Difficulty knowing what they want.
+  - Unstable goals or life direction.
+  - Feeling empty or undefined.
+  - Copying others' preferences to feel grounded.
+  - Difficulty making choices because identity feels unclear.
+  - Feeling disconnected from personal values.
+  - Frequent doubt about the real self.
+negative_evidence:
+  - Stable sense of self across contexts.
+  - Clear enough values to guide decisions.
+  - Goals that persist despite social influence.
+  - Open exploration without chronic emptiness or confusion.
+typical_phrases:
+  en:
+    - I do not really know who I am.
+    - I do not know who I really am.
+    - My opinions and goals change depending on who I am around.
+    - I struggle to know what I truly want.
+    - I do not know what I truly want.
+    - My life direction seems to change all the time.
+    - My goals and life direction keep changing.
+    - I often copy other people's preferences just to feel grounded.
+    - I copy other people's preferences to feel grounded.
+    - I feel disconnected from my own values.
+    - I feel empty or undefined inside.
+    - I often doubt who the real me is.
+    - I do not have a stable sense of who I am.
+  es:
+    - Realmente no sé quién soy.
+    - Mis opiniones y metas cambian según las personas que me rodean.
+    - Me cuesta saber lo que realmente quiero.
+    - Mi dirección en la vida parece cambiar todo el tiempo.
+    - A menudo copio las preferencias de otras personas solo para sentirme con los pies en la tierra.
+    - Me siento desconectado de mis propios valores.
+    - A menudo dudo de quién es el yo real.
+  ru:
+    - Я действительно не знаю, кто я.
+    - Мои мнения и цели меняются в зависимости от окружающих людей.
+    - Мне трудно понять, чего я на самом деле хочу.
+    - Направление моей жизни, кажется, постоянно меняется.
+    - Я часто копирую предпочтения других людей, чтобы почувствовать опору.
+    - Я чувствую оторванность от собственных ценностей.
+    - Я часто сомневаюсь, кто такой настоящий я.
+follow_up_questions:
+  en:
+    - When do you feel most unclear about who you are?
+    - What shifts for you depending on who you are around?
+    - What would feel like your own preference, not borrowed from someone else?
+    - When has a choice felt hard because identity felt undefined?
+  es:
+    - ¿Cuándo te sientes más inseguro sobre quién eres?
+    - ¿Qué cambia en ti según las personas que te rodean?
+    - ¿Qué se sentiría como una preferencia propia, no tomada de otra persona?
+    - ¿Cuándo una decisión fue difícil porque tu identidad se sentía indefinida?
+  ru:
+    - Когда вы чувствуете себя наиболее неуверенно в том, кто вы?
+    - Что меняется в вас в зависимости от окружающих людей?
+    - Что ощущалось бы как ваше собственное предпочтение, а не заимствованное?
+    - Когда выбор был трудным, потому что идентичность казалась неопределённой?
+related_patterns:
+  - low_self_efficacy
+  - shame_sensitivity
+  - people_pleasing
+  - self_worth_instability
+relationships:
+  - target_pattern: low_self_efficacy
+    relation_type: often_coexists_with
+    weight: 0.77
+  - target_pattern: shame_sensitivity
+    relation_type: may_strengthen
+    weight: 0.72
+  - target_pattern: people_pleasing
+    relation_type: often_coexists_with
+    weight: 0.74
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  stable_self_definition_present: -0.15
+interview_priority: 8
+therapeutic_relevance: Important for understanding unstable self-definition, borrowed preferences, values disconnection, and how identity confusion affects decisions and life direction.

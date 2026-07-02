@@ -1,0 +1,72 @@
+canonical_id: shame_sensitivity
+name: Shame Sensitivity
+domain: self_concept
+definition: A tendency to experience intense shame, embarrassment, or self-consciousness in response to perceived flaws, mistakes, or social exposure, often with a wish to hide or withdraw.
+behavioral_description: The person may feel like a failure after errors, replay embarrassing moments, want to disappear when they think they have disappointed others, or feel exposed when personal weaknesses are visible.
+positive_evidence:
+  - Strong shame after mistakes or perceived failures.
+  - Embarrassment even when no one is watching.
+  - Wish to hide or withdraw after social missteps.
+  - Feeling exposed when flaws or limits are seen.
+  - Collapse of self-trust after setbacks.
+negative_evidence:
+  - Able to acknowledge mistakes without global self-condemnation.
+  - Recovery of self-regard after embarrassment passes.
+  - Willingness to stay visible after imperfection is revealed.
+typical_phrases:
+  en:
+    - When I make a mistake, I feel like a failure.
+    - I often feel embarrassed even when no one is watching.
+    - Sometimes I want to disappear when I think I have let someone down.
+    - I feel exposed when someone sees my flaws.
+    - Shame hits me hard when I think I did something wrong.
+    - I want to hide when I feel I have failed.
+  es:
+    - Cuando cometo un error, siento que soy un fracaso.
+    - A menudo me siento avergonzado incluso cuando nadie me mira.
+    - A veces quiero desaparecer cuando creo que he defraudado a alguien.
+    - Me siento expuesto cuando alguien ve mis defectos.
+    - La vergüenza me golpea fuerte cuando creo que hice algo mal.
+  ru:
+    - Когда я совершаю ошибку, я чувствую себя неудачником.
+    - Я часто чувствую смущение, даже когда никто не смотрит.
+    - Иногда мне хочется исчезнуть, когда кажется, что я кого-то подвёл.
+    - Я чувствую себя уязвимым, когда кто-то видит мои недостатки.
+    - Стыд сильно бьёт по мне, когда кажется, что я сделал что-то не так.
+follow_up_questions:
+  en:
+    - What happens inside you when shame shows up?
+    - What do you fear others would think if they saw this part of you?
+    - When was the last time embarrassment made you want to withdraw?
+    - What helps you recover after you feel you have failed?
+  es:
+    - ¿Qué pasa dentro de ti cuando aparece la vergüenza?
+    - ¿Qué temes que otros pensarían si vieran esta parte de ti?
+    - ¿Cuándo fue la última vez que la vergüenza te hizo querer retirarte?
+    - ¿Qué te ayuda a recuperarte después de sentir que has fallado?
+  ru:
+    - Что происходит внутри вас, когда появляется стыд?
+    - Чего вы боитесь, что подумают другие, если увидят эту часть вас?
+    - Когда в последний раз смущение заставляло вас хотеть отступить?
+    - Что помогает вам восстановиться после ощущения, что вы потерпели неудачу?
+related_patterns:
+  - harsh_self_criticism
+  - fear_of_rejection
+  - people_pleasing
+relationships:
+  - target_pattern: harsh_self_criticism
+    relation_type: often_coexists_with
+    weight: 0.83
+  - target_pattern: fear_of_rejection
+    relation_type: may_strengthen
+    weight: 0.74
+  - target_pattern: people_pleasing
+    relation_type: often_coexists_with
+    weight: 0.71
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  recovery_after_setback: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding self-worth collapse, withdrawal, exposure fears, and how setbacks affect identity and relational behavior.

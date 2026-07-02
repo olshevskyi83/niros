@@ -136,3 +136,127 @@ def test_human_case_003_boundary_difficulty():
 
     assert decision.selected_question
     assert decision.reason
+
+
+def test_human_case_004_trust_difficulty():
+    case_path = TEST_CASES_DIR / "004_trust_difficulty.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-004",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_005_shame_self_criticism():
+    case_path = TEST_CASES_DIR / "005_shame_self_criticism.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-005",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_006_perfectionism():
+    case_path = TEST_CASES_DIR / "006_perfectionism.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-006",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_007_low_self_efficacy():
+    case_path = TEST_CASES_DIR / "007_low_self_efficacy.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-007",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_008_identity_uncertainty():
+    case_path = TEST_CASES_DIR / "008_identity_uncertainty.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-008",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_009_self_worth_instability():
+    case_path = TEST_CASES_DIR / "009_self_worth_instability.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-009",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_010_self_domain_integrated():
+    case_path = TEST_CASES_DIR / "010_self_domain_integrated.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-010",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    match_counts: dict[str, int] = {}
+    for tag in pattern_tags:
+        match_counts[tag.canonical_id] = match_counts.get(tag.canonical_id, 0) + 1
+
+    assert match_counts["self_worth_instability"] == max(match_counts.values())
+    secondary_detected = sum(
+        1
+        for pattern_id in expected_patterns
+        if pattern_id != "self_worth_instability" and pattern_id in canonical_ids
+    )
+    assert secondary_detected >= 3
+
+    assert decision.selected_question
+    assert decision.reason

@@ -1,0 +1,87 @@
+canonical_id: low_self_efficacy
+name: Low Self-Efficacy
+domain: self_concept
+definition: A persistent doubt in one's ability to influence outcomes through personal action, marked by hesitancy, quick surrender after setbacks, and discounting of past successes.
+behavioral_description: The person may avoid action because failure feels likely, give up quickly after setbacks, attribute success to luck or others, seek excessive reassurance, defer decisions to others, and feel powerless to change personal situations through their own efforts.
+positive_evidence:
+  - Belief that one probably cannot succeed at a task.
+  - Avoidance of action because failure feels likely.
+  - Giving up quickly after small setbacks.
+  - Need for excessive reassurance before acting.
+  - Feeling powerless to change personal situations.
+  - Discounting past successes as luck or external help.
+  - Expecting others to be more capable.
+  - Difficulty trusting own decisions.
+negative_evidence:
+  - Willingness to attempt meaningful action despite uncertainty.
+  - Persistence after setbacks until a reasonable effort is made.
+  - Crediting past successes to one's own effort or skill.
+  - Confidence in own judgment when making decisions.
+typical_phrases:
+  en:
+    - I hesitate to apply for opportunities because I assume I will fail.
+    - I probably cannot do this.
+    - I give up quickly when I hit a small setback.
+    - When something goes well, I usually think it was luck or help from someone else.
+    - I often ask other people to decide for me because I do not trust my own judgment.
+    - I do not trust my own judgment.
+    - I feel powerless to change my situation through my own actions.
+    - I feel powerless when I try to influence what happens in my life.
+    - I probably cannot change my situation on my own.
+    - I avoid trying because failure feels likely.
+    - I need a lot of reassurance before I act.
+    - Other people seem more capable than I am.
+  es:
+    - Dudo en postularme a oportunidades porque asumo que fallaré.
+    - Probablemente no puedo hacer esto.
+    - Me rindo rápido cuando encuentro un pequeño contratiempo.
+    - Cuando algo sale bien, suelo pensar que fue suerte o ayuda de otra persona.
+    - A menudo pido a otras personas que decidan por mí porque no confío en mi propio juicio.
+    - Me siento impotente para cambiar mi situación con mis propias acciones.
+    - Evito intentarlo porque siento que es probable que falle.
+  ru:
+    - Я колеблюсь подавать заявки на возможности, потому что предполагаю, что потерплю неудачу.
+    - Я, вероятно, не смогу это сделать.
+    - Я быстро сдаюсь, когда сталкиваюсь с небольшой неудачей.
+    - Когда что-то идёт хорошо, я обычно думаю, что это была удача или помощь других.
+    - Я часто прошу других решать за меня, потому что не доверяю собственному суждению.
+    - Я чувствую себя беспомощным, когда пытаюсь изменить свою ситуацию своими действиями.
+    - Я избегаю попыток, потому что кажется, что неудача вероятна.
+follow_up_questions:
+  en:
+    - What makes you doubt your ability to influence this situation?
+    - What usually happens after a small setback for you?
+    - When something goes well, how do you explain it to yourself?
+    - What would help you trust your own judgment a little more?
+  es:
+    - ¿Qué te hace dudar de tu capacidad para influir en esta situación?
+    - ¿Qué suele pasarte después de un pequeño contratiempo?
+    - Cuando algo sale bien, ¿cómo te lo explicas a ti mismo?
+    - ¿Qué te ayudaría a confiar un poco más en tu propio juicio?
+  ru:
+    - Что заставляет вас сомневаться в своей способности повлиять на эту ситуацию?
+    - Что обычно происходит с вами после небольшой неудачи?
+    - Когда что-то идёт хорошо, как вы объясняете это себе?
+    - Что помогло бы вам чуть больше доверять собственному суждению?
+related_patterns:
+  - perfectionism
+  - harsh_self_criticism
+  - shame_sensitivity
+  - identity_uncertainty
+relationships:
+  - target_pattern: perfectionism
+    relation_type: often_coexists_with
+    weight: 0.78
+  - target_pattern: harsh_self_criticism
+    relation_type: may_strengthen
+    weight: 0.75
+  - target_pattern: shame_sensitivity
+    relation_type: may_strengthen
+    weight: 0.70
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  successful_self_directed_action: -0.15
+interview_priority: 8
+therapeutic_relevance: Important for understanding perceived agency, action avoidance, learned helplessness patterns, and the gap between capability and confidence in personal change.

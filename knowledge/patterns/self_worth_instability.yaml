@@ -1,0 +1,92 @@
+canonical_id: self_worth_instability
+name: Self-Worth Instability
+domain: self_concept
+definition: A pattern in which the person's sense of value rises or collapses in response to external signals such as praise, criticism, achievement, rejection, approval, or comparison.
+behavioral_description: The person may feel valuable only after success or approval, feel worthless after criticism or rejection, depend on validation to feel okay, compare themselves to others to gauge worth, and experience sharp shifts in self-view based on feedback.
+positive_evidence:
+  - Feeling valuable only after success or approval.
+  - Feeling worthless after criticism or rejection.
+  - Mood and self-view changing strongly based on feedback.
+  - Comparing self to others to decide personal value.
+  - Needing external validation to feel okay.
+  - Achievement temporarily increasing self-worth.
+  - Small failures causing collapse in self-worth.
+  - Uncertainty about being good enough as a person.
+negative_evidence:
+  - Stable self-worth across praise and criticism.
+  - Self-value not collapsing after ordinary setbacks.
+  - Internal sense of worth independent of recent feedback.
+  - Comparison with others without global self-devaluation.
+typical_phrases:
+  en:
+    - When someone praises me, I suddenly feel good about myself.
+    - After criticism, I quickly feel worthless.
+    - I track my value through how others react to me.
+    - I am not sure whether I am good enough as a person.
+    - A small failure can make my self-worth collapse.
+    - When I achieve something, I feel valuable for a while.
+    - I need approval to feel okay about myself.
+    - Comparing myself to others decides how valuable I feel.
+    - My sense of worth rises and falls depending on feedback.
+    - I feel worthless after rejection.
+  es:
+    - Cuando alguien me elogia, de repente me siento bien conmigo mismo.
+    - Después de una crítica, rápidamente me siento sin valor.
+    - Mido mi valor a través de cómo reaccionan los demás hacia mí.
+    - No estoy seguro de si soy lo suficientemente bueno como persona.
+    - Un pequeño fracaso puede hacer que mi autoestima se derrumbe.
+    - Cuando logro algo, me siento valioso por un tiempo.
+    - Necesito aprobación para sentirme bien conmigo mismo.
+  ru:
+    - Когда меня хвалят, я внезапно начинаю хорошо относиться к себе.
+    - После критики я быстро чувствую себя никчёмным.
+    - Я оцениваю свою ценность по тому, как на меня реагируют другие.
+    - Я не уверен, достаточно ли я хорош как человек.
+    - Небольшая неудача может обрушить мою самоценность.
+    - Когда я чего-то достигаю, некоторое время чувствую себя ценным.
+    - Мне нужно одобрение, чтобы чувствовать себя в порядке.
+follow_up_questions:
+  en:
+    - What most strongly changes how valuable you feel as a person?
+    - What happens to your self-view after praise or criticism?
+    - When has a small setback felt like it changed your whole worth?
+    - What helps your sense of value feel more steady, even briefly?
+  es:
+    - ¿Qué cambia con más fuerza lo valioso que te sientes como persona?
+    - ¿Qué le pasa a tu autoimagen después de un elogio o una crítica?
+    - ¿Cuándo un pequeño contratiempo se sintió como si cambiara todo tu valor?
+    - ¿Qué ayuda a que tu sentido de valor se sienta más estable, aunque sea por poco tiempo?
+  ru:
+    - Что сильнее всего меняет ощущение вашей ценности как человека?
+    - Что происходит с вашим образом себя после похвалы или критики?
+    - Когда небольшая неудача казалась изменившей всю вашу ценность?
+    - Что помогает вашему чувству ценности быть более устойчивым, пусть даже ненадолго?
+related_patterns:
+  - shame_sensitivity
+  - harsh_self_criticism
+  - perfectionism
+  - identity_uncertainty
+  - low_self_efficacy
+relationships:
+  - target_pattern: shame_sensitivity
+    relation_type: often_coexists_with
+    weight: 0.81
+  - target_pattern: harsh_self_criticism
+    relation_type: may_strengthen
+    weight: 0.76
+  - target_pattern: perfectionism
+    relation_type: often_coexists_with
+    weight: 0.74
+  - target_pattern: identity_uncertainty
+    relation_type: often_coexists_with
+    weight: 0.73
+  - target_pattern: low_self_efficacy
+    relation_type: may_strengthen
+    weight: 0.70
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  stable_self_worth_present: -0.15
+interview_priority: 8
+therapeutic_relevance: Important for understanding externally reactive self-value, validation dependence, and how praise, criticism, and comparison shape mood and identity.

@@ -1,0 +1,73 @@
+canonical_id: harsh_self_criticism
+name: Harsh Self-Criticism
+domain: self_concept
+definition: A persistent pattern of harsh, punitive, or relentlessly critical self-evaluation, often far stricter than the standards applied to others.
+behavioral_description: The person may replay mistakes repeatedly, berate themselves for small errors, use a critical inner voice, or hold themselves to standards they would not impose on a friend.
+positive_evidence:
+  - Repetitive mental review of what went wrong.
+  - Self-talk that is punitive or demeaning.
+  - Difficulty accepting imperfection in oneself.
+  - Holding oneself to unrealistically high standards.
+  - Inner voice harsher than treatment of others.
+negative_evidence:
+  - Balanced self-evaluation after mistakes.
+  - Ability to learn from errors without self-attack.
+  - Self-compassion comparable to compassion for others.
+typical_phrases:
+  en:
+    - I replay what I did wrong over and over in my head.
+    - I am harsh with myself in ways I would never be with a friend.
+    - My inner voice is very critical.
+    - I beat myself up over small mistakes.
+    - I tell myself I should have done better.
+    - I cannot stop criticizing myself after I mess up.
+    - I am harsh with myself for assuming I will fail before I even try.
+  es:
+    - Repaso una y otra vez en mi cabeza lo que hice mal.
+    - Soy duro conmigo mismo de formas en las que nunca lo sería con un amigo.
+    - Mi voz interior es muy crítica.
+    - Me castigo por pequeños errores.
+    - Me digo a mí mismo que debería haber hecho mejor.
+  ru:
+    - Я снова и снова прокручиваю в голове, что сделал не так.
+    - Я жесток к себе так, как никогда не был бы к другу.
+    - Мой внутренний голос очень критичен.
+    - Я наказываю себя за мелкие ошибки.
+    - Я говорю себе, что должен был сделать лучше.
+follow_up_questions:
+  en:
+    - What does your inner voice usually say when something goes wrong?
+    - How would you talk to a friend in the same situation?
+    - What makes it hard to be kinder to yourself?
+    - When does self-criticism feel most intense for you?
+  es:
+    - ¿Qué suele decir tu voz interior cuando algo sale mal?
+    - ¿Cómo hablarías con un amigo en la misma situación?
+    - ¿Qué hace difícil ser más amable contigo mismo?
+    - ¿Cuándo se siente más intensa la autocrítica para ti?
+  ru:
+    - Что обычно говорит ваш внутренний голос, когда что-то идёт не так?
+    - Как бы вы поговорили с другом в такой же ситуации?
+    - Что мешает вам быть добрее к себе?
+    - Когда самокритика ощущается для вас наиболее сильной?
+related_patterns:
+  - shame_sensitivity
+  - fear_of_rejection
+  - fear_of_disappointing_others
+relationships:
+  - target_pattern: shame_sensitivity
+    relation_type: often_coexists_with
+    weight: 0.83
+  - target_pattern: fear_of_rejection
+    relation_type: may_strengthen
+    weight: 0.72
+  - target_pattern: fear_of_disappointing_others
+    relation_type: often_coexists_with
+    weight: 0.77
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  self_compassion_present: -0.15
+interview_priority: 8
+therapeutic_relevance: Important for understanding inner criticism, perfectionistic pressure, self-worth, and the gap between how the person treats themselves and others.
