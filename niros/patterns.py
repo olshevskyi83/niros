@@ -1,22 +1,8 @@
 from pydantic import BaseModel
 
 from niros.evidence import EvidenceItem
+from niros.knowledge import KnowledgePattern, PatternLoader
 from niros.models import SupportedLanguage
-
-PATTERN_RULES: dict[SupportedLanguage, list[tuple[str, str]]] = {
-    SupportedLanguage.ENGLISH: [
-        ("avoid conflict", "avoidance_conflict"),
-        ("afraid of disappointing people", "fear_of_disappointing_others"),
-    ],
-    SupportedLanguage.SPANISH: [
-        ("evito el conflicto", "avoidance_conflict"),
-        ("miedo a decepcionar", "fear_of_disappointing_others"),
-    ],
-    SupportedLanguage.RUSSIAN: [
-        ("избегаю конфликт", "avoidance_conflict"),
-        ("боюсь разочаровать", "fear_of_disappointing_others"),
-    ],
-}
 
 
 class PatternTag(BaseModel):
@@ -42,28 +28,56 @@ def pattern_tag_evidence_items(evidence_items: list[EvidenceItem]) -> list[Patte
 
 
 class PatternTagger:
+    def __init__(self, loader: PatternLoader | None = None) -> None:
+        self.loader = loader or PatternLoader()
+        self._patterns: list[KnowledgePattern] | None = None
+
     def tag(self, evidence: EvidenceItem) -> list[PatternTag]:
-        rules = PATTERN_RULES.get(evidence.language, [])
+        phrases = _phrases_for_language(evidence.language)
+        if phrases is None:
+            return []
+
         lowered_text = evidence.raw_text.lower()
         tags: list[PatternTag] = []
 
-        for pattern, canonical_id in rules:
-            if pattern not in lowered_text:
+        for pattern in self._load_patterns():
+            language_phrases = pattern.typical_phrases.get(phrases)
+            if not language_phrases:
+                continue
+
+            matched_phrase = _first_matching_phrase(language_phrases, lowered_text)
+            if matched_phrase is None:
                 continue
 
             tags.append(
                 PatternTag(
-                    id=_pattern_tag_id(evidence, canonical_id, len(tags)),
+                    id=_pattern_tag_id(evidence, pattern.canonical_id, len(tags)),
                     session_id=evidence.session_id,
                     evidence_id=evidence.id,
-                    canonical_id=canonical_id,
-                    matched_text=pattern,
+                    canonical_id=pattern.canonical_id,
+                    matched_text=matched_phrase,
                     confidence=1.0,
                     language=evidence.language,
                 )
             )
 
         return tags
+
+    def _load_patterns(self) -> list[KnowledgePattern]:
+        if self._patterns is None:
+            self._patterns = self.loader.load_all()
+        return self._patterns
+
+
+def _phrases_for_language(language: SupportedLanguage) -> str | None:
+    return language.value
+
+
+def _first_matching_phrase(phrases: list[str], lowered_text: str) -> str | None:
+    for phrase in phrases:
+        if phrase.lower() in lowered_text:
+            return phrase
+    return None
 
 
 def _pattern_tag_id(evidence: EvidenceItem, canonical_id: str, index: int) -> str:

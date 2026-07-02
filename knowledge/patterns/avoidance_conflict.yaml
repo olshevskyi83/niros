@@ -1,0 +1,29 @@
+canonical_id: avoidance_conflict
+name: Avoidance of Conflict
+domain: relationships
+definition: Tendency to avoid disagreement, tension, or direct confrontation.
+behavioral_description: The person may withdraw, comply, or stay silent to prevent conflict.
+positive_evidence:
+  - Avoiding disagreement even when important.
+negative_evidence:
+  - Comfortable addressing disagreement directly.
+typical_phrases:
+  en:
+    - avoid conflict
+  es:
+    - evito el conflicto
+  ru:
+    - избегаю конфликт
+follow_up_questions:
+  en:
+    - What happens for you when conflict appears?
+  es:
+    - ¿Qué te pasa cuando aparece un conflicto?
+  ru:
+    - Что вы чувствуете, когда возникает конфликт?
+related_patterns:
+  - people_pleasing
+confidence_rules:
+  repeated_evidence: 0.15
+interview_priority: 7
+therapeutic_relevance: Useful for understanding conflict avoidance and relational safety.

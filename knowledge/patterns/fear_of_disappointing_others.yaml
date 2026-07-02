@@ -1,0 +1,29 @@
+canonical_id: fear_of_disappointing_others
+name: Fear of Disappointing Others
+domain: relationships
+definition: Concern about failing to meet others' expectations or letting people down.
+behavioral_description: The person may over-accommodate, hide needs, or seek approval to avoid disappointing others.
+positive_evidence:
+  - Worry about letting others down.
+negative_evidence:
+  - Comfortable setting limits despite others' reactions.
+typical_phrases:
+  en:
+    - afraid of disappointing people
+  es:
+    - miedo a decepcionar
+  ru:
+    - боюсь разочаровать
+follow_up_questions:
+  en:
+    - What do you fear would happen if you disappointed someone?
+  es:
+    - ¿Qué temes que pase si decepcionas a alguien?
+  ru:
+    - Чего вы боитесь, если разочаруете кого-то?
+related_patterns:
+  - people_pleasing
+confidence_rules:
+  repeated_evidence: 0.15
+interview_priority: 7
+therapeutic_relevance: Useful for understanding approval seeking and self-suppression.
