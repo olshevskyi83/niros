@@ -2,15 +2,17 @@
 
 from niros.models import (
     IcaroLanguage,
-    InputModality,
     InterviewPhase,
     InterviewState,
-    Statement,
     SupportedLanguage,
-    Transcript,
 )
 from niros.state_machine import InvalidTransitionError, advance, initial_state
-from niros.text_input import UnsupportedModalityError, extract_statements
+from niros.statements import (
+    Statement,
+    UnsupportedModalityError,
+    split_transcript_to_statements,
+)
+from niros.transcript import InputModality, Transcript
 
 __all__ = [
     "IcaroLanguage",
@@ -23,6 +25,6 @@ __all__ = [
     "Transcript",
     "UnsupportedModalityError",
     "advance",
-    "extract_statements",
     "initial_state",
+    "split_transcript_to_statements",
 ]

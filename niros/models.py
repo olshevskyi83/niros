@@ -27,11 +27,6 @@ class IcaroLanguage(str, Enum):
     MAZATEC = "mazatec"
 
 
-class InputModality(str, Enum):
-    TEXT = "text"
-    VOICE = "voice"
-
-
 class InterviewState(BaseModel):
     session_id: str
     state: InterviewPhase
@@ -43,20 +38,3 @@ class InterviewState(BaseModel):
     next_question_id: str | None = None
     input_language: SupportedLanguage | None = None
     icaro_language: IcaroLanguage | None = None
-
-
-class Transcript(BaseModel):
-    session_id: str
-    raw_text: str
-    input_modality: InputModality = InputModality.TEXT
-    language: SupportedLanguage
-    audio_ref: str | None = None
-    voice_features: dict | None = None
-
-
-class Statement(BaseModel):
-    session_id: str
-    text: str
-    sequence: int
-    language: SupportedLanguage
-    input_modality: InputModality = InputModality.TEXT
