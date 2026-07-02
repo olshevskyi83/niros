@@ -45,3 +45,24 @@ def test_whitespace_is_trimmed():
     question = "  Tell me a little about yourself.  "
 
     assert localize_question(question, language="en") == "Tell me a little about yourself."
+
+
+def test_ukrainian_fallback_question():
+    assert (
+        localize_question("Tell me what brought you here today.", language="uk")
+        == "Розкажіть, що привело вас сюди сьогодні."
+    )
+
+
+def test_russian_fallback_question():
+    assert (
+        localize_question("Tell me what brought you here today.", language="ru")
+        == "Расскажите, что привело вас сюда сегодня."
+    )
+
+
+def test_spanish_fallback_question():
+    assert (
+        localize_question("Tell me what brought you here today.", language="es")
+        == "Cuéntame qué te trajo aquí hoy."
+    )

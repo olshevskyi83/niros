@@ -18,6 +18,11 @@ QUESTION_TRANSLATIONS: dict[str, dict[str, str]] = {
         "ru": "Что именно заставляет вас чувствовать, что вы, скорее всего, не сможете это сделать?",
         "es": "¿Qué te hace sentir que probablemente no podrás hacerlo?",
     },
+    "Tell me what brought you here today.": {
+        "uk": "Розкажіть, що привело вас сюди сьогодні.",
+        "ru": "Расскажите, что привело вас сюда сегодня.",
+        "es": "Cuéntame qué te trajo aquí hoy.",
+    },
 }
 
 
