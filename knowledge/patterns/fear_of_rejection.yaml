@@ -43,6 +43,19 @@ related_patterns:
   - attachment_anxiety
   - shame_sensitivity
   - conflict_avoidance
+relationships:
+  - target_pattern: people_pleasing
+    relation_type: often_leads_to
+    weight: 0.82
+  - target_pattern: attachment_anxiety
+    relation_type: possible_cause
+    weight: 0.71
+  - target_pattern: avoidance_conflict
+    relation_type: often_coexists_with
+    weight: 0.68
+  - target_pattern: shame_sensitivity
+    relation_type: may_strengthen
+    weight: 0.74
 confidence_rules:
   repeated_evidence: 0.15
   contradiction_present: -0.25

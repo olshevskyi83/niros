@@ -1,9 +1,25 @@
+from enum import Enum
 from pathlib import Path
 
 import yaml
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 DEFAULT_PATTERNS_DIR = Path(__file__).resolve().parent.parent / "knowledge" / "patterns"
+
+
+class PatternRelationType(str, Enum):
+    OFTEN_LEADS_TO = "often_leads_to"
+    OFTEN_COEXISTS_WITH = "often_coexists_with"
+    POSSIBLE_CAUSE = "possible_cause"
+    POSSIBLE_CONSEQUENCE = "possible_consequence"
+    MAY_STRENGTHEN = "may_strengthen"
+    MAY_REDUCE = "may_reduce"
+
+
+class PatternRelationship(BaseModel):
+    target_pattern: str
+    relation_type: PatternRelationType
+    weight: float = Field(ge=0.0, le=1.0)
 
 
 class KnowledgePattern(BaseModel):
@@ -17,6 +33,7 @@ class KnowledgePattern(BaseModel):
     typical_phrases: dict[str, list[str]]
     follow_up_questions: dict[str, list[str]]
     related_patterns: list[str]
+    relationships: list[PatternRelationship] = Field(default_factory=list)
     confidence_rules: dict[str, float]
     interview_priority: int
     therapeutic_relevance: str

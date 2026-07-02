@@ -56,6 +56,22 @@ related_patterns:
   - avoidance_conflict
   - attachment_anxiety
   - shame_sensitivity
+relationships:
+  - target_pattern: fear_of_rejection
+    relation_type: possible_consequence
+    weight: 0.79
+  - target_pattern: fear_of_rejection
+    relation_type: may_strengthen
+    weight: 0.76
+  - target_pattern: avoidance_conflict
+    relation_type: often_coexists_with
+    weight: 0.81
+  - target_pattern: fear_of_disappointing_others
+    relation_type: often_coexists_with
+    weight: 0.84
+  - target_pattern: attachment_anxiety
+    relation_type: possible_cause
+    weight: 0.69
 confidence_rules:
   repeated_evidence: 0.15
   contradiction_present: -0.25

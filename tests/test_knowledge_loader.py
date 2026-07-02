@@ -1,8 +1,15 @@
 from pathlib import Path
 
 import pytest
+from pydantic import ValidationError
 
-from niros.knowledge import DEFAULT_PATTERNS_DIR, KnowledgePattern, PatternLoader
+from niros.knowledge import (
+    DEFAULT_PATTERNS_DIR,
+    KnowledgePattern,
+    PatternLoader,
+    PatternRelationship,
+    PatternRelationType,
+)
 
 
 def test_fear_of_rejection_loads_successfully():
@@ -48,3 +55,56 @@ def test_missing_pattern_raises_file_not_found_error(tmp_path: Path):
 
 def test_default_patterns_dir_points_to_project_patterns():
     assert DEFAULT_PATTERNS_DIR == Path(__file__).resolve().parent.parent / "knowledge" / "patterns"
+
+
+def test_fear_of_rejection_relationships_load_correctly():
+    pattern = PatternLoader().load("fear_of_rejection")
+
+    assert len(pattern.relationships) == 4
+    people_pleasing_link = next(
+        relationship
+        for relationship in pattern.relationships
+        if relationship.target_pattern == "people_pleasing"
+    )
+    assert people_pleasing_link.relation_type == PatternRelationType.OFTEN_LEADS_TO
+    assert people_pleasing_link.weight == 0.82
+
+
+def test_people_pleasing_relationships_load_correctly():
+    pattern = PatternLoader().load("people_pleasing")
+
+    assert len(pattern.relationships) == 5
+    assert any(
+        relationship.target_pattern == "avoidance_conflict"
+        and relationship.relation_type == PatternRelationType.OFTEN_COEXISTS_WITH
+        for relationship in pattern.relationships
+    )
+
+
+def test_pattern_relationship_rejects_invalid_relation_type():
+    with pytest.raises(ValidationError):
+        PatternRelationship(
+            target_pattern="people_pleasing",
+            relation_type="invalid_relation",
+            weight=0.5,
+        )
+
+
+def test_pattern_relationship_rejects_invalid_weight():
+    with pytest.raises(ValidationError):
+        PatternRelationship(
+            target_pattern="people_pleasing",
+            relation_type=PatternRelationType.OFTEN_LEADS_TO,
+            weight=1.5,
+        )
+
+
+def test_loader_still_loads_patterns_without_relationships():
+    patterns = PatternLoader().load_all()
+
+    assert len(patterns) == 4
+    avoidance_conflict = next(
+        pattern for pattern in patterns if pattern.canonical_id == "avoidance_conflict"
+    )
+    assert avoidance_conflict.relationships == []
+
