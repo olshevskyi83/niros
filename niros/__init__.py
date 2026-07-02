@@ -8,6 +8,7 @@ from niros.evidence import (
     statements_to_evidence,
 )
 from niros.hypotheses import Hypothesis, HypothesisGenerator, HypothesisType, generate_hypotheses
+from niros.knowledge import KnowledgePattern, PatternLoader
 from niros.models import (
     IcaroLanguage,
     InterviewPhase,
@@ -36,12 +37,14 @@ __all__ = [
     "HypothesisGenerator",
     "HypothesisType",
     "IcaroLanguage",
+    "KnowledgePattern",
     "InputModality",
     "InterviewPhase",
     "InterviewState",
     "InvalidTransitionError",
     "PatternTag",
     "PatternTagger",
+    "PatternLoader",
     "Statement",
     "SupportedLanguage",
     "Transcript",

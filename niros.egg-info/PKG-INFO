@@ -4,5 +4,6 @@ Version: 0.1.0
 Summary: NIROS Human Understanding Engine
 Requires-Python: >=3.11
 Requires-Dist: pydantic>=2.0
+Requires-Dist: pyyaml>=6.0
 Provides-Extra: dev
 Requires-Dist: pytest>=8.0; extra == "dev"

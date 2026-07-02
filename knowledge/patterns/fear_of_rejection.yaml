@@ -1,0 +1,51 @@
+canonical_id: fear_of_rejection
+name: Fear of Rejection
+domain: relationships
+definition: Persistent concern that others may reject, abandon, dislike, or emotionally distance themselves from the person.
+behavioral_description: The person may avoid honest expression, over-monitor others' reactions, seek reassurance, suppress needs, or withdraw preemptively to reduce the risk of rejection.
+positive_evidence:
+  - Fear of being disliked or abandoned.
+  - Avoiding direct communication because of possible rejection.
+  - Strong emotional reaction to signs of distance or disapproval.
+  - Reassurance seeking after social uncertainty.
+negative_evidence:
+  - Comfortable with disagreement or rejection.
+  - Stable sense of self-worth despite others' disapproval.
+  - Willingness to express needs even when rejection is possible.
+typical_phrases:
+  en:
+    - I am afraid they will leave me.
+    - I worry people will stop liking me.
+    - I feel anxious when someone pulls away.
+  es:
+    - Tengo miedo de que me abandonen.
+    - Me preocupa que dejen de quererme.
+    - Me pongo ansioso cuando alguien se distancia.
+  ru:
+    - Я боюсь, что меня бросят.
+    - Я переживаю, что люди перестанут меня любить.
+    - Мне тревожно, когда кто-то отдаляется.
+follow_up_questions:
+  en:
+    - What do you usually do when you feel someone may reject you?
+    - What signs make you think someone is pulling away?
+    - What would it mean about you if someone rejected you?
+  es:
+    - ¿Qué sueles hacer cuando sientes que alguien puede rechazarte?
+    - ¿Qué señales te hacen pensar que alguien se está alejando?
+    - ¿Qué significaría para ti que alguien te rechazara?
+  ru:
+    - Что вы обычно делаете, когда чувствуете, что вас могут отвергнуть?
+    - Какие признаки заставляют вас думать, что человек отдаляется?
+    - Что бы для вас значило, если бы вас отвергли?
+related_patterns:
+  - people_pleasing
+  - attachment_anxiety
+  - shame_sensitivity
+  - conflict_avoidance
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+interview_priority: 8
+therapeutic_relevance: Important for understanding relational safety, attachment needs, avoidance, reassurance seeking, and emotional vulnerability.
