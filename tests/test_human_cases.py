@@ -2,9 +2,9 @@ from pathlib import Path
 
 from niros.evidence import statements_to_evidence
 from niros.hypotheses import generate_hypotheses
-from niros.interview_engine import BlueprintPhase, InterviewDecisionEngine
+from niros.interview_engine import BlueprintPhase, InterviewDecision, InterviewDecisionEngine
 from niros.models import InterviewPhase, SupportedLanguage
-from niros.patterns import pattern_tag_evidence_items
+from niros.patterns import PatternTag, pattern_tag_evidence_items
 from niros.state_machine import advance, initial_state
 from niros.statements import split_transcript_to_statements
 from niros.transcript import Transcript
@@ -48,14 +48,14 @@ def load_bullet_section(markdown_path: Path, heading: str) -> list[str]:
     return items
 
 
-def test_human_case_001_people_pleasing_conflict_avoidance():
-    case_path = TEST_CASES_DIR / "001_people_pleasing_conflict_avoidance.md"
+def run_human_case_pipeline(
+    case_path: Path,
+    session_id: str,
+) -> tuple[set[str], set[str], list[PatternTag], InterviewDecision]:
     raw_text = load_scenario_text(case_path)
-    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
-    expected_hypotheses = load_bullet_section(case_path, "Expected Hypotheses")
 
     transcript = Transcript(
-        session_id="session-human-001",
+        session_id=session_id,
         raw_text=raw_text,
         language=SupportedLanguage.ENGLISH,
     )
@@ -65,16 +65,7 @@ def test_human_case_001_people_pleasing_conflict_avoidance():
     pattern_tags = pattern_tag_evidence_items(evidence_items)
     hypotheses = generate_hypotheses(pattern_tags)
 
-    canonical_ids = {tag.canonical_id for tag in pattern_tags}
-    hypothesis_ids = {hypothesis.canonical_id for hypothesis in hypotheses}
-
-    for pattern_id in expected_patterns:
-        assert pattern_id in canonical_ids
-
-    for hypothesis_id in expected_hypotheses:
-        assert hypothesis_id in hypothesis_ids
-
-    interview_state = advance(initial_state("session-human-001"), consent_granted=True)
+    interview_state = advance(initial_state(session_id), consent_granted=True)
     interview_state = interview_state.model_copy(
         update={
             "input_language": SupportedLanguage.ENGLISH,
@@ -89,6 +80,43 @@ def test_human_case_001_people_pleasing_conflict_avoidance():
         hypotheses,
         BlueprintPhase.FREE_NARRATIVE,
     )
+
+    canonical_ids = {tag.canonical_id for tag in pattern_tags}
+    hypothesis_ids = {hypothesis.canonical_id for hypothesis in hypotheses}
+    return canonical_ids, hypothesis_ids, pattern_tags, decision
+
+
+def test_human_case_001_people_pleasing_conflict_avoidance():
+    case_path = TEST_CASES_DIR / "001_people_pleasing_conflict_avoidance.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+    expected_hypotheses = load_bullet_section(case_path, "Expected Hypotheses")
+
+    canonical_ids, hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-001",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    for hypothesis_id in expected_hypotheses:
+        assert hypothesis_id in hypothesis_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_002_attachment_anxiety():
+    case_path = TEST_CASES_DIR / "002_attachment_anxiety.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-002",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
 
     assert decision.selected_question
     assert decision.reason
