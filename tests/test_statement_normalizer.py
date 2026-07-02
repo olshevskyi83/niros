@@ -72,3 +72,47 @@ def test_mock_llm_combined_phrases_return_multiple_english_statements():
 def test_unsupported_mode_raises_value_error():
     with pytest.raises(ValueError, match="Unsupported normalizer mode"):
         normalize_user_input("example", mode="real_llm")
+
+
+def test_mock_llm_english_not_alive_phrase():
+    assert (
+        normalize_user_input("i am feeling not alive", mode="mock_llm")
+        == "I feel empty or undefined."
+    )
+
+
+def test_mock_llm_english_cant_understand_me_phrase():
+    assert (
+        normalize_user_input("i cant understand me", mode="mock_llm")
+        == "I do not really know who I am."
+    )
+
+
+def test_mock_llm_ukrainian_do_not_understand_myself_phrase():
+    assert (
+        normalize_user_input("я не розумію себе", mode="mock_llm")
+        == "I do not really know who I am."
+    )
+
+
+def test_mock_llm_russian_do_not_understand_myself_phrase():
+    assert (
+        normalize_user_input("я не понимаю себя", mode="mock_llm")
+        == "I do not really know who I am."
+    )
+
+
+def test_mock_llm_spanish_do_not_understand_myself_phrase():
+    assert (
+        normalize_user_input("no me entiendo", mode="mock_llm")
+        == "I do not really know who I am."
+    )
+
+
+def test_mock_llm_combined_ukrainian_identity_and_low_self_efficacy_phrases():
+    raw_text = "я не розумію себе. я думаю що нічого не зможу"
+
+    assert (
+        normalize_user_input(raw_text, mode="mock_llm")
+        == "I do not really know who I am. I probably cannot do this."
+    )

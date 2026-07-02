@@ -63,6 +63,16 @@ def test_yaml_matcher_no_match_returns_empty_list():
     assert PatternTagger().tag(evidence) == []
 
 
+def test_yaml_matcher_identity_uncertainty_empty_or_undefined_phrase():
+    evidence = _evidence("I feel empty or undefined.", SupportedLanguage.ENGLISH)
+
+    tags = PatternTagger().tag(evidence)
+
+    assert len(tags) == 1
+    assert tags[0].canonical_id == "identity_uncertainty"
+    assert tags[0].matched_text == "I feel empty or undefined."
+
+
 def test_yaml_matcher_missing_language_phrases_returns_empty_list(tmp_path: Path):
     pattern_data = {
         "canonical_id": "english_only_pattern",

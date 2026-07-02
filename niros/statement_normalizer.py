@@ -3,9 +3,18 @@ from __future__ import annotations
 MOCK_LLM_MAPPINGS: tuple[tuple[str, str], ...] = (
     ("мене тривожать погані сни", "I have disturbing dreams."),
     ("я не знаю хто я", "I do not really know who I am."),
-    ("я думаю що нічого не зможу", "I probably cannot do this."),
     ("я не знаю кто я", "I do not really know who I am."),
+    ("i cant understand me", "I do not really know who I am."),
+    ("i can't understand me", "I do not really know who I am."),
+    ("i do not understand myself", "I do not really know who I am."),
+    ("я не розумію себе", "I do not really know who I am."),
+    ("я себе не розумію", "I do not really know who I am."),
+    ("я не понимаю себя", "I do not really know who I am."),
+    ("no me entiendo", "I do not really know who I am."),
+    ("я думаю що нічого не зможу", "I probably cannot do this."),
     ("siento que no soy suficiente", "I am unsure if I am good enough as a person."),
+    ("i am feeling not alive", "I feel empty or undefined."),
+    ("i feel not alive", "I feel empty or undefined."),
 )
 
 SUPPORTED_MODES = frozenset({"passthrough", "mock_llm"})
