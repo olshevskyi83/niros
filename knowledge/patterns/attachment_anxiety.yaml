@@ -1,0 +1,75 @@
+canonical_id: attachment_anxiety
+name: Attachment Anxiety
+domain: relationships
+definition: Persistent worry about the availability, responsiveness, or commitment of close others, often accompanied by heightened sensitivity to signs of distance or disconnection.
+behavioral_description: The person may seek reassurance, monitor contact and responsiveness, interpret neutral cues as rejection, or become preoccupied with whether others will stay.
+positive_evidence:
+  - Strong anxiety when a close person is unavailable or slow to respond.
+  - Repeated reassurance seeking in important relationships.
+  - Interpreting distance, silence, or delay as loss of care.
+  - Difficulty self-soothing after perceived relational threat.
+  - Preoccupation with whether others will stay or leave.
+negative_evidence:
+  - Stable sense of connection during ordinary separations.
+  - Ability to tolerate uncertainty without escalating worry.
+  - Trust in repair after minor misunderstandings.
+typical_phrases:
+  en:
+    - I need a lot of reassurance in close relationships.
+    - I worry my partner doesn't really care.
+    - I feel anxious when they don't reply quickly.
+    - I'm afraid they'll leave if I show my needs.
+    - Small signs of distance make me uneasy.
+  es:
+    - Necesito mucha seguridad en las relaciones cercanas.
+    - Me preocupa que mi pareja no se preocupe de verdad.
+    - Me pongo ansioso cuando tardan en responder.
+    - Temo que se vayan si muestro lo que necesito.
+    - Pequeñas señales de distancia me inquietan.
+  ru:
+    - Мне нужно много подтверждений в близких отношениях.
+    - Я переживаю, что партнёр на самом деле не заботится.
+    - Мне тревожно, когда долго не отвечают.
+    - Я боюсь, что уйдут, если покажу свои потребности.
+    - Малые признаки отдаления меня тревожат.
+follow_up_questions:
+  en:
+    - What happens for you when someone you care about becomes less available?
+    - What signs tell you that someone may be pulling away?
+    - How do you usually respond when you feel that uncertainty?
+    - What helps you feel secure, even briefly, in close relationships?
+  es:
+    - ¿Qué te pasa cuando alguien importante se vuelve menos disponible?
+    - ¿Qué señales te hacen pensar que alguien se está alejando?
+    - ¿Cómo sueles responder cuando sientes esa incertidumbre?
+    - ¿Qué te ayuda a sentirte más seguro, aunque sea por un momento?
+  ru:
+    - Что происходит с вами, когда близкий человек становится менее доступным?
+    - Какие признаки заставляют вас думать, что человек отдаляется?
+    - Как вы обычно реагируете на такую неопределённость?
+    - Что помогает вам чувствовать себя хотя бы немного увереннее в близости?
+related_patterns:
+  - fear_of_rejection
+  - people_pleasing
+  - trust_difficulty
+  - boundary_difficulty
+relationships:
+  - target_pattern: fear_of_rejection
+    relation_type: often_coexists_with
+    weight: 0.85
+  - target_pattern: people_pleasing
+    relation_type: possible_consequence
+    weight: 0.72
+  - target_pattern: trust_difficulty
+    relation_type: may_strengthen
+    weight: 0.78
+  - target_pattern: boundary_difficulty
+    relation_type: often_leads_to
+    weight: 0.70
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  reassurance_seeking: 0.12
+interview_priority: 8
+therapeutic_relevance: Important for understanding attachment needs, reassurance cycles, and sensitivity to relational cues without labeling attachment style as fixed or pathological.

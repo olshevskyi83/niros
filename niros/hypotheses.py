@@ -6,7 +6,7 @@ from niros.models import SupportedLanguage
 from niros.patterns import PatternTag
 
 PEOPLE_PLEASING_PATTERNS = frozenset(
-    {"avoidance_conflict", "fear_of_disappointing_others"}
+    {"conflict_avoidance", "fear_of_disappointing_others"}
 )
 
 

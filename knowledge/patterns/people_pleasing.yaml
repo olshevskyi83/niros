@@ -17,6 +17,8 @@ negative_evidence:
   - Willingness to tolerate short-term discomfort to honor personal limits.
 typical_phrases:
   en:
+    - I usually say yes even when I do not want to.
+    - I hate disappointing people.
     - I try to make everyone happy.
     - I always try to make everyone happy.
     - I want everyone to be happy with me.
@@ -71,7 +73,7 @@ follow_up_questions:
 related_patterns:
   - fear_of_rejection
   - fear_of_disappointing_others
-  - avoidance_conflict
+  - conflict_avoidance
   - attachment_anxiety
   - shame_sensitivity
 relationships:
@@ -81,7 +83,7 @@ relationships:
   - target_pattern: fear_of_rejection
     relation_type: may_strengthen
     weight: 0.76
-  - target_pattern: avoidance_conflict
+  - target_pattern: conflict_avoidance
     relation_type: often_coexists_with
     weight: 0.81
   - target_pattern: fear_of_disappointing_others

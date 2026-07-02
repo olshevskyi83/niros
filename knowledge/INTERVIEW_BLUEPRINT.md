@@ -53,7 +53,7 @@ Open the interview without structure. Let the person describe what brought them 
 Declared difficulty, timeline, emotional tone, relationships, functioning, initial risk hints.
 
 **Knowledge Patterns involved**  
-Any pattern whose `typical_phrases` match early narrative — e.g. `fear_of_rejection`, `people_pleasing`, `avoidance_conflict`, `fear_of_disappointing_others`.
+Any pattern whose `typical_phrases` match early narrative — e.g. `fear_of_rejection`, `people_pleasing`, `conflict_avoidance`, `fear_of_disappointing_others`.
 
 **Signals to observe**  
 Main themes, repeated words, contradictions, intensity, avoidance, help-seeking style, declared vs implied problem.
@@ -97,7 +97,7 @@ Understand how the person experiences closeness, conflict, trust, distance, and 
 Partnership, friendship, work relationships, social belonging, communication patterns.
 
 **Knowledge Patterns involved**  
-`fear_of_rejection`, `people_pleasing`, `avoidance_conflict`, `fear_of_disappointing_others`; graph-suggested follow-ups from `relationships`.
+`fear_of_rejection`, `people_pleasing`, `conflict_avoidance`, `fear_of_disappointing_others`; graph-suggested follow-ups from `relationships`.
 
 **Signals to observe**  
 Fear of disapproval, conflict avoidance, reassurance seeking, boundary difficulty, withdrawal, over-accommodation.
@@ -185,7 +185,7 @@ Understand triggers, load, recovery, and what the person does when pressure incr
 Stressors, avoidance, rumination, substance use (if disclosed), support seeking, collapse vs overfunctioning.
 
 **Knowledge Patterns involved**  
-Avoidance and coping-related patterns — e.g. `avoidance_conflict`; patterns that `may_strengthen` under stress in the graph.
+Avoidance and coping-related patterns — e.g. `conflict_avoidance`; patterns that `may_strengthen` under stress in the graph.
 
 **Signals to observe**  
 Maladaptive vs adaptive coping, isolation, compulsive helping, shutdown, escalation under load, loss of boundaries.

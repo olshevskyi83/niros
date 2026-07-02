@@ -1,0 +1,75 @@
+canonical_id: trust_difficulty
+name: Trust Difficulty
+domain: relationships
+definition: Persistent difficulty relying on others' goodwill, honesty, or consistency, often shaped by past disappointment and vigilance for betrayal or harm.
+behavioral_description: The person may keep emotional distance, test others, scan for hidden motives, delay vulnerability, or expect eventual disappointment even when current behavior is neutral or caring.
+positive_evidence:
+  - Expecting others to hurt, leave, or betray eventually.
+  - Difficulty sharing vulnerable information.
+  - Monitoring behavior for signs of dishonesty or hidden intent.
+  - Keeping one foot out of close relationships.
+  - Past betrayals strongly shaping current expectations.
+negative_evidence:
+  - Willingness to extend trust in small, tested steps.
+  - Ability to revise expectations when evidence supports safety.
+  - Capacity to stay engaged after repair following a rupture.
+typical_phrases:
+  en:
+    - I find it hard to trust people.
+    - I expect people to hurt me eventually.
+    - I look for signs that someone is lying.
+    - I keep one foot out of relationships.
+    - Past betrayals still affect me today.
+  es:
+    - Me cuesta confiar en la gente.
+    - Espero que la gente acabe haciéndome daño.
+    - Busco señales de que alguien miente.
+    - Mantengo una distancia en las relaciones.
+    - Traiciones del pasado todavía me afectan.
+  ru:
+    - Мне трудно доверять людям.
+    - Я ожидаю, что люди в итоге причинят боль.
+    - Я ищу признаки того, что человек лжёт.
+    - Я держу дистанцию в отношениях.
+    - Прошлые предательства до сих пор на меня влияют.
+follow_up_questions:
+  en:
+    - What makes it hard for you to trust someone now?
+    - What signs would tell you that someone might not be safe to rely on?
+    - How do you decide how much of yourself to share?
+    - Has there been a time when trust felt even a little possible?
+  es:
+    - ¿Qué hace difícil confiar en alguien ahora?
+    - ¿Qué señales te harían pensar que alguien no es seguro?
+    - ¿Cómo decides cuánto de ti compartir?
+    - ¿Ha habido algún momento en el que confiar pareció aunque fuera un poco posible?
+  ru:
+    - Что сейчас мешает вам доверять человеку?
+    - Какие признаки заставляют вас думать, что на человека нельзя положиться?
+    - Как вы решаете, насколько открываться?
+    - Был ли момент, когда доверие казалось хотя бы немного возможным?
+related_patterns:
+  - attachment_anxiety
+  - fear_of_rejection
+  - conflict_avoidance
+  - boundary_difficulty
+relationships:
+  - target_pattern: attachment_anxiety
+    relation_type: often_coexists_with
+    weight: 0.81
+  - target_pattern: fear_of_rejection
+    relation_type: possible_cause
+    weight: 0.74
+  - target_pattern: boundary_difficulty
+    relation_type: may_strengthen
+    weight: 0.70
+  - target_pattern: conflict_avoidance
+    relation_type: possible_consequence
+    weight: 0.68
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  successful_repair_experience: -0.15
+interview_priority: 7
+therapeutic_relevance: Important for understanding vigilance, self-protection, past relational injury, and barriers to closeness without implying permanent inability to trust.

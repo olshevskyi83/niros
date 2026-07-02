@@ -1,0 +1,75 @@
+canonical_id: boundary_difficulty
+name: Boundary Difficulty
+domain: relationships
+definition: Persistent difficulty identifying, expressing, or maintaining personal limits in relationships, often resulting in overextension, resentment, or loss of personal space.
+behavioral_description: The person may allow repeated intrusions, struggle to name limits clearly, feel guilty after asserting a boundary, or discover too late that their capacity has been exceeded.
+positive_evidence:
+  - Difficulty saying what is acceptable and what is not.
+  - Repeated overcommitment beyond personal capacity.
+  - Resentment after agreeing to too much.
+  - Letting others decide priorities on the person's behalf.
+  - Feeling guilty or selfish when protecting time or energy.
+negative_evidence:
+  - Clear communication of limits before overload occurs.
+  - Ability to decline requests without prolonged guilt.
+  - Recovery of personal space after it has been crossed.
+typical_phrases:
+  en:
+    - I don't know how to set limits with people.
+    - I let others take too much from me.
+    - My boundaries get crossed often.
+    - I feel guilty when I protect my space.
+    - I struggle to hold my ground.
+  es:
+    - No sé cómo poner límites con la gente.
+    - Dejo que los demás me pidan demasiado.
+    - Mis límites se cruzan con frecuencia.
+    - Me siento culpable cuando protejo mi espacio.
+    - Me cuesta mantenerme firme.
+  ru:
+    - Я не знаю, как устанавливать границы с людьми.
+    - Я позволяю другим забирать слишком много.
+    - Мои границы часто нарушают.
+    - Я чувствую вину, когда защищаю своё пространство.
+    - Мне трудно стоять на своём.
+follow_up_questions:
+  en:
+    - What usually happens when someone asks more of you than you want to give?
+    - How do you know when a limit has been crossed for you?
+    - What makes it hard to name what you need or refuse?
+    - When have you protected a boundary successfully, even in a small way?
+  es:
+    - ¿Qué suele pasar cuando alguien te pide más de lo que quieres dar?
+    - ¿Cómo sabes cuándo se ha cruzado un límite para ti?
+    - ¿Qué hace difícil decir lo que necesitas o negarte?
+    - ¿Cuándo has protegido un límite con éxito, aunque haya sido de forma pequeña?
+  ru:
+    - Что обычно происходит, когда от вас просят больше, чем вы хотите дать?
+    - Как вы понимаете, что ваши границы были нарушены?
+    - Что мешает вам назвать свои потребности или отказать?
+    - Когда вам удавалось защитить границу, пусть даже в небольшом масштабе?
+related_patterns:
+  - people_pleasing
+  - conflict_avoidance
+  - attachment_anxiety
+  - fear_of_disappointing_others
+relationships:
+  - target_pattern: people_pleasing
+    relation_type: often_coexists_with
+    weight: 0.84
+  - target_pattern: conflict_avoidance
+    relation_type: possible_consequence
+    weight: 0.76
+  - target_pattern: attachment_anxiety
+    relation_type: may_strengthen
+    weight: 0.73
+  - target_pattern: fear_of_disappointing_others
+    relation_type: often_coexists_with
+    weight: 0.79
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  limit_setting_success: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding overextension, resentment, self-protection, and the gap between values and relational behavior.

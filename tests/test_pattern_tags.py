@@ -23,14 +23,14 @@ def _evidence(raw_text: str, language: SupportedLanguage, sequence: int = 0) -> 
     return statement_to_evidence(statement)
 
 
-def test_pattern_tag_avoidance_conflict():
-    evidence = _evidence("I avoid conflict.", SupportedLanguage.ENGLISH)
+def test_pattern_tag_conflict_avoidance():
+    evidence = _evidence("I stay quiet even when I disagree.", SupportedLanguage.ENGLISH)
 
     tags = pattern_tag_evidence(evidence)
 
     assert len(tags) == 1
-    assert tags[0].canonical_id == "avoidance_conflict"
-    assert tags[0].matched_text == "avoid conflict"
+    assert tags[0].canonical_id == "conflict_avoidance"
+    assert tags[0].matched_text == "I stay quiet even when I disagree."
     assert tags[0].confidence == 1.0
     assert tags[0].evidence_id == evidence.id
     assert tags[0].language == SupportedLanguage.ENGLISH
@@ -57,7 +57,7 @@ def test_pattern_tag_fear_of_disappointing_others_english():
 @pytest.mark.parametrize(
     ("raw_text", "canonical_id"),
     [
-        ("Evito el conflicto siempre.", "avoidance_conflict"),
+        ("Me quedo callado aunque no esté de acuerdo.", "conflict_avoidance"),
         ("Tengo miedo a decepcionar a mi familia.", "fear_of_disappointing_others"),
     ],
 )
@@ -73,7 +73,7 @@ def test_pattern_tag_spanish_rules(raw_text, canonical_id):
 @pytest.mark.parametrize(
     ("raw_text", "canonical_id"),
     [
-        ("Я часто избегаю конфликт дома.", "avoidance_conflict"),
+        ("Я молчу, даже когда не согласен.", "conflict_avoidance"),
         ("Я боюсь разочаровать близких.", "fear_of_disappointing_others"),
     ],
 )
@@ -87,18 +87,18 @@ def test_pattern_tag_russian_rules(raw_text, canonical_id):
 
 
 def test_pattern_tagger_class():
-    evidence = _evidence("I avoid conflict.", SupportedLanguage.ENGLISH)
+    evidence = _evidence("I stay quiet even when I disagree.", SupportedLanguage.ENGLISH)
 
     tags = PatternTagger().tag(evidence)
 
     assert len(tags) == 1
-    assert tags[0].canonical_id == "avoidance_conflict"
+    assert tags[0].canonical_id == "conflict_avoidance"
 
 
 def test_transcript_to_pattern_tags_pipeline():
     transcript = Transcript(
         session_id="session-001",
-        raw_text="I am afraid of disappointing people. I avoid conflict.",
+        raw_text="I am afraid of disappointing people. I stay quiet even when I disagree.",
         language=SupportedLanguage.ENGLISH,
     )
 
@@ -109,5 +109,5 @@ def test_transcript_to_pattern_tags_pipeline():
     assert len(tags) == 2
     assert {tag.canonical_id for tag in tags} == {
         "fear_of_disappointing_others",
-        "avoidance_conflict",
+        "conflict_avoidance",
     }

@@ -1,0 +1,74 @@
+canonical_id: conflict_avoidance
+name: Conflict Avoidance
+domain: relationships
+definition: A persistent tendency to sidestep disagreement, tension, or confrontation even when important issues need to be addressed.
+behavioral_description: The person may change the subject, withdraw, comply prematurely, minimize their own view, or delay difficult conversations to keep the relational atmosphere calm.
+positive_evidence:
+  - Leaving or shutting down when disagreement begins.
+  - Changing topic to escape tension.
+  - Agreeing outwardly while disagreeing internally.
+  - Delaying necessary conversations for long periods.
+  - Strong discomfort with raised voices or direct criticism.
+negative_evidence:
+  - Able to stay present during disagreement without shutting down.
+  - Willingness to name a concern even when tension rises.
+  - Capacity to repair after conflict without prolonged avoidance.
+typical_phrases:
+  en:
+    - I walk away when arguments start.
+    - I change the subject to avoid tension.
+    - I stay quiet even when I disagree.
+    - I often keep quiet just to avoid conflict.
+    - Arguments make me extremely uncomfortable.
+    - I dread any kind of confrontation.
+    - I let things slide rather than speak up.
+  es:
+    - Me alejo cuando empiezan las discusiones.
+    - Cambio de tema para evitar la tensión.
+    - Me quedo callado aunque no esté de acuerdo.
+    - Me da miedo cualquier tipo de confrontación.
+    - Dejo pasar las cosas en lugar de decir lo que pienso.
+  ru:
+    - Я ухожу, когда начинаются споры.
+    - Я перевожу разговор, чтобы избежать напряжения.
+    - Я молчу, даже когда не согласен.
+    - Я боюсь любой конфронтации.
+    - Я предпочитаю промолчать, чем сказать правду.
+follow_up_questions:
+  en:
+    - What usually happens inside you when a disagreement starts?
+    - What do you fear might happen if you stay in the conversation?
+    - When was the last time you stayed silent though something mattered to you?
+    - What would make it easier to speak up without escalating things?
+  es:
+    - ¿Qué suele pasarte por dentro cuando empieza un desacuerdo?
+    - ¿Qué temes que pueda pasar si te quedas en la conversación?
+    - ¿Cuándo fue la última vez que te quedaste en silencio aunque algo fuera importante para ti?
+    - ¿Qué haría más fácil expresarte sin empeorar la situación?
+  ru:
+    - Что обычно происходит с вами, когда начинается спор?
+    - Чего вы боитесь, если останетесь в разговоре?
+    - Когда в последний раз вы промолчали, хотя для вас это было важно?
+    - Что могло бы облегчить возможность сказать своё мнение?
+related_patterns:
+  - people_pleasing
+  - fear_of_rejection
+  - boundary_difficulty
+  - attachment_anxiety
+relationships:
+  - target_pattern: people_pleasing
+    relation_type: often_coexists_with
+    weight: 0.83
+  - target_pattern: fear_of_rejection
+    relation_type: may_strengthen
+    weight: 0.77
+  - target_pattern: boundary_difficulty
+    relation_type: often_leads_to
+    weight: 0.80
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  direct_confrontation_tolerance: 0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding how the person handles disagreement, suppressed needs, and relational safety without prescribing a conflict style.

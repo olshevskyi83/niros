@@ -75,7 +75,7 @@ def test_people_pleasing_relationships_load_correctly():
 
     assert len(pattern.relationships) == 5
     assert any(
-        relationship.target_pattern == "avoidance_conflict"
+        relationship.target_pattern == "conflict_avoidance"
         and relationship.relation_type == PatternRelationType.OFTEN_COEXISTS_WITH
         for relationship in pattern.relationships
     )
@@ -102,9 +102,28 @@ def test_pattern_relationship_rejects_invalid_weight():
 def test_loader_still_loads_patterns_without_relationships():
     patterns = PatternLoader().load_all()
 
-    assert len(patterns) == 4
-    avoidance_conflict = next(
-        pattern for pattern in patterns if pattern.canonical_id == "avoidance_conflict"
+    assert len(patterns) == 7
+    fear_of_disappointing_others = next(
+        pattern for pattern in patterns if pattern.canonical_id == "fear_of_disappointing_others"
     )
-    assert avoidance_conflict.relationships == []
+    assert fear_of_disappointing_others.relationships == []
+
+
+@pytest.mark.parametrize(
+    "canonical_id",
+    [
+        "conflict_avoidance",
+        "attachment_anxiety",
+        "boundary_difficulty",
+        "trust_difficulty",
+    ],
+)
+def test_new_relationship_patterns_load_successfully(canonical_id: str):
+    pattern = PatternLoader().load(canonical_id)
+
+    assert pattern.domain == "relationships"
+    assert "en" in pattern.typical_phrases
+    assert "es" in pattern.typical_phrases
+    assert "ru" in pattern.typical_phrases
+    assert len(pattern.relationships) >= 3
 

@@ -102,7 +102,7 @@ def test_decision_with_high_confidence_moves_to_related_pattern():
 def test_decision_advances_blueprint_phase_when_enough_evidence():
     engine = InterviewDecisionEngine()
     tags = [
-        _pattern_tag("avoidance_conflict", tag_id="tag-1", sequence=0),
+        _pattern_tag("conflict_avoidance", tag_id="tag-1", sequence=0),
         _pattern_tag("fear_of_disappointing_others", tag_id="tag-2", sequence=1),
     ]
     hypotheses = [

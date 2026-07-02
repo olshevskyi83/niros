@@ -22,7 +22,7 @@ def _pattern_tag(
 
 def test_generate_people_pleasing_hypothesis_when_both_patterns_present():
     tags = [
-        _pattern_tag("tag-1", "avoidance_conflict"),
+        _pattern_tag("tag-1", "conflict_avoidance"),
         _pattern_tag("tag-2", "fear_of_disappointing_others"),
     ]
 
@@ -37,8 +37,8 @@ def test_generate_people_pleasing_hypothesis_when_both_patterns_present():
     assert hypothesis.language == SupportedLanguage.ENGLISH
 
 
-def test_generate_hypotheses_returns_empty_list_with_only_avoidance_conflict():
-    tags = [_pattern_tag("tag-1", "avoidance_conflict")]
+def test_generate_hypotheses_returns_empty_list_with_only_conflict_avoidance():
+    tags = [_pattern_tag("tag-1", "conflict_avoidance")]
 
     assert generate_hypotheses(tags) == []
 
@@ -55,7 +55,7 @@ def test_generate_hypotheses_returns_empty_list_with_no_tags():
 
 def test_hypothesis_generator_class():
     tags = [
-        _pattern_tag("tag-1", "avoidance_conflict"),
+        _pattern_tag("tag-1", "conflict_avoidance"),
         _pattern_tag("tag-2", "fear_of_disappointing_others"),
     ]
 
