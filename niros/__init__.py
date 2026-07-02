@@ -13,6 +13,12 @@ from niros.models import (
     InterviewState,
     SupportedLanguage,
 )
+from niros.patterns import (
+    PatternTag,
+    PatternTagger,
+    pattern_tag_evidence,
+    pattern_tag_evidence_items,
+)
 from niros.state_machine import InvalidTransitionError, advance, initial_state
 from niros.statements import (
     Statement,
@@ -30,12 +36,16 @@ __all__ = [
     "InterviewPhase",
     "InterviewState",
     "InvalidTransitionError",
+    "PatternTag",
+    "PatternTagger",
     "Statement",
     "SupportedLanguage",
     "Transcript",
     "UnsupportedModalityError",
     "advance",
     "initial_state",
+    "pattern_tag_evidence",
+    "pattern_tag_evidence_items",
     "split_transcript_to_statements",
     "statement_to_evidence",
     "statements_to_evidence",
