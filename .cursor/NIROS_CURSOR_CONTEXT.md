@@ -27,6 +27,8 @@ Human Understanding Engine MVP:
 - declared vs confirmed problem logic
 - final HumanProfile JSON
 
+
+
 ## Safety rules
 
 - No diagnosis claims.
@@ -35,6 +37,8 @@ Human Understanding Engine MVP:
 - Sensor data is supportive only.
 - All important outputs should be explainable.
 
+
+
 ## Coding style
 
 - Prefer small modules.
@@ -42,3 +46,63 @@ Human Understanding Engine MVP:
 - Add tests for every state transition.
 - Add schema validation for AI outputs.
 - Keep prompt contracts in versioned files.
+
+
+
+## Multilingual Architecture Decision
+
+NIROS separates three language layers:
+
+1. Interview Language
+
+   - Language used by the user during the interview.
+
+   - MVP supported languages:
+
+     - English: en
+
+     - Spanish: es
+
+     - Russian: ru
+
+   - The agent should respond in the same language as the user input.
+
+2. Internal Canonical Representation
+
+   - Internal psychological logic must be language-independent.
+
+   - Concepts, evidence, hypotheses, traits, and tags must use stable canonical IDs.
+
+   - Example:
+
+     - fear_of_rejection
+
+     - not "страх отвержения"
+
+     - not "miedo al rechazo"
+
+3. Output / Ceremony Language
+
+   - Reports may be generated in the user's selected language.
+
+   - Icaros / ceremonial output is separate from interview language.
+
+   - Future supported icaro languages:
+
+     - Spanish: es
+
+     - Quechua: qu
+
+     - Shipibo: shipibo
+
+     - Mazatec: mazatec
+
+Rule:
+
+Interview language and icaro language must not be tightly coupled.
+
+A user may complete the interview in English, Spanish, or Russian, while ceremonial output may be generated separately in Spanish, Quechua, Shipibo, or Mazatec.
+
+Future languages may be added without changing the internal canonical representation.
+
+All psychological reasoning must operate on canonical IDs, never on translated text.
