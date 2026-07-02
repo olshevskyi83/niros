@@ -120,3 +120,19 @@ def test_human_case_002_attachment_anxiety():
 
     assert decision.selected_question
     assert decision.reason
+
+
+def test_human_case_003_boundary_difficulty():
+    case_path = TEST_CASES_DIR / "003_boundary_difficulty.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-003",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
