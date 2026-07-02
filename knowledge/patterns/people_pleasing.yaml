@@ -17,21 +17,39 @@ negative_evidence:
   - Willingness to tolerate short-term discomfort to honor personal limits.
 typical_phrases:
   en:
-    - I can't say no to people.
+    - I try to make everyone happy.
     - I always try to make everyone happy.
+    - I want everyone to be happy with me.
+    - I often put others first.
     - I put others before myself.
+    - I have trouble saying no.
+    - I can't say no to people.
+    - I say yes even when I do not want to.
+    - I worry people will be upset if I refuse.
     - I'm afraid of upsetting anyone.
     - I worry about letting people down.
   es:
-    - No puedo decir que no.
+    - Intento hacer felices a todos.
     - Trato de complacer a todos.
+    - Quiero que todos estén contentos conmigo.
+    - Suelo poner a los demás primero.
     - Pongo a los demás antes que a mí.
+    - Me cuesta decir que no.
+    - No puedo decir que no.
+    - Digo que sí aunque no quiera.
+    - Me preocupa que se molesten si me niego.
     - Me cuesta decir lo que necesito.
     - Me preocupa defraudar a los demás.
   ru:
-    - Мне трудно отказывать людям.
+    - Я стараюсь сделать всех счастливыми.
     - Я стараюсь всем угодить.
+    - Я хочу, чтобы все были мной довольны.
+    - Я часто ставлю других на первое место.
     - Я ставлю других выше себя.
+    - Мне трудно сказать нет.
+    - Мне трудно отказывать людям.
+    - Я соглашаюсь, даже когда не хочу.
+    - Я переживаю, что люди расстроятся, если я откажу.
     - Мне сложно говорить о своих потребностях.
     - Я переживаю, что подведу других.
 follow_up_questions:
