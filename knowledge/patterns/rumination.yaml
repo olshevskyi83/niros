@@ -1,0 +1,76 @@
+canonical_id: rumination
+name: Rumination
+domain: emotion_regulation
+definition: Repetitive, stuck mental replay of worries, problems, or unresolved events that prolong distress without leading to resolution or action.
+behavioral_description: The person may loop on the same thoughts, replay conversations or scenarios, struggle to shift attention, or feel mentally exhausted by ongoing review of what might go wrong.
+positive_evidence:
+  - Mind stuck on the same worries.
+  - Repetitive review of problems without resolution.
+  - Difficulty stopping thought loops at night or alone.
+  - Mental exhaustion from ongoing replay.
+  - Future-oriented what-if cycles.
+negative_evidence:
+  - Able to disengage from loops with reasonable effort.
+  - Problem review that leads to action or closure.
+  - Sleep or rest without prolonged mental replay.
+typical_phrases:
+  en:
+    - My mind gets stuck on the same worries.
+    - I keep going over the same problems in my head.
+    - I cannot stop thinking about what might happen.
+    - I replay conversations again and again.
+    - My thoughts loop and I cannot switch them off.
+    - I lie awake going over the same things.
+  es:
+    - Mi mente se queda atascada en las mismas preocupaciones.
+    - Repaso una y otra vez los mismos problemas en mi cabeza.
+    - No puedo dejar de pensar en lo que podría pasar.
+    - Repito conversaciones una y otra vez.
+    - Mis pensamientos dan vueltas y no puedo apagarlos.
+  ru:
+    - Мой ум застревает на одних и тех же переживаниях.
+    - Я снова и снова прокручиваю одни и те же проблемы в голове.
+    - Я не могу перестать думать о том, что может случиться.
+    - Я снова и снова прокручиваю разговоры.
+    - Мысли ходят по кругу, и я не могу их выключить.
+follow_up_questions:
+  en:
+    - What topic does your mind return to most often?
+    - What are you hoping the replay will give you?
+    - When do the loops get strongest?
+    - What, if anything, helps you step out of the cycle?
+  es:
+    - ¿A qué tema vuelve más a menudo tu mente?
+    - ¿Qué esperas obtener del repaso mental?
+    - ¿Cuándo se vuelven más fuertes los bucles?
+    - ¿Qué, si algo, te ayuda a salir del ciclo?
+  ru:
+    - К какой теме ваш ум возвращается чаще всего?
+    - Чего вы надеетесь достичь этим mental replay?
+    - Когда петли становятся сильнее всего?
+    - Что, если вообще что-то, помогает вам выйти из цикла?
+related_patterns:
+  - anxiety_reactivity
+  - harsh_self_criticism
+  - shame_sensitivity
+  - attachment_anxiety
+relationships:
+  - target_pattern: anxiety_reactivity
+    relation_type: often_coexists_with
+    weight: 0.82
+  - target_pattern: harsh_self_criticism
+    relation_type: often_coexists_with
+    weight: 0.76
+  - target_pattern: shame_sensitivity
+    relation_type: may_strengthen
+    weight: 0.73
+  - target_pattern: attachment_anxiety
+    relation_type: often_coexists_with
+    weight: 0.70
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  disengagement_capacity_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding stuck worry loops, sleep disruption, and how repetitive thinking maintains anxiety or shame without resolving problems.

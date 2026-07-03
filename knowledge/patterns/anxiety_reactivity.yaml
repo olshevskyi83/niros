@@ -1,0 +1,76 @@
+canonical_id: anxiety_reactivity
+name: Anxiety Reactivity
+domain: emotion_regulation
+definition: A tendency for anxiety to rise quickly and intensely in response to uncertainty, threat cues, or stress, often with bodily activation before full conscious understanding.
+behavioral_description: The person may feel anxious almost immediately when something feels uncertain, notice rapid bodily alarm, struggle to downshift once activated, or anticipate danger from small changes in context.
+positive_evidence:
+  - Small triggers spiking anxiety quickly.
+  - Bodily anxiety before clear conscious reason.
+  - Immediate anxiety when uncertainty appears.
+  - Difficulty calming once activation starts.
+  - Hypervigilance to possible threat cues.
+negative_evidence:
+  - Anxiety rises gradually and remains manageable.
+  - Capacity to self-soothe after triggers.
+  - Uncertainty tolerated without rapid escalation.
+typical_phrases:
+  en:
+    - Small things can spike my anxiety quickly.
+    - My body reacts with anxiety before I even know why.
+    - I feel anxious almost immediately when something feels uncertain.
+    - My chest tightens before my mind catches up.
+    - I go on high alert very fast.
+    - Uncertainty makes me anxious right away.
+  es:
+    - Pequeñas cosas pueden disparar mi ansiedad rápidamente.
+    - Mi cuerpo reacciona con ansiedad antes de que sepa por qué.
+    - Me siento ansioso casi de inmediato cuando algo se siente incierto.
+    - Se me aprieta el pecho antes de que mi mente lo entienda.
+    - Entro en alerta máxima muy rápido.
+  ru:
+    - Мелочи могут быстро вызвать у меня тревогу.
+    - Моё тело реагирует тревогой раньше, чем я понимаю почему.
+    - Я почти сразу чувствую тревогу, когда что-то кажется неопределённым.
+    - Грудь сжимается раньше, чем ум успевает понять.
+    - Я очень быстро перехожу в режим повышенной бдительности.
+follow_up_questions:
+  en:
+    - What happens in your body when anxiety spikes?
+    - What kinds of uncertainty trigger you fastest?
+    - What do you do to try to calm the activation?
+    - How long does it take to settle after a spike?
+  es:
+    - ¿Qué pasa en tu cuerpo cuando la ansiedad se dispara?
+    - ¿Qué tipos de incertidumbre te activan más rápido?
+    - ¿Qué haces para intentar calmar la activación?
+    - ¿Cuánto tardas en calmarte después de un pico?
+  ru:
+    - Что происходит в теле, когда тревога резко поднимается?
+    - Какая неопределённость запускает вас быстрее всего?
+    - Что вы делаете, чтобы попытаться успокоить активацию?
+    - Сколько времени нужно, чтобы успокоиться после всплеска?
+related_patterns:
+  - rumination
+  - emotional_overwhelm
+  - attachment_anxiety
+  - fear_of_rejection
+relationships:
+  - target_pattern: rumination
+    relation_type: often_coexists_with
+    weight: 0.80
+  - target_pattern: emotional_overwhelm
+    relation_type: may_strengthen
+    weight: 0.75
+  - target_pattern: attachment_anxiety
+    relation_type: often_coexists_with
+    weight: 0.78
+  - target_pattern: fear_of_rejection
+    relation_type: may_strengthen
+    weight: 0.71
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  self_soothing_capacity_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding rapid activation, bodily alarm, uncertainty sensitivity, and how anxiety spikes affect decisions and relationships.

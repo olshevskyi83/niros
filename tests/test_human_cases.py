@@ -260,3 +260,127 @@ def test_human_case_010_self_domain_integrated():
 
     assert decision.selected_question
     assert decision.reason
+
+
+def test_human_case_011_emotional_suppression():
+    case_path = TEST_CASES_DIR / "011_emotional_suppression.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-011",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_012_emotional_overwhelm():
+    case_path = TEST_CASES_DIR / "012_emotional_overwhelm.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-012",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_013_emotional_awareness():
+    case_path = TEST_CASES_DIR / "013_emotional_awareness.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-013",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_014_emotional_avoidance():
+    case_path = TEST_CASES_DIR / "014_emotional_avoidance.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-014",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_015_rumination():
+    case_path = TEST_CASES_DIR / "015_rumination.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-015",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_016_anxiety_reactivity():
+    case_path = TEST_CASES_DIR / "016_anxiety_reactivity.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, _pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-016",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    assert decision.selected_question
+    assert decision.reason
+
+
+def test_human_case_017_emotion_domain_integrated():
+    case_path = TEST_CASES_DIR / "017_emotion_domain_integrated.md"
+    expected_patterns = load_bullet_section(case_path, "Expected Patterns")
+
+    canonical_ids, _hypothesis_ids, pattern_tags, decision = run_human_case_pipeline(
+        case_path,
+        "session-human-017",
+    )
+
+    for pattern_id in expected_patterns:
+        assert pattern_id in canonical_ids
+
+    match_counts: dict[str, int] = {}
+    for tag in pattern_tags:
+        match_counts[tag.canonical_id] = match_counts.get(tag.canonical_id, 0) + 1
+
+    assert match_counts["emotional_overwhelm"] == max(match_counts.values())
+    secondary_detected = sum(
+        1
+        for pattern_id in expected_patterns
+        if pattern_id != "emotional_overwhelm" and pattern_id in canonical_ids
+    )
+    assert secondary_detected >= 4
+
+    assert decision.selected_question
+    assert decision.reason

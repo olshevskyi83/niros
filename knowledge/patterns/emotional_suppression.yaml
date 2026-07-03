@@ -1,0 +1,76 @@
+canonical_id: emotional_suppression
+name: Emotional Suppression
+domain: emotion_regulation
+definition: A habitual tendency to push down, mute, or hide emotional experience rather than acknowledge or express it, often to stay functional or avoid discomfort.
+behavioral_description: The person may minimize feelings, keep emotions private, go numb under stress, or prioritize staying composed over noticing what they feel.
+positive_evidence:
+  - Pushing feelings down to keep going.
+  - Difficulty expressing emotion even when it matters.
+  - Going emotionally flat or numb under pressure.
+  - Keeping distress hidden from others.
+  - Treating feelings as something to manage rather than notice.
+negative_evidence:
+  - Able to name and express feelings without prolonged shutdown.
+  - Willingness to let emotion inform choices in the moment.
+  - Recovery of feeling after stress without chronic numbness.
+typical_phrases:
+  en:
+    - I push my feelings down so I can keep going.
+    - I try not to feel anything when things get hard.
+    - I keep my emotions to myself.
+    - I go numb when too much is happening.
+    - I tell myself I should not feel this way.
+    - I hide what I feel so I do not burden anyone.
+  es:
+    - Suprimo mis sentimientos para poder seguir adelante.
+    - Trato de no sentir nada cuando las cosas se ponen difíciles.
+    - Guardo mis emociones para mí.
+    - Me quedo entumecido cuando hay demasiado a la vez.
+    - Me digo que no debería sentirme así.
+  ru:
+    - Я подавляю свои чувства, чтобы продолжать идти дальше.
+    - Я стараюсь ничего не чувствовать, когда становится трудно.
+    - Я держу эмоции при себе.
+    - Я онемеваю, когда происходит слишком много.
+    - Я говорю себе, что не должен так чувствовать.
+follow_up_questions:
+  en:
+    - What usually happens to your feelings when stress rises?
+    - What feels unsafe about letting emotion show?
+    - When was the last time you noticed a feeling before pushing it away?
+    - What would change if you allowed one feeling to be visible?
+  es:
+    - ¿Qué suele pasar con tus sentimientos cuando aumenta el estrés?
+    - ¿Qué se siente inseguro en dejar que la emoción se vea?
+    - ¿Cuándo fue la última vez que notaste un sentimiento antes de apartarlo?
+    - ¿Qué cambiaría si permitieras que un sentimiento fuera visible?
+  ru:
+    - Что обычно происходит с вашими чувствами, когда растёт стресс?
+    - Что кажется небезопасным в том, чтобы показать эмоцию?
+    - Когда вы в последний раз замечали чувство, прежде чем оттолкнуть его?
+    - Что изменилось бы, если бы вы позволили одному чувству быть видимым?
+related_patterns:
+  - emotional_avoidance
+  - emotional_awareness
+  - emotional_overwhelm
+  - conflict_avoidance
+relationships:
+  - target_pattern: emotional_avoidance
+    relation_type: often_coexists_with
+    weight: 0.84
+  - target_pattern: emotional_overwhelm
+    relation_type: may_strengthen
+    weight: 0.76
+  - target_pattern: emotional_awareness
+    relation_type: possible_consequence
+    weight: 0.71
+  - target_pattern: conflict_avoidance
+    relation_type: often_coexists_with
+    weight: 0.68
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  open_emotional_expression_present: -0.15
+interview_priority: 8
+therapeutic_relevance: Important for understanding how the person handles inner distress, visibility of emotion, and whether suppression affects connection, burnout, or later overwhelm.

@@ -1,0 +1,76 @@
+canonical_id: emotional_awareness
+name: Limited Emotional Awareness
+domain: emotion_regulation
+definition: Difficulty identifying, naming, or distinguishing one's emotional states in the moment, often leaving the person uncertain about what they feel or why.
+behavioral_description: The person may describe feeling blank, confused about inner states, notice body signals without emotional labels, or realize feelings only long after events pass.
+positive_evidence:
+  - Uncertainty about what one is feeling.
+  - Difficulty naming emotions when asked.
+  - Focus on thoughts or tasks instead of feeling states.
+  - Delayed recognition of emotion after events.
+  - Describing inner experience as unclear or muted.
+negative_evidence:
+  - Able to name current feelings with reasonable clarity.
+  - Connection between body cues and emotional labels.
+  - Timely recognition of emotion during events.
+typical_phrases:
+  en:
+    - I often do not know what I am feeling.
+    - I struggle to name my emotions.
+    - My feelings are unclear to me.
+    - I notice something is wrong but cannot say what I feel.
+    - I realize how I felt only later.
+    - I feel blank when people ask about my emotions.
+  es:
+    - A menudo no sé lo que siento.
+    - Me cuesta poner nombre a mis emociones.
+    - Mis sentimientos no están claros para mí.
+    - Noto que algo no va bien pero no puedo decir qué siento.
+    - Me doy cuenta de cómo me sentía solo después.
+  ru:
+    - Я часто не знаю, что чувствую.
+    - Мне трудно назвать свои эмоции.
+    - Мои чувства для меня неясны.
+    - Я замечаю, что что-то не так, но не могу сказать, что чувствую.
+    - Я понимаю, что чувствовал, только потом.
+follow_up_questions:
+  en:
+    - When someone asks how you feel, what happens inside?
+    - Do you notice body signals before emotional labels?
+    - When do feelings become clearer for you, if at all?
+    - What makes inner experience hard to describe?
+  es:
+    - Cuando alguien pregunta cómo te sientes, ¿qué pasa por dentro?
+    - ¿Notas señales corporales antes que etiquetas emocionales?
+    - ¿Cuándo se aclaran los sentimientos para ti, si es que lo hacen?
+    - ¿Qué hace difícil describir la experiencia interior?
+  ru:
+    - Когда кто-то спрашивает, что вы чувствуете, что происходит внутри?
+    - Замечаете ли вы телесные сигналы раньше эмоциональных названий?
+    - Когда чувства становятся яснее для вас, если вообще становятся?
+    - Что затрудняет описание внутреннего опыта?
+related_patterns:
+  - emotional_suppression
+  - emotional_avoidance
+  - identity_uncertainty
+  - low_self_efficacy
+relationships:
+  - target_pattern: emotional_suppression
+    relation_type: often_coexists_with
+    weight: 0.78
+  - target_pattern: emotional_avoidance
+    relation_type: often_coexists_with
+    weight: 0.75
+  - target_pattern: identity_uncertainty
+    relation_type: may_strengthen
+    weight: 0.69
+  - target_pattern: low_self_efficacy
+    relation_type: possible_consequence
+    weight: 0.64
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  clear_feeling_label_present: -0.15
+interview_priority: 7
+therapeutic_relevance: Important for understanding alexithymia-like gaps, delayed emotional recognition, and how unclear inner states affect decisions and relationships.

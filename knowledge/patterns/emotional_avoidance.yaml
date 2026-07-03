@@ -1,0 +1,76 @@
+canonical_id: emotional_avoidance
+name: Emotional Avoidance
+domain: emotion_regulation
+definition: A persistent tendency to steer away from feelings, triggers, or situations that might activate distress, often through distraction, busyness, or withdrawal.
+behavioral_description: The person may stay busy to avoid inner experience, dodge conversations or places that stir emotion, use distraction habitually, or leave situations when feeling starts to rise.
+positive_evidence:
+  - Avoiding situations that might upset them.
+  - Using distraction to not feel.
+  - Staying busy to avoid inner experience.
+  - Leaving when emotion begins to rise.
+  - Postponing processing of painful feelings.
+negative_evidence:
+  - Willingness to stay with difficult feelings briefly.
+  - Capacity to approach triggers with support.
+  - Processing emotion without habitual escape.
+typical_phrases:
+  en:
+    - I avoid situations that might upset me.
+    - I distract myself so I do not have to feel.
+    - I stay busy to avoid my feelings.
+    - I change the subject when feelings come up.
+    - I leave when things start to feel too emotional.
+    - I put off dealing with feelings as long as I can.
+  es:
+    - Evito situaciones que podrían alterarme.
+    - Me distraigo para no tener que sentir.
+    - Me mantengo ocupado para evitar mis sentimientos.
+    - Cambio de tema cuando surgen emociones.
+    - Me voy cuando las cosas empiezan a sentirse demasiado emocionales.
+  ru:
+    - Я избегаю ситуаций, которые могут расстроить меня.
+    - Я отвлекаюсь, чтобы не чувствовать.
+    - Я занимаю делами, чтобы избегать своих чувств.
+    - Я перевожу разговор, когда появляются эмоции.
+    - Я ухожу, когда всё начинает казаться слишком эмоциональным.
+follow_up_questions:
+  en:
+    - What do you fear might happen if you stay with the feeling?
+    - What do you usually do instead of feeling?
+    - What situations do you most often avoid?
+    - What has avoidance cost you, if anything?
+  es:
+    - ¿Qué temes que pueda pasar si te quedas con el sentimiento?
+    - ¿Qué sueles hacer en lugar de sentir?
+    - ¿Qué situaciones evitas con más frecuencia?
+    - ¿Qué te ha costado la evitación, si es que algo?
+  ru:
+    - Чего вы боитесь, если останетесь с чувством?
+    - Что вы обычно делаете вместо того, чтобы чувствовать?
+    - Какие ситуации вы чаще всего избегаете?
+    - Чем вам обошлось избегание, если обошлось?
+related_patterns:
+  - emotional_suppression
+  - emotional_overwhelm
+  - conflict_avoidance
+  - attachment_anxiety
+relationships:
+  - target_pattern: emotional_suppression
+    relation_type: often_coexists_with
+    weight: 0.81
+  - target_pattern: conflict_avoidance
+    relation_type: often_coexists_with
+    weight: 0.77
+  - target_pattern: emotional_overwhelm
+    relation_type: possible_cause
+    weight: 0.70
+  - target_pattern: attachment_anxiety
+    relation_type: may_strengthen
+    weight: 0.66
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  approach_with_support_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding escape from distress, maintenance strategies, and how avoidance shapes relationships, work, and recovery.

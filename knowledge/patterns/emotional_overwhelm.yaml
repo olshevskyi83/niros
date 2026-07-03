@@ -1,0 +1,76 @@
+canonical_id: emotional_overwhelm
+name: Emotional Overwhelm
+domain: emotion_regulation
+definition: A pattern in which emotional experience quickly becomes too intense or expansive to manage, leaving the person flooded, exhausted, or unable to function in the moment.
+behavioral_description: The person may feel swamped by feelings, lose capacity to think clearly when emotion rises, shut down after intensity spikes, or struggle to recover once flooded.
+positive_evidence:
+  - Emotions feeling too big to handle.
+  - Rapid flooding after triggers or stress.
+  - Difficulty thinking or acting while overwhelmed.
+  - Exhaustion after emotional intensity.
+  - Need to escape or collapse when feelings peak.
+negative_evidence:
+  - Able to stay grounded while emotion is present.
+  - Capacity to recover without prolonged shutdown.
+  - Emotion rises and falls without total flooding.
+typical_phrases:
+  en:
+    - My emotions feel too big to handle.
+    - I get overwhelmed by my feelings quickly.
+    - Emotions flood me before I can slow down.
+    - When feelings hit, I cannot think straight.
+    - I feel swamped and need to get away.
+    - Emotional intensity wipes me out.
+  es:
+    - Mis emociones se sienten demasiado grandes para manejarlas.
+    - Me abrumo con mis sentimientos rápidamente.
+    - Las emociones me inundan antes de que pueda calmarme.
+    - Cuando llegan los sentimientos, no puedo pensar con claridad.
+    - Me siento inundado y necesito alejarme.
+  ru:
+    - Мои эмоции кажутся слишком большими, чтобы с ними справиться.
+    - Я быстро переполняюсь чувствами.
+    - Эмоции захлёстывают меня, прежде чем я успеваю успокоиться.
+    - Когда накатывают чувства, я не могу ясно думать.
+    - Я чувствую себя перегруженным и хочу уйти.
+follow_up_questions:
+  en:
+    - What does overwhelm feel like in your body?
+    - What usually triggers the flooding?
+    - What helps even a little when intensity peaks?
+    - What happens after the wave passes?
+  es:
+    - ¿Cómo se siente la abrumación en tu cuerpo?
+    - ¿Qué suele desencadenar la inundación emocional?
+    - ¿Qué ayuda aunque sea un poco cuando la intensidad llega al máximo?
+    - ¿Qué pasa después de que pasa la ola?
+  ru:
+    - Как переполнение ощущается в теле?
+    - Что обычно запускает эмоциональный захлёст?
+    - Что помогает хотя бы немного, когда интенсивность на пике?
+    - Что происходит после того, как волна проходит?
+related_patterns:
+  - emotional_suppression
+  - anxiety_reactivity
+  - emotional_avoidance
+  - attachment_anxiety
+relationships:
+  - target_pattern: emotional_suppression
+    relation_type: possible_consequence
+    weight: 0.74
+  - target_pattern: anxiety_reactivity
+    relation_type: often_coexists_with
+    weight: 0.79
+  - target_pattern: emotional_avoidance
+    relation_type: often_leads_to
+    weight: 0.72
+  - target_pattern: attachment_anxiety
+    relation_type: may_strengthen
+    weight: 0.67
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  grounded_recovery_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding flooding, shutdown after intensity, recovery needs, and how emotional scale affects daily functioning.

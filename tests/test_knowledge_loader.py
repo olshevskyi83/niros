@@ -102,7 +102,7 @@ def test_pattern_relationship_rejects_invalid_weight():
 def test_loader_still_loads_patterns_without_relationships():
     patterns = PatternLoader().load_all()
 
-    assert len(patterns) == 13
+    assert len(patterns) == 19
     fear_of_disappointing_others = next(
         pattern for pattern in patterns if pattern.canonical_id == "fear_of_disappointing_others"
     )
@@ -143,6 +143,27 @@ def test_self_concept_patterns_load_successfully(canonical_id: str):
     pattern = PatternLoader().load(canonical_id)
 
     assert pattern.domain == "self_concept"
+    assert "en" in pattern.typical_phrases
+    assert "es" in pattern.typical_phrases
+    assert "ru" in pattern.typical_phrases
+    assert len(pattern.relationships) >= 3
+
+
+@pytest.mark.parametrize(
+    "canonical_id",
+    [
+        "emotional_suppression",
+        "emotional_overwhelm",
+        "emotional_awareness",
+        "emotional_avoidance",
+        "rumination",
+        "anxiety_reactivity",
+    ],
+)
+def test_emotion_regulation_patterns_load_successfully(canonical_id: str):
+    pattern = PatternLoader().load(canonical_id)
+
+    assert pattern.domain == "emotion_regulation"
     assert "en" in pattern.typical_phrases
     assert "es" in pattern.typical_phrases
     assert "ru" in pattern.typical_phrases
