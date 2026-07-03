@@ -2,6 +2,11 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 
+from niros.consistency_engine import (
+    analyze_consistency,
+    format_consistency_observations,
+)
+from niros.evidence_store import EvidenceStore
 from niros.human_profile_summary import (
     GENERIC_PATTERN_TEXT,
     NO_EVIDENCE_PROFILE_TEXT,
@@ -36,6 +41,7 @@ class HumanProfileReport:
     strengths: list[str] = field(default_factory=list)
     vulnerabilities: list[str] = field(default_factory=list)
     open_questions: list[str] = field(default_factory=list)
+    consistency_observations: list[str] = field(default_factory=list)
     evidence_summary: list[str] = field(default_factory=list)
 
 
@@ -44,6 +50,7 @@ def build_human_profile_report(
     detected_patterns: list[PatternTag],
     hypotheses: list[Hypothesis] | None = None,
     loader: PatternLoader | None = None,
+    evidence_store: EvidenceStore | None = None,
 ) -> HumanProfileReport:
     pattern_loader = loader or PatternLoader()
     ranked_pattern_ids = _ranked_pattern_ids(profile_summary, detected_patterns)
@@ -69,6 +76,7 @@ def build_human_profile_report(
         strengths=_build_strengths(patterns, domain_patterns),
         vulnerabilities=_build_vulnerabilities(patterns, pattern_counts),
         open_questions=_collect_open_questions(patterns, pattern_loader),
+        consistency_observations=_build_consistency_observations(evidence_store),
         evidence_summary=_build_evidence_summary(detected_patterns, pattern_counts),
     )
 
@@ -77,6 +85,7 @@ def build_human_profile_report_from_tags(
     detected_patterns: list[PatternTag],
     hypotheses: list[Hypothesis] | None = None,
     loader: PatternLoader | None = None,
+    evidence_store: EvidenceStore | None = None,
 ) -> HumanProfileReport:
     profile_summary = build_human_profile_summary(detected_patterns)
     return build_human_profile_report(
@@ -84,6 +93,7 @@ def build_human_profile_report_from_tags(
         detected_patterns,
         hypotheses=hypotheses,
         loader=loader,
+        evidence_store=evidence_store,
     )
 
 
@@ -97,6 +107,7 @@ def render_human_profile_report(report: HumanProfileReport) -> str:
         ("Strengths", _render_bullet_section(report.strengths)),
         ("Vulnerabilities", _render_bullet_section(report.vulnerabilities)),
         ("Open Questions for Future Interviews", _render_bullet_section(report.open_questions)),
+        ("Consistency observations", _render_bullet_section(report.consistency_observations)),
         ("Evidence Summary", _render_bullet_section(report.evidence_summary)),
     ]
 
@@ -244,6 +255,15 @@ def _build_vulnerabilities(
             f"{'s' if count != 1 else ''}): {interpretation}"
         )
     return vulnerabilities
+
+
+def _build_consistency_observations(
+    evidence_store: EvidenceStore | None,
+) -> list[str]:
+    if evidence_store is None or len(evidence_store) == 0:
+        return []
+    issues = analyze_consistency(evidence_store)
+    return format_consistency_observations(issues)
 
 
 def _collect_open_questions(
