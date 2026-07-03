@@ -2,6 +2,12 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 
+from niros.assessment import AssessmentResult
+from niros.assessment_runner import (
+    AssessedModuleRun,
+    MODULE_TITLES,
+    format_assessment_signal,
+)
 from niros.consistency_engine import (
     analyze_consistency,
     format_consistency_observations,
@@ -34,6 +40,7 @@ MAX_EVIDENCE_ITEMS = 12
 @dataclass
 class HumanProfileReport:
     overview: str
+    presenting_problem: dict[str, str] = field(default_factory=dict)
     tendencies: list[str] = field(default_factory=list)
     relationship_patterns: list[str] = field(default_factory=list)
     self_patterns: list[str] = field(default_factory=list)
@@ -43,6 +50,7 @@ class HumanProfileReport:
     open_questions: list[str] = field(default_factory=list)
     consistency_observations: list[str] = field(default_factory=list)
     evidence_summary: list[str] = field(default_factory=list)
+    assessment_signals: list[str] = field(default_factory=list)
 
 
 def build_human_profile_report(
@@ -51,12 +59,22 @@ def build_human_profile_report(
     hypotheses: list[Hypothesis] | None = None,
     loader: PatternLoader | None = None,
     evidence_store: EvidenceStore | None = None,
+    presenting_problem: dict[str, str] | None = None,
+    assessment_results: list[AssessmentResult] | None = None,
+    assessment_module_runs: list[AssessedModuleRun] | None = None,
 ) -> HumanProfileReport:
     pattern_loader = loader or PatternLoader()
     ranked_pattern_ids = _ranked_pattern_ids(profile_summary, detected_patterns)
+    presenting = dict(presenting_problem or {})
 
     if not ranked_pattern_ids:
-        return _empty_report()
+        empty = _empty_report()
+        empty.presenting_problem = presenting
+        empty.assessment_signals = _build_assessment_signals(
+            assessment_results,
+            assessment_module_runs,
+        )
+        return empty
 
     patterns = [pattern_loader.load(pattern_id) for pattern_id in ranked_pattern_ids]
     pattern_counts = profile_summary.get("pattern_counts", {})
@@ -69,6 +87,7 @@ def build_human_profile_report(
 
     return HumanProfileReport(
         overview=_build_overview(profile_summary, patterns, hypotheses or []),
+        presenting_problem=presenting,
         tendencies=tendencies,
         relationship_patterns=relationship_patterns,
         self_patterns=self_patterns,
@@ -78,6 +97,10 @@ def build_human_profile_report(
         open_questions=_collect_open_questions(patterns, pattern_loader),
         consistency_observations=_build_consistency_observations(evidence_store),
         evidence_summary=_build_evidence_summary(detected_patterns, pattern_counts),
+        assessment_signals=_build_assessment_signals(
+            assessment_results,
+            assessment_module_runs,
+        ),
     )
 
 
@@ -86,6 +109,9 @@ def build_human_profile_report_from_tags(
     hypotheses: list[Hypothesis] | None = None,
     loader: PatternLoader | None = None,
     evidence_store: EvidenceStore | None = None,
+    presenting_problem: dict[str, str] | None = None,
+    assessment_results: list[AssessmentResult] | None = None,
+    assessment_module_runs: list[AssessedModuleRun] | None = None,
 ) -> HumanProfileReport:
     profile_summary = build_human_profile_summary(detected_patterns)
     return build_human_profile_report(
@@ -94,22 +120,37 @@ def build_human_profile_report_from_tags(
         hypotheses=hypotheses,
         loader=loader,
         evidence_store=evidence_store,
+        presenting_problem=presenting_problem,
+        assessment_results=assessment_results,
+        assessment_module_runs=assessment_module_runs,
     )
 
 
 def render_human_profile_report(report: HumanProfileReport) -> str:
     sections = [
         ("Overview", report.overview),
-        ("Main Observed Tendencies", _render_bullet_section(report.tendencies)),
-        ("Relationship Patterns", _render_bullet_section(report.relationship_patterns)),
-        ("Self-Related Patterns", _render_bullet_section(report.self_patterns)),
-        ("Emotion-Related Patterns", _render_bullet_section(report.emotion_patterns)),
-        ("Strengths", _render_bullet_section(report.strengths)),
-        ("Vulnerabilities", _render_bullet_section(report.vulnerabilities)),
-        ("Open Questions for Future Interviews", _render_bullet_section(report.open_questions)),
-        ("Consistency observations", _render_bullet_section(report.consistency_observations)),
-        ("Evidence Summary", _render_bullet_section(report.evidence_summary)),
+        ("Presenting Problem", _render_presenting_problem_section(report.presenting_problem)),
     ]
+    if report.assessment_signals:
+        sections.append(
+            (
+                "Structured Assessment Signals",
+                _render_assessment_signals_section(report.assessment_signals),
+            )
+        )
+    sections.extend(
+        [
+            ("Main Observed Tendencies", _render_bullet_section(report.tendencies)),
+            ("Relationship Patterns", _render_bullet_section(report.relationship_patterns)),
+            ("Self-Related Patterns", _render_bullet_section(report.self_patterns)),
+            ("Emotion-Related Patterns", _render_bullet_section(report.emotion_patterns)),
+            ("Strengths", _render_bullet_section(report.strengths)),
+            ("Vulnerabilities", _render_bullet_section(report.vulnerabilities)),
+            ("Open Questions for Future Interviews", _render_bullet_section(report.open_questions)),
+            ("Consistency observations", _render_bullet_section(report.consistency_observations)),
+            ("Evidence Summary", _render_bullet_section(report.evidence_summary)),
+        ]
+    )
 
     rendered_sections = [
         f"{title}\n{content}"
@@ -315,7 +356,61 @@ def _build_evidence_summary(
     return evidence_lines
 
 
+def _build_assessment_signals(
+    assessment_results: list[AssessmentResult] | None,
+    assessment_module_runs: list[AssessedModuleRun] | None = None,
+) -> list[str]:
+    if assessment_module_runs:
+        lines: list[str] = []
+        for run in assessment_module_runs:
+            title = MODULE_TITLES.get(run.module_id, run.module_id)
+            lines.append(f"{title}:")
+            for result in sorted(run.results, key=lambda item: item.domain_id):
+                lines.append(format_assessment_signal(result, module_id=run.module_id))
+        return lines
+
+    if not assessment_results:
+        return []
+    return [format_assessment_signal(result) for result in assessment_results]
+
+
+def _render_assessment_signals_section(items: list[str]) -> str:
+    if not items:
+        return "- None noted yet."
+
+    rendered: list[str] = []
+    for item in items:
+        if item.endswith(":"):
+            rendered.append(item)
+        else:
+            rendered.append(f"- {item}")
+    return "\n".join(rendered)
+
+
 def _render_bullet_section(items: list[str]) -> str:
     if not items:
         return "- None noted yet."
     return "\n".join(f"- {item}" for item in items)
+
+
+def _render_presenting_problem_section(presenting_problem: dict[str, str]) -> str:
+    labels = {
+        "main_problem": "Main problem",
+        "duration": "Duration",
+        "perceived_causes": "Perceived causes",
+        "current_impact": "Current impact",
+        "previous_attempts": "Previous attempts",
+        "desired_outcome": "Desired outcome",
+    }
+    if not presenting_problem:
+        return "- None noted yet."
+
+    lines: list[str] = []
+    for key, label in labels.items():
+        value = presenting_problem.get(key, "").strip()
+        if value:
+            lines.append(f"- {label}: {value}")
+
+    if not lines:
+        return "- None noted yet."
+    return "\n".join(lines)

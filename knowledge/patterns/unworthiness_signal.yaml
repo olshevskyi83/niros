@@ -1,0 +1,78 @@
+canonical_id: unworthiness_signal
+name: Unworthiness Signal
+domain: meaning_direction
+definition: An observed signal that the person reports feeling unworthy, not good enough, or undeserving of care, success, or positive experience.
+behavioral_description: The person may describe a deep sense of not deserving good things, feeling less than others, or expecting rejection because of inner unworthiness, without diagnostic labeling.
+positive_evidence:
+  - Self-reported unworthiness or not deserving good things.
+  - Language of feeling less than others or fundamentally not enough.
+  - Expectation that positive outcomes are not for them.
+negative_evidence:
+  - Stable sense of self-worth with ordinary self-doubt.
+  - Brief unworthiness tied to one resolved event.
+typical_phrases:
+  en:
+    - I feel useless
+    - I feel unwanted
+    - nobody needs me
+    - I feel like I do not matter
+    - I feel worthless
+    - people do not value me
+    - I don't feel worthy of good things
+    - deep down I feel I'm not enough
+  uk:
+    - я відчуваю себе непотрібним
+    - я відчуваю себе непотрібною
+    - я нікому не потрібен
+    - я почуваюся зайвим
+    - наче я нічого не вартий
+    - мене ніхто не цінує
+    - я не маю значення
+    - не відчуваю себе гідним хороших речей
+  es:
+    - me siento inútil
+    - siento que nadie me necesita
+    - me siento de más
+    - siento que no valgo nada
+    - nadie me valora
+    - siento que no importo
+    - no me siento digno de cosas buenas
+  ru:
+    - я чувствую себя ненужным
+    - я никому не нужен
+    - я чувствую себя лишним
+    - будто я ничего не стою
+    - меня никто не ценит
+    - я ничего не значу
+    - не чувствую себя достойным хороших вещей
+follow_up_questions:
+  en:
+    - When does this sense of unworthiness show up most strongly?
+    - What would it mean for you if you felt worthy of support here?
+  uk:
+    - Коли це відчуття негідності проявляється найсильніше?
+    - Що б це для вас означало, якби ви відчували себе гідним підтримки під час сесії?
+  es:
+    - ¿Cuándo aparece con más fuerza esta sensación de indignidad?
+    - ¿Qué significaría para usted sentirse digno de apoyo aquí?
+  ru:
+    - Когда это ощущение неполноценности проявляется сильнее всего?
+    - Что бы это для вас значило, если бы вы чувствовали себя достойным поддержки на сессии?
+related_patterns:
+  - shame_sensitivity
+  - harsh_self_criticism
+  - low_self_efficacy
+relationships:
+  - target_pattern: shame_sensitivity
+    relation_type: often_coexists_with
+    weight: 0.82
+  - target_pattern: harsh_self_criticism
+    relation_type: may_strengthen
+    weight: 0.78
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  self_compassion_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported unworthiness without diagnosis, eligibility decisions, or treatment recommendations.

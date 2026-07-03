@@ -1,0 +1,54 @@
+canonical_id: social_withdrawal
+name: Social Withdrawal
+domain: relationships
+definition: An observed signal that the person reports avoiding people, not socializing, or withdrawing from contact in their own words.
+behavioral_description: The person may describe avoiding people, not talking to others, or social withdrawal without diagnostic labeling.
+positive_evidence:
+  - Self-reported social withdrawal.
+  - Avoiding people or contact named by the person.
+negative_evidence:
+  - Preference for quiet time without withdrawal signal.
+typical_phrases:
+  en:
+    - I don't socialize with people
+    - I avoid people
+    - I don't want to talk to anyone
+    - I stay away from people
+  uk:
+    - не спілкуюсь з людьми
+    - уникаю людей
+    - ні з ким не хочу говорити
+    - не хочу спілкуватися
+  ru:
+    - не общаюсь с людьми
+    - избегаю людей
+    - ни с кем не хочу говорить
+    - не хочу общаться
+  es:
+    - no socializo con la gente
+    - evito a las personas
+    - no quiero hablar con nadie
+    - me alejo de la gente
+follow_up_questions:
+  en:
+    - What happens inside when you avoid contact with others?
+  uk:
+    - Що відбувається всередині, коли ви уникаєте спілкування?
+  ru:
+    - Что происходит внутри, когда вы избегаете общения?
+  es:
+    - ¿Qué ocurre por dentro cuando evitas el contacto con otros?
+related_patterns:
+  - communication_avoidance
+  - depressed_mood_signal
+relationships:
+  - target_pattern: communication_avoidance
+    relation_type: often_coexists_with
+    weight: 0.88
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.15
+  grounding_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding self-reported social withdrawal without diagnosis.

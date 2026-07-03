@@ -1,0 +1,66 @@
+canonical_id: self_reported_depression_concern
+name: Self-Reported Depression Concern
+domain: emotion_regulation
+definition: An observed signal that the person uses depression as a self-description or says they think they may have depression, without NIROS assigning a diagnosis.
+behavioral_description: The person may say they think they have depression, use depression as a self-label, or report a prior depression diagnosis in their own words as personal history — not as a clinical conclusion by NIROS.
+positive_evidence:
+  - Self-reported depression label or concern in the person's own words.
+  - Statement that they think they have depression.
+  - Prior depression diagnosis mentioned as personal medical history.
+negative_evidence:
+  - Low mood described without depression labeling.
+  - Neutral mention of depression in abstract or third-person context only.
+typical_phrases:
+  en:
+    - I think I have depression
+    - I believe I'm depressed
+    - I might have depression
+    - they told me I have depression
+    - I was diagnosed with depression
+  uk:
+    - мені здається у мене депресія
+    - здається у мене депресія
+    - думаю що у мене депресія
+    - мені сказали що у мене депресія
+    - мені діагностували депресію
+  ru:
+    - мне кажется у меня депрессия
+    - думаю что у меня депрессия
+    - мне сказали что у меня депрессия
+    - мне диагностировали депрессию
+  es:
+    - creo que tengo depresión
+    - me parece que tengo depresión
+    - me diagnosticaron depresión
+    - me dijeron que tengo depresión
+follow_up_questions:
+  en:
+    - What made you start thinking about depression in your own words?
+    - What feels most difficult about this right now?
+  uk:
+    - Що саме змусило вас думати про депресію своїми словами?
+    - Що зараз відчувається найважчим?
+  ru:
+    - Что именно заставило вас думать о депрессии своими словами?
+    - Что сейчас ощущается самым трудным?
+  es:
+    - ¿Qué le hizo empezar a pensar en depresión con sus propias palabras?
+    - ¿Qué se siente más difícil ahora mismo?
+related_patterns:
+  - low_mood_signal
+  - depressed_mood_signal
+  - emotional_distress_signal
+relationships:
+  - target_pattern: low_mood_signal
+    relation_type: often_coexists_with
+    weight: 0.82
+  - target_pattern: emotional_distress_signal
+    relation_type: may_strengthen
+    weight: 0.70
+confidence_rules:
+  repeated_evidence: 0.12
+  contradiction_present: -0.20
+  strong_emotional_intensity: 0.15
+  calming_capacity_present: -0.08
+interview_priority: 7
+therapeutic_relevance: Important for understanding self-reported depression concern without clinical diagnosis or disorder inference.

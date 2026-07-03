@@ -1,0 +1,64 @@
+canonical_id: emotional_heaviness
+name: Emotional Heaviness
+domain: emotion_regulation
+definition: An observed signal that the person reports a persistent sense of emotional weight, heaviness, or being weighed down inside.
+behavioral_description: The person may describe feeling heavy emotionally, carrying an inner weight, or moving through days with a sense of drag, without diagnostic labeling.
+positive_evidence:
+  - Self-reported emotional heaviness or inner weight.
+  - Language of feeling weighed down or dragged by feeling.
+  - Heaviness that persists beyond one situational event.
+negative_evidence:
+  - Brief heaviness after a stressful day with recovery.
+  - Neutral emotional report without heaviness signal.
+typical_phrases:
+  en:
+    - everything feels emotionally heavy
+    - I carry a weight inside that won't lift
+    - my chest feels heavy most of the time
+    - I move through the day feeling weighed down
+  uk:
+    - усе відчувається емоційно важким
+    - ношу всередині вагу, яка не зникає
+    - груди більшість часу відчуваються важкими
+    - проживаю день, відчуваючи себе пригніченим
+  es:
+    - todo se siente emocionalmente pesado
+    - llevo un peso por dentro que no se levanta
+    - el pecho se siente pesado la mayor parte del tiempo
+    - avanzo el día sintiéndome agobiado
+  ru:
+    - всё ощущается эмоционально тяжёлым
+    - ношу внутри груз, который не снимается
+    - грудь большую часть времени ощущается тяжёлой
+    - проживаю день, чувствуя себя пригнобленным
+follow_up_questions:
+  en:
+    - Where in your body does this heaviness show up most?
+    - What, if anything, makes the weight feel lighter even briefly?
+  uk:
+    - Де в тілі ця важкість проявляється найбільше?
+    - Що, якщо взагалі щось, хоч трохи полегшує цю вагу?
+  es:
+    - ¿Dónde en su cuerpo aparece más esta pesadez?
+    - ¿Qué, si algo, aligera el peso aunque sea brevemente?
+  ru:
+    - Где в теле эта тяжесть проявляется больше всего?
+    - Что, если вообще что-то, хоть немного облегчает этот груз?
+related_patterns:
+  - low_mood_signal
+  - depressed_mood_signal
+  - fatigue_burden
+relationships:
+  - target_pattern: low_mood_signal
+    relation_type: often_coexists_with
+    weight: 0.81
+  - target_pattern: fatigue_burden
+    relation_type: may_strengthen
+    weight: 0.74
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  calming_capacity_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported emotional heaviness without diagnosis, eligibility decisions, or treatment recommendations.

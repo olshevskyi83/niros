@@ -1,0 +1,53 @@
+canonical_id: attachment_loss_signal
+name: Attachment Loss Signal
+domain: relationships
+definition: An observed signal that the person reports loss of attachment, partner connection, or relationship bond in their own words.
+behavioral_description: The person may describe missing a partner, losing the bond, or feeling the attachment relationship is gone without death-related bereavement language.
+positive_evidence:
+  - Self-reported loss of partner attachment or bond.
+  - Relationship separation described as attachment loss.
+negative_evidence:
+  - Death or bereavement context.
+  - Neutral solitude without attachment loss signal.
+typical_phrases:
+  en:
+    - I miss my partner
+    - I lost the connection with my partner
+    - after we separated I feel empty
+    - the bond is gone
+  uk:
+    - мені не вистачає партнера
+    - після розриву стосунків
+    - зник зв'язок з партнером
+    - відчуваю порожнечу після розставання
+  ru:
+    - мне не хватает партнера
+    - после расставания
+    - пропала связь с партнером
+    - чувствую пустоту после разрыва
+  es:
+    - extraño a mi pareja
+    - después de la ruptura
+    - se fue el vínculo con mi pareja
+    - siento un vacío después de separarnos
+follow_up_questions:
+  en:
+    - What feels most missing since the connection changed?
+  uk:
+    - Чого більше всього не вистачає з тих пір, як змінився зв'язок?
+  ru:
+    - Чего больше всего не хватает с тех пор, как изменилась связь?
+  es:
+    - ¿Qué es lo que más falta desde que cambió la conexión?
+related_patterns:
+  - relationship_breakup_context
+  - separation_distress
+relationships:
+  - target_pattern: relationship_breakup_context
+    relation_type: often_coexists_with
+    weight: 0.86
+confidence_rules:
+  repeated_evidence: 0.14
+  contradiction_present: -0.20
+interview_priority: 8
+therapeutic_relevance: Important for understanding attachment loss after separation without bereavement framing.

@@ -1,0 +1,55 @@
+canonical_id: compulsive_use_signal
+name: Compulsive Use Signal
+domain: emotion_regulation
+definition: An observed signal that the person reports repetitive or hard-to-stop use patterns in their own words.
+behavioral_description: The person may describe feeling driven to use, unable to stop, or pulled back repeatedly without clinical labeling.
+positive_evidence:
+  - Self-reported compulsive or repeated use.
+  - Difficulty stopping once started.
+negative_evidence:
+  - One-time mention without compulsion signal.
+  - Neutral habit without distress.
+typical_phrases:
+  en:
+    - I keep going back to it
+    - I can't stop once I start
+    - it feels compulsive
+    - I use even when I don't want to
+  uk:
+    - постійно повертаюсь до цього
+    - не можу зупинитися
+    - це відчувається compulsive
+    - мене не цікавить нічого крім наркотиків
+  ru:
+    - постоянно возвращаюсь к этому
+    - не могу остановиться
+    - меня не интересует ничего кроме наркотиков
+    - использую даже когда не хочу
+  es:
+    - sigo volviendo a ello
+    - no puedo parar una vez que empiezo
+    - no me interesa nada excepto las drogas
+    - uso aunque no quiera
+follow_up_questions:
+  en:
+    - When does the pull to use feel strongest?
+  uk:
+    - Коли потяг до вживання відчувається найсильніше?
+  ru:
+    - Когда тяга к употреблению ощущается сильнее всего?
+  es:
+    - ¿Cuándo se siente más fuerte el impulso de consumir?
+related_patterns:
+  - substance_preoccupation
+  - loss_of_control_over_use
+relationships:
+  - target_pattern: substance_preoccupation
+    relation_type: often_coexists_with
+    weight: 0.86
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.16
+  grounding_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding self-reported compulsive use signals without diagnosis.

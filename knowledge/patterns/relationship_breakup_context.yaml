@@ -1,0 +1,59 @@
+canonical_id: relationship_breakup_context
+name: Relationship Breakup Context
+domain: relationships
+definition: An observed signal that the person reports a romantic relationship breakup, separation, or end of partnership in their own words.
+behavioral_description: The person may describe breaking up, separating from a partner, or the end of a relationship without death or bereavement context.
+positive_evidence:
+  - Self-reported breakup or relationship separation.
+  - End of partnership named as context.
+negative_evidence:
+  - Death or bereavement language.
+  - Neutral relationship mention without breakup signal.
+typical_phrases:
+  en:
+    - I broke up with my partner
+    - after the breakup
+    - we separated
+    - my relationship ended
+  uk:
+    - я розійшовся з партнеркою
+    - я розійшлася з партнером
+    - після розриву стосунків
+    - ми розійшлися
+    - стосунки закінчилися
+  ru:
+    - я расстался с партнершей
+    - я рассталась с партнером
+    - после расставания
+    - мы разошлись
+    - отношения закончились
+  es:
+    - terminé con mi pareja
+    - después de la ruptura
+    - nos separamos
+    - mi relación terminó
+follow_up_questions:
+  en:
+    - What changed most in how you feel after the breakup?
+    - What feels hardest about life since the relationship ended?
+  uk:
+    - Що найбільше змінилося у вашому стані після розриву?
+    - Що зараз відчувається найважчим після завершення стосунків?
+  ru:
+    - Что больше всего изменилось в вашем состоянии после расставания?
+    - Что сейчас ощущается самым трудным после окончания отношений?
+  es:
+    - ¿Qué cambió más en cómo se siente después de la ruptura?
+    - ¿Qué se siente más difícil desde que terminó la relación?
+related_patterns:
+  - attachment_loss_signal
+  - separation_distress
+relationships:
+  - target_pattern: attachment_loss_signal
+    relation_type: often_coexists_with
+    weight: 0.88
+confidence_rules:
+  repeated_evidence: 0.14
+  contradiction_present: -0.22
+interview_priority: 9
+therapeutic_relevance: Important for understanding relationship breakup context without bereavement or diagnostic framing.

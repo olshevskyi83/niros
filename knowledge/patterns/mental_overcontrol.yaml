@@ -1,0 +1,64 @@
+canonical_id: mental_overcontrol
+name: Mental Overcontrol
+domain: emotion_regulation
+definition: An observed signal that the person reports needing tight control over thoughts, feelings, or inner experience to feel safe or functional.
+behavioral_description: The person may describe monitoring their mind constantly, suppressing feelings to stay in control, or fearing what happens if they relax mentally, without diagnostic labeling.
+positive_evidence:
+  - Self-reported need to control thoughts or feelings tightly.
+  - Constant mental monitoring or checking inner state.
+  - Fear of losing control if mental grip loosens.
+negative_evidence:
+  - Able to allow thoughts and feelings with reasonable flexibility.
+  - Relaxation of mental control without distress spike.
+typical_phrases:
+  en:
+    - I have to keep my thoughts under control
+    - I monitor my mind all the time
+    - I can't let my feelings take over
+    - if I relax mentally I'm afraid things will fall apart
+  uk:
+    - мушу тримати думки під контролем
+    - постійно моніторю свій розум
+    - не можу дозволити почуттям захопити мене
+    - якщо розслаблю контроль над думками, боюся, що все розвалиться
+  es:
+    - tengo que mantener mis pensamientos bajo control
+    - monitorizo mi mente todo el tiempo
+    - no puedo dejar que los sentimientos me dominen
+    - si me relajo mentalmente temo que todo se desmorone
+  ru:
+    - должен держать мысли под контролем
+    - постоянно мониторю свой ум
+    - не могу позволить чувствам захватить меня
+    - если ослаблю контроль над мыслями, боюсь, что всё развалится
+follow_up_questions:
+  en:
+    - What feels at risk if you loosen mental control?
+    - When did keeping tight control become necessary for you?
+  uk:
+    - Що, на вашу думку, під загрозою, якщо ви послабите контроль над думками?
+    - Коли для вас стало необхідним тримати все під жорстким контролем?
+  es:
+    - ¿Qué siente que está en riesgo si afloja el control mental?
+    - ¿Cuándo se volvió necesario para usted mantener un control estricto?
+  ru:
+    - Что, по вашему мнению, под угрозой, если вы ослабите контроль над мыслями?
+    - Когда для вас стало необходимым держать всё под жёстким контролем?
+related_patterns:
+  - emotional_suppression
+  - perfectionism
+  - fear_of_losing_control
+relationships:
+  - target_pattern: emotional_suppression
+    relation_type: often_coexists_with
+    weight: 0.81
+  - target_pattern: fear_of_losing_control
+    relation_type: may_strengthen
+    weight: 0.77
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  disengagement_capacity_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported mental overcontrol without diagnosis, eligibility decisions, or treatment recommendations.

@@ -22,6 +22,7 @@ from niros.voice_input import (
     create_voice_input,
 )
 from run_niros import run_niros
+from tests.intake_test_helpers import DEFAULT_TEST_INTAKE_INPUTS
 
 
 def test_voice_input_abstraction_contract():
@@ -180,9 +181,10 @@ def test_run_niros_voice_mode_falls_back_and_completes(monkeypatch):
         "niros.local_voice_input.local_voice_input_available",
         lambda: False,
     )
+    stdin_lines = DEFAULT_TEST_INTAKE_INPUTS + ["I worry people will stop liking me."]
     monkeypatch.setattr(
         "sys.stdin",
-        io.StringIO("I worry people will stop liking me.\n"),
+        io.StringIO("\n".join(stdin_lines) + "\n"),
     )
 
     exit_code = run_niros(
@@ -208,6 +210,7 @@ def test_run_niros_text_mode_still_works():
             "I try to make everyone happy.",
             "My mind gets stuck on the same worries.",
         ],
+        intake_inputs=DEFAULT_TEST_INTAKE_INPUTS,
         turns=3,
         provider="mock",
         output_stream=output,
@@ -227,6 +230,14 @@ def test_run_demo_text_mode_with_planned_inputs():
 
     exit_code = run_demo(
         user_inputs=["I stay quiet even when I disagree."],
+        intake_inputs=[
+            "I feel anxious in groups.",
+            "A few years.",
+            "School experiences.",
+            "Speaking up.",
+            "Therapy helped a little.",
+            "More confidence.",
+        ],
         turns=1,
         provider="mock",
         output_stream=output,

@@ -1,0 +1,1514 @@
+version: 1
+description: NIROS psychedelic intake pattern matrix for multilingual self-reported intake testing. Signals only — not diagnosis, eligibility, or treatment claims.
+cases:
+- id: uk_mood_001
+  language: uk
+  input: мій настрій більшість днів низький
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - low_mood_signal
+  - depressed_mood_signal
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - stuttering_signal
+- id: uk_mood_002
+  language: uk
+  input: я відчуваю депресію
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - depressed_mood_signal
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - perfectionism
+  - rumination
+- id: uk_mood_003
+  language: uk
+  input: нічого не приносить мені радості
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - anhedonia_signal
+  - low_mood_signal
+  negative_expected_patterns:
+  - speech_anxiety
+  - mystical_expectation
+- id: uk_mood_004
+  language: uk
+  input: надія здається далекою
+  expected_semantic_facts:
+  - category: self
+    attribute: perceived_helplessness
+    value: present
+  expected_patterns:
+  - hopelessness_signal
+  - loss_of_meaning
+  negative_expected_patterns:
+  - spiritual_openness
+  - fatigue_burden
+- id: uk_mood_005
+  language: uk
+  input: відчуваю важкість і пригніченість
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - emotional_heaviness
+  - depressed_mood_signal
+  negative_expected_patterns:
+  - fear_of_bad_trip
+  - hypervigilance
+- id: uk_mood_006
+  language: uk
+  input: життя здається meaningless
+  expected_semantic_facts:
+  - category: meaning
+    attribute: meaning_sense
+    value: unclear
+  expected_patterns:
+  - loss_of_meaning
+  - hopelessness_signal
+  negative_expected_patterns:
+  - speech_anxiety
+  - chronic_pain_burden
+- id: uk_anxiety_001
+  language: uk
+  input: мені страшно без причини
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: present
+  expected_patterns:
+  - generalized_fear
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - meaning_seeking
+  - integration_need
+- id: uk_anxiety_002
+  language: uk
+  input: я боюся втратити контроль
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - fear_of_losing_control
+  - panic_reactivity
+  negative_expected_patterns:
+  - spiritual_openness
+  - anhedonia_signal
+- id: uk_anxiety_003
+  language: uk
+  input: я боюся смерті
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - fear_of_death
+  - existential_fear
+  negative_expected_patterns:
+  - stuttering_signal
+  - people_pleasing
+- id: uk_anxiety_004
+  language: uk
+  input: я завжди у стресі
+  expected_semantic_facts:
+  - category: emotion
+    attribute: chronic_stress
+    value: present
+  expected_patterns:
+  - chronic_stress_signal
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - mystical_expectation
+  - trust_difficulty
+- id: uk_anxiety_005
+  language: uk
+  input: тривога відчувається в тілі
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - somatic_anxiety
+  - generalized_fear
+  negative_expected_patterns:
+  - loss_of_meaning
+  - communication_avoidance
+- id: uk_trauma_001
+  language: uk
+  input: я постійно напоготові
+  expected_semantic_facts:
+  - category: trauma
+    attribute: trauma_stress
+    value: present
+  expected_patterns:
+  - hypervigilance
+  - startle_sensitivity
+  negative_expected_patterns:
+  - spiritual_openness
+  - anhedonia_signal
+- id: uk_trauma_002
+  language: uk
+  input: повертаються небажані спогади
+  expected_semantic_facts:
+  - category: trauma
+    attribute: trauma_stress
+    value: present
+  expected_patterns:
+  - intrusive_memories
+  - hypervigilance
+  negative_expected_patterns:
+  - meaning_seeking
+  - fatigue_burden
+- id: uk_trauma_003
+  language: uk
+  input: я уникаю тригерів
+  expected_semantic_facts:
+  - category: trauma
+    attribute: trauma_stress
+    value: present
+  expected_patterns:
+  - avoidance_of_triggers
+  - hypervigilance
+  negative_expected_patterns:
+  - spiritual_openness
+  - low_mood_signal
+- id: uk_trauma_004
+  language: uk
+  input: я ніби відключений від емоцій
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: reduced
+  expected_patterns:
+  - emotional_numbing
+  - dissociation_signal
+  negative_expected_patterns:
+  - speech_anxiety
+  - mystical_expectation
+- id: uk_shame_001
+  language: uk
+  input: мені соромно, коли мене критикують
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - shame_sensitivity
+  - harsh_self_criticism
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - spiritual_openness
+- id: uk_shame_002
+  language: uk
+  input: я постійно себе критикую
+  expected_semantic_facts:
+  - category: self
+    attribute: self_worth
+    value: unstable
+  expected_patterns:
+  - harsh_self_criticism
+  - self_worth_instability
+  negative_expected_patterns:
+  - fear_of_bad_trip
+  - sleep_disruption
+- id: uk_shame_003
+  language: uk
+  input: відчуваю провину за минуле
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - guilt_burden
+  - shame_sensitivity
+  negative_expected_patterns:
+  - stuttering_signal
+  - meaning_seeking
+- id: uk_shame_004
+  language: uk
+  input: я відчуваю себе unworthy
+  expected_semantic_facts:
+  - category: self
+    attribute: self_worth
+    value: low
+  expected_patterns:
+  - unworthiness_signal
+  - self_worth_instability
+  negative_expected_patterns:
+  - chronic_pain_burden
+  - spiritual_resistance
+- id: uk_rumination_001
+  language: uk
+  input: мій розум застрягає на тих самих думках
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - rumination
+  - obsessive_thinking_loop
+  negative_expected_patterns:
+  - spiritual_openness
+  - fibromyalgia_signal
+- id: uk_rumination_002
+  language: uk
+  input: я постійно все контролюю в голові
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: elevated
+  expected_patterns:
+  - mental_overcontrol
+  - rumination
+  negative_expected_patterns:
+  - anhedonia_signal
+  - trust_in_facilitator_difficulty
+- id: uk_rumination_003
+  language: uk
+  input: не можу відпустити ці думки
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - inability_to_let_go
+  - rumination
+  negative_expected_patterns:
+  - fatigue_burden
+  - mystical_expectation
+- id: uk_body_001
+  language: uk
+  input: живу з фіброміалгією
+  expected_semantic_facts:
+  - category: body
+    attribute: pain_burden
+    value: present
+  expected_patterns:
+  - fibromyalgia_signal
+  - chronic_pain_burden
+  negative_expected_patterns:
+  - speech_anxiety
+  - spiritual_openness
+- id: uk_body_002
+  language: uk
+  input: я постійно втомлений
+  expected_semantic_facts:
+  - category: body
+    attribute: reported_fatigue
+    value: present
+  expected_patterns:
+  - fatigue_burden
+  - chronic_pain_burden
+  negative_expected_patterns:
+  - fear_of_speaking
+  - meaning_seeking
+- id: uk_body_003
+  language: uk
+  input: моє тіло постійно болить
+  expected_semantic_facts:
+  - category: body
+    attribute: pain_burden
+    value: present
+  expected_patterns:
+  - chronic_pain_burden
+  - body_sensitivity
+  negative_expected_patterns:
+  - rumination
+  - psychedelic_anxiety
+- id: uk_body_004
+  language: uk
+  input: біль викликає страх
+  expected_semantic_facts:
+  - category: body
+    attribute: pain_burden
+    value: present
+  - category: emotion
+    attribute: reported_fear
+    value: present
+  expected_patterns:
+  - pain_fear_cycle
+  - chronic_pain_burden
+  negative_expected_patterns:
+  - spiritual_openness
+  - anhedonia_signal
+- id: uk_body_005
+  language: uk
+  input: симптоми непередбачувані
+  expected_semantic_facts:
+  - category: body
+    attribute: pain_burden
+    value: present
+  expected_patterns:
+  - symptom_unpredictability
+  - fibromyalgia_signal
+  negative_expected_patterns:
+  - meaning_seeking
+  - trust_difficulty
+- id: uk_body_006
+  language: uk
+  input: сон порушений
+  expected_semantic_facts:
+  - category: sleep
+    attribute: nightmares
+    value: present
+  expected_patterns:
+  - sleep_disruption
+  - nightmare_disturbance
+  negative_expected_patterns:
+  - spiritual_openness
+  - speech_anxiety
+- id: uk_speech_001
+  language: uk
+  input: я заїкаюсь
+  expected_semantic_facts:
+  - category: speech
+    attribute: stuttering
+    value: present
+  expected_patterns:
+  - stuttering_signal
+  - speech_anxiety
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - loss_of_meaning
+- id: uk_speech_002
+  language: uk
+  input: боюся говорити з людьми
+  expected_semantic_facts:
+  - category: speech
+    attribute: speech_comfort
+    value: reduced
+  expected_patterns:
+  - fear_of_speaking
+  - communication_avoidance
+  negative_expected_patterns:
+  - chronic_pain_burden
+  - mystical_expectation
+- id: uk_speech_003
+  language: uk
+  input: соромно говорити
+  expected_semantic_facts:
+  - category: speech
+    attribute: speech_comfort
+    value: reduced
+  expected_patterns:
+  - shame_about_speech
+  - speech_anxiety
+  negative_expected_patterns:
+  - fatigue_burden
+  - spiritual_openness
+- id: uk_speech_004
+  language: uk
+  input: важко висловити себе
+  expected_semantic_facts:
+  - category: speech
+    attribute: speech_comfort
+    value: blocked
+  expected_patterns:
+  - self_expression_block
+  - communication_avoidance
+  negative_expected_patterns:
+  - fear_of_death
+  - integration_need
+- id: uk_psychedelic_001
+  language: uk
+  input: я боюся поганого тріпу
+  expected_semantic_facts:
+  - category: session
+    attribute: fear_of_bad_trip
+    value: present
+  expected_patterns:
+  - fear_of_bad_trip
+  - psychedelic_anxiety
+  negative_expected_patterns:
+  - fatigue_burden
+  - people_pleasing
+- id: uk_psychedelic_002
+  language: uk
+  input: важко відпустити контроль на сесії
+  expected_semantic_facts:
+  - category: session
+    attribute: session_openness
+    value: resistant
+  expected_patterns:
+  - surrender_difficulty
+  - control_resistance
+  negative_expected_patterns:
+  - low_mood_signal
+  - chronic_pain_burden
+- id: uk_psychedelic_003
+  language: uk
+  input: боюся відчуттів у тілі під час сесії
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - fear_of_body_sensations
+  - psychedelic_anxiety
+  negative_expected_patterns:
+  - meaning_seeking
+  - stuttering_signal
+- id: uk_psychedelic_004
+  language: uk
+  input: важко довіряти фасилітатору
+  expected_semantic_facts:
+  - category: relationship
+    attribute: trust
+    value: low
+  expected_patterns:
+  - trust_in_facilitator_difficulty
+  - psychedelic_anxiety
+  negative_expected_patterns:
+  - spiritual_openness
+  - anhedonia_signal
+- id: uk_psychedelic_005
+  language: uk
+  input: потрібна інтеграція після досвіду
+  expected_semantic_facts:
+  - category: meaning
+    attribute: change_desire
+    value: seeking
+  expected_patterns:
+  - integration_need
+  - meaning_seeking
+  negative_expected_patterns:
+  - stuttering_signal
+  - panic_reactivity
+- id: uk_spirituality_001
+  language: uk
+  input: я відкритий до духовного досвіду
+  expected_semantic_facts:
+  - category: meaning
+    attribute: meaning_sense
+    value: seeking
+  expected_patterns:
+  - spiritual_openness
+  - meaning_seeking
+  negative_expected_patterns:
+  - fear_of_bad_trip
+  - harsh_self_criticism
+- id: uk_spirituality_002
+  language: uk
+  input: я опираюся духовному досвіду
+  expected_semantic_facts:
+  - category: meaning
+    attribute: change_desire
+    value: resistant
+  expected_patterns:
+  - spiritual_resistance
+  - control_resistance
+  negative_expected_patterns:
+  - anhedonia_signal
+  - fibromyalgia_signal
+- id: uk_spirituality_003
+  language: uk
+  input: шукаю sense of meaning
+  expected_semantic_facts:
+  - category: meaning
+    attribute: meaning_sense
+    value: seeking
+  expected_patterns:
+  - meaning_seeking
+  - desire_for_change
+  negative_expected_patterns:
+  - stuttering_signal
+  - pain_fear_cycle
+- id: uk_spirituality_004
+  language: uk
+  input: очікую містичний досвід
+  expected_semantic_facts:
+  - category: meaning
+    attribute: change_desire
+    value: seeking
+  expected_patterns:
+  - mystical_expectation
+  - spiritual_openness
+  negative_expected_patterns:
+  - guilt_burden
+  - communication_avoidance
+- id: uk_spirituality_005
+  language: uk
+  input: я боюся жити
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - existential_fear
+  - safety_concern_signal
+  negative_expected_patterns:
+  - perfectionism
+  - fibromyalgia_signal
+- id: en_mood_001
+  language: en
+  input: my mood stays low most days
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - low_mood_signal
+  - depressed_mood_signal
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - stuttering_signal
+- id: en_mood_002
+  language: en
+  input: I feel depressed
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - depressed_mood_signal
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - perfectionism
+  - rumination
+- id: en_mood_003
+  language: en
+  input: nothing really brings me joy lately
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - anhedonia_signal
+  - low_mood_signal
+  negative_expected_patterns:
+  - speech_anxiety
+  - mystical_expectation
+- id: en_mood_004
+  language: en
+  input: hope feels far away
+  expected_semantic_facts:
+  - category: self
+    attribute: perceived_helplessness
+    value: present
+  expected_patterns:
+  - hopelessness_signal
+  - loss_of_meaning
+  negative_expected_patterns:
+  - spiritual_openness
+  - fatigue_burden
+- id: en_mood_005
+  language: en
+  input: I feel heavy and weighed down
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - emotional_heaviness
+  - depressed_mood_signal
+  negative_expected_patterns:
+  - fear_of_bad_trip
+  - hypervigilance
+- id: en_anxiety_001
+  language: en
+  input: I feel scared and I don't know why
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: present
+  expected_patterns:
+  - generalized_fear
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - meaning_seeking
+  - integration_need
+- id: en_anxiety_002
+  language: en
+  input: I'm afraid of losing control
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - fear_of_losing_control
+  - panic_reactivity
+  negative_expected_patterns:
+  - spiritual_openness
+  - anhedonia_signal
+- id: en_anxiety_003
+  language: en
+  input: I'm afraid of death
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - fear_of_death
+  - existential_fear
+  negative_expected_patterns:
+  - stuttering_signal
+  - people_pleasing
+- id: en_anxiety_004
+  language: en
+  input: I'm always stressed
+  expected_semantic_facts:
+  - category: emotion
+    attribute: chronic_stress
+    value: present
+  expected_patterns:
+  - chronic_stress_signal
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - mystical_expectation
+  - trust_difficulty
+- id: en_anxiety_005
+  language: en
+  input: anxiety lives in my body
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - somatic_anxiety
+  - generalized_fear
+  negative_expected_patterns:
+  - loss_of_meaning
+  - communication_avoidance
+- id: en_trauma_001
+  language: en
+  input: I'm constantly on guard
+  expected_semantic_facts:
+  - category: trauma
+    attribute: trauma_stress
+    value: present
+  expected_patterns:
+  - hypervigilance
+  - startle_sensitivity
+  negative_expected_patterns:
+  - spiritual_openness
+  - anhedonia_signal
+- id: en_trauma_002
+  language: en
+  input: unwanted memories keep coming back
+  expected_semantic_facts:
+  - category: trauma
+    attribute: trauma_stress
+    value: present
+  expected_patterns:
+  - intrusive_memories
+  - hypervigilance
+  negative_expected_patterns:
+  - meaning_seeking
+  - fatigue_burden
+- id: en_trauma_003
+  language: en
+  input: I avoid triggers when I can
+  expected_semantic_facts:
+  - category: trauma
+    attribute: trauma_stress
+    value: present
+  expected_patterns:
+  - avoidance_of_triggers
+  - hypervigilance
+  negative_expected_patterns:
+  - spiritual_openness
+  - low_mood_signal
+- id: en_shame_001
+  language: en
+  input: I feel ashamed when someone criticizes me
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - shame_sensitivity
+  - harsh_self_criticism
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - spiritual_openness
+- id: en_shame_002
+  language: en
+  input: I attack myself internally after mistakes
+  expected_semantic_facts:
+  - category: self
+    attribute: self_worth
+    value: unstable
+  expected_patterns:
+  - harsh_self_criticism
+  - self_worth_instability
+  negative_expected_patterns:
+  - fear_of_bad_trip
+  - sleep_disruption
+- id: en_rumination_001
+  language: en
+  input: My mind gets stuck on the same worries
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - rumination
+  - obsessive_thinking_loop
+  negative_expected_patterns:
+  - spiritual_openness
+  - fibromyalgia_signal
+- id: en_rumination_002
+  language: en
+  input: I can't let go of these thoughts
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - inability_to_let_go
+  - rumination
+  negative_expected_patterns:
+  - fatigue_burden
+  - mystical_expectation
+- id: en_body_001
+  language: en
+  input: I live with fibromyalgia
+  expected_semantic_facts:
+  - category: body
+    attribute: pain_burden
+    value: present
+  expected_patterns:
+  - fibromyalgia_signal
+  - chronic_pain_burden
+  negative_expected_patterns:
+  - speech_anxiety
+  - spiritual_openness
+- id: en_body_002
+  language: en
+  input: I'm exhausted all the time
+  expected_semantic_facts:
+  - category: body
+    attribute: reported_fatigue
+    value: present
+  expected_patterns:
+  - fatigue_burden
+  - chronic_pain_burden
+  negative_expected_patterns:
+  - fear_of_speaking
+  - meaning_seeking
+- id: en_body_003
+  language: en
+  input: my body hurts all the time
+  expected_semantic_facts:
+  - category: body
+    attribute: pain_burden
+    value: present
+  expected_patterns:
+  - chronic_pain_burden
+  - body_sensitivity
+  negative_expected_patterns:
+  - rumination
+  - psychedelic_anxiety
+- id: en_speech_001
+  language: en
+  input: I stutter when I speak
+  expected_semantic_facts:
+  - category: speech
+    attribute: stuttering
+    value: present
+  expected_patterns:
+  - stuttering_signal
+  - speech_anxiety
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - loss_of_meaning
+- id: en_speech_002
+  language: en
+  input: I'm afraid to speak in front of people
+  expected_semantic_facts:
+  - category: speech
+    attribute: speech_comfort
+    value: reduced
+  expected_patterns:
+  - fear_of_speaking
+  - communication_avoidance
+  negative_expected_patterns:
+  - chronic_pain_burden
+  - mystical_expectation
+- id: en_psychedelic_001
+  language: en
+  input: I'm afraid of a bad trip
+  expected_semantic_facts:
+  - category: session
+    attribute: fear_of_bad_trip
+    value: present
+  expected_patterns:
+  - fear_of_bad_trip
+  - psychedelic_anxiety
+  negative_expected_patterns:
+  - fatigue_burden
+  - people_pleasing
+- id: en_psychedelic_002
+  language: en
+  input: I find it hard to surrender during the session
+  expected_semantic_facts:
+  - category: session
+    attribute: session_openness
+    value: resistant
+  expected_patterns:
+  - surrender_difficulty
+  - control_resistance
+  negative_expected_patterns:
+  - low_mood_signal
+  - chronic_pain_burden
+- id: en_psychedelic_003
+  language: en
+  input: I need help integrating the experience
+  expected_semantic_facts:
+  - category: meaning
+    attribute: change_desire
+    value: seeking
+  expected_patterns:
+  - integration_need
+  - meaning_seeking
+  negative_expected_patterns:
+  - stuttering_signal
+  - panic_reactivity
+- id: en_spirituality_001
+  language: en
+  input: I'm open to a spiritual experience
+  expected_semantic_facts:
+  - category: meaning
+    attribute: meaning_sense
+    value: seeking
+  expected_patterns:
+  - spiritual_openness
+  - meaning_seeking
+  negative_expected_patterns:
+  - fear_of_bad_trip
+  - harsh_self_criticism
+- id: en_spirituality_002
+  language: en
+  input: I'm searching for meaning
+  expected_semantic_facts:
+  - category: meaning
+    attribute: meaning_sense
+    value: seeking
+  expected_patterns:
+  - meaning_seeking
+  - desire_for_change
+  negative_expected_patterns:
+  - stuttering_signal
+  - pain_fear_cycle
+- id: en_spirituality_003
+  language: en
+  input: I'm afraid to live
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - existential_fear
+  - safety_concern_signal
+  negative_expected_patterns:
+  - perfectionism
+  - fibromyalgia_signal
+- id: ru_mood_001
+  language: ru
+  input: моё настроение большую часть дней низкое
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - low_mood_signal
+  - depressed_mood_signal
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - stuttering_signal
+- id: ru_mood_002
+  language: ru
+  input: я чувствую депрессию
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - depressed_mood_signal
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - perfectionism
+  - rumination
+- id: ru_mood_003
+  language: ru
+  input: ничто не приносит мне радости
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - anhedonia_signal
+  - low_mood_signal
+  negative_expected_patterns:
+  - speech_anxiety
+  - mystical_expectation
+- id: ru_mood_004
+  language: ru
+  input: надежда кажется далёкой
+  expected_semantic_facts:
+  - category: self
+    attribute: perceived_helplessness
+    value: present
+  expected_patterns:
+  - hopelessness_signal
+  - loss_of_meaning
+  negative_expected_patterns:
+  - spiritual_openness
+  - fatigue_burden
+- id: ru_anxiety_001
+  language: ru
+  input: мне страшно без причины
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: present
+  expected_patterns:
+  - generalized_fear
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - meaning_seeking
+  - integration_need
+- id: ru_anxiety_002
+  language: ru
+  input: я боюсь потерять контроль
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - fear_of_losing_control
+  - panic_reactivity
+  negative_expected_patterns:
+  - spiritual_openness
+  - anhedonia_signal
+- id: ru_anxiety_003
+  language: ru
+  input: я боюсь смерти
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - fear_of_death
+  - existential_fear
+  negative_expected_patterns:
+  - stuttering_signal
+  - people_pleasing
+- id: ru_anxiety_004
+  language: ru
+  input: я всегда в стрессе
+  expected_semantic_facts:
+  - category: emotion
+    attribute: chronic_stress
+    value: present
+  expected_patterns:
+  - chronic_stress_signal
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - mystical_expectation
+  - trust_difficulty
+- id: ru_trauma_001
+  language: ru
+  input: я постоянно настороже
+  expected_semantic_facts:
+  - category: trauma
+    attribute: trauma_stress
+    value: present
+  expected_patterns:
+  - hypervigilance
+  - startle_sensitivity
+  negative_expected_patterns:
+  - spiritual_openness
+  - anhedonia_signal
+- id: ru_trauma_002
+  language: ru
+  input: возвращаются нежелательные воспоминания
+  expected_semantic_facts:
+  - category: trauma
+    attribute: trauma_stress
+    value: present
+  expected_patterns:
+  - intrusive_memories
+  - hypervigilance
+  negative_expected_patterns:
+  - meaning_seeking
+  - fatigue_burden
+- id: ru_shame_001
+  language: ru
+  input: мне стыдно, когда меня критикуют
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - shame_sensitivity
+  - harsh_self_criticism
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - spiritual_openness
+- id: ru_shame_002
+  language: ru
+  input: я чувствую себя unworthy
+  expected_semantic_facts:
+  - category: self
+    attribute: self_worth
+    value: low
+  expected_patterns:
+  - unworthiness_signal
+  - self_worth_instability
+  negative_expected_patterns:
+  - chronic_pain_burden
+  - spiritual_resistance
+- id: ru_rumination_001
+  language: ru
+  input: мой ум застревает на одних и тех же переживаниях
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - rumination
+  - obsessive_thinking_loop
+  negative_expected_patterns:
+  - spiritual_openness
+  - fibromyalgia_signal
+- id: ru_rumination_002
+  language: ru
+  input: не могу отпустить эти мысли
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - inability_to_let_go
+  - rumination
+  negative_expected_patterns:
+  - fatigue_burden
+  - mystical_expectation
+- id: ru_body_001
+  language: ru
+  input: живу с фибромиалгией
+  expected_semantic_facts:
+  - category: body
+    attribute: pain_burden
+    value: present
+  expected_patterns:
+  - fibromyalgia_signal
+  - chronic_pain_burden
+  negative_expected_patterns:
+  - speech_anxiety
+  - spiritual_openness
+- id: ru_body_002
+  language: ru
+  input: я постоянно exhausted
+  expected_semantic_facts:
+  - category: body
+    attribute: reported_fatigue
+    value: present
+  expected_patterns:
+  - fatigue_burden
+  - chronic_pain_burden
+  negative_expected_patterns:
+  - fear_of_speaking
+  - meaning_seeking
+- id: ru_body_003
+  language: ru
+  input: моё тело постоянно болит
+  expected_semantic_facts:
+  - category: body
+    attribute: pain_burden
+    value: present
+  expected_patterns:
+  - chronic_pain_burden
+  - body_sensitivity
+  negative_expected_patterns:
+  - rumination
+  - psychedelic_anxiety
+- id: ru_speech_001
+  language: ru
+  input: я заикаюсь, когда говорю
+  expected_semantic_facts:
+  - category: speech
+    attribute: stuttering
+    value: present
+  expected_patterns:
+  - stuttering_signal
+  - speech_anxiety
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - loss_of_meaning
+- id: ru_speech_002
+  language: ru
+  input: мне тревожно, когда нужно говорить
+  expected_semantic_facts:
+  - category: speech
+    attribute: speech_comfort
+    value: reduced
+  expected_patterns:
+  - fear_of_speaking
+  - speech_anxiety
+  negative_expected_patterns:
+  - chronic_pain_burden
+  - mystical_expectation
+- id: ru_psychedelic_001
+  language: ru
+  input: я боюсь bad trip
+  expected_semantic_facts:
+  - category: session
+    attribute: fear_of_bad_trip
+    value: present
+  expected_patterns:
+  - fear_of_bad_trip
+  - psychedelic_anxiety
+  negative_expected_patterns:
+  - fatigue_burden
+  - people_pleasing
+- id: ru_psychedelic_002
+  language: ru
+  input: мне нужна интеграция опыта
+  expected_semantic_facts:
+  - category: meaning
+    attribute: change_desire
+    value: seeking
+  expected_patterns:
+  - integration_need
+  - meaning_seeking
+  negative_expected_patterns:
+  - stuttering_signal
+  - panic_reactivity
+- id: ru_spirituality_001
+  language: ru
+  input: я боюсь жить
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - existential_fear
+  - safety_concern_signal
+  negative_expected_patterns:
+  - perfectionism
+  - fibromyalgia_signal
+- id: ru_spirituality_002
+  language: ru
+  input: я ищу sense of meaning
+  expected_semantic_facts:
+  - category: meaning
+    attribute: meaning_sense
+    value: seeking
+  expected_patterns:
+  - meaning_seeking
+  - desire_for_change
+  negative_expected_patterns:
+  - stuttering_signal
+  - pain_fear_cycle
+- id: es_mood_001
+  language: es
+  input: mi ánimo se mantiene bajo la mayoría de los días
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - low_mood_signal
+  - depressed_mood_signal
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - stuttering_signal
+- id: es_mood_002
+  language: es
+  input: me siento deprimido
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - depressed_mood_signal
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - perfectionism
+  - rumination
+- id: es_mood_003
+  language: es
+  input: nada me trae alegría últimamente
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_low_mood
+    value: present
+  expected_patterns:
+  - anhedonia_signal
+  - low_mood_signal
+  negative_expected_patterns:
+  - speech_anxiety
+  - mystical_expectation
+- id: es_mood_004
+  language: es
+  input: la esperanza se siente lejana
+  expected_semantic_facts:
+  - category: self
+    attribute: perceived_helplessness
+    value: present
+  expected_patterns:
+  - hopelessness_signal
+  - loss_of_meaning
+  negative_expected_patterns:
+  - spiritual_openness
+  - fatigue_burden
+- id: es_anxiety_001
+  language: es
+  input: tengo miedo sin saber por qué
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: present
+  expected_patterns:
+  - generalized_fear
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - meaning_seeking
+  - integration_need
+- id: es_anxiety_002
+  language: es
+  input: tengo miedo de perder el control
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - fear_of_losing_control
+  - panic_reactivity
+  negative_expected_patterns:
+  - spiritual_openness
+  - anhedonia_signal
+- id: es_anxiety_003
+  language: es
+  input: tengo miedo a la muerte
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - fear_of_death
+  - existential_fear
+  negative_expected_patterns:
+  - stuttering_signal
+  - people_pleasing
+- id: es_anxiety_004
+  language: es
+  input: siempre estoy estresado
+  expected_semantic_facts:
+  - category: emotion
+    attribute: chronic_stress
+    value: present
+  expected_patterns:
+  - chronic_stress_signal
+  - emotional_distress_signal
+  negative_expected_patterns:
+  - mystical_expectation
+  - trust_difficulty
+- id: es_trauma_001
+  language: es
+  input: estoy constantemente alerta
+  expected_semantic_facts:
+  - category: trauma
+    attribute: trauma_stress
+    value: present
+  expected_patterns:
+  - hypervigilance
+  - startle_sensitivity
+  negative_expected_patterns:
+  - spiritual_openness
+  - anhedonia_signal
+- id: es_trauma_002
+  language: es
+  input: vuelven recuerdos no deseados
+  expected_semantic_facts:
+  - category: trauma
+    attribute: trauma_stress
+    value: present
+  expected_patterns:
+  - intrusive_memories
+  - hypervigilance
+  negative_expected_patterns:
+  - meaning_seeking
+  - fatigue_burden
+- id: es_shame_001
+  language: es
+  input: me siento avergonzado cuando me critican
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - shame_sensitivity
+  - harsh_self_criticism
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - spiritual_openness
+- id: es_shame_002
+  language: es
+  input: me siento indigno
+  expected_semantic_facts:
+  - category: self
+    attribute: self_worth
+    value: low
+  expected_patterns:
+  - unworthiness_signal
+  - self_worth_instability
+  negative_expected_patterns:
+  - chronic_pain_burden
+  - spiritual_resistance
+- id: es_rumination_001
+  language: es
+  input: mi mente se queda atascada en las mismas preocupaciones
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - rumination
+  - obsessive_thinking_loop
+  negative_expected_patterns:
+  - spiritual_openness
+  - fibromyalgia_signal
+- id: es_rumination_002
+  language: es
+  input: no puedo soltar estos pensamientos
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_distress
+    value: present
+  expected_patterns:
+  - inability_to_let_go
+  - rumination
+  negative_expected_patterns:
+  - fatigue_burden
+  - mystical_expectation
+- id: es_body_001
+  language: es
+  input: vivo con fibromialgia
+  expected_semantic_facts:
+  - category: body
+    attribute: pain_burden
+    value: present
+  expected_patterns:
+  - fibromyalgia_signal
+  - chronic_pain_burden
+  negative_expected_patterns:
+  - speech_anxiety
+  - spiritual_openness
+- id: es_body_002
+  language: es
+  input: estoy agotado todo el tiempo
+  expected_semantic_facts:
+  - category: body
+    attribute: reported_fatigue
+    value: present
+  expected_patterns:
+  - fatigue_burden
+  - chronic_pain_burden
+  negative_expected_patterns:
+  - fear_of_speaking
+  - meaning_seeking
+- id: es_body_003
+  language: es
+  input: mi cuerpo duele todo el tiempo
+  expected_semantic_facts:
+  - category: body
+    attribute: pain_burden
+    value: present
+  expected_patterns:
+  - chronic_pain_burden
+  - body_sensitivity
+  negative_expected_patterns:
+  - rumination
+  - psychedelic_anxiety
+- id: es_speech_001
+  language: es
+  input: tartamudeo cuando hablo
+  expected_semantic_facts:
+  - category: speech
+    attribute: stuttering
+    value: present
+  expected_patterns:
+  - stuttering_signal
+  - speech_anxiety
+  negative_expected_patterns:
+  - fibromyalgia_signal
+  - loss_of_meaning
+- id: es_speech_002
+  language: es
+  input: me pongo ansioso cuando tengo que hablar
+  expected_semantic_facts:
+  - category: speech
+    attribute: speech_comfort
+    value: reduced
+  expected_patterns:
+  - fear_of_speaking
+  - speech_anxiety
+  negative_expected_patterns:
+  - chronic_pain_burden
+  - mystical_expectation
+- id: es_psychedelic_001
+  language: es
+  input: tengo miedo de un mal viaje
+  expected_semantic_facts:
+  - category: session
+    attribute: fear_of_bad_trip
+    value: present
+  expected_patterns:
+  - fear_of_bad_trip
+  - psychedelic_anxiety
+  negative_expected_patterns:
+  - fatigue_burden
+  - people_pleasing
+- id: es_psychedelic_002
+  language: es
+  input: necesito ayuda para integrar la experiencia
+  expected_semantic_facts:
+  - category: meaning
+    attribute: change_desire
+    value: seeking
+  expected_patterns:
+  - integration_need
+  - meaning_seeking
+  negative_expected_patterns:
+  - stuttering_signal
+  - panic_reactivity
+- id: es_spirituality_001
+  language: es
+  input: tengo miedo de vivir
+  expected_semantic_facts:
+  - category: emotion
+    attribute: reported_fear
+    value: elevated
+  expected_patterns:
+  - existential_fear
+  - safety_concern_signal
+  negative_expected_patterns:
+  - perfectionism
+  - fibromyalgia_signal
+- id: es_spirituality_002
+  language: es
+  input: busco sentido en la vida
+  expected_semantic_facts:
+  - category: meaning
+    attribute: meaning_sense
+    value: seeking
+  expected_patterns:
+  - meaning_seeking
+  - desire_for_change
+  negative_expected_patterns:
+  - stuttering_signal
+  - pain_fear_cycle

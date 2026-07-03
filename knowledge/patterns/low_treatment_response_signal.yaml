@@ -1,0 +1,63 @@
+canonical_id: low_treatment_response_signal
+name: Low Treatment Response Signal
+domain: treatment_context
+definition: An observed signal that the person reports previous therapy, medication, or support did not help enough in their own words.
+behavioral_description: The person may describe treatment, therapy, medication, or support attempts as insufficient or unhelpful without NIROS inferring clinical treatment failure.
+positive_evidence:
+  - Self-reported low response to prior help attempts.
+  - Statement that therapy, medication, or support did not help enough.
+negative_evidence:
+  - Neutral mention of past treatment without low-response signal.
+  - Treatment helping without low-response language.
+typical_phrases:
+  en:
+    - nothing helped
+    - therapy didn't help enough
+    - the medication didn't help
+    - treatment didn't work for me
+    - support didn't help enough
+  uk:
+    - нічого не допомогло
+    - терапія не допомогла
+    - ліки не допомогли
+    - лікування не допомогло
+    - підтримка не допомогла
+  ru:
+    - ничего не помогло
+    - терапия не помогла
+    - лекарства не помогли
+    - лечение не помогло
+  es:
+    - nada me ayudó
+    - la terapia no ayudó lo suficiente
+    - la medicación no ayudó
+    - el tratamiento no funcionó
+follow_up_questions:
+  en:
+    - What felt most missing from the help you tried before?
+    - What would have made that support feel more useful?
+  uk:
+    - Чого найбільше не вистачало в тій допомозі, яку ви пробували?
+    - Що могло б зробити ту підтримку кориснішою?
+  ru:
+    - Чего больше всего не хватало в той помощи, которую вы пробовали?
+    - Что могло бы сделать ту поддержку более полезной?
+  es:
+    - ¿Qué fue lo que más faltó en la ayuda que probó antes?
+    - ¿Qué habría hecho esa ayuda más útil?
+related_patterns:
+  - medication_history
+  - negative_medication_experience
+  - hopelessness_signal
+relationships:
+  - target_pattern: negative_medication_experience
+    relation_type: often_coexists_with
+    weight: 0.78
+  - target_pattern: hopelessness_signal
+    relation_type: may_strengthen
+    weight: 0.72
+confidence_rules:
+  repeated_evidence: 0.12
+  contradiction_present: -0.20
+interview_priority: 8
+therapeutic_relevance: Important for understanding self-reported low treatment response without diagnosis or treatment advice.

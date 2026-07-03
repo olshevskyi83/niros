@@ -17,9 +17,11 @@ typical_phrases:
   - I don't see a way forward
   - hope feels far away
   uk:
-  - я відчуваю hopeless
-  - не бачу way forward
-  - надія здається далекою
+    - я відчуваю hopeless
+    - не бачу way forward
+    - надія здається далекою
+    - мені не допомагає нічого
+    - нічого не допомагає
   ru:
   - я чувствую hopeless
   - не вижу way forward

@@ -1,0 +1,55 @@
+canonical_id: loss_of_control_over_use
+name: Loss of Control Over Use
+domain: emotion_regulation
+definition: An observed signal that the person reports losing control over substance use or a difficult habit in their own words.
+behavioral_description: The person may describe being unable to control use, beat dependency, or stop a habit without clinical labeling.
+positive_evidence:
+  - Self-reported loss of control over use.
+  - Inability to overcome dependency in the person's own words.
+negative_evidence:
+  - Controlled occasional use without concern.
+  - Neutral mention without loss-of-control signal.
+typical_phrases:
+  en:
+    - I cannot control my use
+    - I can't beat this addiction
+    - I lose control when I use
+    - I cannot overcome this dependency
+  uk:
+    - я не можу побороти залежність
+    - не можу контролювати вживання
+    - втрачаю контроль
+    - не можу зупинитися
+  ru:
+    - я не могу побороть зависимость
+    - не могу контролировать употребление
+    - теряю контроль
+    - не могу остановиться
+  es:
+    - no puedo controlar mi consumo
+    - no puedo vencer esta adicción
+    - pierdo el control cuando consumo
+    - no puedo superar esta dependencia
+follow_up_questions:
+  en:
+    - What happens just before control feels lost?
+  uk:
+    - Що відбувається безпосередньо перед тим, як відчувається втрата контролю?
+  ru:
+    - Что происходит непосредственно перед ощущением потери контроля?
+  es:
+    - ¿Qué ocurre justo antes de que se sienta la pérdida de control?
+related_patterns:
+  - addiction_concern_signal
+  - compulsive_use_signal
+relationships:
+  - target_pattern: addiction_concern_signal
+    relation_type: often_coexists_with
+    weight: 0.88
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.18
+  grounding_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding self-reported loss of control without diagnosis.

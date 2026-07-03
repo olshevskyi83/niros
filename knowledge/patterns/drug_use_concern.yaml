@@ -1,0 +1,55 @@
+canonical_id: drug_use_concern
+name: Drug Use Concern
+domain: emotion_regulation
+definition: An observed signal that the person reports concern specifically about drug use in their own words.
+behavioral_description: The person may name drugs or drug use as a problem area without clinical labeling.
+positive_evidence:
+  - Self-reported drug use concern.
+  - Drugs named as part of the presenting problem.
+negative_evidence:
+  - Generic stress without drug mention.
+  - Neutral context without concern.
+typical_phrases:
+  en:
+    - problem with drugs
+    - I have a problem with drugs
+    - worried about my drug use
+    - drugs are becoming a problem
+  uk:
+    - у мене проблема з наркотиками
+    - проблема з наркотиками
+    - хвилююсь через наркотики
+    - наркотики стали проблемою
+  ru:
+    - у меня проблема с наркотиками
+    - проблема с наркотиками
+    - беспокоюсь из-за наркотиков
+    - наркотики стали проблемой
+  es:
+    - problema con las drogas
+    - tengo un problema con las drogas
+    - me preocupa mi consumo de drogas
+    - las drogas se están convirtiendo en un problema
+follow_up_questions:
+  en:
+    - What feels most pressing about this concern right now?
+  uk:
+    - Що зараз відчувається найгострішим у цій темі?
+  ru:
+    - Что сейчас ощущается самым острым в этой теме?
+  es:
+    - ¿Qué se siente más urgente en esta preocupación ahora?
+related_patterns:
+  - substance_use_pattern
+  - addiction_concern_signal
+relationships:
+  - target_pattern: substance_use_pattern
+    relation_type: often_coexists_with
+    weight: 0.90
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.15
+  grounding_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding self-reported drug use concern without diagnosis.

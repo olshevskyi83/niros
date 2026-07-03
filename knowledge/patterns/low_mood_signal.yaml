@@ -1,0 +1,64 @@
+canonical_id: low_mood_signal
+name: Low Mood Signal
+domain: emotion_regulation
+definition: An observed signal that the person reports a persistently low or flat mood in their own words without clinical labeling.
+behavioral_description: The person may describe feeling low, flat, or down most days, with little lift in mood, without assigning a diagnosis or naming a disorder.
+positive_evidence:
+  - Self-reported low or flat mood language.
+  - Mood that feels persistently down over time.
+  - Difficulty noticing uplift or lightness in daily life.
+negative_evidence:
+  - Brief low mood tied to one resolved event.
+  - Neutral mood report without a low mood signal.
+typical_phrases:
+  en:
+    - my mood stays low most days
+    - I feel flat and down a lot
+    - nothing really lifts my mood lately
+    - I wake up already feeling low
+  uk:
+    - мій настрій більшість днів низький
+    - часто почуваюся пригніченим і порожнім
+    - останнім часом нічого не піднімає настрій
+    - прокидаюся вже з низьким настроєм
+  es:
+    - mi ánimo se mantiene bajo la mayoría de los días
+    - me siento apagado y decaído con frecuencia
+    - últimamente nada levanta mi ánimo
+    - me despierto ya con el ánimo bajo
+  ru:
+    - моё настроение большую часть дней низкое
+    - часто чувствую себя подавленным и опустошённым
+    - в последнее время ничто не поднимает настроение
+    - просыпаюсь уже с низким настроением
+follow_up_questions:
+  en:
+    - How long has this low mood been present for you?
+    - What, if anything, shifts it even a little?
+  uk:
+    - Як довго для вас присутній цей низький настрій?
+    - Що, якщо взагалі щось, трохи його змінює?
+  es:
+    - ¿Cuánto tiempo lleva presente este ánimo bajo para usted?
+    - ¿Qué, si algo, lo cambia aunque sea un poco?
+  ru:
+    - Как долго для вас присутствует это низкое настроение?
+    - Что, если вообще что-то, немного его меняет?
+related_patterns:
+  - depressed_mood_signal
+  - emotional_heaviness
+  - hopelessness_signal
+relationships:
+  - target_pattern: depressed_mood_signal
+    relation_type: often_coexists_with
+    weight: 0.83
+  - target_pattern: emotional_heaviness
+    relation_type: often_coexists_with
+    weight: 0.79
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  calming_capacity_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported low mood without diagnosis, eligibility decisions, or treatment recommendations.

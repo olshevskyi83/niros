@@ -20,6 +20,7 @@ from niros.runtime_config import (
     resolve_semantic_provider,
 )
 from run_niros import run_niros
+from tests.intake_test_helpers import DEFAULT_TEST_INTAKE_INPUTS
 
 
 def test_automatic_provider_selects_openai_when_api_key_exists(monkeypatch):
@@ -47,9 +48,10 @@ def test_run_niros_startup_reports_openai_unavailable_without_key(monkeypatch):
     output = io.StringIO()
 
     run_niros(
-        "I worry people will stop liking me.",
+        user_inputs=["I worry people will stop liking me."],
         turns=1,
         provider="mock",
+        skip_intake=True,
         output_stream=output,
     )
 
@@ -63,9 +65,10 @@ def test_run_niros_startup_reports_openai_available_with_key(monkeypatch):
     output = io.StringIO()
 
     run_niros(
-        "I worry people will stop liking me.",
+        user_inputs=["I worry people will stop liking me."],
         turns=1,
         provider="mock",
+        skip_intake=True,
         output_stream=output,
     )
 
@@ -78,9 +81,10 @@ def test_explicit_openai_provider_without_key_shows_setup_hint(monkeypatch):
     output = io.StringIO()
 
     run_niros(
-        "I worry people will stop liking me.",
+        user_inputs=["I worry people will stop liking me."],
         turns=1,
         provider="openai",
+        skip_intake=True,
         output_stream=output,
     )
 
@@ -121,9 +125,10 @@ def test_no_api_key_leakage_in_run_niros_output(monkeypatch):
     output = io.StringIO()
 
     run_niros(
-        "I worry people will stop liking me.",
+        user_inputs=["I worry people will stop liking me."],
         turns=1,
         provider="openai",
+        skip_intake=True,
         output_stream=output,
     )
 
@@ -138,8 +143,10 @@ def test_no_api_key_leakage_in_run_demo_output(monkeypatch):
     output = io.StringIO()
 
     run_demo(
-        "I worry people will stop liking me.",
+        user_inputs=["I worry people will stop liking me."],
+        turns=1,
         provider="openai",
+        skip_intake=True,
         output_stream=output,
     )
 
@@ -152,10 +159,11 @@ def test_run_niros_debug_mode_prints_pipeline_sections():
     output = io.StringIO()
 
     run_niros(
-        "I worry people will stop liking me.",
+        user_inputs=["I worry people will stop liking me."],
         turns=1,
         provider="mock",
         debug=True,
+        skip_intake=True,
         output_stream=output,
     )
 
@@ -173,9 +181,10 @@ def test_run_niros_explicit_mock_provider_for_tests():
     output = io.StringIO()
 
     run_niros(
-        "I stay quiet even when I disagree.",
+        user_inputs=["I stay quiet even when I disagree."],
         turns=1,
         provider="mock",
+        skip_intake=True,
         output_stream=output,
     )
 

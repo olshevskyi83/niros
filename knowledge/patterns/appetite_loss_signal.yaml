@@ -1,0 +1,54 @@
+canonical_id: appetite_loss_signal
+name: Appetite Loss Signal
+domain: body_pain
+definition: An observed signal that the person reports reduced appetite or not wanting to eat in their own words.
+behavioral_description: The person may describe loss of appetite, not wanting food, or reduced eating without medical labeling.
+positive_evidence:
+  - Self-reported loss of appetite.
+  - Not wanting to eat in the person's own words.
+negative_evidence:
+  - Neutral food mention without appetite change.
+typical_phrases:
+  en:
+    - I don't want to eat
+    - no appetite
+    - lost my appetite
+    - food doesn't appeal to me
+  uk:
+    - їсти не хочеться
+    - немає апетиту
+    - пропав апетит
+    - не хочеться їсти
+  ru:
+    - есть не хочется
+    - нет аппетита
+    - пропал аппетит
+    - не хочется есть
+  es:
+    - no quiero comer
+    - no tengo apetito
+    - perdí el apetito
+    - no me apetece comer
+follow_up_questions:
+  en:
+    - When do you notice the lack of appetite most?
+  uk:
+    - Коли відсутність апетиту відчувається найсильніше?
+  ru:
+    - Когда отсутствие аппетита ощущается сильнее всего?
+  es:
+    - ¿Cuándo se nota más la falta de apetito?
+related_patterns:
+  - depressed_mood_signal
+  - low_mood_signal
+relationships:
+  - target_pattern: depressed_mood_signal
+    relation_type: may_strengthen
+    weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.14
+  grounding_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding self-reported appetite changes without diagnosis.

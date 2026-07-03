@@ -1,0 +1,63 @@
+canonical_id: negative_medication_experience
+name: Negative Medication Experience
+domain: treatment_context
+definition: An observed signal that the person reports feeling worse, side effects, or a negative experience after medication in their own words.
+behavioral_description: The person may describe medication making them feel worse, unwanted effects, or a difficult experience with prescribed medication without NIROS inferring clinical outcomes.
+positive_evidence:
+  - Self-reported feeling worse after medication.
+  - Side effects or negative medication experience in the person's words.
+negative_evidence:
+  - Neutral medication mention without negative experience.
+  - Medication helping without negative signal.
+typical_phrases:
+  en:
+    - antidepressants made me feel worse
+    - the medication made me worse
+    - I felt worse on antidepressants
+    - the side effects were bad
+    - I felt even worse after taking them
+  uk:
+    - від них я себе почував ще гірше
+    - антидепресанти зробили мені гірше
+    - після них мені було ще гірше
+    - від антидепресантів стало гірше
+    - ліки зробили мені гірше
+  ru:
+    - от них мне стало ещё хуже
+    - антидепрессанты сделали мне хуже
+    - после них мне было ещё хуже
+    - от антидепрессантов стало хуже
+  es:
+    - los antidepresivos me hicieron sentir peor
+    - me sentí peor con los antidepresivos
+    - después de tomarlos me sentí peor
+    - los efectos secundarios fueron malos
+follow_up_questions:
+  en:
+    - What felt wrong while you were taking the medication?
+    - What changed when you stopped or adjusted it?
+  uk:
+    - Що саме відчувалося не так під час прийому антидепресантів?
+    - Що змінилося, коли ви припинили або змінили прийом?
+  ru:
+    - Что именно ощущалось не так во время приёма антидепрессантов?
+    - Что изменилось, когда вы прекратили или изменили приём?
+  es:
+    - ¿Qué se sintió mal mientras tomaba los antidepresivos?
+    - ¿Qué cambió cuando dejó o ajustó la medicación?
+related_patterns:
+  - medication_history
+  - low_treatment_response_signal
+relationships:
+  - target_pattern: medication_history
+    relation_type: often_coexists_with
+    weight: 0.88
+  - target_pattern: low_treatment_response_signal
+    relation_type: may_strengthen
+    weight: 0.80
+confidence_rules:
+  repeated_evidence: 0.12
+  contradiction_present: -0.18
+  strong_emotional_intensity: 0.14
+interview_priority: 9
+therapeutic_relevance: Important for understanding negative medication experience without diagnosis or treatment recommendations.

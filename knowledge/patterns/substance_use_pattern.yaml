@@ -1,0 +1,63 @@
+canonical_id: substance_use_pattern
+name: Substance Use Pattern
+domain: emotion_regulation
+definition: An observed signal that the person reports concern about drug or substance use in their own words.
+behavioral_description: The person may describe a problem with drugs or substances without clinical labeling or treatment claims.
+positive_evidence:
+  - Self-reported problem with drugs or substances.
+  - Substance use named as a current concern.
+negative_evidence:
+  - Neutral mention without a use concern.
+  - Third-person or hypothetical only.
+typical_phrases:
+  en:
+    - I have a problem with drugs
+    - problem with drugs
+    - problem with substances
+    - I struggle with substance use
+    - my drug use is a problem
+  uk:
+    - у мене проблема з наркотиками
+    - проблема з наркотиками
+    - проблема з речовинами
+    - у мене проблема з вживанням
+  ru:
+    - у меня проблема с наркотиками
+    - проблема с наркотиками
+    - проблема с веществами
+    - у меня проблема с употреблением
+  es:
+    - tengo un problema con las drogas
+    - problema con las drogas
+    - problema con sustancias
+    - tengo un problema con el consumo
+follow_up_questions:
+  en:
+    - What feels most important to understand about this right now?
+    - When does this concern show up most strongly?
+  uk:
+    - Що зараз найважливіше зрозуміти щодо цього?
+    - Коли цей запит проявляється найсильніше?
+  ru:
+    - Что сейчас важнее всего понять об этом?
+    - Когда эта тема проявляется сильнее всего?
+  es:
+    - ¿Qué sientes que es más importante entender sobre esto ahora?
+    - ¿Cuándo aparece con más fuerza esta preocupación?
+related_patterns:
+  - drug_use_concern
+  - addiction_concern_signal
+relationships:
+  - target_pattern: drug_use_concern
+    relation_type: often_coexists_with
+    weight: 0.90
+  - target_pattern: addiction_concern_signal
+    relation_type: may_strengthen
+    weight: 0.82
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.15
+  grounding_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding self-reported substance use concern without diagnosis or treatment advice.

@@ -11,6 +11,7 @@ sys.path.insert(0, str(ROOT))
 sys.path.insert(0, str(SCRIPTS_DIR))
 
 from run_niros import COMPLETION_MESSAGE, WELCOME_BANNER, run_niros
+from tests.intake_test_helpers import DEFAULT_TEST_INTAKE_INPUTS
 
 
 def test_runner_exists():
@@ -26,6 +27,7 @@ def test_runner_completes_with_mock_provider():
             "I try to make everyone happy.",
             "I push my feelings down so I can keep going.",
         ],
+        intake_inputs=DEFAULT_TEST_INTAKE_INPUTS,
         turns=3,
         provider="mock",
         output_stream=output,
@@ -39,9 +41,10 @@ def test_mock_provider_is_reported():
     output = io.StringIO()
 
     run_niros(
-        "I stay quiet even when I disagree.",
+        user_inputs=["I stay quiet even when I disagree."],
         turns=1,
         provider="mock",
+        skip_intake=True,
         output_stream=output,
     )
 
@@ -59,6 +62,7 @@ def test_runner_output_contains_mvp_sections():
             "I try to make everyone happy.",
             "My mind gets stuck on the same worries.",
         ],
+        intake_inputs=DEFAULT_TEST_INTAKE_INPUTS,
         turns=3,
         provider="mock",
         output_stream=output,
@@ -82,9 +86,10 @@ def test_runner_openai_provider_does_not_crash_without_api_key(monkeypatch):
     output = io.StringIO()
 
     exit_code = run_niros(
-        "I worry people will stop liking me.",
+        user_inputs=["I worry people will stop liking me."],
         turns=1,
         provider="openai",
+        skip_intake=True,
         output_stream=output,
     )
 
@@ -95,16 +100,19 @@ def test_runner_openai_provider_does_not_crash_without_api_key(monkeypatch):
 def test_runner_rejects_unknown_provider():
     with pytest.raises(ValueError, match="Unsupported semantic interpreter provider"):
         run_niros(
-            "I worry people will stop liking me.",
+            user_inputs=["I worry people will stop liking me."],
+            turns=1,
             provider="anthropic",
+            skip_intake=True,
             output_stream=io.StringIO(),
         )
 
 
 def test_runner_main_runs_as_subprocess():
+    stdin_lines = DEFAULT_TEST_INTAKE_INPUTS + ["I worry people will stop liking me."]
     result = subprocess.run(
         [sys.executable, str(SCRIPTS_DIR / "run_niros.py"), "--turns", "1"],
-        input="I worry people will stop liking me.\n",
+        input="\n".join(stdin_lines) + "\n",
         capture_output=True,
         text=True,
         cwd=ROOT,

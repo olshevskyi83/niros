@@ -1,0 +1,61 @@
+canonical_id: depressed_mood_signal
+name: Depressed Mood Signal
+domain: emotion_regulation
+definition: An observed signal that the person reports sustained low mood or depression-like feelings supported by other symptoms, not clinical self-labeling alone.
+behavioral_description: The person may describe persistent low mood, sadness, or heaviness — especially alongside sleep, appetite, social, or hopelessness signals — without NIROS assigning a diagnosis.
+positive_evidence:
+  - Self-reported low mood language with supporting symptom context.
+  - Persistent sadness or heaviness in mood over time.
+  - Low mood alongside sleep, appetite, social, or hopelessness signals.
+negative_evidence:
+  - Depression self-label only without supporting mood or symptom language.
+  - Brief sadness tied to one resolved event.
+  - Neutral mood report without low mood signal.
+typical_phrases:
+  en:
+    - my mood is very low
+    - I feel down most of the time
+    - persistent sadness most days
+  uk:
+    - настрій дуже низький
+    - більшість часу почуваюся пригнічено
+    - постійна сумність більшість днів
+  es:
+    - mi ánimo está muy bajo
+    - me siento decaído la mayor parte del tiempo
+    - tristeza persistente la mayoría de los días
+  ru:
+    - настроение очень низкое
+    - большую часть времени чувствую подавленность
+    - постоянная печаль большинство дней
+follow_up_questions:
+  en:
+    - How long has this low mood been present?
+    - What, if anything, shifts it even a little?
+  uk:
+    - Як довго цей низький настрій присутній?
+    - Що, якщо взагалі щось, трохи його змінює?
+  es:
+    - ¿Cuánto tiempo lleva presente este ánimo bajo?
+    - ¿Qué, si algo, lo cambia aunque sea un poco?
+  ru:
+    - Как долго присутствует это низкое настроение?
+    - Что, если вообще что-то, немного его меняет?
+related_patterns:
+  - emotional_distress_signal
+  - hopelessness_signal
+  - sleep_disruption
+relationships:
+  - target_pattern: emotional_distress_signal
+    relation_type: often_coexists_with
+    weight: 0.84
+  - target_pattern: hopelessness_signal
+    relation_type: may_strengthen
+    weight: 0.76
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  calming_capacity_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding self-reported low mood without clinical diagnosis or certainty.

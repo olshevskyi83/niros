@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from niros.input_language import detect_language_from_text
 from niros.semantic_interpreter.base import SemanticInterpreter, SemanticInterpretationResult
 from niros.semantic_interpreter.facts import SemanticFact
 
@@ -72,11 +73,13 @@ class MockSemanticInterpreter(SemanticInterpreter):
         stripped = raw_text.strip()
         statements = self.interpret(raw_text)
         mapped = bool(stripped) and statements != [stripped]
+        detected = detect_language_from_text(stripped)
 
         return SemanticInterpretationResult(
             raw_text=raw_text,
             canonical_statements=statements,
             facts=_facts_for_statements(statements),
             provider="mock",
+            detected_language=detected.value if detected is not None else None,
             confidence=1.0 if mapped else None,
         )

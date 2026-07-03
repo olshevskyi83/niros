@@ -1,0 +1,64 @@
+canonical_id: fibromyalgia_signal
+name: Fibromyalgia Signal
+domain: body_pain
+definition: An observed signal that the person reports widespread body pain, tenderness, or fatigue patterns they associate with fibromyalgia in their own words.
+behavioral_description: The person may describe whole-body aching, tender points, flare-ups, or living with fibromyalgia-like pain burden without medical classification or eligibility judgment.
+positive_evidence:
+  - Self-reported fibromyalgia or widespread pain language.
+  - Whole-body aching or tenderness described by the person.
+  - Pain flares that affect daily function over time.
+negative_evidence:
+  - Localized pain with clear mechanical cause and resolution.
+  - Neutral body mention without widespread pain signal.
+typical_phrases:
+  en:
+    - I live with fibromyalgia
+    - my whole body aches most days
+    - pain flares come and go unpredictably
+    - even light touch can feel painful
+  uk:
+    - живу з фіброміалгією
+    - більшість днів болить все тіло
+    - спалахи болю приходять і проходять непередбачувано
+    - навіть легкий дотик може боліти
+  es:
+    - vivo con fibromialgia
+    - me duele todo el cuerpo la mayoría de los días
+    - los brotes de dolor van y vienen sin predecir
+    - hasta un roce ligero puede doler
+  ru:
+    - живу с фибромиалгией
+    - большую часть дней болит всё тело
+    - вспышки боли приходят и уходят непредсказуемо
+    - даже лёгкое прикосновение может болеть
+follow_up_questions:
+  en:
+    - How do pain flares affect your day-to-day life?
+    - What, if anything, helps even a little during a flare?
+  uk:
+    - Як спалахи болю впливають на ваше повсякденне життя?
+    - Що, якщо взагалі щось, трохи допомагає під час спалаху?
+  es:
+    - ¿Cómo afectan los brotes de dolor su vida diaria?
+    - ¿Qué, si algo, ayuda aunque sea un poco durante un brote?
+  ru:
+    - Как вспышки боли влияют на вашу повседневную жизнь?
+    - Что, если вообще что-то, немного помогает во время вспышки?
+related_patterns:
+  - chronic_pain_burden
+  - fatigue_burden
+  - body_sensitivity
+relationships:
+  - target_pattern: chronic_pain_burden
+    relation_type: often_coexists_with
+    weight: 0.86
+  - target_pattern: fatigue_burden
+    relation_type: may_strengthen
+    weight: 0.80
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  grounding_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported widespread pain and fibromyalgia-related language without diagnosis, eligibility decisions, or treatment recommendations.

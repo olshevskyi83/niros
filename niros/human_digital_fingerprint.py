@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+from niros.assessment import AssessmentResult
+from niros.assessment_runner import format_assessment_signal, serialize_assessment_results
 from niros.big_five.profile import BigFiveProfile
 from niros.big_five.scorer import score_big_five
 from niros.human_profile_summary import NO_EVIDENCE_PROFILE_TEXT, build_human_profile_summary
@@ -44,30 +46,41 @@ def build_human_digital_fingerprint(
     semantic_facts: list[SemanticFact] | None = None,
     big_five: BigFiveProfile | None = None,
     big_five_answers: dict[str, int] | None = None,
+    presenting_problem: dict[str, str] | None = None,
+    assessment_results: list[AssessmentResult] | None = None,
 ) -> dict:
     patterns = build_human_profile_summary(detected_patterns)
     facts = list(semantic_facts or [])
+    serialized_assessment = serialize_assessment_results(list(assessment_results or []))
 
     profile = big_five
     if profile is None and big_five_answers is not None:
         profile = score_big_five(big_five_answers)
 
+    fingerprint_payload = {
+        "patterns": patterns,
+        "semantic_facts": facts,
+        "big_five": profile.to_dict() if profile is not None else None,
+        "presenting_problem": presenting_problem or {},
+        "assessment_results": serialized_assessment,
+    }
+
     return {
         "patterns": patterns,
         "semantic_facts": [_serialize_semantic_fact(fact) for fact in facts],
         "big_five": profile.to_dict() if profile is not None else None,
-        "summary_text": format_human_digital_fingerprint(
-            {
-                "patterns": patterns,
-                "semantic_facts": facts,
-                "big_five": profile.to_dict() if profile is not None else None,
-            }
-        ),
+        "presenting_problem": dict(presenting_problem or {}),
+        "assessment_results": serialized_assessment,
+        "summary_text": format_human_digital_fingerprint(fingerprint_payload),
     }
 
 
 def format_human_digital_fingerprint(fingerprint: dict) -> str:
     parts: list[str] = []
+
+    presenting_part = _format_presenting_problem_section(fingerprint.get("presenting_problem", {}))
+    if presenting_part:
+        parts.append(presenting_part)
 
     pattern_part = _format_pattern_section(fingerprint.get("patterns", {}))
     if pattern_part:
@@ -81,11 +94,39 @@ def format_human_digital_fingerprint(fingerprint: dict) -> str:
     if big_five_part:
         parts.append(big_five_part)
 
+    assessment_part = _format_assessment_results_section(fingerprint.get("assessment_results", []))
+    if assessment_part:
+        parts.append(assessment_part)
+
     if not parts:
         return NO_EVIDENCE_PROFILE_TEXT
 
     parts.append(NON_DIAGNOSTIC_NOTICE)
     return " ".join(parts)
+
+
+def _format_presenting_problem_section(presenting_problem: dict) -> str:
+    if not presenting_problem:
+        return ""
+
+    labels = {
+        "main_problem": "Main problem",
+        "duration": "Duration",
+        "perceived_causes": "Perceived causes",
+        "current_impact": "Current impact",
+        "previous_attempts": "Previous attempts",
+        "desired_outcome": "Desired outcome",
+    }
+    lines: list[str] = []
+    for key, label in labels.items():
+        value = str(presenting_problem.get(key, "")).strip()
+        if value:
+            lines.append(f"{label}: {value}")
+
+    if not lines:
+        return ""
+
+    return "Presenting problem: " + " ".join(lines) + "."
 
 
 def describe_big_five_trait(trait: str, score: float) -> str:
@@ -162,3 +203,11 @@ def _format_big_five_section(big_five: dict[str, float] | None) -> str:
         trait_lines.append(f"{trait}={score:.2f} ({descriptor})")
 
     return "Big Five self-report: " + "; ".join(trait_lines) + "."
+
+
+def _format_assessment_results_section(assessment_results: list) -> str:
+    if not assessment_results:
+        return ""
+
+    signals = [format_assessment_signal(result) for result in assessment_results]
+    return "Structured assessment signals: " + "; ".join(signals) + "."

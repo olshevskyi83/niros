@@ -1,0 +1,64 @@
+canonical_id: guilt_burden
+name: Guilt Burden
+domain: emotion_regulation
+definition: An observed signal that the person reports carrying persistent guilt or feeling weighed down by things they believe they did wrong.
+behavioral_description: The person may describe guilt that lingers, replay of past actions, or a sense of owing amends, without assigning a clinical diagnosis.
+positive_evidence:
+  - Self-reported persistent or recurring guilt.
+  - Language of carrying guilt that does not ease.
+  - Replaying past actions linked to guilt feelings.
+negative_evidence:
+  - Brief guilt after a resolved mistake with closure.
+  - Neutral mention of regret without persistent burden.
+typical_phrases:
+  en:
+    - I carry a lot of guilt inside
+    - guilt won't leave me alone
+    - I keep replaying what I did wrong
+    - I feel I owe amends for things in my past
+  uk:
+    - ношу багато провини всередині
+    - провина не дає мені спокою
+    - постійно прокручую те, що зробив не так
+    - відчуваю, що мушу загладити провину за минуле
+  es:
+    - llevo mucha culpa por dentro
+    - la culpa no me deja en paz
+    - repaso una y otra vez lo que hice mal
+    - siento que debo reparar cosas de mi pasado
+  ru:
+    - ношу много вины внутри
+    - вина не даёт мне покоя
+    - постоянно прокручиваю то, что сделал не так
+    - чувствую, что должен загладить вину за прошлое
+follow_up_questions:
+  en:
+    - What does the guilt feel connected to for you?
+    - What, if anything, helps even briefly when guilt is strong?
+  uk:
+    - З чим для вас пов'язана ця провина?
+    - Що, якщо взагалі щось, хоч трохи допомагає, коли провина сильна?
+  es:
+    - ¿Con qué siente usted conectada esta culpa?
+    - ¿Qué, si algo, ayuda aunque sea brevemente cuando la culpa es fuerte?
+  ru:
+    - С чем для вас связана эта вина?
+    - Что, если вообще что-то, хоть немного помогает, когда вина сильная?
+related_patterns:
+  - shame_sensitivity
+  - harsh_self_criticism
+  - rumination
+relationships:
+  - target_pattern: shame_sensitivity
+    relation_type: often_coexists_with
+    weight: 0.80
+  - target_pattern: harsh_self_criticism
+    relation_type: may_strengthen
+    weight: 0.77
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  self_compassion_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported guilt burden without diagnosis, eligibility decisions, or treatment recommendations.

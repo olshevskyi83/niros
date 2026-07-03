@@ -1,0 +1,64 @@
+canonical_id: obsessive_thinking_loop
+name: Obsessive Thinking Loop
+domain: emotion_regulation
+definition: An observed signal that the person reports repetitive, intrusive, or stuck thought loops that are hard to interrupt or set aside.
+behavioral_description: The person may describe the same thoughts returning again and again, mental loops that feel compulsive or intrusive, or difficulty stopping a line of thinking, without clinical diagnosis.
+positive_evidence:
+  - Self-reported intrusive or repetitive thought loops.
+  - Same thoughts returning despite effort to stop.
+  - Mental loops that feel stuck or compulsive.
+negative_evidence:
+  - Able to disengage from loops with reasonable effort.
+  - Problem-focused thinking that leads to action or closure.
+typical_phrases:
+  en:
+    - the same thoughts keep coming back
+    - my mind gets stuck in loops I can't stop
+    - intrusive thoughts won't leave me alone
+    - I go over the same thing again and again
+  uk:
+    - ті самі думки постійно повертаються
+    - розум застрягає в петлях, які не можу зупинити
+    - нав'язливі думки не дають мені спокою
+    - знову і знову прокручую те саме
+  es:
+    - los mismos pensamientos vuelven una y otra vez
+    - mi mente se queda en bucles que no puedo detener
+    - pensamientos intrusivos no me dejan en paz
+    - repaso lo mismo una y otra vez
+  ru:
+    - одни и те же мысли постоянно возвращаются
+    - ум застревает в петлях, которые не могу остановить
+    - навязчивые мысли не дают мне покоя
+    - снова и снова прокручиваю одно и то же
+follow_up_questions:
+  en:
+    - What topic does your mind loop on most often?
+    - What happens when you try to stop or shift the loop?
+  uk:
+    - На якій темі ваш розум найчастіше застрягає?
+    - Що відбувається, коли ви намагаєтесь зупинити або змінити цю петлю?
+  es:
+    - ¿En qué tema se queda más a menudo su mente en bucle?
+    - ¿Qué pasa cuando intenta detener o cambiar el bucle?
+  ru:
+    - На какой теме ваш ум чаще всего застревает?
+    - Что происходит, когда вы пытаетесь остановить или сменить эту петлю?
+related_patterns:
+  - rumination
+  - anxiety_reactivity
+  - fear_of_losing_control
+relationships:
+  - target_pattern: rumination
+    relation_type: often_coexists_with
+    weight: 0.85
+  - target_pattern: anxiety_reactivity
+    relation_type: may_strengthen
+    weight: 0.76
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  disengagement_capacity_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported obsessive thought loops without diagnosis, eligibility decisions, or treatment recommendations.

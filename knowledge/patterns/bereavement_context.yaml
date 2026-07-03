@@ -1,0 +1,69 @@
+canonical_id: bereavement_context
+name: Bereavement Context
+domain: life_transitions
+definition: An observed signal that the person reports the death of a close person as context for what they are experiencing.
+behavioral_description: The person may describe the death of someone close, a funeral, or bereavement after someone died without making eligibility or diagnostic claims.
+positive_evidence:
+  - Self-reported death of someone close.
+  - Bereavement or funeral named as context.
+  - Someone died described by the person.
+negative_evidence:
+  - Relationship breakup or separation without death.
+  - Abstract mention of loss without death-related bereavement context.
+  - Neutral life event without death signal.
+typical_phrases:
+  en:
+    - death of someone close
+    - I lost someone close to me
+    - after my mother died
+    - after my father died
+    - things got worse after the funeral
+  uk:
+    - смерть близької людини
+    - я втратив близьку людину
+    - після смерті мами
+    - після смерті близької людини
+    - після похорону мені стало гірше
+    - я думаю це через смерть близької людини
+  ru:
+    - смерть близкого человека
+    - я потерял близкого человека
+    - после смерти мамы
+    - после смерти близкого человека
+    - после похорон мне стало хуже
+  es:
+    - la muerte de una persona cercana
+    - perdí a alguien cercano
+    - después de la muerte de mi madre
+    - después del funeral empeoré
+    - muerte de alguien cercano
+follow_up_questions:
+  en:
+    - What changed most in how you feel after this loss?
+    - What feels different since that loss?
+  uk:
+    - Що саме після цієї втрати найбільше змінило ваш стан?
+    - Що відчувається інакше з того часу?
+  ru:
+    - Что больше всего изменило ваше состояние после этой потери?
+    - Что ощущается иначе с того времени?
+  es:
+    - ¿Qué cambió más en cómo te sientes después de esta pérdida?
+    - ¿Qué se siente diferente desde entonces?
+related_patterns:
+  - grief_signal
+  - loss_related_distress
+relationships:
+  - target_pattern: grief_signal
+    relation_type: often_coexists_with
+    weight: 0.90
+  - target_pattern: loss_related_distress
+    relation_type: may_strengthen
+    weight: 0.85
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.15
+  grounding_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding bereavement context named by the person without diagnostic or treatment framing.

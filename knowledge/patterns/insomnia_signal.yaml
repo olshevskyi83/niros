@@ -1,0 +1,53 @@
+canonical_id: insomnia_signal
+name: Insomnia Signal
+domain: body_pain
+definition: An observed signal that the person reports severe sleep loss, insomnia, or almost no sleep in their own words.
+behavioral_description: The person may describe insomnia, barely sleeping, or severe sleep loss without medical labeling.
+positive_evidence:
+  - Self-reported insomnia or almost no sleep.
+  - Severe sleep loss in the person's own words.
+negative_evidence:
+  - Occasional poor night without pattern.
+typical_phrases:
+  en:
+    - I almost don't sleep
+    - I barely sleep
+    - I have insomnia
+    - sleep problems
+  uk:
+    - я майже не сплю
+    - майже не сплю
+    - проблеми зі сном
+    - безсоння
+  ru:
+    - я почти не сплю
+    - почти не сплю
+    - проблемы со сном
+    - бессонница
+  es:
+    - casi no duermo
+    - apenas duermo
+    - problemas de sueño
+    - insomnio
+follow_up_questions:
+  en:
+    - How exactly does poor sleep affect your day?
+  uk:
+    - Як саме порушення сну впливає на ваш день?
+  ru:
+    - Как именно нарушение сна влияет на ваш день?
+  es:
+    - ¿Cómo afecta exactamente el sueño interrumpido a tu día?
+related_patterns:
+  - sleep_disruption
+relationships:
+  - target_pattern: sleep_disruption
+    relation_type: often_coexists_with
+    weight: 0.92
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.14
+  grounding_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding self-reported insomnia without diagnosis.

@@ -1,0 +1,67 @@
+canonical_id: grief_signal
+name: Grief Signal
+domain: emotion_regulation
+definition: An observed signal that the person reports grief, mourning, emotional pain, or distress related to loss in their own words.
+behavioral_description: The person may describe grieving, mourning, emotional pain after a loss, or reported grief burden without clinical labeling or treatment advice.
+positive_evidence:
+  - Self-reported grief or mourning language.
+  - Emotional pain connected to loss.
+  - Difficulty processing a loss in the person's own words.
+negative_evidence:
+  - Neutral mention of loss without grief signal.
+  - Brief sadness tied to one resolved event only.
+typical_phrases:
+  en:
+    - I cannot process the loss
+    - I am grieving
+    - the grief feels overwhelming
+    - I cannot get over the loss
+    - mourning is exhausting
+  uk:
+    - я не можу пережити втрату
+    - я переживаю втрату
+    - мені важко пережити втрату
+    - горе не відпускає
+    - я у скорботі
+  ru:
+    - я не могу пережить потерю
+    - я переживаю потерю
+    - мне тяжело пережить потерю
+    - горе не отпускает
+    - я в скорби
+  es:
+    - no puedo superar la pérdida
+    - estoy de luto
+    - el duelo me agota
+    - me cuesta procesar la pérdida
+    - estoy en duelo
+follow_up_questions:
+  en:
+    - What changed most in how you feel after this loss?
+    - What part of the loss feels heaviest right now?
+  uk:
+    - Що саме після цієї втрати найбільше змінило ваш стан?
+    - Яка частина цієї втрати зараз відчувається найважчою?
+  ru:
+    - Что больше всего изменило ваше состояние после этой потери?
+    - Какая часть этой потери сейчас ощущается самой тяжёлой?
+  es:
+    - ¿Qué cambió más en cómo te sientes después de esta pérdida?
+    - ¿Qué parte de la pérdida se siente más pesada ahora?
+related_patterns:
+  - bereavement_context
+  - loss_related_distress
+relationships:
+  - target_pattern: bereavement_context
+    relation_type: often_coexists_with
+    weight: 0.90
+  - target_pattern: loss_related_distress
+    relation_type: often_coexists_with
+    weight: 0.88
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  grounding_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding self-reported grief and loss-related emotional burden without diagnosis or grief therapy advice.

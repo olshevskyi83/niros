@@ -1,0 +1,55 @@
+canonical_id: accident_context
+name: Accident Context
+domain: life_transitions
+definition: An observed signal that the person reports a car accident, crash, or similar event as context for what they are experiencing.
+behavioral_description: The person may describe an accident, crash, or road event as part of their story without diagnostic or eligibility claims.
+positive_evidence:
+  - Self-reported accident or crash context.
+  - Road event named as part of the person's experience.
+negative_evidence:
+  - Abstract stress without accident context.
+  - Neutral travel mention only.
+typical_phrases:
+  en:
+    - after the car accident
+    - after the crash
+    - after the road accident
+    - after a car crash
+  uk:
+    - після автокатастрофи
+    - після аварії
+    - після дтп
+    - після автокатастрофи на дорозі
+  ru:
+    - после автокатастрофы
+    - после аварии
+    - после дтп
+    - после дорожно-транспортного происшествия
+  es:
+    - después del accidente de coche
+    - después del accidente
+    - después del choque
+    - después del accidente de tráfico
+follow_up_questions:
+  en:
+    - What changed most in how you feel after the accident?
+  uk:
+    - Що змінилося у вашому стані після автокатастрофи?
+  ru:
+    - Что больше всего изменилось в вашем состоянии после аварии?
+  es:
+    - ¿Qué cambió más en cómo te sientes después del accidente?
+related_patterns:
+  - trauma_context_signal
+  - post_event_distress
+relationships:
+  - target_pattern: trauma_context_signal
+    relation_type: often_coexists_with
+    weight: 0.90
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.15
+  grounding_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding accident context named by the person without diagnosis.

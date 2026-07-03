@@ -1,0 +1,53 @@
+canonical_id: trauma_context_signal
+name: Trauma Context Signal
+domain: trauma_stress
+definition: An observed signal that the person reports a traumatic event as context for current distress in their own words.
+behavioral_description: The person may describe a traumatic event, accident, or overwhelming incident as context without clinical labeling.
+positive_evidence:
+  - Self-reported traumatic event context.
+  - Event described as traumatic by the person.
+negative_evidence:
+  - Everyday stress without traumatic event signal.
+typical_phrases:
+  en:
+    - after the traumatic event
+    - after a traumatic event
+    - since the traumatic incident
+    - after what happened
+  uk:
+    - після травматичної події
+    - після автокатастрофи
+    - після аварії
+    - після дтп
+  ru:
+    - после травматического события
+    - после автокатастрофы
+    - после аварии
+    - после дтп
+  es:
+    - después del evento traumático
+    - después del accidente
+    - desde el incidente traumático
+follow_up_questions:
+  en:
+    - What feels different since that event?
+  uk:
+    - Що відчувається інакше з того часу?
+  ru:
+    - Что ощущается иначе с того времени?
+  es:
+    - ¿Qué se siente diferente desde entonces?
+related_patterns:
+  - accident_context
+  - post_event_distress
+relationships:
+  - target_pattern: accident_context
+    relation_type: often_coexists_with
+    weight: 0.88
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.16
+  grounding_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding traumatic event context without diagnosis.

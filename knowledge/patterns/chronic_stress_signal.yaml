@@ -1,0 +1,60 @@
+canonical_id: chronic_stress_signal
+name: Chronic Stress Signal
+domain: trauma_stress
+definition: An observed signal that the person reports ongoing stress or feeling stressed most of the time.
+behavioral_description: The person may describe living under constant stress, always feeling stressed, or reported difficulty finding relief from stress without diagnostic labeling.
+positive_evidence:
+  - Reported ongoing stress.
+  - Language of always being stressed.
+  - Stress that feels persistent over time.
+negative_evidence:
+  - Brief situational stress with clear resolution.
+  - Neutral mention of stress without persistence.
+typical_phrases:
+  en:
+    - I'm always stressed
+    - I live under constant stress
+    - stress never really goes away
+  uk:
+    - я завжди у стресі
+    - живу у постійному стресі
+    - стрес ніколи не проходить
+  es:
+    - siempre estoy estresado
+    - vivo bajo estrés constante
+    - el estrés nunca se va del todo
+  ru:
+    - я всегда в стрессе
+    - живу в постоянном стрессе
+    - стресс никогда не проходит
+follow_up_questions:
+  en:
+    - When does the stress feel strongest during your day?
+    - What, if anything, helps even briefly?
+  uk:
+    - Коли стрес відчувається найсильніше протягом дня?
+    - Що, якщо взагалі щось, хоч трохи допомагає?
+  es:
+    - ¿Cuándo sientes el estrés con más fuerza durante el día?
+    - ¿Qué, si algo, ayuda aunque sea brevemente?
+  ru:
+    - Когда стресс ощущается сильнее всего в течение дня?
+    - Что, если вообще что-то, хоть немного помогает?
+related_patterns:
+  - emotional_distress_signal
+  - generalized_fear
+  - hopelessness_signal
+relationships:
+  - target_pattern: emotional_distress_signal
+    relation_type: often_coexists_with
+    weight: 0.82
+  - target_pattern: hopelessness_signal
+    relation_type: may_strengthen
+    weight: 0.74
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  grounding_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding reported persistent stress without diagnosis or treatment recommendations.

@@ -15,24 +15,24 @@ if str(ROOT) not in sys.path:
 
 from demo_interview import (
     DEFAULT_TURNS,
-    FIRST_QUESTION,
     SEPARATOR,
+    InterviewSession,
     TurnRecord,
-    extract_semantic_interpretation,
-    format_hypothesis_line,
-    format_pattern_lines,
     print_human_profile_report,
     print_human_profile_summary,
     print_interview_summary,
-    read_answer,
-    resolve_turn_inputs,
-    run_pipeline,
-    strongest_hypothesis,
+    run_interview_session,
 )
+from niros.assessment_runner import (
+    ASSESSMENT_ADAPTIVE,
+    ASSESSMENT_BIG_FIVE_SHORT,
+    ASSESSMENT_NONE,
+    render_assessed_module_runs,
+)
+from niros.human_digital_fingerprint import build_human_digital_fingerprint
 from niros.human_profile_summary import build_human_profile_summary
-from niros.interview_debug import print_turn_debug_pipeline
-from niros.question_localizer import localize_question
 from niros.env_loader import load_project_env
+from niros.intervention_strategy import build_intervention_strategy, render_intervention_strategy
 from niros.runtime_config import (
     RUNTIME_MODE_REAL,
     RUNTIME_MODE_TEST,
@@ -43,12 +43,10 @@ from niros.scenario_blueprint import build_scenario_blueprint
 from niros.semantic_interpreter.factory import SUPPORTED_PROVIDERS
 from niros.session_simulation import simulate_session
 from niros.session_timeline_renderer import render_session_timeline
-from niros.statement_normalizer import normalize_user_input
 from niros.voice_input import (
     INTERVIEW_INPUT_TEXT,
     INTERVIEW_INPUT_VOICE,
     VoiceInput,
-    create_voice_input,
 )
 
 DEFAULT_LANGUAGE = "en"
@@ -133,132 +131,88 @@ def run_interview(
     *,
     user_input: str | None,
     user_inputs: list[str] | None,
+    intake_inputs: list[str] | None,
+    intake_answers: dict[str, str] | None,
     turns: int,
     mode: str,
     provider: str,
-    language: str,
+    language: str | None,
     stream: TextIO,
     debug: bool = False,
     input_mode: str = INTERVIEW_INPUT_TEXT,
     voice_input: VoiceInput | None = None,
     big_five_answers: dict[str, int] | None = None,
-) -> list[TurnRecord]:
-    effective_turns, planned_inputs = resolve_turn_inputs(user_input, user_inputs, turns)
-    session_id = f"niros-session-{uuid.uuid4().hex[:8]}"
-    history: list[TurnRecord] = []
-    current_question = FIRST_QUESTION
-
-    active_voice_input = voice_input
-    fallback_message: str | None = None
-    if active_voice_input is None and user_input is None and user_inputs is None:
-        active_voice_input, fallback_message = create_voice_input(
-            input_mode,
-            stream=stream,
-        )
-
+    skip_intake: bool = False,
+    assessment: str = ASSESSMENT_NONE,
+    big_five_short_answers: dict[str, int] | None = None,
+    adaptive_assessment_answers: dict[str, dict[str, int]] | None = None,
+) -> InterviewSession:
     print("Interview", file=stream)
     if debug:
         print("Debug mode: enabled", file=stream)
-    print_input_mode_banner(
-        INTERVIEW_INPUT_TEXT if fallback_message else input_mode,
-        stream,
-        fallback_message=fallback_message,
+    print_input_mode_banner(input_mode, stream)
+
+    return run_interview_session(
+        user_input=user_input,
+        user_inputs=user_inputs,
+        intake_inputs=intake_inputs,
+        intake_answers=intake_answers,
+        turns=turns,
+        mode=mode,
+        provider=provider,
+        language=language,
+        stream=stream,
+        debug=debug,
+        input_mode=input_mode,
+        voice_input=voice_input,
+        big_five_answers=big_five_answers,
+        skip_intake=skip_intake,
+        assessment=assessment,
+        big_five_short_answers=big_five_short_answers,
+        adaptive_assessment_answers=adaptive_assessment_answers,
+        print_output=True,
     )
 
-    if active_voice_input is not None:
-        active_voice_input.start()
 
-    try:
-        for turn_index in range(1, effective_turns + 1):
-            localized_question = localize_question(current_question, language)
-            print(SEPARATOR, file=stream)
-            print(f"Question {turn_index}:", file=stream)
-            print(localized_question, file=stream)
-            print(file=stream)
-
-            raw_answer = read_answer(
-                planned_inputs[turn_index - 1],
-                turn_index,
-                stream,
-                voice_input=active_voice_input,
-            )
-            if active_voice_input is None or active_voice_input.name == "text":
-                print(raw_answer, file=stream)
-
-            semantic_result = None
-            if debug or provider == "openai":
-                semantic_result = extract_semantic_interpretation(raw_answer, provider)
-
-            normalized_answer = normalize_user_input(raw_answer, mode=mode, provider=provider)
-            print(SEPARATOR, file=stream)
-
-            pattern_tags, hypotheses, next_question = run_pipeline(normalized_answer, session_id)
-
-            if debug:
-                cumulative_patterns = [
-                    tag for turn in history for tag in turn.pattern_tags
-                ] + pattern_tags
-                print_turn_debug_pipeline(
-                    stream,
-                    raw_transcript=raw_answer,
-                    semantic_result=semantic_result,
-                    pattern_tags=pattern_tags,
-                    cumulative_patterns=cumulative_patterns,
-                    big_five_answers=big_five_answers,
-                )
-
-            print("Detected Patterns", file=stream)
-            for line in format_pattern_lines(pattern_tags):
-                print(line, file=stream)
-            print(SEPARATOR, file=stream)
-
-            print("Current Hypothesis", file=stream)
-            print(format_hypothesis_line(strongest_hypothesis(hypotheses)), file=stream)
-            print(SEPARATOR, file=stream)
-
-            history.append(
-                TurnRecord(
-                    question=current_question,
-                    localized_question=localized_question,
-                    raw_answer=raw_answer,
-                    normalized_answer=normalized_answer,
-                    pattern_tags=pattern_tags,
-                    hypotheses=hypotheses,
-                    next_question=next_question,
-                    semantic_result=semantic_result,
-                )
-            )
-
-            if next_question:
-                current_question = next_question
-            elif turn_index < effective_turns:
-                break
-    finally:
-        if active_voice_input is not None:
-            active_voice_input.stop()
-
-    return history
-
-
-def build_profile_from_history(history: list[TurnRecord]) -> dict:
-    detected_patterns = [tag for turn in history for tag in turn.pattern_tags]
+def build_profile_from_history(session: InterviewSession) -> dict:
+    detected_patterns = session.cumulative_pattern_tags
     return build_human_profile_summary(detected_patterns)
+
+
+def build_fingerprint_from_session(session: InterviewSession) -> dict:
+    return build_human_digital_fingerprint(
+        detected_patterns=session.cumulative_pattern_tags,
+        presenting_problem=session.presenting_problem,
+        assessment_results=session.assessment_results,
+    )
+
+
+def print_intervention_strategy_section(fingerprint: dict, stream: TextIO) -> None:
+    strategy = build_intervention_strategy(fingerprint)
+    print(render_intervention_strategy(strategy), file=stream)
+    print(SEPARATOR, file=stream)
 
 
 def run_niros(
     user_input: str | None = None,
     *,
     user_inputs: list[str] | None = None,
+    intake_inputs: list[str] | None = None,
+    intake_answers: dict[str, str] | None = None,
     turns: int = DEFAULT_TURNS,
     mode: str | None = None,
     provider: str | None = None,
-    language: str = DEFAULT_LANGUAGE,
+    language: str | None = None,
     output_stream: TextIO | None = None,
     debug: bool = False,
     runtime_mode: str | None = None,
     input_mode: str = INTERVIEW_INPUT_TEXT,
     voice_input: VoiceInput | None = None,
     big_five_answers: dict[str, int] | None = None,
+    skip_intake: bool = False,
+    assessment: str = ASSESSMENT_NONE,
+    big_five_short_answers: dict[str, int] | None = None,
+    adaptive_assessment_answers: dict[str, dict[str, int]] | None = None,
 ) -> int:
     stream = output_stream or sys.stdout
     runtime_settings = build_runtime_settings(
@@ -273,9 +227,11 @@ def run_niros(
     print_welcome(stream)
     print_runtime_banner(runtime_settings, stream)
 
-    history = run_interview(
+    session = run_interview(
         user_input=user_input,
         user_inputs=user_inputs,
+        intake_inputs=intake_inputs,
+        intake_answers=intake_answers,
         turns=turns,
         mode=runtime_settings.normalizer_mode,
         provider=runtime_settings.provider,
@@ -285,13 +241,33 @@ def run_niros(
         input_mode=input_mode,
         voice_input=voice_input,
         big_five_answers=big_five_answers,
+        skip_intake=skip_intake,
+        assessment=assessment,
+        big_five_short_answers=big_five_short_answers,
+        adaptive_assessment_answers=adaptive_assessment_answers,
     )
 
-    print_interview_summary(history, stream)
-    print_human_profile_summary(history, stream)
-    print_human_profile_report(history, stream)
+    print_interview_summary(session.history, stream)
+    print_human_profile_summary(session.history, stream)
 
-    profile = build_profile_from_history(history)
+    fingerprint = build_fingerprint_from_session(session)
+    print_human_profile_report(
+        session.history,
+        stream,
+        presenting_problem=session.presenting_problem,
+        assessment_results=session.assessment_results,
+        assessment_module_runs=session.assessment_module_runs,
+    )
+
+    if session.assessment_module_runs and assessment == ASSESSMENT_BIG_FIVE_SHORT:
+        rendered = render_assessed_module_runs(session.assessment_module_runs)
+        if rendered:
+            print(rendered, file=stream)
+            print(SEPARATOR, file=stream)
+
+    print_intervention_strategy_section(fingerprint, stream)
+
+    profile = build_profile_from_history(session)
     print_scenario_blueprint_section(profile, stream)
     print_session_timeline_section(profile, stream)
 
@@ -334,14 +310,20 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument(
         "--language",
         choices=["en", "uk", "ru", "es"],
-        default=DEFAULT_LANGUAGE,
-        help="Output language for interview questions (default: en)",
+        default=None,
+        help="Override input language for pattern matching and questions (default: auto-detect)",
     )
     parser.add_argument(
         "--turns",
         type=int,
         default=DEFAULT_TURNS,
-        help="Number of interview turns (default: 3)",
+        help="Number of adaptive interview turns after intake (default: 3)",
+    )
+    parser.add_argument(
+        "--assessment",
+        choices=[ASSESSMENT_NONE, ASSESSMENT_BIG_FIVE_SHORT, ASSESSMENT_ADAPTIVE],
+        default=ASSESSMENT_NONE,
+        help="Optional structured assessment after intake (default: none)",
     )
     return parser.parse_args(argv)
 
@@ -360,6 +342,7 @@ def main(argv: list[str] | None = None) -> int:
         debug=args.debug,
         runtime_mode=args.runtime,
         input_mode=args.input_mode,
+        assessment=args.assessment,
     )
 
 

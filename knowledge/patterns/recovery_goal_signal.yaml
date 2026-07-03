@@ -1,0 +1,55 @@
+canonical_id: recovery_goal_signal
+name: Recovery Goal Signal
+domain: meaning_direction
+definition: An observed signal that the person reports wanting to stop, reduce, or recover from a difficult habit or use pattern.
+behavioral_description: The person may describe wanting to get rid of a habit, stop using, or move toward recovery without treatment claims.
+positive_evidence:
+  - Self-reported wish to stop or recover.
+  - Habit change named as a desired outcome.
+negative_evidence:
+  - Neutral mention without change desire.
+  - Ambivalence without a recovery goal.
+typical_phrases:
+  en:
+    - I want to get rid of this habit
+    - I want to stop using
+    - I want to recover from this
+    - I want to be free from this habit
+  uk:
+    - я хочу позбутись цієї звички
+    - хочу позбутися цієї звички
+    - хочу кинути
+    - хочу відновитися
+  ru:
+    - я хочу избавиться от этой привычки
+    - хочу бросить
+    - хочу восстановиться
+    - хочу освободиться от этой привычки
+  es:
+    - quiero deshacerme de este hábito
+    - quiero dejar de consumir
+    - quiero recuperarme
+    - quiero liberarme de este hábito
+follow_up_questions:
+  en:
+    - What would feel different if this change happened?
+  uk:
+    - Що відчувалося б інакше, якби ця зміна сталася?
+  ru:
+    - Что ощущалось бы иначе, если бы это изменение произошло?
+  es:
+    - ¿Qué se sentiría diferente si ocurriera este cambio?
+related_patterns:
+  - desire_for_change
+  - addiction_concern_signal
+relationships:
+  - target_pattern: desire_for_change
+    relation_type: often_coexists_with
+    weight: 0.90
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.14
+  grounding_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding self-reported recovery goals without diagnosis or treatment advice.

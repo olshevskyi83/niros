@@ -1,0 +1,72 @@
+canonical_id: loss_related_distress
+name: Loss-Related Distress
+domain: emotion_regulation
+definition: An observed signal that the person connects current distress, sleep issues, emotional burden, or life difficulty to a loss in their own words.
+behavioral_description: The person may link sleep disruption, emotional burden, or current difficulty to a loss, death, or bereavement without clinical interpretation.
+positive_evidence:
+  - Distress explicitly linked to a loss.
+  - Sleep or functioning difficulty connected to bereavement.
+  - Current burden described as following a loss.
+negative_evidence:
+  - Distress without any loss connection.
+  - Neutral life difficulty without loss-related link.
+typical_phrases:
+  en:
+    - things got worse after the funeral
+    - I cannot process the loss
+    - since they died I cannot sleep
+    - this started after I lost someone close
+    - the loss changed everything
+  uk:
+    - після похорону мені стало гірше
+    - я не можу пережити втрату
+    - після смерті близької людини стало гірше
+    - я думаю це через смерть близької людини
+    - через смерть близької людини
+    - після втрати мені стало важче
+  ru:
+    - после похорон мне стало хуже
+    - я не могу пережить потерю
+    - после смерти близкого человека стало хуже
+    - думаю это из-за смерти близкого человека
+    - после потери мне стало тяжелее
+  es:
+    - después del funeral empeoré
+    - no puedo superar la pérdida
+    - después de la muerte empeoró todo
+    - creo que es por la muerte de alguien cercano
+    - desde la pérdida me cuesta más
+follow_up_questions:
+  en:
+    - What changed most in how you feel after this loss?
+    - What part of daily life feels most affected since the loss?
+  uk:
+    - Що саме після цієї втрати найбільше змінило ваш стан?
+    - Що в повсякденному житті зараз відчувається найважчим після втрати?
+  ru:
+    - Что больше всего изменило ваше состояние после этой потери?
+    - Что в повседневной жизни сейчас ощущается тяжелее после потери?
+  es:
+    - ¿Qué cambió más en cómo te sientes después de esta pérdida?
+    - ¿Qué parte de la vida diaria se siente más afectada desde la pérdida?
+related_patterns:
+  - grief_signal
+  - bereavement_context
+  - sleep_disruption
+relationships:
+  - target_pattern: grief_signal
+    relation_type: often_coexists_with
+    weight: 0.88
+  - target_pattern: bereavement_context
+    relation_type: often_coexists_with
+    weight: 0.86
+  - target_pattern: sleep_disruption
+    relation_type: may_strengthen
+    weight: 0.72
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.18
+  grounding_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding how the person links current distress to loss without diagnosis or grief therapy advice.

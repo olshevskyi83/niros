@@ -1,0 +1,67 @@
+canonical_id: rejection_sensitivity
+name: Rejection Sensitivity
+domain: relationships
+definition: An observed signal that the person reports heightened sensitivity to rejection, being unwanted, excluded, or not valued in their own words.
+behavioral_description: The person may describe expecting rejection, feeling hurt when not chosen, or reading neutral cues as signs of being unwanted, without diagnostic labeling.
+positive_evidence:
+  - Self-reported sensitivity to rejection or exclusion.
+  - Language of feeling unwanted or not valued by others.
+  - Anticipation that others will reject or dismiss them.
+negative_evidence:
+  - Comfortable with ordinary disagreement or distance.
+  - Neutral social feedback without rejection sensitivity.
+typical_phrases:
+  en:
+    - I feel unwanted
+    - people do not value me
+    - I expect to be rejected
+    - I am sensitive to being excluded
+    - I feel like I do not matter to others
+  uk:
+    - мене ніхто не цінує
+    - я очікую, що мене відкинуть
+    - мені боляче, коли мене не обирають
+    - я чутливий до відкинення
+    - наче я нікому не важливий
+  ru:
+    - меня никто не ценит
+    - я ожидаю, что меня отвергнут
+    - мне больно, когда меня не выбирают
+    - я чувствителен к отвержению
+    - будто я никому не важен
+  es:
+    - nadie me valora
+    - espero que me rechacen
+    - me duele cuando no me eligen
+    - soy sensible al rechazo
+    - siento que no importo a los demás
+follow_up_questions:
+  en:
+    - What situations most trigger the sense of being unwanted or rejected?
+    - What happens inside when you feel excluded or not valued?
+  uk:
+    - Які ситуації найбільше запускають відчуття непотрібності чи відкинення?
+    - Що відбувається всередині, коли ви відчуваєте себе нецінованим?
+  ru:
+    - Какие ситуации сильнее всего запускают ощущение ненужности или отвержения?
+    - Что происходит внутри, когда вы чувствуете себя неценным?
+  es:
+    - ¿Qué situaciones activan más la sensación de no ser necesario o ser rechazado?
+    - ¿Qué ocurre por dentro cuando se siente poco valorado?
+related_patterns:
+  - social_disconnection_signal
+  - fear_of_rejection
+  - unworthiness_signal
+relationships:
+  - target_pattern: social_disconnection_signal
+    relation_type: often_coexists_with
+    weight: 0.86
+  - target_pattern: fear_of_rejection
+    relation_type: often_coexists_with
+    weight: 0.80
+confidence_rules:
+  repeated_evidence: 0.14
+  contradiction_present: -0.22
+  strong_emotional_intensity: 0.17
+interview_priority: 8
+therapeutic_relevance: Important for understanding self-reported rejection sensitivity without diagnosis or clinical labeling.

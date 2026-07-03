@@ -29,6 +29,18 @@ typical_phrases:
     - Comparing myself to others decides how valuable I feel.
     - My sense of worth rises and falls depending on feedback.
     - I feel worthless after rejection.
+    - I feel useless
+    - I feel like I do not matter
+    - I feel worthless
+  uk:
+    - я відчуваю себе непотрібним
+    - я відчуваю себе непотрібною
+    - я почуваюся зайвим
+    - наче я нічого не вартий
+    - я не маю значення
+    - коли мене критикують, швидко почуваюся невартим
+    - я не впевнений, чи я достатньо хороший як людина
+    - мені потрібне схвалення, щоб почуватися нормально
   es:
     - Cuando alguien me elogia, de repente me siento bien conmigo mismo.
     - Después de una crítica, rápidamente me siento sin valor.
@@ -38,6 +50,11 @@ typical_phrases:
     - Cuando logro algo, me siento valioso por un tiempo.
     - Necesito aprobación para sentirme bien conmigo mismo.
   ru:
+    - я чувствую себя ненужным
+    - я чувствую себя ненужной
+    - я никому не нужен
+    - будто я ничего не стою
+    - я ничего не значу
     - Когда меня хвалят, я внезапно начинаю хорошо относиться к себе.
     - После критики я быстро чувствую себя никчёмным.
     - Я оцениваю свою ценность по тому, как на меня реагируют другие.

@@ -1,0 +1,69 @@
+canonical_id: social_disconnection_signal
+name: Social Disconnection Signal
+domain: relationships
+definition: An observed signal that the person reports feeling disconnected, unwanted, not belonging, or emotionally isolated in their own words.
+behavioral_description: The person may describe feeling unwanted, not needed by others, outside belonging, or emotionally cut off without diagnostic labeling.
+positive_evidence:
+  - Self-reported feeling unwanted or not needed.
+  - Language of not belonging or emotional isolation.
+  - Sense of being disconnected from others in the person's own words.
+negative_evidence:
+  - Brief loneliness after one social event.
+  - Neutral solitude preference without disconnection signal.
+typical_phrases:
+  en:
+    - I feel unwanted
+    - nobody needs me
+    - I feel like I do not belong
+    - I feel disconnected from others
+    - people do not value me
+  uk:
+    - я нікому не потрібен
+    - я нікому не потрібна
+    - мене ніхто не цінує
+    - я не маю значення
+    - почуваюся відірваним від інших
+    - наче я нікому не належу
+  ru:
+    - я никому не нужен
+    - я никому не нужна
+    - меня никто не ценит
+    - я ничего не значу
+    - чувствую себя оторванным от других
+  es:
+    - siento que nadie me necesita
+    - nadie me valora
+    - siento que no importo
+    - me siento desconectado de los demás
+    - siento que no pertenezco
+follow_up_questions:
+  en:
+    - When do you notice feeling most disconnected or unwanted?
+    - What, if anything, helps you feel a little more connected?
+  uk:
+    - Коли ви найбільше відчуваєте відірваність або непотрібність?
+    - Що, якщо взагалі щось, трохи повертає відчуття звʼязку?
+  ru:
+    - Когда вы больше всего замечаете оторванность или ненужность?
+    - Что, если вообще что-то, немного возвращает чувство связи?
+  es:
+    - ¿Cuándo nota más la desconexión o la sensación de no ser necesario?
+    - ¿Qué, si algo, le devuelve un poco la sensación de conexión?
+related_patterns:
+  - rejection_sensitivity
+  - unworthiness_signal
+  - social_withdrawal
+relationships:
+  - target_pattern: rejection_sensitivity
+    relation_type: often_coexists_with
+    weight: 0.84
+  - target_pattern: unworthiness_signal
+    relation_type: may_strengthen
+    weight: 0.78
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.18
+  grounding_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding self-reported disconnection and belonging concerns without diagnosis or treatment claims.

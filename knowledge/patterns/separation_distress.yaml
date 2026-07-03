@@ -1,0 +1,49 @@
+canonical_id: separation_distress
+name: Separation Distress
+domain: emotion_regulation
+definition: An observed signal that the person reports emotional distress linked to separation or the end of a relationship in their own words.
+behavioral_description: The person may describe emotional pain, difficulty adjusting, or burden after separation without death-related bereavement language.
+positive_evidence:
+  - Self-reported distress after separation.
+  - Emotional pain connected to breakup or separation.
+negative_evidence:
+  - Distress without separation context.
+  - Bereavement or death-related loss language only.
+typical_phrases:
+  en:
+    - after the breakup I feel worse
+    - separation has been hard to bear
+    - I am struggling since we separated
+  uk:
+    - після розриву мені стало гірше
+    - розставання дається важко
+    - важко після розриву стосунків
+  ru:
+    - после расставания мне стало хуже
+    - расставание даётся тяжело
+    - трудно после разрыва отношений
+  es:
+    - después de la ruptura me siento peor
+    - la separación ha sido difícil de sostener
+    - me cuesta desde que nos separamos
+follow_up_questions:
+  en:
+    - What part of daily life feels most affected since the separation?
+  uk:
+    - Що в повсякденному житті зараз відчувається найважчим після розставання?
+  ru:
+    - Что в повседневной жизни сейчас ощущается тяжелее после расставания?
+  es:
+    - ¿Qué parte de la vida diaria se siente más afectada desde la separación?
+related_patterns:
+  - relationship_breakup_context
+  - attachment_loss_signal
+relationships:
+  - target_pattern: relationship_breakup_context
+    relation_type: often_coexists_with
+    weight: 0.84
+confidence_rules:
+  repeated_evidence: 0.14
+  contradiction_present: -0.22
+interview_priority: 8
+therapeutic_relevance: Important for understanding separation-related distress without bereavement or diagnostic claims.

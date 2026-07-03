@@ -1,0 +1,64 @@
+canonical_id: stuttering_signal
+name: Stuttering Signal
+domain: speech_communication
+definition: An observed signal that the person reports stuttering, blocks, repetitions, or difficulty getting words out when speaking.
+behavioral_description: The person may describe stuttering in daily conversation, fear of blocks when speaking in the session, or speech getting stuck without clinical diagnosis or labeling of a disorder.
+positive_evidence:
+  - Self-reported stuttering or speech blocks.
+  - Repetitions or difficulty starting words described by the person.
+  - Speech getting stuck in situations that matter to them.
+negative_evidence:
+  - Brief nervous speech without stuttering pattern.
+  - Neutral mention of public speaking anxiety without stuttering signal.
+typical_phrases:
+  en:
+    - I stutter when I speak
+    - my words get stuck and repeat
+    - I block on words especially when nervous
+    - I'm worried my stutter will show up here
+  uk:
+    - я заїкаюсь, коли говорю
+    - слова застрягають і повторюються
+    - блокуюсь на словах, особливо коли нервую
+    - хвилююся, що заїкання проявиться тут
+  es:
+    - tartamudeo cuando hablo
+    - las palabras se atascan y se repiten
+    - me bloqueo en las palabras sobre todo cuando estoy nervioso
+    - me preocupa que mi tartamudeo aparezca aquí
+  ru:
+    - я заикаюсь, когда говорю
+    - слова застревают и повторяются
+    - блокируюсь на словах, особенно когда нервничаю
+    - боюсь, что заикание проявится здесь
+follow_up_questions:
+  en:
+    - When does stuttering or blocking show up most for you?
+    - What, if anything, helps you get words out even a little?
+  uk:
+    - Коли заїкання або блокування проявляються для вас найчастіше?
+    - Що, якщо взагалі щось, трохи допомагає вимовити слова?
+  es:
+    - ¿Cuándo aparece más el tartamudeo o el bloqueo para usted?
+    - ¿Qué, si algo, ayuda a sacar las palabras aunque sea un poco?
+  ru:
+    - Когда заикание или блокировка проявляются для вас чаще всего?
+    - Что, если вообще что-то, немного помогает произнести слова?
+related_patterns:
+  - speech_anxiety
+  - shame_about_speech
+  - loss_of_control_in_speech
+relationships:
+  - target_pattern: speech_anxiety
+    relation_type: often_coexists_with
+    weight: 0.83
+  - target_pattern: shame_about_speech
+    relation_type: may_strengthen
+    weight: 0.76
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  grounding_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported stuttering without diagnosis, eligibility decisions, or treatment recommendations.

@@ -1,0 +1,53 @@
+canonical_id: abandonment_wound_signal
+name: Abandonment Wound Signal
+domain: relationships
+definition: An observed signal that the person reports being left, abandoned, or rejected by a partner in their own words.
+behavioral_description: The person may describe a partner leaving them, abandoning the relationship, or being left behind without death-related bereavement language.
+positive_evidence:
+  - Self-reported abandonment or being left by a partner.
+  - Language of partner leaving or walking away.
+negative_evidence:
+  - Mutual breakup without abandonment signal.
+  - Death or bereavement context.
+typical_phrases:
+  en:
+    - my girlfriend left me
+    - my partner abandoned me
+    - they left me
+    - I was left behind
+  uk:
+    - мене покинула дівчина
+    - партнер мене залишив
+    - мене залишили
+    - мене кинули
+  ru:
+    - меня бросила девушка
+    - партнер меня оставил
+    - меня бросили
+    - меня оставили
+  es:
+    - mi pareja me dejó
+    - me abandonó mi pareja
+    - me dejaron
+    - me abandonaron
+follow_up_questions:
+  en:
+    - What happens inside when you feel left or abandoned?
+  uk:
+    - Що відбувається всередині, коли відчуваєте, що вас залишили?
+  ru:
+    - Что происходит внутри, когда вы чувствуете, что вас бросили?
+  es:
+    - ¿Qué ocurre por dentro cuando siente que lo dejaron?
+related_patterns:
+  - rejection_sensitivity
+  - relationship_breakup_context
+relationships:
+  - target_pattern: rejection_sensitivity
+    relation_type: often_coexists_with
+    weight: 0.80
+confidence_rules:
+  repeated_evidence: 0.14
+  contradiction_present: -0.20
+interview_priority: 9
+therapeutic_relevance: Important for understanding abandonment language after relationship loss without diagnostic framing.

@@ -1,0 +1,55 @@
+canonical_id: addiction_concern_signal
+name: Addiction Concern Signal
+domain: emotion_regulation
+definition: An observed signal that the person reports addiction or dependency concern in their own words.
+behavioral_description: The person may describe addiction, dependency, or being unable to overcome a habit without clinical labeling.
+positive_evidence:
+  - Self-reported addiction or dependency concern.
+  - Habit or use described as hard to overcome.
+negative_evidence:
+  - Casual mention without concern.
+  - Neutral lifestyle reference only.
+typical_phrases:
+  en:
+    - I cannot beat this addiction
+    - addiction is a problem for me
+    - I'm dependent on it
+    - I can't overcome this dependency
+  uk:
+    - я не можу побороти залежність
+    - залежність стала проблемою
+    - не можу подолати залежність
+    - проблема з залежністю
+  ru:
+    - я не могу побороть зависимость
+    - зависимость стала проблемой
+    - не могу преодолеть зависимость
+    - проблема с зависимостью
+  es:
+    - no puedo vencer esta adicción
+    - la adicción es un problema para mí
+    - no puedo superar esta dependencia
+    - problema con la adicción
+follow_up_questions:
+  en:
+    - What part of this feels hardest to talk about right now?
+  uk:
+    - Яка частина цього зараз найважча для розмови?
+  ru:
+    - Какая часть этого сейчас труднее всего для разговора?
+  es:
+    - ¿Qué parte de esto se siente más difícil de hablar ahora?
+related_patterns:
+  - loss_of_control_over_use
+  - compulsive_use_signal
+relationships:
+  - target_pattern: loss_of_control_over_use
+    relation_type: often_coexists_with
+    weight: 0.88
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.18
+  grounding_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding self-reported addiction concern without diagnosis or treatment advice.

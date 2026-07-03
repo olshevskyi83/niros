@@ -48,6 +48,7 @@ def print_turn_debug_pipeline(
     pattern_tags: list[PatternTag],
     cumulative_patterns: list[PatternTag] | None = None,
     big_five_answers: dict[str, int] | None = None,
+    presenting_problem: dict[str, str] | None = None,
 ) -> None:
     print("=== Debug Pipeline ===", file=stream)
     print("Raw transcript:", file=stream)
@@ -71,6 +72,7 @@ def print_turn_debug_pipeline(
         detected_patterns=cumulative_patterns or pattern_tags,
         semantic_facts=facts,
         big_five_answers=big_five_answers,
+        presenting_problem=presenting_problem,
     )
 
     print("Human Digital Fingerprint:", file=stream)

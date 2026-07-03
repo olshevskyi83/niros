@@ -19,6 +19,10 @@ VULNERABILITY_PATTERN_IDS = frozenset(
         "emotional_avoidance",
         "identity_uncertainty",
         "low_self_efficacy",
+        "existential_fear",
+        "emotional_distress_signal",
+        "nightmare_disturbance",
+        "chronic_stress_signal",
     }
 )
 
@@ -44,6 +48,30 @@ PATTERN_EXPLORATION_SPECS: dict[str, dict[str, object]] = {
     "perfectionism": {
         "objective": "Practice flexibility and reduce performance-linked pressure.",
         "target_emotions": ["pressure", "rigidity", "fear of failure"],
+        "estimated_duration": 10,
+        "priority": 3,
+    },
+    "existential_fear": {
+        "objective": "Explore reported fear about life and continuing with paced safety.",
+        "target_emotions": ["fear", "dread", "uncertainty"],
+        "estimated_duration": 12,
+        "priority": 2,
+    },
+    "emotional_distress_signal": {
+        "objective": "Understand reported distress and what helps the person feel safer.",
+        "target_emotions": ["distress", "fear", "overwhelm"],
+        "estimated_duration": 10,
+        "priority": 2,
+    },
+    "nightmare_disturbance": {
+        "objective": "Explore sleep-related distress and nightmare themes gently.",
+        "target_emotions": ["fear", "sleep distress", "fatigue"],
+        "estimated_duration": 10,
+        "priority": 3,
+    },
+    "chronic_stress_signal": {
+        "objective": "Explore persistent stress patterns and regulation needs.",
+        "target_emotions": ["stress", "tension", "exhaustion"],
         "estimated_duration": 10,
         "priority": 3,
     },

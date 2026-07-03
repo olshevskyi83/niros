@@ -1,0 +1,64 @@
+canonical_id: anhedonia_signal
+name: Anhedonia Signal
+domain: emotion_regulation
+definition: An observed signal that the person reports reduced interest, pleasure, or enjoyment in activities they used to care about.
+behavioral_description: The person may describe things feeling dull, joyless, or no longer rewarding, without clinical diagnosis or naming a disorder.
+positive_evidence:
+  - Self-reported loss of interest or pleasure.
+  - Activities that once felt good now feel flat or empty.
+  - Difficulty looking forward to things that used to matter.
+negative_evidence:
+  - Stable enjoyment of meaningful activities.
+  - Brief loss of interest tied to one resolved stressor.
+typical_phrases:
+  en:
+    - nothing really brings me joy anymore
+    - I don't enjoy things I used to love
+    - everything feels dull and colorless
+    - I can't feel pleasure the way I used to
+  uk:
+    - нічого вже не приносить мені радості
+    - не отримую задоволення від того, що раніше любив
+    - усе здається безколірним і порожнім
+    - не відчуваю задоволення так, як раніше
+  es:
+    - nada me trae alegría como antes
+    - ya no disfruto las cosas que solía amar
+    - todo se siente apagado y sin color
+    - no siento placer como solía sentirlo
+  ru:
+    - ничто уже не приносит мне радости
+    - не получаю удовольствия от того, что раньше любил
+    - всё кажется бесцветным и пустым
+    - не чувствую удовольствия так, как раньше
+follow_up_questions:
+  en:
+    - What activities used to feel meaningful or enjoyable for you?
+    - When did you first notice this change in interest or pleasure?
+  uk:
+    - Які заняття раніше здавалися вам значущими або приємними?
+    - Коли ви вперше помітили цю зміну в інтересі чи задоволенні?
+  es:
+    - ¿Qué actividades solían sentirse significativas o agradables para usted?
+    - ¿Cuándo notó por primera vez este cambio en el interés o el placer?
+  ru:
+    - Какие занятия раньше казались вам значимыми или приятными?
+    - Когда вы впервые заметили это изменение интереса или удовольствия?
+related_patterns:
+  - low_mood_signal
+  - depressed_mood_signal
+  - emotional_heaviness
+relationships:
+  - target_pattern: low_mood_signal
+    relation_type: often_coexists_with
+    weight: 0.84
+  - target_pattern: emotional_heaviness
+    relation_type: may_strengthen
+    weight: 0.76
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  calming_capacity_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported loss of interest or pleasure without diagnosis, eligibility decisions, or treatment recommendations.

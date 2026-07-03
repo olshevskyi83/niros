@@ -81,6 +81,8 @@ INTAKE_PATTERN_IDS = frozenset(
         "loss_of_control_in_speech",
         "self_expression_block",
         "hopelessness_signal",
+        "chronic_stress_signal",
+        "depressed_mood_signal",
         "loss_of_meaning",
         "identity_confusion",
         "life_transition_distress",

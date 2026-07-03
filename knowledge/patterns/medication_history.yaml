@@ -1,0 +1,59 @@
+canonical_id: medication_history
+name: Medication History
+domain: treatment_context
+definition: An observed signal that the person reports prescribed medication or prior medication use in their own words.
+behavioral_description: The person may mention antidepressants, other prescribed medication, or past medication use as part of their story without treatment recommendations from NIROS.
+positive_evidence:
+  - Self-reported prescribed medication mention.
+  - Prior medication use described by the person.
+negative_evidence:
+  - Hypothetical medication mention only.
+  - Third-person medication discussion without personal history.
+typical_phrases:
+  en:
+    - I was prescribed antidepressants
+    - they prescribed me medication
+    - I take antidepressants
+    - I was on medication
+    - I tried antidepressants
+  uk:
+    - мені призначили антидепресанти
+    - мені призначили ліки
+    - я приймав антидепресанти
+    - мені прописали антидепресанти
+    - я пив антидепресанти
+  ru:
+    - мне назначили антидепрессанты
+    - мне прописали антидепрессанты
+    - я принимал антидепрессанты
+    - мне назначили лекарства
+  es:
+    - me recetaron antidepresivos
+    - me prescribieron antidepresivos
+    - tomé antidepresivos
+    - me dieron antidepresivos
+follow_up_questions:
+  en:
+    - What was it like when you started that medication?
+    - How long did you take it?
+  uk:
+    - Як це було, коли ви почали приймати ці ліки?
+    - Як довго ви їх приймали?
+  ru:
+    - Как это было, когда вы начали принимать эти лекарства?
+    - Как долго вы их принимали?
+  es:
+    - ¿Cómo fue cuando empezó a tomar esa medicación?
+    - ¿Cuánto tiempo la tomó?
+related_patterns:
+  - negative_medication_experience
+  - low_treatment_response_signal
+relationships:
+  - target_pattern: negative_medication_experience
+    relation_type: often_coexists_with
+    weight: 0.85
+confidence_rules:
+  repeated_evidence: 0.10
+  contradiction_present: -0.15
+interview_priority: 8
+therapeutic_relevance: Important for understanding self-reported medication history without diagnosis or treatment advice.

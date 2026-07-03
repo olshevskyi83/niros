@@ -1,0 +1,55 @@
+canonical_id: substance_preoccupation
+name: Substance Preoccupation
+domain: emotion_regulation
+definition: An observed signal that the person reports being preoccupied with drugs or substance use in their own words.
+behavioral_description: The person may describe thinking about substances constantly or losing interest in other areas without clinical labeling.
+positive_evidence:
+  - Self-reported preoccupation with substances.
+  - Other interests reduced because of substance focus.
+negative_evidence:
+  - Brief mention without preoccupation.
+  - Neutral recreational context only.
+typical_phrases:
+  en:
+    - nothing interests me except drugs
+    - I think about it all the time
+    - drugs are all I think about
+    - nothing else matters except using
+  uk:
+    - мене не цікавить нічого крім наркотиків
+    - постійно думаю про це
+    - думаю лише про наркотики
+    - нічого іншого не цікавить
+  ru:
+    - меня не интересует ничего кроме наркотиков
+    - постоянно думаю об этом
+    - думаю только о наркотиках
+    - ничего другого не интересует
+  es:
+    - no me interesa nada excepto las drogas
+    - pienso en ello todo el tiempo
+    - solo pienso en las drogas
+    - nada más me importa excepto consumir
+follow_up_questions:
+  en:
+    - What feels hardest when your attention stays on this?
+  uk:
+    - Що відчувається найважчим, коли увага постійно повертається до цього?
+  ru:
+    - Что ощущается тяжелее всего, когда внимание постоянно возвращается к этому?
+  es:
+    - ¿Qué se siente más difícil cuando la atención se queda en esto?
+related_patterns:
+  - compulsive_use_signal
+  - substance_use_pattern
+relationships:
+  - target_pattern: compulsive_use_signal
+    relation_type: often_coexists_with
+    weight: 0.87
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.17
+  grounding_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding self-reported substance preoccupation without diagnosis.

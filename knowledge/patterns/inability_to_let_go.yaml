@@ -1,0 +1,64 @@
+canonical_id: inability_to_let_go
+name: Inability To Let Go
+domain: emotion_regulation
+definition: An observed signal that the person reports difficulty releasing past events, relationships, grievances, or emotional attachments.
+behavioral_description: The person may describe holding on to the past, being unable to move on, or staying emotionally tied to what already ended, without clinical diagnosis.
+positive_evidence:
+  - Self-reported difficulty letting go of past events or attachments.
+  - Language of being stuck in what already happened.
+  - Persistent emotional tie to ended relationships or grievances.
+negative_evidence:
+  - Able to release past events with ordinary grief processing.
+  - Brief difficulty letting go tied to recent loss with movement over time.
+typical_phrases:
+  en:
+    - I can't let go of the past
+    - I keep holding on to what already ended
+    - I'm stuck on things I should have moved on from
+    - old hurts still have a grip on me
+  uk:
+    - не можу відпустити минуле
+    - тримаюся за те, що вже закінчилось
+    - застряг на речах, від яких мав би відійти
+    - старі болі досі тримають мене
+  es:
+    - no puedo soltar el pasado
+    - sigo aferrado a lo que ya terminó
+    - estoy atascado en cosas de las que debería haber seguido
+    - viejos dolores aún me tienen agarrado
+  ru:
+    - не могу отпустить прошлое
+    - держусь за то, что уже закончилось
+    - застрял на вещах, от которых должен был отойти
+    - старые боли до сих пор держат меня
+follow_up_questions:
+  en:
+    - What feels hardest to let go of right now?
+    - What do you fear would happen if you released your grip on it?
+  uk:
+    - Що зараз найважче відпустити?
+    - Чого ви боїтесь, якщо відпустите це?
+  es:
+    - ¿Qué siente más difícil de soltar ahora mismo?
+    - ¿Qué teme que pasaría si soltara su agarre sobre ello?
+  ru:
+    - Что сейчас труднее всего отпустить?
+    - Чего вы боитесь, если отпустите это?
+related_patterns:
+  - rumination
+  - guilt_burden
+  - life_transition_distress
+relationships:
+  - target_pattern: rumination
+    relation_type: often_coexists_with
+    weight: 0.79
+  - target_pattern: guilt_burden
+    relation_type: may_strengthen
+    weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  disengagement_capacity_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported difficulty letting go without diagnosis, eligibility decisions, or treatment recommendations.

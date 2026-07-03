@@ -1,0 +1,50 @@
+canonical_id: post_event_distress
+name: Post-Event Distress
+domain: trauma_stress
+definition: An observed signal that the person connects current distress to a recent or named difficult event in their own words.
+behavioral_description: The person may link mood, sleep, or functioning difficulty to an accident or traumatic event without clinical interpretation.
+positive_evidence:
+  - Distress linked to a named event.
+  - Functioning change described after an incident.
+negative_evidence:
+  - Distress without event connection.
+typical_phrases:
+  en:
+    - things got worse after the accident
+    - I've been different since the crash
+    - after the event everything changed
+  uk:
+    - після автокатастрофи стало гірше
+    - після аварії все змінилось
+    - після травматичної події стало важче
+  ru:
+    - после аварии стало хуже
+    - после автокатастрофы всё изменилось
+    - после травматического события стало тяжелее
+  es:
+    - después del accidente empeoró todo
+    - desde el accidente todo cambió
+    - después del evento me siento peor
+follow_up_questions:
+  en:
+    - What changed most after that event?
+  uk:
+    - Що змінилося у вашому стані після автокатастрофи?
+  ru:
+    - Что больше всего изменилось после этого события?
+  es:
+    - ¿Qué cambió más después de ese evento?
+related_patterns:
+  - accident_context
+  - trauma_context_signal
+relationships:
+  - target_pattern: accident_context
+    relation_type: often_coexists_with
+    weight: 0.86
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.17
+  grounding_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding post-event distress without diagnosis.

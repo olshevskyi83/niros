@@ -83,24 +83,40 @@ class InterviewDecisionEngine:
         pattern_tags: list[PatternTag],
         hypotheses: list[Hypothesis],
         current_phase: BlueprintPhase,
+        *,
+        answered_questions: list[str] | None = None,
+        blocked_questions: list[str] | None = None,
     ) -> InterviewDecision:
+        answered = list(answered_questions or [])
+        blocked = set(blocked_questions or [])
+
         if not pattern_tags:
+            fallback = _first_unblocked_question(
+                [PHASE_OPENERS[BlueprintPhase.FREE_NARRATIVE]],
+                blocked=blocked,
+                answered=answered,
+            )
             return InterviewDecision(
                 next_phase=BlueprintPhase.FREE_NARRATIVE,
                 selected_pattern=None,
-                selected_question=PHASE_OPENERS[BlueprintPhase.FREE_NARRATIVE],
+                selected_question=fallback,
                 reason="no_patterns_continue_narrative",
                 confidence=0.0,
             )
 
         if self._has_enough_evidence(interview_state, pattern_tags, hypotheses):
             next_phase = self._next_blueprint_phase(current_phase)
+            fallback = _first_unblocked_question(
+                [PHASE_OPENERS.get(next_phase)],
+                blocked=blocked,
+                answered=answered,
+            )
             patterns = self._loader.load_all()
             primary_tag = _select_primary_tag(pattern_tags, patterns)
             return InterviewDecision(
                 next_phase=next_phase,
                 selected_pattern=primary_tag.canonical_id,
-                selected_question=PHASE_OPENERS.get(next_phase),
+                selected_question=fallback,
                 reason="enough_evidence_advance_blueprint",
                 confidence=_max_hypothesis_confidence(hypotheses),
             )
@@ -114,6 +130,8 @@ class InterviewDecisionEngine:
                 primary_tag,
                 pattern_tags,
                 hypotheses,
+                answered_questions=answered,
+                blocked_questions=blocked,
             )
             if related is not None:
                 pattern_id, question, priority = related
@@ -130,6 +148,8 @@ class InterviewDecisionEngine:
             primary_tag,
             pattern_tags,
             hypotheses,
+            answered_questions=answered,
+            blocked_questions=blocked,
         )
 
         if len(unique_patterns) == 1:
@@ -166,6 +186,9 @@ class InterviewDecisionEngine:
         primary_tag: PatternTag,
         pattern_tags: list[PatternTag],
         hypotheses: list[Hypothesis],
+        *,
+        answered_questions: list[str] | None = None,
+        blocked_questions: set[str] | None = None,
     ) -> tuple[str, str, float] | None:
         suggestions = self._question_suggester.suggest(primary_tag)
         related_candidates = [
@@ -173,10 +196,16 @@ class InterviewDecisionEngine:
             for suggestion in suggestions
             if suggestion.reason.startswith("relationship:")
         ]
+        related_candidates = _filter_blocked_candidates(
+            related_candidates,
+            blocked=blocked_questions or set(),
+            answered=answered_questions or [],
+        )
         ranked = self._question_ranker.rank(
             related_candidates,
             pattern_tags=pattern_tags,
             hypotheses=hypotheses,
+            answered_questions=answered_questions,
         )
         self._last_ranked_questions = ranked
         if not ranked:
@@ -194,6 +223,9 @@ class InterviewDecisionEngine:
         primary_tag: PatternTag,
         pattern_tags: list[PatternTag],
         hypotheses: list[Hypothesis],
+        *,
+        answered_questions: list[str] | None = None,
+        blocked_questions: set[str] | None = None,
     ) -> tuple[str | None, str | None]:
         suggestions = self._question_suggester.suggest(primary_tag)
         direct_candidates = [
@@ -212,10 +244,16 @@ class InterviewDecisionEngine:
                 for question in direct_questions
             ]
 
+        direct_candidates = _filter_blocked_candidates(
+            direct_candidates,
+            blocked=blocked_questions or set(),
+            answered=answered_questions or [],
+        )
         ranked = self._question_ranker.rank(
             direct_candidates,
             pattern_tags=pattern_tags,
             hypotheses=hypotheses,
+            answered_questions=answered_questions,
         )
         self._last_ranked_questions = ranked
         if not ranked:
@@ -255,3 +293,29 @@ def _max_hypothesis_confidence(hypotheses: list[Hypothesis]) -> float:
     if not hypotheses:
         return 0.0
     return max(hypothesis.confidence for hypothesis in hypotheses)
+
+
+def _filter_blocked_candidates(
+    candidates: list[QuestionSuggestion],
+    *,
+    blocked: set[str],
+    answered: list[str],
+) -> list[QuestionSuggestion]:
+    filtered: list[QuestionSuggestion] = []
+    for candidate in candidates:
+        if candidate.question in blocked or candidate.question in answered:
+            continue
+        filtered.append(candidate)
+    return filtered
+
+
+def _first_unblocked_question(
+    candidates: list[str | None],
+    *,
+    blocked: set[str],
+    answered: list[str],
+) -> str | None:
+    for candidate in candidates:
+        if candidate and candidate not in blocked and candidate not in answered:
+            return candidate
+    return None
