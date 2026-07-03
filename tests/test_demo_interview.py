@@ -66,7 +66,8 @@ def test_run_demo_multi_turn_summary():
     assert "Questions asked:" in rendered
 
 
-def test_run_demo_default_semantic_provider_is_mock():
+def test_run_demo_default_semantic_provider_is_mock(monkeypatch):
+    monkeypatch.delenv("OPENAI_API_KEY", raising=False)
     output = io.StringIO()
 
     run_demo(

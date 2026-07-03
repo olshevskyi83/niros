@@ -1,0 +1,65 @@
+canonical_id: mystical_expectation
+name: Mystical Expectation
+domain: session_concerns
+definition: An observed signal that the person reports expectations about mystical,
+  transcendent, or extraordinary experience.
+behavioral_description: The person may describe expecting a mystical experience, hoping
+  for transcendence, or reported anticipation of something extraordinary.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I expect a mystical experience
+  - I hope for something transcendent
+  - I'm expecting an extraordinary experience
+  uk:
+  - я очікую містичного досвіду
+  - сподіваюся на transcendent experience
+  - очікую чогось надзвичайного
+  ru:
+  - я ожидаю мистического опыта
+  - надеюсь на transcendent experience
+  - ожидаю чего-то необычного
+  es:
+  - espero una experiencia mística
+  - espero algo trascendente
+  - anticipo una experiencia extraordinaria
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- spiritual_openness
+- meaning_seeking
+relationships:
+- target_pattern: spiritual_openness
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: meaning_seeking
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

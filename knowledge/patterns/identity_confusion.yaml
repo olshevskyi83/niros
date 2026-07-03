@@ -1,0 +1,65 @@
+canonical_id: identity_confusion
+name: Identity Confusion
+domain: meaning_direction
+definition: An observed signal that the person reports confusion about who they are
+  or where they belong.
+behavioral_description: The person may describe not knowing who they are, identity
+  confusion, or reported uncertainty about self-definition.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I don't know who I am anymore
+  - I feel confused about my identity
+  - identity feels unclear
+  uk:
+  - не знаю, хто я зараз
+  - identity feels confused
+  - identity feels unclear
+  ru:
+  - не знаю, кто я сейчас
+  - identity feels confused
+  - identity feels unclear
+  es:
+  - no sé quién soy ahora
+  - me siento confundido sobre mi identidad
+  - mi identidad se siente confusa
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- identity_uncertainty
+- search_for_self_understanding
+relationships:
+- target_pattern: identity_uncertainty
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: search_for_self_understanding
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

@@ -102,7 +102,7 @@ def test_pattern_relationship_rejects_invalid_weight():
 def test_loader_still_loads_patterns_without_relationships():
     patterns = PatternLoader().load_all()
 
-    assert len(patterns) == 19
+    assert len(patterns) == 72
     fear_of_disappointing_others = next(
         pattern for pattern in patterns if pattern.canonical_id == "fear_of_disappointing_others"
     )

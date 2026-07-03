@@ -1,0 +1,65 @@
+canonical_id: speech_anxiety
+name: Speech Anxiety
+domain: speech_communication
+definition: An observed signal that the person reports anxiety specifically related
+  to speaking.
+behavioral_description: The person may describe anxiety before speaking, nervousness
+  about talking, or reported speech-related tension.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I get anxious when I have to speak
+  - speaking makes me nervous
+  - I feel speech anxiety
+  uk:
+  - мені тривожно, коли треба говорити
+  - говоріння викликає nervousness
+  - відчуваю speech anxiety
+  ru:
+  - мне тревожно, когда нужно говорить
+  - говорение вызывает nervousness
+  - чувствую speech anxiety
+  es:
+  - me pongo ansioso cuando tengo que hablar
+  - hablar me pone nervioso
+  - siento ansiedad al hablar
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- fear_of_speaking
+- anticipation_anxiety
+relationships:
+- target_pattern: fear_of_speaking
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: anticipation_anxiety
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

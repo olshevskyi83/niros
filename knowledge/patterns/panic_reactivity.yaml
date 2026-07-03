@@ -1,0 +1,65 @@
+canonical_id: panic_reactivity
+name: Panic Reactivity
+domain: fear_safety_distress
+definition: An observed signal that the person reports sudden panic or panic-like
+  surges.
+behavioral_description: The person may describe panic arriving quickly, body alarm
+  spikes, or reported panic that feels hard to slow down.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - panic hits me out of nowhere
+  - I panic suddenly
+  - sudden panic takes over
+  uk:
+  - мене накриває паніка
+  - раптова паніка накриває мене
+  - у мене раптово починається паніка
+  ru:
+  - меня накрывает паника
+  - внезапная паника накрывает меня
+  - у меня внезапно начинается паника
+  es:
+  - el pánico me golpea de la nada
+  - entro en pánico de repente
+  - el pánico repentino me domina
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- generalized_fear
+- emotional_distress_signal
+relationships:
+- target_pattern: generalized_fear
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: emotional_distress_signal
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

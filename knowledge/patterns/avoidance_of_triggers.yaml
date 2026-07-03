@@ -1,0 +1,65 @@
+canonical_id: avoidance_of_triggers
+name: Avoidance of Triggers
+domain: trauma_stress
+definition: An observed signal that the person reports avoiding places, topics, or
+  cues linked to distress.
+behavioral_description: The person may describe avoiding triggers, steering away from
+  reminders, or reported effort to stay away from distressing cues.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I avoid triggers whenever I can
+  - I stay away from things that remind me
+  - I avoid situations that bring it back
+  uk:
+  - уникаю triggers, коли можу
+  - тримаюся подалі від нагадувань
+  - уникаю ситуацій, що повертають це
+  ru:
+  - избегаю triggers, когда могу
+  - держусь подальше от напоминаний
+  - избегаю ситуаций, которые это возвращают
+  es:
+  - evito los triggers cuando puedo
+  - me alejo de cosas que me lo recuerdan
+  - evito situaciones que lo traen de vuelta
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- intrusive_memories
+- emotional_avoidance
+relationships:
+- target_pattern: intrusive_memories
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: emotional_avoidance
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

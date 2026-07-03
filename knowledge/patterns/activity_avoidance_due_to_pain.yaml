@@ -1,0 +1,65 @@
+canonical_id: activity_avoidance_due_to_pain
+name: Activity Avoidance Due to Pain
+domain: body_pain
+definition: An observed signal that the person reports avoiding activity because of
+  pain or symptom flares.
+behavioral_description: The person may describe skipping activity due to pain, fear
+  of making pain worse, or reported avoidance of movement.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I avoid activity because of pain
+  - pain keeps me from doing things
+  - I skip activities when pain flares
+  uk:
+  - уникаю activity because of pain
+  - біль не дає робити речі
+  - пропускаю справи, коли pain flares
+  ru:
+  - избегаю activity because of pain
+  - боль не даёт делать дела
+  - пропускаю дела, когда pain flares
+  es:
+  - evito actividad por el dolor
+  - el dolor me impide hacer cosas
+  - dejo actividades cuando el dolor empeora
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- chronic_pain_burden
+- pain_fear_cycle
+relationships:
+- target_pattern: chronic_pain_burden
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: pain_fear_cycle
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

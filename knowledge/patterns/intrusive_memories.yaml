@@ -1,0 +1,65 @@
+canonical_id: intrusive_memories
+name: Intrusive Memories
+domain: trauma_stress
+definition: An observed signal that the person reports unwanted memories or images
+  returning on their own.
+behavioral_description: The person may describe memories intruding, unwanted images
+  returning, or reported difficulty keeping past events out of mind.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - unwanted memories keep coming back
+  - intrusive memories return on their own
+  - images from the past intrude
+  uk:
+  - назад повертаються небажані спогади
+  - intrusive memories приходять самі
+  - минуле вторгається в думки
+  ru:
+  - возвращаются нежелательные воспоминания
+  - intrusive memories приходят сами
+  - прошлое вторгается в мысли
+  es:
+  - vuelven recuerdos no deseados
+  - los recuerdos intrusivos regresan solos
+  - el pasado se cuela en mis pensamientos
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- avoidance_of_triggers
+- rumination
+relationships:
+- target_pattern: avoidance_of_triggers
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: rumination
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

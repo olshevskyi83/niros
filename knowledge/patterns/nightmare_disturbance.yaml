@@ -1,0 +1,80 @@
+canonical_id: nightmare_disturbance
+name: Nightmare Disturbance
+domain: emotion_regulation
+definition: An observed signal that the person reports bad dreams, nightmares, or sleep-related distress that affects how they feel.
+behavioral_description: The person may describe disturbing dreams, waking from nightmares, dread before sleep, or sleep-related distress linked to frightening dream content.
+positive_evidence:
+  - Reported bad dreams or nightmares.
+  - Sleep-related distress after frightening dreams.
+  - Waking disturbed by dream content.
+  - Dread of sleep because of dreams.
+negative_evidence:
+  - Occasional vivid dreams without distress.
+  - Sleep difficulty with no dream content mentioned.
+  - Restful sleep without nightmare reports.
+typical_phrases:
+  en:
+    - I have bad dreams.
+    - I have nightmares that wake me up.
+    - bad dreams keep coming back
+    - I wake up scared from my dreams.
+    - my sleep is disturbed by nightmares
+  uk:
+    - мені сняться погані сни
+    - мені сняться кошмари
+    - мене лякають сни вночі
+    - я прокидаюся наляканий від снів
+    - сни не дають мені спокійно спати
+  es:
+    - tengo malos sueños
+    - tengo pesadillas que me despiertan
+    - las pesadillas vuelven una y otra vez
+    - me despierto asustado por mis sueños
+  ru:
+    - мне снятся плохие сны
+    - мне снятся кошмары
+    - меня пугают сны по ночам
+    - я просыпаюсь испуганным от снов
+    - сны не дают мне спокойно спать
+follow_up_questions:
+  en:
+    - What do the dreams or nightmares tend to be about?
+    - How often does sleep-related distress happen?
+    - What helps you settle after waking from a bad dream?
+  uk:
+    - Про що зазвичай ці сни або кошмари?
+    - Як часто трапляється sleep-related distress?
+    - Що допомагає вам заспокоїтися після поганого сну?
+  es:
+    - ¿De qué suelen tratar los malos sueños o pesadillas?
+    - ¿Con qué frecuencia ocurre esta angustia relacionada con el sueño?
+    - ¿Qué te ayuda a calmarte después de un mal sueño?
+  ru:
+    - О чём обычно эти сны или кошмары?
+    - Как часто случается sleep-related distress?
+    - Что помогает вам успокоиться после плохого сна?
+related_patterns:
+  - generalized_fear
+  - emotional_distress_signal
+  - anxiety_reactivity
+  - rumination
+relationships:
+  - target_pattern: generalized_fear
+    relation_type: often_coexists_with
+    weight: 0.72
+  - target_pattern: emotional_distress_signal
+    relation_type: may_strengthen
+    weight: 0.70
+  - target_pattern: anxiety_reactivity
+    relation_type: often_coexists_with
+    weight: 0.68
+  - target_pattern: rumination
+    relation_type: often_coexists_with
+    weight: 0.65
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  restful_sleep_reported: -0.10
+interview_priority: 7
+therapeutic_relevance: Important for understanding sleep-related distress, reported nightmares, and how frightening dream content affects daily functioning.

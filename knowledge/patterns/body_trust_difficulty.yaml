@@ -1,0 +1,65 @@
+canonical_id: body_trust_difficulty
+name: Body Trust Difficulty
+domain: body_pain
+definition: An observed signal that the person reports difficulty trusting or feeling
+  safe in their body.
+behavioral_description: The person may describe not trusting the body, feeling betrayed
+  by bodily signals, or reported difficulty relying on physical cues.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I don't trust my body
+  - my body feels unreliable
+  - I can't feel safe in my body
+  uk:
+  - я не довіряю своєму тілу
+  - тіло здається unreliable
+  - не можу почуватися safe in my body
+  ru:
+  - я не доверяю своему телу
+  - тело кажется unreliable
+  - не могу чувствовать себя safe in my body
+  es:
+  - no confío en mi cuerpo
+  - mi cuerpo se siente poco confiable
+  - no puedo sentirme seguro en mi cuerpo
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- body_sensitivity
+- safety_concern_signal
+relationships:
+- target_pattern: body_sensitivity
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: safety_concern_signal
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

@@ -1,0 +1,80 @@
+canonical_id: existential_fear
+name: Existential Fear
+domain: emotion_regulation
+definition: An observed signal that the person reports fear related to life, existence, the future, or continuing as they are now.
+behavioral_description: The person may describe being afraid to live, fear of what lies ahead, dread about continuing, or reported fear when thinking about existence or the future without naming a single concrete trigger.
+positive_evidence:
+  - Reported fear of living or continuing.
+  - Dread about the future or existence.
+  - Language suggesting fear of life itself.
+  - Difficulty imagining going on without fear.
+negative_evidence:
+  - Fear tied only to one specific event with clear resolution.
+  - Brief worry without reported fear of life or existence.
+  - Future-oriented planning without reported existential fear.
+typical_phrases:
+  en:
+    - I'm afraid to live.
+    - I fear living like this.
+    - I'm scared of what the future holds for me.
+    - I feel afraid of life itself.
+    - I'm frightened by the thought of continuing.
+  uk:
+    - я боюся жити
+    - мені страшно жити
+    - я боюся майбутнього
+    - мені страшно продовжувати так жити
+    - я боюся того, що буде далі
+  es:
+    - tengo miedo de vivir
+    - me da miedo seguir viviendo así
+    - me da miedo lo que depara el futuro
+    - siento miedo de la vida misma
+  ru:
+    - я боюсь жить
+    - мне страшно жить
+    - я боюсь будущего
+    - мне страшно продолжать так жить
+    - я боюсь того, что будет дальше
+follow_up_questions:
+  en:
+    - What feels most frightening about living or continuing right now?
+    - When does this reported fear show up most strongly?
+    - What, if anything, helps even a little in those moments?
+  uk:
+    - Що зараз найбільше лякає у самому житті або в тому, щоб продовжувати?
+    - Коли цей reported fear з'являється найсильніше?
+    - Що, якщо взагалі щось, трохи допомагає в такі моменти?
+  es:
+    - ¿Qué es lo más aterrador ahora de vivir o continuar?
+    - ¿Cuándo aparece con más fuerza este miedo reportado?
+    - ¿Qué, si algo, ayuda aunque sea un poco en esos momentos?
+  ru:
+    - Что сейчас больше всего пугает в самой жизни или в том, чтобы продолжать?
+    - Когда этот reported fear проявляется сильнее всего?
+    - Что, если вообще что-то, немного помогает в такие моменты?
+related_patterns:
+  - generalized_fear
+  - emotional_distress_signal
+  - safety_concern_signal
+  - nightmare_disturbance
+relationships:
+  - target_pattern: generalized_fear
+    relation_type: often_coexists_with
+    weight: 0.84
+  - target_pattern: emotional_distress_signal
+    relation_type: often_coexists_with
+    weight: 0.80
+  - target_pattern: safety_concern_signal
+    relation_type: may_strengthen
+    weight: 0.78
+  - target_pattern: nightmare_disturbance
+    relation_type: often_coexists_with
+    weight: 0.68
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  grounding_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding reported fear about life, existence, or continuing, and for pacing follow-up with care without inferring diagnosis.

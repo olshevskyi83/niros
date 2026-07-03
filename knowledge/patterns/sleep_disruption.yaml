@@ -1,0 +1,65 @@
+canonical_id: sleep_disruption
+name: Sleep Disruption
+domain: body_pain
+definition: An observed signal that the person reports disrupted sleep affecting how
+  they feel.
+behavioral_description: The person may describe trouble sleeping, broken sleep, or
+  reported sleep disruption without medical labeling.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - my sleep is disrupted
+  - I can't sleep properly
+  - broken sleep wears me out
+  uk:
+  - сон порушений
+  - не можу нормально спати
+  - перерваний сон виснажує
+  ru:
+  - сон нарушен
+  - не могу нормально спать
+  - прерывистый сон изматывает
+  es:
+  - mi sueño está interrumpido
+  - no puedo dormir bien
+  - el sueño roto me agota
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- nightmare_disturbance
+- fatigue_burden
+relationships:
+- target_pattern: nightmare_disturbance
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: fatigue_burden
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

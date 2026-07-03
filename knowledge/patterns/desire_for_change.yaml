@@ -1,0 +1,65 @@
+canonical_id: desire_for_change
+name: Desire for Change
+domain: meaning_direction
+definition: An observed signal that the person reports wanting meaningful change in
+  life or self.
+behavioral_description: The person may describe wanting change, readiness to shift
+  something, or reported desire for a different path.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I want meaningful change
+  - I need something in my life to change
+  - I'm ready for a different path
+  uk:
+  - хочу meaningful change
+  - потрібно, щоб щось change in my life
+  - ready for a different path
+  ru:
+  - хочу meaningful change
+  - нужно, чтобы что-то change in my life
+  - ready for a different path
+  es:
+  - quiero un cambio significativo
+  - necesito que algo cambie en mi vida
+  - estoy listo para un camino diferente
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- search_for_self_understanding
+- meaning_seeking
+relationships:
+- target_pattern: search_for_self_understanding
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: meaning_seeking
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

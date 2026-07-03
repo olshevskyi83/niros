@@ -9,6 +9,12 @@ SELF = "self"
 AGENCY = "agency"
 EMOTION = "emotion"
 RELATIONSHIP = "relationship"
+SAFETY = "safety"
+BODY = "body"
+SPEECH = "speech"
+SESSION = "session"
+TRAUMA = "trauma"
+MEANING = "meaning"
 
 IDENTITY = "identity"
 SELF_EFFICACY = "self_efficacy"
@@ -19,6 +25,16 @@ BOUNDARY_SETTING = "boundary_setting"
 TRUST = "trust"
 ATTACHMENT = "attachment"
 CONFLICT = "conflict"
+REPORTED_FEAR = "reported_fear"
+REPORTED_DISTRESS = "reported_distress"
+SAFETY_FEELING = "safety_feeling"
+PAIN_BURDEN = "pain_burden"
+BODY_TRUST = "body_trust"
+SPEECH_COMFORT = "speech_comfort"
+SESSION_OPENNESS = "session_openness"
+TRAUMA_STRESS = "trauma_stress"
+MEANING_SENSE = "meaning_sense"
+CHANGE_DESIRE = "change_desire"
 
 UNCLEAR = "unclear"
 LOW = "low"
@@ -31,6 +47,13 @@ PRESENT = "present"
 ABSENT = "absent"
 AVOIDANT = "avoidant"
 ANXIOUS = "anxious"
+ELEVATED = "elevated"
+REDUCED = "reduced"
+UNCERTAIN = "uncertain"
+SEEKING = "seeking"
+RESISTANT = "resistant"
+OPEN = "open"
+BLOCKED = "blocked"
 
 VALID_CATEGORIES = frozenset(
     {
@@ -38,6 +61,12 @@ VALID_CATEGORIES = frozenset(
         AGENCY,
         EMOTION,
         RELATIONSHIP,
+        SAFETY,
+        BODY,
+        SPEECH,
+        SESSION,
+        TRAUMA,
+        MEANING,
     }
 )
 
@@ -52,6 +81,16 @@ VALID_ATTRIBUTES = frozenset(
         TRUST,
         ATTACHMENT,
         CONFLICT,
+        REPORTED_FEAR,
+        REPORTED_DISTRESS,
+        SAFETY_FEELING,
+        PAIN_BURDEN,
+        BODY_TRUST,
+        SPEECH_COMFORT,
+        SESSION_OPENNESS,
+        TRAUMA_STRESS,
+        MEANING_SENSE,
+        CHANGE_DESIRE,
     }
 )
 
@@ -68,5 +107,12 @@ VALID_VALUES = frozenset(
         ABSENT,
         AVOIDANT,
         ANXIOUS,
+        ELEVATED,
+        REDUCED,
+        UNCERTAIN,
+        SEEKING,
+        RESISTANT,
+        OPEN,
+        BLOCKED,
     }
 )

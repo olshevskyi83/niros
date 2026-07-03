@@ -1,0 +1,65 @@
+canonical_id: spiritual_openness
+name: Spiritual Openness
+domain: session_concerns
+definition: An observed signal that the person reports openness to spiritual, inner,
+  or meaning-oriented experience.
+behavioral_description: The person may describe openness to inner experience, curiosity
+  about spiritual themes, or reported willingness to explore meaning.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I feel open to the spiritual side of this
+  - I'm open to inner experience
+  - I feel spiritually open to what may come
+  uk:
+  - я відкритий до духовного досвіду
+  - мені цікаво дослідити внутрішній досвід
+  - я відкритий до того, що може прийти
+  ru:
+  - я открыт к духовному опыту
+  - мне интересно исследовать внутренний опыт
+  - я открыт к тому, что может прийти
+  es:
+  - me siento abierto a la parte espiritual
+  - estoy abierto a la experiencia interior
+  - me siento espiritualmente abierto a lo que venga
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- meaning_seeking
+- mystical_expectation
+relationships:
+- target_pattern: meaning_seeking
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: mystical_expectation
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

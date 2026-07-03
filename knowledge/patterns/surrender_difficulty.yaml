@@ -1,0 +1,65 @@
+canonical_id: surrender_difficulty
+name: Surrender Difficulty
+domain: session_concerns
+definition: An observed signal that the person reports difficulty letting go or surrendering
+  during inner or ceremonial experiences.
+behavioral_description: The person may describe trouble surrendering, needing control,
+  or reported difficulty allowing the experience to unfold.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I find it hard to surrender
+  - I struggle to let go during the experience
+  - I can't surrender easily
+  uk:
+  - мені важко відпустити контроль
+  - я не можу легко віддатися досвіду
+  - мені важко surrender під час сесії
+  ru:
+  - мне трудно отпустить контроль
+  - я не могу легко surrender во время сессии
+  - мне сложно отдаться опыту
+  es:
+  - me cuesta rendirme
+  - me cuesta soltar el control durante la experiencia
+  - no puedo surrender fácilmente
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- control_resistance
+- fear_of_losing_control
+relationships:
+- target_pattern: control_resistance
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: fear_of_losing_control
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

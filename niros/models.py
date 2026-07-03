@@ -16,6 +16,7 @@ class InterviewPhase(str, Enum):
 
 class SupportedLanguage(str, Enum):
     ENGLISH = "en"
+    UKRAINIAN = "uk"
     SPANISH = "es"
     RUSSIAN = "ru"
 

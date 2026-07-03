@@ -7,11 +7,15 @@ dependencies = [
     "pydantic>=2.0",
     "pyyaml>=6.0",
     "openai>=1.0.0",
+    "python-dotenv>=1.0.0",
 ]
 
 [project.optional-dependencies]
 dev = [
     "pytest>=8.0",
+]
+voice = [
+    "SpeechRecognition>=3.10.0",
 ]
 
 [build-system]

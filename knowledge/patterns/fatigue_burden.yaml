@@ -1,0 +1,65 @@
+canonical_id: fatigue_burden
+name: Fatigue Burden
+domain: body_pain
+definition: An observed signal that the person reports persistent fatigue or exhaustion
+  burden.
+behavioral_description: The person may describe being exhausted most of the time,
+  fatigue limiting activity, or reported depletion.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I'm exhausted all the time
+  - fatigue limits what I can do
+  - I feel depleted most days
+  uk:
+  - я постійно виснажений
+  - втома обмежує, що я можу робити
+  - більшість днів відчуваю depletion
+  ru:
+  - я постоянно exhausted
+  - усталость ограничивает, что я могу делать
+  - большинство дней чувствую depletion
+  es:
+  - estoy agotado todo el tiempo
+  - la fatiga limita lo que puedo hacer
+  - me siento agotado la mayoría de los días
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- chronic_pain_burden
+- sleep_disruption
+relationships:
+- target_pattern: chronic_pain_burden
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: sleep_disruption
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

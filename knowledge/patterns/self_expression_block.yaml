@@ -1,0 +1,65 @@
+canonical_id: self_expression_block
+name: Self-Expression Block
+domain: speech_communication
+definition: An observed signal that the person reports difficulty expressing themselves
+  openly.
+behavioral_description: The person may describe blocked self-expression, trouble saying
+  what they mean, or reported difficulty speaking authentically.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I block myself from expressing what I feel
+  - I can't express myself openly
+  - my words won't come out the way I mean
+  uk:
+  - блокую self-expression
+  - не можу openly express myself
+  - слова не виходять так, як хочу
+  ru:
+  - блокирую self-expression
+  - не могу openly express myself
+  - слова не выходят так, как хочу
+  es:
+  - me bloqueo al expresar lo que siento
+  - no puedo expresarme abiertamente
+  - mis palabras no salen como quiero
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- communication_avoidance
+- emotional_suppression
+relationships:
+- target_pattern: communication_avoidance
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: emotional_suppression
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

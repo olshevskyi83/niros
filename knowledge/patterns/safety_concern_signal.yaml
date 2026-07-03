@@ -1,0 +1,80 @@
+canonical_id: safety_concern_signal
+name: Safety Concern Signal
+domain: emotion_regulation
+definition: An observed signal in the person's language that may warrant careful, paced follow-up, without making a diagnosis, risk claim, or crisis determination.
+behavioral_description: The person may express not feeling safe, report fear that suggests follow-up should be gentle and attentive, or use language that signals distress requiring careful listening rather than immediate interpretation.
+positive_evidence:
+  - Reported lack of safety or feeling unsafe.
+  - Language suggesting careful follow-up may be helpful.
+  - Fear statements paired with vulnerability or instability.
+  - Expressed difficulty feeling protected or secure.
+negative_evidence:
+  - Clear statement of current safety and support.
+  - Situational caution with no broader distress signal.
+  - Neutral mention of safety rules or environments only.
+typical_phrases:
+  en:
+    - I don't feel safe.
+    - I don't feel safe right now.
+    - I'm afraid to live.
+    - I can't feel safe anywhere.
+    - nothing feels safe to me anymore
+  uk:
+    - я боюся жити
+    - я не відчуваю себе в безпеці
+    - мені зараз не безпечно
+    - я ніде не можу почуватися в безпеці
+    - мені нічого не здається безпечним
+  es:
+    - no me siento seguro
+    - no me siento seguro ahora mismo
+    - tengo miedo de vivir
+    - no puedo sentirme seguro en ningún lugar
+  ru:
+    - я боюсь жить
+    - я не чувствую себя в безопасности
+    - мне сейчас не безопасно
+    - я нигде не могу чувствовать себя в безопасности
+    - мне ничего не кажется безопасным
+follow_up_questions:
+  en:
+    - What helps you know when you feel a little safer?
+    - Who or what, if anyone, has felt supportive recently?
+    - Would it help to go slowly while we talk about this?
+  uk:
+    - Що допомагає вам відчути, що зараз трохи безпечніше?
+    - Хто або що, якщо таке є, було підтримкою останнім часом?
+    - Чи буде корисно говорити про це повільно?
+  es:
+    - ¿Qué te ayuda a notar cuando te sientes un poco más seguro?
+    - ¿Quién o qué, si alguien o algo, ha sido de apoyo recientemente?
+    - ¿Te ayudaría ir despacio mientras hablamos de esto?
+  ru:
+    - Что помогает вам почувствовать, что сейчас немного безопаснее?
+    - Кто или что, если такое есть, было поддержкой в последнее время?
+    - Будет ли полезно говорить об этом медленно?
+related_patterns:
+  - existential_fear
+  - emotional_distress_signal
+  - generalized_fear
+  - nightmare_disturbance
+relationships:
+  - target_pattern: existential_fear
+    relation_type: often_coexists_with
+    weight: 0.86
+  - target_pattern: emotional_distress_signal
+    relation_type: often_coexists_with
+    weight: 0.83
+  - target_pattern: generalized_fear
+    relation_type: may_strengthen
+    weight: 0.76
+  - target_pattern: nightmare_disturbance
+    relation_type: may_strengthen
+    weight: 0.64
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  support_or_safety_named: -0.10
+interview_priority: 10
+therapeutic_relevance: Important for noting language that may require careful follow-up and slower pacing, without inferring diagnosis or making risk claims.

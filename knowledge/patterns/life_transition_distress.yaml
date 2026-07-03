@@ -1,0 +1,65 @@
+canonical_id: life_transition_distress
+name: Life Transition Distress
+domain: meaning_direction
+definition: An observed signal that the person reports distress linked to a major
+  life change or transition.
+behavioral_description: The person may describe struggling with change, distress during
+  transition, or reported difficulty adapting to a new life phase.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - this life transition is overwhelming
+  - I'm struggling with a big change
+  - change is distressing me a lot
+  uk:
+  - life transition overwhelming
+  - важко переживаю big change
+  - change distressing me a lot
+  ru:
+  - life transition overwhelming
+  - тяжело переживаю big change
+  - change distressing me a lot
+  es:
+  - esta transición de vida me abruma
+  - me cuesta una gran cambio
+  - el cambio me angustia mucho
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- inner_conflict
+- desire_for_change
+relationships:
+- target_pattern: inner_conflict
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: desire_for_change
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

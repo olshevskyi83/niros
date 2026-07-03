@@ -1,0 +1,80 @@
+canonical_id: emotional_distress_signal
+name: Emotional Distress Signal
+domain: emotion_regulation
+definition: An observed signal that the person reports strong distress, fear, panic, or difficulty feeling safe in the moment or over time.
+behavioral_description: The person may describe feeling panicked, overwhelmed by fear, unable to feel safe, or in strong emotional distress without requiring a clinical label or interpretation.
+positive_evidence:
+  - Reported panic or strong distress.
+  - Language of being unable to feel safe.
+  - Intense fear or fright in the moment.
+  - Distress that feels hard to manage.
+negative_evidence:
+  - Mild worry with clear containment.
+  - Distress tied only to one resolved event.
+  - Calm report with no current distress signal.
+typical_phrases:
+  en:
+    - I feel distressed.
+    - I'm in a panic.
+    - I can't feel safe.
+    - I'm overwhelmed by fear.
+    - the fear feels too strong to handle
+  uk:
+    - мені страшно
+    - мені дуже страшно
+    - я не можу почуватися в безпеці
+    - я відчуваю сильний стрес
+    - страх занадто сильний, щоб його витримати
+  es:
+    - me siento angustiado
+    - estoy en pánico
+    - no puedo sentirme seguro
+    - el miedo es demasiado fuerte para soportarlo
+  ru:
+    - мне страшно
+    - мне очень страшно
+    - я не могу чувствовать себя в безопасности
+    - я чувствую сильный distress
+    - страх слишком сильный, чтобы его выдержать
+follow_up_questions:
+  en:
+    - What does the distress feel like in your body right now?
+    - When does the fear or panic become hardest to bear?
+    - What, if anything, has helped even briefly?
+  uk:
+    - Як цей distress відчувається у вашому тілі зараз?
+    - Коли страх або паніка стають найважчими?
+    - Що, якщо взагалі щось, хоч трохи допомагало?
+  es:
+    - ¿Cómo se siente la angustia en tu cuerpo ahora?
+    - ¿Cuándo el miedo o el pánico se vuelven más difíciles de soportar?
+    - ¿Qué, si algo, ha ayudado aunque sea brevemente?
+  ru:
+    - Как этот distress ощущается в теле сейчас?
+    - Когда страх или паника становятся hardest to bear?
+    - Что, если воobще что-то, хоть немного помогало?
+related_patterns:
+  - generalized_fear
+  - existential_fear
+  - safety_concern_signal
+  - anxiety_reactivity
+relationships:
+  - target_pattern: generalized_fear
+    relation_type: often_coexists_with
+    weight: 0.85
+  - target_pattern: existential_fear
+    relation_type: often_coexists_with
+    weight: 0.78
+  - target_pattern: safety_concern_signal
+    relation_type: may_strengthen
+    weight: 0.81
+  - target_pattern: anxiety_reactivity
+    relation_type: may_strengthen
+    weight: 0.73
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  calming_capacity_present: -0.10
+interview_priority: 9
+therapeutic_relevance: Important for understanding reported distress, panic, or fear intensity and for pacing the interview without assigning clinical labels.

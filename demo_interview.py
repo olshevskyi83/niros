@@ -23,9 +23,25 @@ from niros.patterns import PatternTag, pattern_tag_evidence_items
 from niros.question_localizer import localize_question
 from niros.state_machine import advance, initial_state
 from niros.statement_normalizer import normalize_user_input
+from niros.voice_input import (
+    INTERVIEW_INPUT_TEXT,
+    INTERVIEW_INPUT_VOICE,
+    TextInput,
+    VoiceInput,
+    create_voice_input,
+)
 from niros.statements import split_transcript_to_statements
 from niros.transcript import Transcript
-from niros.semantic_interpreter.factory import SUPPORTED_PROVIDERS
+from niros.interview_debug import print_turn_debug_pipeline
+from niros.env_loader import load_project_env
+from niros.runtime_config import (
+    RUNTIME_MODE_REAL,
+    RUNTIME_MODE_TEST,
+    build_runtime_settings,
+    format_openai_startup_lines,
+)
+from niros.semantic_interpreter.base import SemanticInterpretationResult
+from niros.semantic_interpreter.factory import SUPPORTED_PROVIDERS, get_semantic_interpreter
 
 FIRST_QUESTION = "Tell me a little about yourself."
 SEPARATOR = "⸻"
@@ -44,6 +60,14 @@ class TurnRecord:
     pattern_tags: list[PatternTag] = field(default_factory=list)
     hypotheses: list[Hypothesis] = field(default_factory=list)
     next_question: str | None = None
+    semantic_result: SemanticInterpretationResult | None = None
+
+
+def extract_semantic_interpretation(
+    raw_text: str,
+    provider: str,
+) -> SemanticInterpretationResult:
+    return get_semantic_interpreter(provider).interpret_result(raw_text)
 
 
 def run_pipeline(
@@ -242,12 +266,19 @@ def read_answer(
     user_input: str | None,
     turn_index: int,
     stream: TextIO,
+    voice_input: VoiceInput | None = None,
 ) -> str:
     if user_input is not None:
         return user_input
 
-    print(f"You (turn {turn_index}):", file=stream)
-    return sys.stdin.readline().rstrip("\n")
+    adapter = voice_input or TextInput(stream=stream)
+    if not adapter.is_available:
+        adapter = TextInput(stream=stream)
+
+    if adapter.name == "text":
+        print(f"You (turn {turn_index}):", file=stream)
+
+    return adapter.listen()
 
 
 def resolve_turn_inputs(
@@ -273,79 +304,142 @@ def run_demo(
     *,
     user_inputs: list[str] | None = None,
     turns: int = DEFAULT_TURNS,
-    mode: str = DEFAULT_NORMALIZER_MODE,
-    provider: str = DEFAULT_SEMANTIC_PROVIDER,
+    mode: str | None = None,
+    provider: str | None = None,
     language: str = DEFAULT_LANGUAGE,
     output_stream: TextIO | None = None,
+    debug: bool = False,
+    runtime_mode: str | None = None,
+    input_mode: str = INTERVIEW_INPUT_TEXT,
+    voice_input: VoiceInput | None = None,
+    big_five_answers: dict[str, int] | None = None,
 ) -> int:
     stream = output_stream or sys.stdout
     effective_turns, planned_inputs = resolve_turn_inputs(user_input, user_inputs, turns)
 
-    if provider not in SUPPORTED_PROVIDERS:
-        raise ValueError(f"Unsupported semantic interpreter provider: {provider}")
+    runtime_settings = build_runtime_settings(
+        explicit_provider=provider,
+        explicit_runtime_mode=runtime_mode,
+        explicit_normalizer_mode=mode,
+    )
+    if runtime_settings.provider not in SUPPORTED_PROVIDERS:
+        raise ValueError(f"Unsupported semantic interpreter provider: {runtime_settings.provider}")
 
     print("NIROS Human Understanding Engine", file=stream)
     print("Interactive Interview MVP", file=stream)
-    print(f"Semantic provider: {provider}", file=stream)
+    print(f"Runtime mode: {runtime_settings.runtime_mode}", file=stream)
+    print(f"Semantic provider: {runtime_settings.provider}", file=stream)
+    for line in format_openai_startup_lines():
+        print(line, file=stream)
+    if runtime_settings.selection_message:
+        print(runtime_settings.selection_message, file=stream)
+    if debug:
+        print("Debug mode: enabled", file=stream)
+    print(f"Interview input: {input_mode}", file=stream)
     print(file=stream)
 
     session_id = f"demo-session-{uuid.uuid4().hex[:8]}"
     history: list[TurnRecord] = []
     current_question = FIRST_QUESTION
+    provider = runtime_settings.provider
+    mode = runtime_settings.normalizer_mode
 
-    for turn_index in range(1, effective_turns + 1):
-        localized_question = localize_question(current_question, language)
-        print(SEPARATOR, file=stream)
-        print(f"Question {turn_index}:", file=stream)
-        print(localized_question, file=stream)
-        print(file=stream)
+    active_voice_input = voice_input
+    fallback_message: str | None = None
+    if active_voice_input is None and user_input is None and user_inputs is None:
+        active_voice_input, fallback_message = create_voice_input(
+            input_mode,
+            stream=stream,
+        )
+        if fallback_message:
+            print(fallback_message, file=stream)
+            print(f"Interview input: {INTERVIEW_INPUT_TEXT}", file=stream)
+            print(file=stream)
 
-        raw_answer = read_answer(planned_inputs[turn_index - 1], turn_index, stream)
-        print(raw_answer, file=stream)
+    if active_voice_input is not None:
+        active_voice_input.start()
 
-        normalized_answer = normalize_user_input(raw_answer, mode=mode, provider=provider)
-        if mode != DEFAULT_NORMALIZER_MODE:
-            print(f"Normalizer mode: {mode}", file=stream)
-            print("Normalized input:", file=stream)
-            print(normalized_answer, file=stream)
+    try:
+        for turn_index in range(1, effective_turns + 1):
+            localized_question = localize_question(current_question, language)
+            print(SEPARATOR, file=stream)
+            print(f"Question {turn_index}:", file=stream)
+            print(localized_question, file=stream)
+            print(file=stream)
 
-        print(SEPARATOR, file=stream)
+            raw_answer = read_answer(
+                planned_inputs[turn_index - 1],
+                turn_index,
+                stream,
+                voice_input=active_voice_input,
+            )
+            if active_voice_input is None or active_voice_input.name == "text":
+                print(raw_answer, file=stream)
 
-        pattern_tags, hypotheses, next_question = run_pipeline(normalized_answer, session_id)
+            semantic_result = None
+            if debug or provider == "openai":
+                semantic_result = extract_semantic_interpretation(raw_answer, provider)
 
-        print("Detected Patterns", file=stream)
-        for line in format_pattern_lines(pattern_tags):
-            print(line, file=stream)
-        print(SEPARATOR, file=stream)
+            normalized_answer = normalize_user_input(raw_answer, mode=mode, provider=provider)
+            if mode != DEFAULT_NORMALIZER_MODE:
+                print(f"Normalizer mode: {mode}", file=stream)
+                print("Normalized input:", file=stream)
+                print(normalized_answer, file=stream)
 
-        print("Current Hypothesis", file=stream)
-        print(format_hypothesis_line(strongest_hypothesis(hypotheses)), file=stream)
-        print(SEPARATOR, file=stream)
-
-        if turn_index < effective_turns:
-            print("Next Question", file=stream)
-            if next_question:
-                print(localize_question(next_question, language), file=stream)
-            else:
-                print("None", file=stream)
             print(SEPARATOR, file=stream)
 
-        history.append(
-            TurnRecord(
-                question=current_question,
-                localized_question=localized_question,
-                raw_answer=raw_answer,
-                normalized_answer=normalized_answer,
-                pattern_tags=pattern_tags,
-                hypotheses=hypotheses,
-                next_question=next_question,
-            )
-        )
+            pattern_tags, hypotheses, next_question = run_pipeline(normalized_answer, session_id)
 
-        if next_question:
-            current_question = next_question
-        elif turn_index < effective_turns:
-            break
+            if debug:
+                cumulative_patterns = [
+                    tag for turn in history for tag in turn.pattern_tags
+                ] + pattern_tags
+                print_turn_debug_pipeline(
+                    stream,
+                    raw_transcript=raw_answer,
+                    semantic_result=semantic_result,
+                    pattern_tags=pattern_tags,
+                    cumulative_patterns=cumulative_patterns,
+                    big_five_answers=big_five_answers,
+                )
+
+            print("Detected Patterns", file=stream)
+            for line in format_pattern_lines(pattern_tags):
+                print(line, file=stream)
+            print(SEPARATOR, file=stream)
+
+            print("Current Hypothesis", file=stream)
+            print(format_hypothesis_line(strongest_hypothesis(hypotheses)), file=stream)
+            print(SEPARATOR, file=stream)
+
+            if turn_index < effective_turns:
+                print("Next Question", file=stream)
+                if next_question:
+                    print(localize_question(next_question, language), file=stream)
+                else:
+                    print("None", file=stream)
+                print(SEPARATOR, file=stream)
+
+            history.append(
+                TurnRecord(
+                    question=current_question,
+                    localized_question=localized_question,
+                    raw_answer=raw_answer,
+                    normalized_answer=normalized_answer,
+                    pattern_tags=pattern_tags,
+                    hypotheses=hypotheses,
+                    next_question=next_question,
+                    semantic_result=semantic_result,
+                )
+            )
+
+            if next_question:
+                current_question = next_question
+            elif turn_index < effective_turns:
+                break
+    finally:
+        if active_voice_input is not None:
+            active_voice_input.stop()
 
     print_interview_summary(history, stream)
     print_human_profile_summary(history, stream)
@@ -358,13 +452,32 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument(
         "--mode",
         choices=["passthrough", "mock_llm"],
-        default=DEFAULT_NORMALIZER_MODE,
-        help="Statement normalizer mode (default: passthrough)",
+        default=None,
+        help="Statement normalizer mode (default: passthrough for TEST, passthrough for REAL)",
     )
     parser.add_argument(
         "--provider",
-        default=DEFAULT_SEMANTIC_PROVIDER,
-        help="Semantic interpreter provider for mock_llm mode (default: mock)",
+        choices=sorted(SUPPORTED_PROVIDERS),
+        default=None,
+        help="Semantic interpreter provider (default: openai when OPENAI_API_KEY is set, else mock)",
+    )
+    parser.add_argument(
+        "--runtime",
+        choices=[RUNTIME_MODE_TEST, RUNTIME_MODE_REAL],
+        default=None,
+        help="Runtime mode: test=mock, real=openai",
+    )
+    parser.add_argument(
+        "--debug",
+        action="store_true",
+        help="Print raw transcript, semantic facts, patterns, and digital fingerprint each turn",
+    )
+    parser.add_argument(
+        "--input",
+        dest="input_mode",
+        choices=[INTERVIEW_INPUT_TEXT, INTERVIEW_INPUT_VOICE],
+        default=INTERVIEW_INPUT_TEXT,
+        help="Interview input: text or voice (default: text)",
     )
     parser.add_argument(
         "--language",
@@ -382,6 +495,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 
 
 def main(argv: list[str] | None = None) -> int:
+    load_project_env()
     args = parse_args(argv)
     if args.turns < 1:
         print("Turn count must be at least 1.", file=sys.stderr)
@@ -391,6 +505,9 @@ def main(argv: list[str] | None = None) -> int:
         provider=args.provider,
         language=args.language,
         turns=args.turns,
+        debug=args.debug,
+        runtime_mode=args.runtime,
+        input_mode=args.input_mode,
     )
 
 

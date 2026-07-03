@@ -1,0 +1,65 @@
+canonical_id: meaning_seeking
+name: Meaning Seeking
+domain: session_concerns
+definition: An observed signal that the person reports searching for meaning, purpose,
+  or deeper understanding.
+behavioral_description: The person may describe seeking meaning, wanting to understand
+  themselves more deeply, or reported search for purpose.
+positive_evidence:
+- Reported language matching this observed signal.
+- Repeated self-report consistent with this pattern.
+negative_evidence:
+- Clear contradictory self-report.
+- Neutral statement without this signal.
+typical_phrases:
+  en:
+  - I'm searching for meaning
+  - I want to understand myself more deeply
+  - I'm looking for a deeper sense of purpose
+  uk:
+  - я шукаю sense of meaning
+  - хочу глибше зрозуміти себе
+  - шукаю глибший сенс
+  ru:
+  - я ищу смысл
+  - хочу глубже понять себя
+  - ищу более глубокий смысл
+  es:
+  - busco sentido
+  - quiero entenderme más profundamente
+  - busco un sentido más profundo
+follow_up_questions:
+  en:
+  - Can you say more about that in your own words?
+  - When does this show up most strongly?
+  - What, if anything, helps even a little?
+  uk:
+  - Можете сказати більше своїми словами?
+  - Коли це проявляється найсильніше?
+  - Що, якщо взагалі щось, трохи допомагає?
+  ru:
+  - Можете сказать больше своими словами?
+  - Когда это проявляется сильнее всего?
+  - Что, если вообще что-то, немного помогает?
+  es:
+  - ¿Puede decir más con sus propias palabras?
+  - ¿Cuándo aparece con más fuerza?
+  - ¿Qué, si algo, ayuda aunque sea un poco?
+related_patterns:
+- search_for_self_understanding
+- loss_of_meaning
+relationships:
+- target_pattern: search_for_self_understanding
+  relation_type: often_coexists_with
+  weight: 0.8
+- target_pattern: loss_of_meaning
+  relation_type: often_coexists_with
+  weight: 0.75
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.2
+  grounding_present: -0.1
+interview_priority: 8
+therapeutic_relevance: Important for intake understanding of self-reported signals
+  without diagnosis, eligibility decisions, or treatment recommendations.

@@ -1,0 +1,80 @@
+canonical_id: generalized_fear
+name: Generalized Fear
+domain: emotion_regulation
+definition: An observed signal that the person reports broad fear or fright without naming a clear object, source, or single trigger.
+behavioral_description: The person may say they feel scared in general, report fear without knowing why, or describe a diffuse sense of fright that is not tied to one specific situation.
+positive_evidence:
+  - Reported fear without a clear object.
+  - Diffuse fright or being scared in general.
+  - Fear language without a named trigger.
+  - Repeated statements of feeling scared.
+negative_evidence:
+  - Fear clearly linked to one identifiable event.
+  - Situational worry with named cause only.
+  - Brief startle without ongoing reported fear.
+typical_phrases:
+  en:
+    - I feel scared and I don't know why.
+    - I'm frightened without knowing what for.
+    - I feel afraid for no clear reason.
+    - I'm scared most of the time.
+    - fear comes over me without a reason
+  uk:
+    - мені страшно
+    - мені дуже страшно
+    - мені страшно без причини
+    - я відчуваю страх без чіткої причини
+    - мені страшно більшу частину часу
+  es:
+    - tengo miedo sin saber por qué
+    - me da miedo sin una razón clara
+    - me siento asustado la mayor parte del tiempo
+    - siento miedo sin saber de qué
+  ru:
+    - мне страшно
+    - мне очень страшно
+    - мне страшно без причины
+    - я чувствую страх без ясной причины
+    - мне страшно большую часть времени
+follow_up_questions:
+  en:
+    - When you say you feel scared, what is that like in your body?
+    - Does the fear seem connected to anything, or mostly diffuse?
+    - What times of day or situations make it stronger?
+  uk:
+    - Коли ви кажете, що вам страшно, як це відчувається в тілі?
+    - Чи здається цей страх пов'язаним із чимось, чи він переважно розмитий?
+    - У який час доби або в яких ситуаціях він посилюється?
+  es:
+    - Cuando dices que tienes miedo, ¿cómo se siente en el cuerpo?
+    - ¿El miedo parece conectado con algo o es más bien difuso?
+    - ¿En qué momentos del día o situaciones se vuelve más fuerte?
+  ru:
+    - Когда вы говорите, что вам страшно, как это ощущается в теле?
+    - Кажется ли этот страх связанным с чем-то или он в основном diffusный?
+    - В какое время суток или в каких ситуациях он усиливается?
+related_patterns:
+  - existential_fear
+  - emotional_distress_signal
+  - anxiety_reactivity
+  - nightmare_disturbance
+relationships:
+  - target_pattern: existential_fear
+    relation_type: often_coexists_with
+    weight: 0.82
+  - target_pattern: emotional_distress_signal
+    relation_type: often_coexists_with
+    weight: 0.79
+  - target_pattern: anxiety_reactivity
+    relation_type: may_strengthen
+    weight: 0.74
+  - target_pattern: nightmare_disturbance
+    relation_type: often_coexists_with
+    weight: 0.66
+confidence_rules:
+  repeated_evidence: 0.15
+  contradiction_present: -0.25
+  strong_emotional_intensity: 0.20
+  named_trigger_present: -0.10
+interview_priority: 8
+therapeutic_relevance: Important for understanding diffuse reported fear and how broad fright shows up before any specific theme is named.
