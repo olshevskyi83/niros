@@ -1,0 +1,402 @@
+version: 1
+description: NIROS semantic extraction benchmark — v1 (40 cases, 4 languages)
+cases:
+  # English (10)
+  - id: en_relationship_001
+    language: en
+    input: >
+      I usually avoid conflicts because I don't want people to dislike me.
+    expected_facts:
+      - category: relationship
+        attribute: conflict
+        value: avoidant
+      - category: relationship
+        attribute: fear_of_rejection
+        value: present
+
+  - id: en_relationship_002
+    language: en
+    input: >
+      I become anxious when someone stops replying to my messages.
+    expected_facts:
+      - category: relationship
+        attribute: attachment
+        value: anxious
+      - category: relationship
+        attribute: fear_of_rejection
+        value: anxious
+
+  - id: en_self_001
+    language: en
+    input: >
+      I do not really know who I am.
+    expected_facts:
+      - category: self
+        attribute: identity
+        value: unclear
+
+  - id: en_selfworth_001
+    language: en
+    input: >
+      I often think I'm not good enough.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: low
+
+  - id: en_trust_001
+    language: en
+    input: >
+      I rarely trust new people.
+    expected_facts:
+      - category: relationship
+        attribute: trust
+        value: low
+
+  - id: en_boundaries_001
+    language: en
+    input: >
+      I find it hard to say no when people ask me for favors.
+    expected_facts:
+      - category: relationship
+        attribute: boundary_setting
+        value: weak
+
+  - id: en_shame_001
+    language: en
+    input: >
+      I feel ashamed when someone criticizes me, even gently.
+    expected_facts:
+      - category: emotion
+        attribute: reaction_to_criticism
+        value: strong
+
+  - id: en_perfectionism_001
+    language: en
+    input: >
+      I feel like I have to do everything perfectly or it is not worth doing.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: unstable
+      - category: agency
+        attribute: self_efficacy
+        value: high
+
+  - id: en_attachment_001
+    language: en
+    input: >
+      I worry that people I care about will leave me.
+    expected_facts:
+      - category: relationship
+        attribute: attachment
+        value: anxious
+
+  - id: en_selfworth_002
+    language: en
+    input: >
+      My sense of self-worth changes a lot depending on how others treat me.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: unstable
+
+  # Ukrainian (10)
+  - id: uk_relationship_001
+    language: uk
+    input: >
+      Я зазвичай уникаю конфліктів, бо не хочу, щоб люди мене не любили.
+    expected_facts:
+      - category: relationship
+        attribute: conflict
+        value: avoidant
+      - category: relationship
+        attribute: fear_of_rejection
+        value: present
+
+  - id: uk_relationship_002
+    language: uk
+    input: >
+      Мені тривожно, коли хтось перестає відповідати на мої повідомлення.
+    expected_facts:
+      - category: relationship
+        attribute: attachment
+        value: anxious
+      - category: relationship
+        attribute: fear_of_rejection
+        value: anxious
+
+  - id: uk_self_001
+    language: uk
+    input: >
+      Я справді не знаю, хто я.
+    expected_facts:
+      - category: self
+        attribute: identity
+        value: unclear
+
+  - id: uk_selfworth_001
+    language: uk
+    input: >
+      Я часто думаю, що недостатньо хороший як людина.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: low
+
+  - id: uk_trust_001
+    language: uk
+    input: >
+      Я рідко довіряю новим людям.
+    expected_facts:
+      - category: relationship
+        attribute: trust
+        value: low
+
+  - id: uk_boundaries_001
+    language: uk
+    input: >
+      Мені важко сказати «ні», коли люди просять про послуги.
+    expected_facts:
+      - category: relationship
+        attribute: boundary_setting
+        value: weak
+
+  - id: uk_shame_001
+    language: uk
+    input: >
+      Я відчуваю сором, коли мене критикують, навіть делікатно.
+    expected_facts:
+      - category: emotion
+        attribute: reaction_to_criticism
+        value: strong
+
+  - id: uk_perfectionism_001
+    language: uk
+    input: >
+      Я відчуваю, що мушу робити все ідеально, інакше це не має сенсу.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: unstable
+      - category: agency
+        attribute: self_efficacy
+        value: high
+
+  - id: uk_attachment_001
+    language: uk
+    input: >
+      Я хвилююся, що люди, які мені дорогі, покинуть мене.
+    expected_facts:
+      - category: relationship
+        attribute: attachment
+        value: anxious
+
+  - id: uk_selfworth_002
+    language: uk
+    input: >
+      Моя самооцінка сильно змінюється залежно від того, як зі мною ставляться інші.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: unstable
+
+  # Russian (10)
+  - id: ru_relationship_001
+    language: ru
+    input: >
+      Я обычно избегаю конфликтов, потому что не хочу, чтобы люди перестали меня любить.
+    expected_facts:
+      - category: relationship
+        attribute: conflict
+        value: avoidant
+      - category: relationship
+        attribute: fear_of_rejection
+        value: present
+
+  - id: ru_relationship_002
+    language: ru
+    input: >
+      Мне тревожно, когда кто-то перестаёт отвечать на мои сообщения.
+    expected_facts:
+      - category: relationship
+        attribute: attachment
+        value: anxious
+      - category: relationship
+        attribute: fear_of_rejection
+        value: anxious
+
+  - id: ru_self_001
+    language: ru
+    input: >
+      Я действительно не знаю, кто я.
+    expected_facts:
+      - category: self
+        attribute: identity
+        value: unclear
+
+  - id: ru_selfworth_001
+    language: ru
+    input: >
+      Я часто думаю, что недостаточно хорош как человек.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: low
+
+  - id: ru_trust_001
+    language: ru
+    input: >
+      Я редко доверяю новым людям.
+    expected_facts:
+      - category: relationship
+        attribute: trust
+        value: low
+
+  - id: ru_boundaries_001
+    language: ru
+    input: >
+      Мне трудно сказать «нет», когда люди просят об одолжении.
+    expected_facts:
+      - category: relationship
+        attribute: boundary_setting
+        value: weak
+
+  - id: ru_shame_001
+    language: ru
+    input: >
+      Я чувствую стыд, когда меня критикуют, даже мягко.
+    expected_facts:
+      - category: emotion
+        attribute: reaction_to_criticism
+        value: strong
+
+  - id: ru_perfectionism_001
+    language: ru
+    input: >
+      Я чувствую, что должен делать всё идеально, иначе это не имеет смысла.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: unstable
+      - category: agency
+        attribute: self_efficacy
+        value: high
+
+  - id: ru_attachment_001
+    language: ru
+    input: >
+      Я боюсь, что люди, которых я люблю, уйдут от меня.
+    expected_facts:
+      - category: relationship
+        attribute: attachment
+        value: anxious
+
+  - id: ru_selfworth_002
+    language: ru
+    input: >
+      Моя самооценка сильно меняется в зависимости от того, как со мной обращаются другие.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: unstable
+
+  # Spanish (10)
+  - id: es_relationship_001
+    language: es
+    input: >
+      Normalmente evito los conflictos porque no quiero que la gente deje de quererme.
+    expected_facts:
+      - category: relationship
+        attribute: conflict
+        value: avoidant
+      - category: relationship
+        attribute: fear_of_rejection
+        value: present
+
+  - id: es_relationship_002
+    language: es
+    input: >
+      Me pongo ansioso cuando alguien deja de responder mis mensajes.
+    expected_facts:
+      - category: relationship
+        attribute: attachment
+        value: anxious
+      - category: relationship
+        attribute: fear_of_rejection
+        value: anxious
+
+  - id: es_self_001
+    language: es
+    input: >
+      Realmente no sé quién soy.
+    expected_facts:
+      - category: self
+        attribute: identity
+        value: unclear
+
+  - id: es_selfworth_001
+    language: es
+    input: >
+      A menudo pienso que no soy lo suficientemente bueno.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: low
+
+  - id: es_trust_001
+    language: es
+    input: >
+      Rara vez confío en personas nuevas.
+    expected_facts:
+      - category: relationship
+        attribute: trust
+        value: low
+
+  - id: es_boundaries_001
+    language: es
+    input: >
+      Me cuesta decir que no cuando la gente me pide favores.
+    expected_facts:
+      - category: relationship
+        attribute: boundary_setting
+        value: weak
+
+  - id: es_shame_001
+    language: es
+    input: >
+      Me siento avergonzado cuando alguien me critica, incluso con suavidad.
+    expected_facts:
+      - category: emotion
+        attribute: reaction_to_criticism
+        value: strong
+
+  - id: es_perfectionism_001
+    language: es
+    input: >
+      Siento que tengo que hacer todo perfectamente o no vale la pena hacerlo.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: unstable
+      - category: agency
+        attribute: self_efficacy
+        value: high
+
+  - id: es_attachment_001
+    language: es
+    input: >
+      Me preocupa que las personas que quiero me abandonen.
+    expected_facts:
+      - category: relationship
+        attribute: attachment
+        value: anxious
+
+  - id: es_selfworth_002
+    language: es
+    input: >
+      Mi sentido de valía cambia mucho según cómo me tratan los demás.
+    expected_facts:
+      - category: self
+        attribute: self_worth
+        value: unstable

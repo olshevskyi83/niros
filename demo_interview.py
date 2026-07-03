@@ -21,10 +21,12 @@ from niros.state_machine import advance, initial_state
 from niros.statement_normalizer import normalize_user_input
 from niros.statements import split_transcript_to_statements
 from niros.transcript import Transcript
+from niros.semantic_interpreter.factory import SUPPORTED_PROVIDERS
 
 FIRST_QUESTION = "Tell me a little about yourself."
 SEPARATOR = "⸻"
 DEFAULT_NORMALIZER_MODE = "passthrough"
+DEFAULT_SEMANTIC_PROVIDER = "mock"
 DEFAULT_LANGUAGE = "en"
 DEFAULT_TURNS = 3
 
@@ -258,14 +260,19 @@ def run_demo(
     user_inputs: list[str] | None = None,
     turns: int = DEFAULT_TURNS,
     mode: str = DEFAULT_NORMALIZER_MODE,
+    provider: str = DEFAULT_SEMANTIC_PROVIDER,
     language: str = DEFAULT_LANGUAGE,
     output_stream: TextIO | None = None,
 ) -> int:
     stream = output_stream or sys.stdout
     effective_turns, planned_inputs = resolve_turn_inputs(user_input, user_inputs, turns)
 
+    if provider not in SUPPORTED_PROVIDERS:
+        raise ValueError(f"Unsupported semantic interpreter provider: {provider}")
+
     print("NIROS Human Understanding Engine", file=stream)
     print("Interactive Interview MVP", file=stream)
+    print(f"Semantic provider: {provider}", file=stream)
     print(file=stream)
 
     session_id = f"demo-session-{uuid.uuid4().hex[:8]}"
@@ -282,7 +289,7 @@ def run_demo(
         raw_answer = read_answer(planned_inputs[turn_index - 1], turn_index, stream)
         print(raw_answer, file=stream)
 
-        normalized_answer = normalize_user_input(raw_answer, mode=mode)
+        normalized_answer = normalize_user_input(raw_answer, mode=mode, provider=provider)
         if mode != DEFAULT_NORMALIZER_MODE:
             print(f"Normalizer mode: {mode}", file=stream)
             print("Normalized input:", file=stream)
@@ -340,6 +347,11 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="Statement normalizer mode (default: passthrough)",
     )
     parser.add_argument(
+        "--provider",
+        default=DEFAULT_SEMANTIC_PROVIDER,
+        help="Semantic interpreter provider for mock_llm mode (default: mock)",
+    )
+    parser.add_argument(
         "--language",
         choices=["en", "uk", "ru", "es"],
         default=DEFAULT_LANGUAGE,
@@ -359,7 +371,12 @@ def main(argv: list[str] | None = None) -> int:
     if args.turns < 1:
         print("Turn count must be at least 1.", file=sys.stderr)
         return 1
-    return run_demo(mode=args.mode, language=args.language, turns=args.turns)
+    return run_demo(
+        mode=args.mode,
+        provider=args.provider,
+        language=args.language,
+        turns=args.turns,
+    )
 
 
 if __name__ == "__main__":

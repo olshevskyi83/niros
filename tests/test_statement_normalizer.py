@@ -116,3 +116,24 @@ def test_mock_llm_combined_ukrainian_identity_and_low_self_efficacy_phrases():
         normalize_user_input(raw_text, mode="mock_llm")
         == "I do not really know who I am. I probably cannot do this."
     )
+
+
+def test_mock_llm_with_mock_provider_works():
+    assert (
+        normalize_user_input("я не розумію себе", mode="mock_llm", provider="mock")
+        == "I do not really know who I am."
+    )
+
+
+def test_passthrough_mode_ignores_provider():
+    raw_text = "  unmapped phrase  "
+
+    assert (
+        normalize_user_input(raw_text, mode="passthrough", provider="anthropic")
+        == "unmapped phrase"
+    )
+
+
+def test_mock_llm_unknown_provider_raises():
+    with pytest.raises(ValueError, match="Unsupported semantic interpreter provider"):
+        normalize_user_input("example", mode="mock_llm", provider="anthropic")
