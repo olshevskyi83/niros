@@ -12,6 +12,10 @@ from typing import TextIO
 from niros.evidence import statements_to_evidence
 from niros.hypotheses import Hypothesis, generate_hypotheses
 from niros.human_profile_summary import build_human_profile_summary
+from niros.human_profile_report import (
+    build_human_profile_report_from_tags,
+    render_human_profile_report,
+)
 from niros.interview_engine import BlueprintPhase, InterviewDecisionEngine
 from niros.knowledge import PatternLoader
 from niros.models import InterviewPhase, SupportedLanguage
@@ -224,6 +228,16 @@ def print_human_profile_summary(history: list[TurnRecord], stream: TextIO) -> No
     print(SEPARATOR, file=stream)
 
 
+def print_human_profile_report(history: list[TurnRecord], stream: TextIO) -> None:
+    detected_patterns = [tag for turn in history for tag in turn.pattern_tags]
+    hypotheses = [hypothesis for turn in history for hypothesis in turn.hypotheses]
+    report = build_human_profile_report_from_tags(detected_patterns, hypotheses=hypotheses)
+
+    print("=== Human Profile Report ===", file=stream)
+    print(render_human_profile_report(report), file=stream)
+    print(SEPARATOR, file=stream)
+
+
 def read_answer(
     user_input: str | None,
     turn_index: int,
@@ -335,6 +349,7 @@ def run_demo(
 
     print_interview_summary(history, stream)
     print_human_profile_summary(history, stream)
+    print_human_profile_report(history, stream)
     return 0
 
 

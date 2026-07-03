@@ -35,6 +35,8 @@ def test_run_demo_prints_expected_sections():
     assert "Current Hypothesis" in rendered
     assert "NIROS Interview Summary" in rendered
     assert "Human Profile Summary" in rendered
+    assert "=== Human Profile Report ===" in rendered
+    assert "Overview" in rendered
     assert "Total turns: 1" in rendered
     assert rendered.count("⸻") >= 4
 

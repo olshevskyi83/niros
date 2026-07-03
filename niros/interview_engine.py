@@ -6,7 +6,8 @@ from niros.hypotheses import Hypothesis
 from niros.knowledge import KnowledgePattern, PatternLoader
 from niros.models import InterviewState
 from niros.patterns import PatternTag
-from niros.questions import GraphQuestionSuggester, select_follow_up_questions
+from niros.question_ranking import QuestionRankingEngine, format_ranking_debug
+from niros.questions import GraphQuestionSuggester, QuestionSuggestion, select_follow_up_questions
 
 HIGH_CONFIDENCE_THRESHOLD = 0.65
 MIN_TURNS_FOR_PHASE_ADVANCE = 2
@@ -61,9 +62,20 @@ class InterviewDecision(BaseModel):
 
 
 class InterviewDecisionEngine:
-    def __init__(self, loader: PatternLoader | None = None) -> None:
+    def __init__(
+        self,
+        loader: PatternLoader | None = None,
+        question_ranker: QuestionRankingEngine | None = None,
+    ) -> None:
         self._loader = loader or PatternLoader()
         self._question_suggester = GraphQuestionSuggester(loader=self._loader)
+        self._question_ranker = question_ranker or QuestionRankingEngine()
+        self._last_ranked_questions: list | None = None
+
+    def get_last_question_ranking_debug(self) -> str | None:
+        if self._last_ranked_questions is None:
+            return None
+        return format_ranking_debug(self._last_ranked_questions)
 
     def decide(
         self,
@@ -98,7 +110,11 @@ class InterviewDecisionEngine:
         max_confidence = _max_hypothesis_confidence(hypotheses)
 
         if max_confidence >= HIGH_CONFIDENCE_THRESHOLD:
-            related = self._select_related_question(primary_tag)
+            related = self._select_related_question(
+                primary_tag,
+                pattern_tags,
+                hypotheses,
+            )
             if related is not None:
                 pattern_id, question, priority = related
                 return InterviewDecision(
@@ -110,13 +126,16 @@ class InterviewDecisionEngine:
                 )
 
         unique_patterns = _unique_pattern_ids(pattern_tags)
-        direct_questions = select_follow_up_questions(primary_tag, loader=self._loader)
-        selected_question = _pick_question(direct_questions, interview_state.turn_count)
+        selected_pattern, selected_question = self._select_ranked_direct_question(
+            primary_tag,
+            pattern_tags,
+            hypotheses,
+        )
 
         if len(unique_patterns) == 1:
             return InterviewDecision(
                 next_phase=current_phase,
-                selected_pattern=primary_tag.canonical_id,
+                selected_pattern=selected_pattern or primary_tag.canonical_id,
                 selected_question=selected_question,
                 reason="single_pattern_direct_follow_up",
                 confidence=primary_tag.confidence,
@@ -124,7 +143,7 @@ class InterviewDecisionEngine:
 
         return InterviewDecision(
             next_phase=current_phase,
-            selected_pattern=primary_tag.canonical_id,
+            selected_pattern=selected_pattern or primary_tag.canonical_id,
             selected_question=selected_question,
             reason="low_confidence_continue_pattern",
             confidence=max_confidence or primary_tag.confidence,
@@ -145,16 +164,65 @@ class InterviewDecisionEngine:
     def _select_related_question(
         self,
         primary_tag: PatternTag,
+        pattern_tags: list[PatternTag],
+        hypotheses: list[Hypothesis],
     ) -> tuple[str, str, float] | None:
         suggestions = self._question_suggester.suggest(primary_tag)
-        for suggestion in suggestions:
-            if suggestion.reason.startswith("relationship:"):
-                return (
-                    suggestion.source_pattern,
-                    suggestion.question,
-                    suggestion.priority,
+        related_candidates = [
+            suggestion
+            for suggestion in suggestions
+            if suggestion.reason.startswith("relationship:")
+        ]
+        ranked = self._question_ranker.rank(
+            related_candidates,
+            pattern_tags=pattern_tags,
+            hypotheses=hypotheses,
+        )
+        self._last_ranked_questions = ranked
+        if not ranked:
+            return None
+
+        best = ranked[0]
+        return (
+            best.source_pattern,
+            best.question,
+            best.score.graph_priority,
+        )
+
+    def _select_ranked_direct_question(
+        self,
+        primary_tag: PatternTag,
+        pattern_tags: list[PatternTag],
+        hypotheses: list[Hypothesis],
+    ) -> tuple[str | None, str | None]:
+        suggestions = self._question_suggester.suggest(primary_tag)
+        direct_candidates = [
+            suggestion for suggestion in suggestions if suggestion.reason == "matched_pattern"
+        ]
+        if not direct_candidates:
+            direct_questions = select_follow_up_questions(primary_tag, loader=self._loader)
+            direct_candidates = [
+                QuestionSuggestion(
+                    source_pattern=primary_tag.canonical_id,
+                    question=question,
+                    language=primary_tag.language,
+                    reason="matched_pattern",
+                    priority=1.0,
                 )
-        return None
+                for question in direct_questions
+            ]
+
+        ranked = self._question_ranker.rank(
+            direct_candidates,
+            pattern_tags=pattern_tags,
+            hypotheses=hypotheses,
+        )
+        self._last_ranked_questions = ranked
+        if not ranked:
+            return None, None
+
+        best = ranked[0]
+        return best.source_pattern, best.question
 
     def _next_blueprint_phase(self, current_phase: BlueprintPhase) -> BlueprintPhase:
         try:
@@ -187,9 +255,3 @@ def _max_hypothesis_confidence(hypotheses: list[Hypothesis]) -> float:
     if not hypotheses:
         return 0.0
     return max(hypothesis.confidence for hypothesis in hypotheses)
-
-
-def _pick_question(questions: list[str], turn_count: int) -> str | None:
-    if not questions:
-        return None
-    return questions[turn_count % len(questions)]
