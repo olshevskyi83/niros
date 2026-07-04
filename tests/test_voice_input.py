@@ -10,7 +10,8 @@ sys.path.insert(0, str(ROOT))
 sys.path.insert(0, str(SCRIPTS_DIR))
 
 from demo_interview import read_answer, run_demo
-from niros.local_voice_input import LocalVoiceInput, local_voice_input_available
+import niros.local_voice_input as local_voice_module
+from niros.local_voice_input import LocalVoiceInput
 from niros.voice_input import (
     INTERVIEW_INPUT_TEXT,
     INTERVIEW_INPUT_VOICE,
@@ -92,10 +93,30 @@ def test_create_voice_input_voice_mode_falls_back_to_text():
         INTERVIEW_INPUT_VOICE,
         stream=io.StringIO(),
         input_stream=io.StringIO(),
+        local_voice_available=lambda: False,
     )
 
     assert isinstance(adapter, TextInput)
     assert message == VOICE_FALLBACK_MESSAGE
+
+
+def test_create_voice_input_voice_mode_uses_local_when_available(monkeypatch):
+    monkeypatch.setattr(
+        "niros.voice_input.get_local_voice_input_available",
+        lambda: True,
+    )
+    monkeypatch.setattr(
+        "niros.local_voice_input.local_voice_input_available",
+        lambda: True,
+    )
+
+    adapter, message = create_voice_input(
+        INTERVIEW_INPUT_VOICE,
+        stream=io.StringIO(),
+    )
+
+    assert isinstance(adapter, LocalVoiceInput)
+    assert message is None
 
 
 def test_create_voice_input_voice_mode_uses_injected_backend():
@@ -151,6 +172,7 @@ def test_create_voice_input_voice_fallback_is_used_by_read_answer():
         INTERVIEW_INPUT_VOICE,
         stream=output,
         input_stream=io.StringIO("voice fallback answer\n"),
+        local_voice_available=lambda: False,
     )
 
     assert message is not None
@@ -250,10 +272,11 @@ def test_run_demo_text_mode_with_planned_inputs():
 
 def test_local_voice_input_availability_matches_helper(monkeypatch):
     monkeypatch.setattr(
-        "niros.local_voice_input.local_voice_input_available",
+        local_voice_module,
+        "local_voice_input_available",
         lambda: False,
     )
     voice = LocalVoiceInput()
 
     assert voice.is_available is False
-    assert local_voice_input_available() is False
+    assert local_voice_module.local_voice_input_available() is False

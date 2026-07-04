@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import sys
 from abc import ABC, abstractmethod
+from collections.abc import Callable
 from typing import TextIO
 
 INTERVIEW_INPUT_TEXT = "text"
@@ -98,12 +99,19 @@ class OpenAIVoiceInput(VoiceInput):
         self._started = False
 
 
+def get_local_voice_input_available() -> bool:
+    from niros.local_voice_input import local_voice_input_available
+
+    return local_voice_input_available()
+
+
 def create_voice_input(
     mode: str,
     *,
     stream: TextIO | None = None,
     input_stream: TextIO | None = None,
     voice_backend: VoiceInput | None = None,
+    local_voice_available: Callable[[], bool] | None = None,
 ) -> tuple[VoiceInput, str | None]:
     if mode not in SUPPORTED_INPUT_MODES:
         raise ValueError(f"Unsupported interview input mode: {mode}")
@@ -111,8 +119,14 @@ def create_voice_input(
     if mode == INTERVIEW_INPUT_TEXT:
         return TextInput(stream=stream, input_stream=input_stream), None
 
+    availability = local_voice_available or get_local_voice_input_available
     voice_input = voice_backend
     if voice_input is None:
+        if not availability():
+            return (
+                TextInput(stream=stream, input_stream=input_stream),
+                VOICE_FALLBACK_MESSAGE,
+            )
         from niros.local_voice_input import LocalVoiceInput
 
         voice_input = LocalVoiceInput(stream=stream)
