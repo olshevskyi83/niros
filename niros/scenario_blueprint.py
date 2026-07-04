@@ -2,6 +2,14 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 
+from niros.intervention_strategy import (
+    STRATEGY_CONFIDENCE_HIGH,
+    STRATEGY_CONFIDENCE_LOW,
+    STRATEGY_CONFIDENCE_MEDIUM,
+    InterventionStrategy,
+    StrategyCoverageSummary,
+    StrategyFocusConfidence,
+)
 from niros.knowledge import PatternLoader
 
 RELATIONSHIPS_DOMAIN = "relationships"
@@ -109,6 +117,97 @@ EMPTY_PROFILE_STABILIZATION_OBJECTIVE = (
     "Provide simple grounding while remaining open to emerging themes."
 )
 
+FOCUS_AREA_PHASE_LABELS: dict[str, str] = {
+    "presenting context": "session opening",
+    "personality / pacing": "pacing and tone",
+    "emotion regulation": "stabilization",
+    "self-worth / self-criticism": "emotional opening",
+    "relationships": "relationship exploration",
+    "meaning / purpose": "integration",
+    "emotional flexibility": "closing",
+}
+
+DEFAULT_SCENARIO_FRAMING: dict[str, str] = {
+    STRATEGY_CONFIDENCE_HIGH: (
+        "Use direct personalized framing grounded in available fingerprint evidence."
+    ),
+    STRATEGY_CONFIDENCE_MEDIUM: (
+        "Use gentle personalized framing and avoid strong identity claims."
+    ),
+    STRATEGY_CONFIDENCE_LOW: (
+        "Use open-ended exploratory framing and avoid strong assumptions."
+    ),
+}
+
+FOCUS_AREA_SCENARIO_FRAMING: dict[str, dict[str, str]] = {
+    "self-worth / self-criticism": {
+        STRATEGY_CONFIDENCE_HIGH: (
+            "Personalize self-worth themes with clear but non-judgmental language."
+        ),
+        STRATEGY_CONFIDENCE_MEDIUM: (
+            "Use gentle exploratory language around self-worth instead of strong identity claims."
+        ),
+        STRATEGY_CONFIDENCE_LOW: (
+            "Keep self-worth themes open-ended; avoid direct identity conclusions."
+        ),
+    },
+    "emotion regulation": {
+        STRATEGY_CONFIDENCE_HIGH: (
+            "Personalize regulation support based on known patterns and capacity."
+        ),
+        STRATEGY_CONFIDENCE_MEDIUM: (
+            "Offer grounding gently without assuming regulation capacity."
+        ),
+        STRATEGY_CONFIDENCE_LOW: (
+            "Prioritize stabilization and avoid assuming regulation capacity is known."
+        ),
+    },
+    "relationships": {
+        STRATEGY_CONFIDENCE_LOW: (
+            "Explore relationship themes tentatively without attachment-style labeling."
+        ),
+    },
+    "meaning / purpose": {
+        STRATEGY_CONFIDENCE_MEDIUM: (
+            "Invite meaning exploration without prescribing beliefs or outcomes."
+        ),
+    },
+}
+
+
+@dataclass(frozen=True)
+class ScenarioConfidencePhase:
+    phase: str
+    focus: str
+    confidence: str
+    source_domains: tuple[str, ...] = field(default_factory=tuple)
+    framing: str = ""
+    uncertainty_notes: tuple[str, ...] = field(default_factory=tuple)
+
+    def to_dict(self) -> dict[str, str | tuple[str, ...]]:
+        return {
+            "phase": self.phase,
+            "focus": self.focus,
+            "confidence": self.confidence,
+            "source_domains": self.source_domains,
+            "framing": self.framing,
+            "uncertainty_notes": self.uncertainty_notes,
+        }
+
+
+@dataclass(frozen=True)
+class ScenarioConfidenceSummary:
+    direct_personalization: tuple[str, ...] = field(default_factory=tuple)
+    gentle_personalization: tuple[str, ...] = field(default_factory=tuple)
+    exploratory_only: tuple[str, ...] = field(default_factory=tuple)
+
+    def to_dict(self) -> dict[str, tuple[str, ...]]:
+        return {
+            "direct_personalization": self.direct_personalization,
+            "gentle_personalization": self.gentle_personalization,
+            "exploratory_only": self.exploratory_only,
+        }
+
 
 @dataclass(frozen=True)
 class ScenarioPhase:
@@ -126,9 +225,15 @@ class ScenarioBlueprint:
     exploration_phases: list[ScenarioPhase]
     integration_phase: ScenarioPhase
     closing_phase: ScenarioPhase
+    confidence_phases: tuple[ScenarioConfidencePhase, ...] = field(default_factory=tuple)
+    confidence_summary: ScenarioConfidenceSummary | None = None
 
 
-def build_scenario_blueprint(human_profile: dict) -> ScenarioBlueprint:
+def build_scenario_blueprint(
+    human_profile: dict,
+    *,
+    intervention_strategy: InterventionStrategy | None = None,
+) -> ScenarioBlueprint:
     pattern_ids = _ranked_pattern_ids(human_profile)
     relationship_patterns = _relationship_patterns(pattern_ids)
     is_empty = not pattern_ids
@@ -143,13 +248,120 @@ def build_scenario_blueprint(human_profile: dict) -> ScenarioBlueprint:
     integration = _build_integration_phase(pattern_ids)
     closing = _build_closing_phase()
 
+    confidence_phases: tuple[ScenarioConfidencePhase, ...] = ()
+    confidence_summary: ScenarioConfidenceSummary | None = None
+    if intervention_strategy is not None and intervention_strategy.focus_confidence:
+        confidence_phases = _build_confidence_phases(intervention_strategy.focus_confidence)
+        if intervention_strategy.coverage_summary is not None:
+            confidence_summary = _build_scenario_confidence_summary(
+                intervention_strategy.coverage_summary
+            )
+
     return ScenarioBlueprint(
         opening_phase=opening,
         stabilization_phase=stabilization,
         exploration_phases=exploration_phases,
         integration_phase=integration,
         closing_phase=closing,
+        confidence_phases=confidence_phases,
+        confidence_summary=confidence_summary,
     )
+
+
+def render_scenario_blueprint(blueprint: ScenarioBlueprint) -> str:
+    lines = [
+        "Scenario Blueprint",
+        f"- Opening objective: {blueprint.opening_phase.objective}",
+        f"- Stabilization objective: {blueprint.stabilization_phase.objective}",
+        f"- Exploration phases: {len(blueprint.exploration_phases)}",
+    ]
+    for index, phase in enumerate(blueprint.exploration_phases, start=1):
+        patterns = ", ".join(phase.target_patterns) if phase.target_patterns else "None"
+        lines.append(f"  - Exploration {index} ({patterns}): {phase.objective}")
+    lines.extend(
+        [
+            f"- Integration objective: {blueprint.integration_phase.objective}",
+            f"- Closing objective: {blueprint.closing_phase.objective}",
+        ]
+    )
+
+    if blueprint.confidence_summary is not None:
+        lines.extend(_render_scenario_confidence_summary(blueprint.confidence_summary))
+
+    if blueprint.confidence_phases:
+        lines.append("Confidence-aware scenario themes:")
+        for item in blueprint.confidence_phases:
+            lines.append(f"- {item.phase}: {item.focus} ({item.confidence} confidence)")
+            if item.source_domains:
+                lines.append(f"  Source domains: {', '.join(item.source_domains)}")
+            if item.framing:
+                lines.append(f"  Framing: {item.framing}")
+            for note in item.uncertainty_notes:
+                lines.append(f"  - {note}")
+
+    return "\n".join(lines)
+
+
+def _build_confidence_phases(
+    focus_confidence: tuple[StrategyFocusConfidence, ...],
+) -> tuple[ScenarioConfidencePhase, ...]:
+    phases: list[ScenarioConfidencePhase] = []
+    for item in focus_confidence:
+        phases.append(
+            ScenarioConfidencePhase(
+                phase=FOCUS_AREA_PHASE_LABELS.get(item.focus_area, item.focus_area),
+                focus=item.focus_area,
+                confidence=item.confidence,
+                source_domains=item.based_on_domains,
+                framing=_scenario_framing_for_focus(item.focus_area, item.confidence),
+                uncertainty_notes=item.uncertainty_notes,
+            )
+        )
+    return tuple(phases)
+
+
+def _build_scenario_confidence_summary(
+    coverage_summary: StrategyCoverageSummary,
+) -> ScenarioConfidenceSummary:
+    direct = list(coverage_summary.high_confidence)
+    if "Big Five" in direct:
+        direct = ["Big Five-based pacing", *[
+            label for label in direct if label != "Big Five"
+        ]]
+    return ScenarioConfidenceSummary(
+        direct_personalization=tuple(direct),
+        gentle_personalization=coverage_summary.medium_confidence,
+        exploratory_only=coverage_summary.low_confidence,
+    )
+
+
+def _scenario_framing_for_focus(focus_area: str, confidence: str) -> str:
+    focus_framing = FOCUS_AREA_SCENARIO_FRAMING.get(focus_area, {})
+    return focus_framing.get(confidence, DEFAULT_SCENARIO_FRAMING[confidence])
+
+
+def _render_scenario_confidence_summary(summary: ScenarioConfidenceSummary) -> list[str]:
+    lines = ["Scenario Confidence Summary"]
+
+    lines.append("Direct personalization:")
+    if summary.direct_personalization:
+        lines.extend(f"- {label}" for label in summary.direct_personalization)
+    else:
+        lines.append("- (none)")
+
+    lines.append("Gentle personalization:")
+    if summary.gentle_personalization:
+        lines.extend(f"- {label}" for label in summary.gentle_personalization)
+    else:
+        lines.append("- (none)")
+
+    lines.append("Exploratory only:")
+    if summary.exploratory_only:
+        lines.extend(f"- {label}" for label in summary.exploratory_only)
+    else:
+        lines.append("- (none)")
+
+    return lines
 
 
 def _ranked_pattern_ids(human_profile: dict) -> list[str]:

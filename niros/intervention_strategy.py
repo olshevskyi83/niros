@@ -2,6 +2,16 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 
+from niros.fingerprint_coverage import (
+    COVERAGE_LEVEL_COMPLETE,
+    COVERAGE_LEVEL_GOOD,
+    COVERAGE_LEVEL_PARTIAL,
+    COVERAGE_LEVEL_UNKNOWN,
+    COVERAGE_REPORT_DOMAIN_ORDER,
+    FingerprintCoverageReport,
+    PROFILE_DOMAIN_DISPLAY_LABELS,
+)
+
 LEVEL_RANK: dict[str, int] = {
     "low": 0,
     "gradual": 1,
@@ -40,6 +50,56 @@ DEFAULT_SUGGESTED_DURATION = 50
 SHORTER_SUGGESTED_DURATION = 40
 EMPTY_PROFILE_SUGGESTED_DURATION = 45
 
+STRATEGY_CONFIDENCE_HIGH = "high"
+STRATEGY_CONFIDENCE_MEDIUM = "medium"
+STRATEGY_CONFIDENCE_LOW = "low"
+
+STRATEGY_CONFIDENCE_RANK: dict[str, int] = {
+    STRATEGY_CONFIDENCE_LOW: 0,
+    STRATEGY_CONFIDENCE_MEDIUM: 1,
+    STRATEGY_CONFIDENCE_HIGH: 2,
+}
+
+STRATEGY_FOCUS_AREAS: tuple[tuple[str, tuple[str, ...]], ...] = (
+    ("presenting context", ("presenting_problem", "patterns")),
+    ("personality / pacing", ("big_five",)),
+    ("self-worth / self-criticism", ("self_domain", "cognitive_patterns_domain")),
+    ("emotion regulation", ("emotion_regulation_domain",)),
+    ("relationships", ("relationships_domain",)),
+    ("meaning / purpose", ("meaning", "values_identity_domain")),
+    ("emotional flexibility", ("emotional_flexibility_domain",)),
+)
+
+
+@dataclass(frozen=True)
+class StrategyFocusConfidence:
+    focus_area: str
+    confidence: str
+    based_on_domains: tuple[str, ...] = field(default_factory=tuple)
+    uncertainty_notes: tuple[str, ...] = field(default_factory=tuple)
+
+    def to_dict(self) -> dict[str, str | tuple[str, ...]]:
+        return {
+            "focus_area": self.focus_area,
+            "confidence": self.confidence,
+            "based_on_domains": self.based_on_domains,
+            "uncertainty_notes": self.uncertainty_notes,
+        }
+
+
+@dataclass(frozen=True)
+class StrategyCoverageSummary:
+    high_confidence: tuple[str, ...] = field(default_factory=tuple)
+    medium_confidence: tuple[str, ...] = field(default_factory=tuple)
+    low_confidence: tuple[str, ...] = field(default_factory=tuple)
+
+    def to_dict(self) -> dict[str, tuple[str, ...]]:
+        return {
+            "high_confidence": self.high_confidence,
+            "medium_confidence": self.medium_confidence,
+            "low_confidence": self.low_confidence,
+        }
+
 
 @dataclass(frozen=True)
 class InterventionStrategy:
@@ -58,9 +118,11 @@ class InterventionStrategy:
     cognitive_load: str
     suggested_duration: int
     strategy_notes: tuple[str, ...] = field(default_factory=tuple)
+    focus_confidence: tuple[StrategyFocusConfidence, ...] = field(default_factory=tuple)
+    coverage_summary: StrategyCoverageSummary | None = None
 
-    def to_dict(self) -> dict[str, str | int | tuple[str, ...]]:
-        return {
+    def to_dict(self) -> dict[str, str | int | tuple[str, ...] | dict[str, tuple[str, ...]] | list[dict[str, str | tuple[str, ...]]] | None]:
+        payload: dict[str, str | int | tuple[str, ...] | dict[str, tuple[str, ...]] | list[dict[str, str | tuple[str, ...]]] | None] = {
             "pacing": self.pacing,
             "emotional_intensity": self.emotional_intensity,
             "metaphor_level": self.metaphor_level,
@@ -76,7 +138,10 @@ class InterventionStrategy:
             "cognitive_load": self.cognitive_load,
             "suggested_duration": self.suggested_duration,
             "strategy_notes": self.strategy_notes,
+            "focus_confidence": [item.to_dict() for item in self.focus_confidence],
+            "coverage_summary": self.coverage_summary.to_dict() if self.coverage_summary else None,
         }
+        return payload
 
 
 DEFAULT_STRATEGY = InterventionStrategy(
@@ -276,10 +341,18 @@ MERGE_LOWEST = frozenset(
 )
 
 
-def build_intervention_strategy(fingerprint_or_profile: dict) -> InterventionStrategy:
+def build_intervention_strategy(
+    fingerprint_or_profile: dict,
+    *,
+    fingerprint_coverage_report: FingerprintCoverageReport | None = None,
+) -> InterventionStrategy:
+    coverage_report = fingerprint_coverage_report or _extract_coverage_report(fingerprint_or_profile)
     pattern_ids = _extract_pattern_ids(fingerprint_or_profile)
     if not pattern_ids and not _extract_assessment_results(fingerprint_or_profile):
-        return EMPTY_PROFILE_STRATEGY
+        strategy = EMPTY_PROFILE_STRATEGY
+        if coverage_report is not None:
+            return _attach_coverage_context(strategy, coverage_report)
+        return strategy
 
     merged, notes = _merge_pattern_adjustments(pattern_ids)
     merged, notes = _apply_assessment_adjustments(
@@ -288,11 +361,16 @@ def build_intervention_strategy(fingerprint_or_profile: dict) -> InterventionStr
         _extract_assessment_results(fingerprint_or_profile),
         pattern_ids,
     )
+    if coverage_report is not None:
+        merged, notes = _apply_coverage_adjustments(merged, notes, coverage_report)
     duration = _compute_duration(
         pattern_ids,
         use_shorter=bool(merged.pop("use_shorter_duration", False)),
     )
-    return _build_strategy_from_merged(merged, duration, notes)
+    strategy = _build_strategy_from_merged(merged, duration, notes)
+    if coverage_report is not None:
+        return _attach_coverage_context(strategy, coverage_report)
+    return strategy
 
 
 def render_intervention_strategy(strategy: InterventionStrategy) -> str:
@@ -312,8 +390,18 @@ def render_intervention_strategy(strategy: InterventionStrategy) -> str:
         f"Spirituality focus: {strategy.spirituality_focus}",
         f"Cognitive load: {strategy.cognitive_load}",
         f"Suggested duration: {strategy.suggested_duration} minutes",
-        "Notes:",
     ]
+    if strategy.coverage_summary is not None:
+        lines.extend(_render_strategy_confidence_summary(strategy))
+    if strategy.focus_confidence:
+        lines.append("Focus area confidence:")
+        for item in strategy.focus_confidence:
+            lines.append(f"- {item.focus_area}: {item.confidence}")
+            if item.based_on_domains:
+                lines.append(f"  Domains: {', '.join(item.based_on_domains)}")
+            for note in item.uncertainty_notes:
+                lines.append(f"  - {note}")
+    lines.append("Notes:")
     if strategy.strategy_notes:
         lines.extend(f"- {note}" for note in strategy.strategy_notes)
     else:
@@ -323,6 +411,213 @@ def render_intervention_strategy(strategy: InterventionStrategy) -> str:
 
 def is_high_grounding(value: str) -> bool:
     return value in {"high", "very_high"}
+
+
+def coverage_level_to_strategy_confidence(level: str) -> str:
+    if level in {COVERAGE_LEVEL_COMPLETE, COVERAGE_LEVEL_GOOD}:
+        return STRATEGY_CONFIDENCE_HIGH
+    if level == COVERAGE_LEVEL_PARTIAL:
+        return STRATEGY_CONFIDENCE_MEDIUM
+    return STRATEGY_CONFIDENCE_LOW
+
+
+def _extract_coverage_report(fingerprint_or_profile: dict) -> FingerprintCoverageReport | None:
+    report = fingerprint_or_profile.get("fingerprint_coverage_report")
+    if isinstance(report, FingerprintCoverageReport):
+        return report
+    return None
+
+
+def _domain_display_label(domain_id: str) -> str:
+    return PROFILE_DOMAIN_DISPLAY_LABELS.get(
+        domain_id,
+        domain_id.replace("_", " ").title(),
+    )
+
+
+def _build_strategy_coverage_summary(
+    coverage_report: FingerprintCoverageReport,
+) -> StrategyCoverageSummary:
+    high: list[str] = []
+    medium: list[str] = []
+    low: list[str] = []
+
+    for domain_id in COVERAGE_REPORT_DOMAIN_ORDER:
+        level = coverage_report.domains[domain_id].level
+        label = _domain_display_label(domain_id)
+        confidence = coverage_level_to_strategy_confidence(level)
+        if confidence == STRATEGY_CONFIDENCE_HIGH:
+            high.append(label)
+        elif confidence == STRATEGY_CONFIDENCE_MEDIUM:
+            medium.append(label)
+        else:
+            low.append(label)
+
+    return StrategyCoverageSummary(
+        high_confidence=tuple(high),
+        medium_confidence=tuple(medium),
+        low_confidence=tuple(low),
+    )
+
+
+def _build_focus_confidence(
+    coverage_report: FingerprintCoverageReport,
+) -> tuple[StrategyFocusConfidence, ...]:
+    items: list[StrategyFocusConfidence] = []
+
+    for focus_area, domain_ids in STRATEGY_FOCUS_AREAS:
+        domain_labels = tuple(_domain_display_label(domain_id) for domain_id in domain_ids)
+        domain_levels = [coverage_report.domains[domain_id].level for domain_id in domain_ids]
+        confidence = min(
+            (coverage_level_to_strategy_confidence(level) for level in domain_levels),
+            key=lambda value: STRATEGY_CONFIDENCE_RANK[value],
+        )
+        uncertainty_notes = _uncertainty_notes_for_domains(
+            focus_area=focus_area,
+            domain_ids=domain_ids,
+            coverage_report=coverage_report,
+            confidence=confidence,
+        )
+        items.append(
+            StrategyFocusConfidence(
+                focus_area=focus_area,
+                confidence=confidence,
+                based_on_domains=domain_labels,
+                uncertainty_notes=uncertainty_notes,
+            )
+        )
+
+    return tuple(items)
+
+
+def _uncertainty_notes_for_domains(
+    *,
+    focus_area: str,
+    domain_ids: tuple[str, ...],
+    coverage_report: FingerprintCoverageReport,
+    confidence: str,
+) -> tuple[str, ...]:
+    notes: list[str] = []
+
+    for domain_id in domain_ids:
+        domain = coverage_report.domains[domain_id]
+        label = _domain_display_label(domain_id)
+        if domain.level == COVERAGE_LEVEL_PARTIAL:
+            notes.append(f"{label} domain coverage is partial")
+        elif domain.level == COVERAGE_LEVEL_UNKNOWN:
+            notes.append(f"{label} domain coverage is unknown")
+
+    if focus_area == "self-worth / self-criticism" and confidence != STRATEGY_CONFIDENCE_HIGH:
+        notes.append(
+            "Further clarification is recommended before strong self-focused framing"
+        )
+    if focus_area == "emotion regulation" and confidence == STRATEGY_CONFIDENCE_LOW:
+        notes.append(
+            "Do not assume regulation capacity is known; prioritize stabilization first"
+        )
+    if focus_area == "personality / pacing" and confidence == STRATEGY_CONFIDENCE_HIGH:
+        notes.append("Big Five coverage supports confident tone and pacing choices")
+
+    return tuple(dict.fromkeys(notes))
+
+
+def _apply_coverage_adjustments(
+    merged: dict[str, str | bool],
+    notes: tuple[str, ...],
+    coverage_report: FingerprintCoverageReport,
+) -> tuple[dict[str, str | bool], tuple[str, ...]]:
+    note_list = list(notes)
+    domains = coverage_report.domains
+
+    self_level = domains["self_domain"].level
+    if self_level == COVERAGE_LEVEL_UNKNOWN:
+        merged["self_focus"] = _merge_lowest(str(merged["self_focus"]), "low")
+        merged["exploration_priority"] = _merge_lowest(str(merged["exploration_priority"]), "gradual")
+        note = (
+            "Self domain coverage is limited: keep self-focused work exploratory "
+            "and avoid overly confident self-worth framing."
+        )
+        if note not in note_list:
+            note_list.append(note)
+    elif self_level == COVERAGE_LEVEL_PARTIAL:
+        merged["self_focus"] = _merge_lowest(str(merged["self_focus"]), "medium")
+        note = "Self domain coverage is partial: phrase self-related recommendations carefully."
+        if note not in note_list:
+            note_list.append(note)
+
+    emotion_level = domains["emotion_regulation_domain"].level
+    if emotion_level in {COVERAGE_LEVEL_UNKNOWN, COVERAGE_LEVEL_PARTIAL}:
+        merged["grounding_priority"] = _merge_highest(str(merged["grounding_priority"]), "high")
+        note = (
+            "Emotion Regulation coverage is limited: emphasize grounding and stabilization "
+            "before assuming regulation capacity."
+        )
+        if note not in note_list:
+            note_list.append(note)
+
+    relationships_level = domains["relationships_domain"].level
+    if relationships_level == COVERAGE_LEVEL_UNKNOWN:
+        merged["relationship_focus"] = _merge_lowest(str(merged["relationship_focus"]), "low")
+
+    big_five_level = domains["big_five"].level
+    if big_five_level in {COVERAGE_LEVEL_COMPLETE, COVERAGE_LEVEL_GOOD}:
+        note = "Big Five coverage is strong: personality-informed pacing may be used confidently."
+        if note not in note_list:
+            note_list.append(note)
+
+    return merged, tuple(note_list)
+
+
+def _attach_coverage_context(
+    strategy: InterventionStrategy,
+    coverage_report: FingerprintCoverageReport,
+) -> InterventionStrategy:
+    return InterventionStrategy(
+        pacing=strategy.pacing,
+        emotional_intensity=strategy.emotional_intensity,
+        metaphor_level=strategy.metaphor_level,
+        directness=strategy.directness,
+        repetition_level=strategy.repetition_level,
+        grounding_priority=strategy.grounding_priority,
+        exploration_priority=strategy.exploration_priority,
+        integration_priority=strategy.integration_priority,
+        body_focus=strategy.body_focus,
+        relationship_focus=strategy.relationship_focus,
+        self_focus=strategy.self_focus,
+        spirituality_focus=strategy.spirituality_focus,
+        cognitive_load=strategy.cognitive_load,
+        suggested_duration=strategy.suggested_duration,
+        strategy_notes=strategy.strategy_notes,
+        focus_confidence=_build_focus_confidence(coverage_report),
+        coverage_summary=_build_strategy_coverage_summary(coverage_report),
+    )
+
+
+def _render_strategy_confidence_summary(strategy: InterventionStrategy) -> list[str]:
+    summary = strategy.coverage_summary
+    if summary is None:
+        return []
+
+    lines = ["Strategy Confidence Summary"]
+    lines.append("High confidence:")
+    if summary.high_confidence:
+        lines.extend(f"- {label}" for label in summary.high_confidence)
+    else:
+        lines.append("- (none)")
+
+    lines.append("Medium confidence:")
+    if summary.medium_confidence:
+        lines.extend(f"- {label}" for label in summary.medium_confidence)
+    else:
+        lines.append("- (none)")
+
+    lines.append("Low confidence / exploratory:")
+    if summary.low_confidence:
+        lines.extend(f"- {label}" for label in summary.low_confidence)
+    else:
+        lines.append("- (none)")
+
+    return lines
 
 
 def _extract_pattern_ids(fingerprint_or_profile: dict) -> list[str]:

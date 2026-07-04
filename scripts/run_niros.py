@@ -32,6 +32,7 @@ from niros.assessment_runner import (
 from niros.human_digital_fingerprint import build_human_digital_fingerprint
 from niros.human_profile_summary import build_human_profile_summary
 from niros.env_loader import load_project_env
+from niros.fingerprint_coverage import FingerprintCoverageAnalyzer, FingerprintCoverageReport
 from niros.intervention_strategy import build_intervention_strategy, render_intervention_strategy
 from niros.runtime_config import (
     RUNTIME_MODE_REAL,
@@ -39,7 +40,7 @@ from niros.runtime_config import (
     build_runtime_settings,
     format_openai_startup_lines,
 )
-from niros.scenario_blueprint import build_scenario_blueprint
+from niros.scenario_blueprint import build_scenario_blueprint, render_scenario_blueprint
 from niros.semantic_interpreter.factory import SUPPORTED_PROVIDERS
 from niros.session_simulation import simulate_session
 from niros.session_timeline_renderer import render_session_timeline
@@ -84,24 +85,17 @@ def print_runtime_banner(settings, stream: TextIO) -> None:
     print(file=stream)
 
 
-def print_scenario_blueprint_section(profile: dict, stream: TextIO) -> None:
-    blueprint = build_scenario_blueprint(profile)
-
-    print("Scenario Blueprint", file=stream)
-    print(f"- Opening objective: {blueprint.opening_phase.objective}", file=stream)
-    print(
-        f"- Stabilization objective: {blueprint.stabilization_phase.objective}",
-        file=stream,
+def print_scenario_blueprint_section(
+    profile: dict,
+    stream: TextIO,
+    *,
+    intervention_strategy=None,
+) -> None:
+    blueprint = build_scenario_blueprint(
+        profile,
+        intervention_strategy=intervention_strategy,
     )
-    print(f"- Exploration phases: {len(blueprint.exploration_phases)}", file=stream)
-    for index, phase in enumerate(blueprint.exploration_phases, start=1):
-        patterns = ", ".join(phase.target_patterns) if phase.target_patterns else "None"
-        print(
-            f"  - Exploration {index} ({patterns}): {phase.objective}",
-            file=stream,
-        )
-    print(f"- Integration objective: {blueprint.integration_phase.objective}", file=stream)
-    print(f"- Closing objective: {blueprint.closing_phase.objective}", file=stream)
+    print(render_scenario_blueprint(blueprint), file=stream)
     print(SEPARATOR, file=stream)
 
 
@@ -187,8 +181,32 @@ def build_fingerprint_from_session(session: InterviewSession) -> dict:
     )
 
 
-def print_intervention_strategy_section(fingerprint: dict, stream: TextIO) -> None:
-    strategy = build_intervention_strategy(fingerprint)
+def build_coverage_from_session(session: InterviewSession) -> FingerprintCoverageReport:
+    completed = {
+        run.module_id: list(run.results)
+        for run in session.assessment_module_runs
+    }
+    semantic_facts = None
+    if session.intake_result is not None:
+        semantic_facts = session.intake_result.evidence_store.facts()
+    return FingerprintCoverageAnalyzer().analyze(
+        presenting_problem=session.presenting_problem,
+        patterns=session.cumulative_pattern_tags,
+        semantic_facts=semantic_facts,
+        completed_assessments=completed,
+    )
+
+
+def print_intervention_strategy_section(
+    fingerprint: dict,
+    stream: TextIO,
+    *,
+    fingerprint_coverage_report: FingerprintCoverageReport | None = None,
+) -> None:
+    strategy = build_intervention_strategy(
+        fingerprint,
+        fingerprint_coverage_report=fingerprint_coverage_report,
+    )
     print(render_intervention_strategy(strategy), file=stream)
     print(SEPARATOR, file=stream)
 
@@ -251,12 +269,17 @@ def run_niros(
     print_human_profile_summary(session.history, stream)
 
     fingerprint = build_fingerprint_from_session(session)
+    coverage_report = build_coverage_from_session(session)
+    semantic_facts = None
+    if session.intake_result is not None:
+        semantic_facts = session.intake_result.evidence_store.facts()
     print_human_profile_report(
         session.history,
         stream,
         presenting_problem=session.presenting_problem,
         assessment_results=session.assessment_results,
         assessment_module_runs=session.assessment_module_runs,
+        semantic_facts=semantic_facts,
     )
 
     if session.assessment_module_runs and assessment == ASSESSMENT_BIG_FIVE_SHORT:
@@ -265,10 +288,22 @@ def run_niros(
             print(rendered, file=stream)
             print(SEPARATOR, file=stream)
 
-    print_intervention_strategy_section(fingerprint, stream)
+    print_intervention_strategy_section(
+        fingerprint,
+        stream,
+        fingerprint_coverage_report=coverage_report,
+    )
 
     profile = build_profile_from_history(session)
-    print_scenario_blueprint_section(profile, stream)
+    strategy = build_intervention_strategy(
+        fingerprint,
+        fingerprint_coverage_report=coverage_report,
+    )
+    print_scenario_blueprint_section(
+        profile,
+        stream,
+        intervention_strategy=strategy,
+    )
     print_session_timeline_section(profile, stream)
 
     print(COMPLETION_MESSAGE, file=stream)

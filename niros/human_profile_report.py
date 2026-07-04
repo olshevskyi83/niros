@@ -13,6 +13,11 @@ from niros.consistency_engine import (
     format_consistency_observations,
 )
 from niros.evidence_store import EvidenceStore
+from niros.fingerprint_coverage import (
+    FingerprintCoverageAnalyzer,
+    FingerprintCoverageReport,
+    format_fingerprint_coverage_report,
+)
 from niros.human_profile_summary import (
     GENERIC_PATTERN_TEXT,
     NO_EVIDENCE_PROFILE_TEXT,
@@ -22,6 +27,7 @@ from niros.human_profile_summary import (
 from niros.hypotheses import Hypothesis
 from niros.knowledge import KnowledgePattern, PatternLoader
 from niros.patterns import PatternTag
+from niros.semantic_interpreter.facts import SemanticFact
 
 RELATIONSHIPS_DOMAIN = "relationships"
 SELF_CONCEPT_DOMAIN = "self_concept"
@@ -51,6 +57,7 @@ class HumanProfileReport:
     consistency_observations: list[str] = field(default_factory=list)
     evidence_summary: list[str] = field(default_factory=list)
     assessment_signals: list[str] = field(default_factory=list)
+    fingerprint_coverage: FingerprintCoverageReport | None = None
 
 
 def build_human_profile_report(
@@ -62,10 +69,19 @@ def build_human_profile_report(
     presenting_problem: dict[str, str] | None = None,
     assessment_results: list[AssessmentResult] | None = None,
     assessment_module_runs: list[AssessedModuleRun] | None = None,
+    semantic_facts: list[SemanticFact] | None = None,
+    fingerprint_coverage_report: FingerprintCoverageReport | None = None,
 ) -> HumanProfileReport:
     pattern_loader = loader or PatternLoader()
     ranked_pattern_ids = _ranked_pattern_ids(profile_summary, detected_patterns)
     presenting = dict(presenting_problem or {})
+    coverage = _build_fingerprint_coverage(
+        presenting_problem=presenting,
+        detected_patterns=detected_patterns,
+        semantic_facts=semantic_facts,
+        assessment_module_runs=assessment_module_runs,
+        fingerprint_coverage_report=fingerprint_coverage_report,
+    )
 
     if not ranked_pattern_ids:
         empty = _empty_report()
@@ -74,6 +90,7 @@ def build_human_profile_report(
             assessment_results,
             assessment_module_runs,
         )
+        empty.fingerprint_coverage = coverage
         return empty
 
     patterns = [pattern_loader.load(pattern_id) for pattern_id in ranked_pattern_ids]
@@ -101,6 +118,7 @@ def build_human_profile_report(
             assessment_results,
             assessment_module_runs,
         ),
+        fingerprint_coverage=coverage,
     )
 
 
@@ -112,6 +130,8 @@ def build_human_profile_report_from_tags(
     presenting_problem: dict[str, str] | None = None,
     assessment_results: list[AssessmentResult] | None = None,
     assessment_module_runs: list[AssessedModuleRun] | None = None,
+    semantic_facts: list[SemanticFact] | None = None,
+    fingerprint_coverage_report: FingerprintCoverageReport | None = None,
 ) -> HumanProfileReport:
     profile_summary = build_human_profile_summary(detected_patterns)
     return build_human_profile_report(
@@ -123,6 +143,8 @@ def build_human_profile_report_from_tags(
         presenting_problem=presenting_problem,
         assessment_results=assessment_results,
         assessment_module_runs=assessment_module_runs,
+        semantic_facts=semantic_facts,
+        fingerprint_coverage_report=fingerprint_coverage_report,
     )
 
 
@@ -136,6 +158,16 @@ def render_human_profile_report(report: HumanProfileReport) -> str:
             (
                 "Structured Assessment Signals",
                 _render_assessment_signals_section(report.assessment_signals),
+            )
+        )
+    if report.fingerprint_coverage is not None:
+        sections.append(
+            (
+                "Human Digital Fingerprint Coverage",
+                format_fingerprint_coverage_report(
+                    report.fingerprint_coverage,
+                    module_titles=MODULE_TITLES,
+                ),
             )
         )
     sections.extend(
@@ -354,6 +386,32 @@ def _build_evidence_summary(
             break
 
     return evidence_lines
+
+
+def _completed_assessments_from_module_runs(
+    assessment_module_runs: list[AssessedModuleRun] | None,
+) -> dict[str, list[AssessmentResult]]:
+    if not assessment_module_runs:
+        return {}
+    return {run.module_id: list(run.results) for run in assessment_module_runs}
+
+
+def _build_fingerprint_coverage(
+    *,
+    presenting_problem: dict[str, str],
+    detected_patterns: list[PatternTag],
+    semantic_facts: list[SemanticFact] | None,
+    assessment_module_runs: list[AssessedModuleRun] | None,
+    fingerprint_coverage_report: FingerprintCoverageReport | None,
+) -> FingerprintCoverageReport:
+    if fingerprint_coverage_report is not None:
+        return fingerprint_coverage_report
+    return FingerprintCoverageAnalyzer().analyze(
+        presenting_problem=presenting_problem,
+        patterns=detected_patterns,
+        semantic_facts=semantic_facts,
+        completed_assessments=_completed_assessments_from_module_runs(assessment_module_runs),
+    )
 
 
 def _build_assessment_signals(

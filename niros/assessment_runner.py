@@ -17,6 +17,7 @@ from niros.assessments.big_five_short import (
 )
 from niros.assessments.registry import get_assessment_module_items, score_assessment_module
 from niros.patterns import PatternTag
+from niros.semantic_interpreter.facts import SemanticFact
 
 ASSESSMENT_NONE = "none"
 ASSESSMENT_BIG_FIVE_SHORT = "big-five-short"
@@ -93,8 +94,10 @@ def render_adaptive_assessment_selection(
     *,
     module_titles: dict[str, str] | None = None,
 ) -> str:
-    _ = module_titles
-    return render_assessment_selection_with_coverage(selection)
+    return render_assessment_selection_with_coverage(
+        selection,
+        module_titles=module_titles or MODULE_TITLES,
+    )
 
 
 def print_adaptive_assessment_selection(selection, output_stream: TextIO) -> None:
@@ -168,6 +171,24 @@ def run_big_five_short_assessment(
     )
 
 
+def completed_assessments_from_answers(
+    answers_by_module: dict[str, dict[str, int]],
+    *,
+    language: str = "en",
+) -> dict[str, list[AssessmentResult]]:
+    completed: dict[str, list[AssessmentResult]] = {}
+    for module_id, answers in answers_by_module.items():
+        items = get_assessment_module_items(module_id, language)
+        responses = [
+            AssessmentResponse(item_id=item.id, value=answers[item.id])
+            for item in items
+            if item.id in answers
+        ]
+        if responses:
+            completed[module_id] = score_assessment_module(module_id, responses)
+    return completed
+
+
 def run_adaptive_assessments(
     *,
     presenting_problem: dict[str, str],
@@ -176,19 +197,31 @@ def run_adaptive_assessments(
     input_stream: TextIO | None = None,
     output_stream: TextIO | None = None,
     answers_by_module: dict[str, dict[str, int]] | None = None,
+    semantic_facts: list[SemanticFact] | None = None,
+    completed_assessments: dict[str, list[AssessmentResult]] | None = None,
     print_output: bool = True,
 ) -> list[AssessedModuleRun]:
+    completed = dict(completed_assessments or {})
     selection = select_assessment_modules(
         presenting_problem=presenting_problem,
         detected_patterns=detected_patterns,
         assessment_domain_map=build_assessment_domain_map(),
+        semantic_facts=semantic_facts,
+        completed_assessments=completed,
     )
 
     if print_output:
         print_adaptive_assessment_selection(selection, output_stream or sys.stdout)
 
-    runs: list[AssessedModuleRun] = []
+    runs: list[AssessedModuleRun] = [
+        AssessedModuleRun(module_id=module_id, results=list(results))
+        for module_id, results in sorted(completed.items())
+    ]
+    completed_ids = set(completed)
+
     for module_id in selection.selected_modules:
+        if module_id in completed_ids:
+            continue
         if print_output and runs:
             print(file=output_stream or sys.stdout)
         if answers_by_module is not None:

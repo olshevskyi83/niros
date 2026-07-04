@@ -19,6 +19,9 @@ class EvidenceStore:
         next_sequence = len(self._entries) if sequence is None else sequence
         self._entries.append(SemanticEvidenceEntry(fact=fact, sequence=next_sequence))
 
+    def facts(self) -> list[SemanticFact]:
+        return [entry.fact for entry in self._entries]
+
     @property
     def entries(self) -> tuple[SemanticEvidenceEntry, ...]:
         return tuple(self._entries)

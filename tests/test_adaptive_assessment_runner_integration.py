@@ -87,7 +87,7 @@ def test_adaptive_assessment_selection_is_printed():
     rendered = output.getvalue()
     assert ADAPTIVE_ASSESSMENT_SELECTION_TITLE in rendered
     assert "Selected modules:" in rendered
-    assert "big-five-short:" in rendered
+    assert MODULE_TITLES["big-five-short"] in rendered
     assert runs
 
 
@@ -102,7 +102,7 @@ def test_depression_intake_selects_big_five_and_self_domain():
         language="uk",
         assessment=ASSESSMENT_ADAPTIVE,
         adaptive_assessment_answers=_neutral_answers_for_modules(
-            ["big-five-short", "self-domain-short", "emotion-regulation-domain-short", "sleep-short"]
+            ["big-five-short", "low-mood-short", "sleep-short", "self-domain-short"]
         ),
         output_stream=output,
     )
@@ -110,10 +110,9 @@ def test_depression_intake_selects_big_five_and_self_domain():
     rendered = output.getvalue()
     assert "===== Fingerprint Coverage =====" in rendered
     assert ADAPTIVE_ASSESSMENT_SELECTION_TITLE in rendered
-    assert "big-five-short" in rendered
-    assert SELF_DOMAIN_SHORT in rendered
-    assert BIG_FIVE_SHORT_SECTION_TITLE in rendered
+    assert MODULE_TITLES["big-five-short"] in rendered
     assert MODULE_TITLES[SELF_DOMAIN_SHORT] in rendered
+    assert BIG_FIVE_SHORT_SECTION_TITLE in rendered
 
 
 def test_sleep_intake_selects_sleep_short():
@@ -133,7 +132,6 @@ def test_sleep_intake_selects_sleep_short():
     )
 
     rendered = output.getvalue()
-    assert SLEEP_SHORT in rendered
     assert MODULE_TITLES[SLEEP_SHORT] in rendered
 
 
@@ -154,7 +152,6 @@ def test_substance_intake_selects_substance_use_short():
     )
 
     rendered = output.getvalue()
-    assert SUBSTANCE_USE_SHORT in rendered
     assert MODULE_TITLES[SUBSTANCE_USE_SHORT] in rendered
 
 

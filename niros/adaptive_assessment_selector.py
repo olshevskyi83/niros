@@ -76,16 +76,26 @@ def select_assessment_modules(
     )
 
 
-def render_assessment_selection_with_coverage(selection: AssessmentSelection) -> str:
+def render_assessment_selection_with_coverage(
+    selection: AssessmentSelection,
+    *,
+    module_titles: dict[str, str] | None = None,
+) -> str:
     lines: list[str] = []
     if selection.coverage_report is not None:
-        lines.append(render_fingerprint_coverage_report(selection.coverage_report))
+        lines.append(
+            render_fingerprint_coverage_report(
+                selection.coverage_report,
+                module_titles=module_titles,
+            )
+        )
         lines.append("")
 
     lines.append("=== Adaptive Assessment Selection ===")
     lines.append("Selected modules:")
     for module_id in selection.selected_modules:
+        title = (module_titles or {}).get(module_id, module_id)
         reason = selection.reason_by_module.get(module_id, "selected for fingerprint coverage")
-        lines.append(f"- {module_id}: {reason}")
+        lines.append(f"- {title}: {reason}")
 
     return "\n".join(lines)

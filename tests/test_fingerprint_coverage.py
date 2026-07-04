@@ -222,7 +222,7 @@ def test_coverage_report_renders_debug_output():
     assert "===== Fingerprint Coverage =====" in rendered
     assert "Presenting Problem" in rendered
     assert "Big Five" in rendered
-    assert "Selected:" in rendered
+    assert "Selected modules:" in rendered
     assert BIG_FIVE_SHORT in rendered
 
 

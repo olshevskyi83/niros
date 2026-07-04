@@ -22,6 +22,7 @@ from niros.intake_protocol import (
     intake_state_from_answers,
 )
 from niros.evidence_store import EvidenceStore
+from niros.semantic_interpreter.facts import SemanticFact
 from niros.intake_runner import (
     IntakeSessionResult,
     IntakeTurnRecord,
@@ -321,6 +322,7 @@ def print_human_profile_report(
     presenting_problem: dict[str, str] | None = None,
     assessment_results: list[AssessmentResult] | None = None,
     assessment_module_runs: list[AssessedModuleRun] | None = None,
+    semantic_facts: list[SemanticFact] | None = None,
 ) -> None:
     detected_patterns = [tag for turn in history for tag in turn.pattern_tags]
     hypotheses = [hypothesis for turn in history for hypothesis in turn.hypotheses]
@@ -330,6 +332,7 @@ def print_human_profile_report(
         presenting_problem=presenting_problem,
         assessment_results=assessment_results,
         assessment_module_runs=assessment_module_runs,
+        semantic_facts=semantic_facts,
     )
 
     print("=== Human Profile Report ===", file=stream)
@@ -498,6 +501,7 @@ def run_interview_session(
                 input_stream=sys.stdin,
                 output_stream=stream,
                 answers_by_module=adaptive_assessment_answers,
+                semantic_facts=evidence_store.facts() if evidence_store is not None else None,
                 print_output=print_output,
             )
             assessment_results = flatten_assessment_results(assessment_module_runs)
@@ -728,10 +732,16 @@ def run_demo(
 
     print_interview_summary(session.history, stream)
     print_human_profile_summary(session.history, stream)
+    semantic_facts = None
+    if session.intake_result is not None:
+        semantic_facts = session.intake_result.evidence_store.facts()
     print_human_profile_report(
         session.history,
         stream,
         presenting_problem=session.presenting_problem,
+        assessment_results=session.assessment_results or None,
+        assessment_module_runs=session.assessment_module_runs or None,
+        semantic_facts=semantic_facts,
     )
     return 0
 

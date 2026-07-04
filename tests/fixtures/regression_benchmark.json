@@ -1,0 +1,3613 @@
+{
+  "cases": {
+    "complex_human:c001_grief_shame_self_worth": {
+      "case_id": "c001_grief_shame_self_worth",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "grief-loss-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "bereavement_context",
+        "grief_signal",
+        "harsh_self_criticism",
+        "shame_sensitivity",
+        "social_disconnection_signal",
+        "unworthiness_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.8264,
+        "patterns": 0.5556,
+        "scenario": 0.7667,
+        "strategy": 0.75,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "1c61b1ad11b1965b0a3e8950b2fbb118cf09888fe995bb1117fb6663790710db",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "a4f424dfe9fd99ad6a1d283d69c91e9f644fc5ca957a60a7933dc0edbaaf1e63",
+      "suite": "complex_human",
+      "timeline_fingerprint": "536a14a01163f9d8f1aea1d16ea783dd053bbde6425d3f84635a0da7bc9a658e"
+    },
+    "complex_human:c002_anxiety_control_rumination": {
+      "case_id": "c002_anxiety_control_rumination",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "anxiety-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "anxiety_reactivity",
+        "control_resistance",
+        "fear_of_losing_control",
+        "mental_overcontrol",
+        "panic_reactivity",
+        "rumination"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.9167,
+        "patterns": 0.6667,
+        "scenario": 0.7667,
+        "strategy": 0.9,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "05625d28c81b87f8172632b9f17ce888ec0d2ce085cd69d5ff176a0a60b1fb46",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "cognitive-patterns-domain-short",
+        "relationships-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "45290cdeddba89ad93515be2319f77937832c5f1e311d83ff876c8d636450256",
+      "suite": "complex_human",
+      "timeline_fingerprint": "cc2511a187e3ddf49f5ffe2bb03d0e303a3a8f646aa6cd03597fa8a5a85fca51"
+    },
+    "complex_human:c003_identity_meaning_transition": {
+      "case_id": "c003_identity_meaning_transition",
+      "completed_modules": [
+        "big-five-short",
+        "grief-loss-short",
+        "trauma-stress-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "identity_confusion",
+        "inner_conflict",
+        "loss_of_meaning",
+        "search_for_self_understanding",
+        "social_disconnection_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7812,
+        "patterns": 0.625,
+        "scenario": 0.8667,
+        "strategy": 0.75,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "7aa73a6751a492d061a327b63a56d35f9322f7f3db8e57c2404468beefca11ea",
+      "selected_modules": [
+        "meaning-purpose-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "8b7b3b38917dbe882a997182df37a83fad1cbff4e379baf3d1320f4580dae556",
+      "suite": "complex_human",
+      "timeline_fingerprint": "e278c06f5663904da20d35b996aef20f6e8a5133f631121b286d2d58ce77b04a"
+    },
+    "complex_human:c004_relationships_belonging_withdrawal": {
+      "case_id": "c004_relationships_belonging_withdrawal",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "fear_of_rejection",
+        "rejection_sensitivity",
+        "self_worth_instability",
+        "social_disconnection_signal",
+        "social_withdrawal",
+        "trust_difficulty",
+        "unworthiness_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.8036,
+        "patterns": 0.7143,
+        "scenario": 0.9333,
+        "strategy": 0.75,
+        "timeline": 0.8667
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "a02c837a9a9ddb421903f5534398722d122f06c421e212d1944b80b0935634d8",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "emotional-flexibility-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ff43ca6a780b5e261ba7bcc117b3ecb2fca09498a255c7f3e418913ca06d60be",
+      "suite": "complex_human",
+      "timeline_fingerprint": "ce2f3cbebcd35a0c1f1b363028295c5dcf6fb126baa7fe303b0de69258f0523e"
+    },
+    "complex_human:c005_self_worth_perfectionism_burnout": {
+      "case_id": "c005_self_worth_perfectionism_burnout",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "harsh_self_criticism",
+        "perfectionism",
+        "self_worth_instability"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7321,
+        "patterns": 0.4286,
+        "scenario": 0.8667,
+        "strategy": 0.75,
+        "timeline": 0.9333
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "3d5528bfef0d23280a2c2089bc4ec5a173e4ea0cd8a417379a7a4c20915f8970",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "complex_human",
+      "timeline_fingerprint": "a8d6c13cfe13e1a9e1b43e5851fb8c8dd64e9340539f4df6cab1a77571ed4330"
+    },
+    "complex_human:c006_low_mood_anhedonia_withdrawal": {
+      "case_id": "c006_low_mood_anhedonia_withdrawal",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "low-mood-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "anhedonia_signal",
+        "depressed_mood_signal",
+        "social_disconnection_signal",
+        "social_withdrawal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7292,
+        "patterns": 0.6667,
+        "scenario": 0.8667,
+        "strategy": 0.75,
+        "timeline": 0.9333
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "4a0868ffc8cdd847761bc60e76728ffab931d2bb6df07584b39a1c266941b50c",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "0af48595a8c91ad8ec18efad39e14ce16f7b47a64e8c816b0b9ef339e8cf60fc",
+      "suite": "complex_human",
+      "timeline_fingerprint": "18b3e09a4e40c21d7da33fc836e86aa4ff3d989257fbb231fe75154e1ebc53dc"
+    },
+    "complex_human:c007_trauma_hypervigilance_control": {
+      "case_id": "c007_trauma_hypervigilance_control",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "fear_of_losing_control",
+        "panic_reactivity"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.625,
+        "patterns": 0.25,
+        "scenario": 0.65,
+        "strategy": 0.65,
+        "timeline": 0.7667
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "selected_modules": [
+        "anxiety-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "complex_human",
+      "timeline_fingerprint": "f2317327857877a8f99275d233d25272cd57c8d463bae97a666c8a6f97496bd0"
+    },
+    "complex_human:c008_shame_self_criticism_relationships": {
+      "case_id": "c008_shame_self_criticism_relationships",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "harsh_self_criticism",
+        "shame_sensitivity",
+        "trust_difficulty",
+        "unworthiness_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7262,
+        "patterns": 0.5714,
+        "scenario": 0.7333,
+        "strategy": 0.7333,
+        "timeline": 0.8
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "c2ee01fb02b2c85a669e3217362948a004af6e7bb09d4637cfa61664b961f291",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ff43ca6a780b5e261ba7bcc117b3ecb2fca09498a255c7f3e418913ca06d60be",
+      "suite": "complex_human",
+      "timeline_fingerprint": "c858de0f88fbb8a8d141df9694b764e2cdcbb128f538a722d9c2f7042b73c517"
+    },
+    "complex_human:c009_grief_meaning_identity": {
+      "case_id": "c009_grief_meaning_identity",
+      "completed_modules": [
+        "big-five-short",
+        "grief-loss-short",
+        "trauma-stress-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "bereavement_context",
+        "grief_signal",
+        "identity_confusion",
+        "inner_conflict",
+        "loss_of_meaning",
+        "search_for_self_understanding"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7411,
+        "patterns": 0.7143,
+        "scenario": 0.7333,
+        "strategy": 0.7,
+        "timeline": 0.8333
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "3ac920b94fb45d71922cfec757eca153048435430895716ad8633cc3aa682ff2",
+      "selected_modules": [
+        "meaning-purpose-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "5d9e77d4fa2fc7b708e3b1e7e1d906b961e28cd389f2e552b460c47fea3bbf45",
+      "suite": "complex_human",
+      "timeline_fingerprint": "2c303b45253e0e9fa4155a2c928906b25df1c994ad12e418857ceeac4df144ca"
+    },
+    "complex_human:c010_emotion_suppression_overwhelm_flexibility": {
+      "case_id": "c010_emotion_suppression_overwhelm_flexibility",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "control_resistance",
+        "emotional_avoidance",
+        "emotional_overwhelm",
+        "emotional_suppression",
+        "mental_overcontrol"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.6667,
+        "scenario": 0.8,
+        "strategy": 0.8333,
+        "timeline": 0.9333
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "ccb8615864a19e0a6be5f5404575d36a954da53a9462fd1c1625632d5888a071",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "cognitive-patterns-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "29d59a5ee5cfaa9df4d82694dd8ac6afd345272035bdb91e9315404d43269e8b",
+      "suite": "complex_human",
+      "timeline_fingerprint": "205abebf7f0bf4c281f8acd612e32d9be753d05dbd5e96bd60b63a9533f6fe2e"
+    },
+    "complex_human:c011_belonging_rejection_attachment": {
+      "case_id": "c011_belonging_rejection_attachment",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "anxiety-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "self_worth_instability",
+        "social_disconnection_signal",
+        "unworthiness_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.75,
+        "patterns": 0.3333,
+        "scenario": 0.8333,
+        "strategy": 0.7333,
+        "timeline": 0.8667
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "55d86171ec3739444e35852b8f74bb8e33535f87c2fa2acd3f67a03f8ba7a728",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "8bd1fb078f0b4190af624f3bc215ebb7af05b2d5a9066b52ca2db0d54bf2892a",
+      "suite": "complex_human",
+      "timeline_fingerprint": "7f00fe94d514cd7e7ad50545c4b37cf005114ce5e853efda991033074bc60613"
+    },
+    "complex_human:c012_values_identity_work_mismatch": {
+      "case_id": "c012_values_identity_work_mismatch",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "identity_confusion",
+        "loss_of_meaning",
+        "search_for_self_understanding"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7083,
+        "patterns": 0.5,
+        "scenario": 0.7333,
+        "strategy": 0.7333,
+        "timeline": 0.8
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "844902019ec4ad94d79e083883132bde0048c530b9babc79fd39288eea9b5f90",
+      "selected_modules": [
+        "meaning-purpose-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "35ddde8ae2d5b60ea3ec25d248ed1a4d742197f31d690ae5b89202753c0403b6",
+      "suite": "complex_human",
+      "timeline_fingerprint": "6c100e288a2b83e01aed233b5f29b5a509be0d1aa7b35934eab5b6594acf68cb"
+    },
+    "complex_human:c013_grief_abandonment_relationships": {
+      "case_id": "c013_grief_abandonment_relationships",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "anxiety-short",
+        "grief-loss-short"
+      ],
+      "detected_patterns": [
+        "grief_signal",
+        "trust_difficulty"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7381,
+        "patterns": 0.2857,
+        "scenario": 0.9,
+        "strategy": 0.7333,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "self_domain",
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "8b1e92c0cb256b9efe54505b80c3894601c79a8acb67ffe12dd80183c814ab2e",
+      "selected_modules": [
+        "relationships-domain-short",
+        "self-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "e71b148b945186c3789dfa8431d8b50bf168e7743d847d72fc58426ad528ccc4",
+      "suite": "complex_human",
+      "timeline_fingerprint": "7e9d453d2d2e471d3be223d1f62c1d7a6f116c84451195d27d8465e2449fbd20"
+    },
+    "complex_human:c014_low_mood_hopelessness_meaning": {
+      "case_id": "c014_low_mood_hopelessness_meaning",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "low-mood-short",
+        "meaning-purpose-short"
+      ],
+      "detected_patterns": [
+        "anhedonia_signal",
+        "depressed_mood_signal",
+        "hopelessness_signal",
+        "identity_confusion",
+        "loss_of_meaning"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.6667,
+        "patterns": 0.6667,
+        "scenario": 0.7,
+        "strategy": 0.65,
+        "timeline": 0.8333
+      },
+      "missing_domains": [
+        "self_domain",
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "6a965dcc391bafafbde973cf418a6a98c6bc612a133206d882cd63bf40a8f382",
+      "selected_modules": [
+        "cognitive-patterns-domain-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "strategy_fingerprint": "130b3cff848d36f33cc0708a245844e8fb6a09a00cfe079cc342300f4ed9b4fc",
+      "suite": "complex_human",
+      "timeline_fingerprint": "43cc7201b4acc56c56704392e35601d17c2025ded9bfa82cc769882035519cfb"
+    },
+    "complex_human:c015_anxiety_panic_body_sensitivity": {
+      "case_id": "c015_anxiety_panic_body_sensitivity",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "anxiety-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "fear_of_losing_control",
+        "panic_reactivity",
+        "rumination"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7113,
+        "patterns": 0.4286,
+        "scenario": 0.8667,
+        "strategy": 0.6667,
+        "timeline": 0.8
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "05625d28c81b87f8172632b9f17ce888ec0d2ce085cd69d5ff176a0a60b1fb46",
+      "selected_modules": [
+        "cognitive-patterns-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "b0b820150c7b2142d63ede5bb68b140c1f491e2f927fb17f9700a027cba1b3a6",
+      "suite": "complex_human",
+      "timeline_fingerprint": "d93fa8eeb976415a43814df2d0aa16140cd672fe392a78515add1b6a998b1737"
+    },
+    "complex_human:c016_shame_guilt_grief": {
+      "case_id": "c016_shame_guilt_grief",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "grief-loss-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "grief_signal",
+        "shame_sensitivity"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.6548,
+        "patterns": 0.2857,
+        "scenario": 0.6667,
+        "strategy": 0.7333,
+        "timeline": 0.7
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "9f740405ac30c67757ff5e1ff97e1766176787a577252e71590104af7150689e",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "f5fee8c1e33d989bbab398f9db59bc257cc554a56f3246d6fff2a0e9e550b9af",
+      "suite": "complex_human",
+      "timeline_fingerprint": "ce04c059788a1c325ebc9b5848d046de091fd4901d80f94f84fc91513849bfa9"
+    },
+    "complex_human:c017_identity_belonging_withdrawal": {
+      "case_id": "c017_identity_belonging_withdrawal",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "identity_confusion",
+        "rejection_sensitivity",
+        "social_disconnection_signal",
+        "social_withdrawal",
+        "unworthiness_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.75,
+        "patterns": 0.6667,
+        "scenario": 0.9,
+        "strategy": 0.6667,
+        "timeline": 0.8667
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "3cf97bed02deb91180045ccf86d1063f4a267d202e553680cc38f004e26f40fb",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "emotional-flexibility-domain-short",
+        "cognitive-patterns-domain-short",
+        "values-identity-domain-short"
+      ],
+      "strategy_fingerprint": "b5ed010c49acaa9da5a700ec9e949a358d7cc25afd5e08a3281a4333c7fb9be7",
+      "suite": "complex_human",
+      "timeline_fingerprint": "b6ee110792472157a7e6ab0950aa49c1d7f65cb1ea39d31c111010e352fac8a3"
+    },
+    "complex_human:c018_control_surrender_session_concerns": {
+      "case_id": "c018_control_surrender_session_concerns",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "psychedelic-concern-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "control_resistance",
+        "psychedelic_anxiety"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.5714,
+        "patterns": 0.2857,
+        "scenario": 0.7,
+        "strategy": 0.7667,
+        "timeline": 0.8
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "relationships-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "1679c56b9ab252b62ad88803bd3df930297ebd9020ce95019b5598cdda62d20b",
+      "suite": "complex_human",
+      "timeline_fingerprint": "8c660b10678ba19104647d4fc49685d5b5c41854e0393a6e24d7b4913d28c0f1"
+    },
+    "complex_human:c019_chronic_pain_fatigue_mood": {
+      "case_id": "c019_chronic_pain_fatigue_mood",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "low-mood-short"
+      ],
+      "detected_patterns": [
+        "anhedonia_signal",
+        "chronic_pain_burden",
+        "depressed_mood_signal",
+        "frustration_with_medical_system"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7262,
+        "patterns": 0.5714,
+        "scenario": 0.7,
+        "strategy": 0.8667,
+        "timeline": 0.8
+      },
+      "missing_domains": [
+        "self_domain",
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "b7bfd4c688afd83295be0bd6a8124df8826159484ed3af9c4794d44c93548f87",
+      "selected_modules": [
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "28ac5e43bc9a4439ec47dd5120b910d2214a6b64c8b628ae9b194ad04dd174e8",
+      "suite": "complex_human",
+      "timeline_fingerprint": "67ec7f4e299f8883cd363e92cdf3681dafad9c9584a82130b008d646746f1eba"
+    },
+    "complex_human:c020_people_pleasing_boundaries_resentment": {
+      "case_id": "c020_people_pleasing_boundaries_resentment",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "inner_conflict",
+        "trust_difficulty"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.5357,
+        "patterns": 0.1429,
+        "scenario": 0.9,
+        "strategy": 0.6667,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "23ec521d6a53fcdb0d65311186af1f81bcd26533ab21205112488cc20c0b9a06",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "complex_human",
+      "timeline_fingerprint": "51bede4477c20994b301f4fed1ffbf3e9f6a3bf34a7a9b4f44ae2506f021765b"
+    },
+    "complex_human:c021_rumination_sleep_anxiety": {
+      "case_id": "c021_rumination_sleep_anxiety",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "anxiety-short",
+        "sleep-short"
+      ],
+      "detected_patterns": [
+        "insomnia_signal",
+        "rumination"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.6667,
+        "patterns": 0.3333,
+        "scenario": 0.7,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "self_domain",
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "f0205dae0c17f6498a54dcd9fda2da7be52768e4dc4e087d16b86f55a4d05c28",
+      "selected_modules": [
+        "cognitive-patterns-domain-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "strategy_fingerprint": "e92861581db6bd9916238789584c75142d2deb1ca3007d2cbc4b4a7b8061136b",
+      "suite": "complex_human",
+      "timeline_fingerprint": "046e093348a070cbd08f3d9062bcacc1779823b7d16450267b8443a0833a4d9a"
+    },
+    "complex_human:c022_avoidance_numbness_flexibility": {
+      "case_id": "c022_avoidance_numbness_flexibility",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "control_resistance",
+        "emotional_avoidance"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.75,
+        "patterns": 0.3333,
+        "scenario": 0.7,
+        "strategy": 0.8333,
+        "timeline": 0.8
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "f1ea5b9d6e4ee312ad101091a66e1bc2c419c7c1fe4777917587910e61714f8c",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "8010c2b8a59f4b34e42f5c8cc23fd5208211513acb200797d093a55dbf9407aa",
+      "suite": "complex_human",
+      "timeline_fingerprint": "b161c8d31d1c2362c03788e319e08ff18f995cf6c2848cc017c891330652bb47"
+    },
+    "complex_human:c023_meaning_spiritual_integration": {
+      "case_id": "c023_meaning_spiritual_integration",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "meaning-purpose-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "integration_need",
+        "loss_of_meaning",
+        "search_for_self_understanding"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.625,
+        "patterns": 0.5,
+        "scenario": 0.7,
+        "strategy": 0.6667,
+        "timeline": 0.7
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "c57ee8ecb9eb483f0f660cd2ad3c15617b64f82e40543ff25812de648204502d",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "3d2b3d8b600b74b3c2b25d8d015ae4923f86092353731a9e53b6c0b8c7b50d2d",
+      "suite": "complex_human",
+      "timeline_fingerprint": "b4c3d1b6d0fae5b22d5d274b32228b730bbdf470aec28b3b5af4115e0f0be8c7"
+    },
+    "complex_human:c024_perfectionism_control_emotion_regulation": {
+      "case_id": "c024_perfectionism_control_emotion_regulation",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "control_resistance",
+        "mental_overcontrol",
+        "perfectionism"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7738,
+        "patterns": 0.4286,
+        "scenario": 0.8,
+        "strategy": 0.9,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "f011e930d5d88a351a963a47e9119659b59996dff59fda73a43ec98d5a6d7d00",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "cognitive-patterns-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "275166f19f8e7b9fb187dd081a704ca7ba8b934fd435616f61670c6c162cc7cb",
+      "suite": "complex_human",
+      "timeline_fingerprint": "e3f657fcf0958d0f105dd35c580bbb40149a652f61c718bb95a0051827eec3af"
+    },
+    "complex_human:c025_grief_mood_disconnection": {
+      "case_id": "c025_grief_mood_disconnection",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "low-mood-short",
+        "grief-loss-short"
+      ],
+      "detected_patterns": [
+        "anhedonia_signal",
+        "depressed_mood_signal",
+        "grief_signal",
+        "self_worth_instability",
+        "social_disconnection_signal",
+        "social_withdrawal",
+        "unworthiness_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.6786,
+        "patterns": 0.7143,
+        "scenario": 0.8,
+        "strategy": 0.7,
+        "timeline": 0.9333
+      },
+      "missing_domains": [
+        "self_domain",
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "97fba146dcf665aad8971800662a4468bc288b1bb22e1b2b182af432584dda7f",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "relationships-domain-short",
+        "self-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "strategy_fingerprint": "48efcfd2c6055ea47a3cec9a399ff42d9beeb7569d78c51f9be68ce5e126a20f",
+      "suite": "complex_human",
+      "timeline_fingerprint": "7319a519827780f3bd3bd04124fa797619cad63dcf9c09e635178b3a5cdbdef9"
+    },
+    "complex_human:c026_attachment_rejection_self_criticism": {
+      "case_id": "c026_attachment_rejection_self_criticism",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "anxiety-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "harsh_self_criticism",
+        "unworthiness_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.75,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.7333,
+        "timeline": 0.7
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "e0d858109fab7f5bd76a4b39a62114f77889a6e56ef2093a1150f76c02dc063c",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "suite": "complex_human",
+      "timeline_fingerprint": "f03b66960c4c13196c0cd5edac07e0ad3528579cf5d69619fc88b240682c7c1c"
+    },
+    "complex_human:c027_life_transition_inner_conflict": {
+      "case_id": "c027_life_transition_inner_conflict",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "identity_confusion",
+        "inner_conflict",
+        "search_for_self_understanding"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7083,
+        "patterns": 0.5,
+        "scenario": 0.8,
+        "strategy": 0.7333,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "d2fbaae06f831ec9f8881023f85faf00f6c14eac37e9534b8aef26852906689f",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short",
+        "values-identity-domain-short"
+      ],
+      "strategy_fingerprint": "f3c42ffe6cd7a43124d7abfd4fe962db758ed11cf316b2e60e4b39a2a21cf319",
+      "suite": "complex_human",
+      "timeline_fingerprint": "7592ba54d62924160da6d0e8124398d8cddacb6ccc99aedbb25a7c57711a3839"
+    },
+    "complex_human:c028_speech_anxiety_visibility_shame": {
+      "case_id": "c028_speech_anxiety_visibility_shame",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "anxiety-short",
+        "speech-anxiety-short"
+      ],
+      "detected_patterns": [
+        "communication_avoidance",
+        "fear_of_speaking",
+        "loss_of_control_in_speech"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.6071,
+        "patterns": 0.4286,
+        "scenario": 0.6667,
+        "strategy": 0.6667,
+        "timeline": 0.8333
+      },
+      "missing_domains": [
+        "self_domain",
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "62f846f42ce6d6b551ca81ac05314e6d2310c4d6bc4147823306e78cbbccfa2d",
+      "selected_modules": [
+        "self-domain-short",
+        "emotional-flexibility-domain-short",
+        "cognitive-patterns-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "824aa49fa95abec137f8ddef15225393afc726e46522e64a3a1f0316ffc1390f",
+      "suite": "complex_human",
+      "timeline_fingerprint": "f182d5e7fdf87626200078ecb9db83fd295dd0b91bde72c7ac62198e2ea304d5"
+    },
+    "complex_human:c029_substance_control_meaning_void": {
+      "case_id": "c029_substance_control_meaning_void",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "substance-use-short",
+        "meaning-purpose-short"
+      ],
+      "detected_patterns": [
+        "addiction_concern_signal",
+        "control_resistance",
+        "loss_of_meaning"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7083,
+        "patterns": 0.3333,
+        "scenario": 0.7333,
+        "strategy": 0.8,
+        "timeline": 0.8333
+      },
+      "missing_domains": [
+        "self_domain",
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "6a965dcc391bafafbde973cf418a6a98c6bc612a133206d882cd63bf40a8f382",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "aaecba43d3d67b2329a926b09fe872ab2da26edd4f18d6c0f1c5b8d951abbe40",
+      "suite": "complex_human",
+      "timeline_fingerprint": "7336deb2c2fe4472dfaa1b12ee30a4ba01a574ce553b1948613e7549a2a352d8"
+    },
+    "complex_human:c030_existential_fear_safety_meaning": {
+      "case_id": "c030_existential_fear_safety_meaning",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "anxiety-short",
+        "meaning-purpose-short"
+      ],
+      "detected_patterns": [
+        "fear_of_death",
+        "hopelessness_signal",
+        "loss_of_meaning",
+        "panic_reactivity",
+        "social_disconnection_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.622,
+        "patterns": 0.5714,
+        "scenario": 0.6667,
+        "strategy": 0.65,
+        "timeline": 0.9333
+      },
+      "missing_domains": [
+        "self_domain",
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "1aa754b2be2d3cf60a6cb7b47b35291160ca8d164584878faf3100b396ff7d00",
+      "selected_modules": [
+        "low-mood-short",
+        "self-domain-short",
+        "cognitive-patterns-domain-short",
+        "relationships-domain-short"
+      ],
+      "strategy_fingerprint": "21b08c80317442da6b6cabeaa955529a750593f1eddae699051ddc6878262120",
+      "suite": "complex_human",
+      "timeline_fingerprint": "bfac06cae851fef697ed1fd5f42414725287c5d9ee06c5d05f86b2caaa9791aa"
+    },
+    "multilingual:consistency_anxiety": {
+      "case_id": "consistency_anxiety",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "anxiety-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "control_resistance",
+        "fear_of_losing_control",
+        "panic_reactivity"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.75,
+        "patterns": 1.0,
+        "scenario": 0.8,
+        "strategy": 0.7,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "relationships-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "1f6fc210b5c69950e21cf1c9f0957e497a0022fd97f65c8a65e566a36f44a071",
+      "suite": "multilingual",
+      "timeline_fingerprint": "ef4dcb4dbe0fa9715b861ab81fc063db38c8e6e07e862eeef46b868478194515"
+    },
+    "multilingual:consistency_anxiety:de": {
+      "case_id": "consistency_anxiety",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "control_resistance",
+        "fear_of_losing_control",
+        "panic_reactivity"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 1.0,
+        "patterns": 1.0,
+        "scenario": 0.8,
+        "strategy": 0.7,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "selected_modules": [
+        "anxiety-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "275166f19f8e7b9fb187dd081a704ca7ba8b934fd435616f61670c6c162cc7cb",
+      "suite": "multilingual",
+      "timeline_fingerprint": "ef4dcb4dbe0fa9715b861ab81fc063db38c8e6e07e862eeef46b868478194515"
+    },
+    "multilingual:consistency_anxiety:es": {
+      "case_id": "consistency_anxiety",
+      "completed_modules": [
+        "big-five-short",
+        "anxiety-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "control_resistance",
+        "fear_of_losing_control",
+        "panic_reactivity"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.75,
+        "patterns": 1.0,
+        "scenario": 0.8,
+        "strategy": 0.7,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "275166f19f8e7b9fb187dd081a704ca7ba8b934fd435616f61670c6c162cc7cb",
+      "suite": "multilingual",
+      "timeline_fingerprint": "ef4dcb4dbe0fa9715b861ab81fc063db38c8e6e07e862eeef46b868478194515"
+    },
+    "multilingual:consistency_anxiety:uk": {
+      "case_id": "consistency_anxiety",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "control_resistance",
+        "fear_of_losing_control",
+        "panic_reactivity"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 1.0,
+        "patterns": 1.0,
+        "scenario": 0.8,
+        "strategy": 0.7,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "selected_modules": [
+        "anxiety-short",
+        "emotional-flexibility-domain-short",
+        "relationships-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "1f6fc210b5c69950e21cf1c9f0957e497a0022fd97f65c8a65e566a36f44a071",
+      "suite": "multilingual",
+      "timeline_fingerprint": "ef4dcb4dbe0fa9715b861ab81fc063db38c8e6e07e862eeef46b868478194515"
+    },
+    "multilingual:consistency_belonging": {
+      "case_id": "consistency_belonging",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "social_disconnection_signal",
+        "unworthiness_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.6667,
+        "patterns": 0.6667,
+        "scenario": 0.9,
+        "strategy": 0.7,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "7d439f5de4d0bbf907be208d4d84ecd1a99eaada86a5230296efae8a424452de",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "a6677bb34a45124af537ce7faf99defd55c16b0e7d11e94b1c638b782b81579d"
+    },
+    "multilingual:consistency_belonging:de": {
+      "case_id": "consistency_belonging",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "social_disconnection_signal",
+        "unworthiness_signal"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 0.6667,
+        "patterns": 0.6667,
+        "scenario": 0.9,
+        "strategy": 0.7,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "7d439f5de4d0bbf907be208d4d84ecd1a99eaada86a5230296efae8a424452de",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "a6677bb34a45124af537ce7faf99defd55c16b0e7d11e94b1c638b782b81579d"
+    },
+    "multilingual:consistency_belonging:es": {
+      "case_id": "consistency_belonging",
+      "completed_modules": [
+        "big-five-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "detected_patterns": [
+        "social_disconnection_signal",
+        "unworthiness_signal"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.6667,
+        "patterns": 0.6667,
+        "scenario": 0.9,
+        "strategy": 0.7,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "a227ff9c05b544ef677cc3e477227223ba287e85f3df6c8ff76bfcde32ce1758",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "suite": "multilingual",
+      "timeline_fingerprint": "a6677bb34a45124af537ce7faf99defd55c16b0e7d11e94b1c638b782b81579d"
+    },
+    "multilingual:consistency_belonging:uk": {
+      "case_id": "consistency_belonging",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "social_disconnection_signal",
+        "unworthiness_signal"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.7917,
+        "patterns": 0.6667,
+        "scenario": 0.9,
+        "strategy": 0.8,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "e9ac4c21de6ab598392dc742af58fc4c33f372db58729223f22d219bbc3df58d",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "8bd1fb078f0b4190af624f3bc215ebb7af05b2d5a9066b52ca2db0d54bf2892a",
+      "suite": "multilingual",
+      "timeline_fingerprint": "a6677bb34a45124af537ce7faf99defd55c16b0e7d11e94b1c638b782b81579d"
+    },
+    "multilingual:consistency_cognitive": {
+      "case_id": "consistency_cognitive",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "rumination"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 1.0,
+        "strategy": 0.6,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "740ee1dbc771844841e1a2730ba2ae914272a1401d901c9bf54829de91e2732b",
+      "selected_modules": [
+        "cognitive-patterns-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "1cbe8c7f279feeca3afdef4f8cf0183f14e561f19ecba1e787c9fd113b68b2a4",
+      "suite": "multilingual",
+      "timeline_fingerprint": "787d257e79e083e87cf4132141921101683e991b61559638562d77318ae13169"
+    },
+    "multilingual:consistency_cognitive:de": {
+      "case_id": "consistency_cognitive",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "rumination"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 1.0,
+        "strategy": 0.6,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "740ee1dbc771844841e1a2730ba2ae914272a1401d901c9bf54829de91e2732b",
+      "selected_modules": [
+        "cognitive-patterns-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "1cbe8c7f279feeca3afdef4f8cf0183f14e561f19ecba1e787c9fd113b68b2a4",
+      "suite": "multilingual",
+      "timeline_fingerprint": "787d257e79e083e87cf4132141921101683e991b61559638562d77318ae13169"
+    },
+    "multilingual:consistency_cognitive:es": {
+      "case_id": "consistency_cognitive",
+      "completed_modules": [
+        "big-five-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "detected_patterns": [
+        "rumination"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 1.0,
+        "strategy": 0.6,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "7856e7c436999b8a8c2d0b8ab10754f7d5091cf9f61337a16ed45cb97c86ea66",
+      "selected_modules": [
+        "cognitive-patterns-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "4efd95fc5c410764ae3df9825f3f53bb40009020fc94732a39201362f60d671a",
+      "suite": "multilingual",
+      "timeline_fingerprint": "787d257e79e083e87cf4132141921101683e991b61559638562d77318ae13169"
+    },
+    "multilingual:consistency_cognitive:uk": {
+      "case_id": "consistency_cognitive",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "compulsive_use_signal",
+        "loss_of_control_over_use",
+        "mental_overcontrol"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "selected_modules": [
+        "cognitive-patterns-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "suite": "multilingual",
+      "timeline_fingerprint": "5215bf82eea474495e47887924cd5cbae429823d37ec1a4cc2d6fce05789e7df"
+    },
+    "multilingual:consistency_emotion_regulation": {
+      "case_id": "consistency_emotion_regulation",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "emotional_suppression"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 1.0,
+        "strategy": 0.8,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "ccb8615864a19e0a6be5f5404575d36a954da53a9462fd1c1625632d5888a071",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "emotional-flexibility-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "53fdd00594ad8348d581a3fd61b5c5c0bcb9145e802fdbf5ecc3c3e0d55b9f14",
+      "suite": "multilingual",
+      "timeline_fingerprint": "635b4ce53bc0225f606d8d35772dda456466eef06785f57fd8cf787545603849"
+    },
+    "multilingual:consistency_emotion_regulation:de": {
+      "case_id": "consistency_emotion_regulation",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "emotional_suppression"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 1.0,
+        "strategy": 0.8,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "ccb8615864a19e0a6be5f5404575d36a954da53a9462fd1c1625632d5888a071",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "emotional-flexibility-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "53fdd00594ad8348d581a3fd61b5c5c0bcb9145e802fdbf5ecc3c3e0d55b9f14",
+      "suite": "multilingual",
+      "timeline_fingerprint": "635b4ce53bc0225f606d8d35772dda456466eef06785f57fd8cf787545603849"
+    },
+    "multilingual:consistency_emotion_regulation:es": {
+      "case_id": "consistency_emotion_regulation",
+      "completed_modules": [
+        "big-five-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "detected_patterns": [
+        "emotional_suppression"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 1.0,
+        "strategy": 0.8,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "b73d0366fb8495d49a370d56bded1677bc897ce6a6b899a24e27970937eb5d26",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "41c3602419eb9aeed3de88222522478e81a1083996ab3b84b8d3d7bf263c9412",
+      "suite": "multilingual",
+      "timeline_fingerprint": "635b4ce53bc0225f606d8d35772dda456466eef06785f57fd8cf787545603849"
+    },
+    "multilingual:consistency_emotion_regulation:uk": {
+      "case_id": "consistency_emotion_regulation",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "mental_overcontrol"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "selected_modules": [
+        "cognitive-patterns-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "suite": "multilingual",
+      "timeline_fingerprint": "df940dfa05090250a579703c581579faaf6637234784111198d129a0ee7a0770"
+    },
+    "multilingual:consistency_flexibility": {
+      "case_id": "consistency_flexibility",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "emotional_avoidance",
+        "emotional_overwhelm"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.875,
+        "patterns": 0.5,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "f1ea5b9d6e4ee312ad101091a66e1bc2c419c7c1fe4777917587910e61714f8c",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "53fdd00594ad8348d581a3fd61b5c5c0bcb9145e802fdbf5ecc3c3e0d55b9f14",
+      "suite": "multilingual",
+      "timeline_fingerprint": "1d64b1f62bebffdcf2932cf24f83dc52526ca1feea625d621b9c153fb5225c56"
+    },
+    "multilingual:consistency_flexibility:de": {
+      "case_id": "consistency_flexibility",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "emotional_avoidance",
+        "emotional_overwhelm"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 0.875,
+        "patterns": 0.5,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "f1ea5b9d6e4ee312ad101091a66e1bc2c419c7c1fe4777917587910e61714f8c",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "53fdd00594ad8348d581a3fd61b5c5c0bcb9145e802fdbf5ecc3c3e0d55b9f14",
+      "suite": "multilingual",
+      "timeline_fingerprint": "1d64b1f62bebffdcf2932cf24f83dc52526ca1feea625d621b9c153fb5225c56"
+    },
+    "multilingual:consistency_flexibility:es": {
+      "case_id": "consistency_flexibility",
+      "completed_modules": [
+        "big-five-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "detected_patterns": [
+        "emotional_avoidance",
+        "emotional_overwhelm"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.75,
+        "patterns": 0.5,
+        "scenario": 0.8,
+        "strategy": 0.7,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "d329f9b5e0e8846cb833942995dbd36f3d52526fc3711ae188efccb10fab31f2",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "41c3602419eb9aeed3de88222522478e81a1083996ab3b84b8d3d7bf263c9412",
+      "suite": "multilingual",
+      "timeline_fingerprint": "1d64b1f62bebffdcf2932cf24f83dc52526ca1feea625d621b9c153fb5225c56"
+    },
+    "multilingual:consistency_flexibility:uk": {
+      "case_id": "consistency_flexibility",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "control_resistance"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.8125,
+        "patterns": 0.25,
+        "scenario": 0.8,
+        "strategy": 0.9,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "relationships-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "1f6fc210b5c69950e21cf1c9f0957e497a0022fd97f65c8a65e566a36f44a071",
+      "suite": "multilingual",
+      "timeline_fingerprint": "63b9af532dda41ba364eee591ba5a043eedf60f39492093ed4068f09a9096187"
+    },
+    "multilingual:consistency_grief": {
+      "case_id": "consistency_grief",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "bereavement_context",
+        "grief_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.9167,
+        "patterns": 0.6667,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "selected_modules": [
+        "grief-loss-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "dff0004d6ba0faa464e78a92008c22f44995635a1df186e4ccd45554225b941b"
+    },
+    "multilingual:consistency_grief:de": {
+      "case_id": "consistency_grief",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "bereavement_context",
+        "grief_signal"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 0.9167,
+        "patterns": 0.6667,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "selected_modules": [
+        "grief-loss-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "dff0004d6ba0faa464e78a92008c22f44995635a1df186e4ccd45554225b941b"
+    },
+    "multilingual:consistency_grief:es": {
+      "case_id": "consistency_grief",
+      "completed_modules": [
+        "big-five-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "detected_patterns": [
+        "grief_signal"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "0059d90789f7d196343fb828bd75c57fa88e11d3952e5641371f27586d046419",
+      "selected_modules": [
+        "grief-loss-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "suite": "multilingual",
+      "timeline_fingerprint": "779b0c38035b90e2c2afac460c158e4b0ed730bef603814bd196d6af6ce084a3"
+    },
+    "multilingual:consistency_grief:uk": {
+      "case_id": "consistency_grief",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "grief-loss-short"
+      ],
+      "detected_patterns": [
+        "bereavement_context",
+        "grief_signal",
+        "loss_related_distress"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.75,
+        "patterns": 1.0,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "self_domain",
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "b72b5a797f50b7c732b422d1043c1c5fbbb5baf2c8c25f34725e12288d128232",
+      "selected_modules": [
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "e71b148b945186c3789dfa8431d8b50bf168e7743d847d72fc58426ad528ccc4",
+      "suite": "multilingual",
+      "timeline_fingerprint": "351d86557a335df393cccd68665bbe83863e4c82703953f454a010b294f2c509"
+    },
+    "multilingual:consistency_low_mood": {
+      "case_id": "consistency_low_mood",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "anhedonia_signal",
+        "depressed_mood_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.9167,
+        "patterns": 0.6667,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "selected_modules": [
+        "low-mood-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "f6cc02fbd5ba2084ff2527de86b0e05bbd8a1fda72a74eec791ff58d7f57474d"
+    },
+    "multilingual:consistency_low_mood:de": {
+      "case_id": "consistency_low_mood",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "anhedonia_signal",
+        "depressed_mood_signal"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 0.9167,
+        "patterns": 0.6667,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "selected_modules": [
+        "low-mood-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "f6cc02fbd5ba2084ff2527de86b0e05bbd8a1fda72a74eec791ff58d7f57474d"
+    },
+    "multilingual:consistency_low_mood:es": {
+      "case_id": "consistency_low_mood",
+      "completed_modules": [
+        "big-five-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "detected_patterns": [
+        "anhedonia_signal",
+        "depressed_mood_signal"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.9167,
+        "patterns": 0.6667,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "0059d90789f7d196343fb828bd75c57fa88e11d3952e5641371f27586d046419",
+      "selected_modules": [
+        "low-mood-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "suite": "multilingual",
+      "timeline_fingerprint": "f6cc02fbd5ba2084ff2527de86b0e05bbd8a1fda72a74eec791ff58d7f57474d"
+    },
+    "multilingual:consistency_low_mood:uk": {
+      "case_id": "consistency_low_mood",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "anhedonia_signal",
+        "depressed_mood_signal"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.9167,
+        "patterns": 0.6667,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "selected_modules": [
+        "low-mood-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "suite": "multilingual",
+      "timeline_fingerprint": "f6cc02fbd5ba2084ff2527de86b0e05bbd8a1fda72a74eec791ff58d7f57474d"
+    },
+    "multilingual:consistency_meaning": {
+      "case_id": "consistency_meaning",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "meaning-purpose-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "loss_of_meaning"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.4583,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "c57ee8ecb9eb483f0f660cd2ad3c15617b64f82e40543ff25812de648204502d",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "3d2b3d8b600b74b3c2b25d8d015ae4923f86092353731a9e53b6c0b8c7b50d2d",
+      "suite": "multilingual",
+      "timeline_fingerprint": "3c0ee8f4fddceeac76dc11049697d3c46a1ea37ee424218849471a3578dc2cb3"
+    },
+    "multilingual:consistency_meaning:de": {
+      "case_id": "consistency_meaning",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "loss_of_meaning"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 0.7083,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "4086ca66dec38ad593b9c38b666c2a7ea5f9d7dc21a17180eb34125c18ae2e9c",
+      "selected_modules": [
+        "meaning-purpose-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "0c5fcd83704220812bff4bf041102ccc6f089d9d3ccd776cf0bbe34e20eded73",
+      "suite": "multilingual",
+      "timeline_fingerprint": "3c0ee8f4fddceeac76dc11049697d3c46a1ea37ee424218849471a3578dc2cb3"
+    },
+    "multilingual:consistency_meaning:es": {
+      "case_id": "consistency_meaning",
+      "completed_modules": [
+        "big-five-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "detected_patterns": [
+        "loss_of_meaning"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.7083,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "77cb061b3bcf0f896bebe9f9c661e8a5a2d2e610342569cadc5f5e95ad5d06e5",
+      "selected_modules": [
+        "meaning-purpose-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "e7f20a1fc779835cd4d4906f10e4dd1bf52b0fd04824f89e6ba8ff8284c3d099",
+      "suite": "multilingual",
+      "timeline_fingerprint": "3c0ee8f4fddceeac76dc11049697d3c46a1ea37ee424218849471a3578dc2cb3"
+    },
+    "multilingual:consistency_meaning:uk": {
+      "case_id": "consistency_meaning",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "loss_of_meaning"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.7083,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "a1d90b0694af9d46d390378ccde4bb2923e9669eb27f549c9fc0d8e65b3b2ed6",
+      "selected_modules": [
+        "meaning-purpose-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "e25dd8ed1809316eecef9f722cbad3a21b1d2b334e441bab22e30c20fc662b41",
+      "suite": "multilingual",
+      "timeline_fingerprint": "3c0ee8f4fddceeac76dc11049697d3c46a1ea37ee424218849471a3578dc2cb3"
+    },
+    "multilingual:consistency_relationships": {
+      "case_id": "consistency_relationships",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "fear_of_rejection",
+        "trust_difficulty"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.625,
+        "patterns": 0.5,
+        "scenario": 1.0,
+        "strategy": 0.6,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "bab6bf5609932f92858caf386cec0b6a0ffcc5dc187f20278d0a49dbb9274e7b",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "fdcc57c21da1fdd792098b871493a56e473e53b9ba6b66c6c3d092486c16b062"
+    },
+    "multilingual:consistency_relationships:de": {
+      "case_id": "consistency_relationships",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "fear_of_rejection",
+        "trust_difficulty"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 0.625,
+        "patterns": 0.5,
+        "scenario": 1.0,
+        "strategy": 0.6,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "bab6bf5609932f92858caf386cec0b6a0ffcc5dc187f20278d0a49dbb9274e7b",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "fdcc57c21da1fdd792098b871493a56e473e53b9ba6b66c6c3d092486c16b062"
+    },
+    "multilingual:consistency_relationships:es": {
+      "case_id": "consistency_relationships",
+      "completed_modules": [
+        "big-five-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "detected_patterns": [
+        "trust_difficulty"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.5625,
+        "patterns": 0.25,
+        "scenario": 1.0,
+        "strategy": 0.6,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "362e953529b7ebbdafac408ac184c26168a5ada22a9a07dbc0d8ec090f2e7a9f",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "suite": "multilingual",
+      "timeline_fingerprint": "16be407c270b53d0be53690d6875222d739282b544f83fe4147ba27400d56da8"
+    },
+    "multilingual:consistency_relationships:uk": {
+      "case_id": "consistency_relationships",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "social_disconnection_signal",
+        "social_withdrawal",
+        "unworthiness_signal"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.875,
+        "patterns": 0.5,
+        "scenario": 0.9333,
+        "strategy": 0.8,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "4a0868ffc8cdd847761bc60e76728ffab931d2bb6df07584b39a1c266941b50c",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "8bd1fb078f0b4190af624f3bc215ebb7af05b2d5a9066b52ca2db0d54bf2892a",
+      "suite": "multilingual",
+      "timeline_fingerprint": "e95e6bcc8e7935624f09aa4c163884565a53fc177604032a74078d35fc68901d"
+    },
+    "multilingual:consistency_self": {
+      "case_id": "consistency_self",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "harsh_self_criticism",
+        "unworthiness_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.6667,
+        "patterns": 0.6667,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "f03b66960c4c13196c0cd5edac07e0ad3528579cf5d69619fc88b240682c7c1c"
+    },
+    "multilingual:consistency_self:de": {
+      "case_id": "consistency_self",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "harsh_self_criticism",
+        "unworthiness_signal"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 0.6667,
+        "patterns": 0.6667,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "f03b66960c4c13196c0cd5edac07e0ad3528579cf5d69619fc88b240682c7c1c"
+    },
+    "multilingual:consistency_self:es": {
+      "case_id": "consistency_self",
+      "completed_modules": [
+        "big-five-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "detected_patterns": [
+        "harsh_self_criticism",
+        "unworthiness_signal"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.6667,
+        "patterns": 0.6667,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "8cc8c4a28baecf6dc050a019606a29f773a95b0375c12e1f3589cfdb6bd914a0",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "suite": "multilingual",
+      "timeline_fingerprint": "f03b66960c4c13196c0cd5edac07e0ad3528579cf5d69619fc88b240682c7c1c"
+    },
+    "multilingual:consistency_self:uk": {
+      "case_id": "consistency_self",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "self_worth_instability",
+        "unworthiness_signal"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.6667,
+        "patterns": 0.6667,
+        "scenario": 0.9,
+        "strategy": 0.8,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "d302947e6798f7beb2faa26324ebc654b9eefe07463abf466980e54d070f966f",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "suite": "multilingual",
+      "timeline_fingerprint": "22513516b25748687896a8ad436a53ccffcc9a597de71a8887810dc30e20ec85"
+    },
+    "multilingual:consistency_shame": {
+      "case_id": "consistency_shame",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "shame_sensitivity"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.625,
+        "patterns": 0.5,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "d95d610f29ca9b793802068798c0fba0c4ca34a02f8c73306000d7f2e4a77daf"
+    },
+    "multilingual:consistency_shame:de": {
+      "case_id": "consistency_shame",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "shame_sensitivity"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 0.625,
+        "patterns": 0.5,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "multilingual",
+      "timeline_fingerprint": "d95d610f29ca9b793802068798c0fba0c4ca34a02f8c73306000d7f2e4a77daf"
+    },
+    "multilingual:consistency_shame:es": {
+      "case_id": "consistency_shame",
+      "completed_modules": [
+        "big-five-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "detected_patterns": [
+        "shame_sensitivity"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.625,
+        "patterns": 0.5,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "8cc8c4a28baecf6dc050a019606a29f773a95b0375c12e1f3589cfdb6bd914a0",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "suite": "multilingual",
+      "timeline_fingerprint": "d95d610f29ca9b793802068798c0fba0c4ca34a02f8c73306000d7f2e4a77daf"
+    },
+    "multilingual:consistency_shame:uk": {
+      "case_id": "consistency_shame",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "shame_after_vulnerability"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.625,
+        "patterns": 0.5,
+        "scenario": 0.8,
+        "strategy": 0.8,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "suite": "multilingual",
+      "timeline_fingerprint": "499ac302d0dd10255d28acf76321fb711ee4d3fb8471e91e742464a2de85e262"
+    },
+    "multilingual:consistency_values": {
+      "case_id": "consistency_values",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "identity_confusion"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "d2fbaae06f831ec9f8881023f85faf00f6c14eac37e9534b8aef26852906689f",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short",
+        "values-identity-domain-short"
+      ],
+      "strategy_fingerprint": "f3c42ffe6cd7a43124d7abfd4fe962db758ed11cf316b2e60e4b39a2a21cf319",
+      "suite": "multilingual",
+      "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
+    },
+    "multilingual:consistency_values:de": {
+      "case_id": "consistency_values",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "identity_confusion"
+      ],
+      "language": "de",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "d2fbaae06f831ec9f8881023f85faf00f6c14eac37e9534b8aef26852906689f",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short",
+        "values-identity-domain-short"
+      ],
+      "strategy_fingerprint": "f3c42ffe6cd7a43124d7abfd4fe962db758ed11cf316b2e60e4b39a2a21cf319",
+      "suite": "multilingual",
+      "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
+    },
+    "multilingual:consistency_values:es": {
+      "case_id": "consistency_values",
+      "completed_modules": [
+        "big-five-short",
+        "self-domain-short",
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short"
+      ],
+      "detected_patterns": [
+        "identity_confusion"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "f87ab783a921e0011331f4ea8b74ee9c4cecff72eff3fa960bb9822e2483e6d4",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short",
+        "values-identity-domain-short"
+      ],
+      "strategy_fingerprint": "33c11b4110c8d21feedbf3c7f5f26ba1a81274d5915504a5db040db11be96b51",
+      "suite": "multilingual",
+      "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
+    },
+    "multilingual:consistency_values:uk": {
+      "case_id": "consistency_values",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "pain-fatigue-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "identity_confusion"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.7083,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.6,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "d8c85d139e913217497aadd9e8e82bee90069dea9b0ab107a9a4659c84c96103",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "2dc60d76f505730794cf55be82eebf70ad74f5090fcf1fd5221277f11de31ae4",
+      "suite": "multilingual",
+      "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
+    },
+    "pattern_matrix:domain_anxiety_control": {
+      "case_id": "domain_anxiety_control",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "anxiety-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "control_resistance",
+        "fear_of_losing_control",
+        "panic_reactivity"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.9375,
+        "patterns": 0.75,
+        "scenario": 0.7,
+        "strategy": 0.6786,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "relationships-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "1f6fc210b5c69950e21cf1c9f0957e497a0022fd97f65c8a65e566a36f44a071",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "ef4dcb4dbe0fa9715b861ab81fc063db38c8e6e07e862eeef46b868478194515"
+    },
+    "pattern_matrix:domain_belonging": {
+      "case_id": "domain_belonging",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "social_disconnection_signal",
+        "unworthiness_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.9167,
+        "patterns": 0.6667,
+        "scenario": 0.85,
+        "strategy": 0.5857,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "7d439f5de4d0bbf907be208d4d84ecd1a99eaada86a5230296efae8a424452de",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "a6677bb34a45124af537ce7faf99defd55c16b0e7d11e94b1c638b782b81579d"
+    },
+    "pattern_matrix:domain_cognitive_patterns": {
+      "case_id": "domain_cognitive_patterns",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "mental_overcontrol",
+        "rumination"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.9167,
+        "patterns": 0.6667,
+        "scenario": 0.9,
+        "strategy": 0.5786,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "740ee1dbc771844841e1a2730ba2ae914272a1401d901c9bf54829de91e2732b",
+      "selected_modules": [
+        "cognitive-patterns-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "1cbe8c7f279feeca3afdef4f8cf0183f14e561f19ecba1e787c9fd113b68b2a4",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "797f1af98355f9bca2d6ff4ed1c5cb34d05906a3a734b6957df6fd3ec20f1b71"
+    },
+    "pattern_matrix:domain_emotion_regulation": {
+      "case_id": "domain_emotion_regulation",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "emotional_overwhelm",
+        "emotional_suppression"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 1.0,
+        "patterns": 1.0,
+        "scenario": 0.9,
+        "strategy": 0.5286,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "ccb8615864a19e0a6be5f5404575d36a954da53a9462fd1c1625632d5888a071",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "emotional-flexibility-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "53fdd00594ad8348d581a3fd61b5c5c0bcb9145e802fdbf5ecc3c3e0d55b9f14",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "a7ee6153dd6c115055cd39386ab191136bb448e7dead669fd623537700bffdb5"
+    },
+    "pattern_matrix:domain_emotional_flexibility": {
+      "case_id": "domain_emotional_flexibility",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "control_resistance",
+        "emotional_avoidance",
+        "emotional_overwhelm"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.875,
+        "patterns": 0.75,
+        "scenario": 0.8,
+        "strategy": 0.5786,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "f1ea5b9d6e4ee312ad101091a66e1bc2c419c7c1fe4777917587910e61714f8c",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "8010c2b8a59f4b34e42f5c8cc23fd5208211513acb200797d093a55dbf9407aa",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "84f3987ee86bd75ffded26cd377686ecdb08847840aba3f84815fcb65a127105"
+    },
+    "pattern_matrix:domain_grief_loss": {
+      "case_id": "domain_grief_loss",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "bereavement_context",
+        "grief_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.8542,
+        "patterns": 0.6667,
+        "scenario": 0.72,
+        "strategy": 0.5571,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "selected_modules": [
+        "grief-loss-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "dff0004d6ba0faa464e78a92008c22f44995635a1df186e4ccd45554225b941b"
+    },
+    "pattern_matrix:domain_low_mood": {
+      "case_id": "domain_low_mood",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "anhedonia_signal",
+        "depressed_mood_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7917,
+        "patterns": 0.6667,
+        "scenario": 0.75,
+        "strategy": 0.5286,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "selected_modules": [
+        "low-mood-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "f6cc02fbd5ba2084ff2527de86b0e05bbd8a1fda72a74eec791ff58d7f57474d"
+    },
+    "pattern_matrix:domain_meaning_purpose": {
+      "case_id": "domain_meaning_purpose",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "meaning-purpose-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "loss_of_meaning"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.6458,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.5571,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "c57ee8ecb9eb483f0f660cd2ad3c15617b64f82e40543ff25812de648204502d",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "3d2b3d8b600b74b3c2b25d8d015ae4923f86092353731a9e53b6c0b8c7b50d2d",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "3c0ee8f4fddceeac76dc11049697d3c46a1ea37ee424218849471a3578dc2cb3"
+    },
+    "pattern_matrix:domain_relationships": {
+      "case_id": "domain_relationships",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "relationships-domain-short",
+        "self-domain-short"
+      ],
+      "detected_patterns": [
+        "fear_of_rejection",
+        "trust_difficulty"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.9167,
+        "patterns": 0.6667,
+        "scenario": 0.95,
+        "strategy": 0.5571,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "bab6bf5609932f92858caf386cec0b6a0ffcc5dc187f20278d0a49dbb9274e7b",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "fdcc57c21da1fdd792098b871493a56e473e53b9ba6b66c6c3d092486c16b062"
+    },
+    "pattern_matrix:domain_self": {
+      "case_id": "domain_self",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "harsh_self_criticism",
+        "unworthiness_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.9167,
+        "patterns": 0.6667,
+        "scenario": 0.8,
+        "strategy": 0.5857,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "f03b66960c4c13196c0cd5edac07e0ad3528579cf5d69619fc88b240682c7c1c"
+    },
+    "pattern_matrix:domain_shame": {
+      "case_id": "domain_shame",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "shame_sensitivity"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 1.0,
+        "patterns": 1.0,
+        "scenario": 0.75,
+        "strategy": 0.5571,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "d95d610f29ca9b793802068798c0fba0c4ca34a02f8c73306000d7f2e4a77daf"
+    },
+    "pattern_matrix:domain_values_identity": {
+      "case_id": "domain_values_identity",
+      "completed_modules": [
+        "big-five-short",
+        "trauma-stress-short",
+        "self-domain-short",
+        "relationships-domain-short"
+      ],
+      "detected_patterns": [
+        "identity_confusion"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7708,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.5571,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "d2fbaae06f831ec9f8881023f85faf00f6c14eac37e9534b8aef26852906689f",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short",
+        "values-identity-domain-short"
+      ],
+      "strategy_fingerprint": "f3c42ffe6cd7a43124d7abfd4fe962db758ed11cf316b2e60e4b39a2a21cf319",
+      "suite": "pattern_matrix",
+      "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
+    },
+    "pseudo_human:anxiety_control_rumination": {
+      "case_id": "anxiety_control_rumination",
+      "completed_modules": [],
+      "detected_patterns": [
+        "mental_overcontrol",
+        "rumination"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.875,
+        "patterns": 0.5,
+        "scenario": 0.9,
+        "strategy": 0.5286,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "740ee1dbc771844841e1a2730ba2ae914272a1401d901c9bf54829de91e2732b",
+      "selected_modules": [
+        "cognitive-patterns-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short"
+      ],
+      "strategy_fingerprint": "1cbe8c7f279feeca3afdef4f8cf0183f14e561f19ecba1e787c9fd113b68b2a4",
+      "suite": "pseudo_human",
+      "timeline_fingerprint": "797f1af98355f9bca2d6ff4ed1c5cb34d05906a3a734b6957df6fd3ec20f1b71"
+    },
+    "pseudo_human:low_mood_loss_withdrawal": {
+      "case_id": "low_mood_loss_withdrawal",
+      "completed_modules": [],
+      "detected_patterns": [
+        "bereavement_context",
+        "grief_signal"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.7708,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.6071,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "relationships_domain",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "a5cd3e643398cd379843d8e557c0d31c54902b28a0b879f849e3b59894381878",
+      "selected_modules": [
+        "relationships-domain-short",
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "f5fee8c1e33d989bbab398f9db59bc257cc554a56f3246d6fff2a0e9e550b9af",
+      "suite": "pseudo_human",
+      "timeline_fingerprint": "dff0004d6ba0faa464e78a92008c22f44995635a1df186e4ccd45554225b941b"
+    },
+    "pseudo_human:relationship_belonging:es": {
+      "case_id": "relationship_belonging",
+      "completed_modules": [],
+      "detected_patterns": [
+        "social_disconnection_signal"
+      ],
+      "language": "es",
+      "metrics": {
+        "coverage": 0.8125,
+        "patterns": 0.25,
+        "scenario": 1.0,
+        "strategy": 0.5571,
+        "timeline": 1.0
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "a227ff9c05b544ef677cc3e477227223ba287e85f3df6c8ff76bfcde32ce1758",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "suite": "pseudo_human",
+      "timeline_fingerprint": "5be1c9117f1a86755fc3e3a468aab50e009ac4309d7f9c42e143e6d98e0071bb"
+    },
+    "pseudo_human:shame_self_criticism:uk": {
+      "case_id": "shame_self_criticism",
+      "completed_modules": [],
+      "detected_patterns": [
+        "unworthiness_signal"
+      ],
+      "language": "uk",
+      "metrics": {
+        "coverage": 0.8333,
+        "patterns": 0.3333,
+        "scenario": 0.8,
+        "strategy": 0.5571,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain",
+        "emotional_flexibility_domain"
+      ],
+      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "selected_modules": [
+        "emotional-flexibility-domain-short",
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short"
+      ],
+      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "suite": "pseudo_human",
+      "timeline_fingerprint": "fe762416ce77fcf6f79051b9fad49b993ffce7623f922543fd5b28ea1c27fd18"
+    },
+    "pseudo_human:values_identity_confusion": {
+      "case_id": "values_identity_confusion",
+      "completed_modules": [],
+      "detected_patterns": [
+        "identity_confusion"
+      ],
+      "language": "en",
+      "metrics": {
+        "coverage": 0.75,
+        "patterns": 0.25,
+        "scenario": 0.8,
+        "strategy": 0.5571,
+        "timeline": 0.9
+      },
+      "missing_domains": [
+        "emotion_regulation_domain",
+        "meaning",
+        "values_identity_domain",
+        "cognitive_patterns_domain"
+      ],
+      "scenario_fingerprint": "f87ab783a921e0011331f4ea8b74ee9c4cecff72eff3fa960bb9822e2483e6d4",
+      "selected_modules": [
+        "emotion-regulation-domain-short",
+        "cognitive-patterns-domain-short",
+        "values-identity-domain-short"
+      ],
+      "strategy_fingerprint": "33c11b4110c8d21feedbf3c7f5f26ba1a81274d5915504a5db040db11be96b51",
+      "suite": "pseudo_human",
+      "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
+    }
+  },
+  "generated_at": "2026-07-04T17:16:42+00:00",
+  "suite_means": {
+    "complex_human": {
+      "coverage": 0.7139,
+      "patterns": 0.4834,
+      "scenario": 0.775,
+      "strategy": 0.7356,
+      "timeline": 0.8555
+    },
+    "multilingual": {
+      "coverage": 0.7708,
+      "patterns": 0.5312,
+      "scenario": 0.8507,
+      "strategy": 0.7021,
+      "timeline": 0.9313
+    },
+    "pattern_matrix": {
+      "coverage": 0.8785,
+      "patterns": 0.6806,
+      "scenario": 0.81,
+      "strategy": 0.5708,
+      "timeline": 0.9333
+    },
+    "pseudo_human": {
+      "coverage": 0.8083,
+      "patterns": 0.3333,
+      "scenario": 0.86,
+      "strategy": 0.5614,
+      "timeline": 0.94
+    }
+  },
+  "version": 1
+}

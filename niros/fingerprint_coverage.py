@@ -408,18 +408,74 @@ def coverage_level(value: float) -> str:
     return COVERAGE_LEVEL_UNKNOWN
 
 
-def render_fingerprint_coverage_report(report: FingerprintCoverageReport) -> str:
+PROFILE_DOMAIN_DISPLAY_LABELS: dict[str, str] = {
+    **DOMAIN_DISPLAY_LABELS,
+    "meaning": "Meaning / Purpose",
+    "values_identity_domain": "Values / Identity",
+    "cognitive_patterns_domain": "Cognitive Patterns",
+    "emotional_flexibility_domain": "Emotional Flexibility",
+}
+
+
+def render_fingerprint_coverage_report(
+    report: FingerprintCoverageReport,
+    *,
+    module_titles: dict[str, str] | None = None,
+) -> str:
     lines = ["===== Fingerprint Coverage ====="]
     for domain_id in COVERAGE_REPORT_DOMAIN_ORDER:
         domain = report.domains[domain_id]
         label = DOMAIN_DISPLAY_LABELS.get(domain_id, domain_id)
-        lines.append(f"{label}\n{int(round(domain.coverage * 100))}%")
+        lines.append(f"{label}: {int(round(domain.coverage * 100))}% {domain.level}")
 
-    lines.append("Selected:")
+    lines.append("Selected modules:")
     if report.selected_modules:
-        lines.extend(report.selected_modules)
+        for module_id in report.selected_modules:
+            title = (module_titles or {}).get(module_id, module_id)
+            lines.append(f"- {title}")
     else:
-        lines.append("(none)")
+        lines.append("- (none)")
+
+    return "\n".join(lines)
+
+
+def format_fingerprint_coverage_report(
+    report: FingerprintCoverageReport,
+    *,
+    module_titles: dict[str, str] | None = None,
+) -> str:
+    lines: list[str] = []
+    for domain_id in COVERAGE_REPORT_DOMAIN_ORDER:
+        domain = report.domains[domain_id]
+        label = PROFILE_DOMAIN_DISPLAY_LABELS.get(domain_id, domain_id)
+        coverage_pct = int(round(domain.coverage * 100))
+        confidence_pct = int(round(domain.confidence * 100))
+        lines.append(
+            f"{label}: {coverage_pct}% — {domain.level} (confidence: {confidence_pct}%)"
+        )
+
+    lines.append("")
+    lines.append("Missing / weak domains:")
+    profile_missing = [
+        domain_id
+        for domain_id in COVERAGE_REPORT_DOMAIN_ORDER
+        if domain_id in report.missing_domains
+    ]
+    if profile_missing:
+        for domain_id in profile_missing:
+            label = PROFILE_DOMAIN_DISPLAY_LABELS.get(domain_id, domain_id)
+            lines.append(f"- {label}")
+    else:
+        lines.append("- (none)")
+
+    lines.append("")
+    lines.append("Recommended next modules:")
+    if report.selected_modules:
+        for module_id in report.selected_modules:
+            title = (module_titles or {}).get(module_id, module_id)
+            lines.append(f"- {title}")
+    else:
+        lines.append("- (none)")
 
     return "\n".join(lines)
 
