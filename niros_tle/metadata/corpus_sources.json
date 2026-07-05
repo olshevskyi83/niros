@@ -1,0 +1,65 @@
+[
+  {
+    "id": "erickson",
+    "name": "Milton Erickson / Ericksonian language patterns",
+    "category": "psychotherapy",
+    "status": "placeholder",
+    "notes": "No corpus ingested yet."
+  },
+  {
+    "id": "act",
+    "name": "Acceptance and Commitment Therapy",
+    "category": "psychotherapy",
+    "status": "placeholder",
+    "notes": "No corpus ingested yet."
+  },
+  {
+    "id": "ifs",
+    "name": "Internal Family Systems",
+    "category": "psychotherapy",
+    "status": "placeholder",
+    "notes": "No corpus ingested yet."
+  },
+  {
+    "id": "cft",
+    "name": "Compassion-Focused Therapy",
+    "category": "psychotherapy",
+    "status": "placeholder",
+    "notes": "No corpus ingested yet."
+  },
+  {
+    "id": "narrative",
+    "name": "Narrative Therapy",
+    "category": "psychotherapy",
+    "status": "placeholder",
+    "notes": "No corpus ingested yet."
+  },
+  {
+    "id": "motivational_interviewing",
+    "name": "Motivational Interviewing",
+    "category": "psychotherapy",
+    "status": "placeholder",
+    "notes": "No corpus ingested yet."
+  },
+  {
+    "id": "maria_sabina",
+    "name": "María Sabina / Mazatec healing lineage (reference metadata only)",
+    "category": "indigenous_healing",
+    "status": "placeholder",
+    "notes": "No corpus ingested yet."
+  },
+  {
+    "id": "shipibo",
+    "name": "Shipibo healing and icaro traditions (reference metadata only)",
+    "category": "indigenous_healing",
+    "status": "placeholder",
+    "notes": "No corpus ingested yet."
+  },
+  {
+    "id": "quechua",
+    "name": "Quechua healing and ceremonial language (reference metadata only)",
+    "category": "indigenous_healing",
+    "status": "placeholder",
+    "notes": "No corpus ingested yet."
+  }
+]

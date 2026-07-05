@@ -1,0 +1,101 @@
+[
+  {
+    "source_family": "erickson",
+    "display_name": "Milton Erickson / Ericksonian language patterns",
+    "category": "psychotherapy",
+    "raw_path": "niros_tle/corpus/erickson/raw",
+    "processed_path": "niros_tle/corpus/erickson/processed",
+    "metadata_path": "niros_tle/corpus/erickson/metadata",
+    "status": "empty",
+    "allowed_file_types": [".pdf", ".txt", ".md", ".epub"],
+    "notes": "Upload source files here later. No ingestion yet."
+  },
+  {
+    "source_family": "act",
+    "display_name": "Acceptance and Commitment Therapy",
+    "category": "psychotherapy",
+    "raw_path": "niros_tle/corpus/act/raw",
+    "processed_path": "niros_tle/corpus/act/processed",
+    "metadata_path": "niros_tle/corpus/act/metadata",
+    "status": "empty",
+    "allowed_file_types": [".pdf", ".txt", ".md", ".epub"],
+    "notes": "Upload source files here later. No ingestion yet."
+  },
+  {
+    "source_family": "ifs",
+    "display_name": "Internal Family Systems",
+    "category": "psychotherapy",
+    "raw_path": "niros_tle/corpus/ifs/raw",
+    "processed_path": "niros_tle/corpus/ifs/processed",
+    "metadata_path": "niros_tle/corpus/ifs/metadata",
+    "status": "empty",
+    "allowed_file_types": [".pdf", ".txt", ".md", ".epub"],
+    "notes": "Upload source files here later. No ingestion yet."
+  },
+  {
+    "source_family": "cft",
+    "display_name": "Compassion-Focused Therapy",
+    "category": "psychotherapy",
+    "raw_path": "niros_tle/corpus/cft/raw",
+    "processed_path": "niros_tle/corpus/cft/processed",
+    "metadata_path": "niros_tle/corpus/cft/metadata",
+    "status": "empty",
+    "allowed_file_types": [".pdf", ".txt", ".md", ".epub"],
+    "notes": "Upload source files here later. No ingestion yet."
+  },
+  {
+    "source_family": "narrative",
+    "display_name": "Narrative Therapy",
+    "category": "psychotherapy",
+    "raw_path": "niros_tle/corpus/narrative/raw",
+    "processed_path": "niros_tle/corpus/narrative/processed",
+    "metadata_path": "niros_tle/corpus/narrative/metadata",
+    "status": "empty",
+    "allowed_file_types": [".pdf", ".txt", ".md", ".epub"],
+    "notes": "Upload source files here later. No ingestion yet."
+  },
+  {
+    "source_family": "motivational_interviewing",
+    "display_name": "Motivational Interviewing",
+    "category": "psychotherapy",
+    "raw_path": "niros_tle/corpus/motivational_interviewing/raw",
+    "processed_path": "niros_tle/corpus/motivational_interviewing/processed",
+    "metadata_path": "niros_tle/corpus/motivational_interviewing/metadata",
+    "status": "empty",
+    "allowed_file_types": [".pdf", ".txt", ".md", ".epub"],
+    "notes": "Upload source files here later. No ingestion yet."
+  },
+  {
+    "source_family": "maria_sabina",
+    "display_name": "María Sabina / Mazatec healing lineage (reference metadata only)",
+    "category": "indigenous_healing",
+    "raw_path": "niros_tle/corpus/maria_sabina/raw",
+    "processed_path": "niros_tle/corpus/maria_sabina/processed",
+    "metadata_path": "niros_tle/corpus/maria_sabina/metadata",
+    "status": "empty",
+    "allowed_file_types": [".pdf", ".txt", ".md", ".epub"],
+    "notes": "Upload source files here later. No ingestion yet."
+  },
+  {
+    "source_family": "shipibo",
+    "display_name": "Shipibo healing and icaro traditions (reference metadata only)",
+    "category": "indigenous_healing",
+    "raw_path": "niros_tle/corpus/shipibo/raw",
+    "processed_path": "niros_tle/corpus/shipibo/processed",
+    "metadata_path": "niros_tle/corpus/shipibo/metadata",
+    "status": "empty",
+    "allowed_file_types": [".pdf", ".txt", ".md", ".epub"],
+    "notes": "Upload source files here later. No ingestion yet."
+  },
+  {
+    "source_family": "quechua",
+    "display_name": "Quechua healing and ceremonial language (reference metadata only)",
+    "category": "indigenous_healing",
+    "raw_path": "niros_tle/corpus/quechua/raw",
+    "processed_path": "niros_tle/corpus/quechua/processed",
+    "metadata_path": "niros_tle/corpus/quechua/metadata",
+    "status": "empty",
+    "allowed_file_types": [".pdf", ".txt", ".md", ".epub"],
+    "notes": "Upload source files here later. No ingestion yet."
+  }
+]

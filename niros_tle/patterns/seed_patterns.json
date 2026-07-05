@@ -1,0 +1,243 @@
+[
+  {
+    "id": "gentle_self_compassion_loop",
+    "name": "Gentle Self-Compassion Loop",
+    "psychological_function": ["self_compassion", "self_worth", "shame_reduction"],
+    "good_for": ["shame", "self_criticism", "low_self_worth"],
+    "avoid_if": ["acute_dissociation", "psychosis_risk"],
+    "language_style": ["gentle", "permission_based", "non_confrontational"],
+    "rhythm": "slow_repetitive",
+    "semantic_cluster": ["kindness", "body", "safety", "acceptance"],
+    "spiritual_compatibility": ["secular", "agnostic", "spiritual_not_religious", "christian"],
+    "requires_symbols": [],
+    "forbidden_symbols": [],
+    "intensity": "low",
+    "directness": "low",
+    "repetition_level": "medium",
+    "safety_notes": [
+      "Avoid strong identity claims",
+      "Use gentle permission-based wording"
+    ],
+    "source_family": ["compassion_focused", "act"],
+    "source_confidence": "high",
+    "extraction_method": "manual_seed",
+    "evidence_refs": [
+      {
+        "source_family": "cft",
+        "reference_type": "conceptual",
+        "note": "Pattern derived from general compassion-focused self-kindness framing concepts."
+      },
+      {
+        "source_family": "act",
+        "reference_type": "conceptual",
+        "note": "Pattern derived from general ACT acceptance and defusion language concepts."
+      }
+    ],
+    "notes": "Manual seed pattern; no corpus ingested.",
+    "delivery_formats": ["text", "voice", "icaro"],
+    "example_use_case": "Shame or self-criticism with need for stabilizing self-kindness framing"
+  },
+  {
+    "id": "grounding_body_safety_loop",
+    "name": "Grounding Body Safety Loop",
+    "psychological_function": ["regulation", "grounding", "safety"],
+    "good_for": ["emotional_overwhelm", "anxiety", "emotional_suppression", "panic_reactivity"],
+    "avoid_if": ["acute_dissociation"],
+    "language_style": ["grounding_language", "body_orientation", "present_moment"],
+    "rhythm": "steady",
+    "semantic_cluster": ["grounding", "breath", "body", "safety"],
+    "spiritual_compatibility": ["secular", "atheist", "agnostic", "religion_averse", "spiritual_not_religious"],
+    "requires_symbols": ["breath", "body"],
+    "forbidden_symbols": ["god", "prayer"],
+    "intensity": "low",
+    "directness": "low",
+    "repetition_level": "medium",
+    "safety_notes": [
+      "Prioritize stabilization before exploration",
+      "Avoid strong emotional activation"
+    ],
+    "source_family": ["somatic", "trauma_informed"],
+    "source_confidence": "high",
+    "extraction_method": "manual_seed",
+    "evidence_refs": [
+      {
+        "source_family": "narrative",
+        "reference_type": "conceptual",
+        "note": "Pattern derived from general somatic grounding and present-moment orientation concepts."
+      }
+    ],
+    "notes": "Manual seed pattern; no corpus ingested.",
+    "delivery_formats": ["text", "voice", "icaro"],
+    "example_use_case": "Overwhelm or dysregulation when grounding capacity is limited"
+  },
+  {
+    "id": "agency_restoration_loop",
+    "name": "Agency Restoration Loop",
+    "psychological_function": ["agency", "self_efficacy", "hope"],
+    "good_for": ["low_agency", "hopelessness", "self_criticism"],
+    "avoid_if": ["mania_risk", "grandiosity", "psychosis_risk"],
+    "language_style": ["future_orientation", "identity_repetition", "incremental_steps"],
+    "rhythm": "slow_repetitive",
+    "semantic_cluster": ["agency", "growth", "future", "choice"],
+    "spiritual_compatibility": ["secular", "agnostic", "spiritual_not_religious"],
+    "requires_symbols": [],
+    "forbidden_symbols": [],
+    "intensity": "medium",
+    "directness": "medium",
+    "repetition_level": "medium",
+    "safety_notes": [
+      "Avoid grandiose empowerment claims",
+      "Use incremental agency language"
+    ],
+    "source_family": ["motivational", "act"],
+    "source_confidence": "high",
+    "extraction_method": "manual_seed",
+    "evidence_refs": [
+      {
+        "source_family": "motivational_interviewing",
+        "reference_type": "conceptual",
+        "note": "Pattern derived from general motivational change and incremental step language concepts."
+      },
+      {
+        "source_family": "act",
+        "reference_type": "conceptual",
+        "note": "Pattern derived from general committed-action and values-linked agency concepts."
+      }
+    ],
+    "notes": "Manual seed pattern; no corpus ingested.",
+    "delivery_formats": ["text", "voice"],
+    "example_use_case": "Low agency or hopelessness when self domain coverage is adequate"
+  },
+  {
+    "id": "grief_permission_loop",
+    "name": "Grief Permission Loop",
+    "psychological_function": ["grief_processing", "acceptance", "emotional_release"],
+    "good_for": ["grief", "loss", "bereavement", "loss_related_distress"],
+    "avoid_if": ["acute_dissociation", "psychosis_risk"],
+    "language_style": ["gentle", "permission_based", "validating"],
+    "rhythm": "slow",
+    "semantic_cluster": ["grief", "loss", "acceptance", "memory"],
+    "spiritual_compatibility": ["secular", "agnostic", "spiritual_not_religious", "christian", "nature_spiritual"],
+    "requires_symbols": [],
+    "forbidden_symbols": [],
+    "intensity": "low",
+    "directness": "low",
+    "repetition_level": "low",
+    "safety_notes": [
+      "Do not rush closure",
+      "Allow grief pacing without forcing meaning"
+    ],
+    "source_family": ["grief_informed", "compassion_focused"],
+    "source_confidence": "high",
+    "extraction_method": "manual_seed",
+    "evidence_refs": [
+      {
+        "source_family": "cft",
+        "reference_type": "conceptual",
+        "note": "Pattern derived from general grief permission and paced emotional release concepts."
+      }
+    ],
+    "notes": "Manual seed pattern; no corpus ingested.",
+    "delivery_formats": ["text", "voice", "icaro"],
+    "example_use_case": "Active grief or loss-related distress with need for paced permission"
+  },
+  {
+    "id": "values_clarification_loop",
+    "name": "Values Clarification Loop",
+    "psychological_function": ["values_clarity", "identity", "meaning"],
+    "good_for": ["identity_confusion", "loss_of_meaning", "values_conflict"],
+    "avoid_if": ["mania_risk", "psychosis_risk"],
+    "language_style": ["exploratory", "reflective", "non_prescriptive"],
+    "rhythm": "gentle",
+    "semantic_cluster": ["values", "identity", "meaning", "choice"],
+    "spiritual_compatibility": ["secular", "agnostic", "spiritual_not_religious", "christian"],
+    "requires_symbols": [],
+    "forbidden_symbols": [],
+    "intensity": "low",
+    "directness": "low",
+    "repetition_level": "low",
+    "safety_notes": [
+      "Avoid destiny or mission certainty",
+      "Keep values exploration non-prescriptive"
+    ],
+    "source_family": ["act", "values_based"],
+    "source_confidence": "high",
+    "extraction_method": "manual_seed",
+    "evidence_refs": [
+      {
+        "source_family": "act",
+        "reference_type": "conceptual",
+        "note": "Pattern derived from general ACT values clarification and choice language concepts."
+      }
+    ],
+    "notes": "Manual seed pattern; no corpus ingested.",
+    "delivery_formats": ["text", "voice"],
+    "example_use_case": "Identity or values uncertainty without strong purpose claims"
+  },
+  {
+    "id": "secular_nature_connection_loop",
+    "name": "Secular Nature Connection Loop",
+    "psychological_function": ["connection", "meaning", "openness"],
+    "good_for": ["meaning_seeking", "spiritual_openness", "loss_of_meaning"],
+    "avoid_if": ["psychosis_risk"],
+    "language_style": ["metaphorical", "nature_imagery", "non_literal"],
+    "rhythm": "flowing",
+    "semantic_cluster": ["nature", "breath", "light", "inner_wisdom"],
+    "spiritual_compatibility": ["secular", "spiritual_not_religious", "nature_spiritual", "symbolic_open", "agnostic"],
+    "requires_symbols": ["nature"],
+    "forbidden_symbols": ["god", "prayer", "religion"],
+    "intensity": "low",
+    "directness": "low",
+    "repetition_level": "medium",
+    "safety_notes": [
+      "Use nature metaphors without supernatural claims",
+      "Avoid religious symbolism"
+    ],
+    "source_family": ["nature_based", "symbolic"],
+    "source_confidence": "medium",
+    "extraction_method": "manual_seed",
+    "evidence_refs": [
+      {
+        "source_family": "narrative",
+        "reference_type": "conceptual",
+        "note": "Pattern derived from general nature-metaphor and secular symbolic connection concepts."
+      }
+    ],
+    "notes": "Manual seed pattern; no corpus ingested.",
+    "delivery_formats": ["text", "voice", "icaro"],
+    "example_use_case": "Spiritual-not-religious or nature-oriented symbolic preference"
+  },
+  {
+    "id": "symbolic_uncertainty_loop",
+    "name": "Symbolic Uncertainty Loop",
+    "psychological_function": ["curiosity", "meaning", "openness"],
+    "good_for": ["meaning_seeking", "identity_uncertainty", "skeptical_openness"],
+    "avoid_if": ["psychosis_risk"],
+    "language_style": ["uncertainty_language", "symbolic_openness", "question_based"],
+    "rhythm": "gentle",
+    "semantic_cluster": ["symbol", "question", "possibility", "openness"],
+    "spiritual_compatibility": ["agnostic", "skeptical_open", "symbolic_open", "secular"],
+    "requires_symbols": [],
+    "forbidden_symbols": ["god", "prayer", "salvation"],
+    "intensity": "low",
+    "directness": "low",
+    "repetition_level": "low",
+    "safety_notes": [
+      "Avoid certainty about metaphysical claims",
+      "Prefer open questions over dogmatic framing"
+    ],
+    "source_family": ["symbolic", "existential"],
+    "source_confidence": "medium",
+    "extraction_method": "manual_seed",
+    "evidence_refs": [
+      {
+        "source_family": "act",
+        "reference_type": "conceptual",
+        "note": "Pattern derived from general openness, curiosity, and non-dogmatic questioning concepts."
+      }
+    ],
+    "notes": "Manual seed pattern; no corpus ingested.",
+    "delivery_formats": ["text", "voice"],
+    "example_use_case": "Agnostic or symbolically open worldview with preference for uncertainty language"
+  }
+]
