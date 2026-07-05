@@ -28,17 +28,18 @@
         "emotion_regulation_domain",
         "relationships_domain",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "1c61b1ad11b1965b0a3e8950b2fbb118cf09888fe995bb1117fb6663790710db",
+      "scenario_fingerprint": "71ab082f1243f0ebe89edcf9b109c22ca00afc004d721890d249d9afe7844181",
       "selected_modules": [
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "a4f424dfe9fd99ad6a1d283d69c91e9f644fc5ca957a60a7933dc0edbaaf1e63",
+      "strategy_fingerprint": "c042ec528e9cbe6bca4350ca272eded7dbe28efd0c45a5220ea01518068ba0c5",
       "suite": "complex_human",
       "timeline_fingerprint": "536a14a01163f9d8f1aea1d16ea783dd053bbde6425d3f84635a0da7bc9a658e"
     },
@@ -64,24 +65,25 @@
         "patterns": 0.6667,
         "scenario": 0.7667,
         "strategy": 0.9,
-        "timeline": 0.9
+        "timeline": 0.95
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "05625d28c81b87f8172632b9f17ce888ec0d2ce085cd69d5ff176a0a60b1fb46",
+      "scenario_fingerprint": "afecdc8dac07772036b332153a047c5e34ce96891b7c9b233c7ca8db7d36d37b",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "cognitive-patterns-domain-short",
         "relationships-domain-short",
         "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "45290cdeddba89ad93515be2319f77937832c5f1e311d83ff876c8d636450256",
+      "strategy_fingerprint": "9be325c9e241b325884c8c88073a01d2fbab4b7122c14bec2dafe857b8031d13",
       "suite": "complex_human",
       "timeline_fingerprint": "cc2511a187e3ddf49f5ffe2bb03d0e303a3a8f646aa6cd03597fa8a5a85fca51"
     },
@@ -102,7 +104,7 @@
       ],
       "language": "en",
       "metrics": {
-        "coverage": 0.7812,
+        "coverage": 0.7188,
         "patterns": 0.625,
         "scenario": 0.8667,
         "strategy": 0.75,
@@ -112,17 +114,18 @@
         "emotion_regulation_domain",
         "relationships_domain",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "7aa73a6751a492d061a327b63a56d35f9322f7f3db8e57c2404468beefca11ea",
+      "scenario_fingerprint": "e22570c070fe6728cd075eeba86cffa1a11890b17f4114fbf0ca10304527b0ad",
       "selected_modules": [
-        "meaning-purpose-short",
+        "spirituality-worldview-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "8b7b3b38917dbe882a997182df37a83fad1cbff4e379baf3d1320f4580dae556",
+      "strategy_fingerprint": "0c3054fceee755115fc1dd1029757e82d8c4ec7e9bf32bb1f239a24d5040da0c",
       "suite": "complex_human",
       "timeline_fingerprint": "e278c06f5663904da20d35b996aef20f6e8a5133f631121b286d2d58ce77b04a"
     },
@@ -155,16 +158,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "a02c837a9a9ddb421903f5534398722d122f06c421e212d1944b80b0935634d8",
+      "scenario_fingerprint": "d45073ecd36feacf2aec1481649df2367b58d3c278460ce5d70effed71737bb0",
       "selected_modules": [
+        "spirituality-worldview-short",
         "emotion-regulation-domain-short",
         "emotional-flexibility-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "ff43ca6a780b5e261ba7bcc117b3ecb2fca09498a255c7f3e418913ca06d60be",
+      "strategy_fingerprint": "9ddb585fbade75d457d8f48378191a6d93869146527b1383faa546453375025f",
       "suite": "complex_human",
       "timeline_fingerprint": "ce2f3cbebcd35a0c1f1b363028295c5dcf6fb126baa7fe303b0de69258f0523e"
     },
@@ -193,16 +198,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "3d5528bfef0d23280a2c2089bc4ec5a173e4ea0cd8a417379a7a4c20915f8970",
+      "scenario_fingerprint": "3f400fef2838429a4ffb28ded3022fd02eab04d7219ed45a5d6c92d1e1485fc8",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "complex_human",
       "timeline_fingerprint": "a8d6c13cfe13e1a9e1b43e5851fb8c8dd64e9340539f4df6cab1a77571ed4330"
     },
@@ -233,17 +240,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "4a0868ffc8cdd847761bc60e76728ffab931d2bb6df07584b39a1c266941b50c",
+      "scenario_fingerprint": "8d1c707a0654e19deac3a69c663f2601f41c1cc2386f2952cf8d9ba1c590b278",
       "selected_modules": [
         "emotion-regulation-domain-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "0af48595a8c91ad8ec18efad39e14ce16f7b47a64e8c816b0b9ef339e8cf60fc",
+      "strategy_fingerprint": "2fc58eb4d1bf6e9da32bf19b01610e73a81bc6647c89a894b8bc222849e7303b",
       "suite": "complex_human",
       "timeline_fingerprint": "18b3e09a4e40c21d7da33fc836e86aa4ff3d989257fbb231fe75154e1ebc53dc"
     },
@@ -265,23 +273,24 @@
         "patterns": 0.25,
         "scenario": 0.65,
         "strategy": 0.65,
-        "timeline": 0.7667
+        "timeline": 0.8333
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "anxiety-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "complex_human",
       "timeline_fingerprint": "f2317327857877a8f99275d233d25272cd57c8d463bae97a666c8a6f97496bd0"
     },
@@ -311,16 +320,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "c2ee01fb02b2c85a669e3217362948a004af6e7bb09d4637cfa61664b961f291",
+      "scenario_fingerprint": "0ebc669feb2e9d9b838d90860fe06e79eb38cbb43c1f4adacfd88237fe688732",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ff43ca6a780b5e261ba7bcc117b3ecb2fca09498a255c7f3e418913ca06d60be",
+      "strategy_fingerprint": "b5c079c90c7b0390e05140a4223f757d9602b6ad8dd96972db2f1f526c9699cf",
       "suite": "complex_human",
       "timeline_fingerprint": "c858de0f88fbb8a8d141df9694b764e2cdcbb128f538a722d9c2f7042b73c517"
     },
@@ -342,7 +353,7 @@
       ],
       "language": "en",
       "metrics": {
-        "coverage": 0.7411,
+        "coverage": 0.6786,
         "patterns": 0.7143,
         "scenario": 0.7333,
         "strategy": 0.7,
@@ -352,17 +363,18 @@
         "emotion_regulation_domain",
         "relationships_domain",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "3ac920b94fb45d71922cfec757eca153048435430895716ad8633cc3aa682ff2",
+      "scenario_fingerprint": "fe6ff6d7d9e4bc39d7ec6de379344e86920e5ac1051c6cf1342ee314ae627539",
       "selected_modules": [
-        "meaning-purpose-short",
+        "spirituality-worldview-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "5d9e77d4fa2fc7b708e3b1e7e1d906b961e28cd389f2e552b460c47fea3bbf45",
+      "strategy_fingerprint": "21bc8cf9ddf26aadfca355e7d5506719ac45d5d22dc8b83a69dd1a067ea47e7c",
       "suite": "complex_human",
       "timeline_fingerprint": "2c303b45253e0e9fa4155a2c928906b25df1c994ad12e418857ceeac4df144ca"
     },
@@ -393,16 +405,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "ccb8615864a19e0a6be5f5404575d36a954da53a9462fd1c1625632d5888a071",
+      "scenario_fingerprint": "fbe754ccd9c8d6a92a52be4620b739240b80a63a051fabcb347326a29d3bcb50",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "cognitive-patterns-domain-short",
-        "emotion-regulation-domain-short"
+        "emotion-regulation-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "29d59a5ee5cfaa9df4d82694dd8ac6afd345272035bdb91e9315404d43269e8b",
+      "strategy_fingerprint": "8475211300159fd886b25043c3069bdc1ff5373b58cfdb21987766d98c320506",
       "suite": "complex_human",
       "timeline_fingerprint": "205abebf7f0bf4c281f8acd612e32d9be753d05dbd5e96bd60b63a9533f6fe2e"
     },
@@ -432,17 +446,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "55d86171ec3739444e35852b8f74bb8e33535f87c2fa2acd3f67a03f8ba7a728",
+      "scenario_fingerprint": "d37e4fe49657d80d8f6196a26af78e423a465bc176f88f04c688ac3fbec28cd8",
       "selected_modules": [
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "8bd1fb078f0b4190af624f3bc215ebb7af05b2d5a9066b52ca2db0d54bf2892a",
+      "strategy_fingerprint": "f3da466c62c2681958cc782f26496dd380a1da213b0cdf1b697459a7e99f8af8",
       "suite": "complex_human",
       "timeline_fingerprint": "7f00fe94d514cd7e7ad50545c4b37cf005114ce5e853efda991033074bc60613"
     },
@@ -471,17 +486,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "844902019ec4ad94d79e083883132bde0048c530b9babc79fd39288eea9b5f90",
+      "scenario_fingerprint": "6819830fa8dafcff2104fd01037e1abd282a31d026cae398f5261a7dcadc5410",
       "selected_modules": [
+        "spirituality-worldview-short",
         "meaning-purpose-short",
         "emotional-flexibility-domain-short",
-        "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "35ddde8ae2d5b60ea3ec25d248ed1a4d742197f31d690ae5b89202753c0403b6",
+      "strategy_fingerprint": "abb6cb2c0f49915cfa2caff53b5e03bb58d81006c5658e21ea6566f2a603adef",
       "suite": "complex_human",
       "timeline_fingerprint": "6c100e288a2b83e01aed233b5f29b5a509be0d1aa7b35934eab5b6594acf68cb"
     },
@@ -510,17 +526,18 @@
         "emotion_regulation_domain",
         "relationships_domain",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "8b1e92c0cb256b9efe54505b80c3894601c79a8acb67ffe12dd80183c814ab2e",
+      "scenario_fingerprint": "6f4090e5cb97796bb4b247a550e4209cd60750d7506c437b66c76e76a6517709",
       "selected_modules": [
         "relationships-domain-short",
         "self-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "e71b148b945186c3789dfa8431d8b50bf168e7743d847d72fc58426ad528ccc4",
+      "strategy_fingerprint": "d0357338e9867a05f2947429f68a8078addbe878f38d81960093ea0b370db103",
       "suite": "complex_human",
       "timeline_fingerprint": "7e9d453d2d2e471d3be223d1f62c1d7a6f116c84451195d27d8465e2449fbd20"
     },
@@ -551,17 +568,18 @@
         "self_domain",
         "emotion_regulation_domain",
         "relationships_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "6a965dcc391bafafbde973cf418a6a98c6bc612a133206d882cd63bf40a8f382",
+      "scenario_fingerprint": "f71907ea47f28274e2fe11156c5659003116b8c79a315bdc2a9e29002f3d3cd7",
       "selected_modules": [
         "cognitive-patterns-domain-short",
         "self-domain-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short"
       ],
-      "strategy_fingerprint": "130b3cff848d36f33cc0708a245844e8fb6a09a00cfe079cc342300f4ed9b4fc",
+      "strategy_fingerprint": "8954b0fb6908abe22e9b690e71c4566c839fd526f021e3d9cc2603fd9f341346",
       "suite": "complex_human",
       "timeline_fingerprint": "43cc7201b4acc56c56704392e35601d17c2025ded9bfa82cc769882035519cfb"
     },
@@ -571,7 +589,7 @@
         "big-five-short",
         "trauma-stress-short",
         "anxiety-short",
-        "self-domain-short"
+        "spirituality-worldview-short"
       ],
       "detected_patterns": [
         "fear_of_losing_control",
@@ -580,13 +598,14 @@
       ],
       "language": "en",
       "metrics": {
-        "coverage": 0.7113,
+        "coverage": 0.6488,
         "patterns": 0.4286,
         "scenario": 0.8667,
         "strategy": 0.6667,
         "timeline": 0.8
       },
       "missing_domains": [
+        "self_domain",
         "emotion_regulation_domain",
         "relationships_domain",
         "meaning",
@@ -594,14 +613,14 @@
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "05625d28c81b87f8172632b9f17ce888ec0d2ce085cd69d5ff176a0a60b1fb46",
+      "scenario_fingerprint": "43290953528cbfc1fb2db61ad761e3de376569b9cfe3fbe103a1abd511d62a72",
       "selected_modules": [
         "cognitive-patterns-domain-short",
+        "self-domain-short",
         "relationships-domain-short",
-        "emotional-flexibility-domain-short",
-        "emotion-regulation-domain-short"
+        "emotional-flexibility-domain-short"
       ],
-      "strategy_fingerprint": "b0b820150c7b2142d63ede5bb68b140c1f491e2f927fb17f9700a027cba1b3a6",
+      "strategy_fingerprint": "cdf0a6f7b92bddcc65f6dcc4c076255b0c6776592c841470a497d7413a13064b",
       "suite": "complex_human",
       "timeline_fingerprint": "d93fa8eeb976415a43814df2d0aa16140cd672fe392a78515add1b6a998b1737"
     },
@@ -629,17 +648,18 @@
         "emotion_regulation_domain",
         "relationships_domain",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "9f740405ac30c67757ff5e1ff97e1766176787a577252e71590104af7150689e",
+      "scenario_fingerprint": "6b0fe0dc914dab9fc22174e6c59c1379b3593ddb9c8152681ec2ad9276939de6",
       "selected_modules": [
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "f5fee8c1e33d989bbab398f9db59bc257cc554a56f3246d6fff2a0e9e550b9af",
+      "strategy_fingerprint": "44c16646750bc29bebb5104c1b6c208445b7fa830ccd54b3d0c0937a998a2102",
       "suite": "complex_human",
       "timeline_fingerprint": "ce04c059788a1c325ebc9b5848d046de091fd4901d80f94f84fc91513849bfa9"
     },
@@ -660,27 +680,28 @@
       ],
       "language": "en",
       "metrics": {
-        "coverage": 0.75,
+        "coverage": 0.6667,
         "patterns": 0.6667,
         "scenario": 0.9,
         "strategy": 0.6667,
-        "timeline": 0.8667
+        "timeline": 0.9333
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "3cf97bed02deb91180045ccf86d1063f4a267d202e553680cc38f004e26f40fb",
+      "scenario_fingerprint": "686202b717dd6e00f03d20be847a627350ee26a415b2156ca2fd4fa78b11a37e",
       "selected_modules": [
         "emotion-regulation-domain-short",
         "emotional-flexibility-domain-short",
         "cognitive-patterns-domain-short",
-        "values-identity-domain-short"
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "b5ed010c49acaa9da5a700ec9e949a358d7cc25afd5e08a3281a4333c7fb9be7",
+      "strategy_fingerprint": "b5c079c90c7b0390e05140a4223f757d9602b6ad8dd96972db2f1f526c9699cf",
       "suite": "complex_human",
       "timeline_fingerprint": "b6ee110792472157a7e6ab0950aa49c1d7f65cb1ea39d31c111010e352fac8a3"
     },
@@ -709,17 +730,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "scenario_fingerprint": "7fe0c82e02040aab60fcd0bf960a9346798543df71a524c5d6d1d7f2557cb594",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "relationships-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "1679c56b9ab252b62ad88803bd3df930297ebd9020ce95019b5598cdda62d20b",
+      "strategy_fingerprint": "1c087ed6caca3074a58e63065b3e3ecadb013ee88e914421ee674f10368e5db6",
       "suite": "complex_human",
       "timeline_fingerprint": "8c660b10678ba19104647d4fc49685d5b5c41854e0393a6e24d7b4913d28c0f1"
     },
@@ -743,7 +765,7 @@
         "patterns": 0.5714,
         "scenario": 0.7,
         "strategy": 0.8667,
-        "timeline": 0.8
+        "timeline": 0.8667
       },
       "missing_domains": [
         "self_domain",
@@ -751,17 +773,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "b7bfd4c688afd83295be0bd6a8124df8826159484ed3af9c4794d44c93548f87",
+      "scenario_fingerprint": "46be3b18389c4dd07ede9ae839c6ad4d3cfa306b63cc4ae9a3ddddf1ccb75bab",
       "selected_modules": [
+        "spirituality-worldview-short",
         "self-domain-short",
         "relationships-domain-short",
-        "emotional-flexibility-domain-short",
-        "emotion-regulation-domain-short"
+        "emotional-flexibility-domain-short"
       ],
-      "strategy_fingerprint": "28ac5e43bc9a4439ec47dd5120b910d2214a6b64c8b628ae9b194ad04dd174e8",
+      "strategy_fingerprint": "05da7508abe224bc0ac65ba030df3a50027821380c33e24810f6af0744637bc3",
       "suite": "complex_human",
       "timeline_fingerprint": "67ec7f4e299f8883cd363e92cdf3681dafad9c9584a82130b008d646746f1eba"
     },
@@ -789,16 +812,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "23ec521d6a53fcdb0d65311186af1f81bcd26533ab21205112488cc20c0b9a06",
+      "scenario_fingerprint": "d7c67b6515a4a270fd75f339a2bcdcb3b8a2f911c63ce6101a38f10165aea63f",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "complex_human",
       "timeline_fingerprint": "51bede4477c20994b301f4fed1ffbf3e9f6a3bf34a7a9b4f44ae2506f021765b"
     },
@@ -828,17 +853,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "f0205dae0c17f6498a54dcd9fda2da7be52768e4dc4e087d16b86f55a4d05c28",
+      "scenario_fingerprint": "8ea73e542d33a434f33298a55ef90054307bd1a2f8603dadc9f66496eb164a2a",
       "selected_modules": [
         "cognitive-patterns-domain-short",
         "self-domain-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short"
       ],
-      "strategy_fingerprint": "e92861581db6bd9916238789584c75142d2deb1ca3007d2cbc4b4a7b8061136b",
+      "strategy_fingerprint": "a96fe2590cef8c32bb9e0a33fcef10ac0b1f378eef3eacc15516fa7fd7b7abd5",
       "suite": "complex_human",
       "timeline_fingerprint": "046e093348a070cbd08f3d9062bcacc1779823b7d16450267b8443a0833a4d9a"
     },
@@ -866,16 +892,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "f1ea5b9d6e4ee312ad101091a66e1bc2c419c7c1fe4777917587910e61714f8c",
+      "scenario_fingerprint": "77f5e4a881d91406d5c9bf5dfa5149aea64c895ce4b103be868901e8cbdd711e",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "8010c2b8a59f4b34e42f5c8cc23fd5208211513acb200797d093a55dbf9407aa",
+      "strategy_fingerprint": "ca6e3d960e2627e8f4d2cdd7bf52cb2ed3fefd0fae7262f39331322e48a5b4d2",
       "suite": "complex_human",
       "timeline_fingerprint": "b161c8d31d1c2362c03788e319e08ff18f995cf6c2848cc017c891330652bb47"
     },
@@ -884,8 +912,8 @@
       "completed_modules": [
         "big-five-short",
         "trauma-stress-short",
-        "meaning-purpose-short",
-        "self-domain-short"
+        "spirituality-worldview-short",
+        "meaning-purpose-short"
       ],
       "detected_patterns": [
         "integration_need",
@@ -896,24 +924,25 @@
       "metrics": {
         "coverage": 0.625,
         "patterns": 0.5,
-        "scenario": 0.7,
+        "scenario": 0.8,
         "strategy": 0.6667,
         "timeline": 0.7
       },
       "missing_domains": [
+        "self_domain",
         "emotion_regulation_domain",
         "relationships_domain",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "c57ee8ecb9eb483f0f660cd2ad3c15617b64f82e40543ff25812de648204502d",
+      "scenario_fingerprint": "3593fde1dc8c1afc1eb0c9cddfa02236441063247e122e0e11e16e356ac49bb3",
       "selected_modules": [
+        "self-domain-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
-        "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "3d2b3d8b600b74b3c2b25d8d015ae4923f86092353731a9e53b6c0b8c7b50d2d",
+      "strategy_fingerprint": "7160d29e7ffc1c644ff42f993df57b4d7d7289c3b15f8b71e4f2fe93ef8ad432",
       "suite": "complex_human",
       "timeline_fingerprint": "b4c3d1b6d0fae5b22d5d274b32228b730bbdf470aec28b3b5af4115e0f0be8c7"
     },
@@ -942,16 +971,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "f011e930d5d88a351a963a47e9119659b59996dff59fda73a43ec98d5a6d7d00",
+      "scenario_fingerprint": "3ecd9ded596a431ca10abd84157a04ba2d7abd005c5185b675dbf0db20af8857",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "cognitive-patterns-domain-short",
-        "emotion-regulation-domain-short"
+        "emotion-regulation-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "275166f19f8e7b9fb187dd081a704ca7ba8b934fd435616f61670c6c162cc7cb",
+      "strategy_fingerprint": "40626e7d5946342a90c1f47203920691eb13d2a6c38354803ff664138b13d527",
       "suite": "complex_human",
       "timeline_fingerprint": "e3f657fcf0958d0f105dd35c580bbb40149a652f61c718bb95a0051827eec3af"
     },
@@ -985,17 +1016,18 @@
         "emotion_regulation_domain",
         "relationships_domain",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "97fba146dcf665aad8971800662a4468bc288b1bb22e1b2b182af432584dda7f",
+      "scenario_fingerprint": "8a35c0e4d39e89325f540e628cbd30717b6c1d4dd316ec1f20e9f89c7a062e8d",
       "selected_modules": [
         "emotion-regulation-domain-short",
         "relationships-domain-short",
         "self-domain-short",
         "emotional-flexibility-domain-short"
       ],
-      "strategy_fingerprint": "48efcfd2c6055ea47a3cec9a399ff42d9beeb7569d78c51f9be68ce5e126a20f",
+      "strategy_fingerprint": "94344ffab2991dd4b89b4f8b32401333d646c039fb0f973e42b93efcda3e716f",
       "suite": "complex_human",
       "timeline_fingerprint": "7319a519827780f3bd3bd04124fa797619cad63dcf9c09e635178b3a5cdbdef9"
     },
@@ -1024,17 +1056,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "e0d858109fab7f5bd76a4b39a62114f77889a6e56ef2093a1150f76c02dc063c",
+      "scenario_fingerprint": "9313c10136a077875d0d6152a78156136e3ce050cfda456a8b4460c6da6da21d",
       "selected_modules": [
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "strategy_fingerprint": "2fbe2a2d3b92127f115444ced0a0b1d6c83827d16a67bfd7b131b23483b238fd",
       "suite": "complex_human",
       "timeline_fingerprint": "f03b66960c4c13196c0cd5edac07e0ad3528579cf5d69619fc88b240682c7c1c"
     },
@@ -1053,7 +1086,7 @@
       ],
       "language": "en",
       "metrics": {
-        "coverage": 0.7083,
+        "coverage": 0.625,
         "patterns": 0.5,
         "scenario": 0.8,
         "strategy": 0.7333,
@@ -1063,17 +1096,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "d2fbaae06f831ec9f8881023f85faf00f6c14eac37e9534b8aef26852906689f",
+      "scenario_fingerprint": "e83a063ac4f4dcbc0fe3e847a8c7bb4f82224e81a0aef50eae3763b2df124d96",
       "selected_modules": [
+        "spirituality-worldview-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short",
-        "values-identity-domain-short"
+        "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "f3c42ffe6cd7a43124d7abfd4fe962db758ed11cf316b2e60e4b39a2a21cf319",
+      "strategy_fingerprint": "7430b372d306c786f22e3c7c2118d183c1176782c652fad5e183844ff29d8107",
       "suite": "complex_human",
       "timeline_fingerprint": "7592ba54d62924160da6d0e8124398d8cddacb6ccc99aedbb25a7c57711a3839"
     },
@@ -1103,17 +1137,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "62f846f42ce6d6b551ca81ac05314e6d2310c4d6bc4147823306e78cbbccfa2d",
+      "scenario_fingerprint": "0b8ecdb1caa60fbec31e3b42dc74223d804dd040f525d23b291789103b2b7b1e",
       "selected_modules": [
         "self-domain-short",
         "emotional-flexibility-domain-short",
         "cognitive-patterns-domain-short",
-        "emotion-regulation-domain-short"
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "824aa49fa95abec137f8ddef15225393afc726e46522e64a3a1f0316ffc1390f",
+      "strategy_fingerprint": "aebcc53f4a206039979df516e4781f8eed9544b00c246067d6d3273ccc88c2bd",
       "suite": "complex_human",
       "timeline_fingerprint": "f182d5e7fdf87626200078ecb9db83fd295dd0b91bde72c7ac62198e2ea304d5"
     },
@@ -1134,7 +1169,7 @@
       "metrics": {
         "coverage": 0.7083,
         "patterns": 0.3333,
-        "scenario": 0.7333,
+        "scenario": 0.8,
         "strategy": 0.8,
         "timeline": 0.8333
       },
@@ -1142,17 +1177,18 @@
         "self_domain",
         "emotion_regulation_domain",
         "relationships_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "6a965dcc391bafafbde973cf418a6a98c6bc612a133206d882cd63bf40a8f382",
+      "scenario_fingerprint": "f71907ea47f28274e2fe11156c5659003116b8c79a315bdc2a9e29002f3d3cd7",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "self-domain-short",
         "relationships-domain-short",
         "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "aaecba43d3d67b2329a926b09fe872ab2da26edd4f18d6c0f1c5b8d951abbe40",
+      "strategy_fingerprint": "da030b6717cedaeed5f38b4cf1836fa2da7df98d1acf2b93d457b026aa50042d",
       "suite": "complex_human",
       "timeline_fingerprint": "7336deb2c2fe4472dfaa1b12ee30a4ba01a574ce553b1948613e7549a2a352d8"
     },
@@ -1183,17 +1219,18 @@
         "self_domain",
         "emotion_regulation_domain",
         "relationships_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "1aa754b2be2d3cf60a6cb7b47b35291160ca8d164584878faf3100b396ff7d00",
+      "scenario_fingerprint": "1c74d28762fb875f8fe98256fb8ccb3dbed1e83a6b79ca307d1164cd9adcdcaa",
       "selected_modules": [
         "low-mood-short",
         "self-domain-short",
         "cognitive-patterns-domain-short",
         "relationships-domain-short"
       ],
-      "strategy_fingerprint": "21b08c80317442da6b6cabeaa955529a750593f1eddae699051ddc6878262120",
+      "strategy_fingerprint": "843e001c34b62109772d382a5877e53635dcbdf01d0a4d4ed20ff3c0abe78e18",
       "suite": "complex_human",
       "timeline_fingerprint": "bfac06cae851fef697ed1fd5f42414725287c5d9ee06c5d05f86b2caaa9791aa"
     },
@@ -1223,17 +1260,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "scenario_fingerprint": "7fe0c82e02040aab60fcd0bf960a9346798543df71a524c5d6d1d7f2557cb594",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "relationships-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "1f6fc210b5c69950e21cf1c9f0957e497a0022fd97f65c8a65e566a36f44a071",
+      "strategy_fingerprint": "091b89be517fd1fa6af0b4bc9f55c8820bcf270e0861248dfadd520c1aa3002a",
       "suite": "multilingual",
       "timeline_fingerprint": "ef4dcb4dbe0fa9715b861ab81fc063db38c8e6e07e862eeef46b868478194515"
     },
@@ -1262,17 +1300,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "anxiety-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "275166f19f8e7b9fb187dd081a704ca7ba8b934fd435616f61670c6c162cc7cb",
+      "strategy_fingerprint": "40626e7d5946342a90c1f47203920691eb13d2a6c38354803ff664138b13d527",
       "suite": "multilingual",
       "timeline_fingerprint": "ef4dcb4dbe0fa9715b861ab81fc063db38c8e6e07e862eeef46b868478194515"
     },
@@ -1301,16 +1340,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "275166f19f8e7b9fb187dd081a704ca7ba8b934fd435616f61670c6c162cc7cb",
+      "strategy_fingerprint": "40626e7d5946342a90c1f47203920691eb13d2a6c38354803ff664138b13d527",
       "suite": "multilingual",
       "timeline_fingerprint": "ef4dcb4dbe0fa9715b861ab81fc063db38c8e6e07e862eeef46b868478194515"
     },
@@ -1340,17 +1381,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "scenario_fingerprint": "7fe0c82e02040aab60fcd0bf960a9346798543df71a524c5d6d1d7f2557cb594",
       "selected_modules": [
         "anxiety-short",
         "emotional-flexibility-domain-short",
         "relationships-domain-short",
         "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "1f6fc210b5c69950e21cf1c9f0957e497a0022fd97f65c8a65e566a36f44a071",
+      "strategy_fingerprint": "091b89be517fd1fa6af0b4bc9f55c8820bcf270e0861248dfadd520c1aa3002a",
       "suite": "multilingual",
       "timeline_fingerprint": "ef4dcb4dbe0fa9715b861ab81fc063db38c8e6e07e862eeef46b868478194515"
     },
@@ -1378,16 +1420,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "7d439f5de4d0bbf907be208d4d84ecd1a99eaada86a5230296efae8a424452de",
+      "scenario_fingerprint": "0404aa5b2ee4fe9bcfbeff21cc36cbe96a9110f3cc4b02c96792bb4acb0a8693",
       "selected_modules": [
+        "spirituality-worldview-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "cfa05af0d8b30dc97ab8967a2a04cf39f1f1a266bf5f121833eeb4b7232fa392",
       "suite": "multilingual",
       "timeline_fingerprint": "a6677bb34a45124af537ce7faf99defd55c16b0e7d11e94b1c638b782b81579d"
     },
@@ -1415,16 +1459,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "7d439f5de4d0bbf907be208d4d84ecd1a99eaada86a5230296efae8a424452de",
+      "scenario_fingerprint": "0404aa5b2ee4fe9bcfbeff21cc36cbe96a9110f3cc4b02c96792bb4acb0a8693",
       "selected_modules": [
+        "spirituality-worldview-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "cfa05af0d8b30dc97ab8967a2a04cf39f1f1a266bf5f121833eeb4b7232fa392",
       "suite": "multilingual",
       "timeline_fingerprint": "a6677bb34a45124af537ce7faf99defd55c16b0e7d11e94b1c638b782b81579d"
     },
@@ -1452,14 +1498,16 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "a227ff9c05b544ef677cc3e477227223ba287e85f3df6c8ff76bfcde32ce1758",
+      "scenario_fingerprint": "fea6dbd766a4880eb51852d9fa30b2ae0e6b1b39abd322ec82089ae0173eb523",
       "selected_modules": [
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "strategy_fingerprint": "862eae7c0c29b49cb6bd20fa8ec22614200813f8457a01a3b11ae0676708309a",
       "suite": "multilingual",
       "timeline_fingerprint": "a6677bb34a45124af537ce7faf99defd55c16b0e7d11e94b1c638b782b81579d"
     },
@@ -1488,17 +1536,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "e9ac4c21de6ab598392dc742af58fc4c33f372db58729223f22d219bbc3df58d",
+      "scenario_fingerprint": "dd1b3c72146b705cb2be9f1d5175f2f7e1f3b0577f51f2f72fc86200d13fdde6",
       "selected_modules": [
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "8bd1fb078f0b4190af624f3bc215ebb7af05b2d5a9066b52ca2db0d54bf2892a",
+      "strategy_fingerprint": "f3da466c62c2681958cc782f26496dd380a1da213b0cdf1b697459a7e99f8af8",
       "suite": "multilingual",
       "timeline_fingerprint": "a6677bb34a45124af537ce7faf99defd55c16b0e7d11e94b1c638b782b81579d"
     },
@@ -1525,16 +1574,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "740ee1dbc771844841e1a2730ba2ae914272a1401d901c9bf54829de91e2732b",
+      "scenario_fingerprint": "6f833a1e6969e675bcab021bfb30e94953dbe9ecf191d42aa887e294a60a5f84",
       "selected_modules": [
         "cognitive-patterns-domain-short",
         "emotional-flexibility-domain-short",
-        "emotion-regulation-domain-short"
+        "emotion-regulation-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "1cbe8c7f279feeca3afdef4f8cf0183f14e561f19ecba1e787c9fd113b68b2a4",
+      "strategy_fingerprint": "fa3a548b6ac613ad4894866e2d79450ee613016af0243631f8aa2e08b9cad416",
       "suite": "multilingual",
       "timeline_fingerprint": "787d257e79e083e87cf4132141921101683e991b61559638562d77318ae13169"
     },
@@ -1561,16 +1612,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "740ee1dbc771844841e1a2730ba2ae914272a1401d901c9bf54829de91e2732b",
+      "scenario_fingerprint": "6f833a1e6969e675bcab021bfb30e94953dbe9ecf191d42aa887e294a60a5f84",
       "selected_modules": [
         "cognitive-patterns-domain-short",
         "emotional-flexibility-domain-short",
-        "emotion-regulation-domain-short"
+        "emotion-regulation-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "1cbe8c7f279feeca3afdef4f8cf0183f14e561f19ecba1e787c9fd113b68b2a4",
+      "strategy_fingerprint": "fa3a548b6ac613ad4894866e2d79450ee613016af0243631f8aa2e08b9cad416",
       "suite": "multilingual",
       "timeline_fingerprint": "787d257e79e083e87cf4132141921101683e991b61559638562d77318ae13169"
     },
@@ -1597,14 +1650,16 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "7856e7c436999b8a8c2d0b8ab10754f7d5091cf9f61337a16ed45cb97c86ea66",
+      "scenario_fingerprint": "9405dff23a8110d363d977631968ea54057d6bcd58bcf3e2021e74774070db1e",
       "selected_modules": [
         "cognitive-patterns-domain-short",
-        "emotion-regulation-domain-short"
+        "emotion-regulation-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "4efd95fc5c410764ae3df9825f3f53bb40009020fc94732a39201362f60d671a",
+      "strategy_fingerprint": "1b6defcfaa452737f98dc6961693599f404dbbea7625ad67fc84e198a4718a1c",
       "suite": "multilingual",
       "timeline_fingerprint": "787d257e79e083e87cf4132141921101683e991b61559638562d77318ae13169"
     },
@@ -1634,17 +1689,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "scenario_fingerprint": "7fe0c82e02040aab60fcd0bf960a9346798543df71a524c5d6d1d7f2557cb594",
       "selected_modules": [
         "cognitive-patterns-domain-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "strategy_fingerprint": "2fbe2a2d3b92127f115444ced0a0b1d6c83827d16a67bfd7b131b23483b238fd",
       "suite": "multilingual",
       "timeline_fingerprint": "5215bf82eea474495e47887924cd5cbae429823d37ec1a4cc2d6fce05789e7df"
     },
@@ -1671,16 +1727,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "ccb8615864a19e0a6be5f5404575d36a954da53a9462fd1c1625632d5888a071",
+      "scenario_fingerprint": "fbe754ccd9c8d6a92a52be4620b739240b80a63a051fabcb347326a29d3bcb50",
       "selected_modules": [
         "emotion-regulation-domain-short",
         "emotional-flexibility-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "53fdd00594ad8348d581a3fd61b5c5c0bcb9145e802fdbf5ecc3c3e0d55b9f14",
+      "strategy_fingerprint": "e32323de6ea28e768ec9c3915b4a7b94761b12db68fb8845b1196893a46395c3",
       "suite": "multilingual",
       "timeline_fingerprint": "635b4ce53bc0225f606d8d35772dda456466eef06785f57fd8cf787545603849"
     },
@@ -1707,16 +1765,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "ccb8615864a19e0a6be5f5404575d36a954da53a9462fd1c1625632d5888a071",
+      "scenario_fingerprint": "fbe754ccd9c8d6a92a52be4620b739240b80a63a051fabcb347326a29d3bcb50",
       "selected_modules": [
         "emotion-regulation-domain-short",
         "emotional-flexibility-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "53fdd00594ad8348d581a3fd61b5c5c0bcb9145e802fdbf5ecc3c3e0d55b9f14",
+      "strategy_fingerprint": "e32323de6ea28e768ec9c3915b4a7b94761b12db68fb8845b1196893a46395c3",
       "suite": "multilingual",
       "timeline_fingerprint": "635b4ce53bc0225f606d8d35772dda456466eef06785f57fd8cf787545603849"
     },
@@ -1743,14 +1803,16 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "b73d0366fb8495d49a370d56bded1677bc897ce6a6b899a24e27970937eb5d26",
+      "scenario_fingerprint": "8cce45d3f5c6022d5865861558c73505f9bae4ef82b22535bf0b3a92e4747830",
       "selected_modules": [
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "41c3602419eb9aeed3de88222522478e81a1083996ab3b84b8d3d7bf263c9412",
+      "strategy_fingerprint": "b8b07a9d6291d59ad3c11962e5ddb166403a8299f52fe18764f53896040c07a2",
       "suite": "multilingual",
       "timeline_fingerprint": "635b4ce53bc0225f606d8d35772dda456466eef06785f57fd8cf787545603849"
     },
@@ -1778,17 +1840,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "scenario_fingerprint": "7fe0c82e02040aab60fcd0bf960a9346798543df71a524c5d6d1d7f2557cb594",
       "selected_modules": [
         "cognitive-patterns-domain-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "strategy_fingerprint": "2fbe2a2d3b92127f115444ced0a0b1d6c83827d16a67bfd7b131b23483b238fd",
       "suite": "multilingual",
       "timeline_fingerprint": "df940dfa05090250a579703c581579faaf6637234784111198d129a0ee7a0770"
     },
@@ -1816,16 +1879,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "f1ea5b9d6e4ee312ad101091a66e1bc2c419c7c1fe4777917587910e61714f8c",
+      "scenario_fingerprint": "77f5e4a881d91406d5c9bf5dfa5149aea64c895ce4b103be868901e8cbdd711e",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "53fdd00594ad8348d581a3fd61b5c5c0bcb9145e802fdbf5ecc3c3e0d55b9f14",
+      "strategy_fingerprint": "e32323de6ea28e768ec9c3915b4a7b94761b12db68fb8845b1196893a46395c3",
       "suite": "multilingual",
       "timeline_fingerprint": "1d64b1f62bebffdcf2932cf24f83dc52526ca1feea625d621b9c153fb5225c56"
     },
@@ -1853,16 +1918,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "f1ea5b9d6e4ee312ad101091a66e1bc2c419c7c1fe4777917587910e61714f8c",
+      "scenario_fingerprint": "77f5e4a881d91406d5c9bf5dfa5149aea64c895ce4b103be868901e8cbdd711e",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "53fdd00594ad8348d581a3fd61b5c5c0bcb9145e802fdbf5ecc3c3e0d55b9f14",
+      "strategy_fingerprint": "e32323de6ea28e768ec9c3915b4a7b94761b12db68fb8845b1196893a46395c3",
       "suite": "multilingual",
       "timeline_fingerprint": "1d64b1f62bebffdcf2932cf24f83dc52526ca1feea625d621b9c153fb5225c56"
     },
@@ -1890,14 +1957,16 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "d329f9b5e0e8846cb833942995dbd36f3d52526fc3711ae188efccb10fab31f2",
+      "scenario_fingerprint": "d8ceeb784d053b362d9f12809a76f8b22497a5ba805e514aebf13e68a56b79ca",
       "selected_modules": [
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "41c3602419eb9aeed3de88222522478e81a1083996ab3b84b8d3d7bf263c9412",
+      "strategy_fingerprint": "b8b07a9d6291d59ad3c11962e5ddb166403a8299f52fe18764f53896040c07a2",
       "suite": "multilingual",
       "timeline_fingerprint": "1d64b1f62bebffdcf2932cf24f83dc52526ca1feea625d621b9c153fb5225c56"
     },
@@ -1925,17 +1994,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "scenario_fingerprint": "7fe0c82e02040aab60fcd0bf960a9346798543df71a524c5d6d1d7f2557cb594",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "relationships-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "1f6fc210b5c69950e21cf1c9f0957e497a0022fd97f65c8a65e566a36f44a071",
+      "strategy_fingerprint": "091b89be517fd1fa6af0b4bc9f55c8820bcf270e0861248dfadd520c1aa3002a",
       "suite": "multilingual",
       "timeline_fingerprint": "63b9af532dda41ba364eee591ba5a043eedf60f39492093ed4068f09a9096187"
     },
@@ -1963,17 +2033,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "grief-loss-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "dff0004d6ba0faa464e78a92008c22f44995635a1df186e4ccd45554225b941b"
     },
@@ -2001,17 +2072,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "grief-loss-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "dff0004d6ba0faa464e78a92008c22f44995635a1df186e4ccd45554225b941b"
     },
@@ -2038,15 +2110,17 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "0059d90789f7d196343fb828bd75c57fa88e11d3952e5641371f27586d046419",
+      "scenario_fingerprint": "47d7cc67d20635056fe3cea971c4b2d55f09378dbd952e9ae87baa706ab9a460",
       "selected_modules": [
         "grief-loss-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "strategy_fingerprint": "862eae7c0c29b49cb6bd20fa8ec22614200813f8457a01a3b11ae0676708309a",
       "suite": "multilingual",
       "timeline_fingerprint": "779b0c38035b90e2c2afac460c158e4b0ed730bef603814bd196d6af6ce084a3"
     },
@@ -2076,17 +2150,18 @@
         "emotion_regulation_domain",
         "relationships_domain",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "b72b5a797f50b7c732b422d1043c1c5fbbb5baf2c8c25f34725e12288d128232",
+      "scenario_fingerprint": "6d618c27cb4b35006bf224423e2ff403ad3fd72405098a06bcbed64d083d88ff",
       "selected_modules": [
         "self-domain-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "e71b148b945186c3789dfa8431d8b50bf168e7743d847d72fc58426ad528ccc4",
+      "strategy_fingerprint": "d0357338e9867a05f2947429f68a8078addbe878f38d81960093ea0b370db103",
       "suite": "multilingual",
       "timeline_fingerprint": "351d86557a335df393cccd68665bbe83863e4c82703953f454a010b294f2c509"
     },
@@ -2114,17 +2189,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "low-mood-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "f6cc02fbd5ba2084ff2527de86b0e05bbd8a1fda72a74eec791ff58d7f57474d"
     },
@@ -2152,17 +2228,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "low-mood-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "f6cc02fbd5ba2084ff2527de86b0e05bbd8a1fda72a74eec791ff58d7f57474d"
     },
@@ -2190,15 +2267,17 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "0059d90789f7d196343fb828bd75c57fa88e11d3952e5641371f27586d046419",
+      "scenario_fingerprint": "47d7cc67d20635056fe3cea971c4b2d55f09378dbd952e9ae87baa706ab9a460",
       "selected_modules": [
         "low-mood-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "strategy_fingerprint": "862eae7c0c29b49cb6bd20fa8ec22614200813f8457a01a3b11ae0676708309a",
       "suite": "multilingual",
       "timeline_fingerprint": "f6cc02fbd5ba2084ff2527de86b0e05bbd8a1fda72a74eec791ff58d7f57474d"
     },
@@ -2227,17 +2306,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "scenario_fingerprint": "7fe0c82e02040aab60fcd0bf960a9346798543df71a524c5d6d1d7f2557cb594",
       "selected_modules": [
         "low-mood-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "strategy_fingerprint": "2fbe2a2d3b92127f115444ced0a0b1d6c83827d16a67bfd7b131b23483b238fd",
       "suite": "multilingual",
       "timeline_fingerprint": "f6cc02fbd5ba2084ff2527de86b0e05bbd8a1fda72a74eec791ff58d7f57474d"
     },
@@ -2263,17 +2343,18 @@
       "missing_domains": [
         "emotion_regulation_domain",
         "relationships_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "c57ee8ecb9eb483f0f660cd2ad3c15617b64f82e40543ff25812de648204502d",
+      "scenario_fingerprint": "08a33bf1cf950575568e2fd648c225e6d485ec5a1d5a2008b1ce0c169b4afdd7",
       "selected_modules": [
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "3d2b3d8b600b74b3c2b25d8d015ae4923f86092353731a9e53b6c0b8c7b50d2d",
+      "strategy_fingerprint": "86fcf9b8f9b933bebd8b6b4f9cd44b93f7ab0ffcaef5dea69cc981f310cb38ac",
       "suite": "multilingual",
       "timeline_fingerprint": "3c0ee8f4fddceeac76dc11049697d3c46a1ea37ee424218849471a3578dc2cb3"
     },
@@ -2300,17 +2381,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "4086ca66dec38ad593b9c38b666c2a7ea5f9d7dc21a17180eb34125c18ae2e9c",
+      "scenario_fingerprint": "ae658db85003a2b238af82ccae72f91b8f14c57887bb2805e40a2bb905b23de8",
       "selected_modules": [
         "meaning-purpose-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "0c5fcd83704220812bff4bf041102ccc6f089d9d3ccd776cf0bbe34e20eded73",
+      "strategy_fingerprint": "ca4650c0fa50de814b92966f0940fe992e037fda32a158dda604992a8cc8c7cc",
       "suite": "multilingual",
       "timeline_fingerprint": "3c0ee8f4fddceeac76dc11049697d3c46a1ea37ee424218849471a3578dc2cb3"
     },
@@ -2337,15 +2419,17 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "77cb061b3bcf0f896bebe9f9c661e8a5a2d2e610342569cadc5f5e95ad5d06e5",
+      "scenario_fingerprint": "dc7dae7b1abac47aab17949774a3c4df2b731d464aabb929b3dab469fd285bf1",
       "selected_modules": [
         "meaning-purpose-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "e7f20a1fc779835cd4d4906f10e4dd1bf52b0fd04824f89e6ba8ff8284c3d099",
+      "strategy_fingerprint": "5b89499bacb069523faecf01fc086ec76970d42b756aeacff4031c4d6492ae55",
       "suite": "multilingual",
       "timeline_fingerprint": "3c0ee8f4fddceeac76dc11049697d3c46a1ea37ee424218849471a3578dc2cb3"
     },
@@ -2373,17 +2457,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "a1d90b0694af9d46d390378ccde4bb2923e9669eb27f549c9fc0d8e65b3b2ed6",
+      "scenario_fingerprint": "9c9631d7ccf8237beac170d76d464f04c5ab86ca0e4bd5553d8ff6e79454769e",
       "selected_modules": [
         "meaning-purpose-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short"
       ],
-      "strategy_fingerprint": "e25dd8ed1809316eecef9f722cbad3a21b1d2b334e441bab22e30c20fc662b41",
+      "strategy_fingerprint": "665cafec511236a091c69c50d54e85f74bbfebfd60b4be9274ce9dfd8f33c40d",
       "suite": "multilingual",
       "timeline_fingerprint": "3c0ee8f4fddceeac76dc11049697d3c46a1ea37ee424218849471a3578dc2cb3"
     },
@@ -2411,16 +2496,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "bab6bf5609932f92858caf386cec0b6a0ffcc5dc187f20278d0a49dbb9274e7b",
+      "scenario_fingerprint": "b2c72a163a42482ea59649a9d3a21b6e675463dcea898d2834258e36d5e491b2",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "fdcc57c21da1fdd792098b871493a56e473e53b9ba6b66c6c3d092486c16b062"
     },
@@ -2448,16 +2535,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "bab6bf5609932f92858caf386cec0b6a0ffcc5dc187f20278d0a49dbb9274e7b",
+      "scenario_fingerprint": "b2c72a163a42482ea59649a9d3a21b6e675463dcea898d2834258e36d5e491b2",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "fdcc57c21da1fdd792098b871493a56e473e53b9ba6b66c6c3d092486c16b062"
     },
@@ -2484,14 +2573,16 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "362e953529b7ebbdafac408ac184c26168a5ada22a9a07dbc0d8ec090f2e7a9f",
+      "scenario_fingerprint": "ed6adc772219242c6e266e6d1149eb4b0c05055c162176cd12f24a41b6de900c",
       "selected_modules": [
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "strategy_fingerprint": "862eae7c0c29b49cb6bd20fa8ec22614200813f8457a01a3b11ae0676708309a",
       "suite": "multilingual",
       "timeline_fingerprint": "16be407c270b53d0be53690d6875222d739282b544f83fe4147ba27400d56da8"
     },
@@ -2521,17 +2612,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "4a0868ffc8cdd847761bc60e76728ffab931d2bb6df07584b39a1c266941b50c",
+      "scenario_fingerprint": "8d1c707a0654e19deac3a69c663f2601f41c1cc2386f2952cf8d9ba1c590b278",
       "selected_modules": [
         "emotion-regulation-domain-short",
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "8bd1fb078f0b4190af624f3bc215ebb7af05b2d5a9066b52ca2db0d54bf2892a",
+      "strategy_fingerprint": "f3da466c62c2681958cc782f26496dd380a1da213b0cdf1b697459a7e99f8af8",
       "suite": "multilingual",
       "timeline_fingerprint": "e95e6bcc8e7935624f09aa4c163884565a53fc177604032a74078d35fc68901d"
     },
@@ -2559,16 +2651,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "scenario_fingerprint": "855baf89ef4bcf0e2f8eda082a43ddf43e8e5835e17a8c2c56ef2e7bd7a4d3a2",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "f03b66960c4c13196c0cd5edac07e0ad3528579cf5d69619fc88b240682c7c1c"
     },
@@ -2596,16 +2690,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "scenario_fingerprint": "855baf89ef4bcf0e2f8eda082a43ddf43e8e5835e17a8c2c56ef2e7bd7a4d3a2",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "f03b66960c4c13196c0cd5edac07e0ad3528579cf5d69619fc88b240682c7c1c"
     },
@@ -2633,14 +2729,16 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "8cc8c4a28baecf6dc050a019606a29f773a95b0375c12e1f3589cfdb6bd914a0",
+      "scenario_fingerprint": "6220c998d375e432d2fddfac085db8804399d3acf3eb925a98172c9d91d9d5f8",
       "selected_modules": [
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "strategy_fingerprint": "862eae7c0c29b49cb6bd20fa8ec22614200813f8457a01a3b11ae0676708309a",
       "suite": "multilingual",
       "timeline_fingerprint": "f03b66960c4c13196c0cd5edac07e0ad3528579cf5d69619fc88b240682c7c1c"
     },
@@ -2669,17 +2767,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "d302947e6798f7beb2faa26324ebc654b9eefe07463abf466980e54d070f966f",
+      "scenario_fingerprint": "b1ff666a784a61fba2313ee2ef780e0ae84af3c6f0b4512fb423d190e1555120",
       "selected_modules": [
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "strategy_fingerprint": "2fbe2a2d3b92127f115444ced0a0b1d6c83827d16a67bfd7b131b23483b238fd",
       "suite": "multilingual",
       "timeline_fingerprint": "22513516b25748687896a8ad436a53ccffcc9a597de71a8887810dc30e20ec85"
     },
@@ -2706,16 +2805,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "scenario_fingerprint": "855baf89ef4bcf0e2f8eda082a43ddf43e8e5835e17a8c2c56ef2e7bd7a4d3a2",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "d95d610f29ca9b793802068798c0fba0c4ca34a02f8c73306000d7f2e4a77daf"
     },
@@ -2742,16 +2843,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "scenario_fingerprint": "855baf89ef4bcf0e2f8eda082a43ddf43e8e5835e17a8c2c56ef2e7bd7a4d3a2",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "d95d610f29ca9b793802068798c0fba0c4ca34a02f8c73306000d7f2e4a77daf"
     },
@@ -2778,14 +2881,16 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "8cc8c4a28baecf6dc050a019606a29f773a95b0375c12e1f3589cfdb6bd914a0",
+      "scenario_fingerprint": "6220c998d375e432d2fddfac085db8804399d3acf3eb925a98172c9d91d9d5f8",
       "selected_modules": [
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "strategy_fingerprint": "862eae7c0c29b49cb6bd20fa8ec22614200813f8457a01a3b11ae0676708309a",
       "suite": "multilingual",
       "timeline_fingerprint": "d95d610f29ca9b793802068798c0fba0c4ca34a02f8c73306000d7f2e4a77daf"
     },
@@ -2813,17 +2918,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "scenario_fingerprint": "7fe0c82e02040aab60fcd0bf960a9346798543df71a524c5d6d1d7f2557cb594",
       "selected_modules": [
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "460fee64b489d470b0a6f9753735da999709352adb0cbb294e8ad2228ad3bb79",
+      "strategy_fingerprint": "2fbe2a2d3b92127f115444ced0a0b1d6c83827d16a67bfd7b131b23483b238fd",
       "suite": "multilingual",
       "timeline_fingerprint": "499ac302d0dd10255d28acf76321fb711ee4d3fb8471e91e742464a2de85e262"
     },
@@ -2840,7 +2946,7 @@
       ],
       "language": "en",
       "metrics": {
-        "coverage": 0.8333,
+        "coverage": 0.7083,
         "patterns": 0.3333,
         "scenario": 0.8,
         "strategy": 0.6,
@@ -2850,17 +2956,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "d2fbaae06f831ec9f8881023f85faf00f6c14eac37e9534b8aef26852906689f",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short",
-        "values-identity-domain-short"
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "f3c42ffe6cd7a43124d7abfd4fe962db758ed11cf316b2e60e4b39a2a21cf319",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
     },
@@ -2877,7 +2984,7 @@
       ],
       "language": "de",
       "metrics": {
-        "coverage": 0.8333,
+        "coverage": 0.7083,
         "patterns": 0.3333,
         "scenario": 0.8,
         "strategy": 0.6,
@@ -2887,17 +2994,18 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "d2fbaae06f831ec9f8881023f85faf00f6c14eac37e9534b8aef26852906689f",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short",
-        "values-identity-domain-short"
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "f3c42ffe6cd7a43124d7abfd4fe962db758ed11cf316b2e60e4b39a2a21cf319",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "multilingual",
       "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
     },
@@ -2914,7 +3022,7 @@
       ],
       "language": "es",
       "metrics": {
-        "coverage": 0.8333,
+        "coverage": 0.7083,
         "patterns": 0.3333,
         "scenario": 0.8,
         "strategy": 0.6,
@@ -2924,15 +3032,16 @@
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "f87ab783a921e0011331f4ea8b74ee9c4cecff72eff3fa960bb9822e2483e6d4",
+      "scenario_fingerprint": "47d7cc67d20635056fe3cea971c4b2d55f09378dbd952e9ae87baa706ab9a460",
       "selected_modules": [
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short",
-        "values-identity-domain-short"
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "33c11b4110c8d21feedbf3c7f5f26ba1a81274d5915504a5db040db11be96b51",
+      "strategy_fingerprint": "862eae7c0c29b49cb6bd20fa8ec22614200813f8457a01a3b11ae0676708309a",
       "suite": "multilingual",
       "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
     },
@@ -2960,17 +3069,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "d8c85d139e913217497aadd9e8e82bee90069dea9b0ab107a9a4659c84c96103",
+      "scenario_fingerprint": "7fe0c82e02040aab60fcd0bf960a9346798543df71a524c5d6d1d7f2557cb594",
       "selected_modules": [
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "2dc60d76f505730794cf55be82eebf70ad74f5090fcf1fd5221277f11de31ae4",
+      "strategy_fingerprint": "2fbe2a2d3b92127f115444ced0a0b1d6c83827d16a67bfd7b131b23483b238fd",
       "suite": "multilingual",
       "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
     },
@@ -2992,7 +3102,7 @@
         "coverage": 0.9375,
         "patterns": 0.75,
         "scenario": 0.7,
-        "strategy": 0.6786,
+        "strategy": 0.675,
         "timeline": 0.9
       },
       "missing_domains": [
@@ -3000,17 +3110,18 @@
         "relationships_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "0f6deee18528825b08b6a7dc02860682ef687c4fd8cc1870ba4e3db88a30b4e3",
+      "scenario_fingerprint": "7fe0c82e02040aab60fcd0bf960a9346798543df71a524c5d6d1d7f2557cb594",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "relationships-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "1f6fc210b5c69950e21cf1c9f0957e497a0022fd97f65c8a65e566a36f44a071",
+      "strategy_fingerprint": "091b89be517fd1fa6af0b4bc9f55c8820bcf270e0861248dfadd520c1aa3002a",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "ef4dcb4dbe0fa9715b861ab81fc063db38c8e6e07e862eeef46b868478194515"
     },
@@ -3031,23 +3142,25 @@
         "coverage": 0.9167,
         "patterns": 0.6667,
         "scenario": 0.85,
-        "strategy": 0.5857,
+        "strategy": 0.575,
         "timeline": 1.0
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "7d439f5de4d0bbf907be208d4d84ecd1a99eaada86a5230296efae8a424452de",
+      "scenario_fingerprint": "0404aa5b2ee4fe9bcfbeff21cc36cbe96a9110f3cc4b02c96792bb4acb0a8693",
       "selected_modules": [
+        "spirituality-worldview-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "cfa05af0d8b30dc97ab8967a2a04cf39f1f1a266bf5f121833eeb4b7232fa392",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "a6677bb34a45124af537ce7faf99defd55c16b0e7d11e94b1c638b782b81579d"
     },
@@ -3068,23 +3181,25 @@
         "coverage": 0.9167,
         "patterns": 0.6667,
         "scenario": 0.9,
-        "strategy": 0.5786,
+        "strategy": 0.575,
         "timeline": 1.0
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "740ee1dbc771844841e1a2730ba2ae914272a1401d901c9bf54829de91e2732b",
+      "scenario_fingerprint": "6f833a1e6969e675bcab021bfb30e94953dbe9ecf191d42aa887e294a60a5f84",
       "selected_modules": [
         "cognitive-patterns-domain-short",
         "emotional-flexibility-domain-short",
-        "emotion-regulation-domain-short"
+        "emotion-regulation-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "1cbe8c7f279feeca3afdef4f8cf0183f14e561f19ecba1e787c9fd113b68b2a4",
+      "strategy_fingerprint": "fa3a548b6ac613ad4894866e2d79450ee613016af0243631f8aa2e08b9cad416",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "797f1af98355f9bca2d6ff4ed1c5cb34d05906a3a734b6957df6fd3ec20f1b71"
     },
@@ -3105,23 +3220,25 @@
         "coverage": 1.0,
         "patterns": 1.0,
         "scenario": 0.9,
-        "strategy": 0.5286,
+        "strategy": 0.525,
         "timeline": 1.0
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "ccb8615864a19e0a6be5f5404575d36a954da53a9462fd1c1625632d5888a071",
+      "scenario_fingerprint": "fbe754ccd9c8d6a92a52be4620b739240b80a63a051fabcb347326a29d3bcb50",
       "selected_modules": [
         "emotion-regulation-domain-short",
         "emotional-flexibility-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "53fdd00594ad8348d581a3fd61b5c5c0bcb9145e802fdbf5ecc3c3e0d55b9f14",
+      "strategy_fingerprint": "e32323de6ea28e768ec9c3915b4a7b94761b12db68fb8845b1196893a46395c3",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "a7ee6153dd6c115055cd39386ab191136bb448e7dead669fd623537700bffdb5"
     },
@@ -3143,23 +3260,25 @@
         "coverage": 0.875,
         "patterns": 0.75,
         "scenario": 0.8,
-        "strategy": 0.5786,
+        "strategy": 0.575,
         "timeline": 0.9
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "f1ea5b9d6e4ee312ad101091a66e1bc2c419c7c1fe4777917587910e61714f8c",
+      "scenario_fingerprint": "77f5e4a881d91406d5c9bf5dfa5149aea64c895ce4b103be868901e8cbdd711e",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "8010c2b8a59f4b34e42f5c8cc23fd5208211513acb200797d093a55dbf9407aa",
+      "strategy_fingerprint": "ca6e3d960e2627e8f4d2cdd7bf52cb2ed3fefd0fae7262f39331322e48a5b4d2",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "84f3987ee86bd75ffded26cd377686ecdb08847840aba3f84815fcb65a127105"
     },
@@ -3180,24 +3299,25 @@
         "coverage": 0.8542,
         "patterns": 0.6667,
         "scenario": 0.72,
-        "strategy": 0.5571,
+        "strategy": 0.55,
         "timeline": 0.9
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "grief-loss-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "dff0004d6ba0faa464e78a92008c22f44995635a1df186e4ccd45554225b941b"
     },
@@ -3218,24 +3338,25 @@
         "coverage": 0.7917,
         "patterns": 0.6667,
         "scenario": 0.75,
-        "strategy": 0.5286,
+        "strategy": 0.525,
         "timeline": 0.9
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "low-mood-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "f6cc02fbd5ba2084ff2527de86b0e05bbd8a1fda72a74eec791ff58d7f57474d"
     },
@@ -3255,23 +3376,24 @@
         "coverage": 0.6458,
         "patterns": 0.3333,
         "scenario": 0.8,
-        "strategy": 0.5571,
+        "strategy": 0.55,
         "timeline": 0.9
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "relationships_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "c57ee8ecb9eb483f0f660cd2ad3c15617b64f82e40543ff25812de648204502d",
+      "scenario_fingerprint": "08a33bf1cf950575568e2fd648c225e6d485ec5a1d5a2008b1ce0c169b4afdd7",
       "selected_modules": [
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "3d2b3d8b600b74b3c2b25d8d015ae4923f86092353731a9e53b6c0b8c7b50d2d",
+      "strategy_fingerprint": "86fcf9b8f9b933bebd8b6b4f9cd44b93f7ab0ffcaef5dea69cc981f310cb38ac",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "3c0ee8f4fddceeac76dc11049697d3c46a1ea37ee424218849471a3578dc2cb3"
     },
@@ -3292,23 +3414,25 @@
         "coverage": 0.9167,
         "patterns": 0.6667,
         "scenario": 0.95,
-        "strategy": 0.5571,
+        "strategy": 0.55,
         "timeline": 1.0
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "bab6bf5609932f92858caf386cec0b6a0ffcc5dc187f20278d0a49dbb9274e7b",
+      "scenario_fingerprint": "b2c72a163a42482ea59649a9d3a21b6e675463dcea898d2834258e36d5e491b2",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "fdcc57c21da1fdd792098b871493a56e473e53b9ba6b66c6c3d092486c16b062"
     },
@@ -3329,23 +3453,25 @@
         "coverage": 0.9167,
         "patterns": 0.6667,
         "scenario": 0.8,
-        "strategy": 0.5857,
+        "strategy": 0.575,
         "timeline": 0.9
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "scenario_fingerprint": "855baf89ef4bcf0e2f8eda082a43ddf43e8e5835e17a8c2c56ef2e7bd7a4d3a2",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "f03b66960c4c13196c0cd5edac07e0ad3528579cf5d69619fc88b240682c7c1c"
     },
@@ -3365,23 +3491,25 @@
         "coverage": 1.0,
         "patterns": 1.0,
         "scenario": 0.75,
-        "strategy": 0.5571,
+        "strategy": 0.55,
         "timeline": 0.9
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "a28f061f2202a663237741215e9c01b537909ccc7e69a1f2ce2d3b8d710270db",
+      "scenario_fingerprint": "855baf89ef4bcf0e2f8eda082a43ddf43e8e5835e17a8c2c56ef2e7bd7a4d3a2",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "d95d610f29ca9b793802068798c0fba0c4ca34a02f8c73306000d7f2e4a77daf"
     },
@@ -3398,27 +3526,28 @@
       ],
       "language": "en",
       "metrics": {
-        "coverage": 0.7708,
+        "coverage": 0.5208,
         "patterns": 0.3333,
         "scenario": 0.8,
-        "strategy": 0.5571,
+        "strategy": 0.55,
         "timeline": 0.9
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "d2fbaae06f831ec9f8881023f85faf00f6c14eac37e9534b8aef26852906689f",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short",
-        "values-identity-domain-short"
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "f3c42ffe6cd7a43124d7abfd4fe962db758ed11cf316b2e60e4b39a2a21cf319",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "pattern_matrix",
       "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
     },
@@ -3434,23 +3563,25 @@
         "coverage": 0.875,
         "patterns": 0.5,
         "scenario": 0.9,
-        "strategy": 0.5286,
+        "strategy": 0.525,
         "timeline": 1.0
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "740ee1dbc771844841e1a2730ba2ae914272a1401d901c9bf54829de91e2732b",
+      "scenario_fingerprint": "6f833a1e6969e675bcab021bfb30e94953dbe9ecf191d42aa887e294a60a5f84",
       "selected_modules": [
         "cognitive-patterns-domain-short",
         "emotional-flexibility-domain-short",
-        "emotion-regulation-domain-short"
+        "emotion-regulation-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "1cbe8c7f279feeca3afdef4f8cf0183f14e561f19ecba1e787c9fd113b68b2a4",
+      "strategy_fingerprint": "fa3a548b6ac613ad4894866e2d79450ee613016af0243631f8aa2e08b9cad416",
       "suite": "pseudo_human",
       "timeline_fingerprint": "797f1af98355f9bca2d6ff4ed1c5cb34d05906a3a734b6957df6fd3ec20f1b71"
     },
@@ -3466,24 +3597,25 @@
         "coverage": 0.7708,
         "patterns": 0.3333,
         "scenario": 0.8,
-        "strategy": 0.6071,
+        "strategy": 0.6,
         "timeline": 0.9
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "relationships_domain",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "a5cd3e643398cd379843d8e557c0d31c54902b28a0b879f849e3b59894381878",
+      "scenario_fingerprint": "9c8b47da117828f1fb4ce54bb937c322b5a2e539dbf29117a1204ac4f5a4f10d",
       "selected_modules": [
         "relationships-domain-short",
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short"
       ],
-      "strategy_fingerprint": "f5fee8c1e33d989bbab398f9db59bc257cc554a56f3246d6fff2a0e9e550b9af",
+      "strategy_fingerprint": "44c16646750bc29bebb5104c1b6c208445b7fa830ccd54b3d0c0937a998a2102",
       "suite": "pseudo_human",
       "timeline_fingerprint": "dff0004d6ba0faa464e78a92008c22f44995635a1df186e4ccd45554225b941b"
     },
@@ -3498,21 +3630,23 @@
         "coverage": 0.8125,
         "patterns": 0.25,
         "scenario": 1.0,
-        "strategy": 0.5571,
+        "strategy": 0.55,
         "timeline": 1.0
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "a227ff9c05b544ef677cc3e477227223ba287e85f3df6c8ff76bfcde32ce1758",
+      "scenario_fingerprint": "fea6dbd766a4880eb51852d9fa30b2ae0e6b1b39abd322ec82089ae0173eb523",
       "selected_modules": [
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "c2289eadea09d6c48d6d9d0bfdb2e09b0818687d30457c42a401c436eb141ae7",
+      "strategy_fingerprint": "862eae7c0c29b49cb6bd20fa8ec22614200813f8457a01a3b11ae0676708309a",
       "suite": "pseudo_human",
       "timeline_fingerprint": "5be1c9117f1a86755fc3e3a468aab50e009ac4309d7f9c42e143e6d98e0071bb"
     },
@@ -3527,23 +3661,25 @@
         "coverage": 0.8333,
         "patterns": 0.3333,
         "scenario": 0.8,
-        "strategy": 0.5571,
+        "strategy": 0.55,
         "timeline": 0.9
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain"
       ],
-      "scenario_fingerprint": "452230985dfb5dc6638f06831189c04dec8092faba58000fa7d2106a8ae9ed8e",
+      "scenario_fingerprint": "99e9cb9b16fa4aa31256f9416ee2417dabfd8d400a8a9d8ba08f8534ee926af5",
       "selected_modules": [
         "emotional-flexibility-domain-short",
         "emotion-regulation-domain-short",
-        "cognitive-patterns-domain-short"
+        "cognitive-patterns-domain-short",
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "ffbef2d1c01a70c65d91316a69fc7fc6ec6e5c9da76c2407e010d064815d178f",
+      "strategy_fingerprint": "489bf2720fac8f2f729d62de84c36c009760e2f272416ef9abe178698e57c223",
       "suite": "pseudo_human",
       "timeline_fingerprint": "fe762416ce77fcf6f79051b9fad49b993ffce7623f922543fd5b28ea1c27fd18"
     },
@@ -3555,57 +3691,58 @@
       ],
       "language": "en",
       "metrics": {
-        "coverage": 0.75,
+        "coverage": 0.6875,
         "patterns": 0.25,
         "scenario": 0.8,
-        "strategy": 0.5571,
+        "strategy": 0.55,
         "timeline": 0.9
       },
       "missing_domains": [
         "emotion_regulation_domain",
         "meaning",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain"
       ],
-      "scenario_fingerprint": "f87ab783a921e0011331f4ea8b74ee9c4cecff72eff3fa960bb9822e2483e6d4",
+      "scenario_fingerprint": "47d7cc67d20635056fe3cea971c4b2d55f09378dbd952e9ae87baa706ab9a460",
       "selected_modules": [
         "emotion-regulation-domain-short",
         "cognitive-patterns-domain-short",
-        "values-identity-domain-short"
+        "spirituality-worldview-short"
       ],
-      "strategy_fingerprint": "33c11b4110c8d21feedbf3c7f5f26ba1a81274d5915504a5db040db11be96b51",
+      "strategy_fingerprint": "862eae7c0c29b49cb6bd20fa8ec22614200813f8457a01a3b11ae0676708309a",
       "suite": "pseudo_human",
       "timeline_fingerprint": "cc12fcee74a6c5f724f3d58488ec94fdfc70bb187b9041b0d9ee32cc85f85c12"
     }
   },
-  "generated_at": "2026-07-04T17:16:42+00:00",
+  "generated_at": "2026-07-04T21:10:10+00:00",
   "suite_means": {
     "complex_human": {
-      "coverage": 0.7139,
+      "coverage": 0.7021,
       "patterns": 0.4834,
-      "scenario": 0.775,
+      "scenario": 0.7806,
       "strategy": 0.7356,
-      "timeline": 0.8555
+      "timeline": 0.8639
     },
     "multilingual": {
-      "coverage": 0.7708,
+      "coverage": 0.763,
       "patterns": 0.5312,
       "scenario": 0.8507,
       "strategy": 0.7021,
       "timeline": 0.9313
     },
     "pattern_matrix": {
-      "coverage": 0.8785,
+      "coverage": 0.8577,
       "patterns": 0.6806,
       "scenario": 0.81,
-      "strategy": 0.5708,
+      "strategy": 0.5646,
       "timeline": 0.9333
     },
     "pseudo_human": {
-      "coverage": 0.8083,
+      "coverage": 0.7958,
       "patterns": 0.3333,
       "scenario": 0.86,
-      "strategy": 0.5614,
+      "strategy": 0.555,
       "timeline": 0.94
     }
   },

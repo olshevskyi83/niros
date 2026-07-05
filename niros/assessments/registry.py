@@ -47,6 +47,10 @@ from niros.assessments.speech_anxiety_short import (
     score_speech_anxiety_short,
 )
 from niros.assessments.substance_use_short import get_substance_use_short_items, score_substance_use_short
+from niros.assessments.spirituality_worldview_short import (
+    get_spirituality_worldview_short_items,
+    score_spirituality_worldview_short,
+)
 from niros.assessments.trauma_stress_short import get_trauma_stress_short_items, score_trauma_stress_short
 
 GetItemsFn = Callable[[str], list[AssessmentItem]]
@@ -91,6 +95,10 @@ MODULE_REGISTRY: dict[str, tuple[GetItemsFn, ScoreModuleFn]] = {
     "emotional-flexibility-domain-short": (
         get_emotional_flexibility_domain_short_items,
         score_emotional_flexibility_domain_short,
+    ),
+    "spirituality-worldview-short": (
+        get_spirituality_worldview_short_items,
+        score_spirituality_worldview_short,
     ),
 }
 

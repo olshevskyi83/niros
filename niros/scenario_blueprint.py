@@ -124,6 +124,7 @@ FOCUS_AREA_PHASE_LABELS: dict[str, str] = {
     "self-worth / self-criticism": "emotional opening",
     "relationships": "relationship exploration",
     "meaning / purpose": "integration",
+    "spirituality / worldview": "symbolic framing",
     "emotional flexibility": "closing",
 }
 
@@ -170,6 +171,17 @@ FOCUS_AREA_SCENARIO_FRAMING: dict[str, dict[str, str]] = {
     "meaning / purpose": {
         STRATEGY_CONFIDENCE_MEDIUM: (
             "Invite meaning exploration without prescribing beliefs or outcomes."
+        ),
+    },
+    "spirituality / worldview": {
+        STRATEGY_CONFIDENCE_HIGH: (
+            "Adapt symbolic language to known worldview preferences and constraints."
+        ),
+        STRATEGY_CONFIDENCE_MEDIUM: (
+            "Use cautious symbolic language aligned with partial worldview evidence."
+        ),
+        STRATEGY_CONFIDENCE_LOW: (
+            "Keep symbolic language conservative; avoid religious or secular assumptions."
         ),
     },
 }

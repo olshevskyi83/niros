@@ -1,0 +1,110 @@
+[
+  {
+    "id": "identity_reconstruction_loop",
+    "psychological_function": ["agency", "self_worth", "hope"],
+    "good_for": ["shame", "self_criticism", "low_agency"],
+    "avoid_if": ["mania_risk", "grandiosity", "psychosis_risk"],
+    "language_style": ["identity_repetition", "future_orientation"],
+    "rhythm": "slow_repetitive",
+    "semantic_cluster": ["identity", "growth", "future"],
+    "spiritual_compatibility": ["secular", "atheist", "spiritual_but_not_religious", "agnostic"],
+    "requires_symbols": [],
+    "forbidden_symbols": []
+  },
+  {
+    "id": "divine_surrender_prayer_loop",
+    "psychological_function": ["surrender", "trust", "hope"],
+    "good_for": ["control_resistance", "surrender_difficulty"],
+    "avoid_if": ["psychosis_risk"],
+    "language_style": ["prayer_language", "surrender_framing"],
+    "rhythm": "slow_repetitive",
+    "semantic_cluster": ["prayer", "divine", "surrender"],
+    "spiritual_compatibility": ["christian", "religious_other"],
+    "requires_symbols": ["god", "prayer"],
+    "forbidden_symbols": []
+  },
+  {
+    "id": "secular_grounding_breath_loop",
+    "psychological_function": ["regulation", "grounding", "safety"],
+    "good_for": ["emotional_overwhelm", "anxiety", "emotional_suppression"],
+    "avoid_if": [],
+    "language_style": ["grounding_language", "body_orientation"],
+    "rhythm": "steady",
+    "semantic_cluster": ["grounding", "breath", "body"],
+    "spiritual_compatibility": ["secular", "atheist", "agnostic", "religion_averse"],
+    "requires_symbols": ["breath", "body"],
+    "forbidden_symbols": ["god", "prayer"]
+  },
+  {
+    "id": "christian_hope_light_loop",
+    "psychological_function": ["hope", "meaning", "comfort"],
+    "good_for": ["hopelessness", "grief", "meaning_seeking"],
+    "avoid_if": [],
+    "language_style": ["faith_language", "future_orientation"],
+    "rhythm": "slow_repetitive",
+    "semantic_cluster": ["christ", "light", "hope"],
+    "spiritual_compatibility": ["christian"],
+    "requires_symbols": ["christ", "light"],
+    "forbidden_symbols": []
+  },
+  {
+    "id": "nature_inner_wisdom_loop",
+    "psychological_function": ["connection", "meaning", "openness"],
+    "good_for": ["meaning_seeking", "spiritual_openness", "loss_of_meaning"],
+    "avoid_if": [],
+    "language_style": ["metaphorical", "nature_imagery"],
+    "rhythm": "flowing",
+    "semantic_cluster": ["nature", "breath", "light", "inner_wisdom"],
+    "spiritual_compatibility": ["spiritual_but_not_religious", "nature_spiritual", "symbolic_open"],
+    "requires_symbols": ["nature"],
+    "forbidden_symbols": ["god", "prayer", "religion"]
+  },
+  {
+    "id": "symbolic_open_question_loop",
+    "psychological_function": ["curiosity", "meaning", "openness"],
+    "good_for": ["meaning_seeking", "identity_uncertainty"],
+    "avoid_if": [],
+    "language_style": ["uncertainty_language", "symbolic_openness"],
+    "rhythm": "gentle",
+    "semantic_cluster": ["symbol", "question", "possibility"],
+    "spiritual_compatibility": ["agnostic", "skeptical_open", "symbolic_open"],
+    "requires_symbols": [],
+    "forbidden_symbols": ["god", "prayer", "salvation"]
+  },
+  {
+    "id": "destiny_mission_purpose_loop",
+    "psychological_function": ["purpose", "direction", "agency"],
+    "good_for": ["loss_of_meaning", "identity_confusion"],
+    "avoid_if": ["mania_risk"],
+    "language_style": ["destiny_language", "mission_framing"],
+    "rhythm": "building",
+    "semantic_cluster": ["mission", "destiny", "purpose"],
+    "spiritual_compatibility": ["secular", "spiritual_but_not_religious", "christian"],
+    "requires_symbols": [],
+    "forbidden_symbols": []
+  },
+  {
+    "id": "grandiosity_activation_loop",
+    "psychological_function": ["agency", "power"],
+    "good_for": ["low_self_efficacy"],
+    "avoid_if": ["mania_risk", "grandiosity"],
+    "language_style": ["identity_repetition", "power_language"],
+    "rhythm": "intense",
+    "semantic_cluster": ["power", "grandeur", "identity"],
+    "spiritual_compatibility": ["secular"],
+    "requires_symbols": [],
+    "forbidden_symbols": []
+  },
+  {
+    "id": "dogmatic_certainty_loop",
+    "psychological_function": ["certainty", "closure"],
+    "good_for": ["rumination"],
+    "avoid_if": [],
+    "language_style": ["certainty_language", "dogmatic_framing"],
+    "rhythm": "steady",
+    "semantic_cluster": ["dogma", "certainty", "truth"],
+    "spiritual_compatibility": ["christian", "religious_other"],
+    "requires_symbols": [],
+    "forbidden_symbols": []
+  }
+]

@@ -48,6 +48,7 @@ MODULE_TITLES: dict[str, str] = {
     "relationships-domain-short": "Relationships Domain Short",
     "values-identity-domain-short": "Values / Identity Domain Short",
     "emotional-flexibility-domain-short": "Emotional Flexibility Domain Short",
+    "spirituality-worldview-short": "Spirituality / Worldview Short",
 }
 
 SCALE_LABELS: dict[str, tuple[str, str]] = {

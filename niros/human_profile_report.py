@@ -18,6 +18,7 @@ from niros.fingerprint_coverage import (
     FingerprintCoverageReport,
     format_fingerprint_coverage_report,
 )
+from niros.icaros_readiness import IcarosReadinessResult, render_icaros_readiness_section
 from niros.human_profile_summary import (
     GENERIC_PATTERN_TEXT,
     NO_EVIDENCE_PROFILE_TEXT,
@@ -28,6 +29,12 @@ from niros.hypotheses import Hypothesis
 from niros.knowledge import KnowledgePattern, PatternLoader
 from niros.patterns import PatternTag
 from niros.semantic_interpreter.facts import SemanticFact
+from niros.spirituality_worldview import (
+    SpiritualityWorldviewProfile,
+    build_spirituality_worldview_profile,
+    matched_texts_from_tags,
+    render_worldview_profile_section,
+)
 
 RELATIONSHIPS_DOMAIN = "relationships"
 SELF_CONCEPT_DOMAIN = "self_concept"
@@ -58,6 +65,8 @@ class HumanProfileReport:
     evidence_summary: list[str] = field(default_factory=list)
     assessment_signals: list[str] = field(default_factory=list)
     fingerprint_coverage: FingerprintCoverageReport | None = None
+    spirituality_worldview: SpiritualityWorldviewProfile | None = None
+    icaros_readiness: IcarosReadinessResult | None = None
 
 
 def build_human_profile_report(
@@ -82,6 +91,13 @@ def build_human_profile_report(
         assessment_module_runs=assessment_module_runs,
         fingerprint_coverage_report=fingerprint_coverage_report,
     )
+    worldview_profile = build_spirituality_worldview_profile(
+        presenting_problem=presenting,
+        pattern_ids={tag.canonical_id for tag in detected_patterns},
+        semantic_facts=list(semantic_facts or []),
+        matched_texts=matched_texts_from_tags(detected_patterns),
+        assessment_results=list(assessment_results or []),
+    )
 
     if not ranked_pattern_ids:
         empty = _empty_report()
@@ -91,6 +107,7 @@ def build_human_profile_report(
             assessment_module_runs,
         )
         empty.fingerprint_coverage = coverage
+        empty.spirituality_worldview = worldview_profile
         return empty
 
     patterns = [pattern_loader.load(pattern_id) for pattern_id in ranked_pattern_ids]
@@ -119,6 +136,7 @@ def build_human_profile_report(
             assessment_module_runs,
         ),
         fingerprint_coverage=coverage,
+        spirituality_worldview=worldview_profile,
     )
 
 
@@ -170,6 +188,13 @@ def render_human_profile_report(report: HumanProfileReport) -> str:
                 ),
             )
         )
+    if report.spirituality_worldview is not None:
+        sections.append(
+            (
+                "Spirituality / Worldview",
+                render_worldview_profile_section(report.spirituality_worldview),
+            )
+        )
     sections.extend(
         [
             ("Main Observed Tendencies", _render_bullet_section(report.tendencies)),
@@ -188,7 +213,10 @@ def render_human_profile_report(report: HumanProfileReport) -> str:
         f"{title}\n{content}"
         for title, content in sections
     ]
-    return "\n\n".join(rendered_sections)
+    body = "\n\n".join(rendered_sections)
+    if report.icaros_readiness is not None:
+        body = f"{body}\n\n{render_icaros_readiness_section(report.icaros_readiness)}"
+    return body
 
 
 def _empty_report() -> HumanProfileReport:

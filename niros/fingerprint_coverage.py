@@ -36,6 +36,7 @@ FINGERPRINT_DOMAIN_IDS: tuple[str, ...] = (
     "relationships_domain",
     "meaning",
     "values_identity_domain",
+    "spirituality_worldview",
     "cognitive_patterns_domain",
     "emotional_flexibility_domain",
     "sleep_nightmares",
@@ -58,6 +59,7 @@ DOMAIN_DISPLAY_LABELS: dict[str, str] = {
     "relationships_domain": "Relationships",
     "meaning": "Meaning",
     "values_identity_domain": "Values",
+    "spirituality_worldview": "Spirituality / Worldview",
     "cognitive_patterns_domain": "Cognitive",
     "emotional_flexibility_domain": "Flexibility",
     "sleep_nightmares": "Sleep / Nightmares",
@@ -80,6 +82,7 @@ COVERAGE_REPORT_DOMAIN_ORDER: tuple[str, ...] = (
     "relationships_domain",
     "meaning",
     "values_identity_domain",
+    "spirituality_worldview",
     "cognitive_patterns_domain",
     "emotional_flexibility_domain",
 )
@@ -90,6 +93,7 @@ MODULE_DOMAIN_COVERAGE: dict[str, tuple[str, ...]] = {
     "emotion-regulation-domain-short": ("emotion_regulation_domain",),
     "relationships-domain-short": ("relationships_domain",),
     "values-identity-domain-short": ("values_identity_domain", "meaning"),
+    "spirituality-worldview-short": ("spirituality_worldview",),
     "cognitive-patterns-domain-short": ("cognitive_patterns_domain",),
     "emotional-flexibility-domain-short": ("emotional_flexibility_domain",),
     "meaning-purpose-short": ("meaning", "values_identity_domain"),
@@ -127,10 +131,13 @@ PATTERN_DOMAIN_HINTS: dict[str, tuple[tuple[str, float], ...]] = {
     "obsessive_thinking_loop": (("cognitive_patterns_domain", 0.20),),
     "mental_overcontrol": (("cognitive_patterns_domain", 0.20),),
     "hopelessness_signal": (("cognitive_patterns_domain", 0.20), ("low_mood_depression_signals", 0.20)),
-    "loss_of_meaning": (("meaning", 0.30),),
-    "meaning_seeking": (("meaning", 0.20), ("values_identity_domain", 0.15)),
+    "loss_of_meaning": (("meaning", 0.30), ("spirituality_worldview", 0.10)),
     "identity_confusion": (("values_identity_domain", 0.25),),
     "identity_uncertainty": (("values_identity_domain", 0.20),),
+    "meaning_seeking": (("meaning", 0.20), ("values_identity_domain", 0.15), ("spirituality_worldview", 0.15)),
+    "mystical_expectation": (("spirituality_worldview", 0.20), ("meaning", 0.10)),
+    "desire_for_change": (("spirituality_worldview", 0.10), ("values_identity_domain", 0.10)),
+    "search_for_self_understanding": (("spirituality_worldview", 0.10), ("values_identity_domain", 0.10)),
     "control_resistance": (("emotional_flexibility_domain", 0.20),),
     "surrender_difficulty": (("emotional_flexibility_domain", 0.20),),
     "grief_signal": (("grief_loss_bereavement", 0.30), ("meaning", 0.15)),
@@ -175,7 +182,13 @@ SEMANTIC_FACT_DOMAIN_HINTS: dict[tuple[str, str], tuple[tuple[str, float], ...]]
     ("sleep", "insomnia"): (("sleep_nightmares", 0.25),),
     ("sleep", "nightmares"): (("sleep_nightmares", 0.25),),
     ("sleep", "sleep_disruption"): (("sleep_nightmares", 0.20),),
-    ("meaning", "meaning_sense"): (("meaning", 0.20), ("values_identity_domain", 0.10)),
+    ("meaning", "meaning_sense"): (("meaning", 0.20), ("values_identity_domain", 0.10), ("spirituality_worldview", 0.10)),
+    ("meaning", "worldview_orientation"): (("spirituality_worldview", 0.30),),
+    ("meaning", "symbolic_language_preference"): (("spirituality_worldview", 0.20),),
+    ("meaning", "avoided_symbolic_language"): (("spirituality_worldview", 0.20),),
+    ("session", "spiritual_openness"): (("spirituality_worldview", 0.20),),
+    ("session", "religious_language_comfort"): (("spirituality_worldview", 0.25),),
+    ("session", "session_openness"): (("spirituality_worldview", 0.15), ("psychedelic_session_concerns", 0.10)),
     ("agency", "recovery_goal"): (("values_identity_domain", 0.10), ("self_domain", 0.10)),
 }
 
@@ -189,7 +202,21 @@ INTAKE_DOMAIN_KEYWORDS: dict[str, tuple[str, ...]] = {
     "chronic_pain_fibromyalgia_fatigue": ("pain", "fatigue", "біль", "втом", "fibromyalgia"),
     "speech_stuttering_expression": ("stutter", "speech", "заїк", "говор"),
     "psychedelic_session_concerns": ("psychedelic", "bad trip", "тріп", "psilocybin"),
-    "meaning": ("meaning", "purpose", "сенс", "зміст", "empty", "порожн"),
+    "meaning": ("meaning", "purpose", "сенс", "зміст", "empty", "порожн", "spiritual", "духов", "god", "faith"),
+    "spirituality_worldview": (
+        "god",
+        "spiritual",
+        "religious",
+        "secular",
+        "atheist",
+        "christian",
+        "prayer",
+        "faith",
+        "holy spirit",
+        "worldview",
+        "symbolic",
+        "myth",
+    ),
     "self_domain": ("worthless", "unwanted", "непотрібн", "belong", "не маю значення"),
     "relationships_domain": ("alone", "lonely", "relationship", "partner", "стосунк"),
 }
@@ -216,6 +243,7 @@ PREFERRED_MODULE_BY_SYMPTOM_DOMAIN: dict[str, str] = {
     "speech_stuttering_expression": "speech-anxiety-short",
     "psychedelic_session_concerns": "psychedelic-concern-short",
     "meaning": "meaning-purpose-short",
+    "spirituality_worldview": "spirituality-worldview-short",
 }
 
 PREFERRED_MODULE_BONUS = 0.45
@@ -227,6 +255,7 @@ CORE_PSYCH_FINGERPRINT_DOMAINS: frozenset[str] = frozenset(
         "emotion_regulation_domain",
         "relationships_domain",
         "values_identity_domain",
+        "spirituality_worldview",
         "cognitive_patterns_domain",
         "emotional_flexibility_domain",
     }
@@ -297,6 +326,15 @@ class FingerprintCoverageAnalyzer:
             completed_assessments or {},
             coverage_values,
             confidence_values,
+        )
+        _apply_worldview_profile_coverage(
+            presenting_problem=presenting_problem,
+            pattern_ids=pattern_ids,
+            semantic_facts=semantic_facts or [],
+            patterns=patterns,
+            completed_assessments=completed_assessments or {},
+            coverage_values=coverage_values,
+            confidence_values=confidence_values,
         )
 
         domains = {
@@ -412,6 +450,7 @@ PROFILE_DOMAIN_DISPLAY_LABELS: dict[str, str] = {
     **DOMAIN_DISPLAY_LABELS,
     "meaning": "Meaning / Purpose",
     "values_identity_domain": "Values / Identity",
+    "spirituality_worldview": "Spirituality / Worldview",
     "cognitive_patterns_domain": "Cognitive Patterns",
     "emotional_flexibility_domain": "Emotional Flexibility",
 }
@@ -653,6 +692,53 @@ def _apply_completed_assessment_coverage(
         for domain_id in module_domains:
             coverage_values[domain_id] = max(coverage_values[domain_id], module_coverage)
             confidence_values[domain_id] = max(confidence_values[domain_id], module_coverage)
+
+
+def _apply_worldview_profile_coverage(
+    *,
+    presenting_problem: dict[str, str],
+    pattern_ids: frozenset[str],
+    semantic_facts: list[SemanticFact],
+    patterns: list[str] | list[PatternTag],
+    completed_assessments: dict[str, list[AssessmentResult]],
+    coverage_values: dict[str, float],
+    confidence_values: dict[str, float],
+) -> None:
+    from niros.spirituality_worldview import (
+        SPIRITUALITY_WORLDVIEW_DOMAIN,
+        build_spirituality_worldview_profile,
+        matched_texts_from_tags,
+        pattern_ids_from_tags,
+        worldview_coverage_value,
+    )
+
+    matched_texts: list[str] = []
+    if patterns and isinstance(patterns[0], PatternTag):
+        matched_texts = matched_texts_from_tags(patterns)  # type: ignore[arg-type]
+
+    assessment_results = [
+        result
+        for results in completed_assessments.values()
+        for result in results
+        if result.fingerprint_dimension == SPIRITUALITY_WORLDVIEW_DOMAIN
+    ]
+
+    profile = build_spirituality_worldview_profile(
+        presenting_problem=presenting_problem,
+        pattern_ids=pattern_ids or pattern_ids_from_tags(list(patterns)),
+        semantic_facts=semantic_facts,
+        matched_texts=matched_texts,
+        assessment_results=assessment_results,
+    )
+    worldview_coverage = worldview_coverage_value(profile)
+    coverage_values[SPIRITUALITY_WORLDVIEW_DOMAIN] = max(
+        coverage_values[SPIRITUALITY_WORLDVIEW_DOMAIN],
+        worldview_coverage,
+    )
+    confidence_values[SPIRITUALITY_WORLDVIEW_DOMAIN] = max(
+        confidence_values[SPIRITUALITY_WORLDVIEW_DOMAIN],
+        worldview_coverage,
+    )
 
 
 def _normalize_patterns(

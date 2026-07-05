@@ -67,6 +67,7 @@ STRATEGY_FOCUS_AREAS: tuple[tuple[str, tuple[str, ...]], ...] = (
     ("emotion regulation", ("emotion_regulation_domain",)),
     ("relationships", ("relationships_domain",)),
     ("meaning / purpose", ("meaning", "values_identity_domain")),
+    ("spirituality / worldview", ("spirituality_worldview", "meaning")),
     ("emotional flexibility", ("emotional_flexibility_domain",)),
 )
 
@@ -363,6 +364,7 @@ def build_intervention_strategy(
     )
     if coverage_report is not None:
         merged, notes = _apply_coverage_adjustments(merged, notes, coverage_report)
+    merged, notes = _apply_worldview_profile_notes(fingerprint_or_profile, merged, notes)
     duration = _compute_duration(
         pattern_ids,
         use_shorter=bool(merged.pop("use_shorter_duration", False)),
@@ -517,6 +519,10 @@ def _uncertainty_notes_for_domains(
         )
     if focus_area == "personality / pacing" and confidence == STRATEGY_CONFIDENCE_HIGH:
         notes.append("Big Five coverage supports confident tone and pacing choices")
+    if focus_area == "spirituality / worldview" and confidence != STRATEGY_CONFIDENCE_HIGH:
+        notes.append(
+            "Use conservative symbolic language until worldview orientation is clearer"
+        )
 
     return tuple(dict.fromkeys(notes))
 
@@ -565,7 +571,72 @@ def _apply_coverage_adjustments(
         if note not in note_list:
             note_list.append(note)
 
+    worldview_level = domains["spirituality_worldview"].level
+    if worldview_level == COVERAGE_LEVEL_UNKNOWN:
+        merged["spirituality_focus"] = _merge_lowest(str(merged["spirituality_focus"]), "low")
+        merged["metaphor_level"] = _merge_lowest(str(merged["metaphor_level"]), "low")
+        note = (
+            "Spirituality / Worldview is unknown: keep symbolic language conservative "
+            "and avoid religious framing."
+        )
+        if note not in note_list:
+            note_list.append(note)
+    elif worldview_level == COVERAGE_LEVEL_PARTIAL:
+        note = (
+            "Spirituality / Worldview is partial: use cautious symbolic language "
+            "until preferences are clearer."
+        )
+        if note not in note_list:
+            note_list.append(note)
+
     return merged, tuple(note_list)
+
+
+def _apply_worldview_profile_notes(
+    fingerprint_or_profile: dict,
+    merged: dict[str, str | bool],
+    notes: tuple[str, ...],
+) -> tuple[dict[str, str | bool], tuple[str, ...]]:
+    from niros.spirituality_worldview import (
+        COMFORT_AVOID,
+        ORIENTATION_UNKNOWN,
+        SpiritualityWorldviewProfile,
+    )
+
+    payload = fingerprint_or_profile.get("spirituality_worldview")
+    if not payload:
+        return merged, notes
+
+    profile = SpiritualityWorldviewProfile.from_dict(payload)
+    if profile.worldview_orientation == ORIENTATION_UNKNOWN:
+        if not profile.symbolic_language_preferences and not profile.avoided_symbolic_language:
+            return merged, notes
+
+    note_list = list(notes)
+
+    if profile.worldview_orientation != ORIENTATION_UNKNOWN:
+        note_list.append(
+            f"Worldview framing: {profile.worldview_orientation.replace('_', ' ')}"
+        )
+    if profile.symbolic_language_preferences:
+        note_list.append(
+            "Allowed symbolic language: "
+            + ", ".join(profile.symbolic_language_preferences)
+        )
+    if profile.avoided_symbolic_language:
+        note_list.append(
+            "Avoided symbolic language: "
+            + ", ".join(profile.avoided_symbolic_language)
+        )
+    if profile.icaros_language_constraints:
+        note_list.append(
+            "Future Icaro language constraints: "
+            + "; ".join(profile.icaros_language_constraints)
+        )
+    if profile.religious_language_comfort == COMFORT_AVOID:
+        merged["spirituality_focus"] = _merge_lowest(str(merged["spirituality_focus"]), "low")
+
+    return merged, tuple(dict.fromkeys(note_list))
 
 
 def _attach_coverage_context(

@@ -7,6 +7,12 @@ from niros.big_five.scorer import score_big_five
 from niros.human_profile_summary import NO_EVIDENCE_PROFILE_TEXT, build_human_profile_summary
 from niros.patterns import PatternTag
 from niros.semantic_interpreter.facts import SemanticFact
+from niros.spirituality_worldview import (
+    build_spirituality_worldview_profile,
+    matched_texts_from_tags,
+    pattern_ids_from_tags,
+    render_worldview_profile_section,
+)
 
 HIGH_TRAIT_THRESHOLD = 0.65
 LOW_TRAIT_THRESHOLD = 0.35
@@ -57,12 +63,21 @@ def build_human_digital_fingerprint(
     if profile is None and big_five_answers is not None:
         profile = score_big_five(big_five_answers)
 
+    worldview_profile = build_spirituality_worldview_profile(
+        presenting_problem=presenting_problem,
+        pattern_ids=pattern_ids_from_tags(detected_patterns),
+        semantic_facts=facts,
+        matched_texts=matched_texts_from_tags(detected_patterns),
+        assessment_results=list(assessment_results or []),
+    )
+
     fingerprint_payload = {
         "patterns": patterns,
         "semantic_facts": facts,
         "big_five": profile.to_dict() if profile is not None else None,
         "presenting_problem": presenting_problem or {},
         "assessment_results": serialized_assessment,
+        "spirituality_worldview": worldview_profile.to_dict(),
     }
 
     return {
@@ -71,6 +86,7 @@ def build_human_digital_fingerprint(
         "big_five": profile.to_dict() if profile is not None else None,
         "presenting_problem": dict(presenting_problem or {}),
         "assessment_results": serialized_assessment,
+        "spirituality_worldview": worldview_profile.to_dict(),
         "summary_text": format_human_digital_fingerprint(fingerprint_payload),
     }
 
@@ -97,6 +113,16 @@ def format_human_digital_fingerprint(fingerprint: dict) -> str:
     assessment_part = _format_assessment_results_section(fingerprint.get("assessment_results", []))
     if assessment_part:
         parts.append(assessment_part)
+
+    worldview_payload = fingerprint.get("spirituality_worldview")
+    if worldview_payload:
+        from niros.spirituality_worldview import SpiritualityWorldviewProfile
+
+        worldview_part = render_worldview_profile_section(
+            SpiritualityWorldviewProfile.from_dict(worldview_payload)
+        )
+        if worldview_part:
+            parts.append("Spirituality / Worldview: " + worldview_part.replace("\n", " "))
 
     if not parts:
         return NO_EVIDENCE_PROFILE_TEXT

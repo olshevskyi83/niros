@@ -34,6 +34,7 @@ EXPECTED_MODULE_IDS = (
     "relationships-domain-short",
     "values-identity-domain-short",
     "emotional-flexibility-domain-short",
+    "spirituality-worldview-short",
 )
 
 SHORT_MODULE_ITEM_COUNTS = {
@@ -55,6 +56,7 @@ SHORT_MODULE_ITEM_COUNTS = {
     "relationships-domain-short": 6,
     "values-identity-domain-short": 6,
     "emotional-flexibility-domain-short": 6,
+    "spirituality-worldview-short": 7,
 }
 
 

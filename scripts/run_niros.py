@@ -273,6 +273,14 @@ def run_niros(
     semantic_facts = None
     if session.intake_result is not None:
         semantic_facts = session.intake_result.evidence_store.facts()
+
+    profile = build_profile_from_history(session)
+    strategy = build_intervention_strategy(
+        fingerprint,
+        fingerprint_coverage_report=coverage_report,
+    )
+    blueprint = build_scenario_blueprint(profile, intervention_strategy=strategy)
+
     print_human_profile_report(
         session.history,
         stream,
@@ -280,6 +288,10 @@ def run_niros(
         assessment_results=session.assessment_results,
         assessment_module_runs=session.assessment_module_runs,
         semantic_facts=semantic_facts,
+        fingerprint=fingerprint,
+        fingerprint_coverage_report=coverage_report,
+        intervention_strategy=strategy,
+        scenario_blueprint=blueprint,
     )
 
     if session.assessment_module_runs and assessment == ASSESSMENT_BIG_FIVE_SHORT:
@@ -294,11 +306,6 @@ def run_niros(
         fingerprint_coverage_report=coverage_report,
     )
 
-    profile = build_profile_from_history(session)
-    strategy = build_intervention_strategy(
-        fingerprint,
-        fingerprint_coverage_report=coverage_report,
-    )
     print_scenario_blueprint_section(
         profile,
         stream,

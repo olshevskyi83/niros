@@ -76,6 +76,7 @@ def test_profile_report_lists_all_core_fingerprint_domains():
             "relationships_domain": "Relationships",
             "meaning": "Meaning / Purpose",
             "values_identity_domain": "Values / Identity",
+            "spirituality_worldview": "Spirituality / Worldview",
             "cognitive_patterns_domain": "Cognitive Patterns",
             "emotional_flexibility_domain": "Emotional Flexibility",
         }[domain_id]

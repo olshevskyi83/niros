@@ -15,6 +15,9 @@ from niros.human_profile_report import (
     build_human_profile_report_from_tags,
     render_human_profile_report,
 )
+from niros.icaros_readiness import IcarosReadinessEvaluator, IcarosReadinessResult
+from niros.intervention_strategy import InterventionStrategy
+from niros.scenario_blueprint import ScenarioBlueprint, build_scenario_blueprint
 from niros.intake_protocol import (
     DEFAULT_INTAKE_PROTOCOL,
     PRESENTING_PROBLEM_ID,
@@ -22,6 +25,7 @@ from niros.intake_protocol import (
     intake_state_from_answers,
 )
 from niros.evidence_store import EvidenceStore
+from niros.fingerprint_coverage import FingerprintCoverageReport
 from niros.semantic_interpreter.facts import SemanticFact
 from niros.intake_runner import (
     IntakeSessionResult,
@@ -323,6 +327,11 @@ def print_human_profile_report(
     assessment_results: list[AssessmentResult] | None = None,
     assessment_module_runs: list[AssessedModuleRun] | None = None,
     semantic_facts: list[SemanticFact] | None = None,
+    fingerprint: dict | None = None,
+    fingerprint_coverage_report: FingerprintCoverageReport | None = None,
+    intervention_strategy: InterventionStrategy | None = None,
+    scenario_blueprint: ScenarioBlueprint | None = None,
+    icaros_readiness: IcarosReadinessResult | None = None,
 ) -> None:
     detected_patterns = [tag for turn in history for tag in turn.pattern_tags]
     hypotheses = [hypothesis for turn in history for hypothesis in turn.hypotheses]
@@ -333,7 +342,17 @@ def print_human_profile_report(
         assessment_results=assessment_results,
         assessment_module_runs=assessment_module_runs,
         semantic_facts=semantic_facts,
+        fingerprint_coverage_report=fingerprint_coverage_report,
     )
+
+    if icaros_readiness is None and fingerprint is not None and fingerprint_coverage_report is not None and intervention_strategy is not None:
+        icaros_readiness = IcarosReadinessEvaluator().evaluate(
+            fingerprint=fingerprint,
+            coverage_report=fingerprint_coverage_report,
+            strategy=intervention_strategy,
+            scenario_blueprint=scenario_blueprint,
+        )
+    report.icaros_readiness = icaros_readiness
 
     print("=== Human Profile Report ===", file=stream)
     print(render_human_profile_report(report), file=stream)
