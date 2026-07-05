@@ -32,3 +32,21 @@ The **Human Understanding Engine** is the active focus. Other modules (Therapeut
 ## Agent team
 
 Use the NIROS subagents in `.cursor/agents/` for specialized work. This rule sets philosophy; agents and vault docs carry implementation detail.
+
+## Test execution
+
+The AI must never automatically execute project tests.
+
+The AI may:
+- create tests;
+- modify tests;
+- update fixtures.
+
+The AI must never run:
+- pytest
+- python -m pytest
+- uv run pytest
+- poetry run pytest
+- any terminal-based test command.
+
+The developer executes all tests manually.
