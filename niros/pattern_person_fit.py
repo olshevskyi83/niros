@@ -6,7 +6,9 @@ Does not generate Icaros. Deterministic gate before future TLE pattern selection
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from typing import Any, Iterable
+from typing import Any, Iterable, Union
+
+CandidatePatternInput = Union["CandidateTherapeuticPattern", "TherapeuticPattern", dict[str, Any]]
 
 from niros.fingerprint_coverage import (
     COVERAGE_LEVEL_PARTIAL,
@@ -99,6 +101,11 @@ class CandidateTherapeuticPattern:
     spiritual_compatibility: tuple[str, ...]
     requires_symbols: tuple[str, ...] = ()
     forbidden_symbols: tuple[str, ...] = ()
+    name: str = ""
+    intensity: str = "medium"
+    directness: str = "medium"
+    repetition_level: str = "medium"
+    safety_notes: tuple[str, ...] = ()
 
     @classmethod
     def from_dict(cls, payload: dict[str, Any]) -> CandidateTherapeuticPattern:
@@ -113,11 +120,17 @@ class CandidateTherapeuticPattern:
             spiritual_compatibility=tuple(payload.get("spiritual_compatibility", ())),
             requires_symbols=tuple(payload.get("requires_symbols", ())),
             forbidden_symbols=tuple(payload.get("forbidden_symbols", ())),
+            name=str(payload.get("name", "")),
+            intensity=str(payload.get("intensity", "medium")),
+            directness=str(payload.get("directness", "medium")),
+            repetition_level=str(payload.get("repetition_level", "medium")),
+            safety_notes=tuple(payload.get("safety_notes", ())),
         )
 
     def to_dict(self) -> dict[str, Any]:
         return {
             "id": self.id,
+            "name": self.name,
             "psychological_function": list(self.psychological_function),
             "good_for": list(self.good_for),
             "avoid_if": list(self.avoid_if),
@@ -127,6 +140,10 @@ class CandidateTherapeuticPattern:
             "spiritual_compatibility": list(self.spiritual_compatibility),
             "requires_symbols": list(self.requires_symbols),
             "forbidden_symbols": list(self.forbidden_symbols),
+            "intensity": self.intensity,
+            "directness": self.directness,
+            "repetition_level": self.repetition_level,
+            "safety_notes": list(self.safety_notes),
         }
 
 
@@ -187,8 +204,11 @@ class PatternPersonFitEvaluator:
         scenario_blueprint: ScenarioBlueprint | None,
         icaros_readiness: IcarosReadinessResult,
         spirituality_worldview: SpiritualityWorldviewProfile,
-        candidate_patterns: Iterable[CandidateTherapeuticPattern],
+        candidate_patterns: Iterable[CandidatePatternInput],
     ) -> PatternPersonFitResult:
+        normalized_patterns = [
+            normalize_candidate_pattern(pattern) for pattern in candidate_patterns
+        ]
         if icaros_readiness.readiness_level == READINESS_NOT_READY:
             return PatternPersonFitResult(
                 blocking_reason=(
@@ -214,7 +234,7 @@ class PatternPersonFitEvaluator:
         rejected: list[RejectedPatternFit] = []
         warnings: list[str] = list(icaros_readiness.warnings)
 
-        for pattern in candidate_patterns:
+        for pattern in normalized_patterns:
             reject_reasons = _hard_reject_reasons(pattern, context)
             if reject_reasons:
                 rejected.append(RejectedPatternFit(id=pattern.id, reason=tuple(reject_reasons)))
@@ -260,6 +280,21 @@ class _EvaluationContext:
     icaros_readiness: IcarosReadinessResult
     worldview: SpiritualityWorldviewProfile
     detected_patterns: set[str]
+
+
+def normalize_candidate_pattern(pattern: CandidatePatternInput) -> CandidateTherapeuticPattern:
+    if isinstance(pattern, CandidateTherapeuticPattern):
+        return pattern
+
+    from niros.therapeutic_pattern import TherapeuticPattern
+
+    if isinstance(pattern, TherapeuticPattern):
+        return pattern.to_fit_candidate()
+
+    payload = dict(pattern)
+    if "intensity" in payload and "safety_notes" in payload:
+        return TherapeuticPattern.from_dict(payload).to_fit_candidate()
+    return CandidateTherapeuticPattern.from_dict(payload)
 
 
 def _detected_pattern_ids(fingerprint: dict) -> set[str]:
@@ -453,6 +488,9 @@ def _pattern_is_religious(pattern: CandidateTherapeuticPattern) -> bool:
 
 
 def _is_intense_identity_pattern(pattern: CandidateTherapeuticPattern) -> bool:
+    if pattern.intensity in {"high", "very_high"}:
+        if "identity" in pattern.semantic_cluster or "agency" in pattern.semantic_cluster:
+            return True
     return (
         "identity_repetition" in pattern.language_style
         and "identity" in pattern.semantic_cluster
@@ -564,6 +602,8 @@ def _pattern_constraints(
         constraints.append(
             "Avoid symbols: " + ", ".join(worldview.avoided_symbolic_language)
         )
+    if pattern.safety_notes:
+        constraints.extend(note for note in pattern.safety_notes if note not in constraints)
 
     return list(dict.fromkeys(constraints))
 

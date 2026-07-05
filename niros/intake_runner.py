@@ -10,6 +10,8 @@ from niros.adaptive_question_targeting import (
     register_adaptive_answer,
     select_intake_targeted_question,
 )
+from niros.clarification_engine_v2 import ClarificationPlan
+from niros.clarification_interview_adapter import select_clarification_interview_question
 from niros.evidence import statements_to_evidence
 from niros.evidence_store import EvidenceStore
 from niros.hypotheses import Hypothesis, generate_hypotheses
@@ -156,6 +158,8 @@ def select_adaptive_question(
     explicit_language: str | None = None,
     presenting_problem: dict[str, str] | None = None,
     completed_topics: list[str] | None = None,
+    clarification_plan: ClarificationPlan | None = None,
+    max_clarification_questions: int = 2,
 ) -> str | None:
     language = explicit_language or "en"
     intake_context = dict(presenting_problem or {})
@@ -165,6 +169,17 @@ def select_adaptive_question(
         language=language,
         blocked_questions=blocked_questions,
     )
+
+    if clarification_plan is not None:
+        clarification = select_clarification_interview_question(
+            clarification_plan,
+            answered_questions=answered_questions,
+            blocked_questions=effective_blocked,
+            max_clarification_questions=max_clarification_questions,
+        )
+        if clarification is not None and not is_question_already_asked(clarification, answered_questions):
+            return clarification
+
     used_topics = merged_used_topics(
         answered_questions,
         collect_answered_topics(answered_questions),
@@ -224,6 +239,8 @@ def run_adaptive_decision(
     presenting_problem: dict[str, str] | None = None,
     completed_topics: list[str] | None = None,
     current_question: str | None = None,
+    clarification_plan: ClarificationPlan | None = None,
+    max_clarification_questions: int = 2,
 ) -> tuple[list[PatternTag], list[Hypothesis], str | None, list[PatternTag]]:
     language = explicit_language or "en"
     intake_context = dict(presenting_problem or {})
@@ -269,6 +286,16 @@ def run_adaptive_decision(
         language=language,
         blocked_questions=blocked_questions,
     )
+
+    if clarification_plan is not None:
+        clarification = select_clarification_interview_question(
+            clarification_plan,
+            answered_questions=answered_questions,
+            blocked_questions=effective_blocked,
+            max_clarification_questions=max_clarification_questions,
+        )
+        if clarification is not None and not is_question_already_asked(clarification, answered_questions):
+            return turn_pattern_tags, hypotheses, clarification, all_pattern_tags
 
     targeted = select_intake_targeted_question(
         presenting_problem=intake_context,
