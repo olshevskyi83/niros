@@ -106,3 +106,50 @@ A user may complete the interview in English, Spanish, or Russian, while ceremon
 Future languages may be added without changing the internal canonical representation.
 
 All psychological reasoning must operate on canonical IDs, never on translated text.
+
+## NIROS Roadmap Context
+
+**Current priority:**
+
+1. Finish Voice Input pipeline: Voice → Whisper → Transcript → existing text pipeline.
+2. Build minimal working UI: Text/Voice input → Human Digital Fingerprint → StrategyCandidate → StrategyExplanation.
+3. Add Icaro Generator contract: Strategy → IcaroProfile. Icaro generation must NOT choose therapy; it only expresses an already selected therapeutic strategy.
+4. Future Vocal Pattern Engine: Use Maria Sabina chants only as historical source material for extracting psychotherapeutic vocal structures. Do NOT copy chants. Extract functional patterns such as identity reinforcement, acceptance, grounding, permission, closure, transition, protection, symbolic framing.
+5. Future Audio Research Engine: Research psilocybin-session music/audio structure, acoustic features, frequency ranges, tempo, repetition, pauses, vocal contour, and therapeutic effects. R&D only, not current MVP.
+6. Future Sensor Fusion Engine: Integrate EEG, HRV, heart rate, breathing, EDA/GSR, and subjective feedback. Goal: estimate current therapeutic state and later compare audio/vocal interventions against physiological response.
+
+**Core principle:** Therapeutic strategy is always selected by NIROS core:
+
+Human Digital Fingerprint → Pattern–Person Fit → StrategyCandidate
+
+Delivery modules come AFTER strategy: Text, Voice, Icaro, Audio, Somatic, Sensors.
+
+**Important:** Do not implement Icaro, audio research, or sensors unless explicitly requested.
+
+**Current implementation path:** Voice Input → Whisper Adapter → UI → Icaro Contract.
+
+## Future Patient / Session Storage
+
+NIROS will need a local-first patient/session storage layer.
+
+**Core principle:**
+
+- Do not require personal names.
+- Use anonymous numeric patient IDs.
+- Each patient has a stable patient number.
+- Every intake, transcript, fingerprint, strategy, session, icaro/audio output, and sensor record must be attached to that patient ID.
+- Sessions must never float globally without patient linkage.
+
+**Future structure:**
+
+Patient ID → Session ID → Transcript → Human Digital Fingerprint → Pattern–Person Fit Report → StrategyCandidate → StrategyExplanation → optional future outputs (IcaroProfile, AudioProfile, SensorFeedback, SessionOutcome).
+
+**Privacy principle:**
+
+- Prefer pseudonymous IDs over names.
+- Names are optional and not required for MVP.
+- Storage should support future export/delete per patient.
+
+**Important:** Do not implement database yet unless explicitly requested.
+
+**Current priority remains:** Voice Input → Whisper Adapter → minimal UI → Icaro Contract.

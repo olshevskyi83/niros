@@ -62,9 +62,23 @@ from niros.strategy_explanation import (
     build_strategy_explanation,
 )
 from niros.transcript import InputModality, Transcript
+from niros.voice_transcript import (
+    DEFAULT_CONFIDENCE,
+    DEFAULT_LANGUAGE,
+    DEFAULT_SESSION_ID,
+    DEFAULT_SOURCE,
+    TRANSCRIPT_STATUS_TRANSCRIBED,
+    VoiceInput as VoiceTranscriptInput,
+    VoiceTranscript,
+    create_transcript_from_text,
+)
 
 __all__ = [
     "BlueprintPhase",
+    "DEFAULT_CONFIDENCE",
+    "DEFAULT_LANGUAGE",
+    "DEFAULT_SESSION_ID",
+    "DEFAULT_SOURCE",
     "DEFAULT_STRATEGY_ID",
     "DRAFT_STRATEGY_STATUS",
     "EvidenceItem",
@@ -99,13 +113,17 @@ __all__ = [
     "StrategyExplanation",
     "StrategyExplanationItem",
     "SupportedLanguage",
+    "TRANSCRIPT_STATUS_TRANSCRIBED",
     "Transcript",
     "UnsupportedModalityError",
     "USE_WITH_CAUTION",
+    "VoiceTranscript",
+    "VoiceTranscriptInput",
     "advance",
     "build_pattern_fit_report",
     "build_strategy_candidate",
     "build_strategy_explanation",
+    "create_transcript_from_text",
     "generate_hypotheses",
     "initial_state",
     "pattern_tag_evidence",
