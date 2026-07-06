@@ -20,6 +20,17 @@ from niros.models import (
     InterviewState,
     SupportedLanguage,
 )
+from niros.pattern_person_fit_contracts import (
+    NOT_RECOMMENDED,
+    RECOMMENDED,
+    USE_WITH_CAUTION,
+    PatternFitReport,
+    PatternFitScore,
+    PersonFitProfile,
+)
+from niros.pattern_person_fit_ranking import rank_patterns_for_profile
+from niros.pattern_person_fit_report import build_pattern_fit_report
+from niros.pattern_person_fit_scoring import score_pattern_fit
 from niros.patterns import (
     PatternTag,
     PatternTagger,
@@ -39,10 +50,23 @@ from niros.statements import (
     UnsupportedModalityError,
     split_transcript_to_statements,
 )
+from niros.strategy_candidate_builder import (
+    DEFAULT_STRATEGY_ID,
+    DRAFT_STRATEGY_STATUS,
+    StrategyCandidate,
+    build_strategy_candidate,
+)
+from niros.strategy_explanation import (
+    StrategyExplanation,
+    StrategyExplanationItem,
+    build_strategy_explanation,
+)
 from niros.transcript import InputModality, Transcript
 
 __all__ = [
     "BlueprintPhase",
+    "DEFAULT_STRATEGY_ID",
+    "DRAFT_STRATEGY_STATUS",
     "EvidenceItem",
     "EvidenceSource",
     "EvidenceType",
@@ -59,22 +83,36 @@ __all__ = [
     "InterviewPhase",
     "InterviewState",
     "InvalidTransitionError",
+    "NOT_RECOMMENDED",
+    "PatternFitReport",
+    "PatternFitScore",
+    "PersonFitProfile",
     "PatternTag",
     "PatternTagger",
     "PatternLoader",
     "PatternRelationship",
     "PatternRelationType",
     "QuestionSuggestion",
+    "RECOMMENDED",
     "Statement",
+    "StrategyCandidate",
+    "StrategyExplanation",
+    "StrategyExplanationItem",
     "SupportedLanguage",
     "Transcript",
     "UnsupportedModalityError",
+    "USE_WITH_CAUTION",
     "advance",
+    "build_pattern_fit_report",
+    "build_strategy_candidate",
+    "build_strategy_explanation",
     "generate_hypotheses",
     "initial_state",
     "pattern_tag_evidence",
     "pattern_tag_evidence_items",
+    "rank_patterns_for_profile",
     "select_follow_up_questions",
+    "score_pattern_fit",
     "split_transcript_to_statements",
     "suggest_next_questions",
     "statement_to_evidence",
