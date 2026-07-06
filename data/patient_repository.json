@@ -1,0 +1,572 @@
+{
+  "patients": [
+    {
+      "patient_id": "PT-000001",
+      "created_at": "2026-07-06T14:57:46+00:00",
+      "status": "active",
+      "notes": ""
+    }
+  ],
+  "sessions": [
+    {
+      "session_id": "PT-000001-S001",
+      "patient_id": "PT-000001",
+      "created_at": "2026-07-06T14:58:01+00:00",
+      "input_mode": "text",
+      "transcript": "Мені дуже соромно за себе. Я постійно себе критикую і уникаю сильних емоцій.",
+      "fingerprint_snapshot": {
+        "profile_id": "ui_demo_profile",
+        "active_signals": [
+          "shame_sensitivity",
+          "harsh_self_criticism",
+          "emotional_avoidance"
+        ],
+        "dominant_domains": [
+          "self",
+          "emotion_regulation"
+        ],
+        "risk_signals": [
+          "overwhelm_risk"
+        ],
+        "needs": [
+          "self_compassion",
+          "emotional_tolerance"
+        ],
+        "session_phase": "preparation"
+      },
+      "strategy_snapshot": {
+        "strategy_id": "strategy_candidate_001",
+        "profile_id": "ui_demo_profile",
+        "strategy_status": "draft",
+        "rationale": "selected=2; caution=1; excluded=5",
+        "selected_patterns": [
+          {
+            "pattern_id": "pattern_self_compassion",
+            "canonical_name": "self compassion for shame",
+            "fit_score": 0.985,
+            "confidence": 0.9,
+            "matched_signals": [
+              "harsh_self_criticism",
+              "shame_sensitivity"
+            ],
+            "matched_domains": [
+              "self"
+            ],
+            "matched_needs": [
+              "self_compassion"
+            ],
+            "contraindication_hits": [],
+            "recommendation_status": "recommended",
+            "reason": "signals=2; domains=1; needs=1; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_acceptance",
+            "canonical_name": "acceptance of difficult emotions",
+            "fit_score": 0.9775,
+            "confidence": 0.85,
+            "matched_signals": [
+              "emotional_avoidance"
+            ],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [
+              "emotional_tolerance"
+            ],
+            "contraindication_hits": [],
+            "recommendation_status": "recommended",
+            "reason": "signals=1; domains=1; needs=1; contraindications=0"
+          }
+        ],
+        "caution_patterns": [
+          {
+            "pattern_id": "pattern_deep_exposure",
+            "canonical_name": "deep emotional exposure",
+            "fit_score": 0.685,
+            "confidence": 0.9,
+            "matched_signals": [
+              "emotional_avoidance"
+            ],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [
+              "emotional_tolerance"
+            ],
+            "contraindication_hits": [
+              "overwhelm_risk"
+            ],
+            "recommendation_status": "use_with_caution",
+            "reason": "signals=1; domains=1; needs=1; contraindications=1"
+          }
+        ],
+        "excluded_patterns": [
+          {
+            "pattern_id": "pattern_stabilization",
+            "canonical_name": "stabilization before deep work",
+            "fit_score": 0.332,
+            "confidence": 0.88,
+            "matched_signals": [],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "recommendation_status": "not_recommended",
+            "reason": "signals=0; domains=1; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_identity",
+            "canonical_name": "identity reinforcement",
+            "fit_score": 0.22,
+            "confidence": 0.8,
+            "matched_signals": [],
+            "matched_domains": [
+              "self"
+            ],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "recommendation_status": "not_recommended",
+            "reason": "signals=0; domains=1; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_defusion",
+            "canonical_name": "cognitive defusion",
+            "fit_score": 0.129,
+            "confidence": 0.86,
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "recommendation_status": "not_recommended",
+            "reason": "signals=0; domains=0; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_values",
+            "canonical_name": "values clarification",
+            "fit_score": 0.126,
+            "confidence": 0.84,
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "recommendation_status": "not_recommended",
+            "reason": "signals=0; domains=0; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_meaning",
+            "canonical_name": "meaning reconstruction",
+            "fit_score": 0.123,
+            "confidence": 0.82,
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "recommendation_status": "not_recommended",
+            "reason": "signals=0; domains=0; needs=0; contraindications=0"
+          }
+        ]
+      },
+      "explanation_snapshot": {
+        "strategy_id": "strategy_candidate_001",
+        "profile_id": "ui_demo_profile",
+        "summary": "selected=2; caution=1; excluded=5",
+        "explanation_items": [
+          {
+            "pattern_id": "pattern_self_compassion",
+            "canonical_name": "self compassion for shame",
+            "fit_score": 0.985,
+            "recommendation_status": "recommended",
+            "matched_signals": [
+              "harsh_self_criticism",
+              "shame_sensitivity"
+            ],
+            "matched_domains": [
+              "self"
+            ],
+            "matched_needs": [
+              "self_compassion"
+            ],
+            "contraindication_hits": [],
+            "explanation": "fit=0.9850; signals=2; domains=1; needs=1; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_acceptance",
+            "canonical_name": "acceptance of difficult emotions",
+            "fit_score": 0.9775,
+            "recommendation_status": "recommended",
+            "matched_signals": [
+              "emotional_avoidance"
+            ],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [
+              "emotional_tolerance"
+            ],
+            "contraindication_hits": [],
+            "explanation": "fit=0.9775; signals=1; domains=1; needs=1; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_deep_exposure",
+            "canonical_name": "deep emotional exposure",
+            "fit_score": 0.685,
+            "recommendation_status": "use_with_caution",
+            "matched_signals": [
+              "emotional_avoidance"
+            ],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [
+              "emotional_tolerance"
+            ],
+            "contraindication_hits": [
+              "overwhelm_risk"
+            ],
+            "explanation": "fit=0.6850; signals=1; domains=1; needs=1; contraindications=1"
+          },
+          {
+            "pattern_id": "pattern_stabilization",
+            "canonical_name": "stabilization before deep work",
+            "fit_score": 0.332,
+            "recommendation_status": "not_recommended",
+            "matched_signals": [],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "explanation": "fit=0.3320; signals=0; domains=1; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_identity",
+            "canonical_name": "identity reinforcement",
+            "fit_score": 0.22,
+            "recommendation_status": "not_recommended",
+            "matched_signals": [],
+            "matched_domains": [
+              "self"
+            ],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "explanation": "fit=0.2200; signals=0; domains=1; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_defusion",
+            "canonical_name": "cognitive defusion",
+            "fit_score": 0.129,
+            "recommendation_status": "not_recommended",
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "explanation": "fit=0.1290; signals=0; domains=0; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_values",
+            "canonical_name": "values clarification",
+            "fit_score": 0.126,
+            "recommendation_status": "not_recommended",
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "explanation": "fit=0.1260; signals=0; domains=0; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_meaning",
+            "canonical_name": "meaning reconstruction",
+            "fit_score": 0.123,
+            "recommendation_status": "not_recommended",
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "explanation": "fit=0.1230; signals=0; domains=0; needs=0; contraindications=0"
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "PT-000001-S002",
+      "patient_id": "PT-000001",
+      "created_at": "2026-07-06T15:07:18+00:00",
+      "input_mode": "text",
+      "transcript": "я зловживаю тютюном",
+      "fingerprint_snapshot": {
+        "profile_id": "ui_demo_profile",
+        "active_signals": [
+          "shame_sensitivity",
+          "harsh_self_criticism",
+          "emotional_avoidance"
+        ],
+        "dominant_domains": [
+          "self",
+          "emotion_regulation"
+        ],
+        "risk_signals": [
+          "overwhelm_risk"
+        ],
+        "needs": [
+          "self_compassion",
+          "emotional_tolerance"
+        ],
+        "session_phase": "preparation"
+      },
+      "strategy_snapshot": {
+        "strategy_id": "strategy_candidate_001",
+        "profile_id": "ui_demo_profile",
+        "strategy_status": "draft",
+        "rationale": "selected=2; caution=1; excluded=5",
+        "selected_patterns": [
+          {
+            "pattern_id": "pattern_self_compassion",
+            "canonical_name": "self compassion for shame",
+            "fit_score": 0.985,
+            "confidence": 0.9,
+            "matched_signals": [
+              "harsh_self_criticism",
+              "shame_sensitivity"
+            ],
+            "matched_domains": [
+              "self"
+            ],
+            "matched_needs": [
+              "self_compassion"
+            ],
+            "contraindication_hits": [],
+            "recommendation_status": "recommended",
+            "reason": "signals=2; domains=1; needs=1; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_acceptance",
+            "canonical_name": "acceptance of difficult emotions",
+            "fit_score": 0.9775,
+            "confidence": 0.85,
+            "matched_signals": [
+              "emotional_avoidance"
+            ],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [
+              "emotional_tolerance"
+            ],
+            "contraindication_hits": [],
+            "recommendation_status": "recommended",
+            "reason": "signals=1; domains=1; needs=1; contraindications=0"
+          }
+        ],
+        "caution_patterns": [
+          {
+            "pattern_id": "pattern_deep_exposure",
+            "canonical_name": "deep emotional exposure",
+            "fit_score": 0.685,
+            "confidence": 0.9,
+            "matched_signals": [
+              "emotional_avoidance"
+            ],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [
+              "emotional_tolerance"
+            ],
+            "contraindication_hits": [
+              "overwhelm_risk"
+            ],
+            "recommendation_status": "use_with_caution",
+            "reason": "signals=1; domains=1; needs=1; contraindications=1"
+          }
+        ],
+        "excluded_patterns": [
+          {
+            "pattern_id": "pattern_stabilization",
+            "canonical_name": "stabilization before deep work",
+            "fit_score": 0.332,
+            "confidence": 0.88,
+            "matched_signals": [],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "recommendation_status": "not_recommended",
+            "reason": "signals=0; domains=1; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_identity",
+            "canonical_name": "identity reinforcement",
+            "fit_score": 0.22,
+            "confidence": 0.8,
+            "matched_signals": [],
+            "matched_domains": [
+              "self"
+            ],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "recommendation_status": "not_recommended",
+            "reason": "signals=0; domains=1; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_defusion",
+            "canonical_name": "cognitive defusion",
+            "fit_score": 0.129,
+            "confidence": 0.86,
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "recommendation_status": "not_recommended",
+            "reason": "signals=0; domains=0; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_values",
+            "canonical_name": "values clarification",
+            "fit_score": 0.126,
+            "confidence": 0.84,
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "recommendation_status": "not_recommended",
+            "reason": "signals=0; domains=0; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_meaning",
+            "canonical_name": "meaning reconstruction",
+            "fit_score": 0.123,
+            "confidence": 0.82,
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "recommendation_status": "not_recommended",
+            "reason": "signals=0; domains=0; needs=0; contraindications=0"
+          }
+        ]
+      },
+      "explanation_snapshot": {
+        "strategy_id": "strategy_candidate_001",
+        "profile_id": "ui_demo_profile",
+        "summary": "selected=2; caution=1; excluded=5",
+        "explanation_items": [
+          {
+            "pattern_id": "pattern_self_compassion",
+            "canonical_name": "self compassion for shame",
+            "fit_score": 0.985,
+            "recommendation_status": "recommended",
+            "matched_signals": [
+              "harsh_self_criticism",
+              "shame_sensitivity"
+            ],
+            "matched_domains": [
+              "self"
+            ],
+            "matched_needs": [
+              "self_compassion"
+            ],
+            "contraindication_hits": [],
+            "explanation": "fit=0.9850; signals=2; domains=1; needs=1; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_acceptance",
+            "canonical_name": "acceptance of difficult emotions",
+            "fit_score": 0.9775,
+            "recommendation_status": "recommended",
+            "matched_signals": [
+              "emotional_avoidance"
+            ],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [
+              "emotional_tolerance"
+            ],
+            "contraindication_hits": [],
+            "explanation": "fit=0.9775; signals=1; domains=1; needs=1; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_deep_exposure",
+            "canonical_name": "deep emotional exposure",
+            "fit_score": 0.685,
+            "recommendation_status": "use_with_caution",
+            "matched_signals": [
+              "emotional_avoidance"
+            ],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [
+              "emotional_tolerance"
+            ],
+            "contraindication_hits": [
+              "overwhelm_risk"
+            ],
+            "explanation": "fit=0.6850; signals=1; domains=1; needs=1; contraindications=1"
+          },
+          {
+            "pattern_id": "pattern_stabilization",
+            "canonical_name": "stabilization before deep work",
+            "fit_score": 0.332,
+            "recommendation_status": "not_recommended",
+            "matched_signals": [],
+            "matched_domains": [
+              "emotion_regulation"
+            ],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "explanation": "fit=0.3320; signals=0; domains=1; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_identity",
+            "canonical_name": "identity reinforcement",
+            "fit_score": 0.22,
+            "recommendation_status": "not_recommended",
+            "matched_signals": [],
+            "matched_domains": [
+              "self"
+            ],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "explanation": "fit=0.2200; signals=0; domains=1; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_defusion",
+            "canonical_name": "cognitive defusion",
+            "fit_score": 0.129,
+            "recommendation_status": "not_recommended",
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "explanation": "fit=0.1290; signals=0; domains=0; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_values",
+            "canonical_name": "values clarification",
+            "fit_score": 0.126,
+            "recommendation_status": "not_recommended",
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "explanation": "fit=0.1260; signals=0; domains=0; needs=0; contraindications=0"
+          },
+          {
+            "pattern_id": "pattern_meaning",
+            "canonical_name": "meaning reconstruction",
+            "fit_score": 0.123,
+            "recommendation_status": "not_recommended",
+            "matched_signals": [],
+            "matched_domains": [],
+            "matched_needs": [],
+            "contraindication_hits": [],
+            "explanation": "fit=0.1230; signals=0; domains=0; needs=0; contraindications=0"
+          }
+        ]
+      }
+    }
+  ]
+}

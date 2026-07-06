@@ -152,6 +152,46 @@ Future sensor layer may include: EEG, HRV, heart rate, breathing, EDA/GSR, voice
 
 **Future loop:** Patient ID → Stable Fingerprint → Current Therapeutic State → Pattern–Person Fit → Strategy → Icaro / Audio / Text Delivery → Sensor Feedback → Updated Therapeutic State.
 
+## Sensor Integration Philosophy
+
+Sensors are NOT primarily used during intake.
+
+Their primary purpose is supporting psychedelic sessions.
+
+Sensor data must never replace psychological reasoning.
+
+Instead, sensors provide an objective physiological timeline that can later be compared with:
+
+- Human Digital Fingerprint
+- Session transcript
+- Therapeutic Strategy
+- Icaro timeline
+- Patient feedback
+
+Future supported modalities include:
+
+- EEG
+- HRV
+- Heart rate
+- Respiration
+- GSR
+- Optional voice markers
+- Optional movement markers
+
+Future pipeline:
+
+Pre-session → Human Digital Fingerprint → Strategy → Personalized Icaro
+
+During session → EEG / HRV / GSR / Sensors → Timestamped physiological timeline
+
+After session → Session Analysis Engine → Comparison of subjective report, physiological data, therapeutic timeline → Patient Memory
+
+Sensor data should primarily improve personalization for the same patient across future sessions.
+
+Sensor data must not automatically rewrite Universal Pattern Library.
+
+Future outcome: NIROS gradually learns how each patient physiologically responds to different therapeutic mechanisms without requiring large population datasets.
+
 ## Future NeuroAudio Research Engine
 
 Future R&D module only, not current MVP.

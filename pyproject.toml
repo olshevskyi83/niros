@@ -14,6 +14,9 @@ dependencies = [
 dev = [
     "pytest>=8.0",
 ]
+ui = [
+    "streamlit>=1.30",
+]
 voice = [
     "SpeechRecognition>=3.10.0",
 ]
