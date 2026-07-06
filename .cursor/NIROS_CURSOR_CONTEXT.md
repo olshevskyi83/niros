@@ -170,12 +170,111 @@ Audio, Icaro, sensors, and UI are delivery or feedback layers AFTER strategy.
 
 Do not implement future modules unless explicitly requested.
 
-**Current path:**
+**Current path — Adaptive Intake Brain:**
 
-1. Voice Input contracts
-2. Whisper Adapter
-3. Minimal UI
-4. Icaro Generator Contract
-5. Later: Patient Repository
-6. Later: Audio/Icaro R&D
-7. Later: Sensor Fusion
+Coverage → Clarification → Conversational Intake → Strategy
+
+Finish this before Research Intake Assistant or other expansion work.
+
+**Completed or in progress (do not re-open without reason):**
+
+Voice Input contracts, Whisper Adapter (mock), Minimal UI, Patient Repository, Pattern–Person Fit, StrategyCandidate, Intake Coverage, Clarification Selector.
+
+**Later:**
+
+Icaro Generator Contract, Audio/Icaro R&D, Sensor Fusion, Research Intake Assistant.
+
+## NIROS Strategic Lock
+
+NIROS is not an endless module project.
+
+Every new feature must answer at least one of these questions:
+
+1. Does it improve Knowledge?
+2. Does it improve Reasoning?
+3. Does it improve Personalization for a specific person?
+4. Does it move the project closer to a working MVP?
+
+If not, do not implement it.
+
+## Knowledge Growth Strategy
+
+NIROS must not depend on thousands of patients to become useful.
+
+Primary knowledge growth comes from:
+
+- psychotherapy manuals
+- clinical protocols
+- systematic reviews
+- meta-analyses
+- psilocybin therapy studies
+- music and psychedelic therapy studies
+- neuroscience papers
+- Maria Sabina / traditional chant material as structural source
+- carefully reviewed human experience notes
+
+All external knowledge must pass through TLE:
+
+Source → Corpus Registry → Knowledge Chunks → Meaning Units → Candidate Therapeutic Mechanisms → Similarity / Consolidation → Human Review → Universal Pattern Library
+
+OpenAI may assist with:
+
+- semantic interpretation
+- summarization
+- source triage
+- question wording
+- extraction assistance
+
+OpenAI must NOT:
+
+- silently create global therapeutic rules
+- overwrite NIROS reasoning
+- decide therapy independently
+- add unverified knowledge directly into Universal Pattern Library
+
+## Learning Strategy
+
+NIROS learning has three layers:
+
+1. **Global Knowledge**
+   - grows mostly from literature and reviewed sources
+   - changes slowly
+   - never changes automatically from one user
+
+2. **Reasoning Layer**
+   - deterministic and explainable
+   - includes Coverage Engine, Clarification Engine, Pattern–Person Fit, StrategyCandidate
+   - updated only through deliberate code/version changes
+
+3. **Patient Personalization**
+   - grows quickly per patient
+   - remembers what worked for PT-xxxxx
+   - does not rewrite global rules automatically
+
+## Small-Data Principle
+
+NIROS must work even with 1–20 users.
+
+It should learn within a patient over sessions:
+
+- which questions increase coverage
+- which strategies are useful
+- which delivery modes are tolerated
+- which patterns should be repeated or avoided
+
+Large datasets are useful but not required for MVP.
+
+## Research Intake Future
+
+Future feature: **Research Intake Assistant**.
+
+Purpose: help find, register, and triage new scientific sources.
+
+Rules:
+
+- must store source title, authors, year, DOI/URL if available
+- must mark source type: trial, review, manual, transcript, chant, neuroscience, music, other
+- must not inject knowledge directly into production library
+- everything goes through TLE and Human Review
+
+Do not implement Research Intake Assistant yet unless explicitly requested.
