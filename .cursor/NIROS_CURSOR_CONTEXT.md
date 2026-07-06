@@ -107,49 +107,75 @@ Future languages may be added without changing the internal canonical representa
 
 All psychological reasoning must operate on canonical IDs, never on translated text.
 
-## NIROS Roadmap Context
-
-**Current priority:**
-
-1. Finish Voice Input pipeline: Voice → Whisper → Transcript → existing text pipeline.
-2. Build minimal working UI: Text/Voice input → Human Digital Fingerprint → StrategyCandidate → StrategyExplanation.
-3. Add Icaro Generator contract: Strategy → IcaroProfile. Icaro generation must NOT choose therapy; it only expresses an already selected therapeutic strategy.
-4. Future Vocal Pattern Engine: Use Maria Sabina chants only as historical source material for extracting psychotherapeutic vocal structures. Do NOT copy chants. Extract functional patterns such as identity reinforcement, acceptance, grounding, permission, closure, transition, protection, symbolic framing.
-5. Future Audio Research Engine: Research psilocybin-session music/audio structure, acoustic features, frequency ranges, tempo, repetition, pauses, vocal contour, and therapeutic effects. R&D only, not current MVP.
-6. Future Sensor Fusion Engine: Integrate EEG, HRV, heart rate, breathing, EDA/GSR, and subjective feedback. Goal: estimate current therapeutic state and later compare audio/vocal interventions against physiological response.
-
-**Core principle:** Therapeutic strategy is always selected by NIROS core:
-
-Human Digital Fingerprint → Pattern–Person Fit → StrategyCandidate
-
-Delivery modules come AFTER strategy: Text, Voice, Icaro, Audio, Somatic, Sensors.
-
-**Important:** Do not implement Icaro, audio research, or sensors unless explicitly requested.
-
-**Current implementation path:** Voice Input → Whisper Adapter → UI → Icaro Contract.
-
 ## Future Patient / Session Storage
 
 NIROS will need a local-first patient/session storage layer.
 
-**Core principle:**
+**Core principles:**
 
-- Do not require personal names.
 - Use anonymous numeric patient IDs.
-- Each patient has a stable patient number.
-- Every intake, transcript, fingerprint, strategy, session, icaro/audio output, and sensor record must be attached to that patient ID.
-- Sessions must never float globally without patient linkage.
+- Names are optional and not required for MVP.
+- Every intake, transcript, fingerprint, strategy, session, Icaro/audio output, sensor record, and outcome must be attached to a `patient_id`.
+- No session data should exist without patient linkage.
 
-**Future structure:**
+**Future hierarchy:**
 
 Patient ID → Session ID → Transcript → Human Digital Fingerprint → Pattern–Person Fit Report → StrategyCandidate → StrategyExplanation → optional future outputs (IcaroProfile, AudioProfile, SensorFeedback, SessionOutcome).
 
-**Privacy principle:**
+**Privacy:**
 
 - Prefer pseudonymous IDs over names.
-- Names are optional and not required for MVP.
-- Storage should support future export/delete per patient.
+- Support future export/delete per patient.
+- Core NIROS should work without personal names.
 
-**Important:** Do not implement database yet unless explicitly requested.
+## Future Fingerprint History
 
-**Current priority remains:** Voice Input → Whisper Adapter → minimal UI → Icaro Contract.
+Human Digital Fingerprint should eventually support history, not only one static profile.
+
+**Future model:** Patient ID → Fingerprint v1 → Fingerprint v2 → Fingerprint v3
+
+**Purpose:** track changes over time in signals such as self_criticism, emotional_avoidance, shame_sensitivity, agency, meaning, emotional_flexibility.
+
+## Future Stable vs Dynamic Model
+
+Future NIROS should separate:
+
+**Stable Fingerprint:** personality traits, values, long-term patterns, identity structure, attachment style, baseline worldview.
+
+**Dynamic Therapeutic State:** current anxiety, current shame, overwhelm risk, readiness for deep work, emotional stability, current physiological state, possible future neuroplasticity window.
+
+## Future Sensor Fusion Engine
+
+Future sensor layer may include: EEG, HRV, heart rate, breathing, EDA/GSR, voice features, subjective report.
+
+**Goal:** estimate Current Therapeutic State and compare interventions against physiological response.
+
+**Future loop:** Patient ID → Stable Fingerprint → Current Therapeutic State → Pattern–Person Fit → Strategy → Icaro / Audio / Text Delivery → Sensor Feedback → Updated Therapeutic State.
+
+## Future NeuroAudio Research Engine
+
+Future R&D module only, not current MVP.
+
+**Purpose:** analyze psilocybin-session music/audio, Maria Sabina vocal recordings, acoustic features, vocal contour, tempo, repetition, pauses, frequency ranges, and later physiological feedback.
+
+**Goal:** derive reusable audio/vocal templates for therapeutic delivery.
+
+**Important:** This must not choose therapy. Therapeutic strategy is selected only by NIROS core:
+
+Human Digital Fingerprint → Pattern–Person Fit → StrategyCandidate
+
+Audio, Icaro, sensors, and UI are delivery or feedback layers AFTER strategy.
+
+## Current Implementation Priority
+
+Do not implement future modules unless explicitly requested.
+
+**Current path:**
+
+1. Voice Input contracts
+2. Whisper Adapter
+3. Minimal UI
+4. Icaro Generator Contract
+5. Later: Patient Repository
+6. Later: Audio/Icaro R&D
+7. Later: Sensor Fusion
