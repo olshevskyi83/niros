@@ -1,0 +1,809 @@
+
+
+THE BRITISH
+o. PAIN SOCIETY
+Original Manuscript EXPERTISE
+WHERE IT MATTERS
+
+British Journal of Pain
+2025, Vol. 0(0) 1-13
+
+Psychedelics and chronic pain: 2028 |
+self-reported outcomes on changed
+substance use patterns and health following Ss.
+naturalistic psychedelic use
+
+
+Abstract
+Psychedelic substances have shown preliminary efficacy for several neuropsychiatric disorders and are
+currently being investigated for chronic pain conditions. However, few studies have investigated outcomes
+of naturalistic psychedelic use among individuals with chronic pain, and none have assessed psychedelic-
+related changes in substance use patterns in this population. In a cross-sectional survey of adults who
+reported using psychedelics to self-treat a chronic pain condition (n = 466; 46.1% women], we investigated
+changed substance use patterns and self-reported outcomes on physical and mental health following use
+of a psychedelic. Most [86.3%; n = 391/453) indicated that they ceased or decreased use of one or more
+non-psychedelic substances “as a result of” psychedelic use, and 21.2% (n = 83/391) indicated that the
+decrease in use persisted for more than 26 weeks after psychedelic use. Alcohol (71.1%; n = 226/318) and
+prescription opioids (64.1%; n = 100/156) had the highest proportions for ceased/decreased use. Illicit
+opioids (27.8%; n = 22/79) and cannabis (21.5%; n = 78/362) had the highest proportions for increased/
+initiated use. In multivariate regression modeling, having a motivation to reduce one’s substance use was
+positively associated with ceasing/decreasing substance use [p < .001). Perceptions of health outcomes
+following psychedelic use were broadly positive, and psilocybin was reported to be the most effective
+substance for both physical and mental health symptoms. Although limited by a cross-sectional study
+design, findings from this large sample merit future investigation into the benefits and risks of naturalistic
+psychedelic use among individuals with chronic pain.
+
+
+Keywords
+psychedelics, chronic pain, substance use, survey, psilocybin
+
+
+‘Anesthesiology Department, University of MichiganMedical School, Ann Arbor, MI, USA
+Chronic Pain and Fatigue Research Center, University of MichiganMedical School, Ann Abor, MI, USA
+3Michigan Psychedelic Center, University of Michigan, Ann Arbor, MI, USA
+“Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, State University of New York, Buffalo, NY, USA
+SUCLA Center for Cannabis and Cannabinoids, Jane and Terry Semel Institute for Neuroscience and Human Behavior, University of
+California, Los Angeles, Los Angeles, CA, USA
+Department of Psychiatry and Biobehavioral Sciences, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles,
+CA, USA
+
+
+Corresponding author:
+Nicolas G. Glynos, Anesthesiology Department, University of Michigan Medical School, 24 Frank Lloyd Wright Drive, Ann Arbor, MI 48105,
+USA.
+Email: nglynosfdumich.edu
+
+[PAGE 002]
+
+British Journal of Pain 0(0)
+
+
+Introduction of research on other relevant patient outcomes, such as
+changes in non-psychedelic substance use patterns and
+Over the past two decades, psychedelics and resulting changes in mental health, both of which may
+psychedelic-assisted therapies have shown remarkable be important factors in assessing chronic pain treatment
+promise for the treatment of a variety of neuropsychi- outcomes in the context of the biopsychosocial model
+atric disorders.’ Although the therapeutic mechanisms of pain. In the current study, we surveyed an adult
+of psychedelic treatments are not completely under- population of individuals who reported using psychestood, leading hypotheses suggest synergistic effects  to self-treat a chronic pain condition. Perceived
+among neurobiological mechanisms such as serotonin mental and physical health outcomes were assessed
+2A receptor activation, enhanced neuroplasticiсy, and along with resulting changes in substance use patterns
+altered functional connectivity”? and psychological and predictors of those changes. Consistent with other
+mechanisms such as the acute effects of the subjective investigations of naturalistic psychedelic use,'’ we
+experience,” increased acceptance,°® increased cog- hypothesized that participants would report improved
+nitive flexibility, and enhanced feelings of connection to chronic pain symptoms as well as reductions in use of
+self, others, and nature. >! other substances following psychedelic use.
+There is growing interest in the potential of psychedelics for treating physical health conditions such as
+Methods
+those involving chronic pain.**"*? Chronic pain, which
+may affect up to 30% of the global population, presents The data presented here were collected from the Global
+a substantial economic burden and is among the Psychedelic Survey, a large cross-sectional survey disleading causes of seeking medical care.'* The biopsy- tributed online between May 19 and June 2, 2023 via
+chosocial model, which is a prominent framework for online psychedelic organizations including the Multithe etiology of chronic pain, postulates that dynamic disciplinary Association for Psychedelic Studies
+interactions among biological, psychological, and social (MAPS) and MAPS Canada, The Psychedelic Assofactors contribute in a multidimensional manner to the ciation of Canada, OPEN Foundation, Mind Medicine
+presentation and occurrence of physical pain symp- Australia, International Center for Ethnobotanical
+toms.'” The transdiagnostic potential of psychedelic- Education, Research and Service (ICEERS), and social
+assisted therapies, therefore, has provided impetus for media. This survey gathered data on psychedelic use
+the next wave of clinical research of psychedelics for the trends among English-speaking adults 21 years of age
+treatment of chronic pain conditions.'° Indeed, clinical or older across the globe. The survey targeted 11 subtrials are currently underway to assess psilocybin- stances with psychedelic-like properties including the
+assisted therapies for a range of chronic pain condi- “classic” psychedelics ayahuasca, DMT/5-MeO-DMT
+tions including fibromyalgia (NCT05128162), low (N,N-dimethyltryptamine/5-methoxy-N,N-dimethylback pain (NCT05351541), phantom limb pain tryptamine), LSD/acid, mescaline, and psilocybin, as
+(NCT05224336), migraine and cluster headache well as several “atypical” psychedelics including 2C-B
+(NCT04218539; NCT02981173), and cancer-related (4-Bromo-2,5-dimethoxyphenethylamine), iboga/
+pain (NCT06001749). ibogaine, ketamine, MDMA/MDA — (3,4-methyl-
+Investigation of naturalistic psychedelic use among enedioxymethamphetamine/3,4-methylenedioxindividuals with chronic pain has been limited. In a yamphetamine), nitrous oxide, and Salvia divinorum.
+recent survey of individuals with fibromyalgia (N = The study was reviewed by Advarra (protocol #
+354), approximately one-third of participants reported Pro00071490) to help ensure that the rights and welfare
+past use of a psychedelic, and less than 3% reported of research participants were protected and that the
+negative effects on overall health or pain symptoms.
+*’ research study was carried out in an ethical manner.
+Another observational study (N = 250) of individuals However, the IRB only oversaw Canadian subjects,
+with varying chronic pain conditions found that macro determining that this international study was otherwise
+doses of psychedelics were perceived to provide sig- exempt from IRB oversight in other jurisdictions under
+nificantly more pain relief than over the counter the Department of Health and Human Services regumedications, opioids, or cannabis. In addition, relative lation 45 CFR 46.104(d)(2).
+to micro (i.e., sub-perceptual) doses, macro doses
+provided significantly improved reductions in pain
+Sample and data cleaning
+intensity and pain acceptance.'®
+Together, these studies support potential health All participants were English literate adults (221 years)
+benefits related to naturalistic psychedelic use in pa- who self-reported past or current use of one or more of
+tients with chronic pain. However, there is an absence the 11 psychedelics included in the survey. Informed
+
+[PAGE 003]
+
+Glynos et al.
+
+
+consent to participate was gathered online as a part of psychedelic use via nine questions (one for each nonthe survey, and all responses were collected anony- psychedelic substance of interest listed above). Remously. Upon survey completion, participants were spondents who endorsed lifetime use of a nongiven the option to provide their email address to be psychedelic substance at the survey outset were preentered into a drawing for one of three $500 Amazon sented with the corresponding change in use question
+gift cards. All email addresses were stored separately for each endorsed substance later in the survey. The
+from the study data and were deleted prior to data exception was antidepressants, for which the changes in
+analysis to ensure confidentiality and anonymity of use question was presented to all respondents, as
+participants. Data gathering was conducted via the lifetime use was not assessed with the other substances
+Quantified Citizen website and app, which are both as the survey outset. For each of the nine categories of
+Personal Information Protection and Electronic Doc- non-psychedelic substances, participants indicated
+uments Act (PIPEDA) and Health Insurance Porta- whether their use of psychedelics resulted in ceased use,
+bility and Accountability Act (HIPAA) compliant. decreased use, no change in use, initiation of use, in-
+Prior to analysis, data were cleaned and prepared by creased use, or an option for not having used that
+Precision Analytics. In addition to removing duplicate substance. We included the latter category due to the
+responses, data were excluded if the participant’s re- inclusion of antidepressants (asked to all participants)
+ported age was either missing or less than 21 years, or if and as we expected some respondents with lifetime use
+they did not report naturalistic use of one of the of a substance to not identify with any other listed
+11 psychedelic substances in their lifetime. This re- response option (e.g., cases of one-time use many years
+sulted in a dataset of 6379 valid responses for the Global before survey completion). Participants who reported
+Psychedelic Survey. The current report focuses only on ceasing or decreasing substance use “as a result of”
+those who indicated that they have attempted to self- naturalistic psychedelic use then identified the psytreat a chronic pain condition with psychedelics. The chedelic substance that was particularly impactful for
+final analytic sample includes data from 466 respon- ceasing or decreasing the use of other substances. We
+dents, which are included in the subsequent analyses. also asked these participants how psychedelics helped
+them cease or decrease use of other substances in a
+“select all that apply” format with possible options
+Measures
+including: they made me feel more connected to myself, they
+A complete list of the questions in the survey is provided changed my relationship with/or perspective on other subas a supplementary material. In addition to addressing stances, they made me less anxious or depressed, they helped
+demographic characteristics such as gender, country of me resolve past trauma, they made me feel more connected
+residence, age, education, and income, the survey also with nature, they made me feel more connected with others,
+included questions about various aspects of psychedelic they made me feel more connected with spirit, they reduced
+use such as number (i.e. variety) of psychedelics used, cravings/urges, or they reduced withdrawal. Finally, we
+typical dosages consumed (microdoses only, macro- asked participants who reported ceased or decreased
+doses only, both micro and macro doses), and moti- use how long the decrease in substance use typically
+vations for using psychedelics with possible responses persisted after using psychedelics, with response opincluding: to treat a medical condition, to reduce use of tions including: Less than 1 week, 1-4 weeks, 5-11 weeks,
+another substance, general well-being, personal growth/self- 12-26 weeks, more than 26 weeks, or no set pattern.
+exploration, religious/spiritual development, recreational, or
+none of the above. In addition, we assessed lifetime use of
+Health outcomes
+non-psychedelic substances and medications, including alcohol, cannabis, nicotine/tobacco, antidepressants For both physical and mental health conditions, we
+, benzodiazepines (e.g., Valium and Ativan), asked participants to select all health conditions that
+prescription or non-prescription amphetamines (e.g., they have attempted to treat with psychedelics, whether
+Ritalin, Adderall, speed, and crystal meth), cocaine/ they found psychedelics to be effective (yes vs no), the
+crack, prescription opioids (e.g., Fentanyl, Oxycodone, effectiveness rating of each psychedelic used for both
+and Hydromorphone), and illicit opioids (e.g., heroin, mental and physical health conditions (0-100; 0 = not
+Fentanyl, Oxycodone, and Hydromorphone). at all effective, 100 = very effective), the duration of
+beneficial effects (ranging from less than 1 week to more
+than 1 year), the reasons for trying psychedelics, and the
+Changes in substance use
+substance that has been the most effective in treating
+We asked participants if their use of any non- symptoms of their condition(s). We also asked parpsychedelic substances changed “as a result” of their ticipants to report whether they had pursued a range of
+
+[PAGE 004]
+
+British Journal of Pain 0(0)
+
+
+conventional treatments prior to using psychedelics to reported previously using non-psychedelic substances
+self-treat a mental health condition, or at the current (n = 453), 86.3% (n = 391/453) indicated that they
+time. Possible responses included counseling, physical ceased or decreased use of one or more nonactivity, mindfulness, meditation/yoga, medications, com- psychedelic substances “as a result of” psychedelic
+bination therapy and medications, herbal remedies, or use, and 13.3% (n = 62/453) did not cease or decrease
+cognitive-behavioral therapy. use of any substances (Table 1). A significantly higher
+proportion of those who ceased or decreased use of
+other substances were younger, had used a larger vaStatistical analysis
+riety of psychedelics, and consumed both micro and
+We first characterized the sample via descriptive statistics. macro doses (all p values <.01).
+We then sub-grouped participants by whether they re- Among those with previous use, greater than half of
+ported ceased/decreased use of any substance (ceased/ participants reported ceasing or decreasing use of all
+decreased use vs no ceased/decreased use). We compared non-psychedelic substances, excepting cannabis, as a
+associations between these two sub-groupings and socio- result of psychedelic use (Figure 1). The highest prodemographic characteristics using chi-square tests and the portions of ceased or decreased use were with alcohol
+Cramer V statistic for categorical variables, and inde- (71.1%; n = 226/318), prescription opioids (64.1%; n =
+pendent sample t-tests and the Cohen d statistic for 100/156), antidepressants (63.1%; n = 185/283), and
+continuous variables. To identify potential predictors of illicit opioids (60.7%; n = 48/79). Cannabis had the
+changed substance use, we conducted binary logistic lowest proportion of ceased or decreased use (39.0%;
+regression analyses for those who reported ceased or n = 141/362) among all substance classes. Reports of
+decreased substance use. Predictors in the model in- increased or initiated use of substances following
+cluded: age, gender identity (female, other gender psychedelic use were lower (39.1%; n = 177/453)
+[gender fluid, transgender, a different gender] vs male), among those who endorsed previously using one or
+education level (scored continuously from: less than high more substances. The highest proportions of increased
+school, high school degree or equivalent, technical or or initiated use were with illicit opioids (27.8%; n = 22/
+non-university degree, university degree [Bachelor’s or 79), cannabis (21.5%; n = 78/362), and amphetamines
+equivalent], graduate degree [MA, MSc, etc.], doctorate (21.4%; n = 39/182). Alcohol had the lowest proportion
+or professional degree [JD, MD, PhD, etc.]), income of increased or initiated use (9.7%; n = 31/318).
+(scored continuously from: very low income/well below Among those who reported ceasing or decreasing
+average, low income/below average, middle income/about use of at least one non-psychedelic substance, psiloaverage, high income/above average, very high income/ cybin was most often endorsed (29.9%; n = 117/391) as
+well above average), race/ethnicity (White/Caucasian vs the most impactful psychedelic that contributed to that
+other), number of psychedelics used (up to 12), type of change, followed by ketamine (12.5%; n = 49/391) and
+psychedelic dose(s) consumed (both macro and micro ayahuasca (11.8%; n = 46/391) (Table 2). Of the subdoses, only micro doses, vs only macro doses), motiva- group who reported psilocybin as most effective, most
+tions for psychedelic use (medical, recreational, to reduce (88.0%; 103/117) had used more than one psychedelic
+other substance use; all yes vs no). Pairwise McNemar’s in their lifetime. Psilocybin was also reported as the
+tests were used to compare pursuit of conventional most effective substance for those who reported ceasing
+treatments prior to using psychedelics for mental health or decreasing use of both prescription opioids (33.3%;
+versus at the time of survey completion. Possible treat- n = 33/100) and illicit opioids (18.8%; n = 9/48) folments included talk therapy/counseling, cognitive- lowing psychedelic use. Approximately one-third
+behavioral therapy (CBT), mindfulness, medications (35.0%; n = 137/391) reported that their decrease in
+(e.g., antidepressants, antianxiety, mood stabilizers, an- substance use did not follow a set pattern of time or that
+tipsychotics, and sedatives), combination therapy and it depends on the substance and circumstance, whereas
+medications, herbal remedies (e.g., St John’s Wort, Kava 21.2% (n = 83/391) indicated that their decrease in
+Kava, Chamomile Extract, and Valeria), meditation/yoga/ substance use typically lasts for more than 26 weeks.
+Tai Chi/Qigong, and physical activity. Significance was Reported reasons for how psychedelics contributed to
+set at a = 0.05 (two-sided) for all tests, and all analyses decreased substance use patterns centered on feelings
+were conducted using SPSS version 29. of connection, with participants reported increased
+feelings of connection to self (62.7%; n = 245/391),
+others (52.2%; n = 204/391), spirit (51.7%; n = 202/
+Results
+391), and nature (50.4%; n = 197/391). A majority also
+The sample included 466 adults (46.1% women) with indicated that psychedelics made them feel less anxious
+an average age of 42.6 + 12.1 years. Among those who or depressed (51.2%; n = 200/391), and that they
+
+[PAGE 005]
+
+Glynos et al. 9
+
+
+Table 1. Demographics.
+
+Ceased or decreased use No ceased or decreased
+Descriptive In = 391) use (n = 62] tory2 pValue
+
+Gender 3.2 03
+Women 44.8% (175) 53.2% (33)
+Men 51.2% (200) 40.3% (25)
+Non-binary 3.1% (12) 4.8% (3)
+Other 0.8% (3) 1.6% (1)
+Prefer not to say 0.3% (1) 0% (0)
+Region of residence 8.6 0.04
+Asia pacific 11.3% (44) 3.2% (2)
+Europe 4.3% (17) 1.6% (1)
+Latin America 1.3% (5) 4.8% (3)
+North America 83.1% (325) 90.3% (56)
+Age in years (M, SD, range) 41.7, 11.4, 21 - 76 47.0, 14.0, 25 - 80 3.3 <.001
+21-24 1.5% [6] 0% (0)
+25-34 33.0% (129) 22.6% (14)
+35-44 30.2% (130) 27.4% (17)
+45-54 16.1% (63) 22.6% (14)
+55-64 11.3% (44) 11.3% (7)
+>65 4.9% (19) 16.1% (10)
+Number of psychedelics used (M, SD, range) 5.5, 2.4, 1 - 12 4.6, 2.5, 1 - 12 —2.8 <.01
+Dosage used 273.616 <.001
+Microdose only 1.8% (7) 6.5% (4)
+Macrodose only 9.0% (35) 12.9% (8)
+Both micro and macro doses 89.3% (349) 80.6% (50)
+Education 6.2 0.28
+Less than high school 4.1% (16) 1.6% (1)
+High school or equivalent 16.1% (63) 11.3% (7)
+Technical degree 17.1% (67) 12.9% (8)
+Bachelors degree or equivalent 28,4% (111) 24.2% (15)
+Graduate degree 23.5% (92) 33.9% (21)
+Doctoral /professional degree 10.7% (42) 16.1% (10)
+Income 3.01 0.56
+Very low 7.7% (30) 6.5% (4)
+Low 21.2% (83) 19.4% (12)
+Middle 34.5% (135) 45.2% (28)
+High 26.1% (102) 22.6% (14)
+Very high 10.5% (41) 6.5% (4)
+
+
+changed their relationship with/or perspective on other treatments (41.2%; n = 192/466), and that traditional
+substances (50.1%; n = 196/391). treatments were ineffective (29.8%; n = 139/466)
+A multivariate regression model was developed to (Table 4). In addition to chronic pain, which all pardetermine potential predictors of ceased or decreased ticipants reported treating with psychedelics, headache/
+substance use. We found that using psychedelics with a migraines (34.3%; n = 160/466), and sleeping disorders
+motivation to reduce one”s substance use was positively (31.8%; n = 148/466) were the most highly cited
+associated with ceased or decreased use (p < .001), and physical conditions that were treated with psychedelics.
+age was negatively associated with ceased or decreased A majority (78.8%; n = 367/466) indicated that psyuse (p = .049) (Table 3). chedelics were effective in treating their physical health
+The most highly cited reasons for trying psychedelics conditions, and 18.4% (n = 63/343) reported that the
+to treat mental or physical health conditions were be- benefits of psychedelics on physical health symptoms
+cause the participant did not like the idea of traditional typically last for more than 1 year. The mental health
+
+[PAGE 006]
+
+British Journal of Pain 0(0)
+
+
+60% |
+
+
+50% +
+
+
+40% -
+
+
+30% =
+
+
+20% ||
+
+
+10% +
+
+
+0%-
+Cannabis Alcohol Anti- BDZs Nicotine AMPs Prescription Cocaine/ Illicit
+(n=362) (n=318) depressants (n=220) (n=201) (n=182) opioids crack opioids
+(n = 293) (n=156) (n=137) (n=79)
+
+@Ceased DDecreased DNochange Mincreased Dlnitiated
+
+
+Figure 1. Self-reported changes in substance use following psychedelic use. The number of participants who reported past
+or current use of a substance is listed below each substance. Proportions for each category are shown in their respective
+locations. BDZs: benzodiazepines, AMPs: amphetamines.
+
+
+conditions that were most often treated with psyche- p < .001), herbal remedies (22.1% vs 12.0%;p < .001),
+delics among this population were depression (84.6%; and CBT (20.8% vs 5.8%; p < .001).
+n = 230/272), anxiety (76.1%; n = 207/272), and PTSD
+(63.2%; n = 172/272). Nearly all (99.3%; n = 270/272)
+Discussion
+indicated that psychedelics were effective in treating
+their mental health conditions, and 28.1% (n = 75/267) Among this large sample of adults who reported selfreported that the benefits of psychedelics on mental treating a chronic pain condition with naturalistic use of
+health symptoms typically last for more than 1 year. psychedelics, we found that many participants reported
+Psilocybin was reported as the most effective psy- decreased substance use patterns, improved symptoms
+chedelic in treating both physical (29.4%; n = 137/ of physical and mental health conditions, and reduc466), and mental (48.9%; n = 133/270) health con- tions in many conventional mental health treatments
+ditions. Participants were asked to rate the effec- following psychedelic use. These findings contribute to
+tiveness (0-100) ofthe substance that they deemed to a growing body of literature suggesting potential health
+be most effective for both physical and mental health benefits of psychedelics in naturalistic settings and
+conditions. Ketamine, endorsed by 70 participants as provide new insights into the potential of psychedelics
+the most effective substance for treating physical for individuals with chronic pain conditions. However,
+health symptoms, had the highest effectiveness rating nearly 40% of the population also reported increased or
+for physical health conditions (mean + standard error initiated use of substances following psychedelic use, so
+of mean = 73.5 + 2.6), and DMT, endorsed by we remain cautious about potential effects of psyche11 participants as the most effective substance for delics on changed substance use patterns.
+treating mental health symptoms, had the highest Most of the sample (86.3%; n = 391/453) indicated
+effectiveness rating for mental health conditions that they ceased or decreased use of one or more non-
+(92.6 + 3.4) (Figure 2). psychedelic substances as a result of psychedelic use.
+Participants retrospectively reported whether they This is an important finding in consideration of the
+had pursued conventional treatments for their mental known overlap between problematic substance use and
+health prior to using psychedelics, and at the time of chronic pain conditions. Alcohol dependence and
+survey completion (Figure 3). At the time of survey prevalence of alcohol use disorder is increased in those
+completion, significantly fewer participants indicated with chronic pain conditions,” and it has been rethat they pursued counseling (36.1% vs 20.2%; p < ported that over 60% of chronic pain patients may
+.001), medications (27.9% vs 10.3%; p < .001), present with a comorbid opiate use disorder.2>*
+combination therapy and medications (22.3% vs 7.1%; Treating chronic pain patients with comorbid
+
+[PAGE 007]
+
+Glynos et al.
+
+
+Table 2. Details about changed substance use patterns.
+
+% of
+n=391 total
+
+Which of the following psychedelics did you find particularly impactful in ceasing or decreasing your use of
+other substances?
+Psilocybin 117 29.9
+Ketamine 49 12.5
+Ayahuasca 46 11.8
+DMT/5-MeO-DMT 27 6.9
+LSD 24 6.1
+MDMA 23 5.9
+Iboga/lbogaine 22 5.6
+Mescaline 15 3.8
+Nitrous oxide 14 3.6
+2C-B 9 2.3
+Salvia divinorum 8 2.0
+None of the above 37 9.5
+How long does the decrease in substance use typically persist after using psychedelics?
+Less than 1 week 30 7.7
+1-4 weeks 58 14.8
+5-11 weeks 47 120
+12-26 weeks 36 9.2
+More than 26 weeks 83 21.2
+No set pattern 137 35.0
+How have psychedelics helped you to cease or decrease the use of other substances?
+They made me feel more connected to myself 245 62.7
+They made me feel more connected with others 204 52.2
+They made me feel more connected with spirit 202 51.7
+They made me less anxious or depressed 200 51.2
+They made me feel more connected with nature 197 50,4
+They changed my relationship with/or perspective on other substances 196 50.1
+They helped me resolve past trauma 184 47.1
+They reduced cravings/urges 157 40.2
+They reduced withdrawal 93 238
+None of the above 19 4.9
+
+
+Table 3. Univariate and multivariate predictions of factors associated with ceasing or decreasing use of other substances.
+
+Univariate predictions Multivariate predictions
+
+Predictor Exp(B) 95% Cl p Exp(B) 95% CI p
+
+Reduced substance use motivation 5.91 2.09 - 16.67 <.001 6.48 2.22 - 18.89 <.001
+Age 0.97 0.95 - 0.99 <.01 0.98 0.95 - 0.99 0.049
+Education level 0.77 0.62 - 0.96 0.020 0.80 0.62 - 1.02 0.076
+Has used only micro doses 0.24 0.07 - 0.84 0.025 0.28 0.05 - 1.38 0.118
+Number of psychedelics used 1.18 1.04 - 1.33 0.010 1.12 0.97 - 1.28 0.125
+Other gender 0.71 0.20 - 2.52 0.590 0.47 0.10 - 2.09 0.322
+Medical motivation 0.66 0.35 - 1.23 0.187 0.72 0.35 - 1.42 0.342
+Has used micro and macro doses 0.55 0.26 - 1.18 0.125 1.27 0.47 - 3.39 0.637
+White/Caucasian 0.77 0.33 - 1.79 0.547 0.83 0.33 - 2.00 0.673
+Recreational motivation 1.22 0.69 - 2.16 0.486 1.09 0.58 - 2.04 0.784
+Income level 1.01 0.78 - 1.32 0.919 1.03 0.76 - 1.39 0.825
+Female gender 0.75 0.43 - 1.32 0.324 0.93 0.50 - 1.74 0.832
+
+[PAGE 008]
+
+8 British Journal of Pain 0(0)
+
+
+Table 4. Health outcomes.
+
+n = 466 % of total
+
+What led you to trying psychedelics to treat your physical or mental health symptoms?
+| did not like the idea of traditional treatments 192 41.2
+Traditional treatments were ineffective 139 29.8
+It fits with my beliefs or cultural practices 99 21.2
+| saw positive media coverage 89 19.1
+It was recommended by friends 86 18.5
+Other 139 29.8
+None of the above 11 2.4
+Which physical health conditions have you attempted to treat with psychedelics?
+Chronic pain 466 100.0
+Headache/migraines 160 34.3
+Sleeping disorder 148 31.8
+Neurological disorder 86 18.5
+Gastrointestinal disorder 83 17.8
+Autism spectrum disorder 78 16.7
+Traumatic brain injury 74 15.9
+Cancer 98 12.4
+COVID-19 Oo 11.4
+Diabetes 48 10.3
+Other 65 13.9
+Have you found psychedelics to be effective in treating your physical health conditions?
+Yes 367 78.8
+No 99 21.2
+How long do the benefits of psychedelic on your physical health condition typically last? (n = 343)
+1 week or less 108 31.5
+Between 1 week and 1 month 83 24.2
+Between 1 month and 1 year 89 25.9
+More than 1 year 63 18.4
+Which psychedelic has been the most effective in treating your physical health condition?
+Psilocybin 137 29.4
+Ketamine 70 15.0
+Ayahuasca 34 7.3
+LSD 25 5.4
+MDMA 24 5.2
+DMT/5-MeO-DMT 16 3.4
+Mescaline 15 3.2
+Iboga/lbogaine 10 2.1
+Salvia divinorum 7 1.5
+Nitrous oxide 5 1.1
+2C-B 4 0.9
+None of the above 19 4.1
+Which mental health conditions have you attempted to treat with psychedelics?(n = 272]
+Depression 230 84.6
+Anxiety 207 76.1
+PTSD 172 63.2
+Substance use disorder 85 31.3
+ADHD 73 26.8
+OCD 39 14.3
+Bipolar disorder 31 11.4
+Eating disorder 29 10.7
+
+(continued)
+
+[PAGE 009]
+
+Glynos et al.
+
+
+Table 4. (continued)
+
+n=466 % of total
+
+Personality disorder 28 10.3
+Other 21 7.7
+Have you found psychedelics to be effective in treating your mental health conditions?
+Yes 270 99.3
+No 2 0.7
+How long do the benefits of psychedelics on your mental health condition typically last? [n = 267]
+1 week or less 48 18.0
+Between 1 week and 1 month 73 27.3
+Between 1 month and 1 year 71 26.6
+More than 1 year 75 28.1
+Which psychedelic has been the most effective in treating your physical health condition?(n = 270)
+Psilocybin 133 48.9
+Ketamine 37 13.6
+MDMA 28 10.3
+Ayahuasca 26 9.6
+LSD 23 8.5
+DMT/5-Me0-DMT 11 4.0
+Iboga/lbogaine 4 1.5
+Mescaline 3 1.1
+Salvia divinorum 2 0.7
+None of the above 3 1.1
+Missing 2 0.7
+
+
+(a) (b)
+Salvia (n=2)4 H 2 2C-B (n=4)- He
+
+Salvia (n=7)- eH
+Ayahuasca (n=26)- Le!
+Iboga/Ibogaine (n=10)- 08
+LSD (n=23)- He
+MDMA (n=24)5 He
+MDMA (n=28)- HA
+Nitrous oxide (n=4)- el
+
+Psilocybin (n=133)- o LSD (n=26)- PA
+
+DMT (n=16)- rey
+Ketamine (n=37)- kei
+Ayahuasca (n=34)- .e
+Iboga/lbogaine (n=4)- 7
+Mescaline (n=15)4 He—
+Mescaline (n=3)- fe
+Psilocybin (n=135)- e
+
+DMT (n=11)4 Hey Ketamine (n=69)- Lo.
+T qT T T I T 1
+
+0 25 50 75 100 0 25 50 75 100
+
+How effective is the substance in How effective is the substance in
+treating your mental health condition(s)? treating your physical health condition(s)?
+
+
+Figure 2. Effectiveness ratings of psychedelics for mental and physical health Participants were asked to indicate which
+psychedelic substance was most effective for self-treatment of their mental (a) or physical (b) health condition(s}, and “n”
+denotes the number of participants who endorsed each substance as most effective. Plots show mean effectiveness ratings
+(0 - 100; O = not at all effective, 100 = very effective), with error bars showing + standard error of mean.
+
+
+substance use disorders is particularly challenging, that psychedelic treatments may have clinical potential
+given the habit-forming potential of many analgesic for these comorbid indications.
+drugs,” and exacerbation of chronic pain symptoms Alcohol was the substance most often reported as
+that can result from drug dependence and drug seeking ceased or decreased (70.1%; n = 226/318), followed by
+behavior.”° Novel strategies are needed to support this prescription opioids (64.1%; n = 100/156). Illicit opilarge patient population, and the results here suggest oids showed the highest proportion in the ceased
+
+[PAGE 010]
+
+10 British Journal of Pain O(0)
+
+
+40- ; ’
+* @ Prior to psychedelic use
+
+E @ Currently
+
+& 30- *
+N
+
+E
+a * *
+3 207
+o
+4
+on
+iss]
+
+
+5 10-5
+A
+
+
+0-
+
+
+PO wy > SS S a Le A
+
+
+N
+20 > Sy ¿eSS Qe
+Ww
+
+
+Figure 3. Changes in conventional treatments before and after psychedelic use Participants were asked to retrospectively
+report which conventional treatmentls) they pursued prior to using psychedelics as a mental health treatment, and in a
+follow-up question, which conventional treatment(s) they currently (at the time of survey completion) pursue. N = 466 for all
+groups. CBT: cognitive-behavioral therapy. McNemar’s test was used to compare proportions between “prior” and
+“currently” groups. *p < .001.
+
+
+category, with 46.8% (n = 37/79) indicating that they with psychedelics.?*>?* Although intention setting is an
+stopped using illicit opioids as a result of their psy- inherent component of clinical research, these findings
+chedelic use. Importantly, among those who reported suggest that naturalistic psychedelic use outcomes are
+ceasing or decreasing use of any substance (n = 391), improved by purposeful intention setting. We also
+nearly a quarter (21.2%; n = 83/391) said that the found that age was negatively associated with dedecrease in substance use typically persists for more creasing or ceasing substance use, which aligns with a
+than 6 months after using psychedelics. Given the growing body of literature suggesting blunting effects of
+ongoing crises resulting from the prevalence of highly psychedelics with increased age.’
+toxic opioids circulating in unregulated drug supply, In addition to changed substance use patterns, we
+and the known harms of opioid addiction, these results also assessed self-reported outcomes on physical and
+shed light on a potential future direction of clinical mental health. We observed that over a third of the
+psychedelic research. Apart from a small technical re- population reported using psychedelics to self-treat
+port,” there are no published trials on the treatment of headache/migraines, conditions which have received
+opiate use disorder or opiate withdrawal symptoms with increasing attention in clinical and observational
+classical psychedelics. A handful of studies, however, research with classical psychedelics.?? Similarly, the
+have shown promising preliminary results with ibo- mental health conditions most often self-treated within
+gaine”* and ketamine.”” Research in this field is still this population include those that have been investinascent, and caution must be exercised, especially with gated most heavily in academic research settings
+ibogaine, which may have neuro- and cardiotoxicity (i.e., depression, anxiety, and PTSD). This finding,
+properties that may be of particular risk to those with which has been repeatedly observed in observational
+pre-existing cardiovascular conditions.” studies,
+>? suggests that motivations for naturalistic
+Consistent with previous findings, we found that psychedelic may be informed by trends and outcomes
+within this chronic pain population, having a motiva- of clinical research conducted under controlled contion to reduce one’s substance use was positively as- ditions. With the challenges of scalability that loom for
+sociated with ceased/decreased use. This aligns with an the likely future of commercialized psychedelic mediincreasing body of work, suggesting the importance of cine (i.e., the intense time and staffing burden required
+intention setting for beneficial therapeutic outcomes for preparation, dosing, and integration sessions), these
+
+[PAGE 011]
+
+Glynos et al. 11
+
+
+results suggest that naturalistic psychedelic use could Summary and conclusions
+have comparable efficacy relative to clinical settings,
+In this survey of adults with a self-reported chronic pain
+and alternative approaches could be explored as psy-
+condition, 86.3% indicated that they ceased or dechedelics are deployed into mainstream care.*° This is
+creased use of one or more non-psychedelic substances
+supported by the findings that for physical health
+(e.g., alcohol, cannabis, tobacco/nicotine, antidepresconditions, nearly 80% found psychedelics to be ef-
+sants, amphetamines, cocaine/crack, prescription opifective, and nearly 20% experienced benefits for more
+oids, or illicit opioids) as a result of naturalistic
+than 1 year, and for mental health conditions, 99%
+psychedelic use. Alcohol (71.1%) and prescription
+found psychedelics to be effective with nearly 30%
+opioids (64.1%) had the highest proportions of ceased/
+experiencing benefits for over 1 year. On the other
+decreased use. Nearly a quarter of the sample reported
+hand, these findings may be the result of a so-called
+that the decreases in substance use typically persist for
+“psychedelic hype bubble,” that has caused an inflation
+26 weeks or more following psychedelic use. 39.1%
+of perceived effectiveness or value of psychedelic
+reported increasing or initiating use of one or more
+treatments among the general population.*’ Further,
+substances following use of a psychedelic, with illicit
+naturalistic psychedelics use may have increased risks
+opioids (27.8%) and cannabis (21.5%) having the
+relative to clinical settings, especially for individuals
+highest proportions. Regression modeling revealed that
+with pre-existing conditions. Therefore, we remain
+having a motivation to reduce one’s substance use was
+cautious in interpreting these observational results and
+positively associated with ceasing/decreasing substance
+look forward to additional work that can advance our
+use. Psilocybin was reported as the most effective
+understanding of the relationships between naturalistic
+substance for reducing one’s substance use, as well as
+psychedelic use and health outcomes in individuals
+for self-treatment of both physical and mental health
+with chronic pain conditions.
+symptoms. Perceived effectiveness of psychedelics for
+physical and mental health were positive and long
+Limitations and strengths lasting, and significant reductions in conventional
+treatments following psychedelic use were observed in
+There are several limitations to the current study. We
+retrospective reports. These findings provide important
+are unable to confirm either the identity or quantity of
+contributions to the study of psychedelics for chronic
+psychedelic and non-psychedelic substances consumed
+pain conditions and should motivate future investigaas reported by participants, and all self-report items are
+tion in this area. Future investigations should explore
+subject to recall bias and/or confirmation biases. The
+both observational and clinical trial approaches to asstudy design did not allow for the confirmation of self-
+sessing the potential safety and efficacy of psychedelics
+reported diagnoses, and we did not collect detailed data
+in individuals with chronic pain conditions.
+on chronic pain conditions. Further, we cannot confirm
+the extent to which changes in substance use were
+correctly attributed to psychedelic use as a causal factor. Acknowledgments
+Longitudinal investigations including a control group
+We would like to send our appreciation and gratitude to each
+that did not take psychedelics could help address this
+of the participants who took the time to complete this survey,
+concern. And although the survey was distributed
+the NGOs and academics that assisted with the dissemination
+globally and received responses from 85 countries, our
+of the study, as well as MAPS, SABI Mind, Tiny Foundation,
+convenience sampling recruitment strategy yielded
+and Mind Medicine Australia for co-sponsoring the Global
+predominantly North American participants, and the
+Psychedelic Survey.
+survey was presented only in English, further limiting
+the participant pool. Lastly, our recruitment strategies
+Declarations of conflicting interests
+depended largely on psychedelic interest, research, or
+educational groups, which may have created a positive The author(s) declared the following potential conflicts of
+bias toward psychedelic use in this sample. interest with respect to the research, authorship, and/or
+Despite these limitations, this study is among the publication of this article: KFB has received grant funding
+largest to investigate naturalistic psychedelic use among a from Tryp Therapeutics for a clinical trial of psilocybinpopulation with chronic pain, and it includes a substantial assisted therapy and sits on a data safety and monitoring board
+proportion of participants outside of North America. Our for an ongoing clinical trial with Vireo Health (unpaid). He
+inclusion of items related to changed substance patterns has received grant funding from the National Institute on
+in addition to mental and physical health outcomes Drug Abuse and the National Institutes of Arthritis, Musprovides a broadly informative perspective on outcomes culoskeletal, and Skin Diseases of the National Institutes of
+of naturalistic psychedelic use within this population. Health. He has also received granting funding from the State
+
+[PAGE 012]
+
+12 British Journal of Pain 0(0)
+
+
+of Michigan Veteran Marijuana Research Program. The experiences in changing attitudes about death and dycontent is solely the responsibility ofthe authors and does not ing. PLoS One 2022; 17: e0271926.
+necessarily represent the official views ofthe State of Michigan Malone TC, Mennenga SE, Guss J, et al. Individual
+or National Institutes of Health. PL is President of SABI experiences in four cancer patients following psilocybinMind, one of the co-sponsors of the study. assisted psychotherapy. Front Pharmacol 2018; 9: 256.
+Carhart-Harris RL, Erritzoe D, Haijen E, et al. Psy-
+
+Funding chedelics and connectedness. Psychopharmacology 2018;
+235: 547-550.
+The author(s) received no financial support for the research,
+10. Forstmann M and Sagioglou C. New insights into the
+authorship, and/or publication of this article.
+clinical and nonclinical effects of psychedelic substances:
+an integrative review. Eur Psychol 2022; 27: 291-301.
+Ethical statement
+11. Kooijman NI, Willegers T, Reuser A, et al. Are psyEthical approval chedelics the answer to chronic pain: a review of current
+literature. Pain Pract 2023. DOI: 10.1111/papr.13203,
+The study was reviewed by Advarra (protocol #
+Epub ahead of print.
+Pro00071490) to help ensure that the rights and welfare of
+12. Goel A, Rai Y, Sivadas S, et al. Use of psychedelics for
+research participants were protected and that the research
+pain: a scoping review. Anesthesiology 2023; 139:
+study was carried out in an ethical manner.
+523-536.
+
+13. Dworkin RH, Anderson BT, Andrews N, et al. If the
+Informed consent
+doors of perception were cleansed, would chronic pain
+Informed consent to participate was gathered online as part of be relieved? Evaluating the benefits and risks of psythe survey, and all responses were collected anonymously. chedelics. f Pain 2022; 23: 1666-1679.
+Informed consent to publish anonymized results was gathered 14. Cohen SP, Vase L and Hooten WM. Chronic pain: an
+online as a part of the survey. update on burden, best practices, and new advances.
+Lancet 2021; 397: 2082-2097.
+
+ORCID iDs 15. Meints SM and Edwards RR. Evaluating psychosocial
+contributions to chronic pain outcomes. Prog NeuroNicolas G Glynos ( https://orcid.org/0000-0002-6952-131X
+Psychopharmacol Biol Psychiatry 2018; 87: 168-182.
+Philippe Lucas © https://orcid.org/0000-0003-1948-3842
+16. Castellanos JP, Woolley C, Bruno KA, et al. Chronic
+pain and psychedelics: a review and proposed mechReferences
+anism of action. Reg Anesth Pain Med 2020; 45:
+1. Reiff CM, Richman EE, Nemeroff CB, et al. Psyche- 486-494.
+delics and psychedelic-assisted psychotherapy. Am 7 17. Glynos NG, Pierce J, Davis AK, et al. Knowledge,
+Psychiatr 2020; 177: 391-410. perceptions, and use of psychedelics among individuals
+2. Kwan AC, Olson DE, Preller KH, et al. The neural basis with fibromyalgia. f Psychoact Drugs 2022; 55: 73-84.
+of psychedelic action. Nat Neurosci 2022; 25: 1407-1419. 18. Bonnelle V, Smith WJ, Mason NL, et al. Analgesic
+3. Heifets BD and Olson DE. Therapeutic mechanisms of potential of macrodoses and microdoses of classical
+psychedelics and entactogens. Neuropsychopharmacology psychedelics in chronic pain sufferers: a population
+2024; 49: 104-118. survey. Br$ Pain 2022; 16: 619-631.
+4. Griffiths RR, Johnson MW, Richards WA, et al. Psilo- 19. Cavarra M, Mason NL, Kuypers KPC, et al. Potential
+cybin occasioned mystical-type experiences: immediate analgesic effects of psychedelics on select chronic pain
+and persisting dose-related effects. Psychopharmacology conditions: a survey study. Eur
+f Pain 2023. DOI: 10.
+2011; 218: 649-665. 1002/ejp.2171, Epub ahead of print.
+5. Yaden DB and Griffiths RR. The subjective effects of 20. Glynos NG, Aday JS, Kruger D, et al. Psychedelic
+psychedelics are necessary for their enduring therapeutic substitution: altered substance use patterns following
+effects. ACS Pharmacol Transl Sci 2020. DOI: 10.1021/ psychedelic use in a global survey. Front Psychiatr 2024;
+acsptsci.0c00194, Epub ahead of print. 15: 1349565.
+
+6. Griffiths RR, Johnson MW, Carducci MA, et al. Psi- 21. Maleki N and Oscar-Berman M. Chronic pain in relation
+locybin produces substantial and sustained decreases in to depressive disorders and alcohol Abuse. Brain Sci
+depression and anxiety in patients with life-threatening 2020; 10: 826.
+
+cancer: a randomized double-blind trial. 22, Yeung EW, Craggs JG and Gizer IR. Comorbidity of
+F Psychopharmacol 2016; 30: 1181-1197. alcohol use disorder and chronic pain: genetic influences
+7. Sweeney MM, Nayak S, Hurwitz ES, et al. Comparison on brain reward and stress systems. Alcohol Clin Exp Res
+of psychedelic and near-death or other non-ordinary 2017; 41: 1831-1848.
+
+[PAGE 013]
+
+Glynos et al. 13
+
+
+23. Hser Y-I, Mooney LJ, Saxon AJ, et al. Chronic pain among states and traits related to acute drug effects. ACS
+patients with opioid use disorder: results from electronic Pharmacol Transl Sci 2021; 4: 424-435.
+health records data. 7 Subst Abuse Treat 2017; 77: 26-30. 34. Aday JS, Bloesch EK, Davis AK, et al. Effects of aya24. Trafton JA, Oliva EM, Horst DA, et al. Treatment needs huasca on gratitude and relationships with nature: a
+associated with pain in substance use disorder patients: prospective, naturalistic study. 7 Psychoact Drugs 2024:
+implications for concurrent treatment. Drug Alcohol 1-10.
+
+Depend 2004; 73: 23-31. 35. Schindler EAD. Psychedelics in the treatment of head25. Cheatle MD and Gallagher RM. Chronic pain and co- ache and chronic pain disorders. Curr Top Behav Neurosci
+morbid mood and substance use disorders: a biopsychosocial 2022; 56: 261-285.
+treatment approach. Curr Psychiatry Rep 2006; 8: 371-376. 36. Nygart VA, Pommerencke LM, Haijen E, et al. Anti26. Schnoll SH and Weaver MF. Addiction and pain. Am $ depressant effects of a psychedelic experience in a large
+Addict 2003; 12: S27-S35. prospective naturalistic sample. 7 Psychopharmacol 2022;
+27. Nicholas CR, Horton DM, Malicki J, et al. Psilocybin for 36: 932-942.
+
+opioid use disorder in two adults stabilized on bupre- 37. Raison CL, Jain R, Penn AD, et al. Effects of naturalistic
+norphine: a technical report on study modifications and psychedelic use on depression, anxiety, and well-being:
+preliminary findings. Psychedelic Med 2023; 1: 253-261. associations with patterns of use, reported harms, and
+28. Köck P, Froelich K, Walter M, et al. A systematic lit- transformative mental states. Front Psychiatr 2022; 13:
+erature review of clinical trials and therapeutic applica- 831092.
+
+tions of ibogaine.
+Y Subst Abuse Treat 2022; 138: 108717. 38. Nayak SM, Jackson H, Sepeda ND, et al. Naturalistic
+29. Jones JL, Mateus CF, Malcolm RJ, et al. Efficacy of psilocybin use is associated with persisting improve-
+ketamine in the treatment of substance use disorders: a ments in mental health and wellbeing: results from a
+systematic review. Front Psychiatr 2018; 9: 277. prospective, longitudinal survey. Front Psychiatr 2023;
+30. Litjens RPW and Brunt TM. How toxic is ibogaine? Clin 14: 1199642.
+Toxicol 2016; 54: 297-302. 39. Glynos NG, Fields CW, Barron J, et al. Naturalistic
+31. Haijen ECHM, Kaelen M, Roseman L, et al. Predicting psychedelic use: a world apart from clinical care.
+responses to psychedelics: a prospective study. Front JF Psychoact Drugs 2022; 55: 379-388.
+Pharmacol 2018; 9: 897. 40. Boehnke KF, Davis AK and McAfee J. Applying lessons
+32. Carhart-Harris RL, Roseman L, Haijen E, et al. Psy- from cannabis to the psychedelic highway: buckle up and
+chedelics and the essential importance of context. build infrastructure. Jama Heal Forum 2022; 3: e221618.
+F Psychopharmacol 2018; 32: 725-731. 41. Yaden DB, Potash JB and Griffiths RR. Preparing for the
+33. Aday JS, Davis AK, Mitzkovitz CM, et al. Predicting bursting of the psychedelic hype bubble. JAMA Psychiatr
+reactions to psychedelic drugs: a systematic review of 2022; 79: 943-944.

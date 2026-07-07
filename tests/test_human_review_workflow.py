@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 from dataclasses import replace
 from pathlib import Path
 
@@ -16,6 +17,11 @@ from niros.human_review_workflow import (
     HumanReviewWorkflow,
     build_review_id,
     effective_extraction,
+)
+from niros.knowledge_domain import (
+    KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
+    KNOWLEDGE_DOMAIN_UNKNOWN,
+    KNOWLEDGE_DOMAIN_VOCAL_ICARO,
 )
 from niros.knowledge_workspace import ensure_knowledge_workspace
 from niros.therapeutic_extraction import TherapeuticFunctionExtraction, build_extraction_id
@@ -54,20 +60,35 @@ def _workflow(tmp_path: Path) -> HumanReviewWorkflow:
     )
 
 
+def _create_pending(
+    workflow: HumanReviewWorkflow,
+    *,
+    knowledge_domain: str = KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
+) -> HumanReviewRecord:
+    return workflow.create_pending_review(
+        _extraction(),
+        knowledge_domain=knowledge_domain,
+    )
+
+
 def test_create_pending_review_from_extraction(tmp_path: Path) -> None:
     workflow = _workflow(tmp_path)
-    record = workflow.create_pending_review(_extraction())
+    record = workflow.create_pending_review(
+        _extraction(),
+        knowledge_domain=KNOWLEDGE_DOMAIN_VOCAL_ICARO,
+    )
 
     assert record.review_id == build_review_id(_extraction().extraction_id)
     assert record.status == REVIEW_STATUS_PENDING
     assert record.original_extraction == _extraction()
     assert record.edited_extraction is None
+    assert record.knowledge_domain == KNOWLEDGE_DOMAIN_VOCAL_ICARO
     assert record.created_at == "2026-07-06T12:00:00+00:00"
 
 
 def test_approve_review(tmp_path: Path) -> None:
     workflow = _workflow(tmp_path)
-    pending = workflow.create_pending_review(_extraction())
+    pending = _create_pending(workflow)
     workflow.save_review(pending)
 
     approved = workflow.approve(
@@ -85,7 +106,7 @@ def test_approve_review(tmp_path: Path) -> None:
 
 def test_reject_review_with_notes(tmp_path: Path) -> None:
     workflow = _workflow(tmp_path)
-    pending = workflow.create_pending_review(_extraction())
+    pending = _create_pending(workflow)
     workflow.save_review(pending)
 
     rejected = workflow.reject(
@@ -103,7 +124,7 @@ def test_reject_review_with_notes(tmp_path: Path) -> None:
 
 def test_request_changes_with_notes(tmp_path: Path) -> None:
     workflow = _workflow(tmp_path)
-    pending = workflow.create_pending_review(_extraction())
+    pending = _create_pending(workflow)
     workflow.save_review(pending)
 
     updated = workflow.request_changes(
@@ -121,7 +142,7 @@ def test_request_changes_with_notes(tmp_path: Path) -> None:
 
 def test_edit_extraction_and_approve_edited_version(tmp_path: Path) -> None:
     workflow = _workflow(tmp_path)
-    pending = workflow.create_pending_review(_extraction())
+    pending = _create_pending(workflow)
     workflow.save_review(pending)
 
     workflow.request_changes(pending.review_id, notes="Tighten wording.")
@@ -143,7 +164,7 @@ def test_edit_extraction_and_approve_edited_version(tmp_path: Path) -> None:
 
 def test_save_and_load_review_json(tmp_path: Path) -> None:
     workflow = _workflow(tmp_path)
-    record = workflow.create_pending_review(_extraction())
+    record = _create_pending(workflow)
     output_path = workflow.save_review(record)
 
     loaded = workflow.load_review(record.review_id)
@@ -153,7 +174,7 @@ def test_save_and_load_review_json(tmp_path: Path) -> None:
 
 def test_edit_extraction_normalizes_extraction_id(tmp_path: Path) -> None:
     workflow = _workflow(tmp_path)
-    pending = workflow.create_pending_review(_extraction())
+    pending = _create_pending(workflow)
     workflow.save_review(pending)
 
     edited = _extraction(psychological_function="reduce self-criticism")
@@ -169,7 +190,7 @@ def test_edit_extraction_normalizes_extraction_id(tmp_path: Path) -> None:
 
 def test_edit_extraction_rejects_mismatched_source_or_segment(tmp_path: Path) -> None:
     workflow = _workflow(tmp_path)
-    pending = workflow.create_pending_review(_extraction())
+    pending = _create_pending(workflow)
     workflow.save_review(pending)
 
     wrong_source = _extraction(source_id="other_source")
@@ -183,7 +204,7 @@ def test_edit_extraction_rejects_mismatched_source_or_segment(tmp_path: Path) ->
 
 def test_invalid_edited_extraction_fails(tmp_path: Path) -> None:
     workflow = _workflow(tmp_path)
-    pending = workflow.create_pending_review(_extraction())
+    pending = _create_pending(workflow)
     workflow.save_review(pending)
 
     invalid = _extraction(therapeutic_function="", evidence_text="")
@@ -195,12 +216,49 @@ def test_invalid_edited_extraction_fails(tmp_path: Path) -> None:
     assert "evidence_text must not be empty" in message
 
 
-def test_workflow_does_not_write_into_ctpc_folder(tmp_path: Path) -> None:
+def test_cannot_approve_without_knowledge_domain(tmp_path: Path) -> None:
     workflow = _workflow(tmp_path)
     pending = workflow.create_pending_review(_extraction())
+    workflow.save_review(pending)
+
+    with pytest.raises(HumanReviewValidationError, match="knowledge_domain"):
+        workflow.approve(pending.review_id, reviewer_id="reviewer_001")
+
+
+def test_assign_knowledge_domain_before_approval(tmp_path: Path) -> None:
+    workflow = _workflow(tmp_path)
+    pending = workflow.create_pending_review(_extraction())
+    workflow.save_review(pending)
+
+    assigned = workflow.assign_knowledge_domain(
+        pending.review_id,
+        KNOWLEDGE_DOMAIN_VOCAL_ICARO,
+    )
+    approved = workflow.approve(assigned.review_id, reviewer_id="reviewer_001")
+
+    assert assigned.knowledge_domain == KNOWLEDGE_DOMAIN_VOCAL_ICARO
+    assert approved.knowledge_domain == KNOWLEDGE_DOMAIN_VOCAL_ICARO
+
+
+def test_legacy_review_without_domain_deserializes_as_unknown(tmp_path: Path) -> None:
+    workflow = _workflow(tmp_path)
+    pending = workflow.create_pending_review(_extraction())
+    review_path = workflow.save_review(pending)
+    payload = json.loads(review_path.read_text(encoding="utf-8"))
+    payload.pop("knowledge_domain", None)
+    review_path.write_text(json.dumps(payload), encoding="utf-8")
+
+    loaded = workflow.load_review(pending.review_id)
+
+    assert loaded.knowledge_domain == KNOWLEDGE_DOMAIN_UNKNOWN
+
+
+def test_workflow_does_not_write_into_ctpc_folder(tmp_path: Path) -> None:
+    workflow = _workflow(tmp_path)
+    pending = _create_pending(workflow)
     approved = workflow.approve(pending.review_id)
     workflow.save_review(approved)
 
     ctpc_dir = Path(workflow.paths.ctpc_dir)
     assert ctpc_dir.exists()
-    assert list(ctpc_dir.iterdir()) == []
+    assert list(ctpc_dir.rglob("*.json")) == []

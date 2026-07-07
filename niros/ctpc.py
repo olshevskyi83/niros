@@ -28,6 +28,7 @@ class CanonicalTherapeuticPattern:
     evidence_level: str = DEFAULT_EVIDENCE_LEVEL
     confidence: float = 0.0
     review_status: str = DEFAULT_REVIEW_STATUS
+    knowledge_domain: str = ""
 
 
 @dataclass(frozen=True)

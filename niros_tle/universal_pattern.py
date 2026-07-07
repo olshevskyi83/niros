@@ -9,6 +9,12 @@ from niros_tle.approved_canonical_pattern import ApprovedCanonicalPattern
 ACTIVE_LIBRARY_STATUS = "active"
 UNSPECIFIED_VALUE = "unspecified"
 
+SOURCE_TYPE_DEMO = "demo"
+SOURCE_TYPE_MANUAL_SEED = "manual_seed"
+SOURCE_TYPE_CTPC = "ctpc"
+SOURCE_TYPE_CORPUS_DERIVED = "corpus_derived"
+SOURCE_TYPE_UNSPECIFIED = "unspecified"
+
 
 @dataclass(frozen=True)
 class UniversalPattern:
@@ -24,6 +30,8 @@ class UniversalPattern:
     intervention_style: str = UNSPECIFIED_VALUE
     session_phase: str = UNSPECIFIED_VALUE
     library_status: str = ACTIVE_LIBRARY_STATUS
+    source_type: str = SOURCE_TYPE_UNSPECIFIED
+    source_reference: str = ""
 
 
 def build_universal_pattern(

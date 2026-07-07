@@ -1,0 +1,1954 @@
+[PAGE 001]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841
+https://doi.org/10.1007/s11469-024-01253-9
+
+
+ORIGINAL ARTICLE
+Check for
+updates
+
+
+Unique Psychological Mechanisms Underlying Psilocybin
+Therapy Versus Escitalopram Treatment in the Treatment
+of Major Depressive Disorder
+
+Brandon Weiss'’?® . Leor Roseman?” - Bruna Giribaldi? - David J. Nutt? -
+Robin L. Carhart-Harris?*- David Erritzoe?
+
+
+Accepted: 1 February 2024 / Published online: 7 March 2024
+© The Author(s) 2024
+
+
+Abstract
+The mechanisms by which Psilocybin Therapy (PT) improves depression remain an important object of study, with scientists actively exploring acute psychological experiences and
+neurobiological processes as candidates. In a phase 2, double-blind, randomized, active
+comparator controlled trial involving patients with moderate-to-severe major depressive
+disorder, we investigated whether acute psychological experiences could meaningfully
+account for the unique efficacy of PT versus Escitalopram Treatment over a core 6-week
+trial period. An exploratory-factor-analysis-derived single-factor of depression was used
+as the outcome. Among a comprehensive set of acute experiences related to psilocybin,
+so-called “mystical experience” and “ego dissolution” were unique in mediating the effect
+of treatment condition on depressive response with high specificity. Higher reported levels
+of mystical experience, emotional breakthrough, and intense responses to music-listening
+were furthermore associated with greater antidepressant response. These results provide
+qualified support for the causal mechanistic role of acute psychological experiences in the
+treatment of depression via PT.
+
+
+Keywords Psilocybin Therapy - Mechanism- Escitalopram - Selective serotonin reuptake
+inhibitor - Depression
+
+
+A growing body of research supports the importance of psychological experiences, pertaining to the acute psychoactive effects of psychedelic compounds, for subsequent positive mental health changes. The purpose of this study was to examine whether such psychological experiences measured in relation to Psilocybin Therapy (PT) could account for
+greater therapeutic responses. This was done in a double-blind randomized controlled trial
+(DB-RCT) of patients with major depressive disorder (MDD) undergoing PT versus Escitalopram Treatment (ET), the combination of escitalopram, a common selective serotonin
+reuptake inhibitor (SSRI), plus psychological support. The role of subjective experience
+is central to debates within clinical psychiatry concerning the therapeutic mechanisms
+
+
+Robin L. Carhart-Harris and David Erritzoe indicate shared last authorship.
+
+
+Extended author information available on the last page of the article
+
+
+Y Springer
+
+[PAGE 002]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 807
+
+
+of action of psychedelic therapies, and how these mechanisms may be distinctive from
+conventional treatments such as evidence-based psychotherapy or chronic antidepressant
+pharmacotherapy.
+Using mediational analyses and comparisons of a PT condition to a placebo (or placebo-like low-dose psilocybin) condition, two double-blind cross-over studies have previously demonstrated a significant indirect effect of acute psychedelic experience, namely,
+so-called “mystical experiences” (Barrett et al., 2015; Kangaslampi, 2023) on clinical
+outcomes (i.e., depression and anxiety related to terminal cancer) (Griffiths et al., 2016;
+Ross et al., 2016). The construct of mystical experience refers to states of consciousness
+involving (1) a sense of undifferentiated unity with a larger whole; (2) positive sentiment
+and mood, e.g., awe and peace; (3) ineffability; and (4) perturbations to ordinary spatiotemporal sensing. In these studies, a moderate dose of psilocybin was associated with
+substantially higher mystical experience scores, and patients’ level of mystical experience
+was associated with better therapeutic response. Notably, in Griffiths et al.’s (2016) study,
+the indirect effect of mystical experience retained its significance while controlling for
+the intensity of the drug experience, suggesting some therapeutic specificity to the mystical experience itself beyond mere generic drug effects. Such mediation-based designs are
+considered to provide stronger mechanistic evidence because they are able to demonstrate
+that the mechanism is unique to the experimental condition (Hayes & Rockwood, 2017;
+Kazdin, 2007).
+In addition, moderation-based designs examining whether higher levels of acute experiences are associated with greater therapeutic response are also valuable for demonstrating
+mechanisms of change, as one would expect that an increased level of a genuine mechanism would accompany improved response (Kazdin, 2007). A number of studies have demonstrated such evidence. Within clinical trials, mystical experience, and a related construct,
+oceanic boundlessness (Studerus et al., 2010), have demonstrated moderate to large associations with multiple clinical outcomes including smoking craving (r= —0.61, Johnson
+et al., 2014), smoking abstinence, and depression (r= —0.41, Davis et al., 2021a, 2021b;
+r= —0.50, Roseman et al., 2018a, 2018b). Outside of clinical trials, the relevance of acute
+experiences to positive mental health outcomes post-psychedelic use has found additional
+support. Not only mystical experiences, but also experiences of emotional breakthrough
+(Roseman et al., 2019), cognitive reappraisal (Agin-Liebes et al., 2022), insight (Davis
+et al., 2021a, 2021b), psychological flexibility (Agin-Liebes et al., 2022; Close et al., 2020;
+Zeifman et al., 2020), and communitas (or experiences of perceived togetherness) (Kettner
+et al., 2021) have demonstrated associations with adaptive changes in negative emotionality and well-being. Indeed, evidence has been found that emotional breakthrough and psychological insight are especially strong moderators of improved mental health outcomes
+post-psychedelic use (Peill et al., 2022).
+Notwithstanding these supportive findings, some biocentric scientists aver that the acute
+experience may constitute epiphenomenal psychological correlates of primarily causal neuroplasticity-based reparative processes (Olson, 2020). Used to support this point of view is
+evidence from rodent models in which synthesized 5-HT,, receptor agonists — that are
+argued (but not demonstrated) to be psychoactively inert in humans — have been linked to
+adaptive behavioral outcomes in mice that are assumed to approximate the alleviation of
+internalizing symptoms in humans (Cameron et al., 2021). Previous research is indicative
+that psychedelic compounds stimulate neurotrophic mechanisms, including glutamaturgic
+cascades, leading to spinogenic neuroplasticity, or the proliferation of dendritic spines (Ly
+et al., 2018; Vargas et al., 2023). This viewpoint is at least plausible in view of recent
+Positron Emission Tomography findings showing that greater SHT,, receptor occupancy
+
+
+Y Springer
+
+[PAGE 003]
+
+808 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+covaries with acute subjective intensity (R?=0.35); that is, greater receptor binding could
+amplify therapeutic biological processes while epiphenomenally generating psychological
+experience (Madsen et al., 2019).!
+A number of clinical scientists regard a biopsychosocial mechanistic model to be more
+compelling, however (Carhart-Harris & Goodwin, 2017; KocCárová et al., 2021; Yaden &
+Griffiths, 2020; Yaden et al., 2022), primarily noting uncertainty regarding the translation
+between rodent and human models (Carhart-Harris, 2023), on which the biological causation (centered) theory is based. First, some remain circumspect that head-twitch serves as a
+valid index of psychoactive experience in rodents, and await human trials before concluding that “non-hallucinogenic psychedelics” in fact do not elicit psychoactivity (CarhartHarris, 2023; Nutt et al., 2022; c.f., Karst et al., 2010). Second, far smaller weight-adjusted
+dosages have been used in human clinical trials versus dosages associated with neuroplastic effects in rodents, raising some concern that comparable neuroplasticity-mediated psychological effects are less plausible in humans (De Vos et al., 2021). Finally, the efficacy of
+antidepressant pharmacology has shown significant limitations despite there being demonstrated neuroplastic mechanisms involved (Harmer et al., 2017; Tardito et al., 2006). Distinctive lipophilic-mediated intra-cellular receptor binding may account for improved neurotrophic activity from psychedelic compounds (versus serotonin), but it remains unclear
+whether such improvements will show meaningfully greater functional benefit (Vargas
+et al., 2023).
+In addition, propositions that biological (but not psychological) processes are capable
+of being “causal” ignores the strong possibility of entanglement and mutual dependency
+between phenomenological and physiological levels of function. The idea of dissociating
+psychedelic-induced biological effects from experience has been proposed, i.e., where a
+suppression of (psychedelic) experience but preserved anti-depressive response might be
+interpreted as evidence against the causal role of experience (Yaden & Griffiths, 2020).
+Special care must be taken with such work however, as (1) the anesthetic may suppress all
+of the core action of the psychedelic drug, (2) certain anesthetics have been known to produce neural plasticity and antidepressant effects themselves (Lii et al., 2023), (3) pre- and
+post-psychological support plus other non-pharmacological factors could confound matters
+given they are also known to be causal of therapeutic response, and (4) salient variables
+such as “blinding integrity” and “positive expectancy” should be measured in all studies if
+inferences are to be made on their causal contribution to outcomes (Lii et al., 2023).
+In humans, evidence is currently stronger for mechanistic models that accommodate a
+mutual dependency between psychological and physiological levels of function. Arguably
+the most compelling biopsychological account of the action of psychedelic therapy takes
+inspiration from recent functional magnetic resonance imaging findings of decreased brain
+network modularity after Psilocybin Therapy for depression in two independent datasets
+and cohorts, where the decreases correlated with improved symptom severity in both samples (Daws et al., 2022). These results that have been characterized as remediation, “flattening” or “relaxation” of overly reinforced or “canalized” attractor patterns (in the isomorphic brain and mind (Carhart-Harris et al., 2022)) have since been partially supported by
+another study finding a consistent relationship between decreased brain network modularity and improved mental health sub-acutely after psilocybin (Lyons et al., in review). Acute
+alterations in between-region connectivity consistent with decreased modularity have been
+
+
+! It bears noting that more distinctive acute experiences such as mystical experience were not examined in
+relation to occupancy.
+
+
+A Springer
+
+[PAGE 004]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 809
+
+
+linked to acute experience, such as ego dissolution, in previous work (Carhart-Harris et al.,
+2016; Lebedev et al., 2015).
+Complementing these findings, we have also seen that acute increases in the signal
+complexity of spontaneous brain activity recorded via electroencephalography (EEG)
+and indexed by the data compressibility algorithm Lempel—Ziv (LZc) — an effect that is
+reliable for serotonin 2A receptor agonist psychedelics and correlated with psychological
+measures of acute experiential richness (Schartner et al., 2017; Timmermann et al., 2023)
+— is significantly predictive of 1-month later improvements in generic mental health, both
+directly and indirectly, via a moderating role from psychological insight (Lyons et al., in
+review).
+Other research has observed altered emotional processing and modulation of amygdala
+response to facial affect stimuli 1 day (Roseman et al., 2018a, 2018b) and 1 week (Barrett
+et al., 2020) post-psilocybin. Future work is needed to examine how the psychological constructs focused on in this paper relate to these potentially important (if not fundamental)
+biological effects.
+
+
+Present Study
+
+The present study builds upon previous pioneering work by examining psychological
+mechanisms related to MDD, and by addressing a broader array of potentially central, but
+less well researched, acute experiences. Using data from our randomized, double-blind
+comparative trial (Carhart-Harris et al., 2021a, 2021b), we investigate whether acute experiences thought to be unique to psychedelic experience account for greater response exhibited by PT (2 sessions 25 mg psilocybin
++ music + psychological support [PS]) versus ET
+(2 sessions 1 mg psilocybin
++ music +PS). Positive results would be indicative that acute
+psychological experiences related to PT are relatively unique to PT and directly account for
+differential therapeutic response.
+In the original trial, PT demonstrated comparable treatment efficacy on the primary outcome measure in comparison with ET, but superior efficacy (by > 95% confidence on each)
+on 14 of 16 efficacy outcome measures overall (Carhart-Harris et al., 2021a, 2021b). The
+two outcomes that failed to show significance were both derived from the same measure,
+i.e., the Quick Inventory of Depressive Symptomology — Self Rated, 16 items (QIDS-SR 6;
+Rush et al., 2003a, 2003b). This was the primary outcome measure. Based on concerns
+regarding the primary outcome measure’s relative (in)sensitivity and questionable validity
+for measuring therapeutic response (Weiss et al., 2023), the present study used a factor analytically derived “core” factor of depression (Weiss et al., 2023), which incorporates shared
+variance from all four self- and clinician-rated depression measures used in the trial.
+We focus on multiple classes of acute experience. Emotional breakthrough experiences
+are thought to be particularly valuable therapeutically because they accompany confrontation with challenging emotional material and an emotional-cognitive process culminating
+in its resolution. This can be contrasted with acute emotional struggle without resolution
+which has been associated with negative outcomes (Carbonaro et al., 2016). Exposure to
+challenging situations, memories, and emotions are hallmarks of certain psychotherapies, such as cognitive behavioral therapy, in which habituation and emotional processing represent two relevant mechanistic processes (Abramowitz, 2013; Resick et al., 2016).
+Strongly emotionally cathartic episodes are not formally considered core to therapeutic
+response in predominant psychotherapeutic models such as CBT; however, the absence of
+
+
+Y Springer
+
+[PAGE 005]
+
+810 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+such emotional breakthrough experiences from conventional therapies may be a function
+of their perceived importance, rarity, and unreliability within these conventional models,
+rather than their intrinsic lack of therapeutic utility.
+So-called mystical experience, referenced above, is a multifaceted construct referring
+to states of consciousness containing four factors, namely: (1) mysticism involving experiences of undifferentiated unity with a larger whole that can be deemed “sacred”; (2) positive mood states, e.g., awe; (3) ineffability; and (4) non-ordinary perception of space and
+time (Barrett et al., 2015; Stace, 1961). The construct is considered to be problematic by
+some scholars on the basis of presupposing a transcendental/spiritual origin to non-ordinary phenomena (Roseman et al., 2018a, 2018b); imputing extraneous belief-laden content to more primary changes in cognition such as perturbations to sense of self, 1.e., ego
+dissolution (Nour et al., 2016; Roseman et al., 2018a, 2018b); unjustifiably ascribing an
+“unmediated” (Hood, 2013), culture-invariant, and sui generis quality to mystical experience (Taves, 2020); and resisting scientific requirements to establish its mechanistic basis
+in psychology, neurobiology, and culture (Taves, 2020). Nevertheless, mystical experience
+bears large empirical overlap with other neighboring constructs including “oceanic boundlessness” (Studerus et al., 2010), “ego dissolution” (Nour et al., 2016), and the Ayahuasca
+Experience Inventory sub-scale “Clarity” (Weiss et al., 2021a, 2021b), suggesting at once
+(1) support for its convergent/construct validity and (2) limits to its content validity, i.e., as
+it does not explicitly include somatic disembodiment, clarity, or centeredness, features that
+may be useful in their connection to subsequent health changes and potential linkages to
+neurophysiology.
+In the present scientific context, we treat “mystical” as a linguistic pointer to a set of
+psychological phenomena — involving emotion, sentiment, and perception. Some of the
+authors wish to remain metaphysically neutral regarding whether perceptions of mysticism
+have a physical materialist versus idealist or transcendental origin. Other authors are convinced of a strictly biological basis to the mystical phenomena.
+In theory, mystical experience may contain mechanistic elements common to contemporary psychotherapeutic approaches including behavioral activation, a cognitive-behavioral
+technique aimed at enhancing positive emotionality and motivation through engagement
+in enjoyable activities (Cuijpers et al., 2007), and value-based exploration, a technique in
+Acceptance and Commitment Therapy (ACT; Hayes et al., 2004) involving the cultivation
+of alignment between meaningful values and action. The through-line between these different modalities involves upregulation of positive-valence system functioning in individuals
+with anhedonia and low motivation. Psycho-spiritual aspects of mystical experience could
+conceivably be instantiated in 12-step programs, such as Alcoholics Anonymous, in which
+individuals are directed to attune to a spiritual higher power that is larger than themselves
+(Yaden et al., 2021).
+Ego dissolution was also assessed in our study. Although ego dissolution and mystical experience bear substantial empirical and conceptual overlap (Nour et al., 2016), ego
+dissolution more precisely indexes loss of one’s sense of self and self-world boundary,
+and does not conflate this change with a specific emotional valence, e.g., positive mood
+or perceived “sacredness” (Taves, 2020). Ego dissolution has also demonstrated linkages
+to psychedelic-induced changes in neurophysiology (Lebedev et al., 2015; Mason et al.,
+2020; Stoliker et al., 2023; Tagliazucchi et al., 2016). Although research is still needed,
+ego dissolution may be reflected within psychotherapeutic processes wherein patients use
+behavioral activation and mindfulness-based present-focus awareness to disrupt habits
+of self-referential ruminative processing (Cuijpers et al., 2007; Garland & Frederickson,
+2019). Ego dissolution may also be a precondition for processes of identity diffusion and
+
+
+a Springer
+
+[PAGE 006]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 811
+
+
+reformation consistent with ACT therapy emphasis on realizing and prioritizing core values (Hayes et al., 2006).
+Finally, perceived music “intensity” was assessed in our study given its widely regarded
+connection to the nature and therapeutic efficacy of psychedelic experience (Bonny &
+Pahnke, 1972; O’Callaghan et al., 2020; Stephan, 2010). Music has been associated with
+increased autobiographical memory and mental imagery under psychedelics, and enhanced
+emotional response (Kaelen et al., 2015). Across multiple clinical trials, acute psychological responses to music have also been qualitatively analyzed and linked to therapeutic
+response (Belser et al., 2017; Kaelen et al., 2018; Noorani et al., 2018; Watts et al., 2017)
+(see O’ Callaghan et al., 2020 for review).
+In view of evidence that challenging emotional experiences commonly accompany psychedelic experience (Carbonaro et al., 2016; Simonsson et al., 2023) and may, in some
+cases, be beneficial (Weiss et al., 2021a, 2021b), we also examined how challenging elements of acute experience may contribute therapeutically. For the previous two decades,
+the American Psychiatric Association has focused on reducing negative affective symptoms through pharmacological means, whereas the American Psychological Association
+has endorsed therapies that engage challenging emotional content (e.g., imaginal and invivo exposure therapy, exposure and response prevention, psychodynamic approaches). It
+is therefore considered worthwhile to explore whether acute challenging experiences inand-of-themselves contribute to superior efficacy of PT over ET therapy, though we do not
+submit any formal hypotheses. It is however conceivable that they are more related to subsequent negative psychological outcomes and that some emotional resolution must occur
+for them to become therapeutic, á la emotional breakthrough.
+Our present analyses were motivated by three main aims. First, we examined the degree
+to which acute experiences mediate the effect of treatment condition (PT versus ET) on
+depressive symptom severity. Emotional breakthrough experience, emotional intensity,
+emotional insight, mystical experience, ego dissolution, and music impact (or musicevoked emotion) were hypothesized to exhibit significant mediation. Second, we examined
+whether acute experiences function as moderators of response in the PT arm, such that
+greater intensity of acute experiences would be associated with better response. Emotional
+breakthrough experience, mystical experience, and music impact were hypothesized to
+have a moderate response. Third, we examined whether baseline trait absorption and suggestibility, two traits that have previously been found to be predictive of stronger acute
+experience and positive internalizing outcomes (Aday et al., 2021; Studerus et al., 2012;
+Weiss et al., 2021a, 2021b), amplified observed indirect effects on depressive response.
+Absorption and suggestibility were hypothesized to amplify indirect effects of mystical
+experience. In implementing these aims, we used an exploratory lens that strove to consider a broad array of possible acute experience factors.
+
+
+Method
+
+
+Study Design and Participants
+
+
+Information regarding trial ethics, patient characteristics, inclusion/exclusion criteria,
+and study design details can be found in the original Carhart Harris et al. (2021) article. Briefly, 59 patients with diagnoses of MDD were randomized to either the PT arm
+(V=30) or the ET arm (V=29). At visit 1 (baseline), all patients completed self-report
+
+
+Y Springer
+
+[PAGE 007]
+
+812 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+questionnaires and clinician-rated interviews. At visit 2 (1 day after visit 1), the
+patients in the psilocybin group received 25 mg of Compass Pathways’ investigational,
+proprietary, synthetic, psilocybin formulation, i.e., COMP360, and those in the escitalopram group received 1 mg of psilocybin. All investigators and medication-administering staff were unaware of trial-group assignment. Measures of acute experience
+were completed after psychedelic effects had subsided. At the end of visit 2, patients
+received a bottle of capsules and were instructed to take one capsule each morning
+until their next scheduled day of psilocybin dosing. The capsules contained either
+microcrystalline cellulose (placebo), which were given to the patients who received
+the 25 mg dose of psilocybin, or 10 mg of escitalopram, which were given to patients
+who received the 1 mg dose of psilocybin. Three weeks after the first dosing session
+(visit 2), patients received their second dose of 25 mg psilocybin or 1 mg psilocybin.
+Patients again completed measures of acute experience, and were instructed to take
+two capsules each morning (either placebo in PT arm or an increased dose of 20 mg
+of escitalopram in the ET arm) for the next 3 weeks. Following 3 weeks, the patients
+returned to complete self-report questionnaires and clinician-rated interviews. We refer
+to this assessment as Week 6, corresponding to the end of patients’ use of escitalopram
+in the ET condition and 3 weeks following the last 25-mg psilocybin dosing session for
+patients in the psilocybin condition.
+During the treatment period, each participant worked with at least one therapist
+(which could have included a licensed psychiatrist, licensed medic in psychiatry training, licensed clinical psychologist, supervised clinical psychology trainee, and an experienced psychotherapist with British Association for Counseling and Psychotherapy
+membership) and a second practitioner (which could have included a therapist from
+the above categories, psychedelic researchers, and physiotherapists). The nature of
+the psychotherapy being delivered varied across therapists based on their training and
+backgrounds. Lead therapists were permitted to administer a diverse array of modalities including elements of psychodynamic therapy, mindfulness-based therapy, parts
+work therapy, ACT therapy, and relational therapy. Application of these therapies was
+conducted under an integrative therapeutic orientation, in which therapeutic elements
+were tailored to individual participants. There were three additional therapeutic influences on the nature of psychotherapy in the trial. First, lead therapists initially received a
+3-day psychedelic therapy training in the style of Dr. Bill Richard’s psychedelic therapy
+model (Richards, 2017), which is underpinned by humanistic and psychodynamic theories. Second, regular clinical supervision was provided by a licensed psychiatrist with
+psychoanalytic psychotherapy expertise. Third, the Accept/Connect/Embody (ACE)
+model (Watts & Luoma, 2020; Watts, 2021) was shared with lead therapists though no
+formal commitment to applying the therapy was expected. The ACE model is broadly
+inspired by the six psychological flexibility processes (Experiential Acceptance, Present
+Moment Focus, Cognitive Defusion, Self as Context, Values, Committed Action) that
+are the core of ACT therapy (Hayes et al., 2006). The ACE model was developed during
+the trial rather than ahead of it and has not yet been formally validated.
+On dosing days, the therapists accompanied them from the moment they ingested
+the drug until the day’s end. A preset music playlist was played to participants during
+their 4-6-h psychedelic experience. ET patients differed from PT patients in that they
+interacted more with therapists, i.e., involving conversation, during dosing sessions, as
+unlike the PT patients, they were not cognitively insulated within an immersive psychedelic experience. During dosing sessions, therapists focused supportive attention
+on the patient, gently addressing any arising discomfort or resistance and reinforcing
+
+
+a Springer
+
+[PAGE 008]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 813
+
+
+engagement with inward experience. Before and after dosing days, participants underwent psychological preparation and integration, respectively. Preparation included psychoeducation, alliance-building, and psychotherapy, while integration included attentive listening, participant reflection, support, and goal-setting. Taking into account
+screening, preparation, dosing, and integration, participants in each condition received
+approximately 20 h of in-person therapeutic support during the trial, as well as up to six
+further integration calls over Skype or by telephone. There was no difference between
+conditions in the adoption of these optional calls. Data for DD2 acute experience variables was missing for one ET patient and two PT patients.
+To summarize, both the PT and ET conditions included psychological support and
+music during dosing sessions. PT uniquely included 25 mg psilocybin during dosing sessions and daily placebo pills. ET uniquely included 1 mg psilocybin during dosing sessions
+and 6 weeks of daily escitalopram pills between the day after dosing day 1 (DD1) and
+study endpoint.
+
+
+Measures
+
+
+Measurement of Depression
+
+
+Depression Factor Score Depression was assessed using a single depression factor derived from previous exploratory factor-analytic work using the same sample
+(Weiss et al., in prep). The single depression factor was extracted from all items of
+four self- and clinician-rated measures of depression, including the Quick Inventory
+of Depressive Symptomatology-Self-Report (QIDS-SR
+¡¿; the study’s primary outcome measure) (Rush et al., 2003a, 2003b), the Beck Depression Inventory-IA (Beck
+et al., 1996), the Hamilton Rating Scale for Depression-17 (Hamilton, 1960), and the
+Montgomery-Asberg Depression Rating Scale (Montgomery & Asberg, 1979). The
+single depression factor is considered to reflect the shared variance of the four main
+depression scales, and thus to represent a core component of depression. Internal
+consistency was a=0.84 at baseline and a=0.95 at Week 6, and the range of scores
+is O to 1.
+
+
+Measures of the Acute Psilocybin Session
+
+
+Emotional Breakthrough The Emotional Breakthrough Inventory (EBI) (Roseman et al.,
+2019) is a 6-item scale that measures productive engagement with emotional problems
+(e.g., “I felt able to explore challenging emotions and memories”). Participants rated each
+item on a visual analogue scale (VAS) ranging from 0 (No, not more than usually) to 100
+(Yes, entirely or completely). Internal consistency (a) was 0.95 (DD1) and 0.97 (DD2).
+
+
+Mystical Experience The Mystical Experience Questionnaire (MEQ) (Barrett et al.,
+2015; MacLean et al., 2012) is a 30-item scale that measures mystical aspects of participants’ experiences. The MEQ’s items were originally represented on the PahnkeRichards MEQ (Pahnke, 1969; Richards, 1975). In line with psychometric work (Barrett et al., 2015), four sub-scales were assessed: Mystical (15-item; e.g., “Experience
+of the fusion of your personal self into a larger whole”), Positive mood (6-item; e.g.,
+“Sense of awe or awesomeness’), Transcendence of time and space (6-item; e.g., “Loss
+of your usual sense of space”), and Ineffability (3-item; e.g., “Sense that the experience
+
+
+Y Springer
+
+[PAGE 009]
+
+814 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+cannot be described adequately in words”). Participants rated each item on a 6-point
+Likert scale (1=None, Not at all; 6=Extreme, more than any other time in your life
+and stronger than 5). Internal consistency (a) ranged from 0.86 (Ineffable DD1) to 0.98
+(Mystical DD1).
+
+
+Ego Dissolution The Ego Dissolution Inventory (EDI) (Nour et al., 2016) is an 8-item
+scale used to measure the dissolution of ego during the acute effects of psilocybin (e.g., “I
+experienced a disintegration of my “self” or ego”). Participants rated each item on a VAS
+scale (O=No, not more than usually, 100= Yes, entirely or completely). Internal consistency was 0.93 across dosing days.
+
+
+Emotional Insight One item using a VAS scale (0-100) was used to capture psilocybin
+patients’ ratings of emotional insightfulness during their dosing sessions (“Please rate how
+emotionally insightful the experience was overall”).
+
+
+Emotional Intensity One item using a VAS scale (0-100) was used to capture psilocybin
+patients’ ratings of emotional intensity during their dosing sessions (“Please rate how emotionally intense the experience was overall”).
+
+
+Challenging Experiences The Challenging Experience Questionnaire (CEQ) (Barrett
+et al., 2016) is a 26-item scale measuring unpleasant affective, cognitive, and somatic reactions to psychedelic compounds. Reaction sub-scales include Fear, Grief, Physical Distress, Insanity, Isolation, Death, and Paranoia (e.g., “I had the feeling something horrible
+would happen”). Participants rated each item on a 6-point Likert scale (0= None, not at all;
+5= Extreme, more than any other time in my life). Internal consistency was generally good
+across sub-scales. However, Paranoia was not used given its low reliability (App, =0.59;
+app,
+= 0.19). Internal consistency of the other sub-scales ranged from 0.73 (Physical Distress DD1) to 0.94 (Fear DD2).
+
+
+Intensity One item using a visual analogue scale (0-100) was used to capture participants’ ratings of intensity during their dosing sessions (“Please rate the overall
+intensity of the drug effects when the effects were at their most intense”). Intensity
+is regarded to approximate the general psychoactive and somatic effects of the drug,
+beyond particular psychological properties such as mystical experience or emotional
+breakthrough. Intensity was also employed as a covariate to understand the degree to
+which other acute experiences account for depressive response independently of general drug effects.
+
+
+Music Impact Music Impact was assessed using a 25-item measure of the Geneva Emotional Music Scale-25 (GEMS-25) (Zentner et al., 2008). Participants were asked to rate
+how they personally felt in response to the music during their dosing sessions. A sum-score
+for each patient was computed at each dosing day, summing items from nine sub-scales
+including Wonder (3 items), Transcendence (3), Peacefulness (3), Tenderness (3), Power
+(3), Joyful Activation (3), Sadness (2), and Tension (2). Participants rated each item on a
+5-point Likert scale (O=Not at all; 4= Very much). Internal consistency ranged from 0.95
+(DD2) to 0.96 (DD1). Music Impact was also employed as a covariate to understand the
+degree to which other acute experiences account for depressive response independently of
+patients’ response to music during their sessions.
+
+
+A Springer
+
+[PAGE 010]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 815
+
+
+Fig.1 A An outline of the general path structure of the mediation model. B Regression weights of model »
+paths, wherein effect size estimates are standardized. a=effect of Treatment Condition on Mystical Experience (i.e., MEQ Mystical), b=effect of Mystical Experience on Week 6 Depression, c=total effect of
+Treatment Condition on Week 6 Depression irrespective of covariates, c’= effect of Treatment Condition on
+Week 6 Depression, while controlling for Mystical Experience. a, and b, represent the effects of Baseline
+Depression on Mystical Experience and Week 6 Depression. C Parallels panel B but focuses on Ego Dissolution. D Regression weights of model paths, wherein effect size estimates are unstandardized. Labeling
+is similar to panel B, except that int = interaction effect of Treatment Condition x Suggestibility on Mystical,
+which influences the indirect effect of Mystical Experience and the magnitude of the “a” path. The green
+66 99
+
+
+table shows the estimates of indirect effects of Mystical Experience and the a path at different levels of the
+Suggestibility moderator. **p <.005, *p<.05
+
+
+Visual Imagery Acute visual phenomena were assessed using the composite average of
+two 3-item sub-scales of the Altered States of Consciousness Questionnaire-11 (ASC-11)
+(Studerus et al., 2010), namely, Complex Imagery and Elementary Imagery. Participants
+were asked to rate each item on a VAS Scale (0=No/not more than usual, 100 = Yes/very
+much more than usual). Item scores on these sub-scales were averaged to create the Visual
+Imagery composite. Visual Imagery was only employed as a covariate to understand the
+degree to which other acute experiences account for depressive response independently of
+visual phenomena. Internal consistency ranged from 0.92 (DD1) to 0.93 (DD2).
+
+
+Measures of Participant Characteristics
+
+
+Absorption The Modified-Tellegen Absorption Scale (MODTAS) (Jamieson, 2005) is a
+25-item scale measuring trait Absorption, the tendency to be cognitively attuned to interior
+objects of imagination or exterior objects of awareness. Participants rated each Absorption
+item on a 5-point Likert scale (1 = Never, 5= Very often) at baseline. Baseline internal consistency was 0.92.
+
+
+Suggestibility The Multidisciplinary Iowa Suggestibility Scale-Short (MISS) (Kotov
+et al., 2004) is a 21-item scale measuring participants’ susceptibility to accept external
+influences. Participants rated each Suggestibility item on a 5-point Likert-scale (1 = Not at
+all; 5=A lot) at baseline. Internal consistency (a) was 0.86.
+
+
+Analytic Plan
+
+
+Four sets of analyses were conducted. The first two sets involved mediation-based analyses, and the third set involved moderation-based analyses (i.e., associations between
+acute experience variables and depressive response). For mediation-based analyses,
+acute experience scores from DD2 were used. Escitalopram exhibits an onset delay of
+approximately 2 weeks. As such, the antidepressant effects of escitalopram were not
+expected to reach a clinically significant margin until a few weeks of use has elapsed.
+Because we are comparing psilocybin to escitalopram, we argue the most rigorous and
+appropriate test of mediation involves observing differences in the nature and influence
+of acute psychological experience between the 1-mg psilocybin dosing session while
+escitalopram is psychoactive in patients and the 25-mg psilocybin dosing session. This
+comparison is only possible at DD2. That is, DD2 provides the best opportunity for
+interactions between 3 weeks of escitalopram use in the ET arm, 1 mg psilocybin, and
+
+
+Y Springer
+
+[PAGE 011]
+
+816 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+al =-.18
+
+
+c=.71** ¢’=-.07
+
+
+Ego Dissolution
+DD2
+
+
+Treatment c=-.71** ¢’=-.22 Depression
+
+
+Condition DWeek6
+
+
+Depression
+a) Baseline
+
+
+Mystical
+
+Experience DD2
+
+
+int = 1.98"
+
+
+Treatment Depression
+Condition @Week6
+
+
+Depression
+a) Baseline
+
+
+a Springer
+
+[PAGE 012]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 817
+
+
+session music to potentially produce acute experiences typical of psychedelic experience.
+Such phenomena in the ET arm would make mediation more unlikely because non-ordinary psychological experiences related to escitalopram use would have an opportunity to
+express themselves in the ET group. For moderation-based analyses focused on the PT
+arm, acute experience scores were averaged across dosing days because both acute experiences were held to be potentially relevant therapeutically. Demographic variables (1.e.,
+age, sex, unemployment) were not associated with change in Depression (p <0.05), and
+thus were not included as covariates in the models. The statistical significance threshold
+was set at p<0.05 across analyses, while adjusting for the False Discovery Rate (FDR;
+described below) (Benjamini & Hochberg, 1995).
+The first set of analyses used the PROCESS macro (Hayes & Preacher, 2013) in
+R to conduct mediational modeling. Due to the non-normality of indirect effect estimates, 95% bias-corrected bootstrap confidence intervals were employed to determine
+statistical significance. Consistent with recent guidelines (Hayes & Rockwood, 2017),
+to ensure temporal precedence, the Independent Variable (IV) was set as the treatment condition, the Dependent Variable was set as Depression scores at Week 6, and a
+covariate (second IV) was set as Depression scores at baseline (see Fig. 1A for a diagram of this model).
+In the second set of analyses, to assess the causal specificity of acute experience,
+significant indirect effects from the first set were again tested while controlling for indirect effects of Intensity, Visual Imagery, and Music Impact, separately. This method,
+called parallel multiple mediation, is specified by Hayes and Rockwood (2017) as a
+means of gauging whether indirect effects included in the model show epiphenomenal
+versus causally mechanistic action (see Vincent & Walsh, 2013; Arch, 2014 for case
+examples). Epiphenomenality would find support by a non-significant indirect effect
+while controlling for another. Support for mechanistic action would find support by a
+particular indirect effect explaining unique variance in the outcome. In this context, a
+focal acute experience variable, e.g., Ego dissolution, is included in the model along
+with an acute experience variable, e.g., Intensity, that presents a competing explanation for the mechanism underlying therapeutic response. For the first and second sets
+of analyses, a standardized indirect effect was interpreted as the primary outcome of
+interest.
+In the third set of analyses, to assess the moderating effects of acute experience on
+change in depression in the Psilocybin Therapy arm, linear mixed effect models were
+conducted in which Depression scores were regressed on the interaction between Time
+(levels: Baseline, Week 6) and each acute experience variable, separately (Supplementary S3). Of note, a random intercept effect was included in the models which effectively controls for baseline Depression. Supplementary analyses were also conducted
+in which these models were run while controlling for covariates from the second set of
+analyses (i.e., Intensity, Visual Imagery, Music Impact), inclusively (Supplementary
+Table S4). Standardized interaction term coefficients (b) represent the standardized
+change in depressive response associated with being | standard deviation higher in the
+acute experience moderator under examination.
+Three sets of supplementary analyses were additionally undertaken. In the first set
+of supplementary analyses (Supplementary Materials I), a moderated mediation design
+was conducted in which baseline Absorption and Suggestibility were permitted to
+moderate mediational paths that exhibited significant indirect effects from the first set
+of analyses. The moderated mediation index (MMI) (Hayes & Rockwood, 2017) was
+used to indicate the presence of significant moderated mediation, and unstandardized
+
+
+A Springer
+
+[PAGE 013]
+
+818 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+Table 1 Descriptives of acute experience variables
+
+Escitalopram Treatment Psilocybin Therapy
+
+Acute experience (range) Range DD1 mean (SD) DD2 mean (SD) DD1 mean (SD) DD2 mean (SD)
+
+
+Emotional Breakthrough 0-100 19.46 (22.96) 22.24 (28.56) 59.52 (33.03) 65.49 (32.35)
+
+MEQ Mystical 1-6 1.35 (1.22) 1.31 (1.24) 3.65 (1.34) 3.27 (1.35)
+
+MEQ Positive mood 1-6 1.28 (1.20) 1.29 (1.34) 3.66 (1.46) 3.32 (1.34)
+
+MEQ Time space 1-6 1.22 (1.25) 1.21 (1.30) 3.72 (1.49) 2.96 (1.65)
+
+MEQ Ineffable 1-6 1.09 (.99) 1.06 (1.22) 3.31 (1.51) 2.92 (1.59)
+
+Ego Dissolution 0-100 16.87 (20.70) 16.88 (21.33) 51.62 (33.21) 47.94 (34.80)
+
+Emotional Intensity 0-100 25.72 (28) 23.46 (28.33) 82.60 (24.73) 82.96 (23.02)
+
+Emotional Insight 0-100 22.83 (25.79) 27.57 (31.20) 77.27 (29.29) 74.96 (28.95)
+
+Intensity 0-100 19.07 (21.46) 21.89 (24.37) 86.40 (23.94) 85.39 (23.28)
+Music Impact 0-100 68.03 (18.69) 58.59 (18.33) 83.70 (22.67) 84.93 (20.10)
+
+CEQ Fear 0-5 .81 (.86) 41 (.57) 1.54 (1.42) 1.89 (1.49)
+
+CEQ Grief 0-5 1.71 (1.11) .96 (.80) 2.51 (1.42) 2.59 (1.45)
+
+CEQ Physical Distress 0-5 .86 (.71) 58 (.60) 1.82 (1.05) 1.92 (1.17)
+
+CEQ Insanity 0-5 .24 (.53) .15 (.35) 1.03 (1.40) 1.08 (1.28)
+
+CEQ Isolation 0-5 1.00 (1.18) .96 (1.13) 1.56 (1.63) 1.80 (1.74)
+
+CEQ Death 0-5 19 (.51) .18 (.53) 1.23 (1.64) 1.75 (1.95)
+
+ASC Visual Composite 0-100 25.45 (27.69) 29.95 (32.76) 68.95 (30.22) 59.60 (32.59)
+
+
+DD=dosing day; SD=standard deviation. Music Impact is scored using mean sum-scores; other variables
+are scored using mean mean-scores. See “Method” section for Likert-scale interpretation
+
+
+indirect effects at different standardized levels of the moderator (-1 SD, mean,+
+1
+SD) were provided to illustrate the size of the moderated mediation. In the second set
+of supplementary analyses, correlations were calculated between acute experience variables by condition and dosing day (Supplementary Tables S5 and S6). In the third set
+of supplementary analyses, mediation-based analyses were conducted in which DD1
+(versus DD2) acute experience scores were included (Supplementary Table S12).
+False Discovery Rate (FDR) (Benjamini & Hochberg, 1995) corrections were
+applied and interpreted for the first, second, and third sets of analyses. However, nonFDR-adjusted confidence intervals (CIs) and p-values were interpreted for hypothesized analyses. Of note, the PROCESS macro did not provide p-values, but rather bootstrap confidence intervals. As such, p-values were approximated from the bootstrap
+effect size estimate and standard error in order to complete the FDR adjustment. Supplementary analyses were not FDR adjusted, and thus, unhypothesized analyses should
+be interpreted with caution given an elevated Type I error rate.
+
+
+Results
+
+
+Descriptives of Acute Experiences by Treatment Condition
+
+
+Table 1 provides mean scores and standard deviations of all measured acute experiences by
+condition and dosing day.
+
+
+Y Springer
+
+[PAGE 014]
+
+jeuoeWAIUY|
+Table 2 Examining indirect effects by DD2 acute experience
+
+Indirect effect Effect Boot SE Boot 95% LLCI Boot 95% ULCI Estimated FDR
+Jo ¡euunof
+p-value adjusted
+p-value
+
+JeJuayy
+Condition—> Emotional Breakthrough—> Depression — .49* .19 — .93 —.18 O11 .034
+
+Condition—> MEQ Mystical—> Depression — .64* .18 — 1.03 —.29 .000 .005
+yyeaH
+Condition—> MEQ Positive Mood—> Depression — .64* .18 — 1.03 —.32 .000 .005
+pue
+Condition—> MEO Time Space—> Depression —.54* .15 — .83 —.27 .000 .005
+
+Condition—> MEO Ineffable—> Depression — .59* .17 —.97 — .30 .001 .005
+
+Condition—> Ego Dissolution—> Depression — .49* 14 — .80 —.25 .000 .005 UONDIPpY
+
+Condition—> Emotional Intensity—> Depression — .63 29 - 1.29 —.15 .029 .064
+
+Condition—> Emotional Insight—> Depression — .49* .20 —.97 —.18 .014 .041 (YZ07)
+
+Condition—> Music Impact—> Depression — .46* .16 —.78 —.17 .004 .019
+
+Condition—> Intensity—> Depression — .86* 33 — 1.64 — .30 .009 .034
+
+Condition—> CEQ Fear—> Depression — .04 14 —.37 23 .753 .809 178-908:77
+
+Condition—> CEQ Grief—> Depression .16 .15 —.12 47 .288 341
+
+Condition—> CEQ Physical Distress—> Depression — .03 .18 — 40 31 .887 .887
+
+Condition—> CEQ Insanity—> Depression — .02 .10 — .20 21 .876 .887
+
+Condition—> CEQ Isolation—> Depression — .03 .09 — .23 12 .746 .809
+
+Condition—> CEQ Death—> Depression — .23 .14 — .53 .00 .098 .153
+
+
+SE=standard error; Boot=bootstrap; LLCI/ULCI=lower/upper limit confidence interval. Italicized indirect effects were hypothesized; asterisk (*) indicates significance
+according to bootstrap confidence interval for hypothesized indirect effects and significance according to pFDR for unhypothesized indirect effects
+uv
+
+
+rasutids 618
+
+[PAGE 015]
+
+820 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+Indirect Effects of Acute Experience
+
+
+Results are provided in Table 2. Significant indirect effects were observed for 10 of 16
+acute experience variables, including Emotional Breakthrough, MEQ Mystical, MEQ
+Positive Mood, MEQ Time and Space, MEQ Ineffable, Ego Dissolution, Emotional
+Intensity, Emotional Insight, Music Impact, and Intensity. For example, the indirect
+effect of treatment condition on depressive response through MEQ Mystical was — 0.64
+standard deviations in Depression at Week 6. Compared with the total effect of treatment condition on Depression (b= —0.71, 95% CI [-0.19,-—0.03], p=0.006), this
+indicates that 90% of the between-condition difference in depressive response favoring
+PT is accounted for by MEQ Mystical. In contrast, all challenging experience variables exhibited non-significant indirect effects. Figures 1B and 1C illustrate the specific
+paths of mediation models containing the indirect effects of MEQ Mystical and Ego
+Dissolution, respectively. Supplementary Table S7 additionally provides item-level
+results for MEQ Mystical.
+Analyses were also conducted in which acute experience scores (1) averaged from
+both dosing days and (2) at DD1 were examined instead of DD2 scores. For averaged
+scores, results were highly convergent with the exception of CEQ Death exhibiting a
+significant indirect effect (Supplementary Table S8).This could be accounted for by the
+positively valenced aspects of CEQ Death that distinguish it from other CEQ factors,
+e.g., “Profound experience of your own death.” For DD1 scores, results were highly
+convergent with the exception of Music Impact failing to exhibit a significant indirect
+effect (Supplementary Table $12). This result may be accounted for by higher scores
+among ET participants at DD1 versus DD2 (Table 1), an associated weaker association between Condition and Music Impact (b,pam.ppı =9-79 VS Dapathpp2= 1-12), and
+a weaker association between Music Impact and Depression (Dppatn.pp1= — 0.29 vs
+Dppath.pp2
+= — 9.44). As a note, b indicates standardized coefficients from multivariate
+regression models generated from the PROCESS macro. To locate them on mediation model, refer to Fig. 1A. Taken together, ET participants exhibited higher Music
+Impact scores in the first session, possibly due to higher novelty during the first session,
+and these scores combined with PT participants’ scores appeared less associated with
+depressive outcome than DD2 scores. Analyses were further conducted in which QIDSSR16 total scores were examined instead of Depression scores, yielding highly convergent results (Supplementary Table S9).
+
+
+Specificity of Indirect Effects
+
+
+Acute experience variables that exhibited significant indirect effects were next examined
+using a parallel mediation model to test whether they explained a unique portion of the
+indirect effect vis-a-vis Intensity, Visual Imagery, and Music Impact. Table 3 provides
+these results.
+
+
+Controlling for Intensity
+
+
+The indirect effects of MEQ Mystical, MEQ Positive Mood, MEQ Time and Space, MEQ
+Ineffable, and Ego Dissolution retained significance while controlling for Intensity, whereas
+
+
+Y Springer
+
+[PAGE 016]
+
+Table3 Examining indirect effects by dosing day 2 acute experience variables while controlling for Intensity, Visual Imagery, and Music Impact
+
+Indirect effect Effect Boot SE Boot 95% LLCI Boot 95% ULCI Estimated FDR
+p-value adjusted
+p-value ¡euoneusa]ul
+
+
+Controlling for Intensity
+
+Condition—> Emotional Breakthrough—> Depression — .35 25 — 1.00 .00 .171 .225 JoJeuanor
+
+Condition—> Intensity—> Depression —.47 .42 — 1.25 38
+
+Condition—> MEQ Mystical—> Depression — .67* 34 — 1.39 — .03 048 .084 ¡e1uayy
+
+Condition—> Intensity—> Depression .07 4 -1.11 1.02
+YIeaH
+Condition—> MEQ Positive Mood—> Depression — .62* .26 —1.10 —.09 .016 .045
+
+Condition—> Intensity—> Depression — .03 46 — 1.03 73 pue
+
+Condition—> MEQ Time Space—> Depression — .59* .20 — 1.05 —.25 .004 .019
+
+Condition—> Intensity—> Depression .16 Al — .66 95
+UOMIPPY
+Condition—> MEQ Ineffable—> Depression — .56* 22 — 1.03 —.18 .010 .034
+
+Condition—> Intensity—> Depression — .07 39 — .96 .65
+(pZ0Z)
+Condition—> Ego Dissolution—> Depression — .46* .16 —.80 —.14 .004 .019
+
+Condition—> Intensity—> Depression —.11 39 — 1.00 .60
+
+Condition—> Emotional Intensity—> Depression —.09 .65 — 2.00 .70 .886 .887
+198-908:77
+Condition—> Intensity—> Depression —.77 .80 —1.91 1.32
+
+Condition—> Emotional Insight—> Depression —.29 32 —1.11 .15 .367 .426
+
+Condition—> Intensity—> Depression —.52 55 — 1.66 61
+
+Condition—> Music Impact—> Depression —.31 .22 —.77 .11 .161 .225
+
+Condition—> Intensity—> Depression —.56 A6 — 1.49 35
+
+Controlling for Visual Imagery
+
+Condition—> Emotional Breakthrough—> Depression — .44* .20 — .92 —.15 .030 .064
+
+Condition—> Visual Imagery—> Depression —.16 14 —.47 .08
+Condition—> MEQ Mystical—> Depression — .63* 21 — 1.02 — .23 .002 .014
+
+Condition—> Visual Imagery—> Depression — .05 14 — .33 22
+
+Condition—> MEQ Positive Mood—> Depression — .66* .19 — 1.08 —.31 .001 .005
+193urıds 128
+
+[PAGE 017]
+
+I Table 3 (continued)
+C78
+n
+Indirect effect Effect Boot SE Boot 95% LLCI Boot 95% ULCI Estimated FDR
+p-value adjusted
+193urıd p-value
+
+
+Condition—> Visual Imagery—> Depression — .06 .13 — .36 19
+Condition—> MEQ Time Space—> Depression —.55* .16 — .88 — .26 .001 .005
+Condition—> Visual Imagery—> Depression —.05 12 —.32 17
+Condition—> MEQ Ineffable—> Depression — .59* .18 —.97 —.27 .001 .007
+
+Condition—> Visual Imagery—> Depression — .08 .13 -.37 .14
+Condition—> Ego Dissolution—> Depression — 45% .14 —.77 —.21 .001 .007
+Condition—> Visual Imagery—> Depression —.09 .12 — .34 15
+Condition—> Emotional Intensity—> Depression —.58 .33 — 1.33 — .02 .080 .132
+
+Condition—> Visual Imagery—> Depression —.16 14 —.49 .07
+Condition—> Emotional Insight—> Depression — 49 21 —.97 —.15 .018 .045 jeuO!JeUsaIUI
+
+Condition—> Visual Imagery—> Depression —.16 .13 — .46 05
+Condition—> Music Impact—> Depression — .42* .18 —.80 —.10 .017 .045
+Jo |ewNor
+Condition—> Visual Imagery—> Depression —.13 .15 —.47 .09
+Controlling for Music Impact
+jeruayy
+Condition—> Emotional Breakthrough—> Depression — .30 .24 — .94 .03 .207 .267
+
+Condition—> Music Impact—> Depression —.29 21 —.71 .19
+yyjeaH
+Condition—> MEQ Mystical—> Depression — .64* 31 —1.31 — .08 041 .078
+PUE
+Condition—> Music Impact—> Depression .00 .25 —.51 48
+Condition—> MEQ Positive mood—> Depression — .58* 29 —1.18 —.07 .046 .084
+
+Condition—> Music Impact—> Depression -.07 .25 —.50 48
+UONDIPpY
+Condition—> MEQ Time space—> Depression —.61* 23 — 1.08 —.20 .007 .027
+Condition—> Music Impact—> Depression .10 .24 —.40 .56 (7707)
+Condition—> MEO Ineffable—> Depression — .56* 25 -1.12 -.12 .026 .060
+
+Condition—> Music Impact—> Depression — .03 22 -.51 43
+
+178-908:77
+
+[PAGE 018]
+
+Table 3 (continued)
+
+Indirect effect Effect Boot SE Boot 95% LLCI Boot 95% ULCI Estimated FDR
+p-value adjusted
+p-value jeuoneusatu]
+
+
+Condition—> Ego Dissolution—> Depression — .45* 17 — .84 —.17 .008 .032
+
+Condition—> Music Impact—> Depression — .08 .20 — .46 32 Jo ¡euanof
+
+Condition—> Emotional Intensity—> Depression — .25 36 —1.18 23 479 935
+
+Condition—> Music Impact—> Depression —.37 21 — .78 .08 jeruay
+
+Condition—> Emotional Insight—> Depression —.28 .22 — .83 .08 .220 .277
+
+Condition—> Music Impact—> Depression — .33 21 —.76 .06 yyjeaH
+
+Pue
+SE=standard error; Boot=bootstrap; LLCI/ULCI=lower/upper limit confidence interval. Italicized indirect effects were hypothesized; asterisk (*) indicates significance
+according to bootstrap confidence interval for hypothesized indirect effects and significance according to pFDR for unhypothesized indirect effects
+
+UOH2IPpy
+
+
+(pZ0Z)
+
+
+L78-908:77
+
+
+6
+
+
+193urıds €78
+
+[PAGE 019]
+
+824 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+indirect effects of Emotional Breakthrough, Emotional Intensity, Emotional Insight, and
+Music Impact did not survive.
+
+
+Controlling for Visual Imagery
+
+
+The indirect effects of Emotional Breakthrough, MEQ Mystical, MEQ Positive Mood, MEQ
+Time and Space, MEQ Ineffable, Ego Dissolution, Emotional Insight, and Music Impact all
+retained significance while controlling for Visual Imagery.
+
+
+Controlling for Music Impact
+
+
+The indirect effects of MEQ Mystical, MEQ Positive Mood, MEQ Time and Space, MEQ
+Ineffable, and Ego Dissolution retained significance while controlling for Music Impact,
+whereas indirect effects of Emotional Breakthrough, Emotional Intensity, and Emotional
+Insight did not.
+
+
+Moderation of Change in Depression by Acute Experience in the Psilocybin Therapy
+Arm
+
+
+Linear mixed effect models were used to examine the degree to which higher levels of
+acute experience among patients in the PT arm were associated with increased depressive response. Significant moderation of depressive response was observed for Emotional Breakthrough (b=0.42, p=0.014, Depp =90.041), MEQ Mystical (b= —0.35,
+p=0.049, Prpr =9.084), MEQ Positive Mood (b= —0.37, p=0.035, Prpr =0.073),
+MEQ Time and Space (b= — 0.36, p =0.040, Pepr
+= 0.078), MEQ Ineffable (b= —0.35,
+p=0.048, prpr=0.084), and Music Impact (b= —0.40, p=0.022, Prpr =0.054),
+but not Ego Dissolution (b= —0.30, p=0.094, pPrpr =0.151), Emotional Intensity (b= —0.25, p=0.167, Depp =0.225), Emotional Insight (b= —0.25, p=0.170,
+Prpr=9.225), Intensity (b= —0.21, p=0.246, Prpr
+= 0.304), CEQ Fear (b= —0.26,
+p=0.140, Peper = 0.208), CEQ Grief (b= —0.04, p=0.808, Prpr = 0.852), CEQ Physical Distress (b= —0.16, p=0.390, Pepe
+= 0.444), CEQ Insanity (b= — 0.20, p=0.265,
+Prpr
+= 9.320), CEQ Isolation (b= —0.25, p=0.160, Prpr =0.225), or CEQ Death
+(b= — 0.26, p=0.138, Prpr = 0.208).
+Hypothesized moderation by Emotional Breakthrough, Mystical Experience variables, and Music Impact was supported. For example, a 1-standard-deviation increase
+in Emotional Breakthrough was associated with an incremental 0.42 standard deviation
+decrease in Depression scores at Week 6. Figure 2 illustrates that PT arm patients with
+higher baseline depression were no more likely to experience Emotional Breakthrough
+than patients lower in depression, but patients who endorsed higher levels of Emotional Breakthrough were significantly more likely to report decreases in depressive
+symptoms at Week 6 (Fig. 2A). For Mystical Experience variable and Music Impact,
+the same general pattern was observed with the exception that patients lower in
+Depression showed a non-significant trend toward greater acute experience (Fig. 2B).
+Supplementary Table S3 provides the detailed results.
+To observe whether these moderation-based effects were independent from other
+confounding sources, significant moderation-based effects were separately modeled
+
+
+Y Springer
+
+[PAGE 020]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 825
+
+
+A Emotional Breakthrough + -1 +0 4 1
+
+1.0?
+
+
+= 054
+
+2
+A 0.0
+a.
+A251
+
+
+1.54
+
+Baseline Week 6
+
+
+B Mystical Experience +1 4 0 $ 1
+
+14
+
+
+.Q
+uN
+
+6 07
+a.
+o
+A
+
+-1 -
+b=-.35*,
+p = .049
+
+
+Baseline Weck 6
+
+Fig.2 Line plots illustrating trajectories of depressive response at different levels of the MEQ Mystical subfactor in the Psilocybin Therapy arm.— 1, 0, and 1 refer to 1 standard deviation below mean mystical experience (— 1), mean Mystical Experience (0), and 1 standard deviation above mean Mystical Experience (1).
+A and B The moderating effects of Emotional Breakthrough and Mystical Experience, respectively
+
+
+while controlling for the moderation-based effects of Intensity, Visual Imagery, and
+Music Impact. Only the effect of Music Impact on depressive response survived (see
+Supplementary Table S4).
+We also examined moderation by acute experiences in the ET arm (while averaging
+acute experience scores across dosing days) (Supplementary Table S10). Results were
+null, with the exception of Music Impact showing significant moderation (b= — 0.40,
+p=0.03).
+
+
+Discussion
+
+
+The purpose of our study was to investigate (1) whether acute psychological experiences
+may account for the difference in treatment efficacy between Psilocybin Therapy and Escitalopram Treatment and (2) whether acute psychological experiences were associated with
+greater clinical response in the PT arm. Building on previous work, specific domains of
+subjective experiences were examined in the service of exploring how PT may substantively differ from ET in terms of its psychological mechanisms of therapeutic action.
+
+
+A Springer
+
+[PAGE 021]
+
+826 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+Mediation of Treatment Condition on Depressive Response by Mystical Experience
+and Ego Dissolution
+
+
+The strongest support was found for the role of mystical experience and ego dissolution in
+mediating the effect of PT versus ET on depressive response. Distinctly elevated experiences of mystical experience and ego dissolution in the PT versus ET arm were specifically
+associated with differences in response between conditions. As other researchers have commented (Kazdin, 2007; Yaden & Griffiths, 2020), such specificity is important to establish
+in order to attribute therapeutic changes directly to particular acute experiences (and not,
+e.g., to the general intensity of the drug effect), a difficult task given high levels of covariance between acute experiences when measured over an~5-h psychedelic experience. It
+bears noting that experiences of emotional breakthrough, emotional intensity, emotional
+insight, and intense response to music similarly showed indirect effects in univariate models. However, they did not survive when controlling for general intensity, visual imagery,
+and perceived intensity of music. This result does not mean that the former variables are
+purely epiphenomenal, but rather that their unique variance, relative to the latter variables,
+is not in and of itself sufficient for mediating the effect of condition on depressive response.
+One caveat to consider is that this study is particular in investigating mechanistic differences between two active therapeutic conditions; as such, future research involving the
+comparison of PT with a placebo condition could conceivably demonstrate significant specific mediation for additional acute experience variables, i.e., mediation analyses work to
+parse between conditions and should not be interpreted as reflecting a specific or absolute
+action of PT.
+Our general finding is that so-called mystical experience and ego dissolution contain
+unique variance that underlay the efficacy of PT versus ET, contrasting with acute experiences such as intensity, visual imagery, and music impact that constitute competing explanatory mechanisms underlying differential therapeutic efficacy. Our results are consistent
+with two previous clinical trials (Griffiths et al., 2016; Ross et al., 2016) demonstrating an
+indirect effect of mystical experience on therapeutic outcomes, of which one study similarly tested and established the specificity of mystical experience (Griffiths et al., 2016).
+These collective findings present at least four possibilities related to treatment mechanisms
+underlying PT. First, they provide support for the notion that psycho-spiritual mechanisms,
+involving a shift in one’s sense of self, relief from smaller psychic concerns, and attunement to the sacredness of one’s reality/existence, may be integral to PT’s therapeutic effect
+on internalizing symptomology. While it would be scientifically inappropriate for us to
+interpret a transcendental etiology to patients’ experiences, such transcendentalism may,
+however, be held or adopted by patients in view of their item-level endorsement of phenomena that could be construed as implying supernaturalism. The psychological benefits
+or risks of transcendentalism or supernaturalism are beyond the remit of the present paper
+but can be examined here in relation to psychedelics (Nayak et al., 2023; Timmermann
+et al., 2021). Further, mediational findings supporting both mystical experience and ego
+dissolution may point to a singular psycho-spiritual mechanism overlapping in both. We
+note previous work that has found strong convergence between ego dissolution inventory
+scores and scores on the “mystical” or “unitive” sub-factor of the MEQ (Nour et al., 2016),
+while at the same time acknowledging other prior work arguing for a stronger mechanistic
+basis for ego dissolution (Taves, 2020), which has shown links with the acute brain action
+of psychedelics (Lebedev et al., 2015; Mason et al., 2020; Stoliker et al., 2023; Tagliazucchi et al., 2016).
+
+
+a Springer
+
+[PAGE 022]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 827
+
+
+Second, although this study identified treatment mechanisms unique to psilocybin versus escitalopram (and possibly SSRI therapies broadly), the mechanisms may still converge
+with those present in common and effective psychotherapies. One such example are therapies
+aimed at enhancing positive valence system functioning (Insel, 2014) in depressed patients.
+Behavioral activation, a common and effective technique within cognitive-behavioral therapy (CBT), involves an operant process of upregulating positive emotionality and motivation through engagement in enjoyable and meaningful activities (Cuijpers et al., 2007). ACT
+therapy (Hayes et al., 2006) similarly involves activating the positive valence system through
+present moment awareness, attention to values, and committed action. These processes may
+be similar to mystical experience and ego dissolution in orienting individuals outside of selfcentered ruminative patterns and into positively valenced relationships to self, others, and
+environment (also see Vollenweider et al., 1998, 1999 for neurological evidence of psilocybin’s effect on the dopaminergic system). The differences between psilocybin experience
+and these other modalities are however notable. Both can contain qualities of a eudaimonic,
+involving meaning and self-realization, and hedonic, involving pleasure and pain avoidance,
+nature (Ryan & Deci, 2001), but psilocybin experience may be more heavily proportioned
+in favor of the former, both in terms of frequency of content and intensity. The present study
+was notable in combining both psychedelic administration and an ACT-informed therapy that
+fostered connection to personal meaning and values. Although the ACT-informed therapy was
+controlled for in the present study, 1.e., PT versus ET, it remains conceivable that therapy interacted with acute psychedelic experience to produce a stronger antidepressant effect (see Murphy et al. 2022 for an examination).
+Third, although ego dissolution primarily indexes a reduction in “sense of self,” selfimportance, and personal issues and concerns, it also captures shifts in attention outside the
+self, namely, toward “the universe” and “others.” This raises the consideration that as selffocus dissolves, ruminative self-referential processing undergoes disruption and new mental
+objects become foregrounded in present-moment awareness. Scholars (Payne et al., 2021)
+have recently argued that such cognition converges with mindfulness-based states common
+to third-wave psychotherapeutic approaches such as ACT therapy and Dialectical Behavior Therapy (Linehan et al., 1999) involving present-moment awareness and non-judgmentalness. It is interesting to consider that endorsement of ego dissolution items such as “I felt
+far less absorbed by my own issues and concerns” may accompany less appraisal of good
+or bad in favor of non-judgmental exploration. We encourage future research that explores
+how ego dissolution converges with mindfulness-based treatment mechanisms involving disruption of default habits of self-referential processing, stimulation of attentional broadening,
+and increased capacity for positive emotions (see Garland & Frederickson, 2019). Equally, we
+acknowledge that accounts of ego dissolution are not exclusively positively valenced, especially when an individual struggles to resist or when foregrounded objects of awareness are
+uncomfortable and threatening (Taves, 2020).
+Fourth, if ego dissolution accompanies a dissolution of identity, one must question whether
+it is connected to processes of identity formation and diffusion specified, for example, in the
+work of Erik Erikson (Erikson, 1994). On one hand, periods of ego dissolution could merely
+involve an inconsequential hiatus on one’s awareness of identity, e.g., as in watching a movie.
+On the other, ego dissolution may reflect a psychophysiological process by which structures
+relevant to identity, e.g., notions of self-concept, values, beliefs, and social role instantiated
+at a higher-order level of neural hierarchy (Carhart-Harris & Friston, 2019), undergo diffusion wherein an individual explores attributes, values, and perspectives beyond their current
+ossified state of identity (Carhart-Harris et al., 2022; Maree, 2022). Indeed, previous qualitative work has revealed evidence of identity shifting in the direction of authentic values and
+
+
+Y Springer
+
+[PAGE 023]
+
+828 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+convicted purpose during and following psilocybin experience (Belser et al., 2017; Shaw
+et al., 2023; Watts et al., 2017). Such a process may be continuous with therapies, such as
+ACT therapy that guides patients toward realization and prioritization of core values, and narrative therapy (Madigan, 2011) that empowers patients to take an active role in shaping their
+self-stories. We accordingly support future research that explores how ego dissolution may
+subserve processes of identity formation and diffusion.
+In sum, our specific results suggest that states of consciousness deemed mystical are
+uniquely tied to PT’s combination of 25-mg psilocybin sessions+psychological support+ music versus ET’s combination of 1-mg psilocybin sessions
++ escitalopram pharmacotherapy
++ music. As shown previously (Nour et al., 2016), mystical experience and ego dissolution are cognitively associated and interdependent, particularly in relation to the mystical
+or unitive sub-factor of the former, where items describe the dissolving of ego boundaries, i.e.,
+separation between subject and object, or self and not-self.
+
+
+Trait Absorption and Suggestibility in Strengthening Mediation
+
+
+In addition, our supplementary analyses supported the role of baseline trait absorption and
+suggestibility in sensitizing individuals to the indirect effects of mystical experience and ego
+dissolution on improved depressive symptom severity. This means, for example, that those
+patients who were higher in suggestibility were also more likely to be differentially sensitive to the guiding influence of mystical experience and ego dissolution on their antidepressant response to PT vs ET (Fig. 1D for details). An explanation of this finding could be that
+absorption and suggestibility amplify the acute experiences under 25 mg psilocybin vs the
+1 mg psilocybin+ escitalopram control condition. We speculate that absorption, involving a
+cognitive disposition toward immersion in one’s internal mental landscape (Wild et al., 1995),
+and suggestibility, involving a hyper-sensitivity to external influence, may facilitate attunement to the meaningfulness of acute phenomena, and particularly suit PT where experiential
+and relational (or contextual) factors have been found to be important moderators of change
+(Murphy et al., 2022). However, the cognitive interactions between acute experience and
+absorption/suggestibility may be complex. For example, highly suggestible individuals may be
+more ready to ascribe metaphysical transcendence to the same essential underlying brain state
+and subjective experience, e.g., “unity with ultimate reality” may be selectively construed as
+a transcendence of governing laws of physics and nature (see Timmermann et al. 2021 and
+Nayak et al. 2023 for a relevant discussion). In general, these findings may have valuable clinical implications for patients, such that candidates for treatment who are higher in absorption
+and suggestibility may stand to be more responsive to certain psycho-spiritual therapeutic
+mechanisms and experience better outcomes. However, it bears noting that we do not interpret our results to mean that transcendentalism is a reliable and causal vehicle toward positive
+mental health outcomes (Masters, 2010).
+Notably, suggestibility appeared to be broader in its sensitizing effects than trait absorption,
+e.g., moderating indirect effects of emotional breakthrough, whereas absorption appeared to
+be more narrowly associated with mystical experience and ego dissolution. An explanation
+may be that absorption specifically involves attunement to and elaboration on imagined mental phenomena. We also note literature on a 5-HT,, receptor polymorphism linked to greater
+5-HT,, receptor signaling and trait absorption (Ott et al., 2005) and other literature on the serotonergic system and high trait sensitivity or susceptibility (Homberg & Jagiellowicz, 2022).
+Thus, trait absorption may be a proxy for more basic individual differences in generalized sensitivity modulated by differences in serotonergic functioning.
+
+
+A Springer
+
+[PAGE 024]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 829
+
+
+One additional question we endeavored to answer is why emotional breakthrough did not
+emerge as a specific mediator of condition in the present study after controlling for intensity.
+Supplementary Table S6 is informative in illustrating that on DD2, curiously, ET patients
+exhibited higher correlations between (general drug) intensity and other acute experience variables than PT patients. We consider that higher correlation in the ET arm may be a function of
+the placebo effect, where perceived intensity was predictive of mental experience, whereas the
+lower correlation in the PT arm may be a function of more specific psychological experiences
+that can be dissociated from generic intensity. Notably, the difference in “intensity
+x acute
+experience” correlations between arms was highest for “intensity
+x emotional breakthrough”
+(e.g., Ppp =0.39, rgy=0.82, versus for MEQ Mystical: rpy=0.69, rgy=0.88). This imbalance
+in the effect of intensity on emotional breakthrough between arms could have contributed to
+the absence of specificity observed in our data, as the variance retained by emotional breakthrough (relative to intensity) differed substantially between arms.
+
+
+Moderation of Change in Depression in the Psilocybin Therapy Arm
+
+
+Consistent with previous literature (Griffiths et al., 2016; Kaelen et al., 2018; Nour et al.,
+2016; Roseman et al., 2019, 2018a, 2018b), experiences of emotional breakthrough, mystical experience, ego dissolution, and intense responses to music were all associated with
+greater response in the PT arm. Emotional breakthrough notably exhibited the numerically
+strongest association with depressive response. This appears consistent with observations
+from early psychedelic therapeutic work that such cathartic psychological experiences are
+integral to the therapeutic process and particularly key to the resolution of internalizing
+symptomology (Roseman et al., 2019). Emotional breakthrough was also distinguished
+in being the only moderator that remained statistically significant after controlling for the
+False Discovery Rate.
+Notably, challenging experiences were not associated with improved outcomes whereas
+emotional breakthrough was supporting earlier hypotheses (Roseman et al., 2018a, 2018b)
+that confronting negative emotional material is not therapeutic unless conjoined with resolution. We consider that successful resolution of conflict brings with it insight and a sense
+of relief, whereas the failure to break through may merely perpetuate suffering.” The present results point to the Emotional Breakthrough Inventory being a particularly valuable
+instrument to use in clinical and research settings for predicting future outcomes and guiding treatment planning given its strong predictive utility and low burdensomeness (short
+6-item scale).
+Emotional breakthrough is defined by engagement with negative emotional material and resolution-related cognitions. Consistent with the common mechanisms model
+(Greenway et al., 2020), we feel there is value in exploring to what degree the emotional
+breakthrough experience/construct converges with treatment mechanisms from other
+psychotherapeutic approaches. We consider three psychotherapeutic models here to connect the psychedelic literature to the broader clinical literature. First, seen through a psychodynamic lens, experiential avoidance is a defense mechanism against experiencing
+painful/ego dystonic unconscious content. From this vantage, emotional breakthrough
+
+
+A note that acute discomfort experienced during patients’ dosing sessions was actively addressed by
+therapists using reframing, music changes, and psychological techniques (e.g., guided relaxation). However,
+these measures could not eliminate all challenging experiences from arising.
+
+
+Y Springer
+
+[PAGE 025]
+
+830 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+describes an initial elevation in psychic conflict as an individual brings uncomfortable
+material into conscious awareness, along with subsequent insights that aid in resolving conflict (Lindegaard, 2023; Fenichel, 2014). Second, in facing challenging emotions and memories, emotional breakthrough involves reduced experiential avoidance
+(Hayes et al., 2004), an ACT concept describing the tendency to avoid uncomfortable
+or unwanted thoughts, feelings, or experiences. Max Wolff and colleagues (2020) are at
+the forefront of exploring how psychedelics may promote acceptance-related cognition
+and revise excessive experiential avoidance (Wolff et al., 2020, 2022). We encourage
+future research examining whether these acute pro-acceptance states attend emotionregulation capacity in the service of progressing toward valued action (Watts & Luoma,
+2020). Third, emotional breakthrough may contain processes similar to stress habituation within exposure-based psychotherapies (Abramowitz et al., 2019; Foa, 2011),
+wherein patients experientially observe their capacity for habituating to stress in the
+midst of aversive experience. Exposure therapy may also entail mechanisms of emotional breakthrough if, for example, it catalyzes accompanying adaptive cognitive shifts
+in core beliefs about oneself, others, and the world, as observed in Prolonged Exposure
+Therapy for Post-traumatic Stress Disorder (Foa, 2011). It is not clear that these psychotherapeutic mechanisms sufficiently encompass the mechanistic action of emotional
+breakthrough, as psychedelics seem to be especially potent tools for eliciting heightened emotional intensity, memory, and catharsis. As such, we therefore look forward
+to coming research examining how contemporary psychotherapeutic and psychedelic
+therapeutic treatment mechanisms overlap and/or differ, as well as further clinical work
+that optimizes efficacy through the implementation of complementary psychotherapeutic strategies.
+Further, logically following from our mediation-based results, patients who experienced more intense “mystical” and ego-dissolving experiences tended to report greater
+antidepressant response. This is consistent with previous literature and is unsurprising
+given prior work implying its mechanistic role in guiding therapeutic outcomes. Given
+the link with suggestibility this is likely to be a psychological effect though we cannot
+exclude a pharmacokinetic explanation, i.e., more drug getting to the brain, or more
+responsive receptors.
+Finally, the magnitude of PT patients’ emotional response to music during the acute
+period of their dosing sessions was meaningfully associated with depressive response.
+This finding is consistent with previous observations from early psychedelic therapists
+(Bonny & Pahnke, 1972) as well as recent qualitative (O’ Callaghan et al., 2020), quantitative (Kaelen et al., 2018), and neuroscientific (Shukuroglou et al., 2023) evidence of links
+between musical response, acute experiences, and therapeutic outcomes.
+We also wish to address the possible role of the ACE model of psychotherapy in producing the present results. This consideration is in line with a growing literature revealing the
+contribution of mental and environmental context to the nature of psychedelic experience,
+1.e., set and setting (Adamson & Metzner, 1988; Carhart-Harris et al., 2018; Hartogsohn,
+2016; Johnson et al., 2008). Indeed, there are recent empirical examples of psychotherapeutic elements interacting with psychedelic experience and treatment outcomes. Murphy
+and colleagues’ (2022) analysis of the present data demonstrated an effect of therapeutic
+alliance on depressive response that was mediated by enhanced emotional breakthrough,
+providing some support for the possibility that alliance leads to greater capacity for cathartic resolution during acute experience. Furthermore, post-acute psychological insight was
+observed as a key mediator of long-term psychological outcomes in a large prospective
+
+
+Y Springer
+
+[PAGE 026]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 831
+
+
+observational study (Peill et al., 2022), pointing to the possible value of psychotherapeutic
+techniques for enhancing insight-related processes.
+Nevertheless, the causal influence of the psychotherapeutic elements of the present trial
+cannot be empirically adjudicated. The ACE model was devised and implemented midway through the trial, and still remains an unvalidated therapeutic framework. Variability
+in the implementation of any specific ACE element was not measured, nor was variability in patient response to particular ACE elements or therapist adherence. Furthermore, as
+a reminder, the conditions did not differ by psychotherapeutic approach. As a result, we
+unfortunately cannot comment on the specific causal effect of the ACE model or other psychotherapeutic elements on treatment outcomes.
+Nevertheless, we wish to recognize the importance of future research that addresses
+this important question. Understanding the precise contribution that psychological support and psychotherapy make to therapeutic outcomes within psychedelic therapy has
+been hotly debated in recent years (Goodwin et al., 2023; O’Donnell et al., 2024), in part
+because early scientists have been cautious toward removing psychosocial support within
+an experimental treatment. Today, there is a need for this debate to be informed by actual
+experimental inquiry, e.g., that manipulates the psychosocial interventional variable (e.g.,
+conditions: minimal psychological support, bona fide psychotherapy) to characterize its
+contribution (Bogenschutz, 2024). We note that psychological support does not need to be
+withdrawn in one of these conditions, but rather can be amplified to reveal a potential dosedependent effect.
+
+
+The Effect of ET on Environmental Sensitivity
+
+
+One notable observation from our study was that the correlations between music impact
+and other acute experiences (e.g., mystical experience, emotional breakthrough) tended
+to increase in the ET arm between DD1 and DD2 (e.8., rgpy x Music: 0-29 (DD
+1) > 0.74
+(DD2); Supplementary Tables S3 and S4). Because DD1 was conducted before ET
+patients began escitalopram, and DD2 was conducted following 3 weeks of use, it is
+conceivable that escitalopram (along with psychotherapeutic influence) contributed to
+greater emotional-cognitive response to music. Although this result would be consistent
+with theories of SSRI antidepressant action involving heightened sensitivity to environment (Branchi, 2011), it remains tentative in part because absolute acute experience
+scores did not significantly increase in the ET arm between DD1 and DD2 (Supplementary Table S11 for paired t-tests).
+
+
+Limitations
+
+
+A number of limitations to the present work should be noted. First, some scientists have
+raised the possibility that 5-HT,, receptor occupancy and signaling (Madsen et al.,
+2019) and subsequent neurobiological processes are sufficient for psilocybin’s antidepressant effects, while subjective psychological effects are ancillary or perhaps even
+unnecessary (Olson, 2020). As noted above, however, we are skeptical that valid empirical tests of this proposition are possible, i.e., that physiological and psychological processes can be sufficiently well experimentally dissociated. We furthermore encourage
+caution with respect to such unidirectional views of brain-mind causation, and rather
+
+
+Y Springer
+
+[PAGE 027]
+
+832 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+favor a dual-aspect view that respects circular causality and non-linear interactions
+between mind and brain.
+The present study attempted to test the specificity of acute experience factors to PT versus ET using parallel multiple mediation modeling wherein a focal acute experience variable, e.g., ego dissolution, is included in the model along with a competing acute experience
+variable, e.g., general intensity. Notwithstanding strong support for employing this technique (Hayes & Rockwood, 2017; Yaden & Griffiths, 2020), the technique's validity and
+interpretation do depend on certain conditions. Hayes and Rockwood (2017) state, “each
+indirect effect estimates the component of the indirect effect of X on Y through a specific
+mediator that is unique to that mediator (i.e., after controlling of the effect of the other
+mediators in the model on Y)” (p. 46). Although this is framed as a positive reason for
+employing parallel multiple mediation, partialling out variance from highly colinear secondary predictors may render the circumscribed variance incoherent and uninterpretable,
+as in multivariate regression modeling (Sleep, Lynam, Hyatt, & Miller, 2017). Collinearity
+between variables depends on the variables included in the model as well as the condition
+under study. In the present study, for example, PT and ET differed considerably in their
+correlations between acute experience variables (see Supplementary Tables S5 and S6),
+meaning that the nature of the unique component of the focal acute experience variable
+may have differed between conditions. These concerns are worth considering when interpreting the results, and may prompt some readers to be more comfortable with interpreting
+only the univariate mediation results. Lastly, we wish to emphasize our point of view that
+in instances of models containing two null indirect effects, e.g., emotional breakthrough
+and intensity, the appropriate interpretation should not be that both are merely epiphenomenal, but rather that their separate unique variance cannot mediate the effect of treatment
+on depressive response.
+As noted earlier, it is important to recognize that mediation analyses do not isolate a
+treatment’s absolute mechanisms but rather its relative mechanisms versus whatever the
+comparison condition is. This matter is even more important to grasp if, e.g., a generic
+covariate is included that explains much variance in the dependent variable. This was true
+in the present study as generic acute intensity scores were found to be the numerically
+strongest mediator of improved antidepressant response to PT vs ET of all the possible
+acute subjective experience mediators (Table 2).
+Moderation analyses can be used to infer on a treatment’s main causal actions, but these
+actions could also be shared across treatments, as is implied by the common factors model
+of psychotherapeutic action for example (Greenway et al., 2020). Moderation-based analyses are, however, vulnerable to validity threats related to correlational methods. For example, if patients were to report on their acute experiences following the experience, and then
+give a symptom severity estimate close in time, it is conceivable that greater immediate
+antidepressant response could bias overstatements of drug effect intensity, as in a hindsight
+bias. Certain ketamine-for-depression trials could be critiqued for this. Although this is
+possible in the present context, subjective ratings were given close to the acute experience
+itself whereas response assessments were completed weeks later.
+It is also possible that patients who are likely to respond to treatment are simply more
+likely to bear more intense experiences — and perhaps that both can be explained by individual differences in trait factors such as suggestibility (indeed see these data supporting
+this inference Szigeti et al., 2024). Another critique is that differences between conditions
+in psychological support and mid-therapy correct-guessing of treatment allocation (assuming correct guessing to have happened, though acknowledging we did not actually measure
+this) could have impacted results. As is true of the vast majority of DB-RCTs, treatment
+
+
+Y Springer
+
+[PAGE 028]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 833
+
+
+allocation guesses were not recorded in the present study. We have recently argued that
+this procedure should change and have suggested a novel approach to measuring condition
+guesses that should not confound results but instead strengthen inferences on them (Szigeti
+et al., 2022). Nevertheless, the absence of treatment allocation estimates can be seen as a
+limitation of the present work.
+In view of evidence that study participants possessed higher levels of expectancy for
+mental health benefits accruing from PT versus ET (Szigeti et al., 2024), and well-known
+problems with unblinding in psychedelic therapy trials (Aday et al., 2022; Mertens et al.,
+2022), it is conceivable that disappointment effects occurred for ET participants during
+their dosing sessions and altered their experiences (see here for a discussion Carhart-Harris,
+Blemings, & Nutt, 2021b). Such extra-pharmacological and -therapeutic effects on acute
+experience would pose a major validity threat to the present study as it would be possible
+that disappointment effects in the ET arm counteracted experiential elements during dosing
+day 2, e.g., producing more negatively valenced experience and moving participants further
+away from mystical experience. As there is no evidence to support or refute this possibility,
+in line with calls to better measure components of the blinding process (Szigeti et al., 2023),
+we encourage scientists to measure disappointment effects closely in future trials.
+Other validity threats to the present study include imperfect standardization of therapy
+and a lack of monitoring of ACE model adherence (associated with probable unsystematic
+variance in the data), as well as lack of measurement of the duration and nature of psychotherapy between groups (associated with possible systematic variance). For example, it is
+conceivable that psilocybin or escitalopram influenced the psychotherapy patients received,
+thus modulating it systematically between groups. In future work, standardization, adherence, and measurement are thus important for accurately assessing the treatment effect.
+We also wish to note that while the acute experience variables examined in the present study are numerous and diverse, they are not considered comprehensive. There is evidence of psychedelic experience containing cognitive therapeutic elements of cognitive
+reappraisal involving introspective awareness and restructuring of negative core beliefs
+and maladaptive perspectives (e.g., Agin-Liebes et al., 2022; Weiss et al., 2021a, 2021b).
+Measurement using the Ayahuasca Experience Inventory (Weiss, Miller, Carter, & Campbell, 2021), Psychological Insight Questionnaire (Davis et al., 2021a, 2021b), and nextgeneration measures with enhanced content validity are encouraged in future work.
+Finally, we are sympathetic to recent critiques (Dakwar, 2022) holding that reducing
+acute psychedelic mechanisms down to discrete phenomena contributes toward obscuring
+the complex and extended procession of introspective states of awareness and post-acute
+exchanges with the lived environment that may more completely account for transformation.
+
+
+Conclusion
+
+The present study provides evidence for the role of unique psychological mechanisms
+underlying the therapeutic action of PT versus ET. Mystical experience and ego dissolution, in particular, demonstrated uniqueness to PT (versus ET) and meaningful associations
+with depressive response, while emotional breakthrough, mystical experience, and music
+impact were meaningfully associated with better response. Trait absorption and suggestibility showed evidence of potentiating these mechanisms, and may offer higher positive
+outcome prediction within a precision medicine framework. In sum, these findings advance
+
+
+Y Springer
+
+[PAGE 029]
+
+834 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+our understanding of how psychedelic therapies may differ from conventional SSRI pharmacotherapy at the mechanistic level.
+These results also illustrate the value of psychological mechanisms in psychedelic therapy. Despite recent propositions about the potential sufficiency of physiological mechanisms, we remind the reader that the face valid model for psychedelic therapy involves
+a standard package of psychological preparation, dosing supervision with music listening
+and psychological integration. This is the model that has yielded the promising results
+that are now attracting major public and private interest in psychedelic medicine. The
+idea of giving a psychedelic but stripping away its psychedelic subjective effects (and perhaps stripping away psychological support also) while hoping to preserve the therapeutic
+response is an entirely untested model in humans.
+
+Supplementary Information The online version contains supplementary material available at https://doi.
+org/10.1007/s11469-024-01253-9.
+
+
+Acknowledgements We thank the following people for their invaluable contributions to the trial: Dr.
+Rosalind Watts, Michelle Baker-Jones, Ashleigh Murphy-Beiner, Dr. Roberta Murphy, Dr. Jonny Martell,
+Allan Blemings, Ms. Renee Harvey, Dr. Graham Campbell, Dr. Benjamin Waterhouse, Dr. Frederico Magalháes, Mr. James Close, Dr. Leor Roseman, Ms. Hilary Platt, Mr. Gregory Donaldson, Dr. Chris Timmermann, Dr. Meg Spriggs, Ms. Laura Kártner, Dr. Louise Paterson, Dr. Robin Tyacke, Ms. Ghazel Mukhtar,
+and Dr. Tim Read. We thank Ashleigh Murphy-Beiner for her invaluable contribution of knowledge about
+the nature of psychotherapy practiced on the trial.
+
+
+Author Contribution All authors contributed to the study conception and design. Material preparation and
+data collection were performed by B. G., D. N., R. L. C.-H., and D. E. Analysis was performed by B. W.
+The first draft of the manuscript was written by B. W. and all authors commented on previous versions of
+the manuscript. All authors read and approved the final manuscript.
+
+
+Funding This study was supported by a private donation from the Alexander Mosley Charitable Trust and
+by the founding partners of Imperial College London’s Centre for Psychedelic Research. The Imperial College Centre for Psychedelic Research has received financial support from Mydecine, Beckley Psytech, and
+Small Pharma, and compounds from Usona, Compass Pathways, and Filament.
+
+
+Data Availability Given the sensitivity of patient data in a small study, data is not directly accessible, but
+can be requested and made available for responsibly considered research projects. Analytic code for the
+present can be shared upon request.
+
+
+Declarations
+
+Ethics Approval The original clinical trial was approved by the Brent Research Ethics Committee, the U.K.
+Medicines and Healthcare Products Regulatory Agency, the Health Research Authority, the Imperial College
+London Joint Research Compliance and General Data Protection Regulation Offices, and the risk assessment
+and trial management review board at the trial site (the National Institute for Health Research Imperial Clinical Research Facility).
+
+
+Informed Consent All procedures followed were in accordance with the ethical standards of the responsible
+committee on human experimentation (institutional and national) and with the Helsinki Declaration of 1975,
+as revised in 2000 (5). Informed consent was obtained from all patients for being included in the study.
+
+
+Competing Interests L. R. and B. G. declare no competing interests.
+
+B. W. owns Axial Therapeutic Research, Inc., a company investigating the safety and effectiveness of alternative treatments for military veteran health.
+D. N. reports being Chief Research Officer at Awakn Life Sciences, and receives consulting fees from
+Psyched Wellness, Neural Therapeutics, and Alvarius.
+D. E. reports receiving consulting fees from Aya, Mindstate Design Lab, Clerkenwell Health.
+R. C.-H. reports receiving consulting fees from TRYP Therapeutics, Journey Collab, Osmind, Mindstate
+Design Lab, Entheos Labs, and Otsuka.
+
+
+A Springer
+
+[PAGE 030]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 835
+
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article
+are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly
+from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+
+References
+
+Abramowitz, J. S. (2013). The practice of exposure therapy: Relevance of cognitive-behavioral theory and
+extinction theory. Behavior Therapy, 44(4), 548-558.
+Abramowitz, J. S., Deacon, B. J., & Whiteside, S. P. (2019). Exposure therapy for anxiety: Principles and
+practice. Guilford Publications.
+Adamson, S., & Metzner, R. (1988). The nature of the MDMA experience and its role in healing, psycho-
+therapy and spiritual practice. ReVision, 10(4), 59-72.
+Aday, J. S., Davis, A. K., Mitzkovitz, C. M., Bloesch, E. K., & Davoli, C. C. (2021). Predicting reactions to
+psychedelic drugs: A systematic review of states and traits related to acute drug effects. ACS Pharma-
+cology & Translational Science, 4(2), 424-435.
+Aday, J. S., Heifets, B. D., Pratscher, S. D., Bradley, E., Rosen, R., & Woolley, J. D. (2022). Great expecta-
+tions: Recommendations for improving the methodological rigor of psychedelic clinical trials. Psy-
+chopharmacology (berl), 239(6), 1989-2010.
+Agin-Liebes, G., Zeifman, R., Luoma, J. B., Garland, E. L., Campbell, W. K., & Weiss, B. (2022). Prospec-
+tive examination of the therapeutic role of psychological flexibility and cognitive reappraisal in the
+ceremonial use of ayahuasca. Journal of Psychopharmacology, 36(3), 295-308.
+Arch, J. J. (2014). Cognitive behavioral therapy and pharmacotherapy for anxiety: Treatment preferences
+and credibility among pregnant and non-pregnant women. Behaviour Research and Therapy, 52,
+53-60.
+Barrett, F. S., Johnson, M. W., & Griffiths, R. R. (2015). Validation of the revised Mystical Experience
+Questionnaire in experimental sessions with psilocybin. Journal of Psychopharmacology, 2911),
+1182-1190.
+Barrett, F. S., Bradstreet, M. P., Leoutsakos, J.-M.S., Johnson, M. W., & Griffiths, R. R. (2016). The Chal-
+lenging Experience Questionnaire: Characterization of challenging experiences with psilocybin
+mushrooms. Journal of Psychopharmacology, 30(12), 1279-1295.
+Barrett, F. S., Doss, M. K., Sepeda, N. D., Pekar, J. J., & Griffiths, R. R. (2020). Emotions and brain func-
+tion are altered up to one month after a single high dose of psilocybin. Scientific Reports, 10(1), 2214.
+Beck, A. T., Steer, R. A., & Brown, G. K. (1996). Manual for the Beck Depression Inventory-II. San Anto-
+nio, TX: Psychological Corporation, 1(82), 10.1037.
+Belser, A. B., Agin-Liebes, G., Swift, T. C., Terrana, S., Devenot, N., Friedman, H. L., Guss, J., Bossis, A.,
+& Ross, S. (2017a). Patient experiences of psilocybin-assisted psychotherapy: An interpretative phe-
+nomenological analysis. Journal of Humanistic Psychology, 57(4), 354-388.
+Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: A practical and powerful
+approach to multiple testing. Journal of the Royal Statistical Society: Series B (methodological),
+57(1), 289-300.
+Bogenschutz, M. P. (2024). Pharmacological and nonpharmacological components of psychedelic treat-
+ments: The whole is not the sum of the parts. American Journal of Psychiatry, 181(1), 75.
+Bonny, H. L., & Pahnke, W. N. (1972). The use of music in psychedelic (LSD) psychotherapy. Journal of
+Music Therapy, 9(2), 64-87.
+Branchi, I. (2011). The double edged sword of neural plasticity: Increasing serotonin levels leads to both
+greater vulnerability to depression and improved capacity to recover. Psychoneuroendocrinology,
+36(3), 339-351.
+Cameron, L. P., Tombari, R. J., Lu, J., Pell, A. J., Hurley, Z. Q., Ehinger, Y., Vargas, M. V., McCarroll,
+M.N., Taylor, J. C., & Myers-Turnbull, D. (2021). A non-hallucinogenic psychedelic analogue with
+therapeutic potential. Nature, 589(7842), 474-479.
+Carbonaro, T. M., Bradstreet, M. P., Barrett, F. S., MacLean, K. A., Jesse, R., Johnson, M. W., & Grif-
+fiths, R. R. (2016). Survey study of challenging experiences after ingesting psilocybin mushrooms:
+
+
+Y Springer
+
+[PAGE 031]
+
+836 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+Acute and enduring positive and negative consequences. Journal of Psychopharmacology, 3012),
+1268-1278.
+Carhart-Harris, R. L. (2023). Translational challenges in psychedelic medicine. New England Journal of
+Medicine, 388(5), 476-477.
+Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of
+the brain action of psychedelics. Pharmacological Reviews, 71(3), 316-344.
+Carhart-Harris, R. L., & Goodwin, G. M. (2017). The therapeutic potential of psychedelic drugs: Past, pre-
+sent, and future. Neuropsychopharmacology, 42(11), 2105-2113.
+Carhart-Harris, R. L., Roseman, L., Haijen, E., Erritzoe, D., Watts, R., Branchi, I., & Kaelen, M. (2018).
+Psychedelics and the essential importance of context. Journal of Psychopharmacology, 32(7),
+725-731.
+Carhart-Harris, R., Giribaldi, B., Watts, R., Baker-Jones, M., Murphy-Beiner, A., Murphy, R., Martell, J.,
+Blemings, A., Erritzoe, D., & Nutt, D. J. (2021a). Trial of psilocybin versus escitalopram for depres-
+sion. New England Journal of Medicine, 384(15), 1402-1411.
+Carhart-Harris, R., Blemings, A., & Nutt, D. J. (2021b). Psilocybin for depression. Reply. The New England
+Journal of Medicine, 385(9), 863-864.
+Carhart-Harris, R. L., Muthukumaraswamy, S., Roseman, L., Kaelen, M., Droog, W., Murphy, K., ... &
+Nutt, D. J. (2016). Neural correlates of the LSD experience revealed by multimodal neuroimaging.
+Proceedings of the National Academy of Sciences, 113(17), 4853-4858.
+Carhart-Harris, R. L., Chandaria, S., Erritzoe, D. E., Gazzaley, A., Girn, M., Kettner, H., & Friston, K. J.
+(2022). Canalization and plasticity in psychopathology. Neuropharmacology, 226, 1-14.
+Close, J. B., Hajien, E. C., Watts, R., Roseman, L., & Carhart-Harris, R. L. (2020). Psychedelics and psy-
+chological flexibility—Results of a prospective web-survey using the Acceptance and Action Ques-
+tionnaire II. Journal of Contextual Behavioral Science, 16, 37-44.
+Cuijpers, P., Van Straten, A., & Warmerdam, L. (2007). Behavioral activation treatments of depression: A
+meta-analysis. Clinical Psychology Review, 27(3), 318-326.
+Dakwar, E. (2022, 12/1/2022). Lifting the veil of hope and hype. Horizons New York, New York, NY.
+Davis, A. K., Barrett, F. S., May, D. G., Cosimano, M. P., Sepeda, N. D., Johnson, M. W., Finan, P. H., &
+Griffiths, R. R. (2021a). Effects of psilocybin-assisted therapy on major depressive disorder: A rand-
+omized clinical trial. JAMA Psychiatry, 78(5), 481-489,
+Davis, A. K., Barrett, F. S., So, S., Gukasyan, N., Swift, T. C., & Griffiths, R. R. (2021b). Development of
+the Psychological Insight Questionnaire among a sample of people who have consumed psilocybin or
+LSD. Journal of Psychopharmacology, 35(4), 437-446.
+Daws, R. E., Timmermann, C., Giribaldi, B., Sexton, J. D., Wall, M. B., Erritzoe, D., ... & Carhart-Harris,
+R. (2022). Increased global integration in the brain after psilocybin therapy for depression. Nature
+Medicine, 28(4), 844-851.
+De Vos, C. M., Mason, N. L., & Kuypers, K. P. (2021). Psychedelics and neuroplasticity: A systematic
+review unraveling the biological underpinnings of psychedelics. Frontiers in Psychiatry, 12, 724606.
+Erikson, E. H. (1994). Identity and the life cycle. WW Norton & company.
+Fenichel, O. (2014). The psychoanalytic theory of neurosis. Routledge.
+Foa, E. B. (2011). Prolonged exposure therapy: Past, present, and future. Depression and anxiety.
+Garland, E. L., & Fredrickson, B. L. (2019). Positive psychological states in the arc from mindfulness to
+selftranscendence: extensions of the Mindfulness-to-Meaning Theory and applications to addiction
+and chronic pain treatment. Current Opinion in Psychology, 28, 184-191.
+Goodwin, G. M., Malievskaia, E., Fonzo, G. A., & Nemeroff, C. B. (2023). Must psilocybin always “assist
+psychotherapy”? American Journal of Psychiatry., 181(1), 20-25.
+Greenway, K. T., Garel, N., Jerome, L., & Feduccia, A. A. (2020). Integrating psychotherapy and psychop-
+harmacology: Psychedelic-assisted psychotherapy and other combined treatments. Expert Review of
+Clinical Pharmacology, 13(6), 655-670.
+Griffiths, R. R., Johnson, M. W., Carducci, M. A., Umbricht, A., Richards, W. A., Richards, B. D., Cosi-
+mano, M. P., & Klinedinst, M. A. (2016). Psilocybin produces substantial and sustained decreases
+in depression and anxiety in patients with life-threatening cancer: A randomized double-blind trial.
+Journal of Psychopharmacology, 30(12), 1181-1197.
+Hamilton, M. (1960). A rating scale for depression. Journal of Neurology, Neurosurgery, and Psychiatry,
+23(1), 56.
+Harmer, C. J., Duman, R. S., & Cowen, P. J. (2017). How do antidepressants work? New perspectives for
+refining future treatment approaches. The Lancet Psychiatry, 4(5), 409-418.
+Hartogsohn, I. (2016). Set and setting, psychedelics and the placebo response: An extra-pharmacological
+perspective on psychopharmacology. Journal of Psychopharmacology, 30(12),
+
+
+Y Springer
+
+[PAGE 032]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 837
+
+
+Hayes, A. F., & Rockwood, N. J. (2017). Regression-based statistical mediation and moderation analysis
+in clinical research: Observations, recommendations, and implementation. Behaviour Research and
+Therapy, 98, 39-57.
+Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). Acceptance and commitment
+therapy: Model, processes and outcomes. Behaviour Research and Therapy, 44(1), 1-25.
+Hayes, A. F., & Preacher, K. J. (2013). Conditional process modeling: Using structural equation modeling to
+examine contingent causal processes.
+Hayes, S. C., Strosahl, K., Wilson, K. G., Bissett, R. T., Pistorello, J., Toarmino, D., ... & McCurry, S. M.
+(2004). Measuring experiential avoidance: A preliminary test of a working model. The psychological
+record, 54, 553-578.
+Homberg, J. R., & Jagiellowicz, J. (2022). A neural model of vulnerability and resilience to stress-related
+disorders linked to differential susceptibility. Molecular Psychiatry, 27(1), 514-524.
+Hood, R. W. (2013). Theory and methods in the psychological study of mysticism. International Journal for
+the Psychology of Religion, 23(4), 294-306.
+Insel, T. R. (2014). The NIMH research domain criteria (RDoC) project: Precision medicine for psychiatry.
+American Journal of Psychiatry, 171(4), 395-397.
+Jamieson, G. A. (2005). The modified Tellegen absorption scale: A clearer window on the structure and
+meaning of absorption. Australian Journal of Clinical and Experimental Hypnosis, 33(2), 119.
+Johnson, M. W., Richards, W. A., & Griffiths, R. R. (2008). Human hallucinogen research: Guidelines for
+safety. Journal of Psychopharmacology, 22(6), 603-620.
+Johnson, M. W., Garcia-Romeu, A., Cosimano, M. P., & Griffiths, R. R. (2014). Pilot study of the 5-HT2AR
+agonist psilocybin in the treatment of tobacco addiction. Journal of Psychopharmacology, 28(11),
+983-992.
+Kaelen, M., Barrett, F. S., Roseman, L., Lorenz, R., Family, N., Bolstridge, M., Curran, H. V., Feilding, A.,
+Nutt, D. J., & Carhart-Harris, R. (2015). LSD enhances the emotional response to music. Psychop-
+harmacology (berl), 232(19), 3607-3614.
+Kaelen, M., Giribaldi, B., Raine, J., Evans, L., Timmerman, C., Rodriguez, N., Roseman, L., Feilding, A.,
+Nutt, D., & Carhart-Harris, R. (2018). The hidden therapist: Evidence for a central role of music in
+psychedelic therapy. Psychopharmacology (berl), 235(2), 505-519.
+Kangaslampi, S. (2023). Association between mystical-type experiences under psychedelics and improve-
+ments in well-being or mental health—A comprehensive review of the evidence. Journal of Psyche-
+delic Studies.
+Karst, M., Halpern, J. H., Bernateck, M., & Passie, T. (2010). The non-hallucinogen 2-bromo-lysergic acid
+diethylamide as preventative treatment for cluster headache: An open, non-randomized case series.
+Cephalalgia, 30(9), 1140-1144.
+Kazdin, A. E. (2007). Mediators and mechanisms of change in psychotherapy research. Annual Review of
+Clinical Psychology, 3, 1-27.
+Kettner, H., Rosas, F., Timmermann, C., Kärtner, L., Carhart-Harris, R. L., & Roseman, L. (2021). Psy-
+chedelic communitas: Intersubjective experience during psychedelic group sessions predicts enduring
+changes in psychological wellbeing and social connectedness. Frontiers in Pharmacology, 234, 1-20.
+Ko£ärovä, R., Horácek, J., & Carhart-Harris, R. (2021). Does psychedelic therapy have a transdiagnostic
+action and prophylactic potential? Frontiers in Psychiatry, 12, 1-18.
+Kotov, R., Bellman, S., & Watson, D. (2004). Multidimensional Iowa Suggestibility Scale (MISS). Stony
+Brook University (Retrieved 05/09/16, from) https://medicine.stonybrookmedicine.edu/system/files/
+MISSBriefManual.pdf
+Lebedev, A. V., Lövden, M., Rosenthal, G., Feilding, A., Nutt, D. J., & Carhart-Harris, R. L. (2015). Find-
+ing the self by losing the self: Neural correlates of ego-dissolution under psilocybin. Human Brain
+Mapping, 36(8), 3137-3153.
+Lii, T. R., Smith, A. E., Flohr, J. R., Okada, R. L., Nyongesa, C. A., Cianfichi, L. J., ... & Heifets, B. D.
+(2023). Trial of ketamine masked by surgical anesthesia in depressed patients. medRxiv.
+Lindegaard, T. (2023). Do Psychedelics Facilitate Emergence of Unconscious Psychological Processes?
+Psychodynamic Psychiatry, 51(3), 270-286.
+Linehan, M. M., Schmidt, H., Dimeff, L. A., Craft, J. C., Kanter, J., & Comtois, K. A. (1999). Dialectical
+behavior therapy for patients with borderline personality disorder and drug-dependence. American
+Journal on Addictions, 8(4), 279-292.
+Ly, C., Greb, A. C., Cameron, L. P., Wong, J. M., Barragan, E. V., Wilson, P. C., Burbach, K. F., Zarandi, S.
+S., Sood, A., & Paddy, M. R. (2018). Psychedelics promote structural and functional neural plasticity.
+Cell Reports, 23(11), 3170-3182.
+Lyon, T., Spriggs, M., Kerkela, L., Rosas, F. E., Roseman, L., Mediano, P. A. M., Timmermann, C.,
+Oestreich, L., Pagni, B., Zeifman, R., Douglas, H. M., Girn, M., Godfrey, K., Kettner, K., Sharif, F.,
+
+
+A Springer
+
+[PAGE 033]
+
+838 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+Espasiano, L., Wall, M. B., Erritzoe, D., Nutt, D. J., & Carhart-Harris, R. L. (in review). Enduring
+human brain changes after first time psilocybin use. Nature Neuroscience.
+MacLean, K. A., Leoutsakos, J. M. S., Johnson, M. W., & Griffiths, R. R. (2012). Factor analysis of the
+mystical experience questionnaire: A study of experiences occasioned by the hallucinogen psilocybin.
+Journal for the Scientific Study of Religion, 51(4), 721-737.
+Madigan, S. (2011). Narrative therapy. American Psychological Association.
+Madsen, M. K., Fisher, P. M., Burmester, D., Dyssegaard, A., Stenbek, D. S., Kristiansen, S., Johansen,
+S. S., Lehel, S., Linnet, K., & Svarer, C. (2019). Psychedelic effects of psilocybin correlate with
+serotonin 2A receptor occupancy and plasma psilocin levels. Neuropsychopharmacology, 44(7),
+1328-1334.
+Maree, J. G. (2022). The psychosocial development theory of Erik Erikson: Critical overview. The Influence
+of Theorists and Pioneers on Early Childhood Education, 191, 1007-1121.
+Mason, N., Kuypers, K., Müller, F., Reckweg, J., Tse, D., Toennes, S., Hutten, N., Jansen, J., Stiers, P., &
+Feilding, A. (2020). Me, myself, bye: Regional alterations in glutamate and the experience of ego dis-
+solution with psilocybin. Neuropsychopharmacology, 45(12), 2003-2011.
+Masters, R. A. (2010). Spiritual bypassing: When spirituality disconnects us from what really matters.
+North Atlantic Books.
+Mertens, L. J., Koslowski, M., Betzler, F., Evens, R., Gilles, M., Jungaberle, A., ... & Gründer, G. (2022).
+Methodological challenges in psychedelic drug trials: Efficacy and safety of psilocybin in treatment-
+resistant major depression (EPIsoDE)-rationale and study design. Neuroscience Applied, 1, 1-9.
+Montgomery, S. A., & Asberg, M. (1979). A new depression scale designed to be sensitive to change. The
+British Journal of Psychiatry, 134(4), 382-389.
+Murphy, R., Kettner, H., Zeifman, R., Giribaldi, B., Kartner, L., Martell, J., Read, T., Murphy-Beiner, A.,
+Baker-Jones, M., Nutt, D., Erritzoe, D., Watts, R., & Carhart-Harris, R. (2022). Therapeutic alliance
+and rapport modulate responses to psilocybin assisted therapy for depression. Frontiers in Pharma-
+cology, 12, 788155. https://doi.org/10.3389/fphar.2021.788155
+Nayak, S. M., Singh, M., Yaden, D. B., & Griffiths, R. R. (2023). Belief changes associated with psyche-
+delic use. Journal of Psychopharmacology, 37(1), 80-92.
+Noorani, T., Garcia-Romeu, A., Swift, T. C., Griffiths, R. R., & Johnson, M. W. (2018). Psychedelic therapy
+for smoking cessation: Qualitative analysis of participant accounts. Journal of Psychopharmacology,
+32(7), 756-769.
+Nour, M. M., Evans, L., Nutt, D., & Carhart-Harris, R. L. (2016). Ego-dissolution and psychedelics: Valida-
+tion of the ego-dissolution inventory (EDI). Frontiers in Human Neuroscience, 10, 1-13.
+Nutt, D., Spriggs, M., & Erritzoe, D. (2022). Psychedelics therapeutics: What we know, what we think, and
+what we need to research. Neuropharmacology, 223, 1-5.
+O’Callaghan, C., Hubik, D. J., Dwyer, J., Williams, M., & Ross, M. (2020). Experience of music used with
+psychedelic therapy: A rapid review and implications. Journal of Music Therapy, 57(3), 282-314.
+O’Donnell, K. C., Anderson, B. T., Barrett, F. S., Bogenschutz, M. P., Grob, C. S., Hendricks, P. S., ...
+& Gukasyan, N. (2024). Misinterpretations and omissions: A critical response to Goodwin and col-
+leagues’ commentary on psilocybin-assisted therapy. American Journal of Psychiatry, 181(1), 74-75.
+Olson, D. E. (2020). The subjective effects of psychedelics may not be necessary for their enduring thera-
+peutic effects. ACS Pharmacology & Translational Science, 4(2), 563-567.
+Ott, U., Reuter, M., Hennig, J., & Vaitl, D. (2005). Evidence for a common biological basis of the absorption
+trait, hallucinogen effects, and positive symptoms: Epistasis between 5-HT2a and COMT polymor-
+phisms. American Journal of Medical Genetics Part b: Neuropsychiatric Genetics, 137(1), 29-32.
+Pahnke, W. N. (1969). Psychedelic drugs and mystical experience. International Psychiatry Clinics, 5(4),
+149-162.
+Payne, J. E., Chambers, R., & Liknaitzky, P. (2021). Combining psychedelic and mindfulness interventions:
+Synergies to inform clinical practice. ACS Pharmacology & Translational Science, 4(2), 416-423.
+Peill, J. M., Trinci, K. E., Kettner, H., Mertens, L. J., Roseman, L., Timmermann, C., Rosas, F. E., Lyons,
+T., & Carhart-Harris, R. L. (2022). Validation of the Psychological Insight Scale: A new scale to
+assess psychological insight following a psychedelic experience. Journal of Psychopharmacology,
+36(1), 31-45.
+Resick, P. A., Monson, C. M., & Chard, K. M. (2016). Cognitive processing therapy for PTSD: A compre-
+hensive manual. Guilford Publications. https://books.google.com/books?id=8Z5jDAAAQBAJ
+Richards, W. A. (2017). Psychedelic psychotherapy: Insights from 25 years of research. Journal of Human-
+istic Psychology, 57(4), 323-337.
+Richards, W. A. (1975). Counseling, peak experiences and the human encounter with death: An empirical
+study of the efficacy of DPT-assisted counseling in enhancing the quality of life of persons with termi-
+nal cancer and their closest family members. The Catholic University of America.
+
+
+Y Springer
+
+[PAGE 034]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 839
+
+
+Roseman, L., Nutt, D. J., & Carhart-Harris, R. L. (2018a). Quality of acute psychedelic experience predicts
+therapeutic efficacy of psilocybin for treatment-resistant depression. Frontiers in Pharmacology, 8,
+974.
+Roseman, L., Demetriou, L., Wall, M. B., Nutt, D. J., & Carhart-Harris, R. L. (2018b). Increased amygdala
+responses to emotional faces after psilocybin for treatment-resistant depression. Neuropharmacology,
+142, 263-269.
+Roseman, L., Haijen, E., Idialu-Ikato, K., Kaelen, M., Watts, R., & Carhart-Harris, R. (2019). Emotional
+breakthrough and psychedelics: Validation of the Emotional Breakthrough Inventory. Journal of Psy-
+chopharmacology, 33(9), 1076-1087.
+Ross, S., Bossis, A., Guss, J., Agin-Liebes, G., Malone, T., Cohen, B., Mennenga, S. E., Belser, A., Kal-
+liontzi, K., & Babb, J. (2016). Rapid and sustained symptom reduction following psilocybin treatment
+for anxiety and depression in patients with life-threatening cancer: A randomized controlled trial.
+Journal of Psychopharmacology, 30(12), 1165-1180.
+Rush, A. J., Trivedi, M. H., Ibrahim, H. M., Carmody, T. J., Arnow, B., Klein, D. N., Markowitz, J. C.,
+Ninan, P. T., Kornstein, S., & Manber, R. (2003a). The 16-Item Quick Inventory of Depressive Symp-
+tomatology (QIDS), clinician rating (QIDS-C), and self-report (QIDS-SR): A psychometric evalua-
+tion in patients with chronic major depression. Biological Psychiatry, 54(5), 573-583.
+Rush, A. J., Trivedi, M. H., Ibrahim, H. M., et al. (2003b). The 16-Item Quick Inventory of Depressive
+Symptomatology (QIDS), clinician rating (QIDS-C), and self-report (QIDS-SR): A psychometric
+evaluation in patients with chronic major depression. Biological Psychiatry, 54(5), 373-583.
+Ryan, R. M., & Deci, E. L. (2001). On happiness and human potentials: A review of research on hedonic
+and eudaimonic well-being. Annual Review of Psychology, 52(1), 141-166.
+Schartner, M. M., Carhart-Harris, R. L., Barrett, A. B., Seth, A. K., & Muthukumaraswamy, S. D. (2017).
+Increased spontaneous MEG signal diversity for psychoactive doses of ketamine. LSD and Psilocy-
+bin. Scientific Reports, 7(1), 46421.
+Shaw, L., Rea, K., Lachowsky, N. J., & Roth, E. A. (2023). Magic mushroom use: A qualitative interview
+study of post-trip impacts and strategies for optimizing experiences. Journal of Psychoactive Drugs,
+55(2), 151-158.
+Shukuroglou, M., Roseman, L., Wall, M., Nutt, D., Kaelen, M., & Carhart-Harris, R. (2023). Changes in
+music-evoked emotion and ventral striatal functional connectivity after psilocybin therapy for depres-
+sion. Journal of Psychopharmacology, 37(1), 70-79.
+Simonsson, O., Hendricks, P. S., Chambers, R., Osika, W., & Goldberg, S. B. (2023). Prevalence and associ-
+ations of challenging, difficult or distressing experiences using classic psychedelics. Journal of Affec-
+tive Disorders, 326, 105-110.
+Sleep, C. E., Lynam, D. R., Hyatt, C. S., & Miller, J. D. (2017). Perils of partialing redux: The case of the
+Dark Triad. Journal of Abnormal Psychology, 126(7), 939.
+Stace, W. T. (1961). Mysticism and Philosophy. London: Macmillan.
+Stephan, V. (2010). Singing to the plants: A guide to mestizo shamanism in the upper Amazon. UNM Press.
+Stoliker, D., Novelli, L., Vollenweider, F. X., Egan, G. F., Preller, K. H., & Razi, A. (2023). Effective con-
+nectivity of functionally anticorrelated networks under lysergic acid diethylamide. Biological Psy-
+chiatry, 93(3), 224-232.
+Studerus, E., Gamma, A., & Vollenweider, F. X. (2010). Psychometric evaluation of the altered states of
+consciousness rating scale (OAV). PLoS ONE, 5(8), e12412.
+Studerus, E., Gamma, A., Kometer, M., & Vollenweider, F. X. (2012). Prediction of psilocybin response in
+healthy volunteers. PLoS ONE, 7(2), e30800.
+Szigeti, B., Nutt, D., Carhart-Harris, R., & Erritzoe, D. (2023). The difference between ‘placebo group’ and
+‘placebo control’: A case study in psychedelic microdosing. Scientific Reports, 13(1), 12107.
+Szigeti, B., Weiss, B., Rosas, F. E., Erritzoe, D., Nutt, D., & Carhart-Harris, R. (2024). Assessing expec-
+tancy and suggestibility in a trial of escitalopram vs. psilocybin for depression treatment. Psychologi-
+cal Medicine, 1-8.
+Szigeti, B., Nutt, D., Carhart-Harris, R., & Erritzoe, D. (2022). On the fallibility of placebo control and how
+to address it: a case study in psychedelic microdosing.
+Tagliazucchi, E., Roseman, L., Kaelen, M., Orban, C., Muthukumaraswamy, S. D., Murphy, K., Laufs, H.,
+Leech, R., McGonigle, J., & Crossley, N. (2016). Increased global functional connectivity correlates
+with LSD-induced ego dissolution. Current Biology, 26(8), 1043-1050.
+Tardito, D., Perez, J., Tiraboschi, E., Musazzi, L., Racagni, G., & Popoli, M. (2006). Signaling pathways
+regulating gene expression, neuroplasticity, and neurotrophic mechanisms in the action of antidepres-
+sants: A critical overview. Pharmacological Reviews, 58(1), 115-134.
+Taves, A. (2020). Mystical and other alterations in sense of self: An expanded framework for studying non-
+ordinary experiences. Perspectives on Psychological Science, 15(3), 669-690.
+
+
+Y Springer
+
+[PAGE 035]
+
+840 International Journal of Mental Health and Addiction (2024) 22:806-841
+
+
+Timmermann, C., Kettner, H., Letheby, C., Roseman, L., Rosas, F. E., & Carhart-Harris, R. L. (2021).
+Psychedelics Alter Metaphysical Beliefs. Scientific Reports, 11(1), 1-13.
+Timmermann, C., Roseman, L., Haridas, S., Rosas, F. E., Luan, L., Kettner, H., ... & Carhart-Harris, R. L.
+(2023). Human brain effects of DMT assessed via EEG-fMRI. Proceedings of the National Academy
+of Sciences, 120(13), e2218949120.
+Vargas, M. V., Dunlap, L. E., Dong, C., Carter, S. J., Tombari, R. J., Jami, S. A., Cameron, L. P., Patel, S.
+D., Hennessey, J. J., & Saeger, H. N. (2023). Psychedelics promote neuroplasticity through the activa-
+tion of intracellular 5-HT2A receptors. Science, 379(6633), 700-706.
+Vincent, N., & Walsh, K. (2013). Hyperarousal, sleep scheduling, and time awake in bed as mediators of
+outcome in computerized cognitive-behavioral therapy (CCBT) for insomnia. Behaviour Research
+and Therapy, 51(3), 161-166.
+Vollenweider, F. X., Vollenweider-Scherpenhuyzen, M. F., Bábler, A., Vogel, H., & Hell, D. (1998). Psilo-
+cybin induces schizophrenia-like psychosis in humans via a serotonin-2 agonist action. NeuroReport,
+9(17), 3897-3902.
+Vollenweider, F. X., Vontobel, P., Hell, D., & Leenders, K. L. (1999). 5-HT modulation of dopamine release
+in basal ganglia in psilocybin-induced psychosis in man—A PET study with [!'C] raclopride. Neu-
+ropsychopharmacology, 20(5), 424-433.
+Watts, R., & Luoma, J. B. (2020). The use of the psychological flexibility model to support psychedelic
+assisted therapy. Journal of Contextual Behavioral Science, 15, 92-102.
+Watts, R., Day, C., Krzanowski, J., Nutt, D., & Carhart-Harris, R. (2017). Patients’ accounts of increased
+“connectedness” and “acceptance” after psilocybin for treatment-resistant depression. Journal of
+Humanistic Psychology, 57(5), 520-564.
+Watts, R. (2021). Psilocybin for depression: The ACE model manual. Psyarxiv PREPRINT. https://doi.org/
+10.31234/osf.10/5x2bu
+Weiss, B., Miller, J. D., Carter, N. T., & Keith Campbell, W. (2021a). Examining changes in personality fol-
+lowing shamanic ceremonial use of ayahuasca. Scientific Reports, 11(1), 1-15.
+Weiss, B., Miller, J., Carter, N., & Campbell, W. (2021b). Development of the Ayahuasca Experience Inven-
+tory (AED. Open Science Foundation (OSF).
+Weiss, B., Erritzoe, D., Giribaldi, B., Nutt, D. J., & Carhart-Harris, R. L. (2023). A critical evaluation of
+QIDS-SR-16 using data from a trial of psilocybin therapy versus escitalopram treatment for depres-
+sion. Journal of Psychopharmacology, 27(7), 717-732.
+Wild, T. C., Kuiken, D., & Schopflocher, D. (1995). The role of absorption in experiential involvement.
+Journal of Personality and Social Psychology, 69(3), 569.
+Wolff, M., Evens, R., Mertens, L. J., Koslowski, M., Betzler, F., Gründer, G., & Jungaberle, H. (2020).
+Learning to let go: A cognitive-behavioral model of how psychedelic therapy promotes acceptance.
+Frontiers in Psychiatry, 11(5), 1-13.
+Wolff, M., Mertens, L. J., Walter, M., Enge, S., & Evens, R. (2022). The Acceptance/Avoidance-Promoting
+Experiences Questionnaire (APEO): A theory-based approach to psychedelic drugs’ effects on psy-
+chological flexibility. Journal of Psychopharmacology, 36(3), 387—408.
+Yaden, D. B., & Griffiths, R. R. (2020). The subjective effects of psychedelics are necessary for their endur-
+ing therapeutic effects. ACS Pharmacology & Translational Science, 4(2), 568-572.
+Yaden, D. B., Berghella, A. P., Regier, P. S., Garcia-Romeu, A., Johnson, M. W., & Hendricks, P. S. (2021).
+Classic psychedelics in the treatment of substance use disorder: Potential synergies with twelve-step
+programs. International Journal of Drug Policy, 98, 103380.
+Yaden, D. B., Earp, B. D., & Griffiths, R. R. (2022). Ethical issues regarding nonsubjective psychedelics as
+standard of care. Cambridge Quarterly of Healthcare Ethics, 31(4), 464-471.
+Zeifman, R. J., Wagner, A. C., Watts, R., Kettner, H., Mertens, L. J., & Carhart-Harris, R. L. (2020). Post-
+psychedelic reductions in experiential avoidance are associated with decreases in depression severity
+and suicidal ideation. Frontiers in Psychiatry, 11, 1-13.
+Zentner, M., Grandjean, D., & Scherer, K. R. (2008). Emotions evoked by the sound of music: Characteriza-
+tion, classification, and measurement. Emotion, 8(4), 494.
+
+
+Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+
+
+a Springer
+
+[PAGE 036]
+
+International Journal of Mental Health and Addiction (2024) 22:806-841 841
+
+
+Authors and Affiliations
+
+Brandon Weiss'’’2® . Leor Roseman2? - Bruna Giribaldi? - David J. Nutt? -
+Robin L. Carhart-Harris?*- David Erritzoe?
+
+>] Brandon Weiss
+brandon @jhmi.edu
+
+Leor Roseman
+l.roseman @exeter.ac.uk
+
+Bruna Giribaldi
+brunagcunha@ gmail.com
+
+David J. Nutt
+d.nutt @imperial.ac.uk
+
+Robin L. Carhart-Harris
+robin.carhart-harris @ ucsf.edu
+
+David Erritzoe
+d.erritzoe @imperial.ac.uk
+
+
+Center for Psychedelic and Consciousness Research, Department of Psychiatry and Behavioral
+Sciences, Johns Hopkins School of Medicine, 5510 Nathan Shock Dr, Baltimore, MD 21224, USA
+
+Centre for Psychedelic Research, Division of Academic Psychiatry, Imperial College London,
+London, UK
+
+Department of Psychology, University of Exeter, Exeter, UK
+
+Psychedelics Division, Neuroscape, Department of Neurology, University of California,
+San Francisco, CA, USA
+
+
+Y Springer

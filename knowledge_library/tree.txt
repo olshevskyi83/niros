@@ -1,0 +1,159 @@
+.
+├── .DS_Store
+├── .gitkeep
+├── music_session
+│   ├── .gitkeep
+│   ├── imperial
+│   │   └── .gitkeep
+│   ├── johns_hopkins
+│   │   └── .gitkeep
+│   ├── maps
+│   │   └── .gitkeep
+│   ├── mendel_kaelen
+│   │   └── .gitkeep
+│   ├── music_psychology
+│   │   └── .gitkeep
+│   ├── psychoacoustics
+│   │   └── .gitkeep
+│   ├── rhythm
+│   │   └── .gitkeep
+│   └── vocal_research
+│       └── .gitkeep
+├── physiology
+│   ├── .gitkeep
+│   ├── eeg
+│   │   └── .gitkeep
+│   ├── gsr
+│   │   └── .gitkeep
+│   ├── hrv
+│   │   └── .gitkeep
+│   └── respiration
+│       └── .gitkeep
+├── psychedelic_research
+│   ├── .DS_Store
+│   ├── fibromyalgia_an_open_label_pilot_clinical_trial 22.16.20.txt
+│   ├── imperial
+│   ├── Integrating the Mystical_Experience_Questionnaire.txt
+│   ├── johns_hopkins
+│   │   ├── .DS_Store
+│   │   ├── addiction
+│   │   ├── chronic_pain
+│   │   ├── depression
+│   │   ├── fibromyalgia
+│   │   ├── music
+│   │   ├── personality
+│   │   ├── protocols
+│   │   ├── safety
+│   │   └── subjective_experience
+│   ├── maps
+│   ├── other
+│   ├── potential_analgesic_effects_of_psychedelics_on_select_chronic_pain_conditions 22.16.20.txt
+│   ├── Psilocybin therapy.txt
+│   ├── Psychedelic’ as Mind_Revealing_Psychological_Processes.txt
+│   ├── Psychedelics_and_chronic_pain.txt
+│   ├── Psychological_Mechanisms_Underlying_Psilocybin_Therapy.txt
+│   ├── Shame_Guilt_and_Psychedelic_Experience.txt
+│   ├── single-dose_psilocybin_treatment_for_major_depressive_disorders.txt
+│   ├── subjective_effects_of_psychedelics_beyond_mystical_experience.txt
+│   ├── the_therapeutic_alliance_between_study_participant.txt
+│   ├── the_therapeutic_alliance_between_study_participants_and_intervention_facilitators_is_associated_with_acute_effects_and_clinical_outcomes_in_a_psilocybin-assisted_therapy.txt
+│   ├── therapy_for_Major_Depressive_Disorder 22.16.20.txt
+│   └── use_of_psilocybin_and_other_classic_psychedelics_in_fibromyalgia.txt
+├── psychotherapy
+│   ├── .DS_Store
+│   ├── .gitkeep
+│   ├── act
+│   │   ├── .DS_Store
+│   │   ├── .gitkeep
+│   │   ├── act_for_ptsd_therapist_manual.txt
+│   │   ├── get_out_of_your_mind__into_your_life.txt
+│   │   ├── hayes_learning_act_an_acceptance.txt
+│   │   └── the_happiness_trap_harris.txt
+│   ├── cbt
+│   │   └── .gitkeep
+│   ├── cft
+│   │   ├── .DS_Store
+│   │   ├── .gitkeep
+│   │   ├── kolts_rassel_l_bell_tobin_bennettlevi_dzheims_airons_kris_pr.txt
+│   │   └── kolts_rl_cft_made_simple_a_clinicians_guide_to_practicing_co.txt
+│   ├── dbt
+│   │   └── .gitkeep
+│   ├── erickson
+│   │   ├── .DS_Store
+│   │   ├── .gitkeep
+│   │   ├── conversations_with_milton_erickson_I.txt
+│   │   ├── conversations_with_milton_erickson_II.txt
+│   │   ├── conversations_with_milton_erickson_III.txt
+│   │   ├── Hypnotic_Realities.txt
+│   │   ├── my_voice_will_go_with_you.txt
+│   │   ├── Patterns_of_the_Hypnotic_Techniques_I.txt
+│   │   └── Patterns_of_the_Hypnotic_Techniques_II.txt
+│   ├── ifs
+│   │   ├── .DS_Store
+│   │   └── .gitkeep
+│   ├── motivational_interviewing
+│   │   ├── .gitkeep
+│   │   └── douaihy_a_kelly_thm_gold_ma_eds_motivational_interviewing_a.txt
+│   ├── narrative
+│   │   ├── .DS_Store
+│   │   ├── .gitkeep
+│   │   ├── cloitre_m_cohen_lr_et_al_eds_treating_survivors_of_childhood.txt
+│   │   ├── gallhutto17reauthoring.txt
+│   │   ├── learning_how_to_counter_story_withwilbur.txt
+│   │   ├── maps-of-narrative-practice-norton.txt
+│   │   ├── michael_white_david_epston_narrative_means.txt
+│   │   ├── re-authoring-conversations_michael-white.txt
+│   │   └── you_are_th_eone_ch_1_book.txt
+│   └── schema
+│       └── .gitkeep
+├── README.md
+├── registry
+│   ├── .gitkeep
+│   └── source_registry.json
+├── tree.txt
+└── vocal_icaro
+    ├── .DS_Store
+    ├── .gitkeep
+    ├── maria_sabina
+    │   ├── .DS_Store
+    │   ├── .gitkeep
+    │   ├── audio_extracts
+    │   │   ├── .DS_Store
+    │   │   ├── 01_maria_sabina__chjon_nka.audio_extract.json
+    │   │   ├── 02_-_maria_sabina_-_chjon_nca_catain.audio_extract.json
+    │   │   ├── 03_-_maria_sabina_-_santo..._nana.audio_extract.json
+    │   │   ├── 04_-_maria_sabina_-_papa_papai.audio_extract.json
+    │   │   ├── 05_-_maria_sabina_-_na-_al-ni_tso.audio_extract.json
+    │   │   ├── 06_-_maria_sabina_-_ji_nai_na.audio_extract.json
+    │   │   ├── 07_-_maria_sabina_-_jan_jesu_cri.audio_extract.json
+    │   │   ├── 08_-_maria_sabina_-_ji_nai.audio_extract.json
+    │   │   ├── 09_-_maria_sabina_-_san_pedro.audio_extract.json
+    │   │   ├── 10_-_maria_sabina_-_soso..._na_na.audio_extract.json
+    │   │   ├── 12_-_maria_sabina_-_pedro_martinez.audio_extract.json
+    │   │   ├── 13_-_maria_sabina_-_dont_be_concerned_old_one.audio_extract.json
+    │   │   ├── 14_-_maria_sabina_-_birds_plants.audio_extract.json
+    │   │   ├── 16_-_maria_sabina_-_soft_singing_sad_and_tired.audio_extract.json
+    │   │   └── 17_-_maria_sabina_-_chjon_gustalinia.audio_extract.json
+    │   ├── metadata
+    │   └── text
+    │       ├── .DS_Store
+    │       ├── conversaciones_con_maria_sabina_y_ocuranderos.txt
+    │       ├── maria_sabina_her_ife_and_chants.txt
+    │       ├── maria_sabina_la_sabia_de_los_hongos.txt
+    │       └── selections_mariasabina.txt
+    ├── other
+    │   ├── .DS_Store
+    │   ├── .gitkeep
+    │   └── text
+    │       ├── .DS_Store
+    │       ├── analysing_icaros_the_musicology_of_ayahu.txt
+    │       └── sound-trance-healingshipiboinmthtoday_sabinerittner_2007.txt
+    ├── quechua
+    │   └── .gitkeep
+    └── shipibo
+        ├── .DS_Store
+        ├── .gitkeep
+        ├── handout_shipibo_healing_songs.txt
+        └── song_patterns_and_sung_designs_the_inven.txt
+
+49 directories, 108 files

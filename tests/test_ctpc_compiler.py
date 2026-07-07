@@ -7,10 +7,16 @@ from pathlib import Path
 
 import pytest
 
+from niros.knowledge_domain import (
+    KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
+    KNOWLEDGE_DOMAIN_UNKNOWN,
+    KNOWLEDGE_DOMAIN_VOCAL_ICARO,
+)
 from niros.ctpc import CanonicalTherapeuticPattern
 from niros.ctpc_compiler import (
     COMPILED_CTPC_REVIEW_STATUS,
     CTPCCompilationStateError,
+    CTPCCompilationValidationError,
     CTPCCompiler,
     compile_pattern_from_approved_review,
 )
@@ -56,6 +62,7 @@ def _extraction(**overrides) -> TherapeuticFunctionExtraction:
 def _approved_review(
     *,
     edited_extraction: TherapeuticFunctionExtraction | None = None,
+    knowledge_domain: str = KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
 ) -> HumanReviewRecord:
     return HumanReviewRecord(
         review_id=build_review_id(_extraction().extraction_id),
@@ -66,6 +73,7 @@ def _approved_review(
         original_extraction=_extraction(),
         edited_extraction=edited_extraction,
         reviewer_id="reviewer_001",
+        knowledge_domain=knowledge_domain,
     )
 
 
@@ -94,7 +102,13 @@ def test_approved_review_compiles_successfully(tmp_path: Path) -> None:
     assert pattern.pattern_id == f"ctp_from_{_extraction().extraction_id}"
     assert pattern.therapeutic_function == "self_compassion"
     assert pattern.review_status == COMPILED_CTPC_REVIEW_STATUS
-    assert compiler._pattern_path(pattern.pattern_id).exists()
+    assert pattern.knowledge_domain == KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE
+    output_path = compiler._pattern_path(
+        pattern.pattern_id,
+        KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
+    )
+    assert output_path.exists()
+    assert "psychotherapy_tle" in str(output_path)
 
 
 @pytest.mark.parametrize(
@@ -153,3 +167,25 @@ def test_compile_pattern_from_approved_review_is_deterministic() -> None:
     first = compile_pattern_from_approved_review(record)
     second = compile_pattern_from_approved_review(record)
     assert first == second
+
+
+def test_compiler_writes_vocal_icaro_domain_subfolder(tmp_path: Path) -> None:
+    compiler = _compiler(tmp_path)
+    pattern = compiler.compile_review(
+        _approved_review(knowledge_domain=KNOWLEDGE_DOMAIN_VOCAL_ICARO)
+    )
+
+    output_path = compiler._pattern_path(
+        pattern.pattern_id,
+        KNOWLEDGE_DOMAIN_VOCAL_ICARO,
+    )
+    assert output_path.exists()
+    assert pattern.knowledge_domain == KNOWLEDGE_DOMAIN_VOCAL_ICARO
+    assert "vocal_icaro" in str(output_path)
+
+
+def test_unknown_domain_review_cannot_compile(tmp_path: Path) -> None:
+    compiler = _compiler(tmp_path)
+
+    with pytest.raises(CTPCCompilationValidationError, match="knowledge_domain"):
+        compiler.compile_review(_approved_review(knowledge_domain=KNOWLEDGE_DOMAIN_UNKNOWN))

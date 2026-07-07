@@ -13,6 +13,11 @@ from niros.human_review_workflow import (
     HumanReviewRecord,
     effective_extraction,
 )
+from niros.knowledge_domain import (
+    is_compilable_knowledge_domain,
+    normalize_review_knowledge_domain,
+    ctpc_pattern_relative_path,
+)
 from niros.knowledge_workspace import (
     DEFAULT_KNOWLEDGE_ROOT,
     KnowledgeWorkspacePaths,
@@ -64,6 +69,12 @@ def compile_pattern_from_approved_review(
             "only approved reviews may compile."
         )
 
+    if not is_compilable_knowledge_domain(record.knowledge_domain):
+        raise CTPCCompilationValidationError(
+            f"Review {record.review_id} has knowledge_domain {record.knowledge_domain!r}; "
+            "assign psychotherapy_tle or vocal_icaro before compilation."
+        )
+
     extraction = effective_extraction(record)
     if extraction is None:
         raise CTPCCompilationValidationError(
@@ -82,6 +93,7 @@ def compile_pattern_from_approved_review(
         pattern,
         review_status=COMPILED_CTPC_REVIEW_STATUS,
         evidence_level=SOURCE_SEGMENT_EVIDENCE_LEVEL,
+        knowledge_domain=normalize_review_knowledge_domain(record.knowledge_domain),
     )
 
     pattern_issues = validate_ctpc_pattern(compiled)
@@ -113,6 +125,7 @@ def serialize_ctpc_pattern(pattern: CanonicalTherapeuticPattern) -> dict[str, An
         "evidence_level": pattern.evidence_level,
         "confidence": pattern.confidence,
         "review_status": pattern.review_status,
+        "knowledge_domain": pattern.knowledge_domain,
     }
 
 
@@ -122,6 +135,9 @@ def deserialize_ctpc_pattern(data: dict[str, Any]) -> CanonicalTherapeuticPatter
     for field_name in _CTPC_TUPLE_FIELDS:
         if field_name in kwargs and kwargs[field_name] is not None:
             kwargs[field_name] = tuple(kwargs[field_name])
+    kwargs["knowledge_domain"] = normalize_review_knowledge_domain(
+        kwargs.get("knowledge_domain")
+    )
     return CanonicalTherapeuticPattern(**kwargs)
 
 
@@ -136,9 +152,20 @@ class CTPCCompiler:
         """Build a compiler bound to one knowledge workspace root."""
         return cls(paths=build_knowledge_workspace_paths(workspace_root))
 
-    def _pattern_path(self, pattern_id: str) -> Path:
+    def _pattern_path(self, pattern_id: str, knowledge_domain: str) -> Path:
+        relative = ctpc_pattern_relative_path(knowledge_domain, pattern_id)
+        return Path(knowledge_artifact_path(self.paths, "ctpc", relative))
+
+    def _find_pattern_path(self, pattern_id: str) -> Path | None:
         filename = f"{pattern_id}.json"
-        return Path(knowledge_artifact_path(self.paths, "ctpc", filename))
+        ctpc_root = Path(self.paths.ctpc_dir)
+        if not ctpc_root.exists():
+            return None
+        legacy = ctpc_root / filename
+        if legacy.is_file():
+            return legacy
+        matches = sorted(ctpc_root.glob(f"**/{filename}"))
+        return matches[0] if matches else None
 
     def compile_review(self, record: HumanReviewRecord) -> CanonicalTherapeuticPattern:
         """Compile one approved review and persist the resulting CTPC pattern."""
@@ -154,8 +181,12 @@ class CTPCCompiler:
             raise CTPCCompilationValidationError(
                 f"CTPC pattern failed validation: {joined}"
             )
+        if not pattern.knowledge_domain.strip():
+            raise CTPCCompilationValidationError(
+                "CTPC pattern knowledge_domain must not be empty"
+            )
 
-        output_path = self._pattern_path(pattern.pattern_id)
+        output_path = self._pattern_path(pattern.pattern_id, pattern.knowledge_domain)
         output_path.parent.mkdir(parents=True, exist_ok=True)
         payload = json.dumps(
             serialize_ctpc_pattern(pattern),
@@ -168,8 +199,8 @@ class CTPCCompiler:
 
     def load_pattern(self, pattern_id: str) -> CanonicalTherapeuticPattern:
         """Load one compiled CTPC pattern from the CTPC workspace."""
-        input_path = self._pattern_path(pattern_id)
-        if not input_path.exists():
+        input_path = self._find_pattern_path(pattern_id)
+        if input_path is None:
             raise CTPCPatternNotFoundError(f"CTPC pattern not found: {pattern_id}")
         data = json.loads(input_path.read_text(encoding="utf-8"))
         return deserialize_ctpc_pattern(data)

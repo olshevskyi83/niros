@@ -1,0 +1,1054 @@
+[PAGE 001]
+
+Translational Psychiatry www.nature.com/tp
+
+
+BO Check for updates
+ARTICLE OPEN
+
+Psilocybin therapy increases cognitive and neural flexibility in
+patients with major depressive disorder
+Manoj K. Doss(3)'?” , Michal Povazan?, Monica D. Rosenberg @®*, Nathan D. Sepeda!”, Alan K. Davis””, Patrick H. Finan’,
+Gwenn S. Smith (3)'*, James J. Pekar”°, Peter B. Barker(®°, Roland R. Griffiths@'”” and Frederick S. Barrett!”
+
+O The Author(s) 2021
+
+
+Psilocybin has shown promise for the treatment of mood disorders, which are often accompanied by cognitive dysfunction
+including cognitive rigidity. Recent studies have proposed neuropsychoplastogenic effects as mechanisms underlying the enduring
+therapeutic effects of psilocybin. In an open-label study of 24 patients with major depressive disorder, we tested the enduring
+effects of psilocybin therapy on cognitive flexibility (perseverative errors on a set-shifting task), neural flexibility (dynamics of
+functional connectivity or dFC via functional magnetic resonance imaging), and neurometabolite concentrations (via magnetic
+resonance spectroscopy) in brain regions supporting cognitive flexibility and implicated in acute psilocybin effects (e.g., the anterior
+cingulate cortex, or ACC). Psilocybin therapy increased cognitive flexibility for at least 4 weeks post-treatment, though these
+improvements were not correlated with the previously reported antidepressant effects. One week after psilocybin therapy,
+glutamate and N-acetylaspartate concentrations were decreased in the ACC, and dFC was increased between the ACC and the
+posterior cingulate cortex (PCC). Surprisingly, greater increases in dFC between the ACC and PCC were associated with less
+improvement in cognitive flexibility after psilocybin therapy. Connectome-based predictive modeling demonstrated that baseline
+dFC emanating from the ACC predicted improvements in cognitive flexibility. In these models, greater baseline dFC was associated
+with better baseline cognitive flexibility but less improvement in cognitive flexibility. These findings suggest a nuanced relationship
+between cognitive and neural flexibility. Whereas some enduring increases in neural dynamics may allow for shifting out of a
+maladaptively rigid state, larger persisting increases in neural dynamics may be of less benefit to psilocybin therapy.
+
+
+Translational Psychiatry (2021)11:574; https://doi.org/10.1038/s41398-021-01706-y
+
+
+INTRODUCTION disorder [11] and substance use disorders [12], which are disorders
+Recently, classic psychedelics (serotonin 2A or 5-HT>A agonists such as that may also be amenable to psychedelic therapy [1, 5, 6].
+psilocybin, lysergic acid diethylamide or LSD, and N,N-dimethyltrypta- Cognitive flexibility deficits may precede the onset of other
+mine or DMT) have shown potential efficacy for treating a variety of symptoms in depression [13], have been identified across the
+psychiatric disorders [1-6], including major depressive disorder lifespan in patients with depression [14, 15], and may represent an
+(MDD). Whereas typical antidepressant treatments such as selective endophenotype for depression [16]. Although cognitive flexibility
+serotonin reuptake inhibitors (SSRIs) can take weeks to months to may not always be directly related to global measures of
+take effect, two administrations of psilocybin coupled with extensive symptomology for a given disorder [17], the capacity to readily
+psychotherapy appear to have rapid and enduring antidepressant shift between different mental states could especially be useful in
+effects (e.g., lasting weeks to months after the acute effects [2, 3] and the context of psychotherapy [18]. Furthermore, the related
+at least as effective as a SSRI [7]). Despite these striking effects of concept of psychological flexibility has been found to mediate the
+psychedelic therapy, the cognitive and neural mechanisms underlying relationship between acute psychedelic effects and improvements
+their enduring efficacy are poorly understood. in depression and anxiety [19]. Antidepressant treatments
+A potential transdiagnostic neuropsychological mechanism that including ketamine [20], SSRIs [21-23], duloxetine (a serotonin
+may be targeted by psychedelic therapy is cognitive flexibility. and norepinephrine reuptake inhibitor) [17], and repetitive
+Cognitive flexibility is broadly defined as the ability to adaptively transcranial magnetic stimulation [22] have been found to
+switch between different cognitive operations in response to improve cognitive flexibility, perhaps by driving plasticity of the
+changing environmental demands, and it is typically measured as hippocampus [24, 25], a structure implicated in depression [26]
+perseveration on prior rules in set shifting or rule switching tasks and flexible behavior [27]. Nevertheless, many patients remain
+(for review, see [8]). Impairments in cognitive flexibility have been treatment-refractory for cognitive deficits [28, 29], necessitating
+found in depression [9, 10], as well as obsessive-compulsive research on novel treatments.
+
+
+"Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine, Baltimore, USA. *Center for Psychedelic & Consciousness Research, Johns
+Hopkins University School of Medicine, Baltimore, USA. ¿Department of Radiology and Radiological Science, Johns Hopkins University School of Medicine, Baltimore, USA.
+“Department of Psychology, University of Chicago, Chicago, USA. "College of Social Work, The Ohio State University, Columbus, USA. °F.M. Kirby Research Center for Functional
+Brain Imaging, Kennedy Krieger Institute, Baltimore, USA. “Department of Neuroscience, Johns Hopkins University School of Medicine, Baltimore, USA. “email: mdoss3@jhmi.edu
+
+Received: 7 June 2021 Revised: 14 October 2021 Accepted: 26 October 2021
+Published online: 08 November 2021
+
+
+SPRINGER NATURE
+
+[PAGE 002]
+
+M.K. Doss et al.
+
+
+Although it is unclear what the enduring effects of psychedelic examined the relationship between changes in depression,
+therapy are on cognitive flexibility in humans, the acute effects of cognitive flexibility, and both sFC and the dynamics of functional
+5-HT,, receptor modulation on cognitive flexibility are mixed. connectivity (dFC; variance in the timeseries of moment-to-moment
+Blockade of 5-HT2, receptors has been found to both impair sFC as measured with fMRI) following psilocybin therapy. In
+[30, 31] and enhance cognitive flexibility in animal models [32-34]. addition, we collected magnetic resonance spectroscopy (MRS)
+In contrast, activation of 5-HT>A receptors with psychedelic drugs data to characterize psilocybin-induced changes in neurometabohas been found to acutely impair cognitive flexibility in humans lite concentrations in the ACC and hippocampus, regions involved
+[35] and impair or have no impact on cognitive flexibility in in cognitive flexibility [24, 25, 27, 39-41] with abnormal glutamate
+animals [36, 37]. Moreover, psychedelics also activate the 5-HT>c and NAA concentrations in depression that are responsive to
+receptor, and the relationship between modulation of this antidepressant treatments [74-76]. As the MRI was performed at
+receptor and cognitive flexibility is complex. In animal models, 7 T, there was dropout in the fMRI signal in some parts of the brain
+5-HT>c blockade alone has been found to enhance [30, 38] or have including the hippocampus. Thus, we narrowed our focus of sFC
+no impact cognitive flexibility [34]. However, one study found that and dFC to interactions involving the ACC and PCC.
+5-HT2c blockade during co-administration of a psychedelic
+impaired cognitive flexibility [36] when the administration of the
+psychedelic alone had no impact, suggesting that coactivation of METHODS
+the 5-HT>c receptor may be protective against impairments in Participants
+cognitive flexibility from 5-HT,, activation. Together, these Detailed participant information was previously published [3]. Twenty-four
+findings suggest that acute activation or blockade of receptors participants (eight males) aged 24-59 years (M= 39.83, SD= 12.23) with
+MDD (217 on the GRID-Hamilton Depression Rating Scale or GRID-HAMD)
+targeted by psychedelics can bidirectionally modulate cognitive
+completed neuroimaging and/or cognitive tasks (see specific measures for
+flexibility, though it remains unclear whether any of these effects
+missing data) in an open-label clinical trial (ClinicalTrials.gov Identifier:
+extend into the days following psychedelic administration.
+NCT03181529). This sample size was chosen based on previous work that
+Activity of the anterior cingulate cortex (ACC) and its interac- found a large effect size on the GRID-HAMD [4] (i.e., the primary outcome
+tions with other regions [39, 40] are known to support cognitive of this clinical trial). Participants were recruited through advertisements
+flexibility, and single units of the ACC are involved in search for and word-of-mouth referrals. Screening included internet surveys, phone
+new rules to promote adaptive behavior [41]. Several pieces of interviews, and in-person medical and psychiatric assessments. Exclusion
+evidence suggest that psychedelics modulate the activity of the criteria included current antidepressant medication, substantial lifetime
+ACC. In humans, psychedelics have been found to acutely increase use (>10 total) or recent use (past 6 months) of ketamine or classic
+psychedelics, a current significant medical condition, personal or family
+ACC activity [42-44] and task-free static functional connectivity
+history (first or second degree) of psychotic or bipolar disorders, moderate
+(sFC; the temporal coupling between the activity of two regions)
+or severe alcohol or other drug use disorder (including nicotine) in the past
+between the default mode and salience networks [45-47], the
+year, standard fMRI contraindications (e.g., left-handed, incompatible
+ACC being a major hub of the latter. Increased sFC between the medical devices), and for women, being pregnant or nursing. This study
+default mode and salience networks [48] and between the ACC was approved by the Johns Hopkins Medicine Institutional Review Board,
+and posterior cingulate cortex (PCC; [49]) has also been observed and all participants provided informed consent.
+1 day after DMT administration (in the orally active form,
+ayahuasca). Like the ACC, activity and sFC of the PCC are
+Psilocybin therapy
+consistently altered during acute effects of classic psychedelics Detailed information regarding the full treatment procedure can be found
+[46, 50-52], and concentrations of glutamate and N-acetylaspar- elsewhere [3]. Thirteen and 11 participants were randomly assigned (via
+tate (NAA) in the PCC were reduced 1 day post-DMT administra- urn randomization) to an immediate treatment and delayed treatment
+tion [49]. Finally, sFC between the PCC and the subgenual group, respectively. After screening, participants in the immediate group
+cingulate, a region ventral to the ACC, was increased 1 day after completed baseline clinical, cognitive, and neuroimaging measurements
+psilocybin therapy in patients with MDD [53]. The subgenual followed by ~8h of preparatory therapy sessions conducted over 2 weeks
+to build rapport with research personnel. Following these preparatory
+cingulate is a major target in the treatment of depression [54], and
+sessions, participants attended two psilocybin sessions separated by
+reduced sFC between the subgenual cingulate and ACC has been
+~1.6 weeks. A moderately high dose (20 mg/70 kg) and a high (30 mg/
+observed in MDD and is associated with emotional rigidity [55].
+70 kg) dose of psilocybin in opaque gelatin capsules were orally consumed
+Recently, several studies have suggested that psychedelics at the first and second sessions, respectively. During these sessions,
+induce neural plasticity [56-60] (for reviews, see [61, 62]). With participants lay on a couch in a comfortable, dimly lit room while wearing
+markers of neural plasticity difficult to assess in humans, a eyeshades and listening to music (mostly Western art music) through
+potential proxy for ongoing shifts in synaptic weighting within headphones. Throughout these sessions, research personnel remained in
+and across brain regions may come from measures of neural the room at all times to respond to participants’ needs, though participants
+flexibility in functional magnetic resonance imaging (fMRI) data were encouraged to remain in a supine position and direct their attention
+
+(i.e., signal variability over time). Different measures of neural inward. After each psilocybin session, participants attended follow-up
+meetings to discuss their experiences.
+flexibility, especially those involving the salience network [63],
+In order to account for non-treatment-related changes in depression
+have been associated with cognitive flexibility [8, 64], and neural
+(e.g., interacting with research personnel) and performance on cognitive
+flexibility of the ACC, as well as the PCC, has been found to be tasks (i.e., practice effects), the 11 participants in the delayed group
+decreased in MDD [65, 66]. Moreover, psychedelics and other completed clinical and cognitive (but not neuroimaging) measurements
+hallucinogens have been found to acutely increase various after screening (pre-delay assessments) and were then monitored weekly
+measures of variance and entropy in brain activity, especially in through in-person visits and telephone calls during an 8-week delay. At the
+regions of the salience network including the ACC ([67-71]; end of this delay period, participants completed a second set of clinical
+though decreases have also been reported [46, 71, 72]). Although and cognitive measurements and their first neuroimaging measurements
+(baseline assessments) followed by the same preparatory, psilocybin, and
+the durability of these effects is unclear in patients with MDD, one
+follow-up sessions administered to the immediate treatment group.
+small study of 12 healthy adults did not find enduring modulation
+of neural flexibility or ACC function 1 week and 4 weeks after a
+single dose of psilocybin [73]. Clinical and cognitive measures
+Here, we utilized both hypothesis-driven and data-driven Depression was assessed with the 17-item GRID version of the HAMD [77]
+approaches of multi-modal brain imaging measurements to administered by blinded clinician raters via telephone at screening, 1 week
+examine the enduring effects of psilocybin therapy on cognitive post-treatment, and 4 weeks post-treatment. In the delayed control group,
+and neural flexibility in patients with MDD. Specifically, we the GRID-HAMD was also assessed after 5 and 8 weeks into the delay period.
+
+
+SPRINGER NATURE Translational Psychiatry (2021)11:574
+
+[PAGE 003]
+
+M.K. Doss et al.
+
+
+a Effects of Psilocybin Therapy on using a 32-channel head coil (Nova Medical, Wilmington, MA). Measure-
+Depression ments at each scanning session included a T1-weighted structural MPRAGE
+40 7
+(TR/TE = 4100/1.86 ms, flip angle = 7°, acquisition matrix = 220 x 220 mm,
+Y
+= 357
+voxel size =1mm?), an echo-planar scan with an emotional processing
+o
+un
+9 204
+task (to be reported elsewhere), an echo-planar scan to measure task-free
+A 257 (eyes open) blood-oxygenation level-dependent (BOLD) fMRI (355 TRs, TR/
+= o
+a2 TE = 2000/22 ms, flip angle = 60°, acquisition matrix = 192 x 192 mm, in-
+plane resolution = 2.5 x 2.5 mm, slice thickness = 3 mm, SENSE accelera-
+a 10 7 tion factor
+= 3, 54 axial-oblique slices parallel to the anterior-posterior
+m
+O 57 commissure line), and stimulated echo acquisition mode (STEAM) short-TE
+'H-MRS scans (TR/TE/TM = 3000/33/14, acquisition time = 6 min 30 s, NT =
+8 Weeks 3 Weeks Baseline 1 Week 4 Weeks
+128, bandwidth = 5000 Hz, VAPOR water suppression; water-unsuppressed
+Time
+spectra were acquired with similar parameters and NT
+= 2) of the ACC
+o Effects of Psilocybin Therapy on (voxel size = 30 x 20 x 20 mm’), left hippocampus (voxel size = 35 x 15 x
+Cognitive Flexibility
+15 mm?), and right hippocampus (voxel size= 35 x 15 x 15 mm’; see Fig.
+S1 for example of spectroscopic voxel placement). Three participants (one
+male, all immediate group) did not complete at least one imaging session,
+Errors
+and one participant (male, delayed group) did not complete a resting state
+scan. In addition, one participant (male, delayed group), three participants
+(one male, delayed group and two females, immediate group), and two
+participants (both females, one immediate group) had poor signal (spectral
+Perseverative abnormalities, signal-to-noise <5, or a Cramer-Rao Lower Bound standard
+deviation >20 for glutamate or NAA) in at least one of their ACC, left
+PCET hippocampus, and right hippocampus MRS scans, respectively. These
+8 Weeks Baseline 1 Week 4 Weeks
+participants were, therefore, excluded from their respective analyses
+Time
+(resulting in N = 20, 20, 18, and 19 for resting state, ACC, left hippocampus,
+Fig. 1 The effects of psilocybin therapy on depression and and right hippocampus scans, respectively).
+cognitive flexibility. Depression symptomology (a) as measured by Spatial preprocessing of functional images was performed in SPM12 and
+the GRID-Hamilton Depression Rating Scale (GRID-HAMD; also included realignment (motion correction), co-registration of the second
+reported in [3]) and cognitive flexibility (b) as measured by BOLD scan with the first BOLD scan, and normalization of BOLD scans to an
+perseverative errors on the Penn Conditional Exclusion Test (PCET) EPI template in MNI space [80] using a 4th degree B-Spline interpolation.
+were improved from pre- to post-psilocybin therapy. These changes Temporal preprocessing was performed using tools from the Cognitive
+were not found between repeated tests pre-psilocybin therapy in and Affective Neuroscience Lab (http://github.com/canlab) and included
+the delayed group (i.e., between —8 weeks and Baseline time simultaneous bandpass filtering (0.009-0.08 Hz) and nuisance regression.
+points). Each line color represents a unique participant, and the Nuisance parameters consisted of linear trend, the first 5 principal
+mapping of individual colors to unique participants remains components of voxels containing cerebrospinal fluid and the first 5
+consistent across all figures in which individual participant data principal components of voxels containing white matter signal (both
+are plotted. identified using masks derived from segmented, co-registered, and
+normalized T1-weighted structural images; [81]), 24 motion parameters
+Notable effects of psilocybin therapy were limited to the Penn from realignment (translations and rotations, their derivatives, and squares
+Conditional Exclusion Test (PCET; [78]), and descriptions and analyses of of all of these; [82]), and motion censoring or “scrubbing” regressors [83]
+the other two tasks can be found in the Supplementary Information (SI; generated from the ART toolbox using outlier detection and intermediate
+Table S1). The PCET is a set-shifting measure of cognitive flexibility settings (global-signal z-value threshold = 5, subject-motion threshold =
+modeled after the Wisconsin Card Sorting Task [79], but the PCET has 0.9 mm). Finally, these data were parcellated by averaging the BOLD signal
+multiple validated alternate test forms with different stimuli to support at each TR across voxels within a 10-mm sphere around each of the 264
+repeated measurements. Participants completed a different test form at vertices of the Power atlas [84], producing 264 timeseries of nodes.
+every visit, and the order of these test forms was counterbalanced across Susceptibility artifacts due to 7 T magnetic field inhomogeneities at tissue
+participants. On each trial of the PCET, four figures were simultaneously boundaries led to variable degrees of signal-dropout across participants.
+presented, and participants were required to select the figure that was On average across scans, 59% of voxels had acceptable signal-to-noise.
+different from the other three based on one of three criteria (Version 1: line However, only 89 Power atlas nodes had acceptable signal-to-noise in at
+thickness, shape, size; Version 2: location of shape within stimulus box, least 75% of within-sphere voxels across all scans, and thus, functional
+color, type of shape within stimulus box; Version 3: angle of lines within connectivity data were only analyzed for these 89 ROls (see Fig. S2 for
+stimulus box, dashed versus solid lines within stimulus box, and presence maps of acceptable signal). Increasing the threshold for allowing nodes
+or absence of a border on stimulus box; Version 4: sharp or rounded edges, into analyses did not qualitatively change results (SI). The split-half
+angle of stimulus box, filled or empty stimulus box). Once a figure was reliability of functional connectivity of these 89 nodes was high, and head
+selected, participants were presented with immediate feedback (“correct” motion after preprocessing was unrelated to sFC and dFC (Figs. S3-S4).
+or “incorrect”). After 10 consecutive correct trials or after 48 total trials, the MRS data were visually inspected to detect any spurious artifact or lipid
+criterion for a correct response changed until another 10 consecutive contamination. Afterwards, spectra were preprocessed using an in-house
+correct trials or 48 total trials was reached after which the criterion was developed software based on FID-A [85] and quantified with LCModel 6.3
+changed one last time (followed by a final round of 10 consecutive correct [86] modeling the spectrum from 0.5 to 4.2 ppm. Basis sets consisted of 20
+or 48 total trials). Perseverative errors were defined as the number of metabolites generated using custom-built fully localized density matrix
+instances in which three incorrect responses are made based on a previous simulations [87]. Macromolecules were simulated in LCModel (NSIMUL
+rule, and they are thought to reflect less cognitive flexibility (or cognitive 12). Signal of total creatine was used as an internal standard. Spectra
+rigidity). See SI for descriptions and data of other responses. One showed overall good spectral quality, though spectra from the left and
+participant (female, delayed group) refused to complete cognitive tasks, right hippocampi showed higher variability, especially in the 4-3 ppm
+and another participant (female, immediate group) was excluded for region (Fig. 55 and Table 52).
+looking up the rules to the PCET after the first test (resulting in N = 22).
+Due to a technical error, data from 4 weeks post-treatment was missing
+from an additional participant (female, delayed group). Analyses
+Univariate analyses consisted of one-way ANOVAs and two-tailed t tests
+comparing clinical, cognitive, and neural baseline measures that occurred
+Imaging parameters and preprocessing ~2 weeks before the first psilocybin session to those measures postApproximately 4 weeks before the first psilocybin session and 1 week after psilocybin therapy (i.e., 1 week and 4 weeks post-treatment). To measure
+the second psilocybin session (on the same days as cognitive testing) potential non-treatment-related effects of multiple clinical and cognitive
+participants were scanned at 7T (Philips Achieva, Best, The Netherlands) tests, in the delayed group, we compared pre-delay measures to the
+
+
+Translational Psychiatry (2021)11:574 SPRINGER NATURE
+
+[PAGE 004]
+
+M.K. Doss et al.
+
+
+a Effects of Psilocybin Therapy on
+
+Glutamate Concentration
+15 7 *
+
+12 7
+
+
+Y 97
+y 63
+
+
+e
+
+
+O 7
+
+
+ACC L Hipp R Hipp
+Pre-Psilocybin El Post-Psilocybin
+
+b Effects of Psilocybin Therapy on
+N-Acetylaspartate Concentration
+15 7 *
+
+
+12 7
+
+
+Y 91
+
+
+=)
+Zz 67
+
+
+a
+
+
+O77
+
+
+ACC L Hipp
+
+
+Pre-Psilocybin [| Post-Psilocybin
+
+c Effects of Psilocybin Therapy on
+ACC-PCC Functional Connectivity
+1.2 7 * 1.2
+
+0.9 7 0.9
+
+
+0.64 0.6
+
+
+mo 0.3 6 Pre-Psilocybin
+
+u Post-Psilocybin
+
+
+dFC
+
+Fig. 2 The effects of psilocybin therapy on neurometabolite concentrations and functional connectivity. Split violin plots with horizontal
+bars reflecting the mean, error bars reflecting the 95% confidence interval, and “strings” reflecting individual participant data. The color of a
+given participant is consistent across all figures plotting individual participant data. Psilocybin therapy reduced (a) glutamate and (b) Nacetylaspartate in the anterior cingulate cortex but not in the left or right hippocampus. c Psilocybin therapy increased dFC but not sFC
+between the anterior and posterior cingulate. *p < 0.050. ACC anterior cingulate cortex, L Hipp left hippocampus, R Hipp right hippocampus,
+Glu glutamate, tCr total creatine, NAA N-acetylaspartate, PCC posterior cingulate.
+
+
+baseline timepoint 2 weeks before psilocybin therapy and supported null [88]), a more reliable method than commonly used sliding window
+effects with Bayes factors. Exploratory correlations were calculated using approaches [89]. dFC matrices were then computed by calculating the
+Pearson's correlation coefficients. variance of each correlation timeseries. As described previously, we
+For analysis of MRS data, we focused on glutamate and NAA, as these focused our analyses on the ACC and PCC based on their roles in cognitive
+are commonly measured metabolites that have reliable spectra, are altered flexibility and psychedelic drug action. The specific ACC node was selected
+in depression and from antidepressant treatments [74, 75], and have been based on the Power atlas node contained within the most MRS scans of
+found to be sensitive to the effects of psychedelics [49]. For the BOLD data, the ACC. The specific PCC node was selected based on the results of a prior
+matrices of sFC and dFC were created for each participant and study that found increased sFC between the subgenual cingulate and a
+experimental condition (Fig. S6). For sFC, the Pearson’s r between the region corresponding to the left PCC/precuneus [53].
+timeseries of all pairwise combinations of 89 nodes was computed, In order to test whether baseline measures of sFC and dFC predicted
+producing 3916 functional connections (edges) with all r-values Fisher z- post-treatment changes in depression and cognitive flexibility, we
+transformed for analysis. For dFC, correlation timeseries were first constructed and tested the performance of several connectome-based
+computed for each edge using dynamic conditional correlations (DCC; predictive models [90-92]. This approach selects neural features (i.e.,
+
+
+SPRINGER NATURE Translational Psychiatry (2021)11:574
+
+[PAGE 005]
+
+M.K. Doss et al.
+
+
+a One-Week Change in Cognitive Flexibility Against Enduring effects of Psilocybin therapy on brain function
+One-Week Change in ACC-PCC dFC Both glutamate (95% Cl = [0.11, 1.10], t(19) = 2.54, p= 0.020, d=
+0.57) and NAA (t(19) = 3.05, p = 0.007, d = 0.68) were decreased in
+10 e
+the ACC 1 week after psilocybin therapy (Fig. 2a, b). Decreases in
+r=.48 .?
+ACC neurometabolite concentrations were regionally selective, as
+E 07
+EQ there were no significant changes in glutamate and NAA in the left
+Q
+
+= -10 e or right hippocampi (all ts< 1.04, all ps > 0.250). All correlations
+between changes in glutamate or NAA and changes in GRID-
+o
+HAMD scores or PCET perseverative errors were non-significant (all
+|r| s <.36, all ps > 0.130).
+-0.2 -01 0.0 01 0.2 0.3 0.4 05
+In general, sFC numerically decreased and dFC numerically
+AdFC
+increased across the brain after psilocybin therapy (Fig. S7). Prior
+b Four-Week Change in Cognitive Flexibility Against
+work found increases in sFC between the ACC and PCC 1 day after
+One-Week Change in ACC-PCC dFC ayahuasca administration [51]. Therefore, we examined the effects
+of psilocybin therapy on ACC-PCC functional connectivity. Although
+10 4 r = .44 we observed no significant change in sFC (95% Cl = [—0.12, 0.23]; t
+E 10 ° e
+(19) =0.67, p>0.250), there was a fairly reliable increase in dFC
+E . o e. E e
+
+between the ACC and PCC 1 week after psilocybin therapy (95% CI
+= -10 e = [0.02, 0.21]; t(19) = 2.87, p = 0.010, d= 0.64; Fig. 2c). Exploratory
+v o
+20 la 2 correlations found a moderate association between these increases
+e 2
+in dFC and decreases in PCET perseverative errors 1 week post-
+psilocybin therapy (r(16) = 0.48, p = 0.043; Fig. 3a) with a slightly
+-0.2 -01 0.0 0.1 0.2 0.3 014 55
+AdFC smaller non-significant correlation observed at 4 weeks post-
+psilocybin therapy (r(16) =0.44, p= 0.079; Fig. 3b). Interestingly,
+Fig. 3 Greater pre- to post-psilocybin therapy increases in neural
+flexibility were associated with less improvements in cognitive
+these correlations were positive, suggesting that an increase in dFC
+flexibility. Relationship between changes in anterior to posterior may actually be associated with less of a decrease in perseverative
+cingulate cortex (ACC and PCC, respectively) dynamics of functional errors (i.e., less increase in cognitive flexibility). All changes in ACCconnectivity (dFC) 1 week post-psilocybin therapy and changes in PCC functional connectivity and changes in GRID-HAMD scores
+perseverative errors on the Penn Conditional Exclusion Test (PCET) were non-significant (all |r|s < 0.10, all ps > 0.250).
+at (a) 1 week and (b) 4 weeks post-psilocybin therapy.
+Prediction of improvement from baseline functional
+connectivity
+baseline sFC and dFC edges) most correlated with behavioral variables (i.e., A goal of clinical neuroimaging is to use tools from cognitive
+changes in GRID-HAMD scores and PCET perseverative errors), trains a neuroscience to identify biomarkers to inform the diagnosis and
+linear model from a subset of these data by summing these features, and treatment of psychiatric disorders. In order to explore such
+tests these models by applying them to predict behavior from brain data
+possibilities and further elucidate the counterintuitive findings
+left out of training. We implemented leave-one-participant-out cross-
+that greater psilocybin-induced neural changes can be associated
+validation and inspected the relationship between observed and predicted
+with less improvement in cognitive flexibility, we trained
+data across folds (Pearson’s r). Features are selected if their correlation with
+behavior surpasses a thresholded level of significance (typically p < 0.010). connectome-based predictive models on baseline functional
+Because of the relatively small N and number of edges from which to connectivity to predict changes in depression and cognitive
+select, we report the robustness of different models across a range of flexibility at 1 and 4 weeks post-psilocybin therapy. Models for
+thresholds for feature selection (p < 0.010-0.050). each behavioral variable were trained on baseline sFC, dFC, and
+both sFC and dFC of the ACC, PCC, both ACC and PCC, and the
+connectome of 3916 edges (the “full” connectome). Performance
+RESULTS of these models across a range of thresholds for feature selection
+Enduring effects of psilocybin therapy on depression and is shown in Fig. 4.
+cognitive flexibility There are several points worth noting regarding these
+As reported previously [3] and shown in Fig. 1a, psilocybin therapy predictive models. No model was capable of predicting 1-week
+robustly decreased GRID-HAMD scores in nearly every participant improvements in depression (Fig. 4a). In contrast, the prediction of
+from baseline to 1 week and 4 weeks post-treatment. This 4-week improvements in depression was moderately good and
+reduction in depression was supported by a massive effect of consistent across thresholds for feature selection using the model
+timepoint (F(2, 46)=69.95, p<0.001, np = 0.75). There was trained on baseline sFC of the full connectomre (Fig. 4b).
+moderate evidence supporting the null hypothesis that GRID- Successful prediction of 1-week and 4-week changes in cognitive
+HAMD scores did not change between the pre-delay and baseline flexibility was best with both baseline sFC and dFC of the ACC with
+timepoint in the delayed group before they received psilocybin the addition of edges emanating from the PCC reducing model
+(F(2, 20) = 0.25, p> 0.250, BF = 0.23). performance (Fig. 4c, d), though both models contained edges
+Similar to GRID-HAMD scores, perseverative errors on the PCET from the ACC to posteromedial regions. These models predicting
+generally decreased from baseline to 1 week post-psilocybin therapy changes in cognitive flexibility were fairly robust to relaxing the
+(Fig. 1b) with this effect sustained 4 weeks post-treatment. This threshold for edge selection.
+improvement in cognitive flexibility was supported by a main effect To further interrogate predictive model features, we examined
+of timepoint (F(2, 40) = 10.90, p< 0.001, nz = 0.35). The effect of the relationship between individual model features (sFC and dFC
+psilocybin therapy on PCET perseverative errors was unlikely to be edges) and behavioral variables across thresholds for feature
+explained by practice effects, as there was moderate evidence selection. Whereas baseline sFC and dFC edges predicting 4-week
+supporting the null hypothesis that perseverative errors did not improvements in depression could be both positively and
+change in the delayed group prior to receiving psilocybin (95% Cl = negatively correlated with changes in depression (Fig. S8), the
+[-9.77, 10.57], t(9) =0.09, p>0.250, BF = 0.31). Changes in GRID- best models predicting 1-week and 4-week changes in cognitive
+HAMD scores were not correlated with changes in PCET persevera- flexibility (i.e., sFC and dFC of the ACC) contained features that
+tive errors across any set of timepoints (all |r| s < 0.2, all ps > 0.250). were counterintuitively related to behavior. Specifically, baseline
+
+
+Translational Psychiatry (2021)11:574 SPRINGER NATURE
+
+[PAGE 006]
+
+M.K. Doss et al.
+
+
+Baseline Functional Connectivity Predicting
+py
+a One-Week Changes in Depression - >
+= = gFC ACC
+= MM
+< - = sFCPCC
+‘Sx sFC ACC+PCC
+ea o.8+t
+- = sFC Full
+SY escenoos dFC ACC
+Ki
+=2
+To6 es. dFC PCC
+
+
+EY
+dFC ACC+PCC
+
+3 = 0.4 — dFC Full
+—— sFC+d FC ACC
+Oc — sFC+d FC PCC
+° Soar
+sFC+d FC ACC+PCC
+na
+—— sFC+dFC Full
+BE. , f ,
+< 0.01 0.02 0.03 0.04 0.05
+Threshold for Feature Selection (p-value)
+
+b Baseline Functional Connectivity Predicting
+a Four-Week Changes in Depression
+= 'f
+
+sz
+a <q 0.8F
+ov
+27
+
+
+8 006
+=e
+
+
+BB [| —_---===4-+= A
+A Ae as a wer nu
+3 A. 0.4
+Ts me —
+OÉ Y ze
+© Tort i? —
+wg .- Pr
+z PS - nn ernnnnn, fi y
+
+< 0.01 0.02 0.03 0.04 0.05
+Threshold for Feature Selection (p-value)
+
+c Baseline Functional Connectivity Predicting
+One-Week Changes in Cognitive Flexibili
+Bor
+Y
+
+FE
+22 08+
+
+3%
+BY 06
+y Y
+
+
+5£
+ca 0.4
+
+
+oc
+© © o2t
+== a
+= a
+El |
+0.01 0.02 0.03 0.04 0.05
+
+Threshold for Feature Selection (p-value)
+
+d Baseline Functional Connectivity Predicting
+= Four-Week Changes in Cognitive Flexibility
+4 1
+is)
+
+38
+hia 0.8F
+
+29
+2%
+
+2.206}
+y Y
+EL
+3 a 0.4 FP
+
+oc
+0 SZ 02
+in
+E »
+< o
+0.01 0.02 0.03 0.04 0.05
+
+Threshold for Feature Selection (p-value)
+
+
+Fig. 4 Connectome-based predictive modeling of pre- to post-psilocybin therapy changes in depression and cognitive flexibility.
+Performance of models trained on baseline functional connectivity as a function of the threshold for feature selection predicting 1-week (a)
+and 4-week (b) changes in depression (AHAMD) and 1-week (c) and 4-week (d) changes in cognitive flexibility (APCET). Horizontal gray lines
+indicate model performance at p = 0.05. Brains on the right side of panels are the best-performing models (see gray circles on performance
+lines). A brain was not plotted for predicting 1-week changes in depression, as there was no model was that performed at r > 0. Edges that
+were included in at least 75% of folds were plotted in dark blue, magenta, and light blue, representing sFC edges positively correlated with
+behavior, sFC edges negatively correlated behavior, and dFC edges positively correlated with behavior, respectively. Brain visualizations
+created with NeuroMArVL (https://immersive.erc.monash.edu/neuromarvl/). LOO leave-one-out, sFC static functional connectivity, dFC
+dynamics of functional connectivity, ACC anterior cingulate cortex, PCC posterior cingulate cortex.
+
+
+dFC edges were selected more often than sFC edges, and these across all scans produced qualitatively similar results that did not
+dFC edges were positively correlated with the reductions in PCET change the interpretation of these results (Figs. S9-S11).
+perseverative errors (Fig. 5a, b). In contrast, when models were
+trained on baseline functional connectivity to predict baseline
+cognitive flexibility (Fig. 5c), again more dFC edges were selected DISCUSSION
+than sFC edges, but these brain-behavior correlations were Psilocybin therapy was shown to increase cognitive and neural
+strikingly reversed (Fig. 5d). That is, at baseline, greater dFC was flexibility in patients with MDD. Increases in cognitive flexibility
+predictive of greater cognitive flexibility (less PCET perseverative were selective, as tasks measuring response inhibition, selective
+errors), but after psilocybin therapy, which tended to increase attention, and abstract reasoning were not impacted. Although a
+brain-wide dFC, greater baseline dFC was associated with less lack of correlation between improvements in cognitive flexibility
+improvement in cognitive flexibility. Similar to models predicting and improvements in depression might suggest that cognitive
+changes in depression, models trained on baseline functional flexibility is not mechanistically related to antidepressant effects of
+connectivity to predict baseline depression involved sFC and dFC psychedelic therapy, the GRID-HAMD assesses different features of
+that were both positively and negatively correlated with depres- current depression (e.g., affect and appetite) and not necessarily
+sion (Fig. S8). Finally, training predictive models only on nodes cognitive impairments that may pre-date treatment seeking [13]
+with acceptable signal-to-noise in 100% of within-sphere voxels or that persist in those who otherwise respond to treatment
+
+
+SPRINGER NATURE Translational Psychiatry (2021)11:574
+
+[PAGE 007]
+
+M.K. Doss et al.
+
+
+Number of Baseline Edges Selected in >75% of Folds of
+sFC+dFC ACC Model Predicting One-Week Changes in Cognitive Inflexibility
+10
+
+
+8
+
+
+- = Pos. Corr. sFC Edges
+6
+- = Neg. Corr. sFC Edges
+Pos. Corr. dFC Edges
+Count
+Neg. Corr. dFC Edges|
+
+
+ee
+wanewe ee ee
+
+
+0.01 0.02 0.03 0.04 0.05
+
+
+Threshold for Feature Selection (p-value)
+Number of Baseline Edges Selected in >75% of Folds of
+sFC+dFC ACC Model Predicting Four-Week Changes in Cognitive Inflexibility
+10
+
+
+8
+
+
+= = Pos. Corr. sFC Edges
+6
+- = Neg. Corr. sFC Edges
+Pos. Corr. dFC Edges
+Count
+Neg. Corr. dFC Edges|
+oe
+
+
+o
+
+
+0.01 0.02 0.03 0.04
+
+
+Threshold for Feature Selection (p-value)
+
+Baseline Functional Connectivity Predicting
+Baseline Cognitive Flexibility
+1
+
+sFC ACC
+PCET
+sFC PCC
+of
+BL sFC ACC+PCC
+sFC Full
+0.6 T dFC ACC
+dFC PCC
+dFC ACC+PCC
+Predicted 0.4
+Cor elation —
+dFC Full
+—— sFC+dFC ACC
+and |
+
+0.2 f AA
+LOO —— sFC+d
+FC PCC
+sFC+dFC ACC+PCC
+—— sFC+dFC Full
+Actual 0.01 0.02 0.03 0.04 0.05 *
+
+
+Threshold for Feature Selection (p-value)
+Number of Baseline Edges Selected in >75% of Folds of
+sFC+dFC Full Model Predicting Baseline Cognitive Inflexibility
+150
+
+
+100 = = Pos. Corr. sFC Edges
+
+- - Neg. Corr. sFC Edges
+
+ostanta Pos. Corr. dFC
+Edges
+Count evsnciós Neg. Corr. dFC Edges
+
+
+romo oa
+==. -
+"AA
+ca ras a"
+
+0.02 0.03
+
+Threshold for Feature Selection (p-value)
+
+
+Fig. 5 The relationship between model features and cognitive flexibility. Positively and negatively correlated features that were selected in
+the best models trained on baseline sFC and dFC predicting (a) 1-week changes and (b) 4-week changes in cognitive flexibility. Positively
+correlated dFC edges were consistently selected in these models, suggesting that greater baseline dFC was associated with more PCET
+perseverative errors (i.e., greater cognitive rigidity). In contrast, when models were trained on baseline dFC to predict baseline cognitive
+flexibility (c), dFC edges were still predictive of cognitive flexibility, but the correlations between dFC edges and cognitive flexibility was
+reversed (d). The sFC + dFC Full model was plotted here to highlight th at regardless of how many edges were allowed into the model, far
+more dFC edges were negatively correlated with PCET perseverative errors. Pos. positively, Neg. negatively, Corr. correlated, LOO leave-oneout, sFC static functional connectivity, dFC dynamics of functional connectivity, ACC anterior cingulate cortex, PCC posterior cingulate cortex.
+
+
+[28, 29]. While improved cognitive flexibility itself is a noteworthy design, suggesting that the observed effects could be attributable
+and important effect of psilocybin therapy, it is possible that to expectancy, practice, or exposure effects. We believe this is an
+enhancements in cognitive and neural flexibility may open a insufficient explanation, as the effects of psilocybin therapy on
+window of plasticity [56] during which improvements can be depression were far larger than typical placebo effects [93, 94],
+facilitated (e.g., with supportive psychotherapy), though this and there was no evidence for practice effects on the PCET in the
+remains speculative. In the current sample, despite psilocybin delayed group that performed the task twice before receiving
+therapy generally increasing dFC across the brain, the benefits of psilocybin therapy. Moreover, it seems implausible for certain
+this neural flexibility were nonlinear. That is, larger pre- to post- biological signals to be decreased by placebo effects such as ACC
+treatment increases in dFC between the ACC and PCC and greater glutamate, which has good test-retest reliability [95]. Nevertheless,
+baseline dFC of the ACC was associated with less improvement in in a recent double-blind clinical trial on the treatment of MDD
+cognitive flexibility. An implication of this finding is that sub- comparing psilocybin to the SSRI citalopram using equivalent
+populations of patients (i.e. those with lower baseline neural protocols for psychotherapy in both conditions [7], citalopram was
+flexibility) may be more likely to benefit from psychedelic therapy. found to be effective, though somewhat less so than psilocybin,
+This study had several limitations. The study design was not 1 week after treatment, much sooner than is typically expected
+placebo-controlled and instead utilized a pre- vs. post-treatment with a SSRI. Another study found that a trivial dose of psilocybin in
+
+
+Translational Psychiatry (2021)11:574 SPRINGER NATURE
+
+[PAGE 008]
+
+M.K. Doss et al.
+
+
+the context of the psychotherapy that accompanies psilocybin REFERENCES
+therapy had considerable reductions on depression [4]. Thus, one 1. Bogenschutz MP, Forcehimes AA, Pommy JA, Wilcox CE, Barbosa P, Strassman
+
+could reasonably interpret that large doses of psychotherapy and RJ. Psilocybin-assisted treatment for alcohol dependence: a proof-of-concept
+expectancy of receiving psilocybin provide for a substantial study. J Psychopharmacol. 2015;29:289-99.
+
+therapeutic element of psilocybin therapy. Another limitation to . Carhart-Harris RL, Bolstridge M, Rucker J, Day CM), Erritzoe D, Kaelen M, et al.
+Psilocybin with psychological support for treatment-resistant depression: an
+this study was that due to signal dropout at 7 T, we unfortunately
+open-label feasibility study. Lancet Psychiatry. 2016;3:619-27.
+lost a large portion of brain regions, though including more or less
+. Davis AK, Barrett FS, May DG, Cosimano MP, Sepeda ND, Johnson MW, et al.
+noisy regions into analyses did not qualitatively change our
+Effects of psilocybin-assisted therapy on major depressive disorder: a
+results. In addition, the relatively few edges of the ACC-based randomized clinical trial. JAMA Psychiatry. 2020. https://doi.org/10.1001/
+predictive model of cognitive flexibility might actually speak to its jamapsychiatry.2020.3285.
+robustness because there were likely missing edges that include . Griffiths RR, Johnson MW, Carducci MA, Umbricht A, Richards WA, Richards BD,
+other regions known to support cognitive flexibility (e.g., et al. Psilocybin produces substantial and sustained decreases in depression and
+orbitofrontal cortex; [8]). However, signal dropout in various anxiety in patients with life-threatening cancer: a randomized double-blind trial.
+
+regions implicated in the pathophysiology of mood disorders (e.g., J Psychopharmacol. 2016;30:1181-97.
+. Johnson MW, Garcia-Romeu A, Cosimano MP, Griffiths RR. Pilot study of the
+the hippocampus [26]) may have precluded finding better-
+5-HT 24 R agonist psilocybin in the treatment of tobacco addiction. J Psychoperforming models to predict changes in depression after
+pharmacol. 2014;28:983-92.
+psilocybin therapy. Considering the heterogeneity of depression
+. Moreno FA, Wiegand CB, Taitano EK, Delgado PL. Safety, tolerability, and effi-
+[96], such better-predicting
+models may rely on a more distributed cacy of psilocybin in 9 patients with obsessive-compulsive disorder. J Clin
+network of brain regions than we were able to sample within our Psychiatry. 2006;67:1735-40.
+data. Finally, the generalizability of predictive models is expected . Carhart-Harris R, Giribaldi B, Watts R, Baker-Jones M, Murphy-Beiner A, Murphy
+to vary as a function of sample size. The current findings are based R, et al. Trial of psilocybin versus escitalopram for depression. N. Engl J Med.
+on a relatively small sample size for predictive models, though a 2021;384:1402-11.
+
+slightly larger sample (N= 25) was previously used to build a . Uddin LQ Cognitive and behavioural flexibility: neural mechanisms and clinical
+considerations. Nat Rev Neurosci. 2021. https://doi.org/10.1038/s41583-021predictive model of attention that has consistently generalized to
+00428-w.
+other measures of attention, clinical symptoms, and acute drug
+. Stange JP, Alloy LB, Fresco DM. Inflexibility as a vulnerability to depression: a
+effects [97-99].
+systematic qualitative review. Clin Psychol: Sci Pract. 2017;24:245-76.
+Our findings support a role of the ACC, as well as other parts of the . Channon S. Executive dysfunction in depression: The Wisconsin Card Sorting
+cingulate gyrus, in the enduring effects of psilocybin on cognition. Test. J Affect Disord. 1996;39:107-14.
+Consistent with past work that found changes in interactions . Gruner P, Pittenger C. Cognitive inflexibility in obsessive-compulsive disorder.
+between the ACC and PCC [51] and the subgenual cingulate and PCC Neuroscience. 2017;345:243-55.
+
+[53] 1 day after psychedelic administration, we found increased dFC . Verdejo-Garcia A, Clark L, Verdejo-Roman J, Albein-Urios N, Martinez-Gonzalez
+
+between the ACC and PCC. Moreover, models trained only on ACC JM, Gutierrez B, et al. Neural substrates of cognitive flexibility in cocaine and
+gambling addictions. BrJ Psychiatry. 2015;207:158-64.
+functional connectivity to predict cognitive flexibility outperformed
+. Maramis MM, Mahajudin MS, Khotib J. Impaired cognitive flexibility and working
+all other models, including those that could select features from the
+memory precedes depression: a rat model to study depression. Neuropsychofull connectome, which had over 40 times the number of edges than
+biology. 2021;80:225-33.
+a single node. Finally, the selective decreases in both glutamate and . Dotson VM, McClintock SM, Verhaeghen P, Kim JU, Draheim AA, Syzmkowicz
+NAA of the ACC suggest a reduction in neural metabolism, though SM, et al. Depression and cognitive control across the lifespan: a systematic
+further work will be needed to determine how such reductions in review and meta-analysis. Neuropsychol Rev. 2020;30:461-76.
+metabolism relate to increased neural flexibility. . Goodall J, Fisher C, Hetrick S, Phillips L, Parrish EM, Allott K. Neurocognitive
+The possibility that greater neural flexibility might attenuate the functioning in depressed young people: a systematic review and meta-analysis.
+
+benefits of psilocybin therapy to cognitive flexibility should Neuropsychol Rev. 2018;28:216-31.
+. Liu H, Funkhouser CJ, Langenecker SA, Shankman SA. Set shifting and inhibition
+perhaps not be surprising. Patients with schizophrenia, for
+deficits as potential endophenotypes for depression. Psychiatry Res.
+example, exhibit increased brain wide neural flexibility [67]. It
+2021;300:113931.
+could be that psilocybin pushes neural flexibility in some
+. Greer TL, Sunderajan P, Grannemann BD, Kurian BT, Trivedi MH. Does duloxetine
+individuals past the zone of largest therapeutic efficacy. One improve cognitive function independently of its antidepressant effect in
+question that our study was not designed to address is whether patients with major depressive disorder and subjective reports of cognitive
+such detrimental effects are due to too much neural flexibility or dysfunction? Depression Res Treat. 2014;2014:1-13.
+too enduring of elevations in neural flexibility. Neural flexibility . Johnco C, Wuthrich VM, Rapee RM. The influence of cognitive flexibility on
+could be required during the acute effects of psychedelics to treatment outcome and cognitive restructuring skill acquisition during cognitive
+
+permit the exploration of novel cognitive states that can allow one behavioural treatment for anxiety and depression in older adults: results of a
+pilot study. Behav Res Ther. 2014;57:55-64.
+to escape maladaptive attractor basins (e.g., rumination). Perhaps
+. Davis AK, Barrett FS, Griffiths RR. Psychological flexibility mediates the relations
+even in the days following the acute effects, some neural flexibility
+between acute psychedelic effects and subjective decreases in depression and
+may be needed for the integration process, allowing for greater
+anxiety. J Contextual Behav Sci. 2020;15:39-45.
+responsiveness to continuing psychotherapy. However, persisting 20. Shiroma PR, Thuras P, Wels J, Albott CS, Erbes C, Tye S, et al. Neurocognitive
+increases in neural flexibility could become destabilizing to an performance of repeated versus single intravenous subanesthetic ketamine in
+individual's life, resulting in, for example, lower attention [90, 100]. treatment resistant depression. J Affect Disord. 2020;277:470-7.
+It may be that psychedelics with longer or shorter enduring effects 21. Nielen MMA, Den Boer JA. Neuropsychological performance of OCD patients
+
+are more beneficial for different psychiatric disorders. Overall, our before and after treatment with fluoxetine: evidence for persistent cognitive
+
+work suggests that psilocybin therapy may improve cognitive deficits. Psychol Med. 2003;33:917-25.
+22. Boggio PS, Fregni F, Bermpohl F, Mansur CG, Rosa M, Rumi DO, et al. Effect of
+flexibility in psychiatric illness, but it highlights potential boundary
+repetitive TMS and fluoxetine on cognitive function in patients with Parkinson’s
+conditions of psychedelic-induced neural flexibility and its
+disease and concurrent depression. Mov Disord. 2005;20:1178-84.
+relationship to cognitive improvements.
+23. Baños JH, Novack TA, Brunner R, Renfroe S, Lin H-Y, Meythaler J. Impact of early
+administration of sertraline on cognitive and behavioral recovery in the first year
+after moderate to severe traumatic brain injury. J Head Trauma Rehabilitation.
+CODE AVAILABILITY 2010;25:357-61.
+
+Computed code used to analyze data or generate figures can be requested 24. Jett JD, Boley AM, Girotti M, Shah A, Lodge DJ, Morilak DA. Antidepressant-like
+
+from MKD. cognitive and behavioral effects of acute ketamine administration associated
+
+
+SPRINGER NATURE Translational Psychiatry (2021)11:574
+
+[PAGE 009]
+
+M.K. Doss et al.
+
+
+with plasticity in the ventral hippocampus to medial prefrontal cortex pathway. 48. Pasquini L, Palhano-Fontes F, Araujo DB. Subacute effects of the psychedelic
+Psychopharmacology. 2015;232:3123-33. ayahuasca on the salience and default mode networks. J Psychopharmacol.
+25. Marwari S, Dawe GS. (R)-fluoxetine enhances cognitive flexibility and hippo- 2020;34:623-35.
+campal cell proliferation in mice.J Psychopharmacol. 2018;32:441-57. 49. Sampedro F, de la Fuente Revenga M, Valle M, Roberto N, Dominguez-Clavé E,
+26. MacQueen G, Frodl T. The hippocampus in major depression: evidence for the Elices M, et al. Assessing the psychedelic “after-glow” in Ayahuasca users: post-
+convergence of the bench and bedside in psychiatric research? Mol Psychiatry. acute neurometabolic and functional connectivity changes are associated with
+2011;16:252-64. enhanced mindfulness capacities. Int J Neuropsychopharmacol.
+27. Park AJ, Harris AZ, Martyniuk KM, Chang C-Y, Abbas Al, Lowes DC, et al. Reset of 2017;20:698-711.
+hippocampal-prefrontal circuitry facilitates learning. Nature. 2021;591:615-9. 50. Carhart-Harris RL, Erritzoe D, Williams T, Stone JM, Reed LJ, Colasanti A, et al.
+28. Snyder HR. Major depressive disorder is associated with broad impairments on Neural correlates of the psychedelic state as determined by fMRI studies with
+neuropsychological measures of executive function: a meta-analysis and review. psilocybin. Proc Natl Acad Sci USA. 2012;109:2138-43.
+Psychological Bull. 2013;139:81-132. 51. Palhano-Fontes F, Andrade KC, Tofoli LF, Santos AC, Crippa JAS, Hallak JEC, et al.
+
+29. Rock PL, Roiser JP, Riedel WJ, Blackwell AD. Cognitive impairment in depression: The psychedelic state induced by Ayahuasca modulates the activity and con-
+a systematic review and meta-analysis. Psychol Med. 2014;44:2029-40. nectivity of the default mode network. PLoS ONE. 2015;10:e0118143.
+30. Boulougouris V, Glennon JC, Robbins TW. Dissociable effects of selective 5-HT2A 52. Preller KH, Razi A, Zeidman P, Stampfli P, Friston KJ, Vollenweider FX. Effective
+and 5-HT2C receptor antagonists on serial spatial reversal learning in rats. connectivity changes in LSD-induced altered states of consciousness in humans.
+Neuropsychopharmacol. 2008;33:2007-19. Proc Natl Acad Sci USA. 2019;116:2743-8.
+31. Furr A, Lapiz-Bluhm MD, Morilak DA. 5-HT2A receptors in the orbitofrontal 53. Carhart-Harris RL, Roseman L, Bolstridge M, Demetriou L, Pannekoek JN, Wall
+cortex facilitate reversal learning and contribute to the beneficial cognitive MB, et al. Psilocybin for treatment-resistant depression: fMRI-measured brain
+effects of chronic citalopram treatment in rats. Int J Neuropsychopharm. mechanisms. Sci Rep. 2017;7. https://doi.org/10.1038/s41598-017-13282-7.
+2012;15:1295-305. 54. Hamani C, Mayberg H, Stone S, Laxton A, Haber S, Lozano AM. The subcallosal
+
+32. Amodeo DA, Rivera E, Cook EH, Sweeney JA, Ragozzino ME. 5HT 2, receptor cingulate gyrus in the context of major depression. Biol Psychiatry.
+blockade in dorsomedial striatum reduces repetitive behaviors in BTBR mice: 2011;69:301-8.
+striatal 5HT 5, blockade improves repetitive behaviors. Genes, Brain Behav. 55. Schwartz J, Ordaz SJ, Kircanski K, Ho TC, Davis EG, Camacho MC, et al. Resting-
+
+2017;16:342-51. state functional connectivity and inflexibility of daily emotions in major
+33. Amodeo DA, Jones JH, Sweeney JA, Ragozzino ME. Risperidone and the 5-HT za depression. J Affect Disord. 2019;249:26-34.
+receptor antagonist M100907 improve probabilistic reversal learning in BTBR T 56. Ly C, Greb AC, Cameron LP, Wong JM, Barragan EV, Wilson PC, et al. Psychedelics
+
++ tf/J mice: 5HT 2, receptor blockade improves reversal learning in BTBR mice. promote structural and functional neural plasticity. Cell Rep. 2018;23:3170-82.
+Autism Res. 2014;7:555-67. 57. Nardou R, Lewis EM, Rothhaas R, Xu R, Yang A, Boyden E, et al. Oxytocin-
+
+34. Baker PM, Thompson JL, Sweeney JA, Ragozzino ME. Differential effects of dependent reopening of a social reward learning critical period with MDMA.
+5-HT2A and 5-HT2C receptor blockade on strategy-switching. Behavioural Brain Nature. 2019;569:116-20.
+Res. 2011;219:123-31. 58. Morales-Garcia JA, Calleja-Conde J, Lopez-Moreno JA, Alonso-Gil S, Sanz-
+35. Pokorny T, Duerler P, Seifritz E, Vollenweider FX, Preller KH. LSD acutely impairs SanCristobal M, Riba J, et al. N,N-dimethyltryptamine compound found in the
+working memory executive functions and cognitive flexibility but not risk-based hallucinogenic tea ayahuasca, regulates adult neurogenesis in vitro and in vivo.
+decision-making. Psychol Med. 2020;50:2255-64. https://doi.org/10.1017/ Transl Psychiatry. 2020;10:331.
+$0033291719002393. 59. Catlow BJ, Song S, Paredes DA, Kirstein CL, Sanchez-Ramos J. Effects of psilo-
+36. Amodeo DA, Hassan O, Klein L, Halberstadt AL, Powell SB. Acute serotonin 2A cybin on hippocampal neurogenesis and extinction of trace fear conditioning.
+receptor activation impairs behavioral flexibility in mice. Behavioural Brain Res. Exp Brain Res. 2013;228:481-91.
+2020;395:112861. 60. Cameron LP, Tombari RJ, Lu J, Pell AJ, Hurley ZQ, Ehinger Y, et al. A non-
+37. Odland AU, Kristensen JL, Andreasen JT. The selective 5-HT2A receptor agonist hallucinogenic psychedelic analogue with therapeutic potential. Nature.
+25CN-NBOH does not affect reversal learning in mice. Behav Pharmacol. 2021. 2021;589:474-9.
+https://doi.org/10.1097/FBP.0000000000000626. 61. Inserra A, De Gregorio D, Gobbi G. Psychedelics in psychiatry: neuroplastic,
+38. Boulougouris V, Robbins TW. Enhancement of spatial reversal learning by immunomodulatory, and neurotransmitter mechanisms. Pharm Rev.
+5-HT2C receptor antagonism is neuroanatomically specific. J Neurosci. 2021;73:202-77.
+2010;30:930-8. 62. Olson DE. sychoplastogens: A promising class of plasticity-promoting neu-
+39. Dajani DR, Odriozola P, Winters M, Voorhies W, Marcano S, Baez A, et al. Mea- rotherapeutics. J Exp Neurosci. 2018;12:117906951880050.
+suring cognitive flexibility with the flexible item selection task: from fMRI 63. Chen T, Cai W, Ryali S, Supekar K, Menon V. Distinct global brain dynamics and
+adaptation to individual connectome mapping. J Cogn Neurosci. spatiotemporal organization of the salience network. PLoS Biol. 2016;14:
+2020;32:1026-45. e1002469.
+40. Ghahremani DG, Monterosso J, Jentsch JD, Bilder RM, Poldrack RA. Neural 64. Waschke L, Kloosterman NA, Obleser J, Garrett DD. Behavior needs neural
+components underlying behavioral flexibility in human reversal learning. Cereb variability. Neuron. 2021: S0896627321000453.
+Cortex. 2010;20:1843-52. 65. Zheng H, Li F, Bo Q, Li X, Yao L, Yao Z, et al. The dynamic characteristics of the
+41. Cohen Y, Schneidman E, Paz R. The geometry of neuronal representations anterior cingulate cortex in resting-state fMRI of patients with depression. J
+during rule learning reveals complementary roles of cingulate cortex and Affect Disord. 2018;227:391-7.
+putamen. Neuron. 2021: S089662732031031X. 66. Lin C, Lee S-H, Huang C-M, Chen G-Y, Ho P-S, Liu H-L, et al. Increased brain
+42. Vollenweider F. Positron emission tomography and fluorodeoxyglucose studies entropy of resting-state fMRI mediates the relationship between depression
+of metabolic hyperfrontality and psychopathology in the psilocybin model of severity and mental health-related quality of life in late-life depressed elderly.
+J
+psychosis. Neuropsychopharmacology. 1997;16:357-72. Affect Disord. 2019;250:270-7.
+43. Gouzoulis-Mayfrank E. Neurometabolic effects of psilocybin, 3,4-methylene- 67. Braun U, Schafer A, Bassett DS, Rausch F, Schweiger JI, Bilek E, et al. Dynamic
+dioxyethylamphetamine (MDE) and d-methamphetamine in healthy volunteers brain network reconfiguration as a potential schizophrenia genetic risk
+A double-blind, placebo-controlled PET study with [18F]FDG. Neuropsycho- mechanism modulated by NMDA receptor function. Proc Natl Acad Sci USA.
+pharmacology. 1999;20:565-81. 2016;113:12568-73.
+44. Riba J, Romero S, Grasa E, Mena E, Carrió |, Barbanoj MJ. Increased frontal and 68. Carhart-Harris RL, Leech R, Hellyer PJ, Shanahan M, Feilding A, Tagliazucchi E,
+paralimbic activation following ayahuasca, the pan-amazonian inebriant. Psy- et al. The entropic brain: a theory of conscious states informed by neuroimaging
+chopharmacology. 2006;186:93-98. research with psychedelic drugs. Front Human Neurosci. 2014;8. https://doi.org/
+45. Carhart-Harris RL, Leech R, Erritzoe D, Williams TM, Stone JM, Evans J, et al. 10.3389/fnhum.2014.00020.
+Functional connectivity measures after psilocybin inform a novel hypothesis of 69. Lebedev AV, Kaelen M, Lövden M, Nilsson J, Feilding A, Nutt DJ, et al. LSD-
+early psychosis. Schizophrenia Bull. 2013;39:1343-51. induced entropic brain activity predicts subsequent personality change: LSD-
+46. Carhart-Harris RL, Muthukumaraswamy S, Roseman L, Kaelen M, Droog W, induced entropic brain activity. Hum Brain Mapp. 2016;37:3203-13.
+Murphy K, et al. Neural correlates of the LSD experience revealed by multimodal 70. Tagliazucchi E, Carhart-Harris R, Leech R, Nutt D, Chialvo DR. Enhanced reper-
+neuroimaging. Proc Natl Acad Sci USA. 2016;113:4853-8. toire of brain dynamical states during the psychedelic experience: Enhanced
+47. Muller F, Dolder PC, Schmidt A, Liechti ME, Borgwardt S. Altered network Repertoire of Brain Dynamical States. Hum Brain Mapp. 2014;35:5442-56.
+hub connectivity after acute LSD administration. Neurolmage: Clin. 71. Doss MK, May DG, Johnson MW, Clifton JM, Hedrick SL, Prisinzano TE, et al. The
+
+2018;18:694-701. acute effects of the atypical dissociative hallucinogen salvinorin A on functional
+
+
+Translational Psychiatry (2021)11:574 SPRINGER NATURE
+
+[PAGE 010]
+
+M.K. Doss et al.
+
+10
+connectivity in the human brain. Sci Rep. 2020;10. https://doi.org/10.1038/ 96. Goldberg D. The heterogeneity of “major depression”. World Psychiatry.
+s41598-020-73216-8. 2011;10:226-8.
+72. Spies M, Klöbl M, Höflich A, Hummer A, Vanicek T, Michenthaler P, et al. Asso- 97. Rosenberg MD, Zhang S, Hsu W-T, Scheinost D, Finn ES, Shen X, et al. Methyl-
+ciation between dynamic resting-state functional connectivity and ketamine phenidate modulates functional network connectivity to enhance attention. J
+plasma levels in visual processing networks. Sci Rep. 2019;9. https://doi.org/ Neurosci. 2016;36:9547-57.
+10.1038/s41598-019-46702-x. 98. Rosenberg MD, Finn ES, Scheinost D, Papademetris X, Shen X, Constable RT,
+73. Barrett FS, Doss MK, Sepeda ND, Pekar JJ, Griffiths RR. Emotions and brain et al. A neuromarker of sustained attention from whole-brain functional con-
+function are altered up to one month after a single high dose of psilocybin. Sci nectivity. Nat Neurosci. 2016;19:165-71.
+Rep. 2020;10. https://doi.org/10.1038/s41598-020-59282-y. 99. Rosenberg MD, Scheinost D, Greene AS, Avery EW, Kwon YH, Finn ES, et al.
+74. Abdallah CG, Hannestad J, Mason GF, Holmes SE, DellaGioia N, Sanacora G, et al. Functional connectivity predicts changes in attention observed across minutes,
+Metabotropic glutamate receptor 5 and glutamate involvement in major days, and months. Proc Natl Acad Sci USA. 2020;117:3797-807.
+depressive disorder: a multimodal imaging study. Biol Psychiatry: Cogn Neurosci 100. Cohen MR, Maunsell JHR. Attention improves performance primarily by redu-
+Neuroimaging. 2017;2:449-56. cing interneuronal correlations. Nat Neurosci. 2009;12:1594-1600.
+75. Njau S, Joshi SH, Espinoza R, Leaver AM, Vasavada M, Marquina A, et al. Neu-
+
+rochemical correlates of rapid treatment response to electroconvulsive therapy
+in patients with major depression. JPN. 2017;42:6-16.
+ACKNOWLEDGEMENTS
+76. Smith GS, Oeltzschner G, Gould NF, Leoutsakos J-MS, Nassery N, Joo JH, et al.
+This work was supported by the National Institute on Drug Abuse grants RO1DA03889
+Neurotransmitters and neurometabolites in late-life depression: a preliminary
+(PI: RRG), T32DA007209 (PI: Bigelow), and a grant from the Heffter Research Institute.
+magnetic resonance spectroscopy study at 7T. J Affect Disord. 2021;279:417-25.
+This work was also supported by the Steven and Alexandra Cohen Foundation, Tim
+77. Williams JBW, Kobak KA, Bech P, Engelhardt N, Evans K, Lipsitz J, et al. The GRID-
+Ferriss, Blake Mycoskie, Matt Mullenweg, Craig Nerenberg, the Riverstyx Foundation,
+HAMD: standardization of the Hamilton Depression Rating Scale. Int Clin Psy-
+and Dave Morin. The funders had no role in study design, data collection, and
+chopharmacol. 2008;23:120-9.
+analysis, decision to publish, or preparation of the manuscript.
+78. Kurtz M. The Penn Conditional Exclusion Test: a new measure of executive-
+function with alternate forms for repeat administration. Arch Clin Neuropsychol.
+2004;19:191-201.
+79. Berg EA. A simple objective technique for measuring flexibility in thinking. J Gen
+AUTHOR CONTRIBUTIONS
+MKD conceptualized the analysis, analyzed the data, produced figures, and wrote the
+Psychol. 1948;39:15-22.
+manuscript, MP analyzed the data, produced figures, and wrote the manuscript, MDR
+80. Calhoun VD, Wager TD, Krishnan A, Rosch KS, Seymour KE, Nebel MB, et al. The
+conceptualized the data analysis and wrote the manuscript, NDS collected the data, analyzed
+impact of T1 versus EPI spatial normalization templates for fMRI data analyses:
+the data, and wrote the manuscript, AKD designed the study, collected the data, and wrote
+impact of T1 vs EPI spatial normalization templates. Hum Brain Mapp.
+the manuscript, PHF designed the study and wrote the manuscript, GSS designed the study
+2017;38:5331-42.
+and wrote the manuscript, JJP designed the study, conceptualized the analysis, and wrote
+81. Behzadi Y, Restom K, Liau J, Liu TT. A component based noise correction
+the manuscript, PBB designed the study and wrote the manuscript, RRG designed the study
+method (CompCor) for BOLD and perfusion based fMRI. Neurolmage.
+and wrote the manuscript, FSB designed the study, conceptualized the analysis, analyzed the
+2007;37:90-101.
+data, produced figures, and wrote the manuscript.
+82. Satterthwaite TD, Elliott MA, Gerraty RT, Ruparel K, Loughead J, Calkins ME, et al.
+An improved framework for confound regression and filtering for control of
+motion artifact in the preprocessing of resting-state functional connectivity
+data. Neurolmage. 2013;64:240-56. COMPETING INTERESTS
+83. Power JD, Barnes KA, Snyder AZ, Schlaggar BL, Petersen SE. Spurious but sys- MKD is on the scientific advisory board for Ocean Bio Limited. AKD is a board
+tematic correlations in functional connectivity MRI networks arise from subject member of Source Research Foundation. PHF is on the scientific advisory board for
+motion. Neurolmage. 2012;59:2142-54. and has an equity position in Ninnion Therapeutics. RRG is a board member of the
+84. Power JD, Cohen AL, Nelson SM, Wig GS, Barnes KA, Church JA, et al. Functional Heffter Research Institute. FSB is an advisor to Wavepaths. All other authors have no
+network organization of the human brain. Neuron. 2011;72:665-78. competing interests to declare.
+85. Simpson R, Devenyi GA, Jezzard P, Hennessy TJ, Near J. Advanced processing
+and simulation of mrs data using the rip appliance (Fip-a)—An open source,
+MATLAB -based toolkit. Magn Reson Med. 2017;77:23-33. ADDITIONAL INFORMATION
+86. Provencher SW. Automatic quantitation of localizedin vivolH spectra with
+Supplementary information The online version contains supplementary material
+LCModel. NMR Biomed. 2001;14:260-4.
+available at https://doi.org/10.1038/s41398-021-01706-y.
+87. Berrington A, Voets NL, Plaha P, Larkin SJ, Mccullagh J, Stacey R, et al. Improved
+localization for 2-hydroxyglutarate detection at 3 T using long-TE semi-LASER.
+Correspondence and requests for materials should be addressed to Manoj K. Doss.
+Tomography. 2016;2:94-105.
+88. Lindquist MA, Xu Y, Nebel MB, Caffo BS. Evaluating dynamic bivariate correla-
+Reprints and permission information is available at http://www.nature.com/
+tions in resting-state fMRI: a comparison study and a new approach. Neuro-
+reprints
+Image. 2014;101:531-46.
+89. Choe AS, Nebel MB, Barber AD, Cohen JR, Xu Y, Pekar JJ, et al. Comparing test-
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims
+retest reliability of dynamic functional connectivity methods. Neurolmage.
+in published maps and institutional affiliations.
+2017;158:155-75.
+90. Fong AHC, Yoo K, Rosenberg MD, Zhang S, Li C-SR, Scheinost D, et al. Dynamic
+functional connectivity during task performance and rest predicts individual
+differences in attention across studies. Neurolmage. 2019;188:14-25.
+Open Access This article is licensed under a Creative Commons
+91. Goldfarb EV, Rosenberg MD, Seo D, Constable RT, Sinha R, Hippocampal seed
+BY Attribution 4.0 International License, which permits use, sharing,
+connectome-based modeling predicts the feeling of stress. Nat Commun.
+adaptation, distribution and reproduction in any medium or format, as long as you give
+2020;11: https://doi.org/10.1038/541467-020-16492-2.
+appropriate credit to the original author(s) and the source, provide a link to the Creative
+92. Shen X, Finn ES, Scheinost D, Rosenberg MD, Chun MM, Papademetris X, et al.
+Commons license, and indicate if changes were made. The images or other third party
+Using connectome-based predictive modeling to predict individual behavior
+material in this article are included in the article’s Creative Commons license, unless
+from brain connectivity. Nat Protoc. 2017;12:506-18.
+indicated otherwise in a credit line to the material. If material is not included in the
+93. Hengartner MP, Plöderl M. Statistically significant antidepressant-placebo dif-
+article’s Creative Commons license and your intended use is not permitted by statutory
+ferences on subjective symptom-rating scales do not prove that the drugs work:
+regulation or exceeds the permitted use, you will need to obtain permission directly
+effect size and method bias matter! Front Psychiatry. 2018;9:517.
+from the copyright holder. To view a copy of this license, visit http://creativecommons.
+94. Stolk P, ten Berg MJ, Hemels ME, Einarson TR. Meta-analysis of placebo rates in
+org/licenses/by/4.0/.
+major depressive disorder trials. Ann Pharmacother. 2003;37:1891-9.
+95. Wijtenburg SA, Rowland LM, Oeltzschner G, Barker PB, Workman Cl, Smith GS.
+Reproducibility of brain MRS in older healthy adults at 7T. NMR Biomed.
+© The Author(s) 2021
+2019;32:e4040.
+
+
+SPRINGER NATURE Translational Psychiatry (2021)11:574

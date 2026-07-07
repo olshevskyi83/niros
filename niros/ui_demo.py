@@ -4,14 +4,20 @@ from __future__ import annotations
 
 from dataclasses import asdict, dataclass
 
+from niros.ctpc_tle_adapter import load_psychotherapy_tle_universal_patterns
+from niros.knowledge_workspace import DEFAULT_KNOWLEDGE_ROOT
 from niros.pattern_person_fit_contracts import PatternFitReport, PatternFitScore, PersonFitProfile
 from niros.pattern_person_fit_report import build_pattern_fit_report
 from niros.strategy_candidate_builder import StrategyCandidate, build_strategy_candidate
 from niros.strategy_explanation import StrategyExplanation, build_strategy_explanation
 from niros.voice_transcript import VoiceInput, VoiceTranscript
 from niros.whisper_adapter import transcribe_audio_mock
-from niros_tle.universal_pattern import UniversalPattern
-from niros_tle.universal_pattern_library import build_universal_pattern_library
+from niros_tle.universal_pattern import SOURCE_TYPE_DEMO, UniversalPattern
+from niros_tle.universal_pattern_library import (
+    UniversalPatternLibrary,
+    build_universal_pattern_library,
+    get_pattern_by_id,
+)
 
 MODE_TEXT = "Text"
 MODE_VOICE_TRANSCRIPT_MOCK = "Voice Transcript Mock"
@@ -40,12 +46,27 @@ DEFAULT_SHAME_PROFILE = PersonFitProfile(
 
 
 @dataclass(frozen=True)
+class RuntimePatternLibrarySummary:
+    demo_count: int
+    ctpc_count: int
+    total_count: int
+
+    @property
+    def tle_badge_label(self) -> str:
+        if self.ctpc_count == 0:
+            return "Demo"
+        return "Demo + CTPC"
+
+
+@dataclass(frozen=True)
 class NirosDemoResult:
     input_text: str
     profile: PersonFitProfile
     fit_report: PatternFitReport
     strategy: StrategyCandidate
     explanation: StrategyExplanation
+    pattern_library: UniversalPatternLibrary
+    library_summary: RuntimePatternLibrarySummary
     voice_transcript: VoiceTranscript | None = None
 
 
@@ -75,10 +96,14 @@ def map_input_text_to_profile(
     )
 
 
+def _demo_universal_pattern(**kwargs) -> UniversalPattern:
+    return UniversalPattern(source_type=SOURCE_TYPE_DEMO, **kwargs)
+
+
 def demo_pattern_library() -> tuple[UniversalPattern, ...]:
     """Mini universal pattern library for UI demo runs."""
     return (
-        UniversalPattern(
+        _demo_universal_pattern(
             pattern_id="pattern_self_compassion",
             canonical_name="self compassion for shame",
             source_families=("cft",),
@@ -88,7 +113,7 @@ def demo_pattern_library() -> tuple[UniversalPattern, ...]:
             fit_domains=("self",),
             expected_effects=("self_compassion",),
         ),
-        UniversalPattern(
+        _demo_universal_pattern(
             pattern_id="pattern_acceptance",
             canonical_name="acceptance of difficult emotions",
             source_families=("act",),
@@ -98,7 +123,7 @@ def demo_pattern_library() -> tuple[UniversalPattern, ...]:
             fit_domains=("emotion_regulation",),
             expected_effects=("emotional_tolerance",),
         ),
-        UniversalPattern(
+        _demo_universal_pattern(
             pattern_id="pattern_stabilization",
             canonical_name="stabilization before deep work",
             source_families=("act",),
@@ -108,7 +133,7 @@ def demo_pattern_library() -> tuple[UniversalPattern, ...]:
             fit_domains=("emotion_regulation",),
             expected_effects=("stabilization",),
         ),
-        UniversalPattern(
+        _demo_universal_pattern(
             pattern_id="pattern_values",
             canonical_name="values clarification",
             source_families=("act",),
@@ -118,7 +143,7 @@ def demo_pattern_library() -> tuple[UniversalPattern, ...]:
             fit_domains=("values", "meaning"),
             expected_effects=("values_alignment",),
         ),
-        UniversalPattern(
+        _demo_universal_pattern(
             pattern_id="pattern_meaning",
             canonical_name="meaning reconstruction",
             source_families=("act",),
@@ -128,7 +153,7 @@ def demo_pattern_library() -> tuple[UniversalPattern, ...]:
             fit_domains=("meaning",),
             expected_effects=("meaning_making",),
         ),
-        UniversalPattern(
+        _demo_universal_pattern(
             pattern_id="pattern_identity",
             canonical_name="identity reinforcement",
             source_families=("act",),
@@ -138,7 +163,7 @@ def demo_pattern_library() -> tuple[UniversalPattern, ...]:
             fit_domains=("self", "meaning"),
             expected_effects=("identity_coherence",),
         ),
-        UniversalPattern(
+        _demo_universal_pattern(
             pattern_id="pattern_defusion",
             canonical_name="cognitive defusion",
             source_families=("act",),
@@ -148,7 +173,7 @@ def demo_pattern_library() -> tuple[UniversalPattern, ...]:
             fit_domains=("cognitive",),
             expected_effects=("cognitive_distance",),
         ),
-        UniversalPattern(
+        _demo_universal_pattern(
             pattern_id="pattern_deep_exposure",
             canonical_name="deep emotional exposure",
             source_families=("act",),
@@ -160,6 +185,67 @@ def demo_pattern_library() -> tuple[UniversalPattern, ...]:
             contraindication_signals=("overwhelm_risk",),
         ),
     )
+
+
+def merge_runtime_patterns(
+    demo_patterns: tuple[UniversalPattern, ...],
+    ctpc_patterns: tuple[UniversalPattern, ...],
+) -> tuple[UniversalPattern, ...]:
+    """Merge demo and CTPC patterns, keeping the first occurrence per pattern_id."""
+    merged: list[UniversalPattern] = []
+    seen: set[str] = set()
+    for pattern in (*demo_patterns, *ctpc_patterns):
+        if pattern.pattern_id in seen:
+            continue
+        merged.append(pattern)
+        seen.add(pattern.pattern_id)
+    return tuple(merged)
+
+
+def build_runtime_pattern_library(
+    workspace_root: str = DEFAULT_KNOWLEDGE_ROOT,
+) -> tuple[UniversalPatternLibrary, RuntimePatternLibrarySummary]:
+    """Build the active runtime library from demo patterns and psychotherapy_tle CTPC."""
+    demo_patterns = demo_pattern_library()
+    ctpc_patterns = load_psychotherapy_tle_universal_patterns(workspace_root)
+    merged = merge_runtime_patterns(demo_patterns, ctpc_patterns)
+    summary = RuntimePatternLibrarySummary(
+        demo_count=len(demo_patterns),
+        ctpc_count=len(ctpc_patterns),
+        total_count=len(merged),
+    )
+    return build_universal_pattern_library(merged), summary
+
+
+def get_runtime_pattern_library_summary(
+    workspace_root: str = DEFAULT_KNOWLEDGE_ROOT,
+) -> RuntimePatternLibrarySummary:
+    """Return counts for the active runtime pattern library."""
+    _, summary = build_runtime_pattern_library(workspace_root)
+    return summary
+
+
+def pattern_source_type_label(source_type: str) -> str:
+    """Return a short UI label for one pattern source type."""
+    labels = {
+        SOURCE_TYPE_DEMO: "Demo",
+        "manual_seed": "Manual seed",
+        "ctpc": "CTPC",
+        "corpus_derived": "Corpus-derived",
+        "unspecified": "Unspecified",
+    }
+    return labels.get(source_type, source_type)
+
+
+def lookup_pattern_source_type(
+    library: UniversalPatternLibrary,
+    pattern_id: str,
+) -> str:
+    """Return the source_type for one pattern in the active library."""
+    pattern = get_pattern_by_id(library, pattern_id)
+    if pattern is None:
+        return "unspecified"
+    return pattern.source_type
 
 
 def run_niros_demo_pipeline(
@@ -196,9 +282,10 @@ def run_niros_pipeline_from_profile(
     input_text: str = "",
     max_patterns: int = 3,
     voice_transcript: VoiceTranscript | None = None,
+    workspace_root: str = DEFAULT_KNOWLEDGE_ROOT,
 ) -> NirosDemoResult:
     """Run Pattern–Person Fit and strategy pipeline from a prepared profile."""
-    library = build_universal_pattern_library(demo_pattern_library())
+    library, library_summary = build_runtime_pattern_library(workspace_root)
     fit_report = build_pattern_fit_report(profile, library)
     strategy = build_strategy_candidate(fit_report, max_patterns=max_patterns)
     explanation = build_strategy_explanation(strategy)
@@ -209,6 +296,8 @@ def run_niros_pipeline_from_profile(
         fit_report=fit_report,
         strategy=strategy,
         explanation=explanation,
+        pattern_library=library,
+        library_summary=library_summary,
         voice_transcript=voice_transcript,
     )
 

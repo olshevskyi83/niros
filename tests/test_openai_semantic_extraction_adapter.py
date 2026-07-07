@@ -159,7 +159,7 @@ def test_adapter_does_not_create_ctpc_files_or_write_into_ctpc_workspace(
     adapter.extract_from_corpus(_corpus(), "source_001_segment_001")
 
     assert ctpc_dir.exists()
-    assert list(ctpc_dir.iterdir()) == []
+    assert list(ctpc_dir.rglob("*.json")) == []
 
 
 def test_extract_from_corpus_uses_source_and_segment() -> None:

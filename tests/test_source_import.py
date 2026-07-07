@@ -44,7 +44,7 @@ def test_manifest_mapping() -> None:
         _source_record(),
         original_filename="chants.txt",
         file_extension=".txt",
-        workspace_path="knowledge_factory/incoming/chants.txt",
+        workspace_path="knowledge_library/vocal_icaro/maria_sabina/chants.txt",
         checksum="abc123",
     )
     assert manifest.source_id == "source_001"
@@ -53,7 +53,7 @@ def test_manifest_mapping() -> None:
     assert manifest.language == "mazatec"
     assert manifest.original_filename == "chants.txt"
     assert manifest.file_extension == ".txt"
-    assert manifest.workspace_path == "knowledge_factory/incoming/chants.txt"
+    assert manifest.workspace_path == "knowledge_library/vocal_icaro/maria_sabina/chants.txt"
     assert manifest.checksum == "abc123"
     assert manifest.status == DEFAULT_IMPORT_STATUS
 
@@ -63,7 +63,7 @@ def test_deterministic_import_id() -> None:
         _source_record(),
         original_filename="chants.txt",
         file_extension=".txt",
-        workspace_path="knowledge_factory/incoming/chants.txt",
+        workspace_path="knowledge_library/vocal_icaro/maria_sabina/chants.txt",
     )
     assert manifest.import_id == "import_source_001"
 
@@ -73,7 +73,7 @@ def test_validation_valid() -> None:
         _source_record(),
         original_filename="chants.txt",
         file_extension=".txt",
-        workspace_path="knowledge_factory/incoming/chants.txt",
+        workspace_path="knowledge_library/vocal_icaro/maria_sabina/chants.txt",
     )
     assert validate_import_manifest(manifest) == ()
 
@@ -104,13 +104,13 @@ def test_deterministic_output() -> None:
         record,
         original_filename="chants.txt",
         file_extension=".txt",
-        workspace_path="knowledge_factory/incoming/chants.txt",
+        workspace_path="knowledge_library/vocal_icaro/maria_sabina/chants.txt",
     )
     second = build_import_manifest(
         record,
         original_filename="chants.txt",
         file_extension=".txt",
-        workspace_path="knowledge_factory/incoming/chants.txt",
+        workspace_path="knowledge_library/vocal_icaro/maria_sabina/chants.txt",
     )
     assert first == second
     assert validate_import_manifest(first) == validate_import_manifest(second)

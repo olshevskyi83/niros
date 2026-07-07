@@ -1,0 +1,1270 @@
+
+
+| ® Check for updates |
+Preliminary safety and
+OPEN ACCESS effectiveness of psilocybin-
+assisted therapy in adults with
+EDITED BY
+
+Ke Ren,
+
+University of Maryland, United States
+
+REVIEWED BY
+fibromyalgia: an open-label pilot
+Martin Madsen,
+
+Rigshospitalet, Denmark
+Mateus Dias Antunes, clinical trial
+University of Sao Paulo, Brazil
+
+* CORRESPONDENCE Jacob S. Aday””, Jenna McAfee’, Deirdre A. Conroy’,
+Kevin F. Boehnke
+kboehnkeamed.umich.edu
+Avinash Hosanagar””, Vijay Tarnal’*, Cody Weston’,
+RECEIVED 13 November 2024
+Katherine Scott”, Dana Horowitz’, Jamarie Geller””,
+ACCEPTED 25 February 2025 Steven E. Harte””, Niloufar Pouyan”””, Nicolas G. Glynos”,
+PUBLISHED 18 March 2025
+Anne K. Baker”, Jeffrey Guss’, Alan K. Davis”*”, Helen J. Burgess”,
+CITATION
+
+Aday JS, McAfee J, Conroy DA, Hosanagar A, George A. Mashour”””, Daniel J. Clauw' and Kevin F. Boehnke"””
+Tarnal V, Weston C, Scott K, Horowitz D,
+‘Department of Anesthesiology, University of Michigan Medical School, Ann Arbor, MI, United States,
+Geller J, Harte SE, Pouyan N, Glynos NG,
+“Michigan Psychedelic Center, University of Michigan, Ann Arbor, MI, United States, Psychiatry
+Baker AK, Guss J, Davis AK, Burgess Hu, Department, University of Michigan Medical School, Ann Arbor, MI, United States, “General Health
+Mashour GA, Clauw DJ and Boehnke KF (2025) Science, Veterans Affairs Ann Arbor Healthcare System, Ann Arbor, MI, United States, "Neuroscience
+Preliminary safety and effectiveness of Graduate Program, University of Michigan, Ann Arbor, MI, United States, (Department of Psychiatry,
+psilocybin-assisted therapy in adults with NYU Grossman School of Medicine, New York, NY, United States, “Center for Psychedelic Drug
+
+fibromyalgia: an open-label pilot clinical trial. Research and Education, College of Social Work, The Ohio State University, Columbus, OH, United
+States, ¿Comprehensive Cancer Center, Department of Internal Medicine, Division of Medical
+Front. Pain Res. 6:1527783.
+Oncology, The Ohio State University, Columbus, OH, United States, "Center for Psychedelic and
+doi: 10.3389/fpain.2025.1527783
+Consciousness Research, Department of Psychiatry and Behavioral Sciences, Johns Hopkins University,
+COPYRIGHT Baltimore, MD, United States
+O 2025 Aday, McAfee, Conroy, Hosanagar,
+Tarnal, Weston, Scott, Horowitz, Geller, Harte,
+Introduction: Fibromyalgia (FM) is the prototypical nociplastic pain condition,
+Pouyan, Glynos, Baker, Guss, Davis, Burgess,
+Mashour, Clauw and Boehnke. This is an characterized by widespread pain and issues with cognition, mood, and sleep.
+open-access article distributed under the Currently, there are limited treatment options available that effectively treat FM
+terms of the Creative Commons Attribution
+symptoms. Psilocybin-assisted therapy (PAT) is an emerging combined drugLicense (CC BY). The use, distribution or
+reproduction in other forums is permitted, therapy intervention, but no studies to-date have investigated PAT for FM.
+provided the original author(s) and the Methods: Here, we report findings from an open-label, pilot clinical trial of PAT
+copyright owner(s) are credited and that the
+for FM (N=5). In conjunction with psychotherapy (two preparatory, four
+original publication in this journal is cited, in
+accordance with accepted academic practice. integration sessions), participants received two doses of oral psilocybin (15 mg
+No use, distribution or reproduction is and 25 mg) delivered two weeks apart.
+permitted which does not comply with
+Results: Regarding safety (primary outcome), there were transient elevations of
+these terms.
+blood pressure or heart rate during dosing which normalized by the end of
+treatment, with no serious adverse events. Four of five participants reported
+transient headaches following dosing. Compared to baseline, participants
+reported clinically meaningful improvements in the following secondary
+outcomes one month following their second psilocybin dose (reported as
+Cohen's d): pain severity [d =-2.1, 95% CI(-3.7 to —0.49)], pain interference
+ld =-1.8, 95% Cl (-3.27 to —0.24)], and sleep disturbance ld =-2.5, 95% Cl
+(-4.21 to —0.75)]. Using the Patient Global Impression of Change, one
+participant reported their symptoms “very much improved,” two reported
+“much improved,” and two reported “minimally improved.” We stopped
+recruitment early because of concerns about generalizability and changes in
+FDA guidance for psychedelic clinical trials that occurred data collection.
+Discussion: This small open-label trial preliminarily supports that PAT is well-
+tolerated by people with FM, establishing a basis for larger randomized
+controlled trials.
+
+
+Frontiers in Pain Research 01 frontiersin.org
+
+[PAGE 002]
+
+Aday et al. 10,3389/fpain.2025.1527783
+
+
+Clinical Trial Registration: Clinical Trials.gov, identifier, (NCTO5128162).
+
+
+KEYWORDS
+
+
+psilocybin, psilocybin-assisted therapy, fibromyalgía, clinical trial, pilot
+
+
+1 Introduction
+8
+
+
+3% reporting negative impacts on overall health or pain
+symptoms. Notably, of the 12 participants in that study who
+Fibromyalgia (FM) is a common chronic pain condition that reported using psychedelics with the specific intention of treating
+affects 2%-4% of the general population (1). FM is currently chronic pain, 11 reported improved symptoms.
+understood as the prototypical nociplastic pain condition, i.e., a In summary, converging lines of research support the
+disorder of pain regulation via altered centralized pain processing mechanistic potential of PAT in the treatment of FM. However,
+(2). Common FM symptoms include widespread pain, poor sleep clinical studies assessing the safety and tolerability of psilocybin
+quality, fatigue, and cognitive difficulties (3), and many and associated therapy in people with FM are limited. Thus, in
+individuals with FM have a history of trauma and/or comorbid the current pilot study, we evaluated the preliminary safety and
+psychiatric conditions (4). The heterogeneous nature of FM effectiveness of PAT in the treatment of FM using an open-label
+manifests clinically as varied phenotypic expressions, which design among five individuals.
+makes many treatment options, such as pharmacotherapy and
+physical interventions, only minimally effective (5). This leads to
+considerable divergence in patient outcomes and results in 2 Materials and methods
+significant economic and personal burden (6). Given the mixed
+success of existing treatments, there is a pressing need to develop This open-label clinical trial was conducted at the University of
+tailored and more effective therapeutic approaches (7). Michigan Chronic Pain and Fatigue Center in Ann Arbor,
+One potential treatment for FM is psilocybin-assisted therapy Michigan. All study procedures were approved by the University
+(PAT) (8), a treatment paradigm that combines psychotherapy of Michigan Medical School Institutional Review Board under
+with administration of psilocybin (9). Psilocybin is a serotonergic protocol HUM00208367. The study was prospectively registered
+compound found in numerous mushroom species that causes on clinicaltrials.gov under identifier NCT05128162. The study
+substantial alterations in cognition, mood, affect, and sensory protocol is available in Supplementary |. In addition to the study
+experience (10). Human studies with psilocybin indicate altered procedures outlined below, participants also completed
+functional connectivity of neuronal networks associated with phenotyping visits consisting of sensory testing and magnetic
+clinical benefits (11, 12). Speculatively, the subsequent changes in resonance imaging, the results of which will be reported separately.
+functional connectivity by psilocybin might also facilitate changes
+associated with clinical benefits in conditions characterized by
+nociplastic pain, but this remains untested. Additionally, 2.1 Study design and participants
+psychedelic use and PAT have been linked with increased
+psychological flexibility (13, 14), and it hypothesized that insights Participants in this trial were adults aged 25-64 who did not
+gained during PAT therapy sessions may be more likely to smoke tobacco and had a diagnosis of FM or who had reported
+“stick” and facilitate lasting psychological and behavioral change, FM symptoms for the past year (Figure |). At screening, all
+particularly in disorders characterized by psychological rigidity participants also met the 2016 FM survey criteria for fibromyalgia
+(15-17). Indeed, recent studies of PAT have demonstrated (38). Exclusion criteria included being pregnant or nursing,
+promising findings for treatment of major and treatment- cardiovascular condition in the past year (e.g., coronary artery
+resistant depression (18-21), anxiety (20-23), end-of-life distress disease, stroke, angina, uncontrolled hypertension, transient
+(24, 25), obsessive compulsive disorder (26), and substance use ischemic attack), epilepsy, insulin-dependent diabetes, active
+disorders (27, 28). autoimmune disease, clinically significant laboratory abnormalities
+Preliminary clinical trials and case studies suggest that per a complete blood count and metabolic panel, past year or
+psilocybin may produce analgesic effects in intractable phantom current substance use disorder (other than caffeine), past or current
+limb pain (29), cluster headache (30, 31), and migraine (32). history of having a psychotic disorder or bipolar I or II disorder.
+This has been complemented by recent preclinical research All screened subjects’ (n=17) medical records were reviewed by
+demonstrating that single-dose psilocybin reduced mechanical study physicians and those found to be eligible after medical record
+hypersensitivity in rats for at least 28 days (33). Similarly, surveys review met with study physicians to ensure they did not meet any
+show that many individuals using psilocybin and other exclusionary medical criteria. Participants with scores representing
+psychedelics for chronic pain report substantial pain relief severe depression on the Patient Health Questionnaire 8 were also
+(34-36). In a North American survey study of participants with excluded (39). Exclusionary medications included monoamine
+fibromyalgia (37), perceptions of benefit from psychedelic use oxidase inhibitors, psychoactive prescription medications (eg.,
+were generally neutral (59.4%) or positive (36.8%), with less than benzodiazepines, opioids) more than twice per week, prohibited
+
+
+Frontiers in Pain Research frontiersin.org
+
+[PAGE 003]
+
+Aday et al. 10.3389/fpain.2025.1527783
+
+
+Baseline End of Treatment
+Dosing
+Mechanistic Mechanistic
+Safety Assessments
+assessments (e.g., assessments (e.g.,
+fMRI, QST) fMRI, QST)
+Questionnaires:
+Dosing-specific items
+Questionnaires Symptoms Questionnaires
+(e.g., PROs for pain (e.g., PROs for pain End of
+and related and related Study
+symptoms) symptoms)
+
+Doses
+
+separated
+by 2 week
+on Days 22
+
+and 36
+
+
+1: 2: 4
+dose
+visit 3 6
+Weekly follow up sessions N month month
+
+4 hours
+session
+session hours (integration) follow follow
+Screening
+up up
+Prep Between Post-dose
+Prep
+
+
+FIGURE 1
+
+Overall study design.
+
+
+drugs of abuse including illicit opioids, cocaine, methamphetamines, co-therapist. The lead therapists were doctoral level psychotherapists
+3,4-Methyl enedioxy methamphetamine, and any use of (JM and DAC) and the co-therapist had a Masters of Social Work (DH).
+hallucinogens in the past 6 months or more than 10 lifetime As is standard in PAT research, the therapy component
+hallucinogen uses. Cannabis was allowed if it was part of the included preparatory, dosing, and integration sessions with the
+participant’s treatment regimen prior to enrollment. Other therapist dyad (42). During the preparatory sessions, the
+prohibited medications included antihypertensive medications, therapists (a) developed a trusting therapeutic rapport with
+UGTIA9 or 1A10 inhibitors (e.g., regorafenib, rifampicin, participants, (b) gathered information about lived experience
+deferasiroxor, ginseng) and aldehyde or alcohol dehydrogenase with FM, (c) provided education regarding psychedelic
+inhibitor (e.g, disulfiram). —_ Initially, participants taking experiences, (d) described the therapeutic approach to be used,
+antidepressant medications of any variety were excluded, but and (e) explored participants’ expectations for treatment.
+following recent studies showing the safety of concomitant Therapists explained the logistics of the dosing sessions (e.g.,
+antidepressant use during PAT (40), we amended our protocol to dosing day procedures, session duration, music, use of
+include individuals taking selective serotonin reuptake inhibitors eyeshades), delineated behavioral boundaries of interaction
+(SSRIs) and selective norepinephrine reuptake inhibitors (SNRIs) as between the participant and the therapists, and discussed safety
+well as less than 300 mg/day of bupropion. A full description of measures. In dosing sessions, therapists maintained an attentive
+eligibility criteria are included in the study protocol. Participants but non-intrusive presence, encouraging participants to focus
+were recruited through flyers posted in University of Michigan inward on their thoughts, emotions, and body sensations,
+clinics, UMhealthresearch.org, and electronic health record searches including engaging with difficult content that arose. They also
+with IRB permission between September 2023 and April 2024. assisted the participant by meeting any immediate needs for
+comfort or safety. Toward the end of the dosing sessions,
+participants were invited to talk about their experiences in the
+
+2.2 Description of therapy session and the emotions that were evoked. Therapists focused
+on eliciting descriptions of phenomenology, rather than
+
+Therapy visits occurred at the Sleep and Circadian Research interpreting or guiding this report. The integration phase began
+
+Laboratory and via Zoom (certain therapy visits only). The the day after the dosing sessions and involved thoroughly
+
+therapeutic approach used in this study was informed by “The Yale reviewing the participant’s experience during the dosing session
+
+manual for psilocybin-assisted therapy of depression (using and, in some cases, reinforcing aspects of the experience to foster
+
+acceptance and commitment therapy as a therapeutic frame)”, an changes in thought and behavior. Therapists accomplished this
+
+established theoretical framework for PAT (41). However, the manual by asking open-ended questions about the session, intended to
+
+was modified for fibromyalgia with input from Fluence, a continuing elicit introspective, interpersonal, spiritual, or noetic insights that
+
+education organization in the emerging field of PAT, as well as occurred during the session that the participant may otherwise
+
+consultation with experts in delivering PAT (co-authors Drs. Davis forget or have difficulty verbalizing. Therapists supported the
+
+and Guss). Each participant was paired with a consistent therapist participants’ narrative expression of their experience and
+
+dyad throughout the study, consisting of a lead therapist and emphasized this over interpretive interventions.
+
+
+Frontiers in Pain Research frontiersin.org
+
+[PAGE 004]
+
+Aday et al. 10,3389/fpain.2025.1527783
+
+
+2.3 Study drug sleepiness, crying, restlessness, visual changes, euphoria, and
+feelings of unreality. Study physicians examined the participant
+
+Study drug was provided as psilocybin in 15 mg and 25 mg gel if any concerns were raised by study therapists or if there was a
+
+capsules synthesized by the analytical chemistry lab at the Usona concern for elevated vitals. Dosing sessions were video and
+
+Institute. Participants received two doses of psilocybin (15 mg audio recorded. After the study drug effects subsided,
+
+followed by 25 mg) approximately two weeks apart. Sequential participants completed questionnaires that assessed the
+
+dosing was chosen in alignment with previous studies (19, 43), as subjective experiences of the dosing session (e.g., Mystical
+
+well as to allow participants to acclimate to the Experience Questionnaire, Challenging Experiences
+
+pharmacodynamic effects of psilocybin in the first dose and thus Questionnaire), and the therapists completed questionnaires
+
+to prepare for the more intense effects in the second dosing assessing participant mood and safety. Participants were
+
+session. Participants could decide to not increase their dose to medically cleared by the study team (including a study
+
+25 mg at the second dosing session, and one participant (001) physician) and were discharged home with a responsible adult.
+
+chose not to do so. 25 mg was selected as the high dose based on Participants were asked to process the experience at home by
+
+research that demonstrates tight dose-response curves across writing a reflection about their experiences during the dosing
+
+studies of various indications, which are supplemented by session and this reflection was discussed during follow-up
+
+findings that body mass index (44) and weight (45) are not integration sessions.
+
+significantly related to drug effects.
+
+
+2.5 Measures
+
+2.4 Dosing days 2.5.1 Primary outcome
+The primary outcome for this study was safety. This was
+
+For 7 days prior to dosing sessions, participants agreed to assessed acutely during dosing sessions via heart rate per minute
+abstain from taking nonprescription medications, nutritional and blood pressure, as well as globally via adverse event capture
+
+supplements, or herbal supplements except when approved by from Days 1 (baseline) through 64 (end of treatment). Blood
+
+the study team. Similarly, they agreed to abstain from alcoholic pressure greater than 200 systolic or greater than 110 diastolic
+
+beverages and psychoactive drugs 24h before and after each for more than 15 min was considered to be an adverse event. For
+dosing session, and sildenafil within 72 h before or after dosing heart rate, our goal was to maintain a target heart rate within
+days. On the day of drug administration, participants were 20% of baseline. An elevated heart rate was considered clinically
+
+asked to eat a low-fat breakfast before reporting to the significant if it was accompanied by cardiovascular symptoms
+laboratory. Upon arrival, participants provided urine samples to and an increase in blood pressure (exceeding 20% of baseline)
+
+test for exclusionary drugs and pregnancy and completed breath that persisted for over 15 min.
+alcohol and COVID-19 tests. Study therapists also underwent
+COVID-19 testing on dosing days. If all tests were negative, 2.5.2 Secondary outcomes
+participants met with the study team for a brief interview to 2.5.2.1 Aggregate worst pain score change
+discuss if the session was contraindicated. After review of their We assessed participants’ worst pain intensity daily using a 0-10
+vital signs and clearance from the study physician, participants (0=no pain, 10=worst pain imaginable) numeric rating scale
+then proceeded to a comfortable dosing suite with the same via a daily Qualtrics survey. We compared the average of pain
+therapists that were present during preparatory sessions. The scores from Days 1 to 7 (prior to preparation therapy) to the
+dosing suite included a living room-like space with a couch for average of pain scores from the 7-day window (Days 57-63)
+the participant and two armchairs for the therapists as well as immediately prior to the end of treatment visit (Day 64).
+an adjacent bedroom where the participants could lie down if
+they preferred and a bathroom. During these sessions, 2.5.2.2 Pain interference
+participants were instructed to lie on the couch or bed, wear Pain interference is the degree to which pain affects important aspects
+eyeshades, and listen to music through headphones or a of an individual's life, such as social, cognitive, and physical activities.
+headband, all of which are meant to enhance and encourage We assessed pain interference using the 4-item PROMIS pain
+internal attention and reflection. The same playlist, created by interference scale from the PROMIS-29+2 Profile v2.1 (PROPr)
+researchers at The Ohio State University, was used for every (46, 47). This uses a 5-point Likert scale to generate raw scores. We
+dosing session. Vitals (i.e., heart rate and blood pressure) were then used the HealthMeasures Scoring Service to generate
+intermittently monitored throughout the 8-hour dosing sessions standardized T-scores, which range from 0 to 100 (mean= 50,
+(30, 60, 90, 120, 180, 240, 300, and 360 min after which represents the general population mean, standard
+administration). During the same period as the vital signs deviation = 10). Higher scores indicate worse pain interference.
+measurements, therapists also completed a monitor rating form,
+which included questions about the presence/intensity of 2.5.2.3 Sleep disturbance
+behaviors, signs, and reported symptoms, such as peacefulness, Sleep disturbance includes subjective assessment of sleep quality,
+yawning, nausea/vomiting, quantity of speech, anxiety, perceived ability to fall and stay asleep, satisfaction of sleep, and
+
+
+Frontiers in Pain Research frontiersin.org
+
+[PAGE 005]
+
+Aday et al. 10,3389/fpain.2025.1527783
+
+
+depth of sleep. We assessed sleep disturbance using the PROMIS summaries of how each participant experienced psilocybin dosing
+Sleep Disturbance Short Form 8b. Scoring was performed the sessions, drawing directly from the content of their narratives.
+same way as for pain interference, with standardized t-scores
+ranging from 0 to 100 (mean =50, which represents the general
+population mean, standard deviation = 10). Higher scores indicate 2.6 Statistical analysis
+worse sleep disturbance.
+
+We present descriptive statistics for primary and secondary
+2.5.2.4 Chronic pain acceptance
+outcomes. We present measures of effect sizes (baseline vs. end
+The Chronic Pain Acceptance Questionnaire (8 item version) is a
+of treatment) as Cohen's d with 95% confidence intervals for
+validated measure that assesses activity engagement and pain
+secondary outcomes (sleep disturbance, chronic pain acceptance,
+willingness, e.g., recognizing that trying to avoid or control pain
+pain severity, pain interference) and exploratory outcomes
+may be maladaptive for chronic pain (48). Participants rate items
+(physical function, anxiety, depression, fatigue, cognitive
+on a 0-6 scale, with 0 being “never true” and 6 being “always
+abilities). For the Patient Global Impression of Change, we
+true”. Higher scores indicate higher acceptance of chronic pain.
+present the participant ratings at the end of treatment. Results
+
+2.5.2.5 Patient global impression of change (PGIC) are presented for each individual participant as well for
+
+We assessed participant impressions of how PAT affected their participants in aggregate. Two researchers (SA & KEB)
+
+global functioning using the PGIC, a one-item questionnaire that individually reviewed participants’ written narratives of the
+
+uses a 7-point Likert scale ranging from 1 (“very much dosing sessions and each generated a list of prominent themes
+
+improved”) to 7 (“very much worse”) (49-51). and quotes. They then compared thematic categories and
+generated a combined set of themes for each dosing session.
+
+2.5.3 Exploratory outcomes These themes and quotes were distilled into brief narratives for
+
+2.5.3.1 Challenging experiences questionnaire each participant included below.
+
+The Challenging Experiences Questionnaire (CEQ)is a 26-item selfreport survey that was used to assess the extent to which
+participants endorsed having psychologically challenging 3 esults
+experiences during their dosing sessions (52). The survey
+Overall, 368 individuals expressed interest in the study, 265 were
+includes seven factors: grief, fear, death, insanity, isolation,
+pre-screened, 54 were eligible for screening, 17 were brought in for
+physical distress, and paranoia.
+screening, and 7 were eligible for participation (Figure 2). Two
+
+2.5.3.2 Mystical experiences questionnaire participants were withdrawn by the study team after consenting
+
+The Mystical Experiences Questionnaire (MEQ30) is a 30-item given concerns about ability to follow through with study
+
+questionnaire that is commonly used to index mystical-type procedures (n = 1) and concern about their ability to build rapport
+
+experiences (ie., experiences characterized by a sense of with study therapists (n= 1). Our original recruitment target was
+
+transcendence of time and space, unity, ineffability, and deep n=10 individuals, but we stopped recruitment early due to
+
+meaning) induced with psychedelics and other altered states of challenges with recruitment, concerns about the generalizability of
+
+consciousness (53). The survey includes four facets: “mystical”, our results given the stringent exclusion criteria, and that
+
+“positive mood”,
+» «
+
+“transcendence”, and “ineffability”. standards for psychedelic research changed during the conduct of
+our trial following the US Food and Drug Administration's
+2.5.3.3 Other psychosocial functioning publication of guidance for psychedelic clinical trials (54). For
+We assessed anxiety, depression, fatigue, participation in social example, the more recent guidance have: (1) loosened
+activities, and cognitive abilities, using the scales from the requirements for exclusionary psychiatric conditions (e.g., bipolar
+PROMIS-29
++ 2. Scoring was conducted in the same way as for type II) (55), (2) suggested that the lead monitor during dosing
+pain interference and sleep disturbance, with standardized t-scores should not be present during follow-up psychotherapy, and (3)
+for each subscale ranging from 0 to 100 (mean=50, standard previous exclusionary medications per the FDA process are no
+deviation = 10). Higher scores indicate worse symptoms for pain longer exclusionary (e.g., selective serotonin reuptake inhibitors)
+severity, pain interference, sleep disturbance, anxiety, depression, (54). Some contemporaneous studies even allow there to be
+fatigue, and cognitive abilities. Lower scores indicate worse treatment in the absence of psychotherapy but with psychological
+symptoms for physical function and participation in social support (18).
+activities. Due to a coding error, the data on participation in social Of the n =5 participants who completed the protocol, all were
+activities was not usable so will not be reported in this manuscript. female, four identified as White/Caucasian, and one identified as
+Black/African American (Table 1).
+2.5.3.4 Narrative of dosing experiences
+At the end of each dosing session (Visits 5 and 8), study therapists
+asked participants to write a narrative describing their experience of
+3.1 Safety
+the sessions prior to their next in-person meeting. This narrative
+description was discussed in Visits 6 and 9, respectively, and used Overall, the dosing scheme in this protocol was well-tolerated, with
+as content to draw from in the integration sessions. We present no serious adverse events (Table 2). Participant 001 opted to have their
+
+
+Frontiers in Pain Research frontiersin.org
+
+[PAGE 006]
+
+Aday et al. 10.3389/fpain.2025.1527783
+
+
+Expressed interest
+n=368 | ll LLLLLL
+I I
+1 No response after contact ,
+n=103 |
+Lo |
+P= MM Mi Ki Se SE SE = = 1
+
+
+Not eligible n= 211 I
+Prescreened I 56= lost to follow up
+28 = heart disease
+n= 265 , 33 = Exclusionary medications
+I I
+1 18 = autoimmune conditions
+> 13 = Exclusionary mental health conditions I
+I 12 = No COVID vaccine i
+I 10 = Used Hallucinogens in past 6 months or I
+I >10 times in lifetime I
+I 6 = not interested I
+| 5 = pain too low or no FM diagnosis |
+| 4 = Diabetes I
+I 3 = too old |
+I 8 = Other I
+
+Eligible for screening
+n=54
+Gum E ME IM MM O ME ME IE ME ME DE ME ME DE i
+
+
+Not screenedn=37 1
+20: Changed mind or lived too far away
+I 9: Study ended before screening was possible 1
+| 8: Lost to follow up
+
+
+Screened
+n=17
+| Screen failed n = 10 I
+
+I FM score too low: 6 I
+Elevated liver enzymes: 2 I
+| Exclusionary medications: 1 I
+I Upcoming surgery: 1 |
+L_______________ I
+
+
+Enrolledn=7
+P= SS SS Swe SS SS S| = = |
+
+
+Withdrawn n = 2
+I Inability to build rapport =1
+j Inability to complete study procedures = 1
+
+
+Completed Treatment
+protocoln=5
+
+FIGURE 2
+
+CONSORT diagram.
+
+
+Frontiers in Pain Research frontiersin.org
+
+[PAGE 007]
+
+Aday et al. 10.3389/fpain.2025.1527783
+
+
+TABLE 1 Participant demographics and baseline clinical characteristics.
+
+
+Measures Participants
+
+Participant 001 Participant 002 Participant 003 Participant 004 Participant 005
+Age (years) 63 41 46 62 37
+
+Sex at birth Female Female Female Female Female
+Race Black African Amer White White White White
+Highest education achieved Bachelor's Bachelor's Advanced/ Bachelor's Advanced/Professional
+Professional
+
+Employment status Retired Full time employed Full time employed Retired Marked Unemployed—
+wrote self-employed
+
+Previous psychedelic use No No Yes No Yes
+
+Current cannabis use (confirmed by Yes No Yes Yes No
+urinalysis)
+
+Clinical symptoms
+Pain severity 5.9 4.0 5.4 5.4 3.7
+
+Chronic pain acceptance 31.0 31.0 25.0 32.0 23.0
+
+Sleep disturbance 58.3 55.3 62.6 58.3 56.3
+
+Pain interference 66.6 57.1 63.8 63.8 61.2
+
+Physical function 36.7 48.3 40.5 40.5 41.9
+
+Anxiety 51.2 55.8 55.8 48.0 55.8
+Depression 41.0 41.0 51.8 41.0 53.9
+
+Fatigue 58.8 53.1 64.6 64.6 62.7
+
+Cognitive abilities 44.3 50.5 44.3 44.3 44.3
+
+FM survey score 17.0 11.0 19.0 14.0 12.0
+
+
+Pain severity: 0-10 numeric rating scale. Sleep disturbance, pain interference, physical function, anxiety, depression, fatigue, cognitive abilities, and participation in social activities are reported
+as T-scores, with 50 being the general population mean. Most participants had substantially worse sleep, pain interference, physical function, fatigue, cognitive abilities, and participation in
+social activities than the population mean.
+
+
+second dose be 15 mg rather than 25 mg, with their rationale being two reported slight decreases in chronic pain acceptance. On
+that they thought the 15 mg dose was sufficient and they wanted to average, there was a 2.3+1.3 point decrease in pain severity
+experience it again. AEs related to the study treatment occurred on [d=-2.1, 95% CI (-3.7 to —0.49)], 7+4.2 point decrease in sleep
+or the day after dosing and were deemed minor or moderate, with disturbance [d=-2.5, 95% CI (-4.21 to —0.75)], 94+4.2 point
+the most common being headache (n= 4), diarrhea (n=2), stomach decrease in pain interference [d= —1.8, 95% CI (-3.27 to —0.24)],
+ache (n= 1), and migraine (n= 1). The headaches were of minor or and 2+2.8 point increase in chronic pain acceptance [d = 0.54, 95%
+moderate severity, and three participants took over the counter pain CI (-74-1.79)]. Via the PGIC, one participant (001) reported that
+medications (acetaminophen, celecoxib) to help relieve headaches. their symptoms were “very much improved,” two reported “much
+Headaches resolved within two days. Blood pressure and heart rate improved” (002, 004), and two reported “minimally improved”
+stayed within the pre-specified ranges during dosing and were not (003, 005). On average, FM survey scores improved by 4.2+6.1
+associated with any other cardiovascular symptoms (Figures 3, 4). points [d= —0.78, 95% CI (—2.06-0.53)].
+Results from the Challenging Experiences Questionnaire are presented For exploratory outcomes (Figure 5), four of five participants
+in Table 3. Physical distress and grief were the most commonly reported decreases in anxiety, physical function, and fatigue, and
+reported domains of challenging experiences. Results from the three reported improvements in cognitive abilities. On average,
+Mystical Experiences Questionnaire are included in Table 4. 3 out of there was a 5.4+8.8 point increase in physical function [d= 2.1,
+5 participants had a “complete” mystical experience (ie, >60% on 95% CI (-0.29-2.40)], 4.6+4.5 point increase in cognitive
+all facets) (53) during the first dose and 4 out of 5 participants had abilities [d=1.39, 95% CI (-0.05-2.77)], a 5.9+3.7 point
+a mystical experience during the second dose. decrease in fatigue [d=-—1.1, 95% CI (-2.46-0.25)], and a
+5.6+4.1 point decrease in anxiety [d=-1.4, 95% CI (-2.75-
+0.06)]. There were no substantial changes in depression scores
+3.2 Preliminary effectiveness [d =0.03, 95% CI (-1.27-1.21)].
+
+Some participants reported clinically significant improvements
+across numerous symptom domains. Figure 5 shows changes by 3.3 Qualitative narratives
+individual as well as on average for each symptom domain. For
+secondary outcomes, three of five participants reported >2 point Participant 001 reported strong feelings of connectedness with
+decrease in pain severity, four reported >4 point decreases in pain her family as well as dreamlike experiences during the first dosing
+interference, and 4 reported >6 point decreases in sleep disturbance. session (15 mg) that included “time travel to ancient Egypt.” She
+Three participants reported enhanced chronic pain acceptance while also practiced yoga during this dosing session. During the second
+
+
+Frontiers in Pain Research 07 frontiersin.org
+
+[PAGE 008]
+
+Aday et al. 10.3389/fpain.2025.1527783
+
+
+TABLE 2 Adverse events prior, during, and after dosing.
+
+
+Adverse events Study visit
+
+V2-V4 (preparation) V5-V9 (administration) V10-V13 (integration)
+Adverse event (AE)* 5 11 8
+
+Related AE? 0 (5) 4 (5) 0 (5)
+Serious AE 0 (5) 0 (5) 0 (5)
+
+AE severity for related
+Mild 0 (5) 4 (5) 0 (5)
+Moderate 0 (5) 1 (5) 0 (5)
+Severe 0 (5) 0 (5) 0 (5)
+
+AE type
+Headache 1 (5) 4 (5) 0 (5)
+
+Diarrhea 0 (5) 2 (5) 1 (5)
+Stomach ache 0 (5) 1 (5) 0 (5)
+
+Migraine 0 (5) 1 (5) 0 (5)
+Leg throbbing 0 (5) 0 (5) 1 (5)
+
+Back ache 1 (5) 1 (5) 0 (5)
+
+Jaw pain 1 (5) 1 (5) 0 (5)
+
+Fatigue 1 (5) 0 (5) 0 (5)
+Sore throat 0 (5) 0 (5) 1 (5)
+
+Sinus pressure 0 (5) 0 (5) 1 (5)
+
+Vomiting 0 (5) 0 (5) 1 (5)
+Fever 0 (5) 0 (5) 1 (5)
+
+Chills 0 (5) 0 (5) 1 (5)
+Body aches 0 (5) 0 (5) 1 (5)
+
+Tight L side of neck 1 (5) 1 (5) 0 (5)
+
+Medication taken for related AE 0 (5) 3 (5) 0 (5)
+
+AE, adverse event.
+“Participants are counted once for each category regardless of the number of events.
+PRelated AE: An AE was classified as “related” if there was a reasonable possibility that the study drug or procedure caused the event. Severity and relationship to study drug or procedure were
+determined by the Principal Investigator. Participant 001 repeated the 15 mg dose at 2nd dosing session. All other participants had the 15 mg followed by the 25 mg dose.
+
+
+Heart Rate for 6 hours after dosing (Doses 1 and 2)
+
+120
+
+cd FE ns
+
+
+100 Be
+
+o
+5
+A=
+o 80
+a
+
+2
+8
+ca
+
+
+60
+
+
+40
+30 60 90 120 180 240 300 360
+Time after dosing (min)
+
+
+——— 001 D1 —— 002D1 — 003D1 ———004D1 —— 005 D1 == Average D1
+
+--- 001D2 --- 002D2 --- 003D2 --- 004D2 --- 005D2 = = Average D2
+
+
+Figure 3. Heart rate in beats per minute after dosing. D1: Dose1 (15mg). D2: Dose 2 (25mg). 001
+D2 was 15mg rather than 25mg per request of the participant.
+
+
+FIGURE 3
+
+Heart rate in beats per minute after dosing. D1: Dose 1 (15 mg). D2: Dose 2 (25 mg). 001 D2 was 15 mg rather than 25 mg per request of the participant.
+
+
+Frontiers in Pain Research 08 frontiersin.org
+
+[PAGE 009]
+
+Aday et al. 10.3389/fpain.2025.1527783
+
+
+Systolic blood pressure for 6 hours after dosing (Doses 1 and 2) Diastolic blood pressure for 6 hours after dosing (Doses 1 and 2)
+200 100
+
+180 90
+
+
+160 80
+
+g 140
+g 70
+E E
+120 60
+
+
+100 50
+
+
+80 40
+30 60 90 120 180 240 300 360 30 60 90 120 180 240 300 360
+Time after dosing (min) Time after dosing (min)
+
+—001D1 ——002D1 ——003D1 ——004D1 ——001D1 ——002D1 ——003D1 ——004D1
+——005D1 ——AverageD1--- 001D2 --- 002D2 ——005D1 ——AverageD1--- 001D2 --- 002D2
+
+---003D2 ---004D2 --- 005D2 — —AverageD2 ---003D2 ---004D2 --- 005D2 — —AverageD2
+
+
+FIGURE 4
+
+Systolic and diastolic blood pressure after doses 1 and 2. D1: Dose 1 (15 mg). D2: Dose 2 (25 mg). If a participant had blood pressure >200 systolic or
+>110 diastolic for >15 min, they would be transferred to the emergency department.
+
+
+TABLE 3 Challenging experiences questionnaire (%).
+
+
+Pa Da ea e P a a Olatio Dea Paranola Q tota
+O o
+
+
+Dose Dose Dose DO Dose Dose Dose Dose
+dose dose dose dose dose dose dose dose
+
+001 0%, 0% 50%, 27% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 12%, 6%
+002 20%, 20% 17%, 13% 88%, 76% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 25%, 22%
+003 0%, 16% 60%, 37% 20%, 48% 0%, 20% 47%, 20% 0%, 80% 30%, 0% 25%, 32%
+004 0%, 12% 0%, 47% 64%, 60% 0%, 0% 0%, 40% 0%, 0% 0%, 0% 12%, 29%
+005 12%, 0% 0%, 0% 28%, 16% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 8%, 18%
+
+Participant 001 received 15 mg at both dosing sessions.
+
+
+TABLE 4 Mystical experiences questionnaire (%).
+
+
+Dose a pa > O = OOd ende eftab ota ete perle =
+001 96% 86% 64% 89% 84% Yes
+002 33% 44% 53% 33% 41% No
+003 61% 64% 64% 61% 63% Yes
+004 76% 89% 94% 89% 87% Yes
+
+005 51% 61% 47% 67% 57% No
+
+Dose 2
+001 94% 78% 78% 89% 85% Yes
+
+002 26% 50% 42% 50% 42% No
+003 83% 78% 81% 78% 80% Yes
+
+004 68% 83% 97% 83% 83% Yes
+005 89% 78% 72% 83% 81% Yes
+
+Participant 001 received 15 mg at both dosing sessions.
+
+
+dosing session (also 15 mg), this sense of connectedness extended In contrast to 001, Participant 002 did not have a pleasant
+to messaging with a forest and stars, with the forest saying, experience for either dose, and was “disappointed it was not a
+“Were in trouble. Humans are destroying us. We are all more enjoyable time”. She “felt almost as if I was not a good
+connected.” and the stars pointing to the “origin of original participant simply for having to use the bathroom” or removing
+injury,” which was a car accident when the participant was 13 headphones and the eyemask, tying into a realization that she
+years old. Following this, the participant noted that these had high expectations of herself and others that were not often
+interactions gave her insight on how to “repair” her body so she met. Participant 002 also reported moderate pain during both
+“started moving & doing yoga.” sessions, including back pain during the first dosing sessions and
+
+
+Frontiers in Pain Research 09 frontiersin.org
+
+[PAGE 010]
+
+Aday et al. 10.3389/fpain.2025.1527783
+
+
+| 5 la
+35
+
+
+30
+
+
+50
+25
+
+o
+20
+
+wo o
+T-Score Score
+15
+
+wm o
+
+10
+
+= o
+
+
+0
+Pain Sleep Physical Anxiety Depression Fatigue Cognitive 0
+Interference disturbance function ability Pain Severity (0-10) CPAQ (0-48) FM Score (0-31)
+
+PROMIS 29+2 domain Measure
+
+
+MPRE @POST MPRE MPOST
+
+
+FIGURE 5
+
+CPAQ: chronic pain acceptance questionnaire. Pain Severity reported as change in aggregate pain score from the 7 days prior to the intervention to
+the end of the intervention. Sleep disturbance, pain interference, physical function, anxiety, depression, fatigue, participation in social activities, and
+cognitive abilities are all reported as T-scores per PROMIS scoring. Negative change scores indicate improvement for pain severity, pain interference,
+sleep disturbance, FM score, anxiety, depression, and fatigue. Positive change scores indicate improvement for CPAQ, physical function, participation
+in social activities, and cognitive abilities.
+
+
+that she “felt muscle spasms and parts of my body throb” during suited her, noting “trauma has a negative connotation but for
+the second. Despite these negative experiences, she noted that the me it’s been useful and even beautiful”. She also “acquired...
+“medicine had numbed me” so the pain felt more manageable the skill of “toughness , reflecting that “I hold it, I have
+»»
+
+
+than it otherwise did. Although she experienced “no grand used it well” despite not wanting to have acquired it in the
+visions or revelations” and a headache like the “worst hangover” first place.
+after the session, she believed “the medicine does help so its [sic] Participant 005 began by noting that “I had little expectations
+worth a day of being uncomfortable”. of what would come from this as far as long-term progress
+The first dosing session for Participant 003 began with “slight reduction of pain [sic]”. Their first dosing session was
+
+
+visual distortions” and reflections on “lost loved ones, lost family characterized by increased mental imagery, mindfulness (i.e.,
+members, things, places, people I don't think of often.” Early in present moment awareness), and a sense of creativity. The
+the session, the participant was “surprised I’ve no pain to report” participant was particularly engaged with the visual effects of the
+but experienced sweating throughout much of the day. At the drug, often finding symbolism and beauty in their visions. They
+end of session, she reported to be “awake, present, tired, limited reported a lack of focus the day after dosing, feeling sadness and
+pain, but altogether in a good place.” Themes of connection and rejection “around certain issues”, and also sadness because she
+a focus on loved ones continued in the second dosing session. did not feel like doing the write-up and was worried it would
+The participant noted “I met my grandparents and great aunt not be good enough. The participant’s second dosing session
+again and gained such a sense of pride and love, I felt my included a strong focus on introspection and connection to
+grandmother’s touch, as clear as can be.” This second dosing family, ancestors, and nature. They reported insights on familial
+session had stronger visual components, including visiting a relationships and on how to let her pain go and cope. They
+“shark habitat,” traveling “back to the caves, tunnels, and trees,” came to the conclusion that much of their pain stemmed from
+and a brief encounter with an “Asian red dragon” while “in the ancestral trauma and that it “felt really good knowing the pain is
+sky.” Another prominent theme seemed to be a generalized sense not mine. It’s my ancestors but they’re [sic] there’s something
+of gratitude: “Gratitude keeps surfacing—grateful for the journey, that I can do about it for me and them.”
+the time and space to rest, even gratitude for this often
+challenging body, since it means I’m still alive.”
+Participant 004 noted powerful imagery in the first experience
+4 Discussion
+that involved moving spatially between different locations, such
+as moving from a lake into a forest, being “lifted to the sky to This open-label investigation of PAT for fibromyalgia
+dance”, and then being in a cave where she could see the demonstrated that PAT was well-tolerated, with no serious
+Northern Lights through a crevice. She was “physically adverse events associated with the study treatment. Mild and
+comfortable” and was able to “push the music down my body moderate AEs, such as headaches or diarrhea on the day of or
+to relieve the pain”. By the end of the experience, she was after dosing, resolved shortly thereafter. There were no persistent
+“warm, cozy and almost pain free”. The second experience also psychological AEs by the end of treatment. Most participants
+involved spatial movement between locations, such as moving also reported improvements in pain severity, pain interference,
+from a hammock on a porch, to sitting at a kitchen table with and sleep disturbance, with small improvements in chronic pain
+family, then moving to a temple. Her reflections touched on acceptance in three participants and a decrease in chronic pain
+constructing a narrative around her challenges in a way that acceptance in two. The improvements in secondary outcomes of
+
+
+Frontiers in Pain Research frontiersin.org
+
+[PAGE 011]
+
+Aday et al. 10,3389/fpain.2025.1527783
+
+
+pain severity, pain interference, sleep disturbance, and PGIC all broadly. Although rarely reported in clinical trials, experiences of
+align with what are considered clinically meaningful changes for connecting with ancestors have been anecdotally noted in the
+these domains (51, 56-58). psychedelic community (6%) and are common in indigenous
+Although there have been limited clinical trials of PAT for psychedelic ceremonies. In a trial of PAT for alcohol
+chronic pain conditions, our findings align with other dependence, one participant had struggled with alcohol use since
+preliminary work supporting analgesic effects of psilocybin. For her mother’s death approximately two decades prior (70). During
+instance, a small exploratory study in n=16 participants with the dosing session, she “reported to her guides that she saw her
+cluster headaches found that cluster attack frequency was deceased mother present in the room with her standing to her
+significantly reduced in the three weeks following administration left.” Such experiences could potentially be opportunities to
+of psilocybin compared with placebo (d= 0.69) (30). Similarly, a process previous traumas and estranged relationships, but further
+proof-of-concept, double blinded, randomized, placebo controlled research is needed to delineate the nuances and ethics of such
+trial of migraine (n= 10) reported that the reduction in weekly work. Many participants also remarked on a generalized sense of
+migraine days from baseline was significantly greater after increased gratitude during their dosing sessions, which is
+psilocybin than placebo (32). Lastly, a small open-label clinical consistent with previous research noting enduring increases in
+trial in chronic cluster headache (n = 10) reported a 31% decrease the subjective emotion of gratitude following psychedelic
+in attack frequency from baseline-to follow-up 4 weeks after experiences (64, 71, 72). Finally, many of these themes align with
+dosing was completed (31). Our findings also align with results a qualitative study of people who had self-medicated with
+from naturalistic studies of people using psilocybin for chronic psychedelics, which found that reported pain scores improved
+acutely and after taking psychedelics, with positive reframing and
+using psilocybin and other psychedelics for a range of chronic somatic presence playing important roles in improvement (35).
+pain conditions often report decreased pain symptoms following
+psychedelic use, and that in some cases psychedelics are more
+effective than their other pain medications (34, 60). 4.1 Limitations
+In addition to improvements in pain symptoms, participants
+also reported positive changes in mood, social cognition, sleep, Although promising, these findings are limited by a number of
+and global functioning. These findings complement findings important factors which must be addressed with future research.
+from the past decade indicating transdiagnostic potential of PAT First, our study design did not use a model of PAT that was
+for a variety of clinical conditions (61) as well as broad clinically translational given the large time commitment
+improvements in wellbeing observed when psychedelics are associated with therapy (e.g., two therapists present during
+studied in healthy adults (62). For example, numerous studies dosing), so our safety results may not translate to larger studies
+have noted robust decreases in depression (18, 43) and anxiety with less psychotherapeutic support or clinical settings. Second,
+following PAT (63). Although most participants in the current our results are limited by a small sample size that likely does not
+study reported decreases in anxiety, only one had a decrease in generalize to typical clinical populations of fibromyalgia given the
+depression. This could possibly be driven by floor effects, given rigorous screening process that excluded a very high proportion
+that the sample had below average depression scores at baseline of individuals who were seeking this therapy. The small sample
+because we excluded participants with severe depression. Similar size also means that the findings should be considered as highly
+to the current study, improvements in sleep have been observed preliminary. Third, we had no control group and did not blind
+in studies with psilocybin (64) and other psychedelics (65). study participants or study staff to the treatments administered,
+Lastly, all participants reported at least some improvements in which may have affected outcomes given the strong societal
+global functioning (e.g., one reported “very much improved”, two narratives around positive treatment outcomes associated with
+reported “much improved”, and two reported “minimally PAT (73). Lastly, further research is needed to validate and
+improved”). In summary, our preliminary findings motivate explore the role of psychotherapy in the safety and potential
+future research into the effects of PAT on the multimodal efficacy of this treatment (74). The preliminary findings from
+underpinnings of FM, including pain, mood, and sleep. our small, unblinded study will soon be added to by three
+There were also numerous themes that emerged from other ongoing clinical trials of PAT for FM being conducted
+participants’ reports of the dosing sessions that are consistent elsewhere (lable 5).
+with those reported in previous research. First, most participants
+reported experiencing dreamlike states and vivid mental imagery
+that at times were considered to be highly symbolic and 4.2 Conclusions
+meaningful. This aligns with the well-established perceptual
+effects of the drugs (66) as well as recent findings that the visual In this small, open-label clinical trial, we show that PAT was
+effects of psilocybin and other psychedelics may play a role in safe and well-tolerated among people with FM, and that
+long-term outcomes (55, 67, 68). A second theme that was individuals generally reported positive impacts on global
+common among participants was a sense of connection to loved symptoms and across many FM-related symptom domains. Some
+ones and ancestors, with several participants additionally participants reported clinically meaningful improvements in pain
+remarking on connections to nature and the universe more severity, pain interference, anxiety, and sleep disturbance, with
+
+
+Frontiers in Pain Research 11 frontiersin.org
+
+[PAGE 012]
+
+Aday et al. 10.3389/fpain.2025.1527783
+
+
+TABLE 5 Other clinical trials of psilocybin-assisted therapy for fibromyalgia.
+
+
+Study title Sponsor Study design Primary outcome
+Psilocybin in patients with fibromyalgia: | Imperial College Mechanistic, within-subjects design. 2 doses of up to 20 | 1. Lempel-Ziv complexity
+EEG-measured brain biomarkers of London 25 mg psilocybin with psychotherapeutic support 2. The brief experiential
+action avoidance questionnaire
+NCT05548075
+
+Psilocybin-facilitated treatment for University of Parallel group design, double-blind, placebo controlled. | 30 | 1. Change in daily self-reported pain
+chronic pain Alabama at 0.36 mg psilocybin/kg body weight (active) severity (0-100 visual analog scale)
+NCT05068791 Birmingham 2.5 mg dextromethorphan/kg body weight (placebo)
+
+The impact of psilocybin on pain in Maastricht University | Double-blind, randomized, placebo-controlled. All 35 | 1. Ischemic pain perception
+fibromyalgia patients (PsiloFM) participants receive doses of placebo, 5 mg psilocybin, 2. Pressure-evoked pain perception
+NCT06368492 10 mg psilocybin 3. Self-reported pain (0-10 visual analog
+scale)
+
+
+small improvements in chronic pain acceptance. Nonetheless, given review & editing. GM: Conceptualization, Funding acquisition,
+the study limitations, larger, controlled studies with a more Resources, Supervision, Writing - review & editing. DJC:
+clinically translational design are necessary to understand Conceptualization, Resources, Supervision, Writing - review 8
+whether this therapy is safe and effective in the treatment of FM. editing. KB: Conceptualization, Funding acquisition,
+Investigation, Methodology, Project administration, Resources,
+Supervision, Writing - review & editing, Writing - original draft.
+
+Data availability statement
+
+The datasets presented in this article are not readily available Funding
+because of the personalized and sensitive nature of the collected
+data. Requests to access the datasets should be directed to The author(s) declare that financial support was received for
+kboehnke@umich.edu. the research and/or publication of this article. This project was
+supported by funds from Tryp Therapeutics, the Michigan
+Psychedelic Center, and Department of Anesthesiology of the
+Ethics statement University of Michigan Medical School. Tryp Therapeutics
+provided partial funding but were not involved in protocol
+The studies involving humans were approved by University of development, study conduct, data analysis or
+Michigan Institutional Review Board. The studies were conducted manuscript preparation.
+
+in accordance with the local legislation and institutional
+requirements. The participants provided their written informed
+consent to participate in this study. Acknowledgments
+
+We thank Anne Arewasikporn, PhD, and Poonam Purohit,
+Author contributions BDS, MBA, for their assistance with data management. We are
+grateful to Graciela Mentz, PhD, Elizabeth Jewell, and Ruth
+
+JA: Data curation, Investigation, Project administration, Cassidy for their valuable input on study design.
+
+Writing - original draft, Writing - review € editing. JM: Data
+curation, Project administration, Writing - review & editing.
+DAC: Data curation, Project administration, Writing - review & Conflict of interest
+editing. AH: Conceptualization, Data curation, Project
+administration, Writing - review € editing. VT: Data curation, JSA’s effort on this publication was partially supported by the
+Project administration, Writing - review & editing. CW: Data National Institute of Arthritis and Musculoskeletal and Skin
+curation, Project administration, Writing - review & editing. KS: Diseases of the National Institutes of Health under
+Project administration, Writing - review & editing. DH: Data T32AR007080-44S1. JSA has received speaking fees for lectures
+curation, Project administration, Writing - review & editing. at The Women’s Center of Southeastern Michigan, Massachusetts
+JaG: Data curation, Project administration, Writing - review & General Hospital, and Bicycle Day SF. KFB has received grant
+editing. SH: Supervision, Writing - review & editing. NP: Data funding from the National Institute on Drug Abuse and the
+curation, Methodology, Project administration, Writing - review National Institutes of Arthritis, Musculoskeletal, and Skin
+& editing. NG: Investigation, Writing - review & editing. AB: Diseases of the National Institutes of Health, as well as from the
+Investigation, Writing - review & editing. JeG: Supervision, State of Michigan Veteran Marijuana Research Program. KFB
+Writing - review € editing. AD: Supervision, Writing - review € has received speaking fees for lectures from the Medical
+editing. HB: Investigation, Resources, Supervision, Writing - Cannabis Research Advocacy Alliance, Provide Holy Cross
+
+
+Frontiers in Pain Research 12 frontiersin.org
+
+[PAGE 013]
+
+Aday et al. 10,3389/fpain.2025.1527783
+
+
+Medical Center, the Southern Pain Society, and the Michigan Clerk Law LLP, Pfizer Inc, Nix Patterson LLP, Zuber Lawler 8
+Center of Clinical Systems Improvement. KFB received an Del Duca LLP as well as Kellogg, Hansen, Todd, Figel &
+honorarium for developing a podcast on fibromyalgia with Frederick PLLC. HB serves on the scientific advisory board for
+Viatris Inc. JRG is a consultant and teacher with Fluence, Natrol, LLC.
+International and receives no grant funding. AD is supported by The remaining authors declare that the research was conducted
+the Johns Hopkins Center for Psychedelic and Consciousness in the absence of any commercial or financial relationships that
+Research, funded by private philanthropic funding from Tim could be construed as a potential conflict of interest.
+Ferriss, Matt Mullenweg, Craig Nerenberg, Blake Mycoskie, and
+the Steven and Alexandra Cohen Foundation. AD is also
+supported by the Center for Psychedelic Drug Research and Generative Al statement
+Education, funded by anonymous private donors, and the
+Comprehensive Cancer Center at Ohio State University. AD is The author(s) declare that no Generative AI was used in the
+also a board member at Source Research Foundation. AH is a creation of this manuscript.
+sub investigator in a COMPASS pathways Psilocybin research
+study ongoing at the University of Michigan. VT serves as the
+site Principal Investigator at the University of Michigan for a Publisher's note
+project supported by funding from Takeda Development Center
+Americas, Inc. SEH is supported by grants from NIH and Arbor All claims expressed in this article are solely those of the
+Medical Innovations, is a member of Arbor Medical Innovations, authors and do not necessarily represent those of their affiliated
+and consults for Memorial Sloan Kettering Cancer Center, Dana organizations, or those of the publisher, the editors and the
+Farber Cancer Institute, Indiana University, and Wayne State reviewers. Any product that may be evaluated in this article, or
+University. The content is solely the responsibility of the authors claim that may be made by its manufacturer, is not guaranteed
+and does not necessarily represent the official views of the or endorsed by the publisher.
+National Institutes of Health. DC has received consulting fees
+from AbbVie Inc, Heron Therapeutics Inc, Aptinyx Inc,
+Neumentum Inc, Regeneron Pharmaceuticals Inc, Swing Supplementary material
+Therapeutics Inc, Virios Inc, Allergan Sales LLC, Eli Lily and
+Company, H. Lundbeck A/S, Pfizer Inc, Samumed LLC, and The Supplementary Material for this article can be found
+Tonix Pharmaceuticals Inc. DC has received payment for expert online at: https://www.frontiersin.org/articles/10.3389/fpain.2025.
+testimony from Fasken Martinueau DuMoulin LLP, Marks & 1527783/full#supplementary-material
+
+
+eferences
+
+1. D'Onghia M, Ciaffi J, Ruscitti P, Cipriani P, Giacomelli R, Ablin JN, et al. The 10. Holze F, Avedisian I, Varghese N, Eckert A, Liechti ME. Role of the 5-HT2A
+economic burden of fibromyalgia: a systematic literature review. Semin Arthritis receptor in acute effects of LSD on empathy and circulating oxytocin. Front
+Rheum. (2022) 56:152060. doi: 10.1016/j.semarthrit.2022.152060 Pharmacol. (2021) 12:711255. doi: 10.3389/fphar.2021.711255
+
+2. Kaplan CM, Kelleher E, Irani A, Schrepf A, Clauw DJ, Harte SE. Deciphering 11. Mertens LJ, Wall MB, Roseman L, Demetriou L, Nutt DJ, Carhart-Harris RL.
+nociplastic pain: clinical features, risk factors and potential mechanisms. Nat Rev Therapeutic mechanisms of psilocybin: changes in amygdala and prefrontal
+Neurol. (2024) 20:1-17. doi: 10.1038/s41582-024-00966-8 functional connectivity during emotional processing after psilocybin for treatment-
+resistant depression. J Psychopharmacol. (2020) 34(2):167-80. doi: 10.1177/
+3. Clauw DJ. Fibromyalgia: a clinical review. JAMA. (2014) 311(15):1547-55. doi: 10.
+0269881119895520
+1001/jama.2014.3266
+12. Carhart-Harris RL, Roseman L, Bolstridge M, Demetriou L, Pannekoek JN, Wall
+4. Harte SE, Harris RE, Clauw DJ. The neurobiology of central sensitization. J] Appl
+MB, et al. Psilocybin for treatment-resistant depression: fMRI-measured brain
+Biobehav Res. (2018) 23(2):e12137. doi: 10.1111/jabr.12137
+mechanisms. Sci Rep. (2017) 7(1):13187. doi: 10.1038/s41598-017-13282-7
+5, Hassett AL, Gevirtz RN. Nonpharmacologic treatment for fibromyalgia: patient
+13. Close JB, Hajien EC, Watts R, Roseman L, Carhart-Harris RL. Psychedelics and
+education, cognitive-behavioral therapy, relaxation techniques, and complementary
+psychological flexibility - results of a prospective web-survey using the acceptance and
+and alternative medicine. Rheum Dis Clin North Am. (2009) 35(2):393-407. doi: 10.
+action questionnaire II. J Contextual Behav Sci. (2020) 16:37-44. doi: 10.1016/j.jcbs.
+1016/j.rdc.2009.05.003
+2020.01.005
+6. Mascarenhas RO, Souza MB, Oliveira MX, Lacerda AC, Mendonca VA,
+14. Doss MK, Povazan M, Rosenberg MD, Sepeda ND, Davis AK, Finan PH, et al.
+Henschke N, et al. Association of therapies with reduced pain and improved quality of
+Psilocybin therapy increases cognitive and neural flexibility in patients with major
+life in patients with fibromyalgia: a systematic review and meta-analysis. JAMA Intern
+depressive disorder. Trans! Psychiatry. (2021) 11(1):1-10. doi: 10.1038/s41398-020Med. (2021) 181(1):104-12. doi: 10.1001/jamainternmed.2020.5651
+01158-w
+7. Theoharides TC, Tsilioni I, Arbetman L, Panagiotidou S, Stewart JM, Gleason
+RM, et al. Fibromyalgia syndrome in need of effective treatments. J Pharmacol Exp 15. Aday JS, Bloesch EK, Davoli CC. Can psychedelic drugs attenuate age-related
+
+Ther. (2015) 355(2):255-63. doi: 10.1124/jpet.115.227298 changes in cognition and affect? J Cogn Enhanc. (2019) 4:219-27. doi: 10.1007/
+s41465-019-00151-6
+8. Bornemann J, Close JB, Ahmad K, Barba T, Godfrey K, Macdonald L, et al.
+Study protocol for “psilocybin in patients with fibromyalgia: brain biomarkers 16. Davis AK, Barrett FS, So S, Gukasyan N, Swift TC, Griffiths RR. Development of
+of action”. Front Psychiatry. (2024) 15:1320780. doi: 10.3389/fpsyt.2024. the psychological insight questionnaire among a sample of people who have consumed
+1320780 psilocybin or LSD. J Psychopharmacol. (2021) 35(4):437-46. doi: 10.1177/
+026988 1120967878
+9. Aday JS, Mitzkovitz CM, Bloesch EK, Davoli CC, Davis AK. Long-term effects of
+psychedelic drugs: a systematic review. Neurosci Biobehav Rev. (2020) 113:179-89. 17, Peill JM, Trinci KE, Kettner H, Mertens LJ, Roseman L, Timmermann C, et al.
+doi: 10,1016/j.neubiorev.2020.03.017 Validation of the psychological insight scale: a new scale to assess psychological insight
+
+
+Frontiers in Pain Research frontiersin.org
+
+[PAGE 014]
+
+Aday et al. 10,3389/fpain.2025.1527783
+
+
+following a psychedelic experience. J Psychopharmacol. (2022) 36(1):31-45. doi: 10. 39. Kroenke K, Spitzer RL, Williams JBW, Lówe B. The patient health questionnaire
+1177/026988 11211066709 somatic, anxiety, and depressive symptom scales: a systematic review. Gen Hosp
+Psychiatry. (2010) 32(4):345-59. doi: 10.1016/j.genhosppsych.2010.03.006
+18. Goodwin GM, Aaronson ST, Alvarez O, Arden PC, Baker A, Bennett JC, et al.
+Single-dose psilocybin for a treatment-resistant episode of Major depression. N Engl J 40. Goodwin GM, Croal M, Feifel D, Kelly JR, Marwood L, Mistry S, et al.
+Med. (2022) 387(18):1637-48. doi: 10.1056/NEJMoa2206443 Psilocybin for treatment resistant depression in patients taking a concomitant
+SSRI medication. Neuropsychopharmacology. (2023) 48(10):1492-9. doi: 10.1038/
+19. Davis AK, Barrett FS, May DG, Cosimano MP, Sepeda ND, Johnson MW, et al.
+s41386-023-01648-7
+Effects of psilocybin-assisted therapy on Major depressive disorder: a randomized
+clinical trial. JAMA Psychiatry. (2021) 78(5):481-9. doi: 10.1001/jamapsychiatry. 41. Guss J, Krause R, Sloshower J. The Yale Manual for Psilocybin-Assisted Therapy
+2020.3285 of Depression (using Acceptance and Commitment Therapy as a Therapeutic Frame).
+OSE (2020).
+20. Ross S, Bossis A, Guss J, Agin-Liebes G, Malone T, Cohen B, et al. Rapid and
+sustained symptom reduction following psilocybin treatment for anxiety and 42. Aday JS, Horton D, Fernandes-Osterhold G, O'Donovan A, Bradley ER, Rosen
+depression in patients with life-threatening cancer: a randomized controlled trial. RC, et al. Psychedelic-assisted psychotherapy: where is the psychotherapy research?
+J Psychopharmacol. (2016) 30(12):1165-80. doi: 10.1177/0269881116675512 Psychopharmacology. (2024) 241:1517-26. doi: 10.1007/500213-024-06620-x
+
+21. Griffiths RR, Johnson MW, Carducci MA, Umbricht A, Richards WA, Richards 43. Carhart-Harris RL, Bolstridge M, Rucker J, Day CMJ, Erritzoe D, Kaelen M,
+BD, et al. Psilocybin produces substantial and sustained decreases in depression and et al. Psilocybin with psychological support for treatment-resistant depression: an
+anxiety in patients with life-threatening cancer: a randomized double-blind trial. open-label feasibility study. Lancet Psychiatry. (2016) 3(7):619-27. doi: 10.1016/
+J Psychopharmacol. (2016) 30(12):1181-97. doi: 10.1177/0269881116675513 $2215-0366(16)30065-7
+
+22. Goodwin GM, Aaronson ST, Alvarez O, Atli M, Bennett JC, Croal M, et al. 44. Spriggs MJ, Giribaldi B, Lyons T, Rosas FE, Kartner LS, Buchborn T, et al. Body
+Single-dose psilocybin for a treatment-resistant episode of major depression: impact mass index (BMI) does not predict responses to psilocybin. J Psychopharmacol. (2022)
+on patient-reported depression severity, anxiety, function, and quality of life. 37:0269881 1221131994. doi: 10.1177/02698811221131994
+J Affect Disord. (2023) 327:120-7. doi: 10.1016/j.jad.2023.01.108
+45. Garcia-Romeu A, Barrett FS, Carbonaro TM, Johnson MW, Griffiths RR.
+23. Grob CS, Danforth AL, Chopra GS, Hagerty M, McKay CR, Halberstadt AL, Optimal dosing for psilocybin pharmacotherapy: considering weight-adjusted and
+
+et al. Pilot study of psilocybin treatment for anxiety in patients with advanced-stage fixed dosing approaches. J Psychopharmacol. (2021) 35:0269881121991822. doi: 10.
+cancer. Arch Gen Psychiatry. (2011) 68(1):71. doi: 10.1001/archgenpsychiatry.2010.116 1177/0269881121991822
+
+
+24. Agin-Liebes GI, Malone T, Yalch MM, Mennenga SE, Ponté KL, Guss J, et al.
+46. Hays RD, Spritzer KL, Schalet BD, Cella D. PROMIS®-29 v2.0 profile physical
+and mental health summary scores. Qual Life Res. (2018) 27(7):1885-91. doi: 10.
+Long-term follow-up of psilocybin-assisted psychotherapy for psychiatric and
+1007/s11136-018-1842-3
+existential distress in patients with life-threatening cancer. J Psychopharmacol (Oxf).
+(2020) 34:269881119897615. doi: 10.1177/0269881119897615 47. Promis. Obtain & Administer Measures: healthmeasures.net. (2024). Available
+at: https://www.healthmeasures.net/explore-measurement-systems/promis/obtain-
+25. Shelton RC, Hendricks PS. Psilocybin and palliative end-of-life care.
+administer-measures (Accessed January 15, 2025).
+J Psychopharmacol. (2016) 30(12):1207-8. doi: 10.1177/0269881116675764
+48. Fish RA, McGuire B, Hogan M, Morrison TG, Stewart I. Validation of the
+26. Moreno FA, Wiegand CB, Taitano EK, Delgado PL. Safety, tolerability, and
+chronic pain acceptance questionnaire (CPAQ) in an internet sample and
+efficacy of psilocybin in 9 patients with obsessive-compulsive disorder. J Clin
+development and preliminary validation of the CPAQ-8. Pain. (2010)
+Psychiatry. (2006) 67(11):1735-40. doi: 10.4088/JCP.v67n1110
+149(3):435-43. doi: 10.1016/j.pain.2009.12.016
+27. Johnson MW, Garcia-Romeu A, Cosimano MP, Griffiths RR. Pilot study of the
+49. Dworkin RH, Turk DC, Farrar JT, Haythornthwaite JA, Jensen MP, Katz NP,
+5-HT 2A R agonist psilocybin in the treatment of tobacco addiction.
+et al Core outcome measures for chronic pain clinical trials: IMMPACT
+J Psychopharmacol. (2014) 28(11):983-92. doi: 10.1177/0269881114548296
+recommendations. Pain. (2005) 113(1):9. doi: 10.1016/j.pain.2004.09.012
+28. Bogenschutz MP, Ross S, Bhatt S, Baron T, Forcehimes AA, Laska E, et al.
+50. Dworkin RH, Turk DC, Wyrwich KW, Beaton D, Cleeland CS, Farrar JT, et al.
+Percentage of heavy drinking days following psilocybin-assisted psychotherapy vs
+Interpreting the clinical importance of treatment outcomes in chronic pain clinical
+placebo in the treatment of adult patients with alcohol use disorder: a randomized
+trials: IMMPACT recommendations. J Pain. (2008) 9(2):105-21. doi: 10.1016/j.
+clinical trial. JAMA Psychiatry. (2022) 79(10):953-62. doi: 10.1001/jamapsychiatry.
+jpain.2007.09.005
+2022.2096
+51. Farrar JT, Young JP, LaMoreaux L, Werth JL, Poole RM. Clinical importance of
+29. Ramachandran V, Chunharas C, Marcus Z, Furnish T, Lin A. Relief from
+changes in chronic pain intensity measured on an 11-point numerical pain rating
+intractable phantom pain by combining psilocybin and mirror visual-feedback
+scale. Pain. (2001) 94(2):149-58. doi: 10.1016/S0304-3959(01)00349-9
+(MVE). Neurocase. (2018) 24(2):105-10. doi: 10.1080/13554794.2018.1468469
+52. Barrett FS, Bradstreet MP, Leoutsakos J-MS, Johnson MW, Griffiths RR. The
+30. Schindler EAD, Sewell RA, Gottschalk CH, Luddy C, Flynn LT, Zhu Y,
+challenging experience questionnaire: characterization of challenging experiences
+et al. Exploratory investigation of a patient-informed low-dose psilocybin pulse
+with psilocybin mushrooms. J Psychopharmacol. (2016) 30(12):1279-95. doi: 10.
+regimen in the suppression of cluster headache: results from a randomized,
+1177/0269881116678781
+double-blind, placebo-controlled trial. Headache. (2022) 62(10):1383-94. doi: 10.
+1111/head.14420 53. Barrett FS, Johnson MW, Griffiths RR. Validation of the revised mystical
+experience questionnaire in experimental sessions with psilocybin. J Psychopharmacol.
+31. Madsen MK, Petersen AS, Stenbeek DS, Sorensen IM, Schionning H, Fjeld T,
+(2015) 29(11):1182-90. doi: 10.1177/0269881115609019
+et al. CCH attack frequency reduction after psilocybin correlates with hypothalamic
+functional connectivity. Headache. (2024) 64(1):55-67. doi: 10.1111/head.14656 54. Us FDA. Psychedelic Drugs: Considerations for Clinical Investigations. (2023).
+
+32. Schindler EAD, Sewell RA, Gottschalk CH, Luddy C, Flynn LT, Lindsey H, et al. 55. Aaronson ST, van der Vaart A, Miller T, LaPratt J, Swartz K, Shoultz A, et al.
+Exploratory controlled study of the migraine-suppressing effects of psilocybin. Single-dose synthetic psilocybin with psychotherapy for treatment-resistant bipolar
+Neurotherapeutics. (2020) 18:534-43. doi: 10.1007/s13311-020-00962-y type II major depressive episodes: a nonrandomized open-label trial. JAMA
+Psychiatry. (2024) 81(6):555-62. doi: 10.1001/jamapsychiatry.2023.4685
+33. Kolbman N, Liu T, Guzzo P, Gilligan J, Mashour GA, Vanini G, et al.
+Intravenous psilocybin attenuates mechanical hypersensitivity in a rat model of 56. Promis. Meaningful Change for PROMIS”. healthmeasures.net.
+chronic pain. Curr Biol. (2023) 33(24):R1282-R3. doi: 10.1016/j.cub.2023.10.016
+57. Chen CX, Kroenke K, Stump TE, Kean J, Carpenter JS, Krebs EE, et al.
+34. Bonnelle V, Smith W, Mason N, Cavarra M, Kryskow P, Kuypers K, et al. Estimating minimally important differences for the PROMIS pain interference
+Analgesic potential of macrodoses and microdoses of classical psychedelics in scales: results from 3 randomized clinical trials. Pain. (2018) 159(4):775. doi: 10.
+chronic pain sufferers: a population survey. Br J Pain. (2022) 16:1-13. doi: 10.1177/ 1097/j.pain.0000000000001121
+2049463722111496
+58. Terwee CB, Peipert JD, Chapman R, Lai J-S, Terluin B, Cella D, et al. Minimal
+35. Bornemann J, Close J, Spriggs M, Carhart-Harris R, Roseman L. Self medication important change (MIC): a conceptual clarification and systematic review of MIC
+for chronic pain using classic psychedelics: a qualitative investigation to inform future estimates of PROMIS measures. Qual Life Res. (2021) 30(10):2729-54. doi: 10.1007/
+research. Front Psychiatry. (2021) 12:735427. doi: 10.3389/fpsyt.2021.735427 $11136-021-02925-y
+
+
+36. Zia FZ, Baumann MH, Belouin SJ, Dworkin RH, Ghauri MH, Hendricks PS, 59. Lyes M, Yang KH, Castellanos J, Furnish T. Microdosing psilocybin for chronic
+et al. Are psychedelic medicines the reset for chronic pain? Preliminary findings pain: a case series. Pain. (2022) 164. doi: 10.1097/j.pain.0000000000002778
+
+and research needs. Neuropharmacology. (2023) 233:109528. doi: 10.1016/j. 60. Andersson M, Persson M, Kjellgren A. Psychoactive substances as a last resort—
+neuropharm.2023.109528 a qualitative study of self-treatment of migraine and cluster headaches. Harm Reduct J.
+(2017) 14(1):1-10. doi: 10.1186/s12954-017-0186-6
+37. Glynos NG, Pierce J, Davis AK, McAfee J, Boehnke KF. Knowledge, perceptions,
+and use of psychedelics among individuals with fibromyalgia. J] Psychoact Drugs. 61. Raison CL, Sanacora G, Woolley J, Heinzerling K, Dunlop BW, Brown RT, et al.
+(2022) 0(0):1-12. doi: 10.1080/02791072.2021.2022817 Single-dose psilocybin treatment for major depressive disorder: a randomized clinical
+trial. JAMA. (2023) 330(9):843-53. doi: 10.1001/jama.2023.14530
+38. Wolfe F, Clauw DJ, Fitzcharles M-A, Goldenberg DL, Hauser W, Katz RL, et al.
+2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis 62. Griffiths R, Richards W, Johnson M, McCann U, Jesse R. Mystical-type
+Rheum. (2016) 46(3):319-29. doi: 10.1016/j.semarthrit.2016.08.012 experiences occasioned by psilocybin mediate the attribution of personal meaning
+
+
+Frontiers in Pain Research frontiersin.org
+
+[PAGE 015]
+
+Aday et al. 10,3389/fpain.2025.1527783
+
+
+and spiritual significance 14 months later. J Psychopharmacol. (2008) 22(6):621-32. 69. Rundel M. Psychedelic psychoanalysis: transformations of the self. Psychoanal
+doi: 10.1177/0269881 108094300 Dialogues. (2022) 32(5):469-83. doi: 10.1080/10481885.2022.2106139
+
+63. Holze F, Gasser P, Múller F, Strebel M, Liechti ME. LSD-assisted therapy in 70. Podrebarac SK, O'Donnell KC, Mennenga SE, Owens LT, Malone TC, Duane
+patients with anxiety: open-label prospective 12-month follow-up. Br J Psychiatry. JH, et al. Spiritual experiences in psychedelic-assisted psychotherapy: case reports of
+(2024) 225:1-9. doi: 10.1192/bjp.2024.99 communion with the divine, the departed, and saints in research using psilocybin
+for the treatment of alcohol dependence. Spiritual Clin Pract. (2021) 8(3):177-87.
+64. DellaCrosse M, Pleet M, Morton E, Ashtari A, Sakai K, Woolley J, et al. “A sense
+doi: 10.1037/scp0000242
+of the bigger picture:” A qualitative analysis of follow-up interviews with people with
+bipolar disorder who self-reported psilocybin use. PLoS One. (2022) 17(12):e0279073. 71. Aday JS, Bloesch EK, Davis AK, Domoff SE, Scherr K, Woolley JD, et al.
+doi: 10.1371/journal.pone.0279073 Effects of ayahuasca on gratitude and relationships with nature: a prospective,
+naturalistic study. J Psychoact Drugs. (2024):1-10. doi: 10.1080/02791072.2024.
+65. Sessa B, Aday JS, O’Brien S, Curran HV, Measham F, Higbed L, et al.
+2312980
+Debunking the myth of ‘blue mondays’: no evidence of affect drop after taking
+clinical MDMA. J Psychopharmacol. (2022) 36(3):360-7. doi: 10.1177/ 72. Griffiths RR, Johnson MW, Richards WA, Richards BD, Jesse R, MacLean KA,
+02698811211055809
+et al. Psilocybin-occasioned mystical-type experience in combination with meditation
+66. Aday JS, Wood JR, Bloesch EK, Davoli CC. Psychedelic drugs and perception: a and other spiritual practices produces enduring positive changes in psychological
+narrative review of the first era of research. Rev Neurosci. (2021) 32(5):559-71. doi: 10. functioning and in trait measures of prosocial attitudes and behaviors.
+1515/revneuro-2020-0094 ] Psychopharmacol. (2018) 32(1):49-69. doi: 10.1177/0269881117731279
+
+67. Aday JS, Bloesch EK, Davis AK, Domoff SE, Scherr K, Woolley JD, et al. Increases in 73. Aday JS, Heifets BD, Pratscher SD, Bradley E, Rosen R, Woolley JD. Great
+aesthetic experience following ayahuasca use: a prospective, naturalistic study. ] Humanist expectations: recommendations for improving the methodological rigor of
+Psychol. (2024):00221678241230609. doi: 10.1177/00221678241230609 psychedelic clinical trials. Psychopharmacology. (2022) 239(6):1989-2010. doi: 10.
+1007/500213-022-06123-7
+68. Kluckova T, Nikoli¢ M, Tyl8 F, Viktorin V, Vejmola C, Viktorinova M, et al. The
+phenomenology of psilocybin's experience mediates subsequent persistent 74. Aday JS, Carhart-Harris RL, Woolley JD. Emerging challenges for
+psychological effects independently of sex, previous experience or setting. medRxiv. psychedelic therapy. JAMA Psychiatry. (2023) 80(6):533-4. doi: 10.1001/
+(2024). doi: 10.1101/2024.08.26.24311611 jamapsychiatry.2023.0549
+
+
+Frontiers in Pain Research 15 frontiersin.org

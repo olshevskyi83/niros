@@ -1,0 +1,1067 @@
+[PAGE 001]
+
+PLOS ONE
+
+
+RESEARCH ARTICLE
+
+
+The therapeutic alliance between study
+participants and intervention facilitators is
+associated with acute effects and clinical
+outcomes in a psilocybin-assisted therapy trial
+for major depressive disorder
+Adam W. Levin@'”, Rafaelle Lancelottam', Nathan D. Sepeda!”, Natalie Gukasyan®,
+Sandeep Nayak’, Theodore L. Wagener”, Frederick S. Barrett?, Roland R. Griffiths?, Alan
+
+Check for
+K. Davis(!*+*
+
+1 The Ohio State University, Center
+for Psychedelic Drug Research and Education, Columbus, Ohio, United
+
+updates States of America, 2 Department of Psychiatry, The Ohio State University, Columbus, Ohio, United States of
+America, 3 Johns Hopkins University, Center for Psychedelic and Consciousness Research, Baltimore,
+Maryland, United States of America, 4 Center for Tobacco Research, The Ohio State University James
+Comprehensive Cancer Center, Columbus, Ohio, United States of America, 5 Department of Internal
+Medicine, The Ohio State University, Columbus, Ohio, United States of America
+
+
+6 OPEN ACCESS * davis.59960 osu.edu
+
+
+Citation: Levin AW, Lancelotta R, Sepeda ND,
+Gukasyan N, Nayak S, Wagener TL, et al. (2024)
+The therapeutic alliance between study participants Abstract
+and intervention facilitators is associated with acute
+effects and clinical outcomes in a psilocybin- We examined if the therapeutic alliance between study participants and intervention facilitaassisted therapy trial for major depressive disorder. tors in a psilocybin-assisted therapy (PAT) trial changed over time and whether there were
+PLoS ONE 19(3): e0300501. https://doi.org/
+relationships between alliance, acute psilocybin experiences, and depression outcomes. In
+10.1371 /journal.pone.0300501
+a randomized, waiting list-controlled clinical trial for major depressive disorder in adults (N=
+Editor: Herb Covington, SUNY Empire, UNITED
+24), participants were randomized to an immediate (N= 13) or delayed (N= 11) condition
+STATES
+with two oral doses of psilocybin (20mg/70kg and 30mg/70kg). Ratings of therapeutic alliReceived: July 17, 2023
+ance significantly increased from the final preparation session to one-week post-intervention
+
+Accepted: February 23, 2024 (p=.03, d=.43). A stronger total alliance at the final preparation session predicted depres-
+
+Published: March 14, 2024 sion scores at 4 weeks (r= -.65, p = .002), 6 months (r= -.47, p= .036), and 12 months (r=
+-.54, p= .014) post-intervention. A stronger total alliance in the final preparation session was
+Peer Review History: PLOS recognizes the
+benefits of transparency in the peer review correlated with higher peak ratings of mystical experiences (r= .49, p= .027) and psycholog-
+
+process; therefore, we enable the publication of ical insight (r= .52, p = .040), and peak ratings of mystical experience and psychological
+all of the content of peer review and author insight were correlated with depression scores at 4 weeks (r= -.45, p= .030 for mystical; r=
+responses alongside final, published articles. The
+-.75, p< .001 for insight). Stronger total alliance one week after the final psilocybin session
+editorial history of this article is available here:
+https://doi.org/10.1371/journal.pone.0300501 predicted depression scores at 4 weeks (r= -.85, p < .001), 3 months (r= -.52, p= .010), 6
+months (r= -.77, p< .001), and 12 months (r= -.61, p = .001) post-intervention. These findCopyright: © 2024 Levin et al. This is an open
+access article distributed under the terms of the ings highlight the importance of the therapeutic relationship in PAT. Future research should
+Creative Commons Attribution License, which explore therapist and participant characteristics which maximize the therapeutic alliance
+permits unrestricted use, distribution, and
+and evaluate its relationship to treatment outcomes.
+reproduction in any medium, provided the original
+Trial registration: Registration: Clinicaltrials.gov NCT03181529. https://classic.
+author and source are credited.
+Clinicaltrials. gov/ct2/show/NCT03181529.
+Data Availability Statement: Data Availability: All
+relevant data are available on the Open Science
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 1/15
+
+[PAGE 002]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+Framework public repository at https://osf.io/ Introduction
+speqc/?view_only=
+90add9a193b04fa9ba3c5865c3bc15fb Identifier: Psychedelic-assisted therapy (PAT) is a therapeutic intervention which has shown promise in
+DOI 10.17605/0SF.I0/SPEQC. the treatment of a wide range of psychiatric disorders, including depression [1-4], post-trau-
+matic stress disorder (PTSD) [5], addiction [6,7], and end-of-life anxiety and depression [8].
+Funding: This study was funded in part by a
+crowd-sourced funding campaign organized by Although this approach centers around the administration of a psychedelic drug, it has long
+Tim Ferriss and a grant from the Riverstyx been claimed that the psychological milieu, as well as the physical environment of the drug
+Foundation. AKD, NDA, NG, SN, FSB, and RRG are administration, referred to as the ‘set’ and ‘setting’ respectively, are important in determining
+supported by funding from Tim Ferriss, Matt
+the quality of the acute psychedelic experience [9-11]. One aspect of the “set and setting’,
+Mullenweg, Craig Nerenberg, Blake Mycoskie, the
+emphasized in modern clinical trials, are the hours of preparatory and integrative psychotherSteven and Alexandra Cohen Foundation. AKD, RL,
+and AWL are supported by the Center for
+apy surrounding the drug administration, as well as the supportive, nondirective, therapy durPsychedelic Drug Research and Education in the ing the actual drug session [12-14]. Although some have suggested the superiority of specific
+College of Social Work at Ohio State University, therapeutic orientations [15], thus far, a range of therapeutic approaches have produced comfunded by anonymous private donors. The funder parable outcomes (e.g. cognitive behavioral therapy [16], motivational enhancement therapy
+had no role in study design, data collection and
+[6], acceptance and commitment therapy (e.g., Accept-Connect-Embody [2]). This has
+analysis, decision to publish, or preparation of the
+prompted others to advocate for a “common factors’ framework, which emphasizes the commanuscript. AKD and RL are board members of
+Source Research Foundation. AKD is a Lead mon elements between therapeutic approaches rather than those associated with any specific
+Trainer at Fluence. FB is a scientific advisor for orientation [17].
+WavePaths, Ltd and Mindstate Design Labs, Inc, One of the most widely investigated of these “common factors’ is the therapeutic alliance,
+and has provided consultation services for
+broadly defined as the sense of collaboration between patient and clinician [18-20]. Decades
+Gilgamesh Pharmaceuticals, Inc. These
+of research show that a stronger alliance is associated with positive treatment outcomes, and
+organizations were not involved in the design/
+execution of this study or the interpretation or
+this association appears to be robust and consistent across disorders, cultures, and theoretical
+communication of findings. orientations (for recent reviews see: [21,22]). To date, few studies have empirically investigated
+the effect of the therapeutic alliance on outcomes in PAT. Some observational research has
+Competing interests: AKD and RL are on the board
+of Source Research Foundation. RRG is on the
+suggested that various states and traits traditionally associated with a strong alliance, such as
+board of the Heffter Research Institute. This does acceptance, openness to experience, and a strong intention are associated with better therapeunot alter our adherence to PLOS ONE policies on tic outcomes [23,24]. However, this evidence is indirect and based on psychedelic use in natusharing data and materials. ralistic settings where a traditional therapeutic alliance may not be established.
+In a recent study of PAT, Murphy et al. (2022) [25] found that the strength of the therapeu-
+tic alliance predicted depression scores at follow-up and that this effect was mediated by the
+intensity of the acute psychedelic experience. Specifically, they demonstrated that a strong
+therapeutic alliance predicted a positive pre-psychedelic session rapport, which then predicted
+greater emotional breakthrough and mystical-type experiences during the psilocybin session
+leading to improved therapeutic outcomes [25]. Importantly, their analysis also demonstrated
+that a weaker alliance predicted less emotional breakthrough and mystical quality of the acute
+experience.
+The mystical-type experience, as measured by the Mystical Experience Questionnaire
+(MEQ), has been, to date, the most extensively researched dimension of the acute psychedelic
+experience and has been correlated with positive therapeutic outcomes in multiple clinical tri-
+als and across diagnoses [26,27]. However, recent research suggests that psychological insight,
+especially when paired with a mystical experience, might be a more robust predictor of change
+[28]. Although many psychotherapeutic approaches, especially in the psychodynamic tradi-
+tion, emphasize the emergence of insight in the context of a strong therapeutic alliance
+[20,29,30], this relationship has yet to be empirically investigated in the context of PAT. Addi-
+tionally, although Murphy et al.’s analysis suggests that a weaker alliance might limit therapeu-
+tic effectiveness, the causal mechanisms of this are unknown and have not been investigated.
+Therefore, in a replication and extension of Murphy et al. (2022) [25], we analyzed data
+from a recently published randomized, waitlist-controlled clinical trial of psilocybin-assisted
+therapy for major depressive disorder (MDD) [3] to examine: 1) whether the participant-rated
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 2/15
+
+[PAGE 003]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+therapeutic alliance varies from before to after psilocybin administration sessions, 2) whether
+the alliance is correlated with depression scores following the intervention, 3) whether the
+therapeutic alliance is correlated with peak mystical-type and psychological insight effects of
+the intervention, and 4) the relationship between ratings of the mystical-type and psychologi-
+cal insight effects and post-treatment depression scores.
+
+
+Methods
+
+Study design
+
+The primary outcomes from this study have been published and full details, including a study
+protocol, have been described previously [3]. Procedures were approved by The Johns Hop-
+kins University School of Medicine Institutional Review Board (IRB00101821). In brief, this
+study was a randomized waitlist-controlled trial testing the effect of two ascending doses of psi-
+locybin in conjunction with approximately 11 hours of psychotherapy in adults with moder-
+ate-to-severe MDD. The decision to recruit 24 participants was made based on the results of a
+prior study of psilocybin-assisted therapy for cancer patients [8], which showed very large
+effect sizes of this intervention. Therefore, as a preliminary trial we were confident that a sam-
+ple size of N = 24 would provide sufficient power to detect a moderate effect size of pre-psilo-
+cybin to post-psilocybin change in depressive symptoms. Recruitment occurred between
+August 2017 to August 2019 and all participants provided written informed consent. Data
+were collected through final 12-month follow-up timepoint in August 2020. Participants in
+this trial were 21-75 years of age who met criteria for a moderate to severe episode of MDD
+(217 on the GRID-Hamilton Depression Rating Scale [GRID-HAMD]) and were medically
+stable. Individuals with a first- or second-degree relative with history of psychiatric conditions
+(e.g., psychotic or bipolar I or II disorder) deemed incompatible with safe exposure to psilocy-
+bin were excluded. Participants were also required to refrain from using certain medications
+(e.g., antidepressants) for at least five half-lives before screening and through our primary out-
+come measurement at 4-weeks post psilocybin session two. Following screening and baseline
+assessments, participants were randomized to an immediate or delayed treatment condition.
+During the intervention phase of the study, participants were provided with approximately
+8 hours of preparatory therapy sessions with two intervention facilitators. At least one facilita-
+tor had clinical training in mental health at the master’s or doctoral level (e.g., Master of Social
+Work, Ph.D. in clinical psychology, M.D. specializing in psychiatry). Following preparation
+sessions, participants received two doses (20 mg/70 kg and 30 mg/70 kg) of psilocybin, approx-
+imately one-to-two weeks apart. Psilocybin was administered under the supervision of both
+facilitators in a comfortable room following established safety guidelines [12]. On psilocybin
+session days, a nondirective psychotherapeutic approach was employed. The following day
+and one week after each psilocybin session, participants returned for follow-up integrative
+therapy sessions and assessments. Follow-up assessments, including a 1-2 hour meeting with
+at least one of the therapist facilitators, were also conducted at 1- and 4-weeks, and 3-, 6-, and
+12-months following the second psilocybin session.
+
+
+Measures
+
+Therapeutic alliance. The 12-item, participant-rated, Working Alliance Inventory-Short
+Revised (WAI-SR; [31]) was used to assess the therapeutic alliance between intervention facili-
+tators and study participants at the final preparatory session prior to psilocybin administration
+and one week following the first and second psilocybin sessions. The WAI-SR is a shortened
+version of the 36-item Working Alliance Inventory (WAI; [32,33]) which utilizes a three factor
+model based on the three aspects of the therapeutic alliance as theorized by Bordin [18]: The
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 3/15
+
+[PAGE 004]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+goals of treatment (e.g., “ and I collaborate on setting goals for my therapy”), the tasks of
+therapy (e.g., “As a result of these sessions I am clearer as to how I might be able to change”),
+and the bond between therapist and client (e.g., “I believe likes me”). The 12 items are
+rated on a five-point Likert scale ranging from Seldom (1) to Always (5). Internal consistency
+reliability, measured with Cronbach’s alpha, was calculated for WAI bond (a. = .61, .77, .94),
+goal (a = .89, .91, .95), task (a = .76, .92, .96), and total score (a = .87, .92, .95) at the final pre-
+paratory session, 1-week post-psilocybin session 1, and 1-week post-psilocybin session 2,
+respectively.
+Depression severity. Depression was measured by blinded clinician rating using the
+GRID-HAMD [34,35], as previously described [3]. Depression severity was assessed at baseline
+and at 1-, 3-, 6-, and 12-month follow-up timepoints. Inter-rater reliability was 87.5% across
+all follow-ups.
+Acute psilocybin effects. Measures of acute psilocybin effects that were assessed at the
+end of the drug administration or the following day have been reported previously [3].
+Included in this follow-up analysis is the Mystical Experience Questionnaire (MEQ30) [36],
+which was rated on a 6-point scale ranging from 0-5 (none; not at all = 0, so slight cannot
+decide = 1, slight = 2, moderate = 3, strong [equivalent in degree to any other strong experi-
+ence] = 4, extreme [more than any other time in my life and stronger than 4] = 5). We also
+includeda single item measure of psychological insight [37] on which participants rated the
+degree to which the psilocybin session was psychologically insightful on a scale from 1 = “no
+more than routine, everyday experiences” to 8 = “the single most psychologically insightful
+experience of my life.” The use of a single-item measure, while not ideal, has shown reliability
+and validity in similar psychological interventions [38].
+
+
+Statistical analyses
+Data were analyzed from all 24 participants who completed the full intervention. Four partici-
+pants did not complete the WAI-SR during the final preparatory session and those data were
+therefore excluded. Additionally, four participants did not complete the psychological insight
+item, so those data were excluded for the relevant analyses. First, we explored the distribution
+of scores for each variable and found that several variables violated the assumption of a normal
+distribution. However, given that Pearson correlations and t-tests are robust against violations
+of the normal distribution assumption [39-41], and given that this study is exploratory and
+hypothesis-generating, we chose to proceed with our analytic plan. Next, we used paired sam-
+ples t tests to compare alliance scores from the final preparatory session to one week following
+the second psilocybin session. Following this, we calculated Pearson's correlations to examine
+the relationship between participant ratings of the alliance at the final preparatory session and
+one week following the first and second psilocybin session, and depression scores at 4-week,
+and 3-, 6-, and 12-month follow ups. Then, we calculated Pearson’s correlations between alli-
+ance ratings at the final preparatory session and one week following the first and second psilo-
+cybin session, and measures of peak acute mystical and insight effects across the two
+psilocybin sessions. Finally, we calculated Pearson's correlations between peak acute effects
+and depression scores at 4-weeks, 3-, 6-, and 12-month follow ups. A p-value of .05 was used
+to determine statistical significance in all analyses, and effect sizes are reported for all t-test
+and correlations. Data analysis was conducted using SPSS, version 28 [42].
+
+
+Results
+The sample (n = 20) was comprised of 15 women (75%) and 5 men (25%) and was 90% white,
+with a mean (SD) age of 37.6 (11.0) years. Most participants also reported they were
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 4/15
+
+[PAGE 005]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+Table 1. Comparisons of therapeutic alliance ratings (via the working alliance inventory- short revised) at intervention time-points.
+
+WAI-SR Preparatory Session 2 1-week post-psilocybin session 2
+M SD M SD T Cohen’s d
+
+Bond 18.55 1.70 19.29 2.12 1.56 135 34
+
+Goal 17.40 3.28 17.79 3.56 50 .620 11
+Task 14.85 2.80 17.17 3.70 3.99 < .001*** 65
+Total 50.80 6.55 54.25 8.27 2.40 .027* 43
+
+*p < 05,
+**p < .01,
+o < 001.
+d = .2 (small), d = .5 (medium), d = .8 (large).
+
+https://doi.org/10.1371/journal.pone.0300501 .t001
+
+
+heterosexual (85%), non-Hispanic (100%), had a college degree (90%), were never married
+(55%), and employed (55%). On average, the sample reported it had been 20.7 (SD = 18.5)
+months since their current major depressive episode began, and 19.6 (SD = 11.4) years since
+their first major depressive episode.
+As Table 1 shows, participant ratings of the total therapeutic alliance between study partici-
+pants and intervention facilitators increased from the final preparatory session to 1-week post-
+intervention (p = .027, d = .43). Although each of the subscales increased during this time
+point (p = .620, d= .11 for goal, p = .135, d = .34 for bond), only ratings of task increased signif-
+icantly (p < .001, d= .65).
+As Table 2 shows, a stronger total alliance reported at the final preparatory session pre-
+dicted depression scores at 4 weeks (r = -.65, p = .002), 6 months (r = -.47, p = .036), and 12
+months (r = -.54, p = .014) post-intervention. A stronger total alliance reported 1-week
+
+
+Table 2. Correlation between therapeutic alliance ratings (via the working alliance inventory- short revised) and depression outcomes (GRID-HAMD).
+
+WAI GRIDHAMD (4-weeks post- GRIDHAMD (3-month GRIDHAMD (6-month GRIDHAMD (12-month
+session 2) follow-up) follow-up) follow-up)
+Bond| Final Preparatory Session -.454* -.062 -.228 -.355
+(N = 20)
+
+1-week post-psilocybin -.502* -.375 -.470* -.524**
+session 1
+
+1-week post-psilocybin -.674*** -.571** -.680*** -.718***
+session 2
+
+Goal | Final Prep -.491* -.229 -.362 -.489*
+
+1-week post-session 1 -.539** -.274 -.541** -.417*
+
+1-week post-session 2 -.688*** -.290 -.594** -.386
+Task | Final Prep -.673** -.353 -.540* -.480*
+
+1-week post-session 1 -.783*** -.448* -.745*** -.502*
+1-week post-session 2 -.853*** -.551** -.768*** -.589**
+Total | Final Prep -.651** -.282 -.471* -.542*
+
+1-week post-session 1 -.734*** -.420* -.710*** -.541**
+
+1-week post-session 2 -.851*** -.518** -.774** -.614**
+
+
+*p < .05,
+**p < 01,
+Ep < 001.
+r =.1 (small), r= .3 (medium), r = .5 (large).
+
+
+https://doi.org/10.1371/journal.pone.0300501 1002
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 5/15
+
+[PAGE 006]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+Table 3. Correlation between therapeutic alliance (via the working alliance inventory- short revised) and peak acute mystical-type and insight effects.
+
+WAI Mystical Experiences Questionnaire (MEQ) N = 20 Psychological Insight Item
+N=16
+
+Bond Final Preparatory Session .487* 467
+
+1-week post-session 1 .416* .648**
+
+1-week post- session 2 .447* .814***
+
+Goal Final Prep 237 .359
+1-week post-session 1 17 .481*
+
+1-week post-session 2 155 596****
+
+Task Final Prep .579** .531*
+
+1-week post-session 1 .469* .812***
+
+1-week post-session 2 .439* .831***
+
+Total Final Prep .493* .518*
+1-week post-session 1 .392 .746***
+
+1-week post-session 2 .378 .826***
+
+
+*p < .05,
+**p < 01,
+***p < 001.
+r =.1 (small), r= .3 (medium), r = .5 (large).
+
+
+https://doi.org/10.1371/journal.pone.0300501 1003
+
+
+following the first psilocybin session was also correlated with decreased depression scores at 4
+weeks (r = -.73,p < .001), 3 months (r = .42,p = .041), 6 months (r = -.71,p < .001) and 12
+months (r = -.54, p = .006). A stronger total alliance reported 1-week after the second psilocy-
+bin session predicted depression scores at 4 weeks (r = -.85, p < .001), 3 months (r = -.52, p =
+.010), 6 months (r = -.77,p < .001), and 12 months (r = -.61,p = .001).
+As Table 3 shows, a stronger total therapeutic alliance reported in the final preparation ses-
+sion was correlated with higher peak ratings of mystical-type experiences (r = .49, p = .027)
+and of psychological insight (r = .52, p = .040). A stronger therapeutic alliance reported 1-week
+following the first psilocybin session was significantly correlated with higher peak ratings of
+psychological insight (r = .75, p < .001) across both psilocybin sessions. Higher peak ratings of
+psychological insight across both psilocybin sessions significantly predicted higher total alli-
+ance ratings reported 1-week following the final psilocybin session (r = .83, p < .001), and
+higher peak ratings of mystical-type experiences and psychological insight predicted higher
+bond ratings reported one week following the second psilocybin session (r = .45, p = .029 for
+mystical-type, r= .81, p < .001 for insights).
+As Table 4 shows, higher peak ratings of mystical-type experience were correlated with
+lower depression scores at 4 weeks (r = -.45, p = .030), and higher peak ratings of psychological
+insight were correlated with lower depression scores at 4 weeks (r = -.75, p < .001), 3 months
+(r = -.52,p = .020), 6 months (r = -.82,p < .001), and 12 months (r = -.70,p < .001) post-
+intervention.
+
+Our analysis revealed similar patterns with regards to the three WAI subscales. Correlations
+between the task alliance subscale and outcomes were most robust, with higher ratings of task
+alliance at the final preparatory session significantly predicting depression scores at 4 weeks (r
+= -.67,p = .001), 6 months (r = -.54,p = .014) and 12 months (r = -.48,
+p = .032) post-interven-
+tion. Further, ratings of task alliance 1-week following the second psilocybin session were
+strongly correlated with decreased depression scores at 4 weeks (r = -.85, p < .001), 3 months
+(r = -.55,p = .005), 6 months (r = -.77p < .001), and 12 months (r = -.59,
+p = .013) months.
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 6/15
+
+[PAGE 007]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+Table 4. Correlation between peak acute mystical-type and insight effects and depression outcomes (GRID-HAMD).
+
+Peak Acute Effects 4-weeks post-session 2 3-month follow-up 6-month follow-up 12-month follow-up
+Mystical Experiences Questionnaire (MEQ) -.445* -.156 -.291 -.307
+N =24
+
+Psychological Insight Item N = 20 -.748*** | -.515* -.819*** -.704***
+*p < .05,
+**p < 01,
+**p < 001.
+r=.1 (small), r = .3 (medium), r = .5 (large).
+
+
+https://doi.org/10.1371/journal.pone.0300501 1004
+
+
+Higher ratings of goal alliance at the final preparatory session predicted outcomes at 4 weeks (r
+= -.49, p = .028) and 12 months (r = -.49, p = .029), and ratings of goal alliance 1-week follow-
+ing the second psilocybin session were correlated with outcomes at 4 weeks (r = -.69, p < .001)
+and 6 months (r = -.59, p = .002). A stronger bond reported at the final preparation session
+predicted scores at 4 weeks (r = -.45, p = .044) but did not predict long term depression scores
+(ps > .05). However, a stronger bond reported 1-week after the final psilocybin session pre-
+dicted depression scores at 4-weeks (r = -.67, p < .001), 3-months (r = -.57, p = .004), 6 months
+(r = -.68,p < .001), and 12 months (r = -.72,
+p < .001).
+With regards to the WAI subscales relationship with acute psilocybin effects, ratings of task
+alliance at the final preparatory session were correlated with higher ratings of both mystical-
+type experience (r = .58, p = .007) and psychological insight (r = .53, p = .034). Further, higher
+peak ratings of both mystical and psychological insight predicted higher task alliance ratings
+1-week following the second psilocybin session (r = .44, p = .032 for mystical-type, r = -.83, p
+< .001 for insight). A stronger bond reported in the final preparation session was significantly
+correlated with higher peak ratings of mystical-type experiences (r= .49, p = .029). Addition-
+ally, a stronger bond reported one week following the second psilocybin session was signifi-
+cantly correlated with mystical-type experiences (r = .45, p = .029) and psychological insight (r
+= .81, p < .001). Ratings of goal alliance at the final preparatory session were not significantly
+correlated with peak ratings of mystical-type experience (r = .24, ps > .05) or psychological
+insight (r = .36, ps > .05), however, peak ratings of psychological insight predicted goal ratings
+one week following the second psilocybin session (r = .60 p = .006).
+
+
+Discussion
+This analysis of a randomized controlled trial of psilocybin-assisted therapy for adults with
+MDD found that a stronger participant-rated therapeutic alliance was correlated with
+improvements in depression outcomes up to one year later, and that this correlation strength-
+ened throughout the course of the study. A stronger alliance in the final preparatory session
+predicted higher peak ratings of mystical-type and psychological insight experiences, and these
+acute effects were correlated with improvements in depression. These results suggest that ther-
+apeutic alliance plays an important role in optimizing the acute psychedelic experience
+towards improved outcomes and extend those of Murphy et al. (2022) [25] by employing clini-
+cian-rated depression outcomes (vs self-report), including acute psychological insight and
+mystical-type effects (vs emotional breakthrough and mystical-type effects), and extending the
+timeline to 12-months post-intervention (vs 6-weeks).
+In one sense, these findings place PAT firmly within the bounds of traditional psychothera-
+pies, in which a stronger therapeutic alliance is correlated with positive outcomes across
+modalities and diagnoses [21,22,43,44]. In another sense, the alliance seems to have an
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 7/15
+
+[PAGE 008]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+amplified role in PAT through its interaction with the acute psychedelic experience. Several
+large meta-analyses of traditional therapies have placed the alliance-outcome correlation con-
+sistently in the small to medium range [22,45-47], and a recent meta-analysis, looking specifi-
+cally at the alliance-depression outcome correlation, found a small effect [48]. By contrast, our
+analysis showed moderate to large correlations. It is possible that outliers in our sample, or
+positive expectancy effects, drove these correlations [2,49], however, our results suggest other
+possible explanations. For example, the task alliance subscale is often associated with improved
+outcomes in psychotherapy, but our finding that the bond subscale correlated with outcomes
+is significantly less common [50-55]. If psychedelics are “unspecific amplifiers of mental pro-
+cesses’, as some have suggested [56], then the participant/facilitator bond itself may be subject
+to that amplification, leading to larger effects.
+This model supports many long-held assumptions, in both the traditional and contempo-
+rary use of psychedelics, about the importance of the therapist or facilitator in a therapeutic
+psychedelic experience. Traditional Ayahuasca practitioners undergo extensive apprentice-
+ships and are thought to directly affect healing through emotional and spiritual ‘resonance’
+during complex ceremonies [57]. Modern clinical trials employ a therapeutic dyad with two
+session facilitators per participant present throughout dosing sessions and during extensive
+preparatory and integrative therapeutic work. Safety guidelines include recommendations for
+ancillary staff given that “all individuals at the study site having contact with the volunteer on
+or before the session day may influence a volunteer’s reaction to a hallucinogen” [11, p.12].
+Although assumptions about the importance of facilitators through altered states of con-
+sciousness are pervasive, they have only recently been empirically substantiated. A large survey
+of ayahuasca users in ceremonial settings showed that ‘adequate leadership’ was associated
+with higher levels of mystical-type experience, and that clear instructions and feelings of social
+adhesion predicted fewer challenging experiences [58]. Other naturalistic survey studies have
+demonstrated a correlation between ‘clear intentions’ and mystical-type experiences [23,24],
+and a recent prospective survey study of participants at psychedelic retreats found that rapport
+with facilitators prior to a group psychedelic session mediated a sense of harmony during the
+session [59]. However, the present study and that of Murphy et al. [25] are the first to demon-
+strate a correlation between the contemporary construct of the therapeutic alliance and the
+quality of the acute psychedelic experience. Within this construct, it seems plausible that the
+task alliance subscale of the WAI, which was most robustly correlated with outcomes in our
+analysis, might be analogous to the concept of ‘clear intentions’ or ‘adequate leadership’,
+within the naturalistic models outlined above, while the bond subscale may more accurately
+reflect the rapport or ‘communitas’ [59]. However, further research is needed to elucidate the
+overlap and contrasts between these constructs.
+The correlation between the strength of the acute psychedelic experience and clinical out-
+comes has been well established in the modern era of psychedelic research [60] and was further
+validated in the present study. The most widely used construct of the subjective experience
+(e.g., mystical-type) has been correlated with positive therapeutic outcomes in multiple clinic
+trials and across indications [26,27]. Interestingly, in both ours and Murphy et al.’s (2022)
+analyses, mystical-type scores were less predictive of improvements in depression than were
+other measures of acute effects. In our analysis, although both peak ratings of psychological
+insight and mystical-type experience correlated with decreases in depression at 4 weeks, only
+ratings of psychological insight correlated with depression scores at long-term follow-up. Simi-
+larly, Murphy et al. (2022) found that ratings of emotional breakthrough were more predictive
+of decreases in depression than ratings of the mystical-type experience and that emotional
+breakthrough was more predictive in the first psilocybin session while mystical-type experi-
+ences were more predictive in the second session.
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 8/15
+
+[PAGE 009]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+These findings suggest that the combination of a more psychologically grounded experience
+with a mystical-type experience might be a more robust predictor of long-term therapeutic
+change than the mystical-type experience alone [28,61,62] and lend support to a model in
+which working through interpersonal content occurs prior to mystical-type breakthroughs
+[56,62,63]. If future research confirms these findings in more diverse samples and in other
+clinical indications, it suggests that PAT might be best viewed as an inter- and intra-personal
+process, which can be enhanced via a strong alliance between study participants and interven-
+tion facilitators.
+Our findings also strongly suggest that the acute psychedelic experience directly enhances
+the therapeutic alliance. Psilocybin’s ability to enhance emotional empathy [64] and feelings of
+connectedness [59,65], along with its reduction of subjective and neurological responses to
+social exclusion [66], might explain this phenomenon. These effects not only persist well
+beyond the acute drug effect [67] but may also foster more secure attachment patterns [68]. In
+our study, stronger alliances one week after the second psilocybin session correlated with
+higher peak ratings of acute effects. Murphy et al., (2022) also found that stronger emotional
+breakthroughs in the first psilocybin session predicted better alliances before the second ses-
+sion. Collectively, these results suggests that psilocybin could directly and progressively
+enhance the therapeutic alliance.
+The effects of the alliance on depression outcomes increased over the course of the inter-
+vention, with the strongest effects following the second psilocybin session. In Murphy et al.
+(2022), ratings of alliance reported prior to the second psilocybin session, but not prior to the
+first, predicted depression outcomes in a manner that was independent of the acute psychedelic
+experience in the second session. Similarly, a recent large, prospective survey study of psyche-
+delic use in guided group retreat settings showed that the enduring positive effects were
+explained by the extension of feelings of social connectedness and bond beyond the acute psy-
+chedelic state [59]. Given that the therapeutic alliance itself is likely an independent driver of
+therapeutic change [21], this suggests that positive therapeutic outcomes in PAT may be in
+part driven by the enhancement and extension of the alliance beyond the acute psychedelic
+experience. Thus, PAT might be best viewed as a progressive and reciprocal process, as
+opposed to a one-off, short-term, intervention. Namely, the psilocybin sessions are both
+enhanced by, and enhance, the therapeutic alliance towards improved therapeutic outcomes
+over time.
+
+This model has many implications for both treatment approaches and future areas of
+research. For one, the dynamic and reciprocal nature of the alliance would seem to recom-
+mend both flexible dosing and timing of dosing sessions, as well as frequent assessment and
+repair of alliance ruptures [25,43,44]. There may be specific doses, or even specific compounds,
+which are more suited for certain stages of therapy, for example, in strengthening the thera-
+peutic alliance or in working through interpersonal, versus spiritual or existential, content
+[69]. Such approaches have been employed historically, for example, in the ‘psycholytic’
+model, which used lower doses of psychedelics to elicit and work through interpersonal and
+psychodynamic content, but are underrepresented in contemporary research [62]. Recently, in
+a real-world clinical study of psychedelic-assisted group therapy, most participants required
+multiple dosing sessions (ranging from 1 to 12 per participant), where MDMA was used pref-
+erentially and initially to establish the therapeutic alliance, and higher doses of classic psyche-
+delics were used only subsequently [63]. Notably, the primary diagnosis in this study was
+complex-PTSD, and all participants were already in regular psychotherapy with the authors.
+This approach, while preliminary, may presage the realities inherent to the real-world imple-
+mentation of PAT, especially in the context of certain complex, chronic diagnoses.
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 9/15
+
+[PAGE 010]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+Perhaps the clearest implication of our findings is the potential benefits of the long-term
+maintenance of the therapeutic alliance beyond the timeline of typical clinical trials. Although
+this potential has long been recognized in traditional and historical approaches to work with
+psychedelics, the incentives associated with commercialization and medicalization may
+attempt to reframe PAT as a medicine administration procedure and to undermine the impor-
+tance of therapeutic support [70]. It will be important to continue to investigate and empiri-
+cally validate the role of the therapeutic alliance and to attempt to develop cost-effective
+approaches that incorporate these findings.
+Future research should define and measure the components of a strong therapeutic alliance
+in the context of PAT. Although there will undoubtedly be significant overlap with traditional
+therapeutic modalities, it is likely that some contingencies unique to PAT will require novel
+analytic approaches and training [71]. Much of the therapeutic support provided in psyche-
+delic sessions is non-verbal [72] and ‘supportive’ or ‘therapeutic’ touch is commonly employed
+[12,73]. While physical touch is often discouraged in traditional psychotherapy, evidence sug-
+gests that it may be essential in providing support and connection in psychedelic states [72]. It
+is therefore important that mutual agreement and informed consent are directly addressed
+and defined. Additionally, there is the question of whether therapists should themselves have
+personal experience with psychedelics in order to provide clear guidance and to support
+informed consent. Although such personal training experiences are considered essential in
+indigenous traditions [57], as well as to other modalities of psychotherapy, such as psychoanal-
+ysis [20,30], current laws in the United States prohibit psychedelic use for training purposes.
+As a result, little is known empirically about how personal psychedelic experience may or may
+not impact the therapeutic alliance, though there are some indications that participants might
+prefer facilitators with personal experience [74]. In the coming years, as training opportunities
+with psychedelics become more widely and legally available [75], it will be important to evalu-
+ate this relationship empirically (for an in depth review of this topic, see: [76]).
+
+
+Limitations
+
+There are several limitations of this study. This study was conducted prior to the development
+of several psychological insight scales validated for use in PAT [77,78]. As such, we used a sin-
+gle item measure for insight, which may limit the results. However, it is worth noting that such
+measures have demonstrated excellent test-retest reliability and validity in other similar studies
+and may be beneficial in limiting participant burden. Our sample consisted of individuals who
+self-referred for a novel treatment intervention which has recently received significant positive
+media attention. As a result, participants may have been more susceptible to expectancy bias
+and the placebo effect [49], and may have been more likely or willing to form strong, trusting
+bonds with their intervention facilitators, thus exaggerating the role of the therapeutic alliance
+in predicting psilocybin effects and outcomes. In addition, we were not able to control for any
+participant, therapist, or treatment setting influences, perhaps most impacted by the fact that
+two therapy facilitators are incorporated in this intervention. Future studies could explore
+whether the alliance with one, or both, facilitators impacts the relationships with acute effects
+and therapeutic outcomes. Future studies should include multiple raters of alliance (including
+third-party) to elucidate the dynamic relations among the triad and its impact on outcomes
+[79].
+Because most participants were White (92%), Female (67%), and heterosexual (96%), we
+also caution against extrapolating our findings to more diverse populations, as it is possible
+that this participant demographic would have a higher likelihood of forming strong alliances
+with intervention facilitators [80]. Additionally, we were unable to control for diversity in
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 10/15
+
+[PAGE 011]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+therapist demographics or their orientations and approaches to providing therapy which
+could have played a role in explaining improvements related to alliance, acute psilocybin
+effects, and depression outcomes. Further studies should address the influence of these factors
+on alliance formation by ensuring more diverse participant populations and discussing the
+identities of the intervention facilitators. Lastly, we also found that there were violations of the
+assumption of normality in our data. Although evidence shows that t tests and Pearson corre-
+lations are robust against such violations, we nevertheless suggest that these data be interpreted
+with caution and that future studies with larger samples replicate these findings.
+
+
+Conclusion
+The strength of the participant-rated therapeutic alliance was positively correlated with
+decreases in depression up to one-year following a psilocybin-assisted therapy intervention for
+depression. The correlation strengthened throughout the course of the intervention and was
+strongest at the final integration session. The strength of the therapeutic alliance prior to, and
+following, psilocybin dosing sessions was correlated with peak ratings of mystical-type experi-
+ence and psychological insight, and these ratings were correlated with depression scores at fol-
+low-up. These findings reveal a reciprocal relationship between the therapeutic alliance and
+the acute psychedelic experience, in which each acts to strengthen the other over the course of
+an intervention towards improved outcomes. Psilocybin may thus be best administered in the
+context of a long-term therapeutic relationship. Future research should seek to replicate these
+findings in different therapeutic settings and approaches, and to elucidate the characteristics,
+of both participants and therapists, which facilitate an optimal therapeutic alliance.
+
+
+Author Contributions
+Conceptualization: Adam W. Levin, Rafaelle Lancelotta, Nathan D. Sepeda, Frederick S. Bar-
+rett, Roland R. Griffiths, Alan K. Davis.
+
+Data curation: Nathan D. Sepeda, Frederick S. Barrett, Roland R. Griffiths, Alan K. Davis.
+
+Formal analysis: Adam W. Levin, Rafaelle Lancelotta, Nathan D. Sepeda, Sandeep Nayak,
+Frederick S. Barrett, Roland R. Griffiths, Alan K. Davis.
+
+Funding acquisition: Frederick S. Barrett, Roland R. Griffiths, Alan K. Davis.
+
+Investigation: Frederick S. Barrett, Roland R. Griffiths, Alan K. Davis.
+
+Methodology: Frederick S. Barrett, Roland R. Griffiths, Alan K. Davis.
+
+Project administration: Adam W. Levin, Nathan D. Sepeda, Natalie Gukasyan, Frederick S.
+Barrett, Roland R. Griffiths, Alan K. Davis.
+
+Resources: Nathan D. Sepeda, Frederick S. Barrett, Roland R. Griffiths, Alan K. Davis.
+
+Software: Nathan D. Sepeda, Frederick S. Barrett, Roland R. Griffiths, Alan K. Davis.
+
+Supervision: Natalie Gukasyan, Frederick S. Barrett, Roland R. Griffiths, Alan K. Davis.
+
+Validation: Nathan D. Sepeda, Frederick S. Barrett, Roland R. Griffiths, Alan K. Davis.
+
+Visualization: Adam W. Levin, Nathan D. Sepeda, Frederick S. Barrett, Roland R. Griffiths,
+Alan K. Davis.
+
+Writing - original draft: Adam W. Levin, Rafaelle Lancelotta, Nathan D. Sepeda, Natalie
+Gukasyan, Sandeep Nayak, Frederick S. Barrett, Roland R. Griffiths, Alan K. Davis.
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 11/15
+
+[PAGE 012]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+Writing - review & editing: Adam W. Levin, Rafaelle Lancelotta, Nathan D. Sepeda, Natalie
+Gukasyan, Sandeep Nayak, Theodore L. Wagener, Frederick S. Barrett, Roland R. Griffiths,
+Alan K. Davis.
+
+
+References
+1. Carhart-Harris R, Bolstridge M, Rucker J, Day CMJ, Erritzoe D, Kaelen M, et al. Psilocybin with psycho-
+logical support for treatment-resistant depression: an open-label feasibility study. Lancet Psychiatry.
+2016 Jul 1; 3(7):619-27. https://doi.org/10.1016/S2215-0366(16)30065-7 PMID: 27210031
+
+Carhart-Harris R, Giribaldi B, Watts R, Baker-Jones M, Murphy-Beiner A, Murphy R, et al. Trial of Psilo-
+cybin versus Escitalopram for Depression. N Engl J Med. 2021 Apr 15; 384(15):1402-11. https://doi.
+org/10.1056/NEJMoa2032994 PMID: 33852780
+
+Davis AK, Barrett FS, May DG, Cosimano MP, Sepeda ND, Johnson MW, et al. Effects of Psilocybin-
+Assisted Therapy on Major Depressive Disorder. JAMA Psychiatry. 2021 May; 78(5):1-9.
+
+Goodwin GM, Aaronson ST, Alvarez O, Arden PC, Baker A, Bennett JC, et al. Single-Dose Psilocybin
+for a Treatment-Resistant Episode of Major Depression. N Engl J Med. 2022 Nov 3; 387(18):1637-48.
+https://doi.org/10.1056/NEJMoa2206443 PMID: 36322843
+
+Mitchell JM, Bogenschutz M, Lilienstein A, Harrison C, Kleiman S, Parker-Guilbert K, et al. MDMA-
+assisted therapy for severe PTSD: a randomized, double-blind, placebo-controlled phase 3 study. Nat
+Med. 2021 Jun; 27(6):1025-33. https://doi.org/10.1038/s41591-021-01336-3 PMID: 33972795
+
+Bogenschutz MP, Ross S, Bhatt S, Baron T, Forcehimes AA, Laska E, et al. Percentage of Heavy
+Drinking Days Following Psilocybin-Assisted Psychotherapy vs Placebo in the Treatment of Adult
+Patients With Alcohol Use Disorder: A Randomized Clinical Trial. JAMA Psychiatry [Internet]. 2022 Aug
+24 [cited 2022 Sep 7]; Available from: https://doi.org/10.1001/jamapsychiatry.2022.2096 PMID:
+36001306
+
+Johnson MW, Garcia-Romeu A, Griffiths RR. Long-term follow-up of psilocybin-facilitated smoking ces-
+sation. Am J Drug Alcohol Abuse. 2017 Jan 2; 43(1):55-60. https://doi.org/10.3109/00952990.2016.
+1170135 PMID: 27441452
+
+Griffiths RR, Johnson MW, Carducci MA, Umbricht A, Richards WA, Richards BD, et al. Psilocybin
+produces substantial and sustained decreases in depression and anxiety in patients with life-threat-
+ening cancer: A randomized double-blind trial. J Psychopharmacol Oxf Engl. 2016 Dec; 30
+(12):1181-97.
+
+Beyer SV. Singing to the plants: a guide to mestizo shamanism in the upper Amazon. 1. paperback
+print. Albuquerque: University of New Mexico Press; 2010. 530 p.
+
+10. Hartogsohn |. Constructing drug effects: A history of set and setting. Drug Sci Policy Law. 2017 Jan 1;
+3:2050324516683325.
+
+11. Leary T, Litwin GH, Metzner R. Reactions to psilocybin administered in a supportive environment. J
+Nerv Ment Dis. 1963; 137(6):561-73.
+
+12. Johnson MW, Richards WA, Griffiths RR. Human Hallucinogen Research: Guidelines for Safety. J Psy-
+chopharmacol Oxf Engl. 2008 Aug; 22(6):603-20. https://doi.org/10.1177/0269881 108093587 PMID:
+18593734
+
+13. Reiff CM, Widge AS. Psychedelics and Psychedelic-Assisted Psychotherapy. Am J Psychiatry. 2020;
+20.
+
+14. Roseman L, Preller KH, Fotiou E, Winkelman MJ. Editorial: Psychedelic sociality: Pharmacological and
+extrapharmacological perspectives. Front Pharmacol [Internet]. 2022 [cited 2023 Jan 13]; 13. Available
+from: https://www.frontiersin.org/articles/10.3389/fphar.2022.979764 PMID: 35935854
+
+15. Yaden DB, Earp D, Graziosi M, Friedman-Wheeler D, Luoma JB, Johnson MW. Psychedelics and Psy-
+chotherapy: Cognitive-Behavioral Approaches as Default. Front Psychol [Internet]. 2022 [cited 2022
+Sep 5]; 13. Available from: https://www.frontiersin.org/articles/10.3389/fpsyg.2022.873279 PMID:
+35677124
+
+16. Johnson MW, Garcia-Romeu A, Cosimano MP, Griffiths RR. Pilot study of the 5-HT2AR agonist psilo-
+cybin in the treatment of tobacco addiction. J Psychopharmacol (Oxf). 2014 Nov 1; 28(11):983-92.
+https://doi.org/10.1177/0269881 114548296 PMID: 25213996
+
+17. Gukasyan N, Nayak SM. Psychedelics, placebo effects, and set and setting: Insights from common fac-
+tors theory of psychotherapy. Transcult Psychiatry. 2021 Jan 26;1363461520983684. htips://doi.org/
+10.1177/1363461520983684 PMID: 33499762
+
+18. Bordin ES. The generalizability of the psychoanalytic concept of the working alliance. Psychother The-
+ory Res Pract. 1979; 16:252-60.
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 12/15
+
+[PAGE 013]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+19. Horvath AO, Luborsky L. The role of the therapeutic alliance in psychotherapy. J Consult Clin Psychol.
+1993; 61:561--73. https://doi.org/10.1037//0022-006x.61.4.561 PMID: 8370852
+
+20. McWilliams N. Psychoanalytic psychotherapy: a practitioner's guide. New York, NY: Guilford; 2004.
+353 p.
+
+21. Baier AL, Kline AC, Feeny NC. Therapeutic alliance as a mediator of change: A systematic review and
+evaluation of research. Clin Psychol Rev. 2020 Dec 1; 82:101921. https://doi.org/10.1016/j.cpr.2020.
+101921 PMID: 33069096
+
+22. Flückiger C, Del Re AC, Wampold BE, Horvath AO. The alliance in adult psychotherapy: A meta-ana-
+lytic synthesis. Psychotherapy. 2018 Dec; 55(4):316-40. https://doi.org/10.1037/pst0000172 PMID:
+29792475
+
+23. Aday JS, Davis AK, Mitzkovitz CM, Bloesch EK, Davoli CC. Predicting Reactions to Psychedelic Drugs:
+A Systematic Review of States and Traits Related to Acute Drug Effects. ACS Pharmacol Transl Sci.
+2021 Apr 9; 4(2):424—35. https://doi.org/10.1021/acsptsci.1c00014 PMID: 33860172
+
+24. Haijen ECHM, Kaelen M, Roseman L, Timmermann C, Kettner H, Russ S, et al. Predicting Responses
+to Psychedelics: A Prospective Study. Front Pharmacol [Internet]. 2018 [cited 2022 Aug 31]; 9. Avail-
+able from: htips://www.frontiersin.org/articles/10.3389/fphar.2018.00897 PMID: 30450045
+
+25. Murphy R, Kettner H, Zeifman R, Giribaldi B, Kartner L, Martell J, et al. Therapeutic Alliance and Rap-
+port Modulate Responses to Psilocybin Assisted Therapy for Depression. Front Pharmacol [Internet].
+2022 [cited 2022 Sep 7]; 12. Available from: https://www.frontiersin.org/articles/10.3389/fphar.2021.
+788155 PMID: 35431912
+
+26. Romeo B, Hermand M, Pétillion A, Karila L, Benyamina A. Clinical and biological predictors of psy-
+chedelic response in the treatment of psychiatric and addictive disorders: A systematic review. J Psy-
+chiatr Res. 2021 May 1; 137:273-82. https://doi.org/10.1016/j.jpsychires.2021.03.002 PMID:
+33730602
+
+27. Yaden DB, Griffiths RR. The Subjective Effects of Psychedelics Are Necessary for Their Enduring Ther-
+apeutic Effects. ACS Pharmacol Transl Sci. 2020 Dec 10;acsptsci.0c00194.
+
+28. Davis AK, Barrett FS, Griffiths RR. Psychological flexibility mediates the relations between acute psy-
+chedelic effects and subjective decreases in depression and anxiety. J Context Behav Sci. 2020 Jan;
+15:39-45. https://doi.org/10.1016/j.jcbs.2019.11.004 PMID: 32864325
+
+29. Kleiger MJP. Beginnings: the art and science of planning psychotherapy. 2. ed. New York, NY: Rout-
+ledge; 2012. 437 p.
+
+30. Yalom ID. The gift of therapy: an open letter to a new generation of therapists and their patients. Reis-
+sued. New York: Harper Perennial; 2017. 263 p.
+
+31. Hatcher RobertL Gillaspy JA. Development and validation of a revised short version of the working alli-
+ance inventory. Psychother Res. 2006 Jan; 16(1):12-25.
+
+32. Horvath AO, Greenberg LS. The development of the Working Alliance Inventory. In: The psychothera-
+peutic process: A research handbook. New York, NY, US: Guilford Press; 1986. p. 529-56. (Guilford
+clinical psychology and psychotherapy series).
+
+33. Horvath AO, Greenberg LS. Development and validation of the Working Alliance Inventory. J Couns
+Psychol. 1989; 36:223-33.
+
+34. Hamilton M. A Rating Scale for Depression. J Neurol Neurosurg Psychiatry. 1960 Feb 1; 23(1):56-62.
+https://doi.org/10.1136/jnnp.23.1.56 PMID: 14399272
+
+35. Williams JBW, Kobak KA, Bech P, Engelhardt N, Evans K, Lipsitz J, et al. The GRID-HAMD: standardi-
+zation of the Hamilton Depression Rating Scale. Int Clin Psychopharmacol. 2008 May; 23(3):120-9.
+https://doi.org/10.1097/YIC.0b013e3282f948f5 PMID: 18408526
+
+36. Barrett FS, Johnson MW, Griffiths RR. Validation of the revised Mystical Experience Questionnaire in
+experimental sessions with psilocybin. J Psychopharmacol (Oxf). 2015 Nov 1; 29(11):1182—90. https://
+doi.org/10.1177/0269881 115609019 PMID: 26442957
+
+37. Carbonaro TM, Johnson MW, Griffiths RR. Subjective features of the psilocybin experience that may
+account for its self-administration by humans: a double-blind comparison of psilocybin and dextrome-
+thorphan. Psychopharmacology (Berl). 2020 Aug 1; 237(8):2293-304. https://doi.org/10.1007/s00213-
+020-05533-9 PMID: 32500212
+
+38. Dollinger SJ, Malmquist D. Reliability and validity of single-item self-reports: with special relevance to
+college students’ alcohol use, religiosity, study, and social life. J Gen Psychol. 2009 Jul; 136(3):231—41.
+https://doi.org/10.3200/GENP.136.3.231-242 PMID: 19650519
+
+39. Van den Brink WP. The robustness of the t test of the correlation coefficient and the need for simulation
+studies. BrJ Math Stat Psychol. 1988; 41(2):251-6.
+
+40. Havlicek LL, Peterson NL. Effect of the violation of assumptions upon significance levels of the Pearson
+r. Psychol Bull. 1977; 84(2):373—7.
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 13/15
+
+[PAGE 014]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+41. Edgell SE, Noon SM. Effect of violation of normality on thet test of the correlation coefficient. Psychol
+Bull. 1984; 95(3):576-83.
+
+42. IBM. SPSS Statistics for Windows. Armonk, NY: IBM Corp; 2021.
+
+43. Falkenstróm F, Ekeblad A, Holmqvist R. Improvement of the working alliance in one treatment session
+predicts improvement of depressive symptoms by the next session. J Consult Clin Psychol. 2016 Aug;
+84(8):738-51. https://doi.org/10.1037/ccp0000119 PMID: 27213493
+
+44. Flúckiger C, Rubel J, Del Re AC, Horvath AO, Wampold BE, Crits-Christoph P, et al. The reciprocal relation-
+ship between alliance and early treatment symptoms: A two-stage individual participant data meta-analysis.
+J Consult Clin Psychol. 2020 Sep; 88(9):829-43. htips://doi.org/10.1037/ccp0000594 PMID: 32757587
+
+45. Flückiger C, Del Re AC, Wlodasch D, Horvath AO, Solomonov N, Wampold BE. Assessing the alliance-
+outcome association adjusted for patient characteristics and treatment processes: A meta-analytic
+summary of direct comparisons. J Couns Psychol. 2020 Nov; 67(6):706—1 1. https://doi.org/10.1037/
+cou0000424 PMID: 32212755
+
+46. Horvath AO, Del Re AC, Flückiger C, Symonds D. Alliance in individual psychotherapy. Psychotherapy.
+2011; 48(1):9-16. https://doi.org/10.1037/a0022186 PMID: 21401269
+
+47. Martin DJ, Garske JP, Davis MK. Relation of the therapeutic alliance with outcome and other variables:
+A meta-analytic review. J Consult Clin Psychol. 2000; 68:438-50. PMID: 10883561
+
+48. Cameron SK, Rodgers J, Dagnan D. The relationship between the therapeutic alliance and clinical out-
+comes in cognitive behaviour therapy for adults with depression: A meta-analytic review. Clin Psychol
+Psychother. 2018; 25(3):446-56. htips://doi.org/10.1002/cpp.2180 PMID: 29484770
+
+49. Muthukumaraswamy SD, Forsyth A, Lumley T. Blinding and expectancy confounds in psychedelic ran-
+domized controlled trials. Expert Rev Clin Pharmacol. 2021 Sep 2; 14(9):1133-52. https://doi.org/10.
+1080/17512433.2021.1933434 PMID: 34038314
+
+50. Alodaibi F, Beneciuk J, Holmes R, Kareha S, Hayes D, Fritz J. The Relationship of the Therapeutic Alli-
+ance to Patient Characteristics and Functional Outcome During an Episode of Physical Therapy Care
+for Patients With Low Back Pain: An Observational Study. Phys Ther. 2021 Apr 1; 101(4):pzab026.
+https://doi.org/10.1093/ptj/pzab026 PMID: 33513231
+
+51. Gómez Penedo JM, Babl AM, Holtforth M grosse, Hohagen F, Krieger T, Lutz W, et al. The Association
+of Therapeutic Alliance With Long-Term Outcome in a Guided Internet Intervention for Depression:
+Secondary Analysis From a Randomized Control Trial. J Med Internet Res. 2020 Mar 24; 22(3):e15824.
+https://doi.org/10.2196/15824 PMID: 32207689
+
+52. Hagen K, Solem S, Opstad HB, Vogel PA, Ottesen Kennair LE, Kvale G, et al. Therapist Variability in the
+Task/Goal Dimension of the Early Working Alliance Predicts Outcome in Exposure and Response Pre-
+vention Treatment for Obsessive-Compulsive Disorder. Clin Neuropsychiatry. 2016 Dec; 13(6):94-9.
+
+53. Huppert JD, Kivity Y, Barlow DH, Gorman JM, Shear MK, Woods SW. Therapist effects and the out-
+come-alliance correlation in cognitive behavioral therapy for panic disorder with agoraphobia. Behav
+Res Ther. 2014 Jan 1; 52:26-34. https://doi.org/10.1016/¡.brat.2013.11.001 PMID: 24275067
+
+54. Webb CA, DeRubeis RJ, Amsterdam JD, Shelton RC, Hollon SD, Dimidjian S. Two Aspects of the Ther-
+apeutic Alliance: Differential Relations with Depressive Symptom Change. J Consult Clin Psychol. 2011
+Jun; 79(3):279-83. hitps://doi.org/10.1037/a0023252 PMID: 21480694
+
+55. Wheaton MG, Huppert JD, Foa EB, Simpson HB. HOW IMPORTANT IS THE THERAPEUTIC ALLI-
+ANCE IN TREATING OBSESSIVE-COMPULSIVE DISORDER WITH EXPOSURE AND RESPONSE
+PREVENTION? AN EMPIRICAL REPORT. Clin Neuropsychiatry. 2016 Dec; 13(6):88-93. PMID:
+33981347
+
+56. Grof S. Realms of the Human Unconscious: Observations from LSD Research. Main edition. Souvenir
+Press; 2019. 320 p.
+
+57. Tafur J, Maté G. The Fellowship of the River: A Medical Doctor’s Exploration into Traditional Amazonian
+Plant Medicine. Espiritu Books and Joseph Tafur; 2017. 290 p.
+
+58. de D Pontual AA, Tófoli LF, Corradi-Webster CM, van Oorsouw K, Delgado ARO, Ramaekers JG. The
+influence of ceremonial settings on mystical and challenging experiences occasioned by ayahuasca: A
+survey among ritualistic and religious ayahuasca users. Front Psychol [Internet]. 2022 [cited 2022 Dec
+7]; 13. Available from: https://www.frontiersin.org/articles/10.3389/fpsyg.2022.857372.
+
+59. Kettner H, Rosas FE, Timmermann C, Kártner L, Carhart-Harris RL, Roseman L. Psychedelic Commu-
+nitas: Intersubjective Experience During Psychedelic Group Sessions Predicts Enduring Changes in
+Psychological Wellbeing and Social Connectedness. Front Pharmacol [Internet]. 2021 [cited 2022 Sep
+4]; 12. Available from: https://www.frontiersin.org/articles/10.3389/fphar.2021.623985 PMID: 33995022
+
+60. Herrmamn Z, Earleywine M, De Leo J, Slabaugh S, Kenny T, Rush AJ. Scoping Review of Experiential
+Measures from Psychedelic Research and Clinical Trials. J Psychoactive Drugs. 2022 Sep 20;1-17.
+https://doi.org/10.1080/02791072.2022.2125467 PMID: 36127639
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 14/15
+
+[PAGE 015]
+
+PLOS ONE The effect of the therapeutic alliance in psychedelic-assisted therapy
+
+
+61. Nikolaidis A, Lancelotta R, Gukasyan N, Griffiths RR, Barrett FS, Davis AK. Subtypes of the psychedelic
+experience have reproducible and predictable effects on depression and anxiety symptoms. J Affect
+Disord. 2023 Mar 1; 324:239-49. https://doi.org/10.1016/j.jad.2022.12.042 PMID: 36584715
+
+62. Passie T, Guss J, Krahenmann R. Lower-dose psycholytic therapy-A neglected approach. Front Psy-
+chiatry [Internet]. 2022 [cited 2022 Dec 19]; 13. Available from: https://www.frontiersin.org/articles/10.
+3389/fpsyt.2022.1020505 PMID: 36532196
+
+63. Oehen P, Gasser P. Using a MDMA- and LSD-Group Therapy Model in Clinical Practice in Switzerland
+and Highlighting the Treatment of Trauma-Related Disorders. Front Psychiatry [Internet]. 2022 [cited
+2022 Dec 19]; 13. Available from: https://www.frontiersin.org/articles/10.3389/fpsyt.2022.863552
+PMID: 35546928
+
+64. Pokorny T, Preller KH, Kometer M, Dziobek I, Vollenweider FX. Effect of Psilocybin on Empathy and
+Moral Decision-Making. Int J Neuropsychopharmacol. 2017 Sep 1; 20(9):747-57. https://doi.org/10.
+1093/ijnp/pyx047 PMID: 28637246
+
+65. Watts R, Day C, Krzanowski J, Nutt D, Carhart-Harris R. Patients’ accounts of increased “connected-
+ness” and “acceptance” after psilocybin for treatment-resistant depression. J Humanist Psychol. 2017;
+57:520-64.
+
+66. Preller KH, Pokorny T, Hock A, Kraehenmann R, Stämpfli P, Seifritz E, et al. Effects of serotonin 2A/1A
+receptor stimulation on social exclusion processing. Proc Natl Acad Sci USA. 2016 May 3; 113
+(18):5119-24. https://doi.org/10.1073/pnas.1524187113 PMID: 27091970
+
+67. Mason NL, Mischler E, Uthaug MV, Kuypers KPC. Sub-Acute Effects of Psilocybin on Empathy, Crea-
+tive Thinking, and Subjective Well-Being. J Psychoactive Drugs. 2019 Mar 15; 51(2):123-34. https://
+doi.org/10.1080/02791072.2019.1580804 PMID: 30905276
+
+68. Stauffer CS, Anderson BT, Ortigo KM, Woolley J. Psilocybin-Assisted Group Therapy and Attachment:
+Observed Reduction in Attachment Anxiety and Influences of Attachment Insecurity on the Psilocybin
+Experience. ACS Pharmacol Trans! Sci. 2021 Apr 9; 4(2):526-32. https://doi.org/10.1021/acsptsci.
+0c00169 PMID: 33860182
+
+69. Stolaroff MJ. Thanatos to Eros: thirty five years of psychedelic exploration. Berlin: VWB, Verl. für Wiss.
+und Bildung; 1994. 192 p. (Reihe Ethnomedizin und Bewußtseinsforschung).
+
+70. Noorani T. Making psychedelics into medicines: The politics and paradoxes of medicalization. J Psy-
+chedelic Stud. 2020 Mar 1; 4(1):34-9.
+
+71. Phelps J, Henry J. Foundations for Training Psychedelic Therapists. Curr Top Behav Neurosci. 2022;
+56:93-109. https://doi.org/10.1007/7854_2021_
+266 PMID: 34734389
+
+72. Gramling R, Bennett E, Curtis K, Richards W, Rizzo DM, Arnoldy F, et al. Developing a Direct Observa-
+tion Measure of Therapeutic Connection in Psilocybin-Assisted Therapy: A Feasibility Study. J Palliat
+Med. 2023 Aug 17. htips://doi.org/10.1089/jom.2023.0189 PMID: 37590474
+
+73. Mithoefer MC. A Manual for MDMA-Assisted Psychotherapy in the Treatment of Posttraumatic Stress
+Disorder. 2016.
+
+74. Earleywine M, Low F, Altman BR, De Leo J. How Important Is a Guide Who Has Taken Psilocybin in
+Psilocybin-Assisted Therapy for Depression? J Psychoactive Drugs. 2022 Mar 23;1-11. https://doi.org/
+10.1080/02791072.2022.2047842 PMID: 35318904
+
+75. MAPS. MAPS Wins Appeal and Authorization to Study MDMA in Healthy Volunteer Therapists [Inter-
+net]. Multidisciplinary Association for Psychedelic Studies—MAPS. 2021 [cited 2022 Dec 29]. https://
+maps.org/news/media/maps-wins-appeal-and-authorization-to-study-mdma-in-healthy-volunteer-
+therapists/.
+
+76. Nielson EM, Guss J. The influence of therapists’ first-hand experience with psychedelics on psyche-
+delic-assisted psychotherapy research and therapist training. J Psychedelic Stud. 2018 Dec 1; 2(2):64—
+73.
+
+77. Peill JM, Trinci KE, Kettner H, Mertens LJ, Roseman L, Timmermann C, et al. Validation of the Psycho-
+logical Insight Scale: A new scale to assess psychological insight following a psychedelic experience. J
+Psychopharmacol Oxf Engl. 2022 Jan; 36(1):31-45.
+
+78. Davis AK, Barrett FS, So S, Gukasyan N, Swift TC, Griffiths RR. Development of the Psychological
+Insight Questionnaire among a sample of people who have consumed psilocybin or LSD. J Psychophar-
+macol (Oxf). 2021 Apr 1; 35(4):437-46. https://doi.org/10.1177/0269881120967878 PMID: 33427007
+
+79. Kamilar-Britt P, Gordis EB, Earleywine M. The Therapeutic Alliance in Psychedelic-Assisted Psycho-
+therapy: A Novel Target for Research and Interventions. Psychedelic Med [Internet]. 2023 Aug 18 [cited
+2023 Nov 6]; Available from: https://www.liebertpub.com/doi/10.1089/psymed.2023.0020.
+
+80. Behn A, Davanzo A, Errázuriz P. Client and therapist match on gender, age, and income: Does match
+within the therapeutic dyad predict early growth in the therapeutic alliance? J Clin Psychol. 2018; 74
+(9):1403-21. htips://doi.org/10.1002/jclp.22616 PMID: 29573351
+
+
+PLOS ONE| https://doi.org/10.1371/journal.pone.0300501 March 14, 2024 15/15

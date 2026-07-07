@@ -8,6 +8,11 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Callable
 
+from niros.knowledge_domain import (
+    KNOWLEDGE_DOMAIN_UNKNOWN,
+    is_compilable_knowledge_domain,
+    normalize_review_knowledge_domain,
+)
 from niros.knowledge_workspace import (
     DEFAULT_KNOWLEDGE_ROOT,
     KnowledgeWorkspacePaths,
@@ -61,6 +66,7 @@ class HumanReviewRecord:
     edited_extraction: TherapeuticFunctionExtraction | None = None
     created_at: str = ""
     updated_at: str = ""
+    knowledge_domain: str = KNOWLEDGE_DOMAIN_UNKNOWN
 
 
 def build_review_id(extraction_id: str) -> str:
@@ -117,6 +123,7 @@ def serialize_human_review_record(record: HumanReviewRecord) -> dict[str, Any]:
         "original_extraction": serialize_extraction(record.original_extraction),
         "created_at": record.created_at,
         "updated_at": record.updated_at,
+        "knowledge_domain": record.knowledge_domain,
     }
     if record.edited_extraction is not None:
         payload["edited_extraction"] = serialize_extraction(record.edited_extraction)
@@ -143,6 +150,7 @@ def deserialize_human_review_record(data: dict[str, Any]) -> HumanReviewRecord:
         edited_extraction=edited_extraction,
         created_at=data.get("created_at", ""),
         updated_at=data.get("updated_at", ""),
+        knowledge_domain=normalize_review_knowledge_domain(data.get("knowledge_domain")),
     )
 
 
@@ -176,6 +184,8 @@ def validate_human_review_record(record: HumanReviewRecord) -> tuple[str, ...]:
             issues.append("approved review must contain a valid extraction")
         else:
             issues.extend(validate_extraction(approved_extraction))
+        if not is_compilable_knowledge_domain(record.knowledge_domain):
+            issues.append("knowledge_domain must be assigned before approval")
 
     if record.edited_extraction is not None:
         issues.extend(validate_extraction(record.edited_extraction))
@@ -237,6 +247,8 @@ class HumanReviewWorkflow:
     def create_pending_review(
         self,
         extraction: TherapeuticFunctionExtraction,
+        *,
+        knowledge_domain: str = KNOWLEDGE_DOMAIN_UNKNOWN,
     ) -> HumanReviewRecord:
         """Create a pending human review record for one proposed extraction."""
         self._require_valid_extraction(extraction)
@@ -247,8 +259,25 @@ class HumanReviewWorkflow:
             segment_id=extraction.segment_id,
             status=REVIEW_STATUS_PENDING,
             original_extraction=extraction,
+            knowledge_domain=normalize_review_knowledge_domain(knowledge_domain),
         )
         return self._persist_mutation(record, created=True)
+
+    def assign_knowledge_domain(
+        self,
+        review_id: str,
+        knowledge_domain: str,
+    ) -> HumanReviewRecord:
+        """Assign a compilable knowledge domain to one review."""
+        record = self.load_review(review_id)
+        self._require_status(record, (REVIEW_STATUS_PENDING, REVIEW_STATUS_CHANGES_REQUESTED))
+        domain = normalize_review_knowledge_domain(knowledge_domain)
+        if not is_compilable_knowledge_domain(domain):
+            raise HumanReviewValidationError(
+                "knowledge_domain must be psychotherapy_tle or vocal_icaro"
+            )
+        updated = replace(record, knowledge_domain=domain)
+        return self._persist_mutation(updated)
 
     def approve(
         self,
@@ -262,6 +291,10 @@ class HumanReviewWorkflow:
         self._require_status(record, (REVIEW_STATUS_PENDING, REVIEW_STATUS_CHANGES_REQUESTED))
         candidate = record.edited_extraction or record.original_extraction
         self._require_valid_extraction(candidate)
+        if not is_compilable_knowledge_domain(record.knowledge_domain):
+            raise HumanReviewValidationError(
+                "knowledge_domain must be assigned before approval"
+            )
         updated = replace(
             record,
             status=REVIEW_STATUS_APPROVED,

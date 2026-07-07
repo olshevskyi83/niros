@@ -1,0 +1,747 @@
+[PAGE 001]
+
+Five-year outcomes of psilocybin-assisted
+1828
+
+BEERS
+
+therapy for Major Depressive Disorder
+
+AKADEMIAI KIADO
+ALAN K. DAVIS!?*%*
+©,MEGHAN A. DELLACROSSE!,
+NATHAN D. SEPEDA'*, ADAM W. LEVIN],
+MARY COSIMANO*”, HILLARY SHAUB?,
+Journal of Psychedelic
+TAYLOR WASHINGTON“, PETER M. GOOCH?*,
+Studies SHOVAL GILEAD””, SKYLAR J. GAUGHAN?*,
+STACEY B. ARMSTRONG! and FREDERICK S. BARRETT?*”»"
+9 (2025) 4, 320-329
+
+DOI:
+* Center for Psychedelic Drug Research and Education, College of Social Work, The Ohio State
+10.1556/2054.2025.00461
+University, Columbus, OH 43210, USA
+© 2025 The Author(s)
+
+* Comprehensive Cancer Center, Department of Internal Medicine, The Ohio State University,
+Columbus, OH 43210, USA
+
+? Department of Psychology, The Ohio State University, Columbus, OH 43210, USA
+
+* Center for Psychedelic and Consciousness Research, Department of Psychiatry and Behavioral
+Sciences, Johns Hopkins University School of Medicine, Baltimore, MD 21224, USA
+ORIGINAL RESEARCH
+> Psychedelic Support and Integration LLC, Baltimore, MD 21224, USA
+PAPER
+° College of Medicine, The Ohio State University, Columbus, OH 43210, USA
+TON
+
+
+
+
+7 Teachers College, Columbia University, New York City, NY, USA
+
+Check for $ University of California San Francisco, San Francisco, CA, USA
+updates |}
+
+? Department of Psychological and Brain Sciences, Johns Hopkins University, Baltimore, MD 21225, USA
+‘© Department of Neuroscience, Johns Hopkins University School of Medicine, Baltimore, MD 21225,
+USA
+
+
+Received: May 16, 2025 e Revised manuscript received: July 18, 2025 e Accepted: August 6, 2025
+Published online: September 4, 2025
+
+
+ABSTRACT
+
+Background: Major Depressive Disorder (MDD) is a leading cause of disability and economic loss, with
+high recurrence and treatment resistance. Psilocybin-assisted therapy (PAT) shows promise in reducing
+depressive symptoms, but long-term effects are unknown. We aimed to determine the long-term safety and
+efficacy of PAT for MDD over a five-year follow-up period. Methods: Individuals who previously partic-
+ipated in an RCT studying the effects of PAT for patients with MDD were contacted for a long-term
+follow-up (LTFU) study. This study uses a parallel convergent mixed methods design. Of the original 24
+RCT participants, 21 enrolled in the LTFU study, with 18 (75%) completing it. For the six non-completers,
+baseline scores were used in quantitative analyses as conservative estimates. The primary outcome was
+clinician-rated change in depression severity from baseline to LTFU. Secondary outcomes included anxiety,
+functional impairment, and qualitative assessments of participants’ experiences and mental health. Results:
+Significant and sustained reductions in depression were observed, with 67% in remission for at least five
+years post-treatment. Anxiety and functional impairment also improved. Qualitative interviews revealed
+lasting positive changes in mindset, emotional health, and relationships. Participants reported enhanced
+“Corresponding author. Center for
+empathy, self-acceptance, and improved interpersonal relationships. No severe adverse events were rePsychedelic Drug Research and
+Education, College of Social Work, The
+ported. Conclusion: This study supports the long-term efficacy and safety of PAT in reducing depressive
+Ohio State University, 190 N Oval symptoms and improving mental health in patients with MDD. Further research is needed to determine if
+Mall, Suite 111, Columbus, OH these findings can be replicated, and to explore the mechanisms behind the sustained benefits of PAT,
+43210, USA. Tel.: +1 614 292 5251. potentially validating an approach that could transform the treatment of MDD.
+E-mail: davis.5996@osu.edu
+
+
+KEYWORDS
+
+
++) Journals psilocybin, therapy, depression, psychedelics, long-term outcomes
+
+
+Unauthenticated | Downloaded 07/07/26 06:41 PM UTC
+
+[PAGE 002]
+
+Journal of Psychedelic Studies 9 (2025) 4, 320-329 321
+
+
+INTRODUCTION 2021; Goodwin et al., 2022; Raison et al., 2023; von Rotz
+et al., 2023) RCTs have found psilocybin-assisted therapy
+(PAT) to have rapid and significant antidepressant effects on
+Major Depressive Disorder (MDD) occurs in 8.3% of adults
+patients with MDD or TRD. In contrast, one RCT found
+and 20.1% of adolescents in the USA (Key Substance Use
+that PAT did not outperform placebo, although PAT had
+and Mental Health Indicators in the United States: Results
+larger effect sizes (Sloshower et al., 2023). Four RCTs have
+from the 2021 National Survey on Drug Use and Health,
+indicated that PAT reduces cancer-related depressive
+2023) and is a leading cause of disability (Depression and
+symptoms (Agrawal et al., 2023; Griffiths et al., 2016; Grob
+Other Common Mental Disorders: Global Health Estimates,
+et al., 2011; Ross et al., 2016).
+2017) and economic loss (Greenberg et al., 2021). Up to a
+Given the high recurrence and relapse rates of depression
+third (14-35%) of MDD cases are recurrent, 6-15% are
+(Richards, 2011), recent reviews of PAT have emphasized a
+chronic, and at least 30% of MDD cases are labeled as
+need for longer-term follow up to determine the durability
+treatment-resistant depression (TRD) (Nemeroff, 2007;
+of its antidepressant effects (Kalfas, Taylor, Tsapekos, &
+Richards, 2011).
+Young, 2023; Metaxa & Clarke, 2024). Two recent studies
+First-line treatment for MDD includes psychotherapy
+found that depression was significantly reduced for up to six
+and/or pharmacotherapy. Second-generation antidepres-
+months post-treatment in participants with TRD and MDD,
+sants, such as selective serotonin reuptake inhibitors (SSRIs)
+respectively (R. Carhart-Harris et al., 2021; Erritzoe et al.,
+and serotonin and norepinephrine reuptake inhibitors
+2024). One wait-list RCT of 24 patients with MDD found
+(SNRIs), are often prescribed (McQuaid et al., 2019) but are
+large antidepressant effects up to 12 months (Gukasyan
+not always well tolerated due to side effects like weight gain
+et al., 2022). Another study found reductions in cancerand reduced sex drive (Ferguson, 2001). These medications
+related depression at 6.5 months, 3.2 years, and 4.5 years,
+require daily self-administration, and patients with MDD
+although a crossover design and small sample size limit how
+are 1.8 times more likely not to adhere to medication
+directly this can be attributed to PAT (Agin-Liebes et al.,
+compared to those who are non-depressed (Grenard
+2020). At six months post-dose, researchers used semiet al., 2011).
+structured interviews and found that an increased sense of
+Ketamine is a newer approach to depression treatment.
+connection and acceptance of one’s emotions were imporCompared to SSRIs or SNRIs, ketamine acts more rapidly to
+tant change processes of PAT for TRD (Watts, Day, Krzareduce depressive symptoms. A single dose can be effective
+nowski, Nutt, & Carhart-Harris, 2017).
+for 10-12 days on average, but can cause nausea, hyper-
+To date, no study has assessed the long-term effects of
+tension, and tachycardia (Yavi et al., 2022). As a dissociative
+PAT for MDD out to 5 years. Given that PAT has shown
+anesthetic drug, ketamine produces acute subjective effects
+considerable promise in the treatment of MDD, the current
+that may also be therapeutic (Luckenbaugh et al., 2014),
+study extends an earlier RCT and subsequent 12-month
+which may be enhanced by providing a supportive psy-
+follow-up (Davis et al. 2021; Gukasyan et al., 2022) to
+chotherapeutic context (Diep et al., 2025; Garel et al., 2023;
+further investigate the longer-term safety and efficacy of
+Greenway, Garel, Jerome, & Feduccia, 2020).
+PAT for MDD. The primary aims of this study are three-
+Psilocybin is a hallucinogenic drug that is converted into
+fold: 1) quantitatively examine the presence of current
+psilocin in the body, which is psychoactive primarily clinical depression symptoms, anxiety, and functional
+through agonist at the serotonin 2A receptor (5-HT2AR) impairment, 2) qualitatively assess participant experiences
+(Garcia-Romeu, Barrett, Carbonaro, Johnson, & Griffiths, since the PAT trial, and 3) qualitatively assess other treat2021). Psilocybin is widely considered to exhibit low phys- ment characteristics associated with current mental health
+iological toxicity and low potential for addiction (Nutt, King, and psychosocial functioning.
+& Phillips, 2010; Psychedelic Drugs: Considerations for
+Clinical Investigations, 2023; van Amsterdam, Nutt, Phillips,
+& van den Brink, 2015). Physical side effects are typically METHODS
+transient, mild, and include headache, nausea, increased
+heart rate and blood pressure, and physical discomfort. Research design
+Psychological side effects are typically time-limited and can
+This mixed methods study utilized a convergent parallel
+include panic, paranoia, and delusions (Prouzeau et al.,
+design, collecting and integrating quantitative and qualita2022; Raison et al., 2023). Taking psilocybin under super-
+tive data (Creswell & Plano Clark, 2018; Davis et al., 2021;
+vision by a trained professional is thought to reduce adverse
+Gukasyan et al., 2022). This integrative approach to data
+psychological effects (Johnson, Richards, & Griffiths, 2008;
+collection and analysis was selected to expand the underNichols, 2004) and mitigate their consequences while also
+standing of longer-term outcomes of PAT for the treatment
+increasing meaningful experiences (Borkel, Rojas-Hernan-
+of MDD.
+dez, Henriquez-Hernandez, Pino, & Quintana-Hernandez, 2024).
+Recruitment
+Recent double-blinded (Goodwin et al., 2022; von Rotz
+et al., 2023), waitlist-controlled (Davis et al., 2021; Rosenblat Individuals previously participating in an RCT studying the
+et al., 2024), and placebo-controlled (R. Carhart-Harris et al., effects of PAT for patients with MDD (Davis et al., 2021;
+
+
+Unauthenticated | Downloaded 07/07/26 06:41 PM UTC
+
+[PAGE 003]
+
+322 Journal of Psychedelic Studies 9 (2025) 4, 320-329
+
+
+Gukasyan et al., 2022) were contacted for a long-term Carried Forward (LOCF) or Baseline Observation Carried
+follow-up (LTFU) study approximately five years after they Forward (BOCF) apprach to imputing missing data from
+completed PAT. Please see Davis et al., 2021 for the pub- original trial participants who did not participate in this fivelished CONSORT checklist/diagram and study protocol. All year follow-up, we found that the LOCF approach produced
+24 of the study completers were contacted via email and/or an inflated reduction in depression scores at five-years
+phone between February and May of 2024, and of these, compared to the BOCF approach (See Supplementary
+21 (87.5%) opted into the current LTFU study. One indi- material 2: Results and Supplementary table S4). Therefore,
+vidual opted out of the study, and two others did not we chose to use the more conservative BOCF approach in our
+respond. Participants were compensated with up to $200 analyses to account for the inability to follow up with some
+($50 for each subset of study assessments: [in this order] participants from the parent trial, assuming a worst-case
+quantitative survey, GRID-HAMD assessment, qualitative scenario of full relapse to baseline levels of functioning when
+interview, and integration therapy session). assessing efficacy of PAT at LTFU. An alpha of p < 0.05 was
+used to determine statistical significance. All statistics were
+Assessments conducted using R.
+
+All study assessments were completed virtually. Participants
+Qualitative analysis
+completed a battery of self-report questionnaires on Qualtrics
+that assessed depression (Quick Inventory of Depressive Recorded interviews took place on Zoom and were later
+Symptomology; QIDS) (Rush et al., 2003), anxiety (State Trait transcribed and de-identified by trained study staff to facilitate
+Anxiety Inventory; STAI) (Spielberger, 1983), and functional analysis using NVivo. A reflexive thematic analysis approach to
+impairment (Sheehan Disability Scale; SDS) (Sheehan & coding data was utilized (Braun & Clarke, 2006, 2012; 2021a;
+Sheehan, 2008). Additionally, clinician raters completed a 2021b). Details about the qualitative analysis approach can be
+GRID-HAMD (Williams et al., 2008) clinician-administered found in the Supplementary material 2: Methods.
+depression assessment, the Columbia Suicide Severity Rating
+Scale (C-SSRS) (Posner et al., 2011), and a 1-hour qualitative Ethical aspects
+interview (assessing experiences in the trial and adverse events
+This study was approved by the Institutional Review Boards
+since the trial ended) with participants via Zoom (See eMethods
+at Johns Hopkins University and the Ohio State University.
+for Interview Guide). Lastly, participants attended an integration therapy meeting to discuss their experiences with two
+psilocybin session facilitators who worked on the parent trial. RESULTS
+
+Quantitative analysis
+Participants
+Data collected during this study were integrated with data
+Twenty-one participants enrolled in the study. Among these,
+from the parent trial for analysis. The parent study ran-
+one participant dropped out of the study due to a lack of
+domized participants to either immediate- or delayed-treat-
+interest in completing the questionnaires. Another participant
+ment, and repeated measures ANOVA with time and
+completed the questionnaires but did not respond to attempts
+condition as factors were performed. However, a previous
+to schedule subsequent assessments. Lastly, one participant
+analysis of follow-up data through 12-months indicated no
+completed the questionnaires and the integration meeting but
+effect of condition. Therefore, the current study utilized a
+opted out of the depression assessment and qualitative
+one-way repeated measures ANOVA with time (baseline and
+interview due to distress and difficulty with the assessments.
+1-week, 1-month, 3-months, 6-months, 12-months, and
+Therefore, the final sample of those who completed the LTFU
+LTFU post-treatment) as a factor predicting longitudinal
+for this study is 18 (75% of the parent trial sample). For the 6
+measures of depression. Similarly, a one-way repeated mea-
+participants who did not complete the LTFU, we assumed
+sures ANOVA with time (baseline and 1-week, 1-month, and
+their LTFU scores were equal to their baseline trial scores.
+LTFU post-treatment) as a factor predicting longitudinal
+Participants that enrolled in the LTFU study had an average
+measures of anxiety and functional impairment. Additionally,
+of 5.37 years (SD = 0.49, range = 4.73-6.54 years) since their
+a series of paired t-tests with Bonferroni correction compared
+last psilocybin session in the parent trial. Demographic
+LTFU scores to baseline and all other follow-up time points.
+characteristics of the full clinical trial sample are available in
+Effect size calculations included Partial eta squared (for
+the primary clinical trial publication (see Davis et al., 2021).
+ANOVA) and Cohen’s d (for paired t-tests). A sensitivity
+Because we included all original study participants in quananalysis was conducted to explore whether there were dif-
+titative analyses, the parent trial demographics are the same in
+ferences between those who did and did not participate in this
+this new LTFU report. In brief, 67% of the sample are female,
+LTFU, showing no statistically significant differences in our
+92% are white, and 96% are heterosexual.
+primary depression outcome or rates of treatment response
+and remission through 12-months post-treatment (See
+Changes in depression
+Supplementary material 2: Results and Supplementary tables
+S1-3 for details). Furthermore, after testing whether depres- Table 1 shows a summary of all clinical outcome measures
+sion scores differed as a function of using a Last Observation from baseline through LTFU. At the LTFU there was a
+
+
+Unauthenticated | Downloaded 07/07/26 06:41 PM UTC
+
+[PAGE 004]
+
+Journal of Psychedelic Studies 9 (2025) 4, 320-329 323
+
+
+Table 1. Summary of longitudinal measures, mean (SD)
+
+Measure Baseline 1-week 4-week 3-month 6-month 1-year 5-years (LTFU)
+
+STAI-State 48.83 (9.33) 33.92 (14.10) 34.96 (12.79) NA NA NA 40.88 (16.13)
+STAI-Trait 60.54 (8.70) 44.71 (14.13) 46.25 (13.13) NA NA NA 44.96 (15.51)
+STAI-Total 109.38 (15.65) 78.62 (26.24) 81.21 (24.84) NA NA NA 85.83 (30.88)
+SDS-Work 5.71 (2.92) 2.67 (2.48) 2.09 (2.51) NA NA NA 3.38 (3.17)
+SDS-Social 7.67 (2.01) 3.00 (2.70) 2.71 (2.74) NA NA NA 3.62 (3.32)
+SDS-Family 5.92 (2.76) 2.62 (2.78) 2.50 (2.59) NA NA NA 2.71 (2.97)
+SDS-Global 18.58 (6.43) 7.96 (6.73) 7.12 (7.06) NA NA NA 9.71 (9.07)
+QIDS 16.67 (3.52) 5.83 (5.44) 6.00 (5.68) 6.21 (5.32) 5.88 (5.95) 5.92 (5.76) 8.17 (7.01)
+GRID-HAMD 22.75 (3.89) 8.71 (7.58) 8.88 (7.44) 9.29 (8.78) 7.04 (7.72) 7.75 (7.94) 8.25 (11.27)
+
+
+significant effect of time on depression (F (6, 138) = 23.01, rated depression assessment, there was a significant effect of
+p < 0.001; np” = 0.29). There was also a significant difference time on self-reported depression scores (F (6, 138) = 25.61,
+between baseline (22.75 [3.89]) and LTFU (8.25 [11.27]) p < 0.001; np” = 0.31) and a significant difference between
+GRID-HAMD scores (p < 0.001), with a Cohen’s d of 1.50 baseline and LTFU (p < 0.001) with Cohen’s d of 1.27 (95% CI:
+(95% CI: 1.03, 2.49). Assessment scores did not significantly 0.90, 1.84).
+differ between LTFU and any post-treatment time points
+Changes in anxiety and functional impairment
+(1-week through 12-months). Figures 1 and 2 illustrate mean
+(SD) and participant-level mean GRID-HAMD scores, There was a significant effect of time (F(3, 69) = 14.23,
+respectively. Clinical response and remission rates based on the p < 0.001; np” = 0.20) and statistically significant differences
+GRID-HAMD ratings were also sustained through the LTFU, between baseline and LTFU STAI trait (p < 0.001; Cohen’s
+with 67% showing a clinical response and 67% in remission at d of 1.16 [95% CI: 0.79, 1.75]) and total scores (p = 0.001;
+LTFU (See Table 2). Similar to the findings from the clinician- Cohen’s d of 0.84 [95% CI: 0.46, 1.38]), but no difference
+
+Longitudinal GRID-HAMD Depression Scores
+
+
+kkk
+
+
+257
+
+
+207
+
+
+© os
+on 15-
+
+cx
+ot
+da
+Or 10-
+a.
+om
+
+
+Q
+
+54
+
+
+07
+
+
+Baseline 1-week 4-weeks 3-months 6-months 1 -year 5-years
+
+Timepoint
+
+
+Fig. 1. Longitudinal mean (SD) depression scores (GRID-HAMD) for study participants (n = 24). Baseline observations were carried
+forward to the 5-year follow-up for participants who did not complete the LTFU study. Repeated measures ANOVA show a significant
+reduction in GRID-HAMD with time (p < 0.001), and post-hoc paired t-tests reveal significant differences between baseline and LTUF
+(p < 0.001), GRID-HAMD scores did not significantly differ between 5-years and any other time point, indicating sustained reductions in
+depression symptoms from 1-week post-intervention up to 5-year later
+
+
+Unauthenticated | Downloaded 07/07/26 06:41 PM UTC
+
+[PAGE 005]
+
+324 Journal of Psychedelic Studies 9 (2025) 4, 320-329
+
+
+Table 2. Depression clinical response and remission rates
+
+Measure 1-week 4-week 3-month 6-month 1-year 5-years (LTFU)
+
+Clinical Response 71% 71% 67% 79% 75% 67%
+Remission 58% 54% 54% 54% 58% 67%
+
+Percentage of total sample (N = 24) meeting criteria for treatment response (reduction in >50% from pretreatment baseline) or remission
+(GRID-HAMD score <7).
+
+
+Participant GRID-HAMD Depression Scores
+
+35)
+
+
+30)
+
+
+25)
+
+
+S_
+da
+es 20 |
+
+cx
+ot
+DQ
+Oo 157
+an
+om
+
+
+a
+
+104
+
+
+54
+
+
+04
+
+
+Baseline 1-week 4-weeks 3-months 6-months 1-year 5-years
+
+Timepoint
+
+
+Fig. 2. Mean depression scores (GRID-HAMD) for each participant (n = 24), Baseline observation scores were carried forward to the 5-year
+follow up for participants who did not complete the LTFU study
+
+
+between baseline and LTFU STAI state scores. There were Suicidal ideation
+also no significant differences between LTFU and 1-week or
+Consistent with previous reports (Davis et al., 2021; Gukasyan
+4-week STAI scores. Similarly, there was a significant
+et al., 2022), suicidal ideation remained low at the LTFU
+effect of time on SDS global functioning impairment
+follow-up period. One participant reported passive suicidal
+(F(3, 69) = 21.78, p < 0.001; 7,” = 0.28) and significant
+ideation, but this ideation was fleeting, and upon clinical
+differences between baseline and LTFU scores (p < 0.001;
+evaluation, the participant was not found to be at risk for
+Cohen's d of 1.00 [95% CI: 0.66, 1.47]), but no differences
+suicidal behavior (see Table 3 for longitudinal scores).
+between LTFU and 1-week or 4-week SDS global functioning impairment scores. Across all SDS subscales (work,
+Qualitative results
+social, and family functioning), tests revealed significant
+differences between baseline and LTFU for work (p = 0.01; Eighteen individuals completed a structured clinicianCohen's d of 0.73 [95% CI: 0.38, 1.20]), social (p < 0.001; administered interview. Analysis focused on characterizing
+Cohen’s d of 1.23 [95% CI: 0.89, 1.79]), and family participants” experiences to deepen understanding of the
+(p < 0.001; Cohen's d of 0.95 [95% CI: 0.61, 1.41]) func- long-term effect of PAT. Themes related to long-term outtioning. There were no significant differences at the other comes included (1) treatments since the trial, (2) negative or
+time point comparisons. adverse effects, and (3) changes in symptom experiences,
+
+
+Unauthenticated | Downloaded 07/07/26 06:41 PM UTC
+
+[PAGE 006]
+
+Journal of Psychedelic Studies 9 (2025) 4, 320-329 325
+
+
+Table 3. Severity of suicidal ideation (C-SSRS)
+
+Baseline Baseline 5-years
+Measure (Lifetime) (Past Month) 1-week 4-week 3-month 6-month 1-year (LTFU)
+
+C-SSRS Severity 2.67 (1.49) 1.25 (1.19) 0.25 (0.68) 0.21 (0.66) 0.46 (0.98) 0.54 (1.06) 0.58 (1.06) 0.06 (0.24)
+
+
+including growth beyond symptom changes. Quotations and This was reflected in both the clinician- and patient-rated
+data supporting qualitative findings can be found in scales of depression severity, which were maintained at, or
+Supplementary Tables S5-8. near, their four-week post-treatment levels throughout the
+follow-up period (i.e., at 1-, 3-, 6-, and 12-months postTheme 1: Treatments since the trial treatment) for most participants. Effect sizes at this 5 year
+LTFU timepoint were very large (d = 1.50), and response
+Eleven participants reported using antidepressants since the
+and remission rates were similar at this LTFU to what was
+trial completion, with only seven of them taking antide-
+reported at the 12-month follow-up (i.e., 75% response and
+pressants at the time of the LTFU. Furthermore, four par-
+58% remission at 12 months, 67% response and 67%
+ticipants reported having tried psychedelics, one reported
+remission at LTFU) (Gukasyan et al., 2022).
+ketamine therapy, and six reported psychotherapy since the
+These results corroborate findings from two other LTFU
+trial concluded. Three participants reported no treatments
+studies with psilocybin, including a 6-month follow-up of an
+since the trial.
+open-label trial for treatment-resistant depression (TRD) (R. L.
+Carhart-Harris et al., 2018) and a randomized trial comparing
+Theme 2: Negative or adverse effects
+psilocybin to escitalopram in patients with MDD (Erritzoe
+Over half of the participants (n = 11) reported no negative or et al, 2024). Interestingly, the percentage of remitters was
+adverse effects from the PAT trial experience. Three partici- higher in the present study than in both studies (i.e., 30% at
+pants reported experiencing unwanted effects, such as feeling 6 months in TRD study; 37% in MDD study). It is unclear what
+unprepared for heightened emotional sensitivity in the months accounts for these discrepancies, but it is possible that some
+following the trial. Two participants reported negative effects combination of differences in study design (i.e., open label,
+related to contextual factors of the trial, such as extended randomized), severity of depression, and general therapeutic
+symptom worsening due to medication taper and delayed approach contributed. For example, the present study included
+condition assignment, as well as lasting disappointment about almost double the amount of therapeutic contact compared to
+the required music playlist for the second dosing session. Two the psilocybin vs. escitalopram study, which is substantial given
+participants remarked that additional integration or follow-up the known and direct contribution of the therapeutic alliance to
+sessions would have been helpful in the LTFU period. outcomes in PAT interventions (Levin et al., 2024; Murphy
+et al., 2022). In addition, given that remission improved from
+Theme 3: Changes in symptom experiences
+the 12-month time point of the parent trial (Gukasyan et al.,
+Participants reported a range of lasting changes in symptom 2022) (i.e., 58% remission at 12 months vs. 67% at LTFU), it is
+experiences following the trial, with many describing positive possible that the five-year trajectory allowed for a positive
+impacts on their lives. These included improvements in feedback loop, in which changes in lifestyle and overall funcmindset, such as increased empathy, gratitude, self-accep- tioning led to more persistent reductions in depression. One
+tance, and confidence, as well as a greater capacity for positive supportive corollary of this hypothesis is that participants
+emotions and enthusiasm. For some, despite continued experienced sustained improvements in global functional casymptoms during the follow-up period, these shifts led to pacity throughout the LTFU period.
+important changes in how they related to their experiences of Although the quantitative outcomes show sustained clindepression (e.g., seeing it as more situational or temporal). ical response and remission from depression in many pa-
+Additionally, participants described sustained improve- tients, full attribution to PAT in all cases is challenging. For
+ments in interpersonal relationships, including increased example, 11 participants (61%) reported in the qualitative
+appreciation for partners, friends, and community, as well as interviews that they started a daily antidepressant medication
+increased self-awareness and emotional sensitivity. Behavioral at some point during the LTFU, though only seven were
+changes such as better self-care and healthier boundaries were currently taking these medications. This is more than in the
+also reported as a part of lasting changes participants expe- psilocybin vs. escitalopram study, in which 63% of patients in
+rienced. Participant narratives described experiences of the psilocybin group reported some form of additional
+deeper fulfillment, resilience, and life satisfaction in the treatment, but only 30.7% reported using medications
+follow-up period, as well as openness to treatment. (Erritzoe et al., 2024). This may be interpreted as a sign that
+PAT was ultimately not effective. However, qualitative find-
+ings indicate a reasonable alternative hypothesis, including
+DISCUSSION the potential that PAT led to a lessening of the overall severity
+of depressive episodes. Indeed, in the qualitative analysis,
+The results of this study suggest that PAT leads to rapid and many participants (n = 10; 56%) specifically reported an
+sustained reductions in depression lasting for at least 5 years. altered relationship with their depressive symptoms, noting
+
+
+Unauthenticated | Downloaded 07/07/26 06:41 PM UTC
+
+[PAGE 007]
+
+326 Journal of Psychedelic Studies 9 (2025) 4, 320-329
+
+
+greater acceptance of difficulties and symptoms, even amidst depressive symptomology since last study contact contributed
+recurrence. In this context, participants may have later to current functioning. Finally, the sample size for this study
+encountered greater benefit from traditional antidepressant was small, relatively heterogeneous, and excluded those with
+treatment. The intricacies of the relationship between PAT high risk for suicide. Future research should include those
+and traditional psychotherapy and pharmacotherapy for with elevated suicide risk, given that it is a primary risk factor
+depression will need additional empirical attention. and source of morbidity and mortality in depression.
+Importantly, no serious or severe adverse events associ- The data from this study suggest that PAT is associated
+ated with PAT were reported at LTFU, with most partici- with long-term efficacy in reducing depressive symptoms and
+pants reporting no negative effects from the intervention. improving mental health in patients with MDD. The durability
+Three participants reported a period of heightened of therapeutic response to PAT will greatly determine the deemotional sensitivity in the weeks following dosing. One gree to which it may be economically viable, if approved as
+participant was hospitalized for worsening depression and a treatment. These findings support the potential of PAT as a
+suicidality several years following the trial but did not link viable long-term treatment option, but further research is
+this hospitalization to PAT. The negative effects that were needed to replicate these results and to explore the mechanisms
+linked to the trial were most often related to the context or behind the sustained benefits of PAT, potentially validating
+approach of the trial rather than to drug-related effects. For PAT as a transformative approach to treating MDD.
+example, two participants noted worsening depression
+during the waitlist period, and five reported a desire for Funding sources: Support for this study was provided by the
+specialized integration and support beyond the trial period. Center for Psychedelic and Consciousness Research, funded
+This highlights the primacy of the therapeutic relationship by private philanthropic funding from Tim Ferriss, Matt
+in this treatment approach and points to the importance of Mullenweg, Craig Nerenberg, Blake Mycoskie, and the Stepsychedelic education for practitioners and providers in the ven and Alexandra Cohen Foundation. Support was also
+community (Levin et al., 2024; Murphy et al., 2022). provided by the Center for Psychedelic Drug Research and
+Overall, the rapid and sustained response, as well as the Education, funded by anonymous donors.
+relative lack of negative effects, suggested by this clinical trial
+places PAT in a unique category of depression treatment. Conflicts of interest: AKD and SBA are board members of
+SSRIs and psychotherapy typically take many weeks to begin Source Research Foundation.
+yielding a therapeutic benefit (Cipriani et al., 2018; Cuijpers
+et al., 2014), while ketamine offers a rapid response but requires frequent and repeated dosing for durability, often ACKNOWLEDGEMENTS
+extending indefinitely (Yavi et al., 2022). In addition, SSRIs
+require an indefinitely long course of daily dosing that often We thank the trial participants for sharing their lived exinvolves substantial side effects that limit their tolerability periences with this research team. We also thank Dr. Roland
+(Wang et al., 2018) and lead to high rates of non-adherence Griffiths for his leadership of the trial from which this study
+(Ho, Chong, Chaiyakunapruk, Tangiisuran, & Jacob, 2016; comes.
+
+Rossom et al., 2016). Ketamine generally involves fewer side
+effects but presents concerns related to abuse potential (Le
+et al., 2022; Liu, Lin, Wu, & Zhou, 2016). Conversely, psi- SUPPLEMENTARY DATA
+locybin has a low abuse potential (Johnson, Griffiths, Hendricks, & Henningfield, 2018), and there was no indication Supplementary data to this article can be found online at
+of participants in this trial developing a problematic rela- https://doi.org/10.1556/2054.2025.00461.
+tionship with psilocybin in the LTFU. Indeed, only four
+participants reported using psilocybin at all during the
+follow-up period—one microdosing for a brief time and the
+REFERENCES
+others using psilocybin on two occasions each, all with
+therapeutic intent. However, given the high rate of medication reinitiation and treatment seeking in this sample, it is Agin-Liebes, T. M., Yalch, M. M. Mennenga, S. E,
+worth noting that providing additional treatments with Linnae Ponté, K., Guss, J., Bossis, A. P., ... Ross, S. (2020).
+psilocybin during follow-up may have been beneficial and Long-term follow-up of psilocybin-assisted psychotherapy for
+should be explored in future studies. psychiatric and existential distress in patients with life-threat-
+These findings are limited by study design. Namely, the ening cancer—Gabrielle I Agin-Liebes, Tara Malone, Matthew
+wait-list control design allows for comparison with the con- M Yalch, Sarah E Mennenga, K Linnae Ponté, Jeffrey Guss,
+trol group at short-term follow-up time points but not in Anthony P Bossis, Jim Grigsby, Stacy Fischer, Stephen Ross, 2020.
+LTFU. In addition, given that a large percentage of partici- https://journals-sagepub-com.proxy.lib.ohio-state.edu/doi/10.
+pants sought additional forms of treatment following partic- 1177/0269881119897615.
+
+ipation in the study, it is impossible to determine which of Agrawal, M., Emanuel, E., Richards, B., Richards, W., Roddy, K., &
+these approaches contributed most to outcomes. Moreover, it Thambi, P. (2023). Assessment of psilocybin therapy for pais impossible to know whether natural fluctuations in tients with cancer and major depression disorder. JAMA
+
+
+Unauthenticated | Downloaded 07/07/26 06:41 PM UTC
+
+[PAGE 008]
+
+Journal of Psychedelic Studies 9 (2025) 4, 320-329 327
+
+
+Oncology, 9(6), 864-866. https://doi.org/10.1001/jamaoncol. Diep, D., de la Salle, S., Thibault Lévesque, J., Lifshitz, M., Garel, N.,
+2023.0351 & Greenway, K. T. (2025). The ketamine chameleon: History,
+Borkel, L. F., Rojas-Hernandez, J., Henríquez-Hernández, L. A., pharmacology, and the contested value of experience. Expert
+Pino, Á. S. D., £ Quintana-Hernández, D. J. (2024). Set and Review of Clinical Pharmacology, 18(3), 109-129. https://doi.
+setting predict psychopathology, wellbeing and meaningfulness org/10.1080/17512433.2025.2459377
+
+of psychedelic experiences: A correlational study. Expert Review Erritzoe, D., Barba, T., Greenway, K. T., Murphy, R., Martell, J.,
+of Clinical Pharmacology. https: //www.tandfonline.com/doi/ Giribaldi, B., ... Carhart-Harris, R. (2024). Effect of psilocybin
+abs/10.1080/17512433.2023.2295997. versus escitalopram on depression symptom severity in patients
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psy- with moderate-to-severe major depressive disorder: Observa-
+chology. Qualitative Research in Psychology, 3(2), 77-101. tional 6-month follow-up of a phase 2, double-blind, rando-
+https://doi.org/10.1191/1478088706qp0630a mised, controlled trial. eClinicalMedicine, 76, 102799. https://
+Braun, V., & Clarke, V. (2012). Thematic analysis. In APA hand- doi.org/10.1016/j.eclinm.2024.102799
+book of research methods in psychology, Vol 2: Research designs: Ferguson, J. M. (2001). SSRI antidepressant medications: Adverse
+Quantitative, qualitative, neuropsychological, and biological (pp. effects and tolerability. Primary Care Companion to The Journal
+57-71). American Psychological Association. https://doi.org/10. of Clinical Psychiatry, 3(1), 22-27.
+1037/13620-004 Garcia-Romeu, A., Barrett, F. S., Carbonaro, T. M., Johnson, M. W.,
+Braun, V., Clarke, V. (2021a). Can I use TA? Should I use TA? & Griffiths, R. R. (2021). Optimal dosing for psilocybin phar-
+Should I not use TA? Comparing reflexive thematic analysis macotherapy: Considering weight-adjusted and fixed dosing
+and other pattern-based qualitative analytic approaches. approaches. Journal of Psychopharmacology (Oxford, England),
+Counselling and Psychotherapy Research, 21(1), 37-47. https:// 35(4), 353-361. https://doi.org/10.1177/0269881121991822
+doi.org/10.1002/capr.12360 Garel, N., Drury, J., Thibault Lévesque, J., Goyette, N., Lehmann, A.,
+Braun, V., & Clarke, V. (2021b). One size fits all? What counts as Looper, K., ... Greenway, K. T. (2023). The Montreal model: An
+quality practice in (reflexive) thematic analysis? Qualitative integrative biomedical-psychedelic approach to ketamine for
+Research in Psychology, 18(3), 328-352. https://doi.org/10.1080/ severe treatment-resistant depression. Frontiers in Psychiatry, 14.
+14780887.2020.1769238 https://doi.org/10.3389/fpsyt.2023.1268832
+Carhart-Harris, R. L., Bolstridge, M., Day, C. M. J., Rucker, ]., Goodwin, G. M., Aaronson, S. T., Alvarez, O., Arden, P. C.,
+Watts, R., Erritzoe, D. E., ... Nutt, D. J. (2018). Psilocybin with Baker, A., Bennett, J. C., ... Malievskaia, E. (2022). Single-dose
+psychological support for treatment-resistant depression: Six- psilocybin for a treatment-resistant episode of major depres-
+month follow-up. Psychopharmacology, 235(2), 399-408. sion. New England Journal of Medicine, 387(18), 1637-1648.
+https://doi.org/10.1007/s00213-017-4771-x https://doi.org/10.1056/NEJMoa2206443
+Carhart-Harris, R., Giribaldi, B., Watts, R. Baker-Jones, M., Greenberg, P. E., Fournier, A.-A., Sisitsky, T., Simes, M., Berman, R.,
+Murphy-Beiner, A., Murphy, R., ... Nutt, D. J. (2021). Trial of Koenigsberg, S. H., & Kessler, R. C. (2021). The economic
+psilocybin versus escitalopram for depression. New England burden of adults with major depressive disorder in the United
+Journal of Medicine, 384(15), 1402-1411. https://doi.org/10. States (2010 and 2018). PharmacoEconomics, 39(6), 653-665.
+1056/NEJMoa2032994 https://doi.org/10.1007/s40273-021-01019-4
+Cipriani, A., Furukawa, T. A., Salanti, G., Chaimani, A., Greenway, K. T., Garel, N., Jerome, L., & Feduccia, A. A. (2020).
+Atkinson, L. Z., Ogawa, Y., ... Geddes, J. R. (2018). Compar- Integrating psychotherapy and psychopharmacology: Psyche-
+ative efficacy and acceptability of 21 antidepressant drugs for delic-assisted psychotherapy and other combined treatments.
+the acute treatment of adults with major depressive disorder: A Expert Review of Clinical Pharmacology, 13(6), 655-670. https://
+systematic review and network meta-analysis. FOCUS, 16(4), doi.org/10.1080/17512433.2020.1772054
+420-429. https://doi.org/10.1176/appi.focus.16407 Grenard, J. L., Munjas, B. A., Adams, J. L., Suttorp, M.,
+Creswell, J. W., & Plano Clark, V. L. (2018). Designing and con- Maglione, M., McGlynn, E. A., & Gellad, W. F. (2011).
+ducting mixed methods research (3rd ed.). SAGE. Depression and medication adherence in the treatment of
+Cuijpers, P., Karyotaki, E., Weitz, E., Andersson, G., chronic diseases in the United States: A meta-analysis. Journal
+Hollon, S. D., & van Straten, A. (2014). The effects of psy- of General Internal Medicine, 26(10), 1175-1182. https://doi.
+chotherapies for major depression in adults on remission, org/10.1007/s11606-011-1704-y
+recovery and improvement: A meta-analysis. Journal of Af- Griffiths, R. R., Johnson, M. W., Carducci, M. A., Umbricht, A.,
+fective Disorders, 159, 118-126. https://doi.org/10.1016/j.jad. Richards, W. A., Richards, B. D., ... Klinedinst, M. A. (2016).
+2014.02.026 Psilocybin produces substantial and sustained decreases in
+Davis, A. K., Barrett, F. S, May, D. G., Cosimano, M. P., depression and anxiety in patients with life-threatening cancer:
+Sepeda, N. D., Johnson, M. W., ... Griffiths, R. R. (2021). Effects A randomized double-blind trial. Journal of Psychopharmacol-
+of psilocybin-assisted therapy on major depressive disorder. ogy (Oxford, England), 30(12), 1181-1197. https://doi.org/10.
+JAMA Psychiatry, 78(5), 1-9. https://doi.org/10.1001/ 1177/0269881116675513
+
+jamapsychiatry.2020.3285 Grob, C. S., Danforth, A. L., Chopra, G. S., Hagerty, M.,
+Depression and Other Common Mental Disorders: Global Health McKay, C. R., Halberstadt, A. L., & Greer, G. R. (2011). Pilot
+Estimates (2017). World Health Organization. https://iris.who. study of psilocybin treatment for anxiety in patients with
+int/bitstream/handle/10665/254610/WHO-MSD-MER-2017.2- advanced-stage cancer. Archives of General Psychiatry, 68(1),
+eng.pdf?sequence=1. 71-78. https://doi.org/10.1001/archgenpsychiatry.2010.116
+
+
+Unauthenticated | Downloaded 07/07/26 06:41 PM UTC
+
+[PAGE 009]
+
+328 Journal of Psychedelic Studies 9 (2025) 4, 320-329
+
+
+Gukasyan, N., Davis, A. K., Barrett, F. S., Cosimano, M. P., analysis. BMJ, 385, e078084. https://doi.org/10.1136/bmj-2023-
+Sepeda, N. D., Johnson, M. W., & Griffiths, R. R. (2022). Effi- 078084
+cacy and safety of psilocybin-assisted treatment for major Murphy, R., Kettner, H., Zeifman, R., Giribaldi, B., Kartner, L.,
+depressive disorder: Prospective 12-month follow-up. Journal of Martell, J., ... Carhart-Harris, R. (2022). Therapeutic alliance
+Psychopharmacology, 36(2), 151-158. https://doi.org/10.1177/ and rapport modulate responses to psilocybin assisted therapy
+02698811211073759 for depression. Frontiers in Pharmacology, 12. https://www.
+Ho, S. C., Chong, H. Y., Chaiyakunapruk, N., Tangiisuran, B., & frontiersin.org/articles/10.3389/fphar.2021.788155.
+Jacob, S. A. (2016). Clinical and economic impact of non- Nemeroff, C. B. (2007). Prevalence and management of treatment-
+adherence to antidepressants in major depressive disorder: A resistant depression. The Journal of Clinical Psychiatry,
+systematic review. Journal of Affective Disorders, 193, 1-10. 68(suppl 8), 15435.
+https://doi.org/10.1016/j.jad.2015.12.029 Nichols, D. E. (2004). Hallucinogens. Pharmacology & TherapeuJohnson, M. W., Griffiths, R. R, Hendricks, P. S., 8 tics, 101(2), 131-181. https://doi.org/10.1016/j.pharmthera.
+Henningfield, J. E. (2018). The abuse potential of medical psi- 2003.11.002
+
+locybin according to the 8 factors of the controlled substances Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the
+act. Neuropharmacology, 142, 143-166. https://doi.org/10.1016/ UK: A multicriteria decision analysis. The Lancet, 376(9752),
+j.neuropharm.2018.05.012 1558-1565. https://doi.org/10.1016/50140-6736(10)61462-6
+Johnson, M. W., Richards, W. A., Griffiths, R. R. (2008). Human Posner, K., Brown, G. K., Stanley, B., Brent, D. A., Yershova, K. V.,
+hallucinogen research: Guidelines for safety. Journal of Psy- Oquendo, M. A., ... Mann, J. J. (2011). The Columbia-suicide
+chopharmacology (Oxford, England), 22(6), 603-620. https:// severity rating scale: Initial validity and internal consistency
+doi.org/10.1177/0269881108093587 findings from three multisite studies with adolescents and
+Kalfas, M., Taylor, R. H., Tsapekos, D., & Young, A. H. (2023). adults. American Journal of Psychiatry, 168(12), 1266-1277.
+Psychedelics for treatment resistant depression: Are they game https://doi.org/10.1176/appi.ajp.2011.10111704
+changers? Expert Opinion on Pharmacotherapy, 24(18), 2117- Prouzeau, D., Conejero, I., Voyvodic, P. L., Becamel, C., Abbar, M.,
+2132. https://doi.org/10.1080/14656566.2023.2281582 & Lopez-Castroman, J. (2022). Psilocybin efficacy and mechaKey Substance Use and Mental Health Indicators in the United States: nisms of action in major depressive disorder: A review. Current
+Results from the 2021 National Survey on Drug Use and Health Psychiatry Reports, 24(10), 573-581. https://doi.org/10.1007/
+(2023). U.S. department of health and human services, substance s11920-022-01361-0
+
+abuse and mental health services administration. Center for Psychedelic Drugs: Considerations for Clinical Investigations (2023).
+Behavioral Health Statistics and Quality. https://www.samhsa. https://www.fda.gov/regulatory-information/search-fda-
+gov/data/report/2021-nsduh-annual-national-report. guidance-documents/psychedelic-drugs-considerationsLe, T. T., Cordero, I. P., Jawad, M. Y., Swainson, J., clinical-investigations.
+Di Vincenzo, J. D., Jaberi, S., ... McIntyre, R. S. (2022). The Raison, C. L., Sanacora, G., Woolley, J., Heinzerling, K.,
+abuse liability of ketamine: A scoping review of preclinical and Dunlop, B. W., Brown, R. T., ... Griffiths, R. R. (2023). Single-
+clinical studies. Journal of Psychiatric Research, 151, 476-496. dose psilocybin treatment for major depressive disorder: A
+https://doi.org/10.1016/j.jpsychires.2022.04.035 randomized clinical trial. JAMA, 330(9), 843-853. https://doi.
+Levin, A. W., Lancelotta, R., Sepeda, N. D., Gukasyan, N., Nayak, S., org/10.1001/jama.2023.14530
+Wagener, T. L., ... Davis, A. K. (2024). The therapeutic alliance Richards, D. (2011). Prevalence and clinical course of depression: A
+between study participants and intervention facilitators is review. Clinical Psychology Review, 31(7), 1117-1125. https://
+associated with acute effects and clinical outcomes in a psilo- doi.org/10.1016/j.cpr.2011.07.004
+cybin-assisted therapy trial for major depressive disorder. Plos Rosenblat, J. D., Meshkat, S, Doyle, Z. Kaczmarek, E.,
+One, 19(3), e0300501. https://doi.org/10.1371/journal.pone. Brudner, R. M., Kratiuk, K., ... McIntyre, R. S. (2024). Psilo-
+0300501 cybin-assisted psychotherapy for treatment resistant depresLiu, Y., Lin, D., Wu, B., & Zhou, W. (2016). Ketamine abuse po- sion: A randomized clinical trial evaluating repeated doses of
+tential and use disorder. Brain Research Bulletin, 126, 68-73. psilocybin. Med (New York, N.Y.), 5(3), 190-200.e5. https://doi.
+https://doi.org/10.1016/j.brainresbull.2016.05.016 org/10.1016/j.medj.2024.01.005
+Luckenbaugh, D. A., Niciu, M. J., Ionescu, D. F., Nolan, N. M., Ross, S., Bossis, A., Guss, J., Agin-Liebes, G., Malone, T., Cohen, B.,
+Richards, E. M., Brutsche, N. E., ... Zarate, C. A. (2014). Do the . Schmidt, B. L. (2016). Rapid and sustained symptom
+dissociative side effects of ketamine mediate its antidepressant reduction following psilocybin treatment for anxiety and
+effects? Journal of Affective Disorders, 159, 56-61. https://doi. depression in patients with life-threatening cancer: A ran-
+org/10.1016/j.jad.2014.02.017 domized controlled trial. Journal of Psychopharmacology (OxMcQuaid, J. R., Lin, E. H., Barber, J. P., Breland-Noble, A. M., ford, England), 30(12), 1165-1180. https://doi.org/10.1177/
+Cuijpers, P., Greenberg, L. S., ... Kurtzman, H. S. (2019). APA 0269881116675512
+clinical practice guideline for the treatment of depression across Rossom, R. C., Shortreed, S., Coleman, K. J., Beck, A,
+three age cohorts: (505892019-001). https://doi.org/10.1037/ Waitzfelder, B. E., Stewart, C., ... Simon, G. E. (2016). Anti-
+e505892019-001 depressant adherence across diverse populations and healthcare
+Metaxa, A.-M., & Clarke, M. (2024). Efficacy of psilocybin for settings. Depression and Anxiety, 33(8), 765-774. https://doi.
+treating symptoms of depression: Systematic review and meta- org/10.1002/da.22532
+
+
+Unauthenticated| Downloaded 07/07/26 06:41 PM UTC
+
+[PAGE 010]
+
+Journal of Psychedelic Studies 9 (2025) 4, 320-329 329
+
+
+Rush, A. J., Trivedi, M. H., Ibrahim, H. M., Carmody, T. J., von Rotz, R, Schindowski, E. M., Jungwirth, J., Schuldt, A.,
+Arnow, B., Klein, D. N., ... Keller, M. B. (2003). The 16-Item Rieser, N. M., Zahoranszky, K., ... Vollenweider, F. X. (2023).
+Quick Inventory of Depressive Symptomatology (QIDS), Single-dose psilocybin-assisted therapy in major depressive disor-
+clinician rating (QIDS-C), and self-report (QIDS-SR): A psy- der: A placebo-controlled, double-blind, randomised clinical trial.
+chometric evaluation in patients with chronic major depression. eClinicalMedicine, 56. https://doi.org/10.1016/j.eclinm.2022.101809
+Biological Psychiatry, 54(5), 573-583. https://doi.org/10.1016/ Wang, S.-M., Han, C., Bahk, W.-M., Lee, S.-J., Patkar, A. A.,
+s0006-3223(02)01866-8 Masand, P. S., & Pae, C.-U. (2018). Addressing the side effects
+Sheehan, K. H., & Sheehan, D. V. (2008). Assessing treatment ef- of contemporary antidepressant drugs: A comprehensive re-
+fects in clinical trials with the Discan metric of the Sheehan view. Chonnam Medical Journal, 54(2), 101-112. https://doi.
+Disability Scale. International Clinical Psychopharmacology, org/10.4068/cmj.2018.54.2.101
+23(2), 70. https://doi.org/10.1097/YIC.0b013e3282f2b4d6 Watts, R., Day, C., Krzanowski, J., Nutt, D., & Carhart-Harris, R.
+Sloshower, J., Skosnik, P. D., Safi-Aghdam, H., Pathania, S., Syed, S., (2017). Patients’ Accounts of Increased “Connectedness” and
+Pittman, B., & D’Souza, D. C. (2023). Psilocybin-assisted therapy “Acceptance” after psilocybin for treatment-resistant depres-
+for major depressive disorder: An exploratory placebo- sion. Journal of Humanistic Psychology, 57(5), 520-564. https://
+controlled, fixed-order trial. Journal of Psychopharmacology, doi.org/10.1177/0022167817709585
+37(7), 698-706. https://doi.org/10.1177/02698811231154852 Williams, J. B. W., Kobak, K. A., Bech, P., Engelhardt, N., Evans, K.,
+Spielberger, C. D. (1983). Manual for the state-trait-anxiety in- Lipsitz, J., ... Kalali, A. (2008). The GRID-HAMD: Standardi-
+ventory: STAI (form Y). Palo Alto, CA: Consulting Psycholo- zation of the Hamilton depression rating scale. International
+gists Press. Clinical Psychopharmacology, 23(3), 120-129. https://doi.org/
+van Amsterdam, J., Nutt, D., Phillips, L., & van den Brink, W. 10.1097/Y1C.0b013e3282f948f5
+(2015). European rating of drug harms. Journal of Psycho- Yavi, M., Lee, H., Henter, I. D., Park, L. T., & Zarate, C. A. (2022).
+pharmacology, 29(6), 655-660. https://doi.org/10.1177/ Ketamine treatment for depression: A review. Discover Mental
+0269881115581980 Health, 2(1), 9. https://doi.org/10.1007/544192-022-00012-3
+
+
+Open Access statement. This is an open-access article distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License
+(https:
+/ /creativecommons.org/licenses/by-nc/4.0/), which permits unrestricted use, distribution, and reproduction in any medium for non-commercial purposes, provided
+the original author and source are credited, a link to the CC License is provided, and changes - if any - are indicated.
+
+
+Unauthenticated | Downloaded 07/07/26 06:41 PM UTC

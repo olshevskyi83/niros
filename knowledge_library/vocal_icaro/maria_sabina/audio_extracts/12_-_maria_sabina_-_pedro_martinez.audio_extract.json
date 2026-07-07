@@ -1,0 +1,1229 @@
+{
+  "schema_version": "0.1.0",
+  "artifact_type": "niros_audio_extract",
+  "created_at": "2026-07-07T17:40:02.287769Z",
+  "source_file": "/Users/mar3k/Projects/niros-audio-lab/input/audio/12 - Maria Sabina - Pedro Martinez.mp3",
+  "computed_features": {
+    "schema_version": "0.4.0",
+    "analysis_type": "ritual_vocal_pattern_analysis",
+    "source_file": "/Users/mar3k/Projects/niros-audio-lab/input/audio/12 - Maria Sabina - Pedro Martinez.mp3",
+    "wav_file": "/Users/mar3k/Projects/niros-audio-lab/work/wav/12_-_maria_sabina_-_pedro_martinez.wav",
+    "created_at": "2026-07-07T17:31:49.025043Z",
+    "duration_seconds": 77.187,
+    "quality_flags": {
+      "overall_quality": "medium",
+      "flags": [
+        "pitch_artifacts_detected"
+      ],
+      "low_quality_phrase_count": 1,
+      "medium_quality_phrase_count": 0,
+      "low_quality_phrase_ids": [
+        "phrase_010"
+      ],
+      "medium_quality_phrase_ids": [],
+      "global_pitch_cleanup": {
+        "total_frames": 3325,
+        "raw_voiced_frames": 2764,
+        "cleaned_voiced_frames": 2615,
+        "removed_frames": 149,
+        "removed_ratio_of_voiced": 0.053907,
+        "below_vocal_floor_removed": 147,
+        "above_vocal_ceiling_removed": 0,
+        "sudden_jump_removed": 2,
+        "vocal_floor_hz": 146.83,
+        "vocal_ceiling_hz": 659.26,
+        "max_jump_semitones": 9.0
+      },
+      "note": "Low-quality pitch phrases are excluded from motif clustering and repetition estimates."
+    },
+    "tempo": {
+      "status": "classic_beat_tracking_removed",
+      "reason": "Free ritual vocal recordings often do not have stable musical beat.",
+      "vocal_cycle_tempo": {
+        "cycle_bpm": 14.81,
+        "median_cycle_seconds": 4.052,
+        "cycle_stability": 0.3,
+        "confidence": "low",
+        "note": "Vocal phrase-cycle tempo, not musical beat tempo."
+      }
+    },
+    "tonal_center": {
+      "tonal_center_hz": 212.51,
+      "tonal_center_note": "G#3",
+      "pitch_stability": 0.832,
+      "pitch_drift_direction": "downward_drift",
+      "note": "Tonal center is based on cleaned median vocal pitch, not classical musical key."
+    },
+    "pitch_range": {
+      "min_hz_p05": 197.13,
+      "max_hz_p95": 256.09,
+      "median_hz": 212.51,
+      "min_note": "G3",
+      "max_note": "C4",
+      "median_note": "G#3",
+      "pitch_span_hz": 58.96,
+      "pitch_span_semitones": 4.53,
+      "voiced_frames": 2615
+    },
+    "vocal_cycle": {
+      "phrase_count": 10,
+      "pause_count": 4,
+      "phrase_classes": {
+        "short_vocal_call": 3,
+        "extended_phrase": 6,
+        "standard_phrase": 1
+      },
+      "pause_classes": {
+        "long_pause": 1,
+        "micro_pause": 1,
+        "short_pause": 1,
+        "extended_silence": 1
+      },
+      "phrase_duration_mean": 7.038,
+      "phrase_duration_median": 4.934,
+      "phrase_duration_std": 6.317344,
+      "pause_duration_mean": 1.48725,
+      "pause_duration_median": 1.347,
+      "pause_duration_std": 1.041074,
+      "longest_phrase": 17.508,
+      "longest_pause": 2.883,
+      "vocal_density": 0.911816,
+      "silence_density": 0.077073,
+      "phrase_pause_ratio": 11.83056,
+      "vocal_cycle_tempo": {
+        "cycle_bpm": 14.81,
+        "median_cycle_seconds": 4.052,
+        "cycle_stability": 0.3,
+        "confidence": "low",
+        "note": "Vocal phrase-cycle tempo, not musical beat tempo."
+      }
+    },
+    "phrases": {
+      "count": 10,
+      "items": [
+        {
+          "id": "phrase_001",
+          "start": 2.09,
+          "end": 2.485,
+          "duration": 0.395,
+          "class": "short_vocal_call",
+          "energy": {
+            "rms_mean": 0.0062,
+            "rms_max": 0.009532
+          },
+          "spectral": {
+            "spectral_centroid_mean": 1687.53,
+            "spectral_rolloff_mean": 3081.042,
+            "zero_crossing_rate_mean": 0.055366
+          },
+          "pitch": {
+            "min_hz_p05": 213.55,
+            "max_hz_p95": 225.14,
+            "median_hz": 221.27,
+            "min_note": "G#3",
+            "max_note": "A3",
+            "median_note": "A3",
+            "pitch_span_hz": 11.59,
+            "pitch_span_semitones": 0.915,
+            "voiced_frames": 18
+          },
+          "melodic_contour": {
+            "symbols": "→→→→→→→→→→→",
+            "direction": "mostly_flat",
+            "intervals_semitones": [
+              0.45,
+              0.0,
+              0.1,
+              0.15,
+              0.2,
+              0.05,
+              -0.1,
+              -0.1,
+              -0.1,
+              -0.1,
+              0.2
+            ],
+            "values_hz": [
+              213.12,
+              218.74,
+              218.74,
+              220.0,
+              221.92,
+              224.49,
+              225.14,
+              223.85,
+              222.56,
+              221.27,
+              220.0,
+              222.56
+            ],
+            "values_midi": [
+              56.45,
+              56.9,
+              56.9,
+              57.0,
+              57.15,
+              57.35,
+              57.4,
+              57.3,
+              57.2,
+              57.1,
+              57.0,
+              57.2
+            ]
+          },
+          "quality_flags": {
+            "pitch_quality": "high",
+            "pitch_cleanup": {
+              "total_frames": 18,
+              "raw_voiced_frames": 18,
+              "cleaned_voiced_frames": 18,
+              "removed_frames": 0,
+              "removed_ratio_of_voiced": 0.0,
+              "below_vocal_floor_removed": 0,
+              "above_vocal_ceiling_removed": 0,
+              "sudden_jump_removed": 0,
+              "vocal_floor_hz": 146.83,
+              "vocal_ceiling_hz": 659.26,
+              "max_jump_semitones": 9.0
+            },
+            "has_possible_pitch_artifacts": false
+          }
+        },
+        {
+          "id": "phrase_002",
+          "start": 2.74,
+          "end": 7.709,
+          "duration": 4.969,
+          "class": "extended_phrase",
+          "energy": {
+            "rms_mean": 0.018089,
+            "rms_max": 0.037144
+          },
+          "spectral": {
+            "spectral_centroid_mean": 1675.574,
+            "spectral_rolloff_mean": 3300.466,
+            "zero_crossing_rate_mean": 0.071727
+          },
+          "pitch": {
+            "min_hz_p05": 201.33,
+            "max_hz_p95": 230.87,
+            "median_hz": 212.51,
+            "min_note": "G3",
+            "max_note": "A#3",
+            "median_note": "G#3",
+            "pitch_span_hz": 29.54,
+            "pitch_span_semitones": 2.37,
+            "voiced_frames": 174
+          },
+          "melodic_contour": {
+            "symbols": "→→→↓→→→→→→→",
+            "direction": "mostly_flat",
+            "intervals_semitones": [
+              0.3,
+              0.0,
+              0.1,
+              -0.8,
+              0.4,
+              0.45,
+              -0.15,
+              -0.049,
+              -0.1,
+              0.7,
+              -0.701
+            ],
+            "values_hz": [
+              208.86,
+              212.51,
+              212.51,
+              213.74,
+              204.09,
+              208.86,
+              214.36,
+              212.51,
+              211.9,
+              210.68,
+              219.37,
+              210.67
+            ],
+            "values_midi": [
+              56.1,
+              56.4,
+              56.4,
+              56.5,
+              55.7,
+              56.1,
+              56.55,
+              56.4,
+              56.351,
+              56.251,
+              56.951,
+              56.25
+            ]
+          },
+          "quality_flags": {
+            "pitch_quality": "high",
+            "pitch_cleanup": {
+              "total_frames": 214,
+              "raw_voiced_frames": 189,
+              "cleaned_voiced_frames": 174,
+              "removed_frames": 15,
+              "removed_ratio_of_voiced": 0.079365,
+              "below_vocal_floor_removed": 15,
+              "above_vocal_ceiling_removed": 0,
+              "sudden_jump_removed": 0,
+              "vocal_floor_hz": 146.83,
+              "vocal_ceiling_hz": 659.26,
+              "max_jump_semitones": 9.0
+            },
+            "has_possible_pitch_artifacts": false
+          }
+        },
+        {
+          "id": "phrase_003",
+          "start": 7.964,
+          "end": 22.593,
+          "duration": 14.629,
+          "class": "extended_phrase",
+          "energy": {
+            "rms_mean": 0.030546,
+            "rms_max": 0.137088
+          },
+          "spectral": {
+            "spectral_centroid_mean": 1604.2,
+            "spectral_rolloff_mean": 3038.605,
+            "zero_crossing_rate_mean": 0.074829
+          },
+          "pitch": {
+            "min_hz_p05": 201.74,
+            "max_hz_p95": 270.85,
+            "median_hz": 225.14,
+            "min_note": "G#3",
+            "max_note": "C#4",
+            "median_note": "A3",
+            "pitch_span_hz": 69.11,
+            "pitch_span_semitones": 5.1,
+            "voiced_frames": 570
+          },
+          "melodic_contour": {
+            "symbols": "↓→→→→→↓→→→→",
+            "direction": "descending",
+            "intervals_semitones": [
+              -2.8,
+              -0.7,
+              0.05,
+              -0.1,
+              -0.05,
+              -0.4,
+              -0.8,
+              -0.1,
+              0.1,
+              -0.1,
+              0.2
+            ],
+            "values_hz": [
+              280.4,
+              238.53,
+              229.08,
+              229.74,
+              228.42,
+              227.76,
+              222.56,
+              212.51,
+              211.28,
+              212.51,
+              211.28,
+              213.74
+            ],
+            "values_midi": [
+              61.2,
+              58.4,
+              57.7,
+              57.75,
+              57.65,
+              57.6,
+              57.2,
+              56.4,
+              56.3,
+              56.4,
+              56.3,
+              56.5
+            ]
+          },
+          "quality_flags": {
+            "pitch_quality": "high",
+            "pitch_cleanup": {
+              "total_frames": 631,
+              "raw_voiced_frames": 600,
+              "cleaned_voiced_frames": 570,
+              "removed_frames": 30,
+              "removed_ratio_of_voiced": 0.05,
+              "below_vocal_floor_removed": 30,
+              "above_vocal_ceiling_removed": 0,
+              "sudden_jump_removed": 0,
+              "vocal_floor_hz": 146.83,
+              "vocal_ceiling_hz": 659.26,
+              "max_jump_semitones": 9.0
+            },
+            "has_possible_pitch_artifacts": false
+          }
+        },
+        {
+          "id": "phrase_004",
+          "start": 22.616,
+          "end": 31.115,
+          "duration": 8.499,
+          "class": "extended_phrase",
+          "energy": {
+            "rms_mean": 0.019548,
+            "rms_max": 0.043238
+          },
+          "spectral": {
+            "spectral_centroid_mean": 1754.273,
+            "spectral_rolloff_mean": 3285.984,
+            "zero_crossing_rate_mean": 0.082857
+          },
+          "pitch": {
+            "min_hz_p05": 194.81,
+            "max_hz_p95": 226.45,
+            "median_hz": 211.28,
+            "min_note": "G3",
+            "max_note": "A#3",
+            "median_note": "G#3",
+            "pitch_span_hz": 31.63,
+            "pitch_span_semitones": 2.605,
+            "voiced_frames": 300
+          },
+          "melodic_contour": {
+            "symbols": "→→→→→↑→↓→→→",
+            "direction": "mostly_flat",
+            "intervals_semitones": [
+              0.1,
+              0.1,
+              -0.3,
+              -0.1,
+              -0.1,
+              0.8,
+              -0.5,
+              -0.8,
+              0.7,
+              0.3,
+              -0.5
+            ],
+            "values_hz": [
+              211.28,
+              212.51,
+              213.74,
+              210.07,
+              208.86,
+              207.65,
+              217.47,
+              211.28,
+              201.74,
+              210.07,
+              213.74,
+              207.65
+            ],
+            "values_midi": [
+              56.3,
+              56.4,
+              56.5,
+              56.2,
+              56.1,
+              56.0,
+              56.8,
+              56.3,
+              55.5,
+              56.2,
+              56.5,
+              56.0
+            ]
+          },
+          "quality_flags": {
+            "pitch_quality": "high",
+            "pitch_cleanup": {
+              "total_frames": 367,
+              "raw_voiced_frames": 337,
+              "cleaned_voiced_frames": 300,
+              "removed_frames": 37,
+              "removed_ratio_of_voiced": 0.109792,
+              "below_vocal_floor_removed": 37,
+              "above_vocal_ceiling_removed": 0,
+              "sudden_jump_removed": 0,
+              "vocal_floor_hz": 146.83,
+              "vocal_ceiling_hz": 659.26,
+              "max_jump_semitones": 9.0
+            },
+            "has_possible_pitch_artifacts": false
+          }
+        },
+        {
+          "id": "phrase_005",
+          "start": 31.184,
+          "end": 48.692,
+          "duration": 17.508,
+          "class": "extended_phrase",
+          "energy": {
+            "rms_mean": 0.026069,
+            "rms_max": 0.14468
+          },
+          "spectral": {
+            "spectral_centroid_mean": 1702.364,
+            "spectral_rolloff_mean": 3291.742,
+            "zero_crossing_rate_mean": 0.079014
+          },
+          "pitch": {
+            "min_hz_p05": 199.42,
+            "max_hz_p95": 266.66,
+            "median_hz": 212.51,
+            "min_note": "G3",
+            "max_note": "C4",
+            "median_note": "G#3",
+            "pitch_span_hz": 67.24,
+            "pitch_span_semitones": 5.03,
+            "voiced_frames": 658
+          },
+          "melodic_contour": {
+            "symbols": "↓↓→→→↑↓→→→→",
+            "direction": "descending",
+            "intervals_semitones": [
+              -1.6,
+              -1.7,
+              -0.5,
+              0.1,
+              -0.3,
+              1.4,
+              -1.3,
+              -0.1,
+              0.2,
+              -0.1,
+              -0.05
+            ],
+            "values_hz": [
+              263.14,
+              239.91,
+              217.47,
+              211.28,
+              212.51,
+              208.86,
+              226.45,
+              210.07,
+              208.86,
+              211.28,
+              210.07,
+              209.46
+            ],
+            "values_midi": [
+              60.1,
+              58.5,
+              56.8,
+              56.3,
+              56.4,
+              56.1,
+              57.5,
+              56.2,
+              56.1,
+              56.3,
+              56.2,
+              56.15
+            ]
+          },
+          "quality_flags": {
+            "pitch_quality": "high",
+            "pitch_cleanup": {
+              "total_frames": 755,
+              "raw_voiced_frames": 658,
+              "cleaned_voiced_frames": 658,
+              "removed_frames": 0,
+              "removed_ratio_of_voiced": 0.0,
+              "below_vocal_floor_removed": 0,
+              "above_vocal_ceiling_removed": 0,
+              "sudden_jump_removed": 0,
+              "vocal_floor_hz": 146.83,
+              "vocal_ceiling_hz": 659.26,
+              "max_jump_semitones": 9.0
+            },
+            "has_possible_pitch_artifacts": false
+          }
+        },
+        {
+          "id": "phrase_006",
+          "start": 48.808,
+          "end": 64.482,
+          "duration": 15.673,
+          "class": "extended_phrase",
+          "energy": {
+            "rms_mean": 0.029257,
+            "rms_max": 0.135061
+          },
+          "spectral": {
+            "spectral_centroid_mean": 1650.088,
+            "spectral_rolloff_mean": 3172.389,
+            "zero_crossing_rate_mean": 0.072339
+          },
+          "pitch": {
+            "min_hz_p05": 196.0,
+            "max_hz_p95": 266.74,
+            "median_hz": 211.28,
+            "min_note": "G3",
+            "max_note": "C4",
+            "median_note": "G#3",
+            "pitch_span_hz": 70.74,
+            "pitch_span_semitones": 5.335,
+            "voiced_frames": 594
+          },
+          "melodic_contour": {
+            "symbols": "↓↓→→→→→→↑↓→",
+            "direction": "descending",
+            "intervals_semitones": [
+              -3.5,
+              -0.801,
+              -0.1,
+              0.25,
+              -0.05,
+              -0.15,
+              -0.3,
+              0.1,
+              1.1,
+              -1.0,
+              0.1
+            ],
+            "values_hz": [
+              270.08,
+              220.64,
+              210.67,
+              209.46,
+              212.51,
+              211.89,
+              210.07,
+              206.46,
+              207.65,
+              221.27,
+              208.86,
+              210.07
+            ],
+            "values_midi": [
+              60.551,
+              57.051,
+              56.25,
+              56.15,
+              56.4,
+              56.35,
+              56.2,
+              55.9,
+              56.0,
+              57.1,
+              56.1,
+              56.2
+            ]
+          },
+          "quality_flags": {
+            "pitch_quality": "high",
+            "pitch_cleanup": {
+              "total_frames": 676,
+              "raw_voiced_frames": 594,
+              "cleaned_voiced_frames": 594,
+              "removed_frames": 0,
+              "removed_ratio_of_voiced": 0.0,
+              "below_vocal_floor_removed": 0,
+              "above_vocal_ceiling_removed": 0,
+              "sudden_jump_removed": 0,
+              "vocal_floor_hz": 146.83,
+              "vocal_ceiling_hz": 659.26,
+              "max_jump_semitones": 9.0
+            },
+            "has_possible_pitch_artifacts": false
+          }
+        },
+        {
+          "id": "phrase_007",
+          "start": 64.505,
+          "end": 67.013,
+          "duration": 2.508,
+          "class": "standard_phrase",
+          "energy": {
+            "rms_mean": 0.019098,
+            "rms_max": 0.035673
+          },
+          "spectral": {
+            "spectral_centroid_mean": 1818.651,
+            "spectral_rolloff_mean": 3492.429,
+            "zero_crossing_rate_mean": 0.077596
+          },
+          "pitch": {
+            "min_hz_p05": 196.79,
+            "max_hz_p95": 216.41,
+            "median_hz": 207.65,
+            "min_note": "G3",
+            "max_note": "A3",
+            "median_note": "G#3",
+            "pitch_span_hz": 19.61,
+            "pitch_span_semitones": 1.645,
+            "voiced_frames": 98
+          },
+          "melodic_contour": {
+            "symbols": "↑→↑→→→→→→→→",
+            "direction": "mostly_flat",
+            "intervals_semitones": [
+              1.3,
+              -0.549,
+              0.799,
+              -0.25,
+              0.05,
+              -0.15,
+              -0.25,
+              -0.45,
+              0.6,
+              0.15,
+              0.05
+            ],
+            "values_hz": [
+              194.87,
+              210.07,
+              203.5,
+              213.12,
+              210.07,
+              210.67,
+              208.86,
+              205.86,
+              200.58,
+              207.65,
+              209.46,
+              210.07
+            ],
+            "values_midi": [
+              54.9,
+              56.2,
+              55.651,
+              56.45,
+              56.2,
+              56.25,
+              56.1,
+              55.85,
+              55.4,
+              56.0,
+              56.15,
+              56.2
+            ]
+          },
+          "quality_flags": {
+            "pitch_quality": "high",
+            "pitch_cleanup": {
+              "total_frames": 109,
+              "raw_voiced_frames": 98,
+              "cleaned_voiced_frames": 98,
+              "removed_frames": 0,
+              "removed_ratio_of_voiced": 0.0,
+              "below_vocal_floor_removed": 0,
+              "above_vocal_ceiling_removed": 0,
+              "sudden_jump_removed": 0,
+              "vocal_floor_hz": 146.83,
+              "vocal_ceiling_hz": 659.26,
+              "max_jump_semitones": 9.0
+            },
+            "has_possible_pitch_artifacts": false
+          }
+        },
+        {
+          "id": "phrase_008",
+          "start": 67.384,
+          "end": 72.284,
+          "duration": 4.899,
+          "class": "extended_phrase",
+          "energy": {
+            "rms_mean": 0.020399,
+            "rms_max": 0.06111
+          },
+          "spectral": {
+            "spectral_centroid_mean": 1754.085,
+            "spectral_rolloff_mean": 3460.701,
+            "zero_crossing_rate_mean": 0.073627
+          },
+          "pitch": {
+            "min_hz_p05": 194.81,
+            "max_hz_p95": 216.35,
+            "median_hz": 206.46,
+            "min_note": "G3",
+            "max_note": "A3",
+            "median_note": "G#3",
+            "pitch_span_hz": 21.53,
+            "pitch_span_semitones": 1.815,
+            "voiced_frames": 180
+          },
+          "melodic_contour": {
+            "symbols": "→→→→↓↑→→→→→",
+            "direction": "mostly_flat",
+            "intervals_semitones": [
+              0.5,
+              -0.2,
+              -0.1,
+              0.4,
+              -1.4,
+              0.9,
+              0.0,
+              0.1,
+              -0.3,
+              0.4,
+              0.3
+            ],
+            "values_hz": [
+              204.09,
+              210.07,
+              207.65,
+              206.46,
+              211.28,
+              194.87,
+              205.27,
+              205.27,
+              206.46,
+              202.91,
+              207.65,
+              211.28
+            ],
+            "values_midi": [
+              55.7,
+              56.2,
+              56.0,
+              55.9,
+              56.3,
+              54.9,
+              55.8,
+              55.8,
+              55.9,
+              55.6,
+              56.0,
+              56.3
+            ]
+          },
+          "quality_flags": {
+            "pitch_quality": "high",
+            "pitch_cleanup": {
+              "total_frames": 212,
+              "raw_voiced_frames": 180,
+              "cleaned_voiced_frames": 180,
+              "removed_frames": 0,
+              "removed_ratio_of_voiced": 0.0,
+              "below_vocal_floor_removed": 0,
+              "above_vocal_ceiling_removed": 0,
+              "sudden_jump_removed": 0,
+              "vocal_floor_hz": 146.83,
+              "vocal_ceiling_hz": 659.26,
+              "max_jump_semitones": 9.0
+            },
+            "has_possible_pitch_artifacts": false
+          }
+        },
+        {
+          "id": "phrase_009",
+          "start": 72.887,
+          "end": 73.421,
+          "duration": 0.534,
+          "class": "short_vocal_call",
+          "energy": {
+            "rms_mean": 0.026157,
+            "rms_max": 0.05542
+          },
+          "spectral": {
+            "spectral_centroid_mean": 1662.489,
+            "spectral_rolloff_mean": 3311.432,
+            "zero_crossing_rate_mean": 0.071735
+          },
+          "pitch": {
+            "min_hz_p05": 169.55,
+            "max_hz_p95": 243.85,
+            "median_hz": 214.98,
+            "min_note": "E3",
+            "max_note": "B3",
+            "median_note": "A3",
+            "pitch_span_hz": 74.3,
+            "pitch_span_semitones": 6.292,
+            "voiced_frames": 19
+          },
+          "melodic_contour": {
+            "symbols": "↓→↓→↓↓↓→→↑→",
+            "direction": "descending",
+            "intervals_semitones": [
+              -0.955,
+              -0.498,
+              -0.802,
+              -0.25,
+              -1.686,
+              -1.264,
+              -1.15,
+              0.0,
+              -0.1,
+              0.9,
+              -0.7
+            ],
+            "values_hz": [
+              248.44,
+              235.11,
+              228.44,
+              218.1,
+              214.98,
+              195.03,
+              181.3,
+              169.64,
+              169.64,
+              168.67,
+              177.67,
+              170.63
+            ],
+            "values_midi": [
+              59.105,
+              58.15,
+              57.652,
+              56.85,
+              56.6,
+              54.914,
+              53.65,
+              52.5,
+              52.5,
+              52.4,
+              53.3,
+              52.6
+            ]
+          },
+          "quality_flags": {
+            "pitch_quality": "high",
+            "pitch_cleanup": {
+              "total_frames": 23,
+              "raw_voiced_frames": 19,
+              "cleaned_voiced_frames": 19,
+              "removed_frames": 0,
+              "removed_ratio_of_voiced": 0.0,
+              "below_vocal_floor_removed": 0,
+              "above_vocal_ceiling_removed": 0,
+              "sudden_jump_removed": 0,
+              "vocal_floor_hz": 146.83,
+              "vocal_ceiling_hz": 659.26,
+              "max_jump_semitones": 9.0
+            },
+            "has_possible_pitch_artifacts": false
+          }
+        },
+        {
+          "id": "phrase_010",
+          "start": 73.538,
+          "end": 74.304,
+          "duration": 0.766,
+          "class": "short_vocal_call",
+          "energy": {
+            "rms_mean": 0.020479,
+            "rms_max": 0.039404
+          },
+          "spectral": {
+            "spectral_centroid_mean": 1794.609,
+            "spectral_rolloff_mean": 3374.514,
+            "zero_crossing_rate_mean": 0.080522
+          },
+          "pitch": {
+            "min_hz_p05": null,
+            "max_hz_p95": null,
+            "median_hz": null,
+            "min_note": null,
+            "max_note": null,
+            "median_note": null,
+            "pitch_span_hz": null,
+            "pitch_span_semitones": null,
+            "voiced_frames": 0
+          },
+          "melodic_contour": {
+            "symbols": "",
+            "direction": "unknown",
+            "intervals_semitones": [],
+            "values_hz": [],
+            "values_midi": []
+          },
+          "quality_flags": {
+            "pitch_quality": "low",
+            "pitch_cleanup": {
+              "total_frames": 33,
+              "raw_voiced_frames": 29,
+              "cleaned_voiced_frames": 0,
+              "removed_frames": 29,
+              "removed_ratio_of_voiced": 1.0,
+              "below_vocal_floor_removed": 29,
+              "above_vocal_ceiling_removed": 0,
+              "sudden_jump_removed": 0,
+              "vocal_floor_hz": 146.83,
+              "vocal_ceiling_hz": 659.26,
+              "max_jump_semitones": 9.0
+            },
+            "has_possible_pitch_artifacts": true
+          }
+        }
+      ]
+    },
+    "pauses": {
+      "count": 4,
+      "items": [
+        {
+          "id": "pause_001",
+          "start": 0.0,
+          "end": 2.09,
+          "duration": 2.09,
+          "class": "long_pause"
+        },
+        {
+          "id": "pause_002",
+          "start": 67.013,
+          "end": 67.384,
+          "duration": 0.372,
+          "class": "micro_pause"
+        },
+        {
+          "id": "pause_003",
+          "start": 72.284,
+          "end": 72.887,
+          "duration": 0.604,
+          "class": "short_pause"
+        },
+        {
+          "id": "pause_004",
+          "start": 74.304,
+          "end": 77.187,
+          "duration": 2.883,
+          "class": "extended_silence"
+        }
+      ]
+    },
+    "energy_curve": {
+      "rms_mean": 0.02349,
+      "rms_median": 0.019877,
+      "rms_max": 0.144606,
+      "summary_20": [
+        0.006023,
+        0.018302,
+        0.043395,
+        0.034621,
+        0.022723,
+        0.01777,
+        0.020736,
+        0.019371,
+        0.041925,
+        0.022635,
+        0.026257,
+        0.018308,
+        0.037992,
+        0.033182,
+        0.022454,
+        0.021221,
+        0.020197,
+        0.017472,
+        0.020393,
+        0.004772
+      ]
+    },
+    "spectral_features": {
+      "spectral_centroid_mean": 1701.182,
+      "spectral_centroid_median": 1624.853,
+      "spectral_rolloff_mean": 3326.465,
+      "spectral_bandwidth_mean": 1901.606,
+      "zero_crossing_rate_mean": 0.074401
+    },
+    "melodic_contour": {
+      "overall_pitch_contour_direction": "descending",
+      "pitch_contour_summary_20": [
+        213.047055,
+        247.496117,
+        230.600392,
+        224.642567,
+        211.243009,
+        213.763502,
+        209.474188,
+        211.389245,
+        254.465422,
+        216.384636,
+        218.77855,
+        213.974642,
+        210.353219,
+        275.823609,
+        211.972229,
+        211.157415,
+        212.901152,
+        212.30063,
+        207.889872,
+        205.454518
+      ],
+      "phrase_contour_count": 9,
+      "note": "Pitch contours are computed after artifact cleanup. Phrase-level contours are in phrases.items[].melodic_contour."
+    },
+    "motif_clustering": {
+      "status": "ok",
+      "method": "agglomerative_clustering_on_cleaned_normalized_pitch_contour_duration_energy",
+      "distance_threshold": 0.42,
+      "motif_count": 1,
+      "motifs": [
+        {
+          "id": "motif_001",
+          "phrase_ids": [
+            "phrase_003",
+            "phrase_005",
+            "phrase_006"
+          ],
+          "repeat_count": 3,
+          "example_contour_symbols": "↓→→→→→↓→→→→",
+          "example_direction": "descending",
+          "duration_mean": 15.936667,
+          "pitch_median_note_mode_hint": "G#3"
+        }
+      ],
+      "excluded_low_quality_phrase_ids": [
+        "phrase_010"
+      ]
+    },
+    "repetition": {
+      "repetition_index": 0.429,
+      "duration_cv": 0.812,
+      "pitch_cv": 0.027,
+      "motif_repeat_coverage": 0.333,
+      "clean_phrase_count_used": 9,
+      "excluded_low_quality_count": 1,
+      "confidence": "low",
+      "note": "Repetition proxy based on clean phrase duration regularity, pitch stability and motif clustering."
+    },
+    "rhythmic_patterns": {
+      "status": "phrase_cycle_based",
+      "phrase_start_times": [
+        2.09,
+        2.74,
+        7.964,
+        22.616,
+        31.184,
+        48.808,
+        64.505,
+        67.384,
+        72.887,
+        73.538
+      ],
+      "pause_start_times": [
+        0.0,
+        67.013,
+        72.284,
+        74.304
+      ],
+      "note": "Beat tracking removed. Use phrase starts, pauses, phrase classes and vocal cycle."
+    },
+    "voice_texture": {
+      "status": "proxy_features_only",
+      "available_evidence": [
+        "tonal_center",
+        "pitch_range",
+        "pitch_stability",
+        "energy_curve",
+        "spectral_features",
+        "phrase_classes",
+        "pause_classes",
+        "melodic_contour",
+        "motif_clustering",
+        "quality_flags"
+      ],
+      "note": "Semantic texture should be generated later by OpenAI only from computed evidence."
+    },
+    "openai_guardrails": {
+      "do_not_infer": [
+        "ethnic origin",
+        "exact language if unknown",
+        "lyrics meaning without verified transcript",
+        "medical or therapeutic efficacy",
+        "ceremonial purpose as fact",
+        "spiritual claims as fact"
+      ],
+      "allowed_interpretation": [
+        "describe observable structure",
+        "state uncertainty",
+        "map possible NIROS adaptation notes",
+        "use computed evidence only",
+        "separate facts from hypotheses",
+        "mention quality limitations when quality_flags are medium or low"
+      ]
+    }
+  },
+  "semantic_features": {
+    "schema_version": "0.4.0",
+    "analysis_type": "ritual_vocal_pattern_analysis",
+    "source_file": "/Users/mar3k/Projects/niros-audio-lab/input/audio/12 - Maria Sabina - Pedro Martinez.mp3",
+    "created_at": "2026-07-07T17:40:02.287755Z",
+    "semantic_summary": {
+      "one_sentence_summary": "The recording consists of approximately ten vocal phrases varying in length, exhibiting a moderately low and descending pitch contour centered around G#3, with one main repeated motif and irregular phrase timing.",
+      "structure_description": "The vocal pattern features 10 phrases grouped as short calls, extended phrases, and a standard phrase, interspersed with pauses of varying duration and class. Phrase durations and pauses have high variability. The pitch spans about 4.5 semitones centered near G#3 with a downward overall pitch drift. Energy levels are low to moderate with occasional peaks.",
+      "dominant_pattern": "A single descending motif repeated three times across extended phrases dominates structural repetition, with low repetition index and medium pitch stability but irregular timing.",
+      "uncertainty_notes": [
+        "Confidence in vocal cycle tempo is low due to instability.",
+        "Low confidence in repetition index due to variability in phrase duration.",
+        "One phrase is excluded due to low quality data, limiting full pattern clarity."
+      ]
+    },
+    "voice_texture": {
+      "texture_label": "Moderate pitch stability with descending melodic contour and low to moderate energy fluctuations",
+      "supported_by": [
+        "pitch_stability (0.832)",
+        "descending overall pitch contour",
+        "energy_curve rms statistics",
+        "spectral features indicating a mid frequency centroid"
+      ],
+      "confidence": "medium",
+      "limitations": [
+        "Proxy features only, no direct timbre metrics",
+        "Energy and spectral data only indirectly imply texture"
+      ]
+    },
+    "phrase_structure": {
+      "phrase_style": "Irregular with mixture of short calls and extended phrases",
+      "cycle_description": "Approximately 10 phrases with highly variable durations (mean ~7s, median ~5s) and 4 pauses of varied length interspersed",
+      "pause_style": "Mixed including long, short, micro pauses and extended silence; average pause ~1.5s",
+      "supported_by": [
+        "vocal_cycle data",
+        "phrase duration statistics",
+        "pause classification data"
+      ],
+      "confidence": "high"
+    },
+    "motif_interpretation": {
+      "repetition_style": "One main descending motif repeated thrice with moderate duration (~16s) but low overall repetition index",
+      "main_motifs": [
+        {
+          "motif_id": "motif_001",
+          "interpretation": "A descending melodic pattern centered at G#3 repeated in three extended phrases",
+          "supported_by": [
+            "motif_clustering results",
+            "phrase_003, phrase_005, phrase_006 melodic contours"
+          ]
+        }
+      ],
+      "confidence": "medium"
+    },
+    "niros_adaptation_notes": {
+      "usable_elements": [
+        "Distinct phrase classes (short calls, extended, standard)",
+        "Identified motif with descending contour",
+        "Phrase and pause duration variability for temporal variation",
+        "Stable tonal center near G#3 with moderate pitch span"
+      ],
+      "avoid_copying": [
+        "Exact timing and irregular tempo",
+        "Exclusive reliance on low confidence repetition index"
+      ],
+      "possible_therapeutic_use_hypotheses": [
+        "Use of steady tonal center with descending pitch contour for potential calming effects",
+        "Incorporation of motif repetition to induce familiarity"
+      ],
+      "safety_notes": [
+        "Low energy levels unlikely to cause vocal strain",
+        "Pauses provide natural breathing spaces"
+      ]
+    },
+    "strict_guardrail_check": {
+      "did_infer_language": false,
+      "did_infer_ethnic_origin": false,
+      "did_claim_medical_efficacy": false,
+      "did_claim_spiritual_facts": false,
+      "notes": [
+        "No language or cultural origin inferred as per rules.",
+        "No medical or spiritual claims made.",
+        "All interpretations strictly based on provided features."
+      ]
+    }
+  }
+}

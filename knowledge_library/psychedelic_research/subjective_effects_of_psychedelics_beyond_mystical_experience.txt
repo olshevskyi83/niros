@@ -1,0 +1,1112 @@
+[PAGE 001]
+
+nature reviews psychology https://doi.org/10.1038/s44159-024-00345-6
+
+
+Review article ® Check for updates
+
+
+Clinically relevant acute subjective
+effects of psychedelics beyond
+mystical experience
+David B. Yaden O”, Sean P. Goldy', Brandon Weiss' & Roland R. Griffiths’?
+
+Abstract Sections
+
+
+The administration of classic psychedelics has been associated with Introduction
+
+well-being and mental health benefits as well as risks and adverse events. Therapeutic mechanisms
+of psychedelics
+The acute subjective effects of psychedelics might have a causal role in
+these risks and therapeutic benefits, but inconsistencies and limitations Measuring acute subjective
+effects
+in the conceptualization and measurement ofthese acute subjective
+effects hinder research and clinical advances. In this Review, we outline Evaluating construct validity
+
+current characterizations and psychometric examinations of the acute Balancing validity concerns
+
+subjective effects of psychedelics, evaluate the construct validity of Insights from psychological
+commonly used measures and describe findings showing that specific constructs
+
+
+acute Subjective effects predict certain outcomes. We discuss how Summary and future
+directions
+to balance the limitations of existing measures with methodological
+advances in practice and elaborate on well-known methods and other
+psychological processes that can help inform the creation of new
+measures. We suggest actionable recommendations for how the field
+can transcend current conceptualizations and provide guidance on
+best practices until the next generation of measures is validated.
+
+
+‘Department of Psychiatry and Behavioral Sciences, Center for Psychedelic and Consciousness Research, Johns
+Hopkins University School of Medicine, Baltimore, MD, USA. *Deceased: Roland R. Griffiths. <e-mail: dyaden1i@
+jhmi.edu
+
+
+Nature Reviews Psychology
+
+[PAGE 002]
+
+Review article
+
+
+Introduction In the context of society-wide stagnation of well-being levels and
+Classic psychedelics — suchas psilocybin, dimethyltryptamine (DMT), high rates of mental illness, these initial findings have attracted
+mescaline and lysergic acid diethylamide (LSD) — produce a host of substantial — although often overeager — interest”.
+acute subjective effects that differ from the effects of other mood- Whether the impacts on well-being and the specific therapeutic
+altering drugs and broadly impact cognition, perception and affect'”. benefits of psychedelics hinge upon their subjective effects remains
+The acute subjective effects of psychedelics include changes such as an ongoing discussion. Some research suggested that the acute subjecvisual alterations, heightened affect, a sense of connectedness, emo- tive effects of psychedelics are not necessary to produce therapeutic
+tional breakthrough, ineffability, synaesthesia, disembodiment or benefits”. According to this viewpoint, lower-level neurobiological
+insightfulness”*. Psychedelics also commonly elicit challenging psy- processes such as neural plasticity and neurogenesis” are sufficient
+chological content and negative emotions such as anxiety and fear’, to account for the therapeutic benefits of psychedelics”. By contrast,
+existential struggle, social disconnection and depersonalization'’, and emerging work suggests that acute subjective effects related to higherstates of confusion that lead people to put themselves in physically or level neurobiological, cognitive and affective processes involved in
+socially risky situations and can sometimes require therapeutic sup- recalling, engaging with and making meaning ofthe psychedelic expeport’. However, classic psychedelics have been rated as less risky in rience might play a critical role in the full and enduring therapeutic
+terms of harm to self and others than other psychoactive substances benefits of psychedelics”.
+that are routinely used recreationally”. In several trials of non-clinical The issue of whether acute subjective effects are causally relevant
+samples, the majority of participants rated the experience as among to the therapeutic benefits of psychedelics must ultimately be adjuthe most meaningful of their entire lives**-*. As the lifetime prevalence dicated empirically”. As scientific and public interest in psychedelics
+of recreational psychedelic use is currently around 16% in the United and their therapeutic potential continues to grow, conceptual clarity,
+States, and on therise'*”, quantifying and balancing the risks and ben- data-driven insights and best practices in measuring acute subjective
+efits of recreational psychedelic use — especially compared to other effects must be advanced to understand therapeutic mechanisms
+psychoactives” — is a topic of ongoing ethical and policy analysis”. and optimize potential applications of psychedelics”. Measures have
+The clinical risk and benefit profiles of psychedelic substances often followed from examinations of mental states referred to as
+are also actively being investigated. Several studies have documented exceptional, religious, spiritual, mystical, self-transcendent, awe or
+therapeutic benefits of psilocybin on mood and substance use dis- peak experiences, and the broadly defined constructs of non-ordinary
+orders'**°. These studies must be considered preliminary owing experiences and altered states of consciousness (Box 1). Psychedelic
+to issues ofdesign, sample size and blinding”, and caution ought to researchers have drawn on these sources and findings, sometimes
+remain the rule regarding clinical recommendations” because psych- explicitly and sometimes working in parallel, to create psychometric
+edelics can elicit serious adverse experiences (such as psychosis, self-report instruments. However, the construct validity of existing
+dissociation and suicidal ideation) even in controlled research set- measures has been questioned, particularly regarding their capacity
+tings”*". However, clinical studies have generally reported increased to capture effects accurately and to predict future clinical outcomes,
+well-being and therapeutic benefits, although adverse events, suchas risks or benefits”*.
+headache and nausea, and serious adverse events, such as increased Inthis Review, we summarize the literature on conceptualizations
+suicidality, were also noted (for example, serious adverse events and measures of the acute subjective effects of psychedelics with a
+were reported in 4% of patients with neuropsychiatric disorders)”. focus on clinical outcomes and therapeutic implications. Throughout
+
+
+Box 1| Origins of the mystical experience construct
+
+The Varieties of Religious Experience: A Study in Human Nature” In 1960, Mysticism and Philosophy” built on this initial work and
+was published in 1902. This book provided the foundation for the explicitly added that feelings of unity or interconnectedness were
+psychological study of intense and meaningful altered states of fundamental features of mystical experiences. This characterization
+consciousness for more than a century. When approaching the influenced the design of some of the most widely used scales to
+subject of what was referred to as ‘religious experience’ or ‘mystical assess mystical experiences. In particular, this work informed the
+experience’, the phrase ‘forms of consciousness’ was also used. initial iteration of the Mystical Experience Questionnaire used in
+The book introduced the term ‘mystical experience’ as it is used in the ‘Good Friday experiment” and the Mysticism scale", which
+contemporary psychedelic research, although it was defined much was created to capture a wide variety of mystical-type experiences
+more broadly than current constructs, and also popularized the including drug-induced, practice-induced (for example, meditation)
+term ‘mystical experience’ to refer to some of the most subjectively and spontaneous experiences. Picking up on this initial work, survey
+intense of the experiences. However, the author explicitly pointed studies conducted in the 1970s in the United Kingdom on religious
+out that the use of the term ‘mystical’ was not intended to suggest experiences included questions covering mystical experiences’.
+supernaturalism or non-rationalism. Four marks were introduced to By the 2000s, large-scale polling companies such as Gallup and the
+define mystical experiences: transiency (lasting for a brief period), General Social Survey conducted surveys on these experiences using
+passivity (the experiences feel overwhelming), noetic (the sense that questions such as “Would you say that you have ever had a ‘religious
+the experience feels real and as if the person is gaining knowledge) or mystical experience’ — that is, amoment of sudden religious
+and ineffability (difficulty or impossibility to put the experience insight or awakening?”, overall finding a 35% endorsement rate in the
+fully into words). United States and the United Kingdom”.
+
+
+Nature Reviews Psychology
+
+[PAGE 003]
+
+Review article
+
+
+the Review, we refer to classic psychedelics using the generic term of the Mystical Experience Questionnaire) predicted biologically con-
+‘psychedelics’. We first present the subjective and neurobiological firmed abstinence weeks later (r= -0.56) in an open-label tobacco
+effects of psychedelics that are proposed to be implicated in the mecha- cessation study?*.
+nisms driving therapeutic change. We then consider broad and narrow When and how the acute subjective effects predict persisting
+approaches to the construct of acute subjective effects and evaluate therapeutic benefits is still being investigated. A systematic review
+the construct validity of the measures that have been developed to indicated that mystical-type experiences (defined by feelings of unity,
+assess such effects. We examine the measures’ strengths and limitations positive mood, ineffability, transcendence of time and space, and
+through the lens of response processes, test content, external aspects noetic quality**) measured immediately after psychedelic experiences
+of construct validity and validity generalization, and engage in the were generally associated with well-being outcomes measured weeks
+active debate regarding which and to what degree previous theories or months after the use of psychedelics among non-clinical samples,
+should be used when advancing towards precise and comprehensive and negatively associated with anxiety**. However, findings are not
+models of subjective psychedelic experiences and their clinical out- always consistent. Scores on the Mystical Experience Questionnaire
+comes. Next, we discuss some psychological science insights that could predicted persisting increases in well-being (r= 0.50) at 6-month and
+inform understanding of the acute subjective effects of psychedelics. 12-month follow-ups but not decreases in depression in a long-term
+Indeed, psychedelic science has developed measures of subjective follow-up study of a psilocybin-based depression treatment”. The
+effects constructs that assess psychological processes (such as emo- total score of the 11-Dimensional Altered State of Consciousness scale
+tions or self-identity), often without incorporating insights from better- assessed immediately after psychedelic experiences did not correstudied psychological constructs. We focus on these connections to late with persisting therapeutic benefits in another psilocybin-based
+help with the interpretation of the therapeutic benefits of psychedelics. depression treatment study”°. But in this study, the oceanic boundFinally, we argue that data-driven and qualitatively vetted measures lessness factor subscale did predict a persisting therapeutic response
+should be the pillars of the field’s best practices as it moves beyond (r=-0.40; p = 0.04)”.
+current conceptualizations and measures. These findings suggest that the acute subjective effects of
+psychedelics might play a role in their therapeutic benefits. However,
+Therapeutic mechanisms of psychedelics correlations do not definitely indicate that the subjective effects of
+In this section, we provide an overview of the literature on two poten- psychedelics cause therapeutic outcomes. Unobserved variables
+tial mechanisms underlying the therapeutic benefits of psychedelics: related to acute subjective effects and therapeutic benefits simultaacute subjective effects involving higher-level neurobiological pro- neously might explain a statistical relationship between them. For
+cesses, and lower-level pharmacological and neurobiological effects. example, lower-level physiological processes involved in adaptive
+We discuss empirical relationships between acute subjective effects neural plasticity could, potentially, underlie the subjective experiand positive therapeutic changes as well as the potential relevance of ences that are associated with the therapeutic benefits of psychedelics.
+both mechanisms to the therapeutic benefits of psychedelics. According to this view, the acute subjective effects could be considered
+epiphenomenal.
+Acute subjective effects
+Existing measures of acute subjective effects captured during or Pharmacological and neurobiological effects
+directly after psychedelic experiences often correlate with positive Psychedelics are partial or full agonists of serotonergic 5-HT, receptherapeutic responses weeks or months later**”’”. The Mystical Expe- tors. This effect on 5-HT,, receptors has been found to mediate the
+rience Questionnaire (a measure comprising subscales related to relationship between psychedelic administration and increased neural
+feelings of unity, positive mood, transcendence oftime and space, plasticity*. Psychedelics are broadly active across 5-HT, receptors, but
+and ineffability) was positively correlated with persisting beneficial the G-protein-coupled receptor 5-HT,, is particularly relevant, because
+outcomes in individuals with a life-threatening cancer diagnosis in two blocking 5-HT,, (for example, using the 5-HT,, antagonist ketanserin)
+independentsamples””*. In the first study, scores on the questionnaire reduces or eliminates the acute subjective effects of psychedelics in
+administered immediately after a psilocybin session correlated with humans. Following administration of psychedelics, participants who
+outcome measures assessed 5 weeks later, including anxiety (r=-0.59), were administered the 5-HT,, antagonist ketanserin reported lower
+depression (r=-0.41) and life satisfaction (r= 0.53)”. Similar results ratings on the 5-Dimensional Altered State of Consciousness subscales
+were found in the second study”, which reported a correlation between measuring oceanic boundlessness, visionary restructuralization (visuacutely assessed mystical-type experiences and follow-up depression als and other perceptual changes) and anxious ego dissolution (charscores (r=-0.49). acterized by paranoia, thought disorder, and anxiously experienced
+Correlations have also been found in samples ofindividuals with loss of sense of self and self-world boundary), relative to participants
+mental health conditions.
+The oceanic boundlessness factorisasubscale who did not receive ketanserin”. Blocking 5-HT,, in rodents that had
+of the 5-Dimensional Altered States of Consciousness scale that assesses been administered psychedelics reduced or eliminated the ‘head twitch
+feelings of positive mood, spiritual experience, feelings of connection, response’, a behavioural response that indexes the effects of serotonderealization and depersonalization””. This factor predicted lower ergic agonists such as psychedelics in rodents**. Furthermore, 5-HT;,
+depression scores at week 5 (r= —0.44) inatreatment-resistant depres- receptor occupancy and signalling, indexed using positron emission
+sion study*”. Scores on the ‘mystical’ factor of the Mystical Experience tomography, have been observed to covary with acute subjective
+Questionnaire (b = -0.35) and the Emotional Breakthrough Inventory intensity in humans (assessed via self-report Likert-scale ratings and
+(b=-0.42) — a measure of productive mental engagement with emo- correlated with acute subjective experience such as mystical-type
+tional challenges involving exploration and resolution — predicted experience”) (B = 0.34)”.
+lower depression at week 6ina depression study“. Furthermore, scores Three main emerging neurobiological models suggest that the
+onthe States of Consciousness Questionnaire (an early 43-item version acute subjective effects of psychedelics might stem from systems-level
+
+
+Nature Reviews Psychology
+
+[PAGE 004]
+
+Review article
+
+
+changes in the brain. First, the cortico-striato-thalamo-cortical model acute subjective effects measures and between neurobiological mechaproposes that, by impacting 5-HT,, receptors in multiple parts of this nisms and clinical outcomes. A better understanding ofthe developcircuit’s feedback loop, psychedelics disrupt thalamic gating. Such ment, structure and construct validity of existing scales could help
+modulation of the information flow through the brain’s architecture to guide improvements of these measures.
+potentially accounts for the acute subjective effects ofpsychedelics””.
+This model is supported by results showing a correlation between the Measuring acute subjective effects
+total score of the 5-Dimensional Altered State of Consciousness scale Psychometric measures of the acute subjective effects of psychedelics
+and global brain connectivity in the somatomotor network”. Second, have followed two general streams: scales that aim to capture a broad
+the claustro-cortical circuit model proposes that psychedelic-initiated spectrum of subjective effects including perceptual changes (mostly
+5-HT,, activation leads to a misalignment between the claustrum and used in European research), and scales that adopt a narrower focus
+the cortex, prompting atypical cognitive control’. Indeed, higher to capture more specific and generally explicitly valenced effects
+total scores on the Mystical Experience Questionnaire were associ- (mostly used in US and UK research). In this section, we review common
+ated with lower claustrum variance and amplitude of low-frequency measures from both streams (Table 1).
+fluctuations”. Finally, the ‘relaxed beliefs under psychedelics’ model
+suggests that psychedelics reduce the constraints that higher-level Broad approach
+cortical networks (such as the default mode, frontoparietal and sali- A highly influential measure of the acute subjective effects of psychence networks) typically place on lower levels (such as the visual cor- edelics emerged from the ‘Good Friday experiment’, which involved
+tex, amygdala, hippocampus and thalamus), leading to increased administering psilocybin to seminary students who were observing
+bottom-up information flow”. Results showing correlations between a church service”. Based on previous work”, this study measured the
+ego dissolution (involving an attenuated sense of self and self-world acute subjective effects of psychedelics using nine categories: interboundary) and reductions in connectivity in the default mode network nal unity (reduced sense of self or individuality), external unity (con-
+(parahippocampus and retrosplenial cortex) support this model?*. nection with the external world), transcendence oftime and space
+Within the latter model, the entropic brain hypothesis holds that pat- (change in usual senses oftime or space), deeply felt positive mood,
+terns of functional brain activation and connectivity become dynami- sense of sacredness, objectivity and reality, paradoxicality (insights
+cally unstable under psychedelics”. According to a preprint that is or sensations that seem to integrate opposites), alleged ineffability
+undergoing peer review, higher blood concentration of psilocin and (experience seems beyond language) and persisting positive changes
+higher reported subjective intensity of the psychedelic experience in attitude and/or behaviour”. Participants given psilocybin endorsed
+are associated with the activity of brain regions being more likely to these categories at higher levels than participants in the control group,
+alternate unpredictably among correlated, non-correlated and anti- who were given the psychoactively inert substance niacin.
+correlated (greater entropy in covarying relations between regions)”. The Mystical Experience Questionnaire?*, which was created
+Given that such relations between regions over time index diverse during a more rigorous replication of this initial study, includes four
+cognitive states, these patterns might relate to the variable and shift- factors that capture a broad range of subjective experiences: mysticaling perceptual, cognitive and affective states represented in the acute type experiences (authoritative sense of unity and sacredness), altered
+subjective effects. However, neuroimaging studies in this area have perceptions of time and space (various changes in the senses of time
+produced contradictory findings and remain relatively preliminary”. and space), positive mood (emotions such as awe and reverence) and
+Preclinical research can help with understanding the therapeutic ineffability (sense that the experience cannot be expressed in words).
+benefits of psychedelics. Identifying common therapeutic mechanisms Progressive psychometric validation processes led to the development
+across mammalian species offers avenues for better understanding of the contemporary version of the 30-item version of the Mystical
+the physiological, neurological and behavioural underpinnings of Experience Questionnaire?*, which is frequently used in empirical
+clinical outcomes of psychedelic use”. Although experiences involv- studies of the acute subjective effects of psychedelics. Given this quesing ‘existential’ meanings are of course unlikely to be present in rodent tionnaire’s developmental lineage and operationalization of ‘mystical
+models”, an array of subjective experiences might be shared across experience’, it is positively valenced in that its items do not explicitly
+mammalian species (without any linguistic element) including feel- ask about negative or challenging experiences”. For this reason, the
+ings of attachment, approach orientation, social engagement, fear Challenging Experience Questionnaire, which focuses on negative
+and the reversal of despair”. There is evidence in rodent models that valence, is routinely co-administered.
+psychedelics can produce anti-depressant-like effects and that certain Another broad acute subjective effects measure is the Aussergesubjectively perceived contextual factors can contribute to overall effi- wohnliche Psychische Zustande* (translated into English as the
+cacy of psychedelics”. Findings from this area of research might prove Abnormal Mental States Questionnaire’). This measure drew onthe theory
+animportant addition to the debate about how relevant acute subjec- that altered states of consciousness could be defined in similar terms
+tive effects are to the persisting therapeutic benefits of psychedelics regardless of their origin or trigger”. The questionnaire features
+among humans”. 158 items (reduced from an initial set of 800 items) with a binary
+Despite the research advances on the mechanisms that might response style and three factors capturing oceanic boundlessness
+lead to therapeutic benefits, questions remain regarding how helpful (feelings of connection to the world and other persons in general,
+these pharmacological and neurobiological findings are to under- invoking Freudian terminology), dread of ego dissolution (anxiety)
+standing the acute subjective effects of psychedelics””. The diverse and visionary restructuralization. This questionnaire and the related
+range of psychometric scales used to measure acute subjective effects Aussergewóhnliche Bewusstseinszustánde scale” were found to have
+have been constructed via varying standards of psychometric valida- poor psychometric properties, such as inadequate relative model fit
+tion. Together with frequent misconceptions (Box 2), these limita- (the comparative fit index) and absolute model fit (root mean square
+tions have raised questions about the reported relationships across error of approximation)”.
+
+
+Nature Reviews Psychology
+
+[PAGE 005]
+
+Review article
+
+
+Box 2 | Misconceptions about existing measures
+
+The characterization and quantification of the acute subjective effects different scales and are supported by qualitative research across a
+of psychedelics has led to several widespread misconceptions diverse set of scholarly and theoretical work, suggesting an overlap
+involving the labels of the constructs, the relevance of previous between the original terms and assessments that do not share the
+scholarly work on construct creation and claims about the same theoretical lineage. Similar arguments have raised concerns
+comprehensiveness of a measure. regarding measures of ego dissolution and oceanic boundlessness,
+The first misconception relates to some contemporary given the Freudian roots of these labels'”; yet factors related to
+perspectives that theological premises about an ultimate reality are changes to the self have been documented in several other scales
+necessarily built into the construct ‘mystical experience®*"TM”. This that have also been reliably used to elucidate the subjective effects
+misconception derives from a tendency to fixate on the label of the of psychedelics. Although some scholarship has been particularly
+construct and to assume that it must refer to whatever colloquial influential in promoting specific measures, and (perhaps stemming
+sense the term connotes. Some scholars might attribute a common, from this scholarship) most psychedelic research has been
+colloquial meaning of the term necessarily referring to something conducted in Western, educated, industrialized, rich and democratic
+supernatural or otherwise non-rational'”*. However, the term ‘mystical contexts'”, psychometric evidence of convergence on some
+experience’ also has a technical meaning that refers to a cluster of common factors cannot be completely dismissed simply on the
+subjective experiences. This latter sense of the term has been used basis of scholarly exegesis — as these are open empirical questions.
+in some highly influential work'*”""" and in contemporary measures Such scholarly analyses suggest the need for more scientific work in
+of mystical experiences***. Multiple common meanings of a term creating more data-driven measures with cross-cultural validity and
+can interfere with effective science communication by needlessly vetted with qualitative processes.
+triggering misleading connotations, which might be a pragmatic A third common misconception is that measures of acute
+reason to abandon these labels entirely. However, to do so might also subjective effects are intended to be comprehensive, that is, to
+obscure the long scholarly history and discourse surrounding these capture all the possible effects of psychedelics for all participants.
+terms. In our view, it is the operationalized definition that matters", This is not the case. Psychedelic experiences involve a vast number
+along with the items themselves that are used in the instrument. of acute subjective effects, but few of them would be of interest
+Furthermore, contemporary scales are not operationalized to test for researchers and fewer would be relevant for the prediction of
+a metaphysical supposition but to measure the degree to which a persisting positive or negative outcomes. Choices must be made
+subjective experience has occurred that can be descriptively self- to capture some subset of effects in keeping with the principle
+reported. Overall, researchers should keep in mind the technical of parsimony and practical measurement realities. Relatedly, low
+rather than colloquial meaning of constructs. scores in individual items have been suggested to undermine a
+The second common misconception is the view that a history scale’s validity and utility as a measure’”’. But a measure will often
+of scholarly discourse on a construct undermines the possibility of pick up a subjective effect that predicts benefit — as demonstrated
+a construct having psychometric validity. For example, there has empirically — without requiring the subjective effect in question
+been much focus on the idea that mystical experiences involve a to always occur or always be associated with benefit or detriment.
+perception of contentlessness during states of unity. Some have Additionally, scores are generally expressed in group averages and the
+claimed that this idea has had a pernicious influence on some early correlations with persisting effects are usually only moderate, which
+researchers, and discounted the validity of measures that bear any means that there will be many cases that occur off the regression line.
+relation to this work'”. However, this concept no longer appears Such misconceptions are widespread across various disciplines
+in the items of contemporary measures. Additionally, factors and deserve increased science education efforts, especially when
+related to feelings of interconnection have been recovered in many studies are reported to the public.
+
+
+The term ‘altered state of consciousness’ suggests an extremely and physical states experienced under the acute effects of ayahuasca
+broad set of possible mental states. All psychoactive drugs (such as during Shipibo-Conibo-led ceremonies, and consists ofthree factors:
+caffeine, amphetamines or opioids) could be said to induce an altered clarity (peace and self-connection), reappraisal (cognitive reappraisal
+state of consciousness. Although the term is often used in psychedelic of negative beliefs about the self and others and initiative to enact
+research to refer to narrower kinds of experience, the definition of the change) and discomfort (unpleasant feelings of torment and isolation).
+construct is often left ambiguous. The 5-Dimensional Altered State of Although not specifically designed to index psychedelic experience,
+Consciousness scale® was developed to specifically measure prede- the Inventory of Non-Ordinary Experiences” aims to capture a comfined facets of this construct, and a reanalysis of the Aussergewóhnliche prehensive range of phenomena ranging from love and pain to seeing
+Bewusstseinszustande scale resulted in an 11-factor measure called the ghosts and out-of-body and psychic phenomena”. This inventory
+11-Dimensional Altered States of Consciousness scale”. focuses on item-level validity (each item is a variable) and, as such,
+Other measures also aim to provide broad coverage ofacute sub- its superordinate dimensionality is unknown, limiting its utility in
+jective effects. For instance, the Hallucinogen Rating Scale” covers clinical research contexts. Respondents across at least two cultures
+somaesthesia (perception of bodily sensations), affect, perception, (United States and India) reportedly understand the items”, but the
+cognition, volition and subjective intensity of the experience, but term ‘non-ordinary experience’ is non-specific and therefore prehas received little psychometric evaluation””. The Ayahuasca Expe- sents similar conceptual problems to ‘altered state of consciousness’.
+rience Inventory”? was designed to capture cognitive, emotional Non-ordinarity could be attributed to any vast number ofexperiences
+
+
+Nature Reviews Psychology
+
+[PAGE 006]
+
+Review article
+
+
+Table 1| Factors of common acute subjective effects measures
+
+Instrument Acronym Factors Instrument Acronym Factors
+
+Acceptance/Avoidance- APEQ Acceptance-related experience Mystical Experience MEQ Mystical
+Promoting Experiences . - Questionnaire*”* —
+Questionnaire” Avoidance-related experience Positive mood
+
+Awe Experience Scale” AWE-S Vastness Time and space
+Need for accommodation Ineffability
+Comeaaanass Psychological Insight PIQ Avoidance and maladaptive patterns
+Questionnaire” insights
+Self-loss . BR
+Goals and adaptive patterns insights
+Time alteration _ a
+Psychotomimetic States PSI Delusory thinking
+Physiological changes Inventory” i,
+Perceptual distortions
+Ayahuasca Experience AEI Clarity — 7 _
+Inventory” Cognitive disorganization
+Reappraisal -
+Anhedonia
+Discomfort -
+Mania
+Challenging Experience CEQ Grief -
+Questionnaire® Fear Paranoia
+Watts Connectedness WCS Connectedness to self
+Death Scale”
+Connectedness to others
+Insanity
+Connectedness to world
+Isolation
+
+Physical distress
+
+Paranoia regardless of their relation to intense alterations of consciousness such
+11-Dimensional Altered 11D-ASC Experience of unity asthose associated with psychedelic experiences.
+State of Consciousness” Spiritual experience
+z 2 Narrow approach
+Blissful state Measures that adopta narrow approach to capture specific subjective
+Insightfulness effects of psychedelics largely assess psychological states that are usu-
+Disembodiment ally considered productive or pleasant (positively valenced). These
+— measures include the Psychological Insight Questionnaire, focused
+Eee tee esinallare Geshe onnew understandings and realizations from the psychedelic experi-
+Anxiety ence”; the Awe Experience Scale, a multidimensional measure of the
+Complex imagery emotion of awe”; the Acceptance/Avoidance-Promoting Experiences
+! Questionnaire, which measures the respondent's degree of accept-
+Elementary imagery . u: : 76
+— ance during intense subjective experiences”; the Watts Connected-
+Audio-visual synaesthesia ness Scale, focused on feelings of connectedness to other people and
+Changed meaning of percepts things”; the Emotional Breakthrough Inventory, which measures ben-
+so Disaluñen EDI So dissaluden eficial affective experiences”; and the Ego Dissolution Inventory”,
+Inventory” . ! which measures both feelings of connection and ego dissolution.
+5 Ego inflation
+Measures related to mental illness and aversive experience gener-
+Emotional Breakthrough EBI Emotional breakthrough ally assess states commonly considered to be unpleasant (negatively
+Inventory”
+valenced). Although these measures have been administered in psy5-Dimensional Altered 5D-ASC Oceanic boundlessness chedelic research contexts, most of them were not created specifically
+State of Consciousness” . . .
+Anxious ego dissolution for psychedelic drug administration studies. The Addiction Research
+Center Inventory*”*, which is often used to assess behaviour related
+Visionary restructuralization
+to psychoactive substances of abuse, assesses a psychotomimetic
+Auditory alterations
+factor'*”°. This measure was designed specifically to differentiate LSD
+Reduction of vigilance from other drugs and is considered to provide a measure of dysphoria,
+Hallucinogen Rating HRS Somaesthesia perhaps because it was developed through studies in prisoners, who
+generally reported that the experience was unpleasant (probably
+Sede" Affect owing, in part, to the specific setting). The Psychotomimetic States
+Perception Inventory” is explicitly oriented to measuring mental illness”. The
+Cognition Challenging Experience Questionnaire’ is among the few negatively
+valenced measures created specifically for use in psychedelic contexts
+Volition
+that is still commonly administered, generally along with the Mystical
+Intensity
+Experience Questionnaire>*.
+
+
+Nature Reviews Psychology
+
+[PAGE 007]
+
+Review article
+
+
+Both the narrower and the broader approaches to assessing sub- effects have been observed to linger for some time at a markedly low
+jective effects have advantages and trade-offs. The narrower approach intensity, referred to as ‘afterglow’.
+helps identify active ingredients of experiences specifically linked to Declarative episodic memory error could conceivably function as
+persisting negative or positive effects at a granular level, pertaining aconstruct-irrelevant factor. Psychedelics alter cognitive functioning,
+to specific aspects of the subjective effects of psychedelics. However, which might undermine respondents’ ability to precisely recall and
+by design, a narrow approach might miss important aspects of the gauge the acute subjective effects. Psychedelic administration during
+experiences. By contrast, the broad approach provides a fuller picture memory encoding impairs recollection (free recall tasks) and enhances
+of possible states but might not index some specific effects or might familiarity of previously learned stimuli”. Answering questions about
+obscure or subsume important narrow states at subordinate levels of one’s previous experiences involves recognition (a feeling of familiarity
+the construct hierarchy. for a previously encountered stimulus) rather than free recall (precise
+As this field matures, models of acute psychedelic experience are recollection). Thus, these findings do not necessarily suggest serious
+likely to become increasingly complex and encompassing of factors memory deficits on self-reporting measures, which aid recall by providacross these narrow and broad measures. This increasing model com- ing descriptions of experiential content. However, memory of mental
+plexity and comprehensiveness should fulfil aims for a detailed and objects under high doses (>25 mg psilocybin) has not been evaluated.
+close to comprehensive representation of relevant phenomenological In addition, the delay between the experience and the respondents’
+and cognitive states of psychedelic experiences, as well as pragmatic reporting might contribute to retrospective memory deficits because
+aims ofpredicting persisting risks and benefits. These measures must memories fade over time. Some validation efforts have relied on data
+also be possible to administer during or immediately after the acute involving longer delays of days to weeks before reporting?*-*-”, which
+subjective effects of psychedelics. Evaluating how well existing scales can increase measurement error and decrease validity.
+assess the construct they were designed to capture can inform specific Preconceived judgements of psychedelic experiences are asecond
+research and development recommendations. construct-irrelevant factor that might decrease validity. Meaningful
+and positive impressions of psychedelic experiences and positive
+Evaluating construct validity expectancy” could influence respondents’ opinions and answers
+Quantifying participants’ acute subjective experiences using retrospec- to the measures (halo effect). Participants might generally endorse
+tive accounts is central to psychedelic science. However,retrospective positively valenced attributes (such as connectedness and emotional
+measurement raises important concerns regarding construct valid- breakthrough) rather than responding precisely about the more
+ity, which is defined by how well a test or measure assesses what it is specific qualities of their personal experience. Similarly, respondents’
+intended to assess***, Psychological science offers methods to assess ideas regarding the utility and significance of psychedelic experiences
+the validity of quantitative measures of mental operations, traits and could influence their responses. For example, a respondent with
+phenomena that cannot be directly observed using latent constructs, prior knowledge of psychedelic-induced mystical-type experiences
+such as the Standards for Educational and Psychological Testing”. In might believe that psychedelics are useful for mystical-type experithis section, we evaluate the construct validity of common measures ence and be more likely to endorse mystical-type experience items.
+of the acute subjective effects of psychedelics with reference to four To the extent that respondents believe researchers are looking for
+sources outlined by these standards. positive outcomes, respondents might present a favourable picture
+of positive change following psychedelics, thereby succumbing to
+Response process validation demand characteristics.
+The response process refers to whether a measure facilitates respondents’ engagement in mental operations that are theoretically relevant Test content evidence
+to the construct being measured””. Inthe context of acute psychedelic Content validity refers to the representativeness of content within a
+measurement, response process evidence addresses whether respond- measure relevant to the theoretical attribute***”””. In the context of
+ents engage in cognitive processes such as understanding the specific acute subjective measurement, test content evidence bears on whether
+construct being described in questionnaire items (for example, ego ameasure is too broad, too narrow or fails to include important facets
+dissolution) and accurately remembering whether the construct cor- of the underlying construct. A measure could be considered too broad
+responds to respondents’ prior psychedelic experience. Furthermore, if itincludes phenomena outside the psychedelic experience or experiensuring response process validation of acute subjective measures ences irrelevant to capturing features related to the clinical outcomes it
+involves addressing construct-irrelevant factors, which are factors is concerned with. A measure could be considered too narrowifit fails
+in the response process — other than the theoretical attribute under toinclude relevant phenomena (construct under-representation). For
+examination — that contribute to respondent ratings***. example, measures that do not include ego dissolution when concep-
+Results of cognitive tasks administered during the acute subjec- tualizing experiences of connectedness or unity (or vice versa) might
+tive effects of psychedelics using standardized computer programs be considered too narrow”. Similarly, experiences of emotional breakin controlled laboratory settings have shown overall performance through might fit within the broader construct of acceptance-related
+deficits, probably owing to a reduced attentional capacity under the experience”.
+acute effects of psychedelics®’. Indeed, deficits were found on the inhi- Another issue relevant to test content is whether different aspects
+bition of return task, which targets attention specifically®**
+°°.Reduced of psychedelic experiences should be distinguished from each other.
+performance onthe Frankfurt Attention Inventory”, the Stroop task”, For example, unusual experiences can be distinguished into two
+the go/no-go test” and other working memory tasks” have also been components®”: the primary phenomenological features of an event
+observed. These acute cognitive deficits raise concerns about the cog- (what the event was like or seemed like) and the secondary interpretanitive functioning of respondents as they complete retrospective meas- tions (Subjective appraisals of emotional valence, significance and
+ures shortly following acute subjective effects. Of note, psychoactive cause). However, given the close association between experiences
+
+
+Nature Reviews Psychology
+
+[PAGE 008]
+
+Review article
+
+
+and interpretations”, whether these components are straightforwardly between the Mystical Experience Questionnaire and the Ego Dissoluseparable is unclear. tion Inventory was interpreted as support for discriminant validity in
+Measures of acute subjective effects have expanded consider- another study”. Differences in interpretation would be justified if preably, and new measures continue to be created to provide a more cise theory-driven predictions of the relations between constructs were
+nuanced assessment. For example, a measure has been constructed formulated a priori. However, such predictions have generally been
+that captures acceptance-related and avoidance-related acute subjec- absent*”””° or, when specified, limited to whether the correlations
+tive effects”. Similarly, some existing measures have been criticized for between constructs were high or low, without further specification”*”?.
+understating negatively valenced experiences, and studies often bal- In addition to challenges with interpretation, three other notable
+ance the assessment of the psychedelic experience by co-administering limitations exist. First, itis unclear whether predicted convergent and
+the Challenging Experience Questionnaire, which focuses on negative discriminant nomological network patterns hold up across different
+valence. Wide-ranging measures exist that carefully consider both methods of measurement (multi-trait, multi-method approach”).
+positively and negatively valenced subjective effects (for example, the The convergence or discriminance between two constructs would be
+11-Dimensional Altered State of Consciousness scale). more compelling if self-report measures and interviews supported the
+Finally, it is unclear whether the collective body of existing overlap or separation. Second, the temporal association or dissociameasures is sufficiently representative of all the relevant acute sub- tion of different acute attributes during the psychedelic experience
+jective effects that occur during psychedelic experiences. Micro- is unknown. The duration of psychoactive effects might influence
+phenomenologists are engaged in expanding the phenomenological convergent validity, dependent on the type of psychedelic compounds,
+and cognitive content space of the psychedelic experience”. For doses and their pharmacological routes. For example, psilocybin has
+example, one project is applying the micro-phenomenological psychoactive periods that can last for around 6 hours, and distinct
+interview method to record first-person experiential descriptions of acute subjective effects might occur at different time points, but
+psychedelic experiences in order to inform the construction of psy- participants might report them as occurring at the same time due to
+chometric tools that better assess the structure and content of acute how the self-report measures are presented. Thus, a high correlation
+subjective effects’. across diverse attributes might be related to the temporal realities of
+psilocybin administration. Third, very seldomly have measures been
+External aspects of construct validity validated out of sample*””*””. Such practices would ensure replication
+The external aspects of construct validity refer to whether a measure and support generalizability.
+exhibits theoretically consistent patterns of convergent, discriminant The literature is clearer concerning criterion validity, although
+and criterion relations with other measured attributes and outcomes”. not without gaps. The capacity to predict future outcomes is an
+Comparisons of the measurement scores with other variables can pro- important part of a construct’s nomological network and identity*,
+vide evidence on whether an assessed measure or attribute is mean- and particularly important for evaluating the therapeutic utility of
+ingfully distinct (discriminant validity) or overlapping (convergent subjective effects of psychedelics. In general, some acute subjective
+validity) with other measures or constructs that assess acute subjec- effects have been associated with persisting beneficial changes. Factive psychedelic experiences. Similarly, the relationships between tors that showed a positive correlation with persisting positive outmeasures of the acute subjective effects of psychedelics and outcome comes include mystical-type experience”, insight”, emotional
+variables provide information about the usefulness of the measure in breakthrough” and ego dissolution”. By contrast, challenging (negapredicting clinical benefits, such as less severe depression symptoms tively valenced) experiences have shown generally null or only slightly
+(criterion validity). negative relations with persisting beneficial changes””*”. Findings are
+In general, measures of the acute subjective effects of psychedelics mixed regarding other longer-term outcomes suchas personality and
+show evidence of convergent, discriminant and criterion validity. spiritual-type belief changes that could, potentially, inform a greater
+Regarding convergent and discriminant validity, the tests have been specificity of predictive relations”?'%**%. Although subsequent validagenerally limited to associations with other acute subjective effects tion in prospective studies generally follows initial investigations’,
+of psychedelics from self-report constructs*”””*’*””. By contrast, criterion outcomes have been measured using retrospective indices
+convergent and discriminant validity have been reported for the of change?””*"*""%, which are more likely than prospective measures
+11-Dimensional Altered State of Consciousness scale factors relative to be vulnerable to placebo and expectancy effects.
+to ordinary mood states’. Discriminant validity (low or null association)
+has been observed for the Challenging Experience Questionnaire Validity generalization
+relative to a set of positively valenced measures (Mystical Experience Validity generalization refers to whether the properties and interpretaQuestionnaire, Ego Dissolution Inventory, Emotional Breakthrough tions of ameasure’s score are the same across different people, populaInventory, Avoidance-Promoting Experiences and Psychological tion groups, cultures, drugs and administration settings”. Measures
+Insight Questionnaire)?”*”*, Convergent validity has been observed have generally been validated only in samples characterized as Western,
+across the same latter set of measures””’””°’*”” and was confirmed educated, industrialized, rich and democratic'”'°®. Validation surveys
+between the negatively valenced Acceptance/Avoidance-Promoting are frequently explicit about the topic of research and usually do not
+Experiences Questionnaire subscale (avoidant-related experience) compensate volunteers, and therefore might attract a high concenand the Challenging Experience Questionnaire. tration of psychedelic enthusiasts who are likely to differ from the
+One limitation in this literature is that the thresholds for establish- general population. In addition, setting types (for example, supportive
+ing convergent and discriminant validity are vague””*”*. For example, versus alienating settings) could drive diverse acute experiences across
+acorrelation of r~ 0.50 between the Emotional Breakthrough Inventory individuals, given their sensitivity to the features of their setting”.
+and the Mystical Experience Questionnaire was interpreted as support Qualitative work has also shown some cultural variations in subjective
+for convergent validity in onestudy*, and a larger correlation (r, = 0.74) experiences that are not captured by existing scales'”.
+
+
+Nature Reviews Psychology
+
+[PAGE 009]
+
+Review article
+
+
+The interpretation of the terms used in self-report items depends Nevertheless, factors unrelated to a scale’s intended constructs
+onsubjective connotations, which can become problematic if the items can contribute to the high correlations between measures. For examare ambiguous or otherwise difficult to understand. For example, ple, the oceanic boundlessness subscale of the 11-Dimensional Altered
+a respondent who is not religious and who does interpret the phrase State of Consciousness scale (such as experience of unity and insight-
+‘religious aspects’ as referring toa religious doctrine might not endorse fulness) correlates with the Mystical Experience Questionnaire total
+the item, although they might have had an experience that fits with (r= 0.93)’, but they might measure different latent variables and the
+another sense of the term ‘religious’ (such as involving pervasive feel- correlations might be driven by construct-irrelevant factors; scales
+ings that life is precious). These diverse connotations might introduce and items might be assumed to tap into the same construct based
+systematic error in studies of culturally and ethnically diverse sam- only on their semantic similarity''**”. Empirically establishing comples. Participants’ confusion about the description of an experience mon latent factors would require that the scales separately show good
+in measures and items has also been raised as a potential source of construct validity in the first place. Psychedelic experiences are out
+invalidity. For example, the item “I experienced a touch of eternity” of the ordinary, and imprecisely recollected (or ineffable) features of
+might introduce an error if participants have difficulty determining the experience might be difficult to report in linguistic categories.
+and reporting what level of experience they had. Current measures A respondent might endorse two different terms pointing to distinct
+have typically improved on previous assessments that had even more experiences because the terms prompt retrieval of an acute subjective
+confusing items, such as items with double negatives" or less vali- experience that bears at least some resemblance to both butis, in fact,
+dated factor structure”. But some items in current measures remain not completely captured by either. Thus, high correlations between
+confusing and might result
+in inaccurate measurements ofindividuals’ some measures and subscales could be driven by spurious variance
+experiences. attributable to the measurement method rather than the measured
+In sum, we found some empirical support for the validity of construct (shared method variance). In general, it will be important
+current measures of acute psychedelic experiences according to the for scientists to balance concerns about parsimony on the one hand
+Standards for Educational and Psychological Testing criteria. How- (which would motivate convergence so as to reduce the number of
+ever, there are several limitations and threats to the validity of current constructs) and discriminance on the other (which would motivate
+measures. retaining meaningful demarcations between constructs).
+Current measures are not rendered entirely useless, despite their
+Balancing validity concerns limitations. However, there are numerous ways in which psychedelic
+There is consensus among construct validity theorists that predic- researchers can enhance the ability of acute psychedelic measures to
+tions about aconstruct’s nomological network should be madea priori more accurately measure their intended construct validly. Foremost
+and based ontheory”**. However, in practice, theoretical predictions among these are qualitative processes and response process techare frequently informed by observed empirical relations in an iterative niques to reduce construct-irrelevant factors. One such qualitative
+and ongoing process, and inferences about theoretical attributes are process, cognitive interviewing, is a technique within response process
+frequently guided by psychometric results from network analyses validation in which researchers examine how respondents underand latent variable modelling ina bottom-up manner". To the degree stand items''°. Another example is think-aloud protocols, in which
+that measures meaningfully reflect the theoretical attribute being respondents are asked to talk through their cognitive processes while
+examined, researchers can learn about constructs by reference to their respondingto items". The probe-based method" directs respondents’
+nomological network. attention to parts ofa measure that might be confusing (for example,
+There is some degree of convergence across measures of the acute “What does the term ‘unity’ mean to you?”, “Can you repeat the quessubjective effects of psychedelics — particularly across subscales within tion just asked you in your own words?”). Finally, cognitive interviews
+measures — despite the substantially different theoretical backgrounds would be valuable in understanding how well respondents comprehend
+motivating the different measures. For example, nearly all measures the language and concepts used in acute subjective measures of psychehave a factor involving feelings of interconnection, which is assessed delic experience. Unfortunately, response process validity evidence is
+with items referring to unity, oneness (the cognitive state of oneselfand under-represented in psychedelic research"”*”. Some initiatives have
+external and internal phenomena being undifferentiated), connected- applied these techniques using open-ended responses rather than
+ness, relationality or boundlessness. Specific cases of this example are cognitive interviews. For example, the response process evaluation
+the mystical factor in the Mystical Experience Questionnaire, the ego method!” uses open-ended responses and iterative measurement
+dissolution factor in the Ego Dissolution Inventory, the connectedness to probe whether respondents understand each item, and has been
+factor inthe Awe Experience Scale and the oceanic boundlessness fac- used to establish item-level validity in the Inventory of Non-Ordinary
+tor in the 5-Dimensional Altered State of Consciousness scale. Overall, Experiences in the United States and India”.
+these subscale-level measures correlate highly and, in some cases, so There are ongoing scientific efforts that aim to expand the repredo the total measure scores. For example, the Mystical Experience sentativeness of content related to psychedelic experience and capturea
+Questionnaire showed a high correlation with the oceanic boundless- more nuanced representation of the subjective effects!” The evalness dimension of the 5-Dimensional Altered State of Consciousness uations of the convergent, discriminant and criterion validity of the
+scale (r= 0.93)” and with factors of the Awe Experience Scale (range of measures can be improved through precise pre-registered hypotheses,
+semantic network analysis values 0.77-0.83)'”, and the mystical factor the application of multi-trait, multi-method approaches that providea
+of the Mystical Experience Questionnaire showed high correlation with comprehensive examination of the constructs, inquiry into the tempothe Ego Dissolution Inventory (r, = 0.74)”. Thus, factors from separate ral aspects of the experiences and characterizing construct-irrelevant
+existing scales used to measure the acute effects of psychedelics dis- factors to reduce potential artefactual associations.
+play conceptual overlap, an observation which might inform future Although construct-irrelevant variance weakens a measure’s
+quantitative and qualitative studies (Fig. 1). validity and is a crucial object of future study, it might not entirely
+
+
+Nature Reviews Psychology
+
+[PAGE 010]
+
+eee
+
+
+Review article
+
+
+Acceptance Avoidance
+
+
+Paranoia
+
+
+Effects on Cognition
+cognition
+
+Connectedness Connectedness
+to world to self
+
+
+Connectedness Need for Delusory
+accomodation thinking Ego dissolution
+
+Cognitive
+Paranoia disorganization
+Connectedness Sense of self
+Connectedness
+Volition
+
+
+. Ego Inflation
+Physical
+_ distress
+
+Psychological Somaesthesia Self-loss
+changes
+
+
+Physiological Grief | Fear
+sensations
+
+
+Time
+alteration Affect
+
+
+Sense of time
+and space u Affect
+Positive Mania
+mood
+
+
+Emotional
+breakthrough
+
+
+Perception
+
+
+Awe Experience Scale
+
+© Mystical Experience Questionnaire
+Watts Connectedness Scale Auditory and
+visual perception Perceptual
+© 11-Dimensional Altered State
+distortions
+of Consciousness
+
+Challenging Experience Questionnaire
+
+Psychotomimetic States Inventory
+
+Hallucinogen Rating Scale
+
+@ Acceptance/Avoidance-Promoting
+Experiences
+
+@ Ego Dissolution Inventory
+
+@ Emotional Breakthrough Inventory
+
+© Psychological Insight Questionnaire
+
+
+Nature Reviews Psychology
+
+[PAGE 011]
+
+Review article
+
+
+Fig. 1| Possible overlaps between the factors assessed in existing scales represent clusters of items (smaller circles) within scales, might capture some
+of subjective effects of psychedelics. Psychedelic experiences comprise an aspect of the subjective effects. There might be conceptual overlap across
+enormous number of possible subjective effects, only some of which existing the factors’ definitions and the items that comprise the scales. Additional
+measures capture. Some of these effects could be conceptually defined aspects of the subjective experience of psychedelics are yet to be captured by
+as asense of connectedness, perceptual alterations, changes in affect and measures (which could be conceptualized as the blank space in the background
+cognition, modified sense of time, space, and the self, and physiological of the figure). These factors are conceptually arranged for demonstration
+sensations (larger circles). A diverse set of sub-scales or factors, which can purposes and require future empirical work to determine dimensionality.
+
+
+compromise a measure's capacity to adequately signal the underlying therapeutic benefits”, despite work suggesting that positive emotheoretical construct. Indeed, there is no direct evidence of a perni- tions may underlie psychedelics’ therapeutic outcomes”. Similarly,
+cious influence of construct-irrelevant variance in the context of acute negative affect is acommonly assessed component of challenging
+psychedelic measurement as of yet, so further study is needed, but psychedelic experiences, which can include feelings of anxiety, fear
+improvements should nonetheless proceed in the meantime. Using and paranoia””. Facets of affect can be identified in measures of the
+study design techniques can help to mitigate judgement biases'”. For acute subjective effects of psychedelics, such as the positive mood
+example, improving active placebo conditions so that they are indis- factor of the Mystical Experience Questionnaire and the blissfultinguishable from classic psychedelic experience can keep participants ness factor of the 11-Dimensional Altered State of Consciousness
+blinded, anecessary condition for properly placebo-controlled trials'”. scale, or the anxiety subscale of the Challenging Experience QuesRecruiting individuals without psychedelic use history and with low tionnaire and in sub-scales of the 11-Dimensional Altered State of
+knowledge of psychedelics can help to preserve blinding and reduce Consciousness scale.
+reporting biases such as the halo effect. In the context of clinical tri- Awe is among the most relevant emotions related to the acute
+als, measures are included to provide information to predict future subjective effects of psychedelics, given the information overload and
+therapeutic or adverse responses and to make progress in identifying enormity of perceived meaning often involved in the acute subjective
+potential therapeutic mechanisms*”*, effects, and the extensive inner worlds, connectedness and small self
+Beyond existing measures, amore principled, systematic approach often reported during psychedelic states”-*?*, Awe is more generally
+is needed to construct future measures. A more nuanced approach can defined in terms of two appraisal dimensions: the perceptionof vasthelp to correct current limitations in representativeness and the ness (both literal and figurative) and the need for cognitive accomdiscrepancies between the pursued aims of the measures and their modation (incorporating unexpected experiences into one’s mental
+content. Importantly, new measures should be explicit about the schemata)'?*”, Awe has been investigated across several triggers,
+theoretical assumptions used to identify the acute subjective effects such as natural scenery, virtual reality, videos (for example, nature
+of interest. documentaries) and witnessing other people engaging in acts of excel-
+lence and virtue”**%*P*, and has been found to promote learning'”*'”
+Insights from psychological constructs and decrease dependence on internal knowledge (what an individual
+The psychedelic sciences have made relevant scientific advances in already knows)**. In psychedelic research contexts, awe has been
+understanding acute subjective effects and linking these effects to proposed asa major therapeutic mechanism of psychedelics”*’”®. The
+other variables such as future therapeutic benefits, risks and changes 11-Dimensional Altered State of Consciousness scale and the Mystical
+in neurobiology. However, one potential problem in psychedelic sci- Experience Questionnaire scales assess awe explicitly (for example,
+ence is that psychedelic experiences have been approached some- with the item ‘sense of awe or awesomeness’)”””’.
+what separately from ordinary cognitive and psychological states. Feeling connected — as opposed to isolated — might result in benMeasures of the acute subjective effects of psychedelics often seem eficial psychological effects. The need to belong is a well-established
+to include psychological processes that are better studied in psycho- psychological motivation’” and a well-replicated finding is that the
+logical science more generally, such as emotions, feelings of connec- negative consequences of loneliness are legion'”. Connectedness is
+tion, metaphysical beliefs and changes to the senses of time, space and a sense of relatedness and enhanced feelings of association with the
+the self. The relationship between the specific constructs as defined in self, others and/or the wider world (aspects of one’s environment or
+psychedelic science versus psychological science is yet to be empirically broader context)’. Connectedness is not merely an emotion; there
+established, but identifying potential associations could enable links isalowcorrelation between feelings of connection and emotions’, but
+between psychedelic science and mainstream cognitive, affective and connectedness is related to positive emotions, including awe’?""”,
+clinical psychology, and help to understand the therapeutic impact of A sense of connectedness is explicit in most measures of the acute
+psychedelics. subjective effects of psychedelics, such as the 11-Dimensional and
+An in-depth inquiry into how acute affective changes (both 5-Dimensional Altered State of Consciousness scales’ experience of
+positive and negative) might translate into persisting therapeutic unity and oceanic boundlessness factors, and the Mystical Experience
+benefits and risks represents a promising direction for psychedelic Questionnaire’s mystical factor and measures devoted entirely to feelresearch. Positive affect isa common psychological construct that has ings of connectedness like the Watts Connectedness Scale. There are
+been studied for several decades, and substantial evidence supports semantic distinctions between the terms used to assess connectedness
+theories that outcomes suchas a broadening of one’sthought-action across scales, but their connotations are similar, as evidenced by items
+repertoire can promote the building of psychosocial resources’. Sev- being clustered together algorithmically based on similar participants’
+eral studies have focused on positive affect as an outcome measure responses across samples*”’.
+assessed weeks after a psychedelic experience”, but it has rarely been There are some acute subjective effects of psychedelics that
+featured among therapeutically relevant mechanisms of persisting could be considered related to religious and/or spiritual beliefs or
+
+
+Nature Reviews Psychology
+
+[PAGE 012]
+
+Review article
+
+
+attributions, which have been studied in the field of psychology of could inform research on non-psychedelically triggered altered states
+religion and spirituality'*”. Such religious or spiritual qualities are of consciousness. Our overview ofthe existing literature indicates
+captured by items such as the oceanic boundlessness and spiritual that theories and measures approach the acute subjective effects of
+experience factors in the 11-Dimensional and 5-Dimensional Altered psychedelics using diverse conceptualizations (from broad to narState of Consciousness scales. God-encounter® and entity-encounter row), that measures assess diverse constructs (some of which have
+experiences’ have been examined in psychedelic research and are also poor construct validity), and that diverse scales and subscales might
+often explored within the field of the psychology of religion’”"*°. The measure similar latent constructs in some cases. Psychedelic science
+therapeutic relevance of such experiences and attributions is unclear is no longer in its infancy; however, precisely measuring the acute
+(and raises ethical and clinical challenges’). Furthermore, the more subjective effects of psychedelics is one of the field’s dimensions that
+specific noetic quality’ might warrant specific attention in relation to requires further development and maturation. Reconciling measures
+metaphysical beliefs. Psychedelic states are usually associated witha and methods between psychedelic and psychological science might be
+feeling of hyper-realness or the sense that the experience is somehow challenging”, but it is undoubtedly a worthwhile future direction for
+‘realer than real***. The noetic quality might facilitate a process of the field.
+imbuing certain elements of experience and knowledge with positive Although existing measures were created following a rationale
+value. Understanding the sense of realness individuals ascribe to spir- and involved psychometric validation, items were generally drawn
+itual experiences might assist scientists in making sense of religious froma loose collection of top-down theoretical assumptions and from
+and/or spiritual beliefs, interpretations or attributions that sometimes qualitative and anecdotal data. Relying on top-down approaches can
+follow psychedelic experiences’. pose serious content validity threats ifthe theory is overly constraining
+The senses of time, space and the self are quite fundamental and relevant aspects of the construct are missed. To overcome current
+faculties, or categories, of consciousness and have been studied in limitations, cognitive data from controlled laboratory contexts should
+the psychological sciences using several methods. The fact that these be complemented with behavioural data from ecologically valid consenses can be altered with psychedelics could present opportunities texts using methods suchas digital phenotyping and natural language
+to study each of them individually and how they relate to one another. processing"
+*.Experience sampling methods and temporal graphical
+For example, a neuroimaging study on temporal, social and spatial approaches (illustrations of subjective effects over the course of an
+distance found acommon cortical region that tracks the senses of experience) could help to describe the acute subjective effects as they
+time, space and the self'**, showing some degree of overlap. Systematic occur’, and administeringa series of short psychoactive experiences
+work in the psychology of time perception has linked time perception could help to reduce the range of acute subjective effects reported from
+to attention and spatial awareness to research on proprioception and alonger drug administration session'**””,
+peri-personalspace'”. Changes in the sense oftime and space during Researchers should also consider more rigorous designs to
+the acute subjective effects of psychedelics are captured by most improve validity. Effective blinding and examining participants”
+measures. Self-reported changes to the sense of space can occur in expectations and prior knowledge of psychedelics might mitigate
+terms of both one’s immediate surroundings as well as with one’s body biased responding. Including participants from diverse cultural
+in relation to one’s surroundings**?"*?"*°, and sociodemographic backgrounds will increase generalizability, and
+Acute insights that are deemed persuasive, helpful and meaning- measurement invariance techniques (such as structural equation
+ful represent another core aspect of psychedelic experience that has modelling) can help to identify whether the factor structure of acute
+been associated with positive long-term changes” and therapeutic subjective effects differs across various groups, settings and drugs and
+value in clinical trials'*”"**. Although there may be distinct neuro- whether they continue to predict therapeutically relevant outcomes’”.
+biological processes underlying psychedelic-mediated insights, such To enable quantitative comparisons across studies, we recommend
+insights may very well share processes in common with other forms a standardized administration of valid existing measures including
+of insight studied by previous scientists in the context of problem- testing at standard time points after dosing, assessing positive and
+solving and learning. For example, early pioneer research on chim- negative experiences, and considering broad and narrow measures to
+panzees'” observed the derivation of sudden and novel solutions to answer targeted hypotheses. Ultimately, these improvements should
+difficult problems following periods of contemplation, and research help the applied utility of existing measures for predicting therapeutic
+on rats” demonstrated a capacity for learning that was not mediated outcomes across groups.
+by operant or classical conditioning (latent learning). We encourage When considering future directions, determining whether existing
+the connection of psychedelic science to contemporary scientific latent constructs are recovered through a bottom-up and more datainquiries into psychological processes underlying psychological driven process is important. Theoretical (top-down) and data-driven
+insight’. atheoretical (bottom-up) approaches to construct validation are not
+In sum, psychedelic experiences include changes to affect, cog- incompatible. Bottom-up approaches can facilitate the discovery of
+nition and perception that relate to better-known processes in the boundaries between constructs that inform theory and can be subpsychological sciences. In moving beyond existing measures for sequently subject to rigorous testing”. Although we advocate for
+the subjective experiences of psychedelics, elaborating on these links moving beyond current conceptualizations and measures,
+we acknowlto existing areas of study could help avert the field of psychedelic sci- edge the inevitable need to use psychometric self-report measures as
+ence from reinventing constructs and failing to build upon pre-existing a method. Accordingly, we support a broad measurement approach
+knowledge. that pulls from an array of data from acute subjective psychedelic
+experiences and ordinary cognitive state measures. Going forward,
+Summary and future directions we recommend a bottom-up, principled and systematic process that
+The acute subjective effects of psychedelics are relevant to under- uses conceptually adequate criteria and qualitative vetting to select
+standing the risks, benefits and mechanisms of psychedelics, and candidate items and an iterative dimensionality-reduction process
+
+
+Nature Reviews Psychology
+
+[PAGE 013]
+
+Review article
+
+
+(factor and network analysis) to capture a comprehensive picture is of urgent interest to scientists and the public, and systematically
+of the subjective effects of psychedelics'”?**. asking people about their experiences will be a necessary part of any
+Quantitative techniques are available for such a systematic pro- scientific answer.
+cess. Latent variable modelling is useful to reduce method variance by
+creating latent variables from several variables that differ in method Published online: 03 September 2024
+but reflect the same acute subjective effect (for example, assess the
+References
+same effect across self-report and semi-structured interviews), and to 1. Nichols, D. E. Psychedelics. Pharmacol. Rev. 68, 264-355 (2016).
+
+deliver new latent variables supported by the identification of shared 2. Yaden, D. B., Mathai, D., Bogenschutz, M. & Nichols, D. in The ASAM Principles of
+Addiction Medicine 7th edn (eds. Miller, S. C. et al.) 269-292 (Wolters Kluwer, 2024).
+variance across constructs. Network analysis can be used to model
+3. Barrett, F. S., Johnson, M. W. & Griffiths, R. R. Validation of the revised Mystical Experience
+how acute subjective states covary and interact with each other within Questionnaire in experimental sessions with psilocybin. J. Psychopharmacol. 29,
+a network’. However, one of the principles of network theory’ is 1182-1190 (2015).
+4. Griffiths, R. R. et al. Psilocybin-occasioned mystical-type experience in combination
+that variables are interrelated owing to direct interactions rather than
+with meditation and other spiritual practices produces enduring positive changes in
+external causal factors. It is unclear how this principle would apply in psychological functioning and in trait measures of prosocial attitudes and behaviors.
+
+the present context. For this reason, we do not believe network analysis J. Psychopharmacol. 32, 49-69 (2018).
+5. Studerus, E., Gamma, A. & Vollenweider, F. X. Psychometric evaluation of the Altered
+should entirely replace latent variable modelling (but, rather, comple-
+States of Consciousness Rating Scale (OAV). PLoS ONE 5, e12412 (2010).
+ment it), and network modelling does not preclude integrating latent 6. | Forstmann, M., Yudkin, D. A., Prosser, A. M., Heller, S. M. & Crockett, M. J. Transformative
+
+variables. Relatedly, semantic network analysis — which assesses word experience and social connectedness mediate the mood-enhancing effects of
+psychedelic use in naturalistic settings. Proc. Natl Acad. Sci. USA 117, 2338-2346
+similarity, word importance and latent semantic analysis between dif- (2020).
+ferent scales — can be used to determine how mucha newscale’s items 7. Davis, A. K. et al. Survey of entity encounter experiences occasioned by inhaled
+N,N-dimethyltryptamine: phenomenology, interpretation, and enduring effects.
+might overlap with those of existing scales prior to data collection,
+J. Psychopharmacol. 34, 1008-1020 (2020).
+potentially saving resources and helping to promote discriminant 8. Griffiths, R. R., Hurwitz, E. S., Davis, A. K., Johnson, M. W. & Jesse, R. Survey of subjective
+semantic validity’. “God encounter experiences”: comparisons among naturally occurring experiences
+and those occasioned by the classic psychedelics psilocybin, LSD, ayahuasca, or DMT.
+Constructs are likely to be organized at superordinate and subordi-
+PLoS ONE 14, e0214377 (2019).
+nate levels of a hierarchy. A straightforward method for characterizing 9. Barrett, F. S., Bradstreet, M. P., Leoutsakos, J. M. S., Johnson, M. W. & Griffiths, R. R. The
+this hierarchy is the bass-ackwards approach”, in which an ascending Challenging Experience Questionnaire: characterization of challenging experiences with
+psilocybin mushrooms. J. Psychopharmacol. 30, 1279-1295 (2016).
+number of principal components or factors are gradually extracted
+This article describes a measure focused on negative valenced acute subjective
+to unfold hierarchical relations. This method could be applied toa effects of psychedelics.
+granular array of acute subjective experiences to delineate divisions 10. Evans, J. et al. Extended difficulties following the use of psychedelic drugs: a mixed
+methods study. PLoS ONE 18, £0293349 (2023).
+between constructs, which could be obscured if only larger attributes
+11. Carbonaro, T. M. et al. Survey study of challenging experiences after ingesting
+at asuperordinate level of construct hierarchy (for example, mystical- psilocybin mushrooms: acute and enduring positive and negative consequences.
+type experience scores) are included as variables. Some scholars might J. Psychopharmacol. 30, 1268-1278 (2016).
+12. Nutt, D., King, L. A., Saulsbury, W. & Blakemore, C. Development of a rational scale to
+be concerned that this approach will result in losing the distinctiveness
+assess the harm of drugs of potential misuse. Lancet 369, 1047-1053 (2007).
+of more granular features of acute experience, and over-favour parsi- 13. Griffiths, R. R., Richards, W. A., McCann, U. & Jesse, R. Psilocybin can occasion mysticalmony. However,granular features are not lost in a hierarchical model type experiences having substantial and sustained personal meaning and spiritual
+significance. Psychopharmacology 187, 268-283 (2006).
+of constructs; they are represented at lower levels of the hierarchy,
+14. Griffiths, R. R. et al. Psilocybin occasioned mystical-type experiences: immediate and
+just as lower-level personality facets are represented in the five-factor persisting dose-related effects. Psychopharmacology 218, 649-665 (2011).
+model of personality’®. 15. Center for Behavioral Health Statistics and Quality. Results from the 2020 National Survey
+on Drug Use and Health: Detailed Tables (Substance Abuse and Mental Health Services
+Qualitative, iterative and evidence-based approaches to item
+Administration, 2021).
+development that use meta-surveys and interviews to probe sources 16. Goldy, S. P. et al. Psychedelic risks and benefits: A cross-sectional survey study.
+
+of construct-irrelevant variance are a crucial component of validity J. Psychopharmacol. (in the press).
+17. Jacobs, E., Yaden, D. B. & Earp, B. D. Toward a broader psychedelic bioethics. AJOB Neurosci.
+that quantitative approaches neglect. Response process techniques
+14, 126-129 (2023).
+such as cognitive interviewing and the response process evaluation 18. Bogenschutz, M. P. et al. Percentage of heavy drinking days following psilocybin-assisted
+
+method” could be applied simultaneously to the mentioned tech- psychotherapy vs placebo in the treatment of adult patients with alcohol use disorder:
+a randomized clinical trial. JAMA Psychiatry 79, 953-962 (2022).
+niques to ensure the validity of existing and next-generation items.
+19. Carhart-Harris, R. L. et al. Psilocybin with psychological support for
+Additionally, team science approaches, in which multiple researchers treatment-resistant depression: an open-label feasibility study. Lancet Psychiatry 3,
+
+and laboratories collaborate to examine a particular research topic, can 619-627 (2016).
+20. Daws, R.E. et al. Increased global integration in the brain after psilocybin therapy for
+help better elucidate the robustness of a particular finding. Adversarial depression. Nat. Med. 28, 844-851 (2022).
+collaborations such as many-analysts approaches in which numerous 21. Davis, A. K. et al. Development of the Psychological Insight Questionnaire among a
+
+independent research teams analyse the same dataset to address a sample of people who have consumed psilocybin or LSD. J. Psychopharmacol. 35,
+437-446 (2021).
+research question can help mitigate individual-researcher bias’®°. Multi- 22. Goodwin, G. M. et al. Single-dose psilocybin for a treatment-resistant episode of major
+verse approaches that conduct target analyses across acomprehensive depression. N. Engl. J. Med. 387, 1637-1648 (2022).
+23. Griffiths, R. R. et al. Psilocybin produces substantial and sustained decreases in depression
+set of alternatively processed datasets might clarify the robustness of
+and anxiety in patients with life-threatening cancer: a randomized double-blind trial.
+an effect across different data processing methods (for example, by J. Psychopharmacol. 30, 1181-1197 (2016).
+excluding cases or transforming variables)’. 24. Grob, C.S. etal. Pilot study of psilocybin treatment for anxiety in patients with advanced-
+stage cancer. Arch. Gen. Psychiatry 68, 71-78 (2011).
+The field of psychometric measures has advanced, and next-
+25. Johnson, M. W., Garcia-Romeu, A., Cosimano, M. P. & Griffiths, R. R. Pilot study of the
+generation measures ought to be developed to improve on and sur- 5-HT,,R agonist psilocybin in the treatment of tobacco addiction. J. Psychopharmacol.
+pass existing paradigms to understand the acute subjective effects of 28, 983-992 (2014).
+26. von Rotz, R. et al. Single-dose psilocybin-assisted therapy in major depressive disorder:
+psychedelics. After all, the questions of what psychedelic experiences
+a placebo-controlled, double-blind, randomised clinical trial. EClinicalMedicine 56,
+are like and how these experiences impact persisting risks and benefits 101809 (2023).
+
+
+Nature Reviews Psychology
+
+[PAGE 014]
+
+Review article
+
+
+27. Aday, J. S. et al. Great expectations: recommendations for improving the methodological 56. Carhart-Harris, R. L. et al. Neural correlates of the LSD experience revealed by
+rigor of psychedelic clinical trials. Psychopharmacology 239, 1989-2010 (2022). multimodal neuroimaging. Proc. Natl Acad. Sci. USA 113, 4853-4858 (2016).
+This article discusses expectancy and provides recommendations to improve study 57. McCulloch, D. E. W. et al. Navigating the chaos of psychedelic neuroimaging: a multi-
+design. metric evaluation of acute psilocybin effects on brain entropy. Preprint at medRxiv
+28. Yaden, D. B., Yaden, M. E. € Griffiths, R. R. Psychedelics in psychiatry—keeping the https://doi.org/10.1101/2023.07.03.23292164 (2023).
+renaissance from going off the rails. JAMA Psychiatry 78, 469-470 (2021). 58. Tiwari, P. et al. Learned helplessness as a potential transdiagnostic therapeutic
+29. Breeksema, J. J. et al. Adverse events in clinical treatments with serotonergic mechanism of classic psychedelics. Psychedelic Med. 1, 74-86 (2023).
+psychedelics and MDMA: a mixed-methods systematic review. J. Psychopharmacol. 59. Hibicke, M., Landry, A. N., Kramer, H. M., Talman, Z. K. & Nichols, C. D. Psychedelics, but
+36, 1100-1117 (2022). not ketamine, produce persistent antidepressant-like effects in a rodent experimental
+30. Hinkle, J., Graziosi, M., Nayak, S. M. & Yaden, D. B. Adverse events in studies of classic system for the study of depression. ACS Chem. Neurosci. 11, 864-871 (2020).
+psychedelics. JAMA Psychiatry
+(in the press). 60. van Elk, M. & Yaden, D. B. Pharmacological, neural, and psychological mechanisms
+31. Yaden, D. B., Potash, J. B. & Griffiths, R. R. Preparing for the bursting of the psychedelic underlying psychedelics: a critical review. Neurosci. Biobehav. Rev. 140, 104793 (2022).
+hype bubble. JAMA Psychiatry 79, 943-944 (2022). This review aims to bridge diverse levels of analysis beyond the psychological level.
+32. Olson, D. E. The subjective effects of psychedelics may not be necessary for their 61. Pahnke, W. N. Drugs & Mysticism: An Analysis of the Relationship between Psychedelic
+enduring therapeutic effects. ACS Pharmacol. Transl. Sci. 4, 563-567 (2021). Drugs and Mystical Consciousness Divinity (Harvard Univ. Press, 1963).
+33. Ly, C. et al. Transient stimulation with psychoplastogens is sufficient to initiate neuronal 62. Stace, W. T. Mysticism and Philosophy (MacMillan, 1960).
+growth. ACS Pharmacol. Transl. Sci. 4, 452-460 (2020). 63. Taves, A. Mystical and other alterations in sense of self: an expanded framework
+34. Yaden, D. B. & Griffiths, R. R. The subjective effects of psychedelics are necessary for studying nonordinary experiences. Perspect. Psychol. Sci. 15, 669-690 (2020).
+for their enduring therapeutic effects. ACS Pharmacol. Transl. Sci. 4, 568-572 (2021). 64. Dittrich, A. Zusammenstellung eines Fragebogens (APZ) zur Erfassung abnormer
+35. Nautiyal, K. M. & Yaden, D. B. Does the trip matter? Investigating the role of the subjective psychischer Zustande [Construction of a questionnaire (APZ) for assessing abnormal
+effects of psychedelics in persisting therapeutic effects. Neuropsychopharmacology 48, mental states] [German]. Z. Klin. Psychol. Psychiatr. Psychother. 12, 20 (1975).
+215-216 (2023). 65. Moreau de Tours, J. Du hachisch et de l'aliénation mentale. Études Psychologiques
+This work presents a brief perspective on the role of the acute subjective effects of (Fortin, Masson, 1845).
+psychedelics in predicting persisting effects and possible avenues of empirical tests. 66. Dittrich, A. The standardized psychometric assessment of altered states of
+36. Messick, S. Validity of psychological assessment: validation of inferences from consciousness (ASCs) in humans. Pharmacopsychiatry 31, 80-84 (1998).
+persons’ responses and performances as scientific inquiry into score meaning. Am. 67. Bodmer, I., Dittrich, A. & Lamparter, D. Aussergewöhnliche Bewusstseinszustände-Ihre
+Psychol. 50, 741 (1995). gemeinsame Struktur und Messung [Altered states of consciousness—their common
+37. Ko, K., Knight, G., Rucker, J. J. & Cleare, A. J. Psychedelics, mystical experience, and structure and assessment] [German]. Welten des. Bewusstseins 3, 45-58 (1994).
+therapeutic efficacy: a systematic review. Front. Psychiatry 13, 917199 (2022). 68. Dittrich, A., Lamparter, D. & Maurer, M. 5D-ASC: Questionnaire for the Assessment
+38. Ross, S. et al. Rapid and sustained symptom reduction following psilocybin treatment for of Altered States of Consciousness. A Short Introduction (PSIN PLUS, 2010).
+anxiety and depression in patients with life-threatening cancer: a randomized controlled 69. Strassman, R. J., Qualls, C. R., Uhlenhuth, E. H. & Kellner, R. Dose-response study of N,N-
+trial. J. Psychopharmacol. 30, 1165-1180 (2016). dimethyltryptamine in humans. II. Subjective effects and preliminary results of a new
+39. Liechti, M. E., Dolder, P. C. & Schmid, Y. Alterations of consciousness and rating scale. Arch. Gen. Psychiatry 51, 98-108 (1994).
+mystical-type experiences after acute LSD in humans. Psychopharmacology 234, 70. Bouso, J. C., Pedrero-Pérez, E. J., Gandy, S. & Alcázar-Córcoles, M. A. Measuring the
+1499-1510 (2017). subjective: revisiting the psychometric properties of three rating scales that assess
+AO. Roseman, L., Nutt, D. J. & Carhart-Harris, R. L. Quality of acute psychedelic experience the acute effects of hallucinogens. Hum. Psychopharmacol. Clin. 31, 356-372 (2016).
+predicts therapeutic efficacy of psilocybin for treatment-resistant depression. 71. Weiss, B., Miller, J., Carter, N. & Campbell, W. Development of the Ayahuasca Experience
+Front. Pharmacol. 8, 309463 (2018). Inventory (AEI) (Open Science Foundation, 2021).
+41. Weiss, B. et al. Unique psychological mechanisms in the treatment of major depressive 72. Weiss, B., Miller, J. D., Carter, N. T. & Keith Campbell, W. Examining changes in personality
+disorder underlying psilocybin therapy versus escitalopram treatment. Int. J. Ment. following shamanic ceremonial use of ayahuasca. Sci. Rep. 11, 1-15 (2021).
+Health Addict. 22, 806-841 (2024). 73. Taves, A. et al. What counts as religious experience? The Inventory of Nonordinary
+42. Garcia-Romeu, A., Griffiths, R. R. & Johnson, M. W. Psilocybin-occasioned mystical Experiences as a tool for analysis across cultures. Preprint at PsyArXiv https://doi.org/
+experiences in the treatment of tobacco addiction. Curr. Drug. Abuse Rev. 7, 157-164 10.31234/osf.io/ux28d (2019).
+(2014). 74. Taves, A. et al. The Inventory of Nonordinary Experiences (INOE): evidence of validity
+43. MacLean, K. A., Leoutsakos, J. M. S., Johnson, M. W. & Griffiths, R. R. Factor analysis in the United States and India. PLoS ONE 18, e0287780 (2023).
+of the Mystical Experience Questionnaire: a study of experiences occasioned by the 75. Yaden, D. B. et al. The development of the Awe Experience Scale (AWE-S): a multifactorial
+hallucinogen psilocybin. J. Sci. Study Relig. 51, 721-737 (2012). measure for a complex emotion. J. Posit. Psychol. 14, 474-488 (2019).
+44. Kangaslampi, S. Association between mystical-type experiences under psychedelics and 76. Wolff, M., Mertens, L. J., Walter, M., Enge, S. & Evens, R. The Acceptance/Avoidance-
+improvements in well-being or mental health—a comprehensive review of the evidence. Promoting Experiences Questionnaire (APEQ): a theory-based approach to psychedelic
+J. Psychedelic Stud. 7, 18-28 (2023). drugs’ effects on psychological flexibility. J. Psychopharmacol. 36, 387-408 (2022).
+This article examines the correlation between acute subjective effects of psychedelics 71. Watts, R. et al. The Watts Connectedness Scale: a new scale for measuring a sense
+and persisting positive effects. of connectedness to self, others, and world. Psychopharmacology 239, 3461-3483
+45. Gukasyan, N. et al. Efficacy and safety of psilocybin-assisted treatment for major (2022).
+depressive disorder: prospective 12-month follow-up. J. Psychopharmacol. 36, 78. Roseman, L. et al. Emotional breakthrough and psychedelics: validation of the Emotional
+151-158 (2022). Breakthrough Inventory. J. Psychopharmacol. 33, 1076-1087 (2019).
+46. Ly, C. et al. Psychedelics promote structural and functional neural plasticity. Cell Rep. 23, 79. Nour, M. M., Evans, L., Nutt, D. & Carhart-Harris, R. L. Ego-dissolution and psychedelics:
+3170-3182 (2018). validation of the Ego-Dissolution Inventory (EDI). Front. Hum. Neurosci. 10, 269 (2016).
+47. Vollenweider, F. X., Vollenweider-Scherpenhuyzen, M. F., Babler, A., Vogel, H. & Hell, D. 80. Haertzen, C. A. Development of scales based on patterns of drug effects, using the
+Psilocybin induces schizophrenia-like psychosis in humans via a serotonin-2 agonist Addiction Research Center Inventory (ARCI). Psychol. Rep. 18, 163-194 (1966).
+action. Neuroreport 9, 3897-3902 (1998). 81. Martin, W. R., Sloan, J. W., Sapira, J. D. € Jasinski, D. R. Physiologic, subjective, and
+48. González-Maeso, J. et al. Hallucinogens recruit specific cortical 5-HT,, receptor-mediated behavioral effects of amphetamine, methamphetamine, ephedrine, phenmetrazine,
+signaling pathways to affect behavior. Neuron 53, 439-452 (2007). and methylphenidate in man. Clin. Pharmacol. Ther. 12, 245-258 (1971).
+49. Madsen, M. K. et al. Psychedelic effects of psilocybin correlate with serotonin 2A 82. Mason, O. J., Morgan, C. J., Stefanovic, A. & Curran, H. V. The Psychotomimetic States
+receptor occupancy and plasma psilocin levels. Neuropsychopharmacology 44, Inventory (PSI): measuring psychotic-type experiences from ketamine and cannabis.
+1328-1334 (2019). Schizophr. Res. 103, 138-142 (2008).
+50. Geyer, M. A. & Vollenweider, F. X. Serotonin research: contributions to understanding 83. de Deus Pontual, A. A., Senhorini, H. G., Corradi-Webster, C. M., Tófoli, L. F. €
+psychoses. Trends Pharmacol. Sci. 29, 445-453 (2008). Daldegan-Bueno, D. Systematic review of psychometric instruments used in research
+51. Vollenweider, F. X. & Preller, K. H. Psychedelic drugs: neurobiology and potential with psychedelics. J. Psychoact. Drugs 55, 359-368 (2023).
+for treatment of psychiatric disorders. Nat. Rev. Neurosci. 21, 611-624 (2020). 84. Borsboom, D., Mellenbergh, G. J. & Van Heerden, J. The concept of validity. Psychol. Rev.
+This article reviews the neurobiology of psychedelic effects. 111, 1061 (2004).
+52. Preller, K. H. et al. Changes in global and thalamic brain connectivity in LSD-induced altered 85. Cronbach, L. J. & Meehl, P. E. Construct validity in psychological tests. Psychol. Bull. 52,
+states of consciousness are attributable to the 5-HT,, receptor. eLife 7, e35082 (2018). 281 (1955).
+53. Doss, M. K. et al. Models of psychedelic drug action: modulation of cortical-subcortical This work is a classic text on construct validity.
+circuits. Brain 145, 441-456 (2022). 86. American Educational Research Association, American Psychological Association,
+54. Barrett, F. S., Krimmel, S. R., Griffiths, R. R., Seminowicz, D. A. & Mathur, B. N. Psilocybin National Council on Measurement in Education & Joint Committee on Standards for
+acutely alters the functional connectivity of the claustrum with brain networks that Educational and Psychological Testing (US). Standards for Educational and Psychological
+support perception, memory, and attention. Neurolmage 218, 116980 (2020). Testing (American Educational Research Association, 2014).
+55. Carhart-Harris, R. L. 8 Friston, K. J. REBUS and the anarchic brain: toward a unified 87. Messick, S. Meaning and values in test validation: the science and ethics of assessment.
+model of the brain action of psychedelics. Pharmacol. Rev. 71, 316-344 (2019). Educ. Res. 18, 5-11 (1989).
+
+
+Nature Reviews Psychology
+
+[PAGE 015]
+
+Review article
+
+
+88. Carter, O. L. et al. Using psilocybin to investigate the relationship between attention, 116. Padilla Garcia, J. L. & Benítez Baena, |. Validity evidence based on response processes.
+working memory, and the serotonin 1A and 2A receptors. J. Cogn. Neurosci. 17, Psicothema 26, 136-144 (2014).
+1497-1508 (2005). 117. Gadermann, A. M., Guhn, M. & Zumbo, B. D. Investigating the substantive aspect of
+89. Daumann, J. et al. Pharmacological modulation of the neural basis underlying inhibition construct validity for the Satisfaction with Life Scale adapted for children: a focus on
+of return (IOR) in the human 5-HT,, agonist and NMDA antagonist model of psychosis. cognitive processes. Soc. Indic. Res. 100, 37-60 (2011).
+Psychopharmacology 200, 573-583 (2008). 118. Willis G. B. Cognitive Interviewing: A Tool for Improving Questionnaire Design
+90. Gouzoulis-Mayfrank, E. et al. Inhibition of return in the human 5HT,, agonist and (Sage, 2005).
+NMDA antagonist model of psychosis. Neuropsychopharmacology 31, 431-441 119. Cizek, G. J., Rosenberg, S. L. & Koons, H. H. Sources of validity evidence for educational
+(2006). and psychological tests. Educ. Psychol. Meas. 68, 397-412 (2008).
+91. Vollenweider, F. X., Csomor, P. A., Knappe, B., Geyer, M. A. & Quednow, B. B. The effects 120. Zumbo, B. D. & Shear, B. R. The Concept of Validity and Some Novel Validation Methods
+of the preferential 5-HT,, agonist psilocybin on prepulse inhibition of startle in healthy Vol. 56 (Northeastern Educational Research Association, 2011).
+human volunteers depend on interstimulus interval. Neuropsychopharmacology 32, 121. Wolf, M. G., Ihm, E., Maul, A. & Taves, A. The response process evaluation method.
+1876-1887 (2007). Preprint at PsyArXiv https://doi.org/10.31234/osf.io/rbd2x (2023).
+92. Quednow, B. B., Kometer, M., Geyer, M. A. & Vollenweider, F. X. Psilocybin-induced 122. Day, S. J. & Altman, D. G. Blinding in clinical trials and other studies. Brit. Med. J. 321, 504
+deficits in automatic and controlled inhibition are attenuated by ketanserin in healthy (2000).
+human volunteers. Neuropsychopharmacology 37, 630-640 (2012). 123. Szigeti, B. & Heifets, B. D. Expectancy effects in psychedelic trials. Biol. Psychiatry Cogn.
+93. Schmidt, A. et al. Acute LSD effects on response inhibition neural networks. Psychol. Med. Neurosci. 9, 512-521 (2024).
+48, 1464-1473 (2018). 124. Fredrickson, B. L. in The Psychology of Gratitude (eds Emmons, R. A. & McCullough, M. E.)
+94. Barrett, F. S., Carbonaro, T. M., Hurwitz, E., Johnson, M. W. & Griffiths, R. R. Double-blind 145-166 (Oxford Univ. Press, 2004).
+comparison of the two hallucinogens psilocybin and dextromethorphan: effects on 125. Goldy, S. P., Hendricks, P. S., Keltner, D., Yaden, D. B. Considering distinct positive
+cognition. Psychopharmacology 235, 2915-2927 (2018). emotions in psychedelic science. Int. Rev. Psychiatry (in the press).
+95. Evens, R., Schmidt, M. E., Majic, T. & Schmidt, T. T. The psychedelic afterglow 126. Hendricks, P. S. Awe: a putative mechanism underlying the effects of classic
+phenomenon: a systematic review of subacute effects of classic serotonergic psychedelic-assisted psychotherapy. Int. Rev. Psychiatry 30, 331-342 (2018).
+psychedelics. Ther. Adv. Psychopharmacol. 13, 20451253231172254 (2023). This article provides an argument for linking aspects of the acute subjective effects
+96. Doss, M. K. et al. Unique effects of sedatives, dissociatives, psychedelics, stimulants, of psychedelics to better-studied emotions, such as awe.
+and cannabinoids on episodic memory: a review and reanalysis of acute drug effects 127. Piff, P. K., Dietze, P., Feinberg, M., Stancato, D. M. & Keltner, D. Awe, the small self, and
+on recollection, familiarity, and metamemory. Psychol. Rev. 131, 523-562 (2023). prosocial behavior. J. Pers. Soc. Psychol. 108, 883-899 (2015).
+97. Lennon, R. T. Assumptions underlying the use of content validity. Educ. Psychol. Meas. 128. Keltner, D. & Haidt, J. Social functions of emotions at four levels of analysis. Cogn. Emot.
+16, 294-304 (1956). 13, 505-521 (1999).
+98. Fauvel, B., Kangaslampi, S., Strika-Bruneau, L., Roméo, B. € Piolino, P. Validation of a 129. Keltner, D. & Haidt, J. Approaching awe, a moral, spiritual, and aesthetic emotion.
+French version of the Mystical Experience Questionnaire with retrospective reports of Cogn. Emot. 17, 297-314 (2003).
+the most significant psychedelic experience among French users. J. Psychoact. Drugs 130. Chirico, A. et al. Effectiveness of immersive videos in inducing awe: an experimental
+55, 170-179 (2023). study. Sci. Rep. 7, 1218 (2017).
+99. Petitmengin, C., Remillieux, A. & Valenzuela-Moguillansky, C. Discovering the structures 131. Goldy, S. P., Jones, N. M. & Piff, P. K. The social effects of an awesome solar eclipse.
+of lived experience: towards a micro-phenomenological analysis method. Phenomenol. Psychol. Sci. 33, 1452-1462 (2022).
+Cogn. Sci. 18, 691-730 (2019). 132. Goldy, S. P. € Piff, P. K. Toward a social ecology of prosociality: why, when, and where
+100. Scheidegger, M. Microphenomenology and Psychedelics: A Two-fold Approach to nature enhances social connection. Curr. Opin. Psychol. 32, 27-31 (2020).
+Enhancing Psychotherapy and Consciousness Research (Swiss National Science 133. Graziosi, M. € Yaden, D. Interpersonal awe: exploring the social domain of awe elicitors.
+Foundation, 2020). J. Posit. Psychol. 16, 263-271 (2021).
+101. Campbell, D. T. & Fiske, D. W. Convergent and discriminant validation by the multitrait- 134. Rudd, M., Hildebrand, C. & Vohs, K. D. Inspired to create: awe enhances openness to
+multimethod matrix. Psychol. Bull. 56, 81-105 (1959). learning and the desire for experiential creation. J. Mark. Res. 55, 766-781 (2018).
+102. Wirsching, A., Bostoen, T. & Huizink, A. C. A psychometric evaluation of the Dutch 135. Valdesolo, P., Shtulman, A. & Baron, A. S. Science is awe-some: the emotional
+Revised Mystical Experience Questionnaire. J. Psychoact. Drugs https://doi.org/10.1080/ antecedents of science learning. Emot. Rev. 9, 215-221 (2017).
+02791072.2023.2272832 (2023). 136. Danvers, A. F. & Shiota, M. N. Going off script: effects of awe on memory for script-typical
+103. Haijen, E. C. et al. Predicting responses to psychedelics: a prospective study. and -irrelevant narrative detail. Emotion 17, 938-952 (2017).
+Front. Pharmacol. 9, 897 (2018). 137. Baumeister, R. F. & Leary, M. R. The need to belong—desire for interpersonal attachments
+104. Weiss, B., Sleep, C. E., Beller, N. M., Erritzoe, D. & Campbell, W. K. Perceptions of as a fundamental human-motivation. Psychol. Bull. 117, 497-529 (1995).
+psychedelic personality change, determinants of use, setting and drug moderation: 138. Hawkley, L. C. & Cacioppo, J. T. Loneliness matters: a theoretical and empirical review of
+toward a holistic model. J. Psychedelic Stud. 7, 200-226 (2023). consequences and mechanisms. Ann. Behav. Med. 40, 218-227 (2010).
+105. Nayak, S. M., Singh, M., Yaden, D. B. € Griffiths, R. R. Belief changes associated with 139. Hood Jr, R. W., Hill, P. C. & Spilka, B. The Psychology of Religion: An Empirical Approach
+psychedelic use. J. Psychopharmacol. 37, 80-92 (2023). (Guilford Publications, 2009).
+106. Nayak, S. M. et al. Psychedelic experiences increase mind perception but do not change 140. Yaden, D. B. & Newberg, A. B. The Varieties of Spiritual Experience: 21st Century Research
+atheist-believer status: a prospective longitudinal study. J. Psychoact. Drugs https://doi.org/ and Perspectives (Oxford Univ. Press, 2022).
+10.1080/02791072.2024.2346130 (2024). 141. Yaden, D. B., Nayak, S. M. € Griffiths, R. R. in Philosophical Perspectives on Psychedelic
+107. Graziosi, M., Singh, M., Nayak, S. M. & Yaden, D. B. Acute subjective effects of Psychiatry (eds. Letheby, C. & Gerrans, P.) (Oxford Univ. Press, in the press).
+psychedelics within and beyond WEIRD contexts. J. Psychoact. Drugs 55, 558-569 142. James, W. The Varieties of Religious Experience (Harvard Univ. Press, 1902).
+(2023). 143. Yaden, D. B., Haidt, J., Hood, R. W., Vago, D. R. & Newberg, A. B. The varieties of
+This article provides a qualitative analysis of accounts of psychedelic experiences self-transcendent experience. Rev. Gen. Psychol. 21, 143-160 (2017).
+in non-Western contexts and discusses how they fit into existing measurement 144. Parkinson, C., Liu, S. & Wheatley, T. A common cortical metric for spatial, temporal, and
+categories. social distance. J. Neurosci. 34, 1979-1987 (2014).
+108. Henrich, J., Heine, S. J. 4 Norenzayan, A. Most people are not WEIRD. Nature 466, 29-29 145. Wittmann, M. Felt Time: The Psychology of How We Perceive Time 1-169 (MIT Press,
+(2010). 2016).
+109. Hartogsohn, |. Set and setting, psychedelics and the placebo response: an extra- 146. Griffiths, R., Richards, W., Johnson, M., McCann, U. & Jesse, R. Mystical-type experiences
+pharmacological perspective on psychopharmacology. J. Psychopharmacol. 30, occasioned by psilocybin mediate the attribution of personal meaning and spiritual
+1259-1267 (2016). significance 14 months later. J. Psychopharmacol. 22, 621-632 (2008).
+110. Hyde, R. W. in The Dynamics of Psychiatric Drug Therapy (ed. Sarwer-Foner, G. J.) 297-315 147. Belser, A. B. et al. Patient experiences of psilocybin-assisted psychotherapy: an
+(Charles C. Thomas, 1960). interpretative phenomenological analysis. J. Humanist Psychol. 57, 354-388 (2017).
+111. Hood, R. W. Construction and preliminary validation of a measure of reported mystical 148. Levin, A. W. et al. The therapeutic alliance between study participants and intervention
+experience. J. Sci. Stud. Relig. 14, 29-41 (1975). facilitators is associated with acute effects and clinical outcomes in a psilocybin-assisted
+112. DeYoung, C. G. & Krueger, R. F. To wish impossible things: on the ontological status of therapy trial for major depressive disorder. PloS ONE. 19, e0300501 (2024).
+latent variables and the prospects for theory in psychology. Psychol. Ing. 31, 289-296 149. Köhler, W. The Mentality of Apes (E. Winter, Trans.) (Harcourt Brace Jovanovich, 1925).
+(2020). 150. Tolman, E. C., & Honzik, C. H. Introduction and removal of reward, and maze performance
+113. Earleywine, M., Low, F. & De Leo, J. A semantic scale network analysis of the revised in rats. Univ. Calif. Publ. Psychol. 4, 257-275 (1930).
+Mystical Experiences Questionnaire: a call for collaboration. J. Psychedelic Stud. 5, 151. Bowden, E. M., Jung-Beeman, M., Fleck, J. & Kounios, J. New approaches to demystifying
+156-165 (2022). insight. Trends Cogn. Sci. 9, 322-328 (2005).
+114. Maul, A. Rethinking traditional methods of survey validation. Meas-Interdiscip. Res. 15, 152. Insel, T. R. Digital phenotyping: technology for a new science of behavior. JAMA 318,
+51-69 (2017). 1215-1216 (2017).
+115. Dang, J., King, K. M. € Inzlicht, M. Why are self-report and behavioral measures weakly 153. Eichstaeat, J. C. et al. Facebook language predicts depression in medical records.
+correlated? Trends Cogn. Sci. 24, 267-269 (2020). Proc. Natl Acad. Sci. USA 115, 11203-11208 (2018).
+
+
+Nature Reviews Psychology
+
+[PAGE 016]
+
+Review article
+
+
+154. Ferreira, F. 8 Lowder, M. W. in The Psychology of Learning and Motivation (ed. Ross, B. H.) 173. Peterson, R. A theological reckoning with bad trips. Harvard Divinity Bulletin
+217-247 (Elsevier Academic, 2016). https://bulletin.hds.harvard.edu/a-theological-reckoning-with-bad-trips/ (2022).
+155. Hektner, J. M., Schmidt, J. A. & Csikszentmihalyi, M. Experience Sampling Method:
+Measuring the Quality of Everyday Life (Sage, 2007). Acknowledgements
+156. Becker, A. M. et al. Ketanserin reverses the acute response to LSD in a randomized, The authors thank M. van Elk, S. Nayak, S. Kangaslami, R. Ehrenkranz, P. Tiwari and M. Graziosi for
+double-blind, placebo-controlled, crossover study in healthy participants. Int. J. their comments and K. Klein for her assistance. This article is dedicated to the memory of Roland
+Neuropsychopharmacol. 26, 97-106 (2023). R. Griffiths, who passed away on 16 October 2023 after accepting a terminal cancer diagnosis
+157. Timmermann, C. et al. Neural correlates of the DMT experience assessed with with inspiring grace and gratitude for life. Roland was a beloved friend, colleague and mentor.
+multivariate EEG. Sci. Rep. 9, 16324 (2019). He was an exemplar of scientific curiosity across a range of topics in psychopharmacology and
+158. Fried, E. |. Lack of theory building and testing impedes progress in the factor and beyond. He was among those primarily responsible for the restart of rigorous scientific work on
+network literature. Psychol. Ing. 31, 271-288 (2020). sychedelic substances such as psilocybin, which is now a global field of scientific research.
+159. John, O. P., Angleitner, A. & Ostendorf, F. The lexical approach to personality—a historical
+review of trait taxonomic research. Eur. J. Pers. 2, 171-203 (1988). Author contributions
+160. Reisenzein, R., Hildebrandt, A. & Weber, H. in The Cambridge Handbook of Personality All authors wrote the article and contributed substantially to the discussion of the content.
+Psychology 2nd edn (eds Corr, P. J. & Matthew, G.) 81-100 (Cambridge Univ. Press, D.B.Y. and R.R.G. conceived the paper. D.B.Y., S.P.G., B.W. and R.R.G. researched data for the
+2020). article. D.B.Y., S.P.G., R.R.G. and B.W reviewed and edited the manuscript before submission.
+161. McNally, R. J. Network analysis of psychopathology: controversies and challenges.
+Annu. Rev. Clin. Psychol. 17, 31-53 (2021). Competing interests
+162. Borsboom, D. A network theory of mental disorders. World Psychiatry 16, 5-13 (2017). Support for D.B.Y., S.P.G., B.W. and R.R.G. through the Johns Hopkins Center for Psychedelic
+163. Cramer, A. O. J. et al. Dimensions of normal personality as networks in search of and Consciousness Research was provided by Tim Ferriss, Matt Mullenweg, Blake Mycoskie,
+equilibrium: you can't like parties if you don't like people. Eur. J. Pers. 26, 414-431 Craig Nerenberg, and the Steven and Alexandra Cohen Foundation. R.R.G. reported grants
+(2012). from the Riverstyx Foundation, a crowdsourced funding campaign organized by Tim Ferris,
+164. Goldberg, L. R. Doing it all bass-ackwards: the development of hierarchical factor and the National Institute on Drug Abuse (grant RO1DAO3889) for research support outside the
+structures from the top down. J. Res. Pers. 40, 347-358 (2006). submitted work; personal fees from the Heffter Research Institute (HRI) to cover travel costs as
+165. McCrae, R. R. & Costa, P. T. Validation of the five-factor model of personality across a member of the board of directors of HRI outside the submitted work; and was site principal
+instruments and observers. J. Pers. Soc. Psychol. 52, 81-90 (1987). investigator for a multisite trial of psilocybin-facilitated treatment of major depressive disorder
+166. Hoogeveen, S. et al. A many-analysts approach to the relation between religiosity sponsored by the Usona Institute. B.W. owns Axial Therapeutic Research, Inc., a company
+and well-being. Relig. Brain. Behav. 13, 237-283 (2023). investigating the safety and effectiveness of alternative treatments for military veteran health.
+167. Steegen, S., Tuerlinckx, F., Gelman, A. & Vanpaemel, W. Increasing transparency through
+a multiverse analysis. Perspect. Psychol. Sci. 11, 702-712 (2016). Additional information
+168. Hardy, A. C. The Spiritual Nature of Man: A Study of Contemporary Religious Experience Peer review information Nature Reviews Psychology thanks Matthias Forstmann and the other,
+(Clarendon, 1979). anonymous, reviewer(s) for their contribution to the peer review of this work.
+169. Sanders, J. W. & Zijlmans, J. Moving past mysticism in psychedelic science. ACS Pharmacol.
+Transl. Sci. 4, 1253-1255 (2021). Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in
+This article calls to abandon the term mystical experience because of its published maps andinstitutional affiliations.
+colloquial meaning.
+170. Russell, B. Mysticism and Logic (Doubleday, 1917). Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this
+171. Breeksema, J. J. & van Elk, M. Working with weirdness: a response to “moving article under a publishing agreement with the author(s) or other rightsholder(s); author self-
+past mysticism in psychedelic science”. ACS Pharmacol. Transl. Sci. 4, 1471-1474 archiving of the accepted manuscript version of this article is solely governed by the terms
+(2021). of such publishing agreement and applicable law.
+172. Mosurinjohn, S., Roseman, L. & Girn, M. Psychedelic-induced mystical experiences:
+an interdisciplinary discussion and critique. Front. Psychiatry. 14, 1077311 (2023). © Springer Nature America, Inc. 2024
+
+
+Nature Reviews Psychology

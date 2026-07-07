@@ -1,0 +1,397 @@
+{
+  "schema_version": "0.1.0",
+  "artifact_type": "niros_audio_extract",
+  "created_at": "2026-07-07T17:38:33.632815Z",
+  "source_file": "/Users/mar3k/Projects/niros-audio-lab/input/audio/05 - Maria Sabina - Na- Al-Ni Tso.mp3",
+  "computed_features": {
+    "schema_version": "0.4.0",
+    "analysis_type": "ritual_vocal_pattern_analysis",
+    "source_file": "/Users/mar3k/Projects/niros-audio-lab/input/audio/05 - Maria Sabina - Na- Al-Ni Tso.mp3",
+    "wav_file": "/Users/mar3k/Projects/niros-audio-lab/work/wav/05_-_maria_sabina_-_na-_al-ni_tso.wav",
+    "created_at": "2026-07-07T17:29:45.391401Z",
+    "duration_seconds": 63.987,
+    "quality_flags": {
+      "overall_quality": "high",
+      "flags": [],
+      "low_quality_phrase_count": 0,
+      "medium_quality_phrase_count": 0,
+      "low_quality_phrase_ids": [],
+      "medium_quality_phrase_ids": [],
+      "global_pitch_cleanup": {
+        "total_frames": 2756,
+        "raw_voiced_frames": 2408,
+        "cleaned_voiced_frames": 2401,
+        "removed_frames": 7,
+        "removed_ratio_of_voiced": 0.002907,
+        "below_vocal_floor_removed": 7,
+        "above_vocal_ceiling_removed": 0,
+        "sudden_jump_removed": 0,
+        "vocal_floor_hz": 146.83,
+        "vocal_ceiling_hz": 659.26,
+        "max_jump_semitones": 9.0
+      },
+      "note": "Low-quality pitch phrases are excluded from motif clustering and repetition estimates."
+    },
+    "tempo": {
+      "status": "classic_beat_tracking_removed",
+      "reason": "Free ritual vocal recordings often do not have stable musical beat.",
+      "vocal_cycle_tempo": {
+        "cycle_bpm": null,
+        "confidence": "unknown",
+        "note": "Not enough phrases."
+      }
+    },
+    "tonal_center": {
+      "tonal_center_hz": 190.42,
+      "tonal_center_note": "F#3",
+      "pitch_stability": 0.909,
+      "pitch_drift_direction": "mostly_stable",
+      "note": "Tonal center is based on cleaned median vocal pitch, not classical musical key."
+    },
+    "pitch_range": {
+      "min_hz_p05": 178.7,
+      "max_hz_p95": 217.47,
+      "median_hz": 190.42,
+      "min_note": "F3",
+      "max_note": "A3",
+      "median_note": "F#3",
+      "pitch_span_hz": 38.78,
+      "pitch_span_semitones": 3.4,
+      "voiced_frames": 2401
+    },
+    "vocal_cycle": {
+      "phrase_count": 1,
+      "pause_count": 2,
+      "phrase_classes": {
+        "extended_phrase": 1
+      },
+      "pause_classes": {
+        "extended_silence": 1,
+        "long_pause": 1
+      },
+      "phrase_duration_mean": 59.815,
+      "phrase_duration_median": 59.815,
+      "phrase_duration_std": 0.0,
+      "pause_duration_mean": 2.086,
+      "pause_duration_median": 2.086,
+      "pause_duration_std": 0.515,
+      "longest_phrase": 59.815,
+      "longest_pause": 2.601,
+      "vocal_density": 0.934804,
+      "silence_density": 0.065201,
+      "phrase_pause_ratio": 14.337248,
+      "vocal_cycle_tempo": {
+        "cycle_bpm": null,
+        "confidence": "unknown",
+        "note": "Not enough phrases."
+      }
+    },
+    "phrases": {
+      "count": 1,
+      "items": [
+        {
+          "id": "phrase_001",
+          "start": 2.601,
+          "end": 62.415,
+          "duration": 59.815,
+          "class": "extended_phrase",
+          "energy": {
+            "rms_mean": 0.024201,
+            "rms_max": 0.073532
+          },
+          "spectral": {
+            "spectral_centroid_mean": 1651.93,
+            "spectral_rolloff_mean": 3131.163,
+            "zero_crossing_rate_mean": 0.079137
+          },
+          "pitch": {
+            "min_hz_p05": 178.7,
+            "max_hz_p95": 217.47,
+            "median_hz": 190.42,
+            "min_note": "F3",
+            "max_note": "A3",
+            "median_note": "F#3",
+            "pitch_span_hz": 38.78,
+            "pitch_span_semitones": 3.4,
+            "voiced_frames": 2382
+          },
+          "melodic_contour": {
+            "symbols": "→→→→→→→→→→→",
+            "direction": "mostly_flat",
+            "intervals_semitones": [
+              0.1,
+              -0.3,
+              0.2,
+              0.0,
+              -0.1,
+              0.3,
+              -0.3,
+              0.0,
+              0.6,
+              0.0,
+              -0.5
+            ],
+            "values_hz": [
+              190.42,
+              191.52,
+              188.23,
+              190.42,
+              190.42,
+              189.32,
+              192.63,
+              189.32,
+              189.32,
+              196.0,
+              196.0,
+              190.42
+            ],
+            "values_midi": [
+              54.5,
+              54.6,
+              54.3,
+              54.5,
+              54.5,
+              54.4,
+              54.7,
+              54.4,
+              54.4,
+              55.0,
+              55.0,
+              54.5
+            ]
+          },
+          "quality_flags": {
+            "pitch_quality": "high",
+            "pitch_cleanup": {
+              "total_frames": 2576,
+              "raw_voiced_frames": 2389,
+              "cleaned_voiced_frames": 2382,
+              "removed_frames": 7,
+              "removed_ratio_of_voiced": 0.00293,
+              "below_vocal_floor_removed": 7,
+              "above_vocal_ceiling_removed": 0,
+              "sudden_jump_removed": 0,
+              "vocal_floor_hz": 146.83,
+              "vocal_ceiling_hz": 659.26,
+              "max_jump_semitones": 9.0
+            },
+            "has_possible_pitch_artifacts": false
+          }
+        }
+      ]
+    },
+    "pauses": {
+      "count": 2,
+      "items": [
+        {
+          "id": "pause_001",
+          "start": 0.0,
+          "end": 2.601,
+          "duration": 2.601,
+          "class": "extended_silence"
+        },
+        {
+          "id": "pause_002",
+          "start": 62.415,
+          "end": 63.987,
+          "duration": 1.571,
+          "class": "long_pause"
+        }
+      ]
+    },
+    "energy_curve": {
+      "rms_mean": 0.022658,
+      "rms_median": 0.02251,
+      "rms_max": 0.073631,
+      "summary_20": [
+        0.00152,
+        0.013194,
+        0.016691,
+        0.019737,
+        0.022521,
+        0.024382,
+        0.023496,
+        0.022577,
+        0.022224,
+        0.02204,
+        0.024595,
+        0.026901,
+        0.027862,
+        0.024928,
+        0.029299,
+        0.025006,
+        0.035974,
+        0.029307,
+        0.028342,
+        0.012688
+      ]
+    },
+    "spectral_features": {
+      "spectral_centroid_mean": 1619.991,
+      "spectral_centroid_median": 1533.493,
+      "spectral_rolloff_mean": 3136.241,
+      "spectral_bandwidth_mean": 1721.057,
+      "zero_crossing_rate_mean": 0.074625
+    },
+    "melodic_contour": {
+      "overall_pitch_contour_direction": "mostly_flat",
+      "pitch_contour_summary_20": [
+        200.516927,
+        191.359579,
+        192.088914,
+        197.481732,
+        187.666683,
+        189.628406,
+        191.011372,
+        190.275802,
+        190.758989,
+        192.906055,
+        200.92455,
+        191.486976,
+        187.05292,
+        203.226474,
+        189.460268,
+        193.494357,
+        210.011986,
+        195.278832,
+        193.054649,
+        199.324977
+      ],
+      "phrase_contour_count": 1,
+      "note": "Pitch contours are computed after artifact cleanup. Phrase-level contours are in phrases.items[].melodic_contour."
+    },
+    "motif_clustering": {
+      "status": "not_enough_clean_phrases",
+      "motif_count": 0,
+      "motifs": [],
+      "excluded_low_quality_phrase_ids": []
+    },
+    "repetition": {
+      "repetition_index": null,
+      "confidence": "unknown",
+      "note": "Not enough clean phrases."
+    },
+    "rhythmic_patterns": {
+      "status": "phrase_cycle_based",
+      "phrase_start_times": [
+        2.601
+      ],
+      "pause_start_times": [
+        0.0,
+        62.415
+      ],
+      "note": "Beat tracking removed. Use phrase starts, pauses, phrase classes and vocal cycle."
+    },
+    "voice_texture": {
+      "status": "proxy_features_only",
+      "available_evidence": [
+        "tonal_center",
+        "pitch_range",
+        "pitch_stability",
+        "energy_curve",
+        "spectral_features",
+        "phrase_classes",
+        "pause_classes",
+        "melodic_contour",
+        "motif_clustering",
+        "quality_flags"
+      ],
+      "note": "Semantic texture should be generated later by OpenAI only from computed evidence."
+    },
+    "openai_guardrails": {
+      "do_not_infer": [
+        "ethnic origin",
+        "exact language if unknown",
+        "lyrics meaning without verified transcript",
+        "medical or therapeutic efficacy",
+        "ceremonial purpose as fact",
+        "spiritual claims as fact"
+      ],
+      "allowed_interpretation": [
+        "describe observable structure",
+        "state uncertainty",
+        "map possible NIROS adaptation notes",
+        "use computed evidence only",
+        "separate facts from hypotheses",
+        "mention quality limitations when quality_flags are medium or low"
+      ]
+    }
+  },
+  "semantic_features": {
+    "schema_version": "0.4.0",
+    "analysis_type": "ritual_vocal_pattern_analysis",
+    "source_file": "/Users/mar3k/Projects/niros-audio-lab/input/audio/05 - Maria Sabina - Na- Al-Ni Tso.mp3",
+    "created_at": "2026-07-07T17:38:33.632808Z",
+    "semantic_summary": {
+      "one_sentence_summary": "The recording contains a single long vocal phrase (~60 seconds) centered around pitch F#3 with minimal pitch variation and high pitch stability, interspersed with two short pauses.",
+      "structure_description": "One extended phrase lasting about 60 seconds with two brief pauses totaling ~4 seconds; very high vocal density and long phrase-to-pause ratio.",
+      "dominant_pattern": "Predominantly an almost flat melodic contour centered on F#3 spanning about 3.4 semitones with stable pitch and minimal pitch drift.",
+      "uncertainty_notes": [
+        "Insufficient number of phrases to determine tempo, motif repetition, or cycle BPM."
+      ]
+    },
+    "voice_texture": {
+      "texture_label": "Stable, low pitch variation vocal tone with soft dynamic energy profiles.",
+      "supported_by": [
+        "pitch_stability (0.909)",
+        "pitch range (F3 to A3)",
+        "energy curve RMS mean ~0.023",
+        "mostly flat melodic contour"
+      ],
+      "confidence": "high",
+      "limitations": [
+        "Proxy features only; no direct texture timbre or spectral details beyond spectral centroid and bandwidth."
+      ]
+    },
+    "phrase_structure": {
+      "phrase_style": "Single extended phrase with very long duration and no repeated phrase units.",
+      "cycle_description": "Lacking multiple phrase cycles; no stable tempo or beat available due to insufficient phrase count.",
+      "pause_style": "Two pauses detected: one classified as extended silence and another as long pause, averaging about 2 seconds each.",
+      "supported_by": [
+        "phrase_count = 1",
+        "phrase_duration_mean = 59.815 s",
+        "pause_count = 2",
+        "pause_duration_mean = 2.086 s"
+      ],
+      "confidence": "high"
+    },
+    "motif_interpretation": {
+      "repetition_style": "Unknown due to insufficient clean phrase quantity to detect motifs or repetition.",
+      "main_motifs": [],
+      "confidence": "low"
+    },
+    "niros_adaptation_notes": {
+      "usable_elements": [
+        "Extended single phrase vocalization",
+        "Stable tonal center around F#3",
+        "Very low pitch variation (~3.4 semitones)",
+        "Long phrase duration with minimal breaks",
+        "Soft, stable energy dynamics"
+      ],
+      "avoid_copying": [
+        "Specific vocal melodies or pitch contours without cultural context",
+        "Assumptions about language or ethnic style",
+        "Claims of ceremonial or therapeutic efficacy"
+      ],
+      "possible_therapeutic_use_hypotheses": [
+        "Use of long extended vocal phrases to promote relaxation or meditative state",
+        "Stable pitch and minimal variation could support focus and calmness"
+      ],
+      "safety_notes": [
+        "Extended vocalizations may require appropriate vocal technique",
+        "Avoid cultural appropriation by focusing on structural features rather than content"
+      ]
+    },
+    "strict_guardrail_check": {
+      "did_infer_language": false,
+      "did_infer_ethnic_origin": false,
+      "did_claim_medical_efficacy": false,
+      "did_claim_spiritual_facts": false,
+      "notes": [
+        "Interpretation strictly based on computed pitch, timing, and energy features.",
+        "No inference about language, cultural origin, or meaning made.",
+        "No medical or spiritual claims included."
+      ]
+    }
+  }
+}

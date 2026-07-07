@@ -1,4 +1,11 @@
-# TLE Corpus Upload Structure
+# Legacy TLE Corpus Upload Structure
+
+This directory is **legacy storage only**.
+
+From Sprint 030 / Slice 4 onward, NIROS does not read books or source material
+from `niros_tle/corpus/`. All new knowledge-source TXT files belong in the
+canonical `knowledge_library/` tree. OCR/PDF/EPUB conversion happens outside
+NIROS, and NIROS receives only clean, human-verified TXT files.
 
 This directory holds therapeutic language **source material** for future TLE ingestion. Nothing here is processed automatically in the current sprint.
 

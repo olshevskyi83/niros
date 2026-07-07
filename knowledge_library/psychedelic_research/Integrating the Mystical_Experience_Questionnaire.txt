@@ -1,0 +1,1005 @@
+[PAGE 001]
+
+® Check for updates
+
+
+International Journal of Methods in Psychiatric Research WI LEY
+
+
+| ORIGINAL ARTICLE
+
+
+Integrating the Mystical Experience Questionnaire Into a
+Broader Psychometric Framework: English Validation of
+the Psychedelic Experience Scale and Comparison of
+Psilocybin and LSD Sessions Across Two Controlled
+Settings
+Kurt Stocker’***@® | Matthias Hartmann* | Frederick S. Barrett?” | William A. Richards? | Nathan D. Sepeda? |
+Laura Ley’ | Anna M. Becker’ | Friederike Holze' ® | Matthias E. Liechti' ®
+
+‘Department of Clinical Research, Division of Clinical Pharmacology & Toxicology, Psychopharmacology Research, University Hospital Basel, and University
+of Basel, Basel, Switzerland | “Department of Humanities, Social and Political Sciences, ETH Swiss Federal Institute of Technology Zurich, Chair of
+Cognitive Science, Zurich, Switzerland | “Department of Psychology, University of Zurich, Zurich, Switzerland | *Faculty of Psychology, UniDistance Suisse,
+Brig, Switzerland | "Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine, Baltimore, Maryland,
+USA | “Department of Psychological and Brain Sciences, Johns Hopkins University, Baltimore, Maryland, USA | "Department of Neuroscience, Johns
+Hopkins University School of Medicine, Baltimore, Maryland, USA
+
+
+Correspondence: Kurt Stocker (kurt.stocker@usb.ch)
+
+
+Received: 9 June 2025 | Revised: 16 January 2026 | Accepted: 15 April 2026
+
+
+Keywords: mystical experience | psychedelic experience | psychometrics | setting
+
+
+ABSTRACT
+Objectives: For English, the validated part of Psychedelic Experience Scale (PES48) is a four-factor structure called the Mystical
+Experience Questionnaire (MEQ30). The other validated part of the PES48 consists of four more factors: two more mystical
+
+factors (paradoxicality and connectedness, which together with the MEQ30 form the MEQ40), and two more non-mystical
+factors (visual experience and distressing experience). However, this latter four-factor part of the PES48 has thus far only
+been validated for the German version of the PES48. We investigated whether the overall eight-factor structure of the PES48
+(which includes the MEQ30 four-factor structure) can also be validated, and thus potentially be put to good use in English.
+
+Methods: Data from 280 English PES measurements (145 different healthy participants) from four placebo-controlled studies
+with low to high doses of psilocybin were included. The reliability of the eight subscales was evaluated using measures of
+
+internal consistency. The validity of the factor structure was assessed through model fit indices from confirmatory factor
+
+analysis. English results were then also compared with the German PES validation data set from Stocker et al. (2024).
+
+Results: Six of the eight subscales (mystical, positive mood, transcendence of time and space, ineffability, connectedness,
+
+distressing experience) of the English PES48 show high internal consistency, one subscale (paradoxicality) shows good, and one
+(visual experience) acceptable internal consistency. Both MEQ models (MEQ30 and MEQ40) show similar fits (acceptable to
+
+good model fits). In English, both MEQ models show better fits than in German. All six MEQ40 scale means of the English data
+are higher compared to German data.
+
+Conclusions: The findings suggest that the eight-factor PES48 is also a valid psychometric tool in English. With the MEQ40
+
+part of the PES48, one can measure mystical experience with a still wider conceptual breath than with the MEQ30.
+
+
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduction in any medium, provided the original
+
+work is properly cited and is not used for commercial purposes.
+
+© 2026 The Author(s). International Journal of Methods in Psychiatric Research published by John Wiley & Sons Ltd.
+
+
+International Journal of Methods in Psychiatric Research, 2026; 35:e70073 1 of 10
+https://doi.org/10.1002/mpr.70073
+
+[PAGE 002]
+
+“LS9OLSSI
+
+Furthermore, one can also measure non-mystical visual and distressing states in an overall more comprehensive and broader
+Z ‘9Z0Z
+conceptualization of the psychedelic experience. Higher MEQ40 scale means for the English than the German study partici-
+pants could inspire future research into the role of setting in relation to mystical experience.
+
+popeoyumog
+
+Woy
+1 | Introduction the subscale mystical conflates core elements (unity) with pe-
+ripheral elements (sacredness, noetic quality).
+With data from randomized and mostly placebo-controlled
+psychedelic trials, this article investigates whether the Despite these conceptual issues, studies have consistently
+mystical experience questionnaire (MEQ30) (Barrett et al. 2015; shown positive associations with such psychedelically occa-
+“Aap Arvsqujoutyuo/ :-sdy
+MacLean et al. 2012) can be integrated into the broader psy- sioned mystical experience as conceptualized/measured with
+chometric framework of the validated part of the psychedelic the MEQ (whether MEQ43 or MEQ30). This has been shown for
+0I/LOp/wtoo
+experience questionnaire (PES48) (Stocker et al. 2024). In this example in relation to persisting positive effects on attitudes,
+manuscript, the term psychedelic experience refers to experi- mood, behavior, subjective well-being, and life satisfaction in
+ences induced by psychoactive substances that primarily act healthy participants (R. R. Griffiths et al. 2006; Schmid and 14W1/Z001
+
+through agonism at serotonin (5-HT) 2A receptors, including Liechti 2018), and in relation to sustained symptom reduction in
+“ELOOL
+lysergic acid diethylamide (LSD), psilocybin, mescaline, and patients suffering from depression, anxiety, and addiction
+ÁSIM
+N,N-dimethyltryptamine (DMT) (Holze et al. 2024; Rickli (Bogenschutz et al. 2015; Garcia-Romeu et al. 2015; R. R. Grifet al. 2016). The MEQ—with the latest pre-PES48 version being fiths et al. 2016; Holze et al. 2023; Ross et al. 2016). Therefore, IUNUO
+
+the MEQ30—is a well validated psychometric tool that has while current and future psychometric work may further refine
+long been used to measure mystical experience as it can occur the measurement of mystical experience in philosophically and uo Aresqry]
+
+during acute psychedelic states (Barrett et al. 2015; R. R. conceptually clearer ways (e.g., Taves et al. 2023), mystical
+Griffiths et al. 2006; MacLean et al. 2012; Pahnke 1969; experience as measured with the MEQ remains a valid and
+Richards 1975). informative construct for clinical and psychometric research [9Z07/L0/L0]
+
+until such a refinement is achieved.
+sy) 998
+The conceptualization of mystical experience in the MEQ has
+been variously criticized—for instance, as reflecting “Christian Recently, a section of a thematically rich questionnaire on SULIT
+
+Bias” (Mosurinjohn et al. 2023, 1) or as “more adequately psychedelic experience of the 1960s—the Psychedelic Experi- PUR
+
+reflecting non-Western traditions than Western theistic traditions ence Questionnaire/Scale 100 (PES100), also known as the
+like Christianity” (Cole-Turner 2024, 1). Furthermore, a recent States of Consciousness Questionnaire (SOCQ)—has been suonıpuo)
+
+classification-oriented review of altered or nonordinary states of validated with a new factor structure (Stocker et al. 2024). This
+consciousness has emphasized the diversity of phenomenological validated part of the PES contains 48 items (PES48), and
+features associated with states labeled as “mystical,” leading to consists of three main themes: extended mystical experience (6
+the suggestion that such states might alternatively be framed in factors), visual experience (1 factor), and distressing experience
+Areigipsuruo/ sdy )
+terms of “significance,” alongside the remark that the term (1 factor). Extended mystical experience consists of the four
+Kom
+“mystical” is nebulous (Fort et al. 2025, 24). factors of the MEQ30 (mystical, positive mood, transcendence
+of time and space, ineffability) (Barrett et al. 2015; MacLean
+While such reviews provide valuable syntheses across histor- et al. 2012), and two more newly established mystical factors
+ical traditions and classification schemes, this assessment (paradoxicality and connectedness). This validated 6-factor
+depends critically on how mystical experience is defined. In mystical-experience part (MEQ30 + paradoxicality +
+the classical tradition articulated by Stace (1960), the defining connectedness) of the PES48 is called the Mystical Experience
+UO (SUONIPUO9-pue-sunoywos
+core of mystical experience is the transcendence of the Questionnaire 40 (MEQ40) (Stocker et al. 2024). That parasubject-object dichotomy, whereas features such as bliss, doxicality is an inherent part of the mystical experience has Á9[IM
+
+paradoxicality, ineffability, noetic quality etc. are treated as long been observed or proposed by scholars (James 1902, 417;
+9UUO
+peripheral characteristics that may accompany—but do not by Otto 1926, 63, Otto 1932, 47-48; Richards 2015, 26; Stace 1960,
+themselves constitute—mystical experience proper. When this 304-305), and has, besides in the PES48 (Stocker et al. 2024),
+107 ÁIe.1qr]
+core-periphery distinction is made explicit, the term also found further recent psychometric support for psyche-
+“mystical” is neither conceptually vague nor reducible to ex- delics (Calder et al. 2024). Similarly, a deep sense of connect- Jo sons
+periences that are merely subjectively significant or edness is widely regarded as part of the mystical experience “9sn
+
+meaningful. (B. Griffiths 1982, 31; Otto 1926, 296, Otto 1932, 212; yO
+
+Richards 2015, 49-51), and has, besides in the PES48, also
+sopon.e
+Up to the MEQ43 and its predecessors (R. R. Griffiths found further recent psychometric support for psychedelically
+ose
+et al. 2006; Pahnke 1969; Richards 1975), this mystical core/ induced states (Calder et al. 2024). Thus, a conceptual advanperiphery distinction was also clearly reflected psychometri- tage of using the PES48 over the MEQ30 is that it incorporates
+
+oy Aq Pou19A08
+cally, with the subscales Internal Unity and External Unity the full MEQ40, allowing it to capture two additional facets of
+corresponding to the core and the other subscales corresponding the mystical experience (paradoxicality and connectedness), as
+to the periphery. In the MEQ30 and MEQ40 (Barrett et al. 2015; well as two other core dimensions of the psychedelic
+o[quordde
+MacLean et al. 2012; Stocker et al. 2024), however, this core/ experience—visual and distressing effects—providing a broader
+periphery distinction has become partially blurred, insofar as measurement framework beyond mystical experience alone.
+SATIBOID
+
+
+SUOWLWOJ
+
+2 of 10 International Journal of Methods in Psychiatric Research, 2026
+ISUDOI']
+
+[PAGE 003]
+
+Indeed, when looking at the main themes of the three most 2.2 | Measures “LS9OLSSI
+
+comprehensive questionnaires used to measure psychedelic
+Z ‘9Z0Z
+experience—the PES100/48 (Richards 1975; Stocker 2.2.1 | Psychedelic Experience Scale (PES)
+et al. 2024), the 5-Dimensional Altered States of Consciousness
+Scale (5D-ASC; Dittrich 1985, 1998; Dittrich et al. 2010; Stocker Psychedelic and mystical experience was assessed with the
+popeoyumog
+et al. 2025; Studerus et al. 2010), and the Hallucinogen Rating Psychedelic Experience Scale 100 (PES100) (Richards 1975;
+Woy
+Scale (HRS; Calder et al. 2024; Strassman et al. 1994)—it be- Stocker et al. 2024), also known as the States of Consciousness
+comes apparent that psychedelic experience always seems to Questionnaire (SOCQ) (R. R. Griffiths et al. 2006). 48 items of
+have at least these three common characteristics: positive the PES form the validated part of the PES (PES48) (Stocker
+experience (which can include mystical experience), distressing et al. 2024). The PES48 contains the 40-item Mystical Experiexperience (e.g., anxiety and suffering), and perceptual expe- ence Questionnaire (MEQ40)—which consists of the MEQ30
+“Aap Arvsqujoutyuo/ :-sdy
+rience (with visual perception playing the most dominant role). (Barrett et al. 2015; MacLean et al. 2012) and the additional
+Therefore, this paper attempts to integrate the MEQ30 into a mystical factors connectedness and paradoxicality—as well as
+0I/LOp/wtoo
+broader validated psychometric context of the psychedelic the two non-mystical factors visual experience and distressing
+experience—the PEQ48—for use in English. Doing so offers experience (Stocker et al. 2024).
+the opportunity to more comprehensively and validly assess 14W1/Z001
+
+the psychedelic experience in English-speaking populations.
+“ELOOL
+Given these potential advantages, we investigated whether the
+eight-factor structure of the PES48 can also be validated in 2.3 | Procedure and Data Analysis ÁSIM
+
+
+English. IUNUO
+The reliability of the factor structure was evaluated using
+Overall standardized and validated scales—including stan- measures of internal consistency, while its validity was assessed uo Aresqry]
+dardization and validation of the same measurement tools in through model fit indices from confirmatory factor analysis
+different languages— are essential for ensuring comparability (CFA). Cronbach's « and McDonald's w were computed as index
+across studies and for enabling meta-analytic syntheses in psy- of internal consistency. Cronbach's a assumes that all items [9Z07/L0/L0]
+
+chedelic and other nonordinary-states-of-consciousness (NSC)' contribute equally to the measurement (tau-equivalence) and is
+sy) 998
+research. Recent initiatives such as the Altered States Database influenced by the number of items, often overestimating reli-
+(ASDB) have already begun to systematically compile psycho- ability in homogeneous scales. In contrast, McDonald's w ac- SULIT
+
+metric data for such purposes and to carry out such analyses counts for differing item contributions using factor loadings, PUR
+
+using results of instruments such as the MEQ, 5D-ASC, and providing a more robust and accurate estimate of reliability,
+HRS (e.g., Hirschfeld et al. 2023; Prugger et al. 2022). However, especially for heterogeneous scales. As model fit indices, we suonıpuo)
+rather than on field-wide standardization efforts, the present assessed normed Chi-Square x’/df, which evaluates the
+study focuses primarily on validating the English version of the discrepancy between the observed and expected covariance
+Psychedelic Experience Scale (PES48) and on assessing its psy- matrices relative to the model's degrees of freedom, the Root
+chometric performance across datasets. Mean Square Error of Approximation (RMSEA), which esti-
+Areigipsuruo/ sdy )
+mates how well the model approximates the data while ac-
+Kom
+counting for model complexity, the Standardized Root Mean
+Square Residual (SRMR), which reflects the average standard2 | Method ized difference between observed and predicted correlations,
+and the Comparative Fit Index (CFI), which compares the fit of
+2.1 | Participants the proposed model to a null model (no relationships between
+variables), adjusting for sample size. Cronbach's a and McDo-
+UO (SUONIPUO9-pue-sunoywos
+280 English PES measurements of 145 healthy participants nald's w are based on polychoric correlations, and fit indices of
+(mean age = 41.5, SD = 12.4, ranging from 22 to 69; 87 female) the CFA are based on robust maximum likelihood estimation Á9[IM
+
+from four different psilocybin studies were included in the with Satorra-Bentler correction (see Stocker et al. 2024).
+9UUO
+analysis (Carbonaro et al. 2018; R. R. Griffiths et al. 2006, 2011,
+2018). For the just listed studies we included the use of the PES
+107 ÁIe.1qr]
+with the following high to low psilocybin doses (n refers to PES
+measurements): high (30 mg/70 kg; n = 155), moderate (20 mg/ 3 | Results
+Jo sons
+70 kg; n = 87), and low (10 mg/70 kg; n = 38). Not included in
+“9sn
+the analysis was the use of the PES in the just-listed studies in 3.1 | Internal Consistency yO
+
+the following conditions: first, when a very low psilocybin dose
+(below 10 mg/70 kg) had been used, and second, when not a Five of the six subscales of the English MEQ40 show high in- sopon.e
+ose
+classic psychedelic, but some other substance (dextromethor- ternal consistency (a and w > 0.90), and the sixth subscale still
+phan, methylphenidate hydrochloride, or placebo) had been shows good internal consistency (a and w between 0.80 and
+
+oy Aq Pou19A08
+administered. Furthermore, the English PES data set was 0.89) (Table 1). Regarding the two non-mystical subscales of the
+compared with the 239 German PES data set from 140 healthy English PES48, visual experience shows acceptable internal
+participants (mean age = 32.4, SD = 9.6, ranging from 24 to 64; consistency (a and w = 0.70), while distressing experience
+73 females) from the six different classic-psychedelic studies shows high internal consistency (a and w > 0.90). MEQ40 scale o[quordde
+
+
+(moderate to high doses of psilocybin and/or LSD) of the pooled means of the English data are higher compared to German data
+SATIBOID
+study from Stocker et al. (2024). (see Discussion for possible explanations).
+
+SUOWLWOJ
+
+International Journal of Methods in Psychiatric Research, 2026 3 of 10
+ISUDOI']
+
+[PAGE 004]
+
+3.2 | Model Fits measuring mystical experiences more comprehensively than the “LS9OLSSI
+
+MEQ30, while also incorporating non-mystical visual and dis-
+Z ‘9Z0Z
+Model fit indices for the MEQ30 and the MEQ40 are summa- tressing effects into an overall more comprehensive and broader
+rized in Table 2. CFA for the MEQ40 with the English data understanding of the psychedelic experience. Convergent validity
+shows good model fit, as indicated by the SRMS (SRMS < 0.08), between the MEQ and the 5D-ASC (or its subscale structure: 11-
+popeoyumog
+while the RMSEA, x2/df, and CFI show acceptable model fits ASC) has already been robustly demonstrated in previous work
+Woy
+(RMSEA < 0.08, x2/df < 3, and CFI > 0.90). Fit indices for the (Liechti et al. 2017; r = 0.87 between MEQ30 and 5D-ASC total
+English data are better when compared to the German data, scores) and in our own validation of the PES (Stocker et al. 2024).
+indicating that the MEQ40 is well suitable to apply also in En- In that study, the PES subscales showed substantial convergence
+glish. Also, model fit indices for the MEQ30 and MEQ40 are with their closest 11-ASC conceptual counterparts—including
+similar, indicating that adding the additional subscales of the PES paradoxicality and connectedness with 11-ASC experience
+“Aap Arvsqujoutyuo/ :-sdy
+MEQ40 does not reduce model fit. of unity (r = 0.69 and 0.59, respectively), PES distressing experi-
+ence with 11-ASC anxiety (r = 0.74), and PES visual experience
+0I/LOp/wtoo
+with 11-ASC elementary imagery and complex imagery (r = 0.48
+3.3 | Comparison Across Substances and and 0.42, respectively). The somewhat lower correlations in the
+Languages visual domain are consistent with conceptual differences of the 14W1/Z001
+
+two instruments between open-eye and closed-eye visuals.
+“ELOOL
+Means of subscales for each substance (LSD, psilocybin), dose
+ÁSIM
+and data (German and English) are shown in Figure 1. The similar model fit indices for the MEQ30 and MEQ40 sug-
+gests that the additional mystical subscales from the MEQ40 do IUNUO
+
+not meaningfully impact model fit when compared to the
+4 | Discussion MEQ30. This finding further supports existing scholarly and uo Aresqry]
+
+psychometric work establishing that paradoxicality (Calder
+Our findings suggest that the eight-factor PES48 is a valid psy- et al. 2024; James 1902, 417; Otto 1926, 63, 1932, pp. 47-48;
+chometric tool not only in German, but also in English for Richards 2015, 26; Stace 1960, 304-305; Stocker et al. 2024) and [9Z07/L0/L0]
+
+
+sy) 998
+
+
+TABLE 1 | Means and internal consistency of subscales. SULIT
+
+PUR
+M (SD) Cronbach's & McDonald's w
+
+N Ger Eng Ger Eng Ger Eng
+suonıpuo)
+
+MEQ30 subscales
+
+Mystical 15 1.73 (1.27) 3.16 (0.27) 0.96 0.98 0.97 0.99
+
+Positive mood 6 2.41 (1.17) 3.64 (0.29) 0.85 0.95 0.89 0.97
+Areigipsuruo/ sdy )
+Trans. Time space 6 2.62 (1.32) 3.26 (0.55) 0.90 0.92 0.93 0.95
+Kom
+
+Ineffability 3 3.42 (1.26) 3.71 (0.22) 0.87 0.95 0.89 0.96
+
+MEQ40 additional subscales
+
+Paradoxicality 5 1.76 (1.26) 2.74 (0.39) 0.84 0.85 0.88 0.88
+
+Connectedness 5 2.28 (1.28) 3.36 (0.46) 0.85 0.89 0.88 0.91
+
+PES48 additional subscales UO (SUONIPUO9-pue-sunoywos
+
+
+Visual experience 3 2.38 (1.41) 2.28 (1.11) 0.81 0.70 0.84 0.70 Á9[IM
+
+
+Distressing experience 5 1.05 (1.24) 1.32 (0.34) 0.93 0.92 0.95 0.95 9UUO
+
+Note: Number of observations: Ger = 239, Eng = 280.
+
+107 ÁIe.1qr]
+Abbreviations: Eng, English data; Ger, German data; N, Number of Items in the subscale; Trans., Transcendence.
+
+
+Jo sons
+TABLE 2 | Model fit for the MEQ30 and MEQ40.
+“9sn
+
+MEQ Dataset Npar Chi? df x°/df RMSEA SRMR CFI yO
+
+
+MEQ30 Ger 66 1010.91 399 2.53 0.080 0.081 0.87 sopon.e
+ose
+MEQ30 Eng 66 943.53 399 2.36 0.070 0.052 0.93
+
+MEQ40 Ger 95 1667.70 725 2.30 0.074 0.082 0.85
+oy Aq Pou19A08
+MEQ40 Eng 95 1565.12 725 2.16 0.064 0.055 0.92
+
+Note: The conventional cutoff criteria for good fits are x2/df < 2, RMSEA < 0.06, SRMR < 0.08, and CFI > 0.95, or, respectively, x2/df < 3, RMSEA < 0.10, SRMR < 0.10,
+and CFI > 0.90 for acceptable fits. Number of observations: 239 (Ger) (same dataset as Stocker et al. 2024) and 280 (Eng). o[quordde
+Abbreviations: CFI, comparative fit indices; Eng, English data; Ger, German data; Npar, number of parameters estimated by the model; RMSEA, root mean square error
+of approximation; SRMR, Standardized root mean square residual.
+SATIBOID
+
+
+SUOWLWOJ
+
+4 of 10 International Journal of Methods in Psychiatric Research, 2026
+ISUDOI']
+
+[PAGE 005]
+
+LS9OLSSI
+
+
+Z “9Z07
+
+
+popeoyumog
+
+wos
+
+
+Arsigıp uruoy/:sdy
+
+AapM
+
+
+01 /Op/wios
+
+
+“ELOOL1dUYZOO1
+
+
+ÁMIM
+
+
+OUTTUO
+
+
+b) Psilocybin c) Psilocybin
+UO Areıqı
+5>
+
+
+Dose Dose
+
+
+0: kg
+15mg °F mg/70 kg
+4? 25 mg
+“[9Z0Z/L0/LO]
+30 mg 30 mg/70 kg
+
+94) 998
+
+
+172) 37 a? SULAL
+c c
+oO oO PUR
+® ®
+
+SUOTIPUOD
+
+
+Areigijounuo/ :sdy )
+0-
+
+
+oe e¿eEAS
+a S N $ se $ rn Ss 2°, ¿E
+
+Y &oo FA BS Ex $ $ se
+Q SSgfe F
+NSE SS &
+gs
+O
+so $
+we e eo re) 9
+Re
+PES Subscales PES Subscales
+
+FIGURE 1 | Means of PES subscales for each substance, dose and dataset. Means of the eight PES48 subscales for (a) LSD (German dataset),
+UO (SUONPUOH-pue-sunsywosAdjım
+(b) psilocybin (German), and (c) psilocybin (English). Error bars show +/— 1 SEM. DistressingExp = Distressing Experience, PosMood = Positive
+Mood, TransTimeSpace = Transcendence of Time and Space, VisualExp = Visual Experience. Á9]EM
+
+
+SUNUO
+connectedness (B. Griffiths 1982, 31; Otto 1926, 296, Otto 1932, connectedness to self, to others, and to the world. The PES
+212; Richards 2015, 49-51; Stocker et al. 2024) are also an connectedness factor more closely resembles the original qual-
+Joy Areıqı
+inherent part of mystical experience. itative construct described by Watts et al. in that it focuses on
+acute feelings of connectedness and conceptually distinguishes Jo sapnı
+
+The PES connectedness construct—as part of the mystical being connected to the world and connectedness to a spiritual “9sn
+
+experience—was originally modeled after the qualitatively principle—both of which the WCS subsumes under “Connect- yO
+
+derived framework of Watts et al. (2017), which consists of be- edness to the world”.
+soponıe
+ing connected, acutely and post-acutely, to the senses, to self, to ore
+
+others, to the world, and to a spiritual principle (Stocker That six of the eight subscales of the English PES48 show high
+et al. 2024, 85, Table 2). An important limitation of the PES internal consistency, and two either acceptable or good internal
+connectedness factor, however, is that it currently lacks an item consistency, shows that the PES48 also in English can be used to ayy Aq pouIdAos
+
+explicitly capturing connectedness to self. Watts et al. (2022) measure mystical experience in a broader psychometric framesubsequently developed the Watts Connectedness Scale (WCS) work that also includes measuring visual and distressing expe-
+Aqeondde
+based in their qualitative findings, designed to measure post- rience. Thus, the PES48 is now also in line in English with all
+acute feelings of connectedness in terms of the three factors: questionnaires that try to cover the psychedelic experience in
+dATTBAID
+
+
+SUOWWOJ
+
+International Journal of Methods in Psychiatric Research, 2026 5 of 10
+29U991]
+
+[PAGE 006]
+
+comprehensive ways—the PES (Richards 1975; Stocker 5D-ASC (Liechti et al. 2017), supporting the interpretation that “LS9OLSSI
+
+et al. 2024), the 5D-ASC (Dittrich 1998; Stocker et al. 2025; these effects are design- and expectancy-related rather than
+Z ‘9Z0Z
+Studerus et al. 2010), and the HRS (Calder et al. 2024; Strassman measure- or language-specific. In contrast, PES scale means for
+et al. 1994)—as each of these questionnaires at least cover these visual and distressing experience—dimensions not previously
+three basic themes: positive themes (such as mystical experi- assessed outside the Basel datasets—differed only marginally
+popeoyumog
+ences), perceptual themes (such as visual experiences) and between the two settings in the present study. Overall, this
+Woy
+distressing themes (such as anxiety, suffering, isolation). Stocker means that English and German PES data can be pooled
+et al. (2024, 96) have laid out in some detail some more specific together in the future, as language seems not account for the
+psychedelic themes—which often can be viewed as subthemes differences in scores.
+of positive, perceptual, or distressing psychedelic
+experiences—covered or not covered with these three most Although this is mere speculation, we think that the setting
+“Aap Arvsqujoutyuo/ :-sdy
+comprehensive questionnaires used to measure psychedelic might play a crucial role in the observed differences in experiexperience. The main observation was that each of the three enced mystical strength across the two language groups. The
+0I/LOp/wtoo
+questionnaires leaves out certain specific psychedelic themes Johns Hopkins University laboratory (English data) is designed
+that are covered in one or two of the other questionnaires. Thus, to resemble a welcoming living room, featuring a couch, a
+they pointed out that the answer of which questionnaire is collection of books on spiritual and artistic themes, and 14W1/Z001
+
+recommended for use (in situations where not all three of these nondescript artwork on the walls. In contrast, the University
+“ELOOL
+questionnaires can be used together) will depend on which Hospital Basel laboratory (German data) has a more clinical,
+themes should not be left out in the measurement of the acute hospital-like ambiance, with a standard hospital bed, plain ÁSIM
+
+
+psychedelic state for a given research or clinical context. We white walls, a clock on the wall, and no books unless partici- IUNUO
+
+recommend the use of the PES48 over the 5D-ASC or HRS when pants bring their own.
+one wants to measure mystical experience in more compre- uo Aresqry]
+hensive ways, but other than for that specific purpose we Given that studies have shown positive associations for psystrongly recommend using both the PES48 and the 5D-ASC—in chedelically occasioned mystical experiences both for healthy
+its most updated validated form: the 3D-ASCr (Stocker individuals and for individuals suffering from certain mental [9Z07/L0/L0]
+
+et al. 2025)—in clinical research and practice (see below). It is health disorders (Bogenschutz et al. 2015; Garcia-Romeu
+sy) 998
+only the MEQ40 part of the PES (when contrasted with the 5D- et al. 2015; R. R. Griffiths et al. 2006, 2016; Holze et al. 2023;
+ASC and HRS) which has validated a larger number of scholarly Ross et al. 2016; Schmid and Liechti 2018), and given that in this SULIT
+
+proposed common characteristics of the mystical experience study we have tentatively observed differences in experienced PUR
+
+(James 1902, 380-382; Otto 1926, 50-70, Otto 1932, 38-53; mystical strength between a living room-like and a hospital
+Richards 2015, 26, 41-54; Stace 1960, 131-132; Stocker 2022, room-like setting, future research could investigate whether suonıpuo)
+332-336) as psychometric factors (Barrett et al. 2015; Barrett and psychedelic experiences in living room-like settings (compared
+Griffiths 2018, 409-410; Stocker et al. 2024). to more clinical settings) might not only enhance mystical ex-
+periences, but might also be associated with related stronger
+Finally, we found that MEQ40 scale means of the English data post-substance positive outcomes. These observations empha-
+Areigipsuruo/ sdy )
+were higher than in the German data, with the mystical sub- size the need for carefully manipulating setting as a controlled
+Kom
+scale showing the largest difference and the ineffability subscale variable in psychedelic clinical trials (Golden et al. 2022; Yaden
+the smallest. Such higher MEQ scores in Johns Hopkins par- et al. 2025).
+ticipants compared with University Hospital Basel participants
+have also been reported previously (Liechti et al. 2017, 1505). We already noted that there are three major instruments aiming
+Prior work suggests that these differences are unlikely to reflect to capture the psychedelic experience rather comprehensively:
+language-related effects. the PES48 (Richards 1975; Stocker et al. 2024), the 5D-ASC
+UO (SUONIPUO9-pue-sunoywos
+(Dittrich et al. 2006, 2010), and the HRS (Calder et al. 2024;
+For example, in U.S. psilocybin studies, high-dose psilocybin Strassman et al. 1994). The 5D-ASC (Dittrich et al. 2006, 2010) has Á9[IM
+
+produced substantial MEQ30 scores, but inactive and active recently been revalidated in a hierarchical framework that in-
+9UUO
+placebo conditions likewise yielded comparatively high ratings tegrates the established 11-ASC subscales (Studerus et al. 2010)
+(Barrett et al. 2015). In contrast, in European laboratory studies, into three higher-order dimensions, conceptually aligned with
+107 ÁIe.1qr]
+placebo, 3,4-methylenedioxymethamphetamine (MDMA), and Dittrich's original three core dimensions, while showing
+methylphenidate produced only minimal increases in MEQ improved model fit compared with the original subscale-free
+Jo sons
+scores (Liechti et al. 2017; Schmid et al. 2014). Similar patterns three-dimensional formulation (3D-ASCr; Stocker et al. 2025). “9sn
+in Europe have been observed in therapeutic settings, where We recommend administering both the PES48 and 3D-ASCr yO
+
+active placebo administration resulted in only small MEQ in- whenever feasible—see Stocker et al. (2025) for a more compre-
+sopon.e
+creases (Gasser et al. 2014). hensive discussion on the matter—as these two instruments have
+ose
+been more consistently linked to clinically relevant outcomes
+Taken together, these findings indicate that cross-site differ- than the HRS, while also differing in key aspects. For instance,
+
+oy Aq Pou19A08
+ences in MEQ effect sizes could primarily reflect contextual and insightfulness—an established 11-ASC subscale that is also inteexpectancy-related factors—such as study setting, participant grated within the revised 3D-ASCr framework but not captured
+characteristics, preparation, and interpersonal support—rather by the MEQ/PES—has been associated with improvements in
+than linguistic differences between questionnaire versions. depression (Carhart-Harris et al. 2018), whereas ineffability—an o[quordde
+
+
+Importantly, comparable cross-laboratory differences have been established MEQ subscale retained within the PES48 but not
+SATIBOID
+observed across multiple instruments, including the MEQ and captured by the 11-ASC/3D-ASCr—has predicted positive
+
+
+SUOWLWOJ
+
+6 of 10 International Journal of Methods in Psychiatric Research, 2026
+ISUDOI']
+
+[PAGE 007]
+
+treatment outcomes in cancer-related anxiety (Ross et al. 2016). a wider conception of mystical experience (by including “LS9OLSSI
+
+Even in domains where these two instruments overlap—such as mystical paradoxicality and connectedness). This measure also
+Z ‘9Z0Z
+perceptual and distressing experiences—they meaningfully allows a direct contrast of psychedelic mystical states with
+complement one another. For example, within the validated psychedelic non-mystical states such a distressing experience.
+items, the PES48 visual factor uniquely captures complex open- We believe this measure to be a valuable contribution to the
+popeoyumog
+eye visuals (e.g., “38. With open eyes, seeing objects around you field, as it recapitulates a more comprehensive representation
+Woy
+turn into great works of art”), whereas only a 11-ASC/3D-ASCr of the richness and diversity of psychedelic experiences within
+perceptual factor covers closed-eyes visual scenes (“17 [39]. I saw a single measure. The PES48 and its scoring key (for both
+entire scenes in total darkness or with my eyes closed”). Similarly, English and German) can be found as a supplement in Stocker
+the PES48 distressing factor uniquely includes items such as et al. (2024).
+suffering and despair (“13. Emotional and/or physical suffering;
+“Aap Arvsqujoutyuo/ :-sdy
+16. Feelings of despair”), while only the 11-ASC/3D-ASCr distressing factors includes items reflecting impaired thought and
+0I/LOp/wtoo
+volition (e.g., “10. [27] I was unable to make even the smallest
+Author Contributions
+decision; 36 [78]. I had the feeling that I no longer had a will of
+my own”). Kurt Stocker: conceptualization, writing - original draft, writing - 14W1/Z001
+review and editing, funding acquisition. Matthias Hartmann: meth-
+odology, validation, visualization, formal analysis, data curation, “ELOOL
+Until future revisions or new instruments are developed that
+conceptualization. Frederick S. Barrett: writing - review and editing,
+ÁSIM
+integrate these complementary aspects into a single, unified funding acquisition, investigation. William A. Richards: writing -
+framework, we recommend using both the PES48 and 3D-ASCr, review and editing. Nathan D. Sepeda: writing - review and editing, IUNUO
+
+with the HRS as an optional addition when time and resources data curation. Laura Ley: investigation, data curation. Anna M.
+Becker: investigation, data curation. Friederike Holze: investigation,
+uo Aresqry]
+permit—while noting that the clinical applicability of the HRS
+data curation. Matthias E. Liechti: writing - review and editing,
+(Version 4) remains under evaluation and requires additional
+investigation.
+empirical confirmation (Calder et al. 2024, 11). Depending on
+research and therapy aims, these broad instruments can be [9Z07/L0/L0]
+Acknowledgements
+complemented by more focused questionnaires such as the
+sy) 998
+Emotional Breakthrough Inventory (EBI; Roseman et al. 2019), Open access publishing facilitated by Universitat Basel, as part of the
+the Psychological Insight Questionnaire (PIQ; Davis et al. 2021), Wiley - Universitat Basel agreement via the Consortium Of Swiss Aca- SULIT
+demic Libraries.
+the Challenging Experience Questionnaire (CEQ; Barrett PUR
+
+et al. 2016), the Ego Dissolution Inventory (EDI; Nour et al. 2016),
+or the Watts Connectedness Scale (WCS; Watts et al. 2022). Funding
+suonıpuo)
+
+Finally, given that qualitative research has identified phenome- KS received funding for the present study by Dr. Botond Berde-Fonds/
+nological dimensions not yet adequately covered by current psy- Freiwillige Akademische Gesellschaft Basel, Switzerland. FSB and NS
+chedelic psychometrics—such as insights into personal were supported by the Johns Hopkins Center for Psychedelic and
+
+relationships (Belser et al. 2017) and peak experiences extending Consciousness Research, which was funded by a grant from the Steven
+Areigipsuruo/ sdy )
+and Alexandra Cohen Foundation, as well as gifts from Tim Ferriss,
+beyond classical mystical framings (Gasser et al. 2015)—future
+Matt Mullenweg, Blake Mycoskie, and Craig Nerenberg. Kom
+instruments should further integrate such qualitative insights.
+
+Ethics Statement
+Beyond psychedelic applications, future research could also
+assess the potential of the PES48 to characterize other forms of All pooled studies from the University Hospital Basel were conducted in
+
+NSCs, both pharmacologically (e.g., dissociative substances) and accordance with the Declaration of Helsinki and International Confer-
+ence on Harmonization Guidelines in Good Clinical Practice and
+non-pharmacologically induced. Qualitative and phenomeno-
+approved by the Ethics Committee of Northwest Switzerland (EKNZ) UO (SUONIPUO9-pue-sunoywos
+logical accounts suggest that the three experiential dimensions
+and Swiss Federal Office for Public Health. The pooled studies conassessed by the PES48 may likewise capture central aspects of ducted at Johns Hopkins University were approved by the Institutional
+Á9[IM
+
+
+non-pharmacologically induced NSCs, such as those occurring Review Board of the Johns Hopkins University School of Medicine. All 9UUO
+during intensive or advanced meditation (Kornfield 1979; Van of the participants (University Hospital Basel and Johns Hopkins UniGordon et al. 2018, 2019), sensory deprivation (Kjellgren versity) provided written informed consent before beginning study
+107 ÁIe.1qr]
+procedures and were paid for their participation.
+et al. 2008), or rhythm-induced trance (Flor-Henry et al. 2017;
+Kjellgren and Eriksson 2010). In our recent re-validation of the Jo sons
+
+5D-ASC (3D-ASCr; Stocker et al. 2025), we proposed a compa- Conflicts of Interest “9sn
+
+rable generalizability of the three core dimensions—positive, M.E.L. is a consultant for Mind Medicine Inc. and Lykos Therapeutics yO
+
+distressing, and perceptual effects—supporting the view that Inc. F.S.B. is a scientific advisor for MindState Design Labs LLC and
+sopon.e
+these phenomenological dimensions may extend across diverse Lilly USA LLC.
+ose
+
+consciousness-modifying inducers and techniques (Dittrich 1985, 1998; Dittrich et al. 2006, 2010). Data Availability Statement
+
+oy Aq Pou19A08
+Data from this study may be made available for specific research proThe PES48 provides a stand-alone, psychometrically validated jects upon reasonable request to M.E.L. (for data collected at University
+measure of psychedelically occasioned mystical experience that Hospital Basel) and F.S.B. (for data collected at Johns Hopkins
+o[quordde
+is integrated into a broader psychometric framework including University).
+
+SATIBOID
+
+
+SUOWLWOJ
+
+International Journal of Methods in Psychiatric Research, 2026 7 of 10
+ISUDOI']
+
+[PAGE 008]
+
+Endnotes Dittrich, A., D. Lamparter, and M. Maurer. 2010. 5D-ASC: Questionnaire “LS9OLSSI
+
+for the Assessment of Altered States of Consciousness. A Short Introduc-
+! We use the term NSC because it offers greater theoretical neutrality: it Z ‘9Z0Z
+tion. PSIN Plus.
+can refer to both shifts in degree and shifts in kind, whereas ASC
+(altered state of consciousness) is more typically understood to imply Flor-Henry, P., Y. Shapiro, and C. Sombrun. 2017. “Brain Changes
+changes in degree (cf. also Timmermann et al. 2023, 139). During a Shamanic Trance: Altered Modes of Consciousness, Hemi- popeoyumog
+spheric Laterality, and Systemic Psychobiology.” Cogent Psychology 4,
+Woy
+no. 1: 1313522. https://doi.org/10.1080/23311908.2017.1313522.
+References
+
+Barrett, F. S., M. P. Bradstreet, J.-M. S. Leoutsakos, M. W. Johnson, and Fort, L. D., C. Costines, M. Wittmann, A. Demertzi, and T. T. Schmidt.
+
+R. R. Griffiths. 2016. “The Challenging Experience Questionnaire: 2025. “Classification Schemes of Altered States of Consciousness.”
+
+Characterization of Challenging Experiences With Psilocybin Mush- Neuroscience & Biobehavioral Reviews 175: 106178. https://doi.org/10.10
+16/j.neubiorev.2025.106178.
+“Aap Arvsqujoutyuo/ :-sdy
+rooms.” Journal of Psychopharmacology 30, no. 12: 1279-1295. https://
+doi.org/10.1177/0269881116678781.
+Garcia-Romeu, A., R. R. Griffiths, and M. W. Johnson. 2015.
+“Psilocybin-Occasioned Mystical Experiences in the Treatment of To-
+0I/LOp/wtoo
+Barrett, F. S., and R. R. Griffiths. 2018. “Classic Hallucinogens and
+Mystical Experiences: Phenomenology and Neural Correlates.” Current bacco Addiction.” Current Drug Abuse Reviews 7, no. 3: 157-164. https:
+//
+
+Topics in Behavioral Neurosciences 36: 393-430. https://doi.org/10.1007/ doi.org/10.2174/1874473708666150107121331.
+
+7854_2017_474. 14W1/Z001
+Gasser, P., D. Holstein, Y. Michel, et al. 2014. “Safety and Efficacy of
+Barrett, F. S., M. W. Johnson, and R. R. Griffiths. 2015. “Validation of Lysergic Acid Diethylamide-Assisted Psychotherapy for Anxiety Asso- “ELOOL
+
+the Revised Mystical Experience Questionnaire in Experimental Ses- ciated With Life-Threatening Diseases.” Journal of Nervous and Mental
+ÁSIM
+sions With Psilocybin.” Journal of Psychopharmacology 29, no. 11: Disease 202, no. 7: 513-520. https://doi.org/10.1097/NMD.000000000000
+1182-1190. https://doi.org/10.1177/0269881115609019. 0113.
+IUNUO
+
+
+Belser, A. B., G. Agin-Liebes, T. C. Swift, et al. 2017. “Patient Experi- Gasser, P., K. Kirchner, and T. Passie. 2015. “LSD-Assisted Psychoences of Psilocybin-Assisted Psychotherapy: An _ Interpretative therapy for Anxiety Associated With a Life-Threatening Disease: A uo Aresqry]
+
+Phenomenological Analysis.” Journal of Humanistic Psychology 57, no. Qualitative Study of Acute and Sustained Subjective Effects.” Journal of
+4: 354-388. https://doi.org/10.1177/0022167817706884. Psychopharmacology 29, no. 1: 57-68. https://doi.org/10.1177/026988111
+4555249.
+[9Z07/L0/L0]
+Bogenschutz, M. P., A. A. Forcehimes, J. A. Pommy, C. E. Wilcox, P.
+Barbosa, and R. J. Strassman. 2015. “Psilocybin-Assisted Treatment for Golden, T. L., S. Magsamen, C. C. Sandu, et al. 2022. “Effects of Setting
+sy) 998
+Alcohol Dependence: A Proof-of-Concept Study.” Journal of Psycho- on Psychedelic Experiences, Therapies, and Outcomes: A Rapid Scoping
+pharmacology 29, no. 3: 289-299. https://doi.org/10.1177/026988111456 Review of the Literature.” Current Topics in Behavioral Neurosciences 56: SULIT
+5144. 35-70. https://doi.org/10.1007/7854_2021_298. PUR
+
+
+Calder, A. E., C. Qualls, G. Hasler, D. Elmiger, and R. Strassman. 2024. Griffiths, B. 1982. The Marriage of East and West. Medio Media
+“The Hallucinogen Rating Scale: Updated Factor Structure in a Large, Publishing. suonıpuo)
+
+Multi-Study Sample.” Biological Psychiatry Global Open Science 5, no. 2:
+100436. https://doi.org/10.1016/j.bpsgos.2024.100436. Griffiths, R. R., M. W. Johnson, M. A. Carducci, et al. 2016. “Psilocybin
+Produces Substantial and Sustained Decreases in Depression and AnxCarbonaro, T. M., M. W. Johnson, E. Hurwitz, and R. R. Griffiths. 2018. iety in Patients With Life-Threatening Cancer: A Randomized Double-
+“Double-Blind Comparison of the Two Hallucinogens Psilocybin and Blind Trial.” Journal of Psychopharmacology 30, no. 12: 1181-1197. Areigipsuruo/ sdy )
+Dextromethorphan: Similarities and Differences in Subjective Experi- https://doi.org/10.1177/0269881116675513.
+Kom
+ences.” Psychopharmacology 235, no. 2: 521-534. https://doi.org/10.100
+7/s00213-017-4769-4. Griffiths, R. R., M. W. Johnson, W. A. Richards, et al. 2018. “Psilocybin-
+Occasioned Mystical-Type Experience in Combination With Meditation
+Carhart-Harris, R. L., M. Bolstridge, C. M. J. Day, et al. 2018. “Psilocybin and Other Spiritual Practices Produces Enduring Positive Changes in
+With Psychological Support for Treatment-Resistant Depression: Six- Psychological Functioning and in Trait Measures of Prosocial Attitudes
+Month Follow-Up.” Psychopharmacology 235, no. 2: 399-408. https:// and Behaviors.” Journal of Psychopharmacology 32, no. 1: 49-69. https://
+doi.org/10.1007/s00213-017-4771-x. doi.org/10.1177/0269881117731279.
+UO (SUONIPUO9-pue-sunoywos
+Cole-Turner, R. 2024. “Psychedelic Mysticism and Christian Spirituality:
+Griffiths, R. R., M. W. Johnson, W. A. Richards, B. D. Richards, U.
+From Science to Love.” Religions 15, no. 5: 537: Article 5. https://doi.org/ Á9[IM
+McCann, and R. Jesse. 2011. “Psilocybin Occasioned Mystical-Type
+10.3390/rel15050537.
+Experiences: Immediate and Persisting Dose-Related Effects.” Psycho- 9UUO
+
+Davis, A. K., F. S. Barrett, S. So, N. Gukasyan, T. C. Swift, and R. R. pharmacology 218, no. 4: 649-665. https://doi.org/10.1007/s00213-011-2
+358-5.
+107 ÁIe.1qr]
+Griffiths. 2021. “Development of the Psychological Insight Questionnaire Among a Sample of People Who Have Consumed Psilocybin or
+Griffiths, R. R., W. A. Richards, U. McCann, and R. Jesse. 2006. “PsiLSD.” Journal of Psychopharmacology 35, no. 4: 437-446. https://doi.org/
+locybin Can Occasion Mystical-Type Experiences Having Substantial Jo sons
+10.1177/0269881120967878.
+and Sustained Personal Meaning and Spiritual Significance.” Psycho- “9sn
+
+Dittrich, A. 1985. Ätiologie-unabhängige Strukturen Veränderter Wach- pharmacology 187, no. 3: 268-283. https://doi.org/10.1007/s00213-006-0 yO
+
+bewusstseinszustände: Ergebnisse Empirischer Untersuchungen über 457-5.
+sopon.e
+Halluzinogene I. und II. Ordnung, Sensorische Deprivation, Hypnagoge
+Hirschfeld, T., J. Prugger, T. Maji¢, and T. T. Schmidt. 2023. “Dose- ose
+Zustände Sowie Reizüberflutung. Enke.
+Response Relationships of LSD-Induced Subjective Experiences in
+Dittrich, A. 1998. “The Standardized Psychometric Assessment of Humans.” Neuropsychopharmacology 48, no. 11: 1602-1611. https://doi.
+
+oy Aq Pou19A08
+Altered States of Consciousness (ASCs) in Humans.” Supplement, org/10.1038/s41386-023-01588-2.
+Pharmacopsychiatry 31, no. S 2: 80-84. https://doi.org/10.1055/s-2007-97
+Holze, F., P. Gasser, F. Miiller, P. C. Dolder, and M. E. Liechti. 2023.
+9351.
+“Lysergic Acid Diethylamide-Assisted Therapy in Patients With Anxiety
+o[quordde
+Dittrich, A., D. Lamparter, and M. Maurer. 2006. 5D-ABZ: Fragebogen With and Without a Life-Threatening Illness: A Randomized, Doublezur Erfassung aussergewöhnlicher Bewusstseinszustände: Eine kurze Blind, Placebo-Controlled Phase II Study.” Biological Psychiatry 93, no.
+SATIBOID
+Einführung. PSIN Plus. 3: 215-223. https://doi.org/10.1016/j.biopsych.2022.08.025.
+
+
+SUOWLWOJ
+
+8 of 10 International Journal of Methods in Psychiatric Research, 2026
+ISUDOI']
+
+[PAGE 009]
+
+Holze, F., M. E. Liechti, and F. Müller. 2024. Pharmacological Properties Psychopharmacology 33, no. 9: 1076-1087. https://doi.org/10.1177/02698 “LS9OLSSI
+
+of Psychedelics with a Special Focus on Potential Harms, 1-18. Springer. 81119855974.
+https://doi.org/10.1007/7854_2024_510. Z ‘9Z0Z
+Ross, S., A. Bossis, J. Guss, et al. 2016. “Rapid and Sustained Symptom
+James, W. 1902. The Varieties of Religious Experience: A Study in Human Reduction Following Psilocybin Treatment for Anxiety and Depression
+Nature. Longmans. in Patients With Life-Threatening Cancer: A Randomized Controlled
+popeoyumog
+Trial.” Journal of Psychopharmacology 30, no. 12: 1165-1180. https://doi.
+Kjellgren, A., and A. Eriksson. 2010. “Altered States During Shamanic Woy
+org/10.1177/0269881116675512.
+Drumming: A Phenomenological Study.” International Journal of
+Transpersonal Studies 29, no. 2: 1-10. https://doi.org/10.24972/ijts.2010. Schmid, Y., C. M. Hysek, L. D. Simmler, M. J. Crockett, B. B. Quednow,
+
+29.2.1. and M. E. Liechti. 2014. “Differential Effects of MDMA and Methyl-
+phenidate on Social Cognition.” Journal of Psychopharmacology 28, no.
+Kjellgren, A., F. Lyden, and T. Norlander. 2008. “Sensory Isolation in 9: 847-856. https://doi.org/10.1177/0269881114542454.
+“Aap Arvsqujoutyuo/ :-sdy
+Flotation Tanks: Altered States of Consciousness and Effects on Well-
+Schmid, Y., and M. E. Liechti. 2018. “Long-Lasting Subjective Effects of
+Being.” Qualitative Report 13, no. 4: 636-656. https://doi.org/10.46743/
+2160-3715/2008.1577. LSD in Normal Subjects.” Psychopharmacology 235, no. 2: 535-545.
+
+0I/LOp/wtoo
+https://doi.org/10.1007/s00213-017-4733-3.
+Kornfield, J. 1979. “Intensive Insight Meditation: A Phenomenological
+Stace, W. T. 1960. Mysticism and Philosophy. Macmillan.
+Study.” Journal of Transpersonal Psychology 11, no. 1: 41-58. https://
+www.atpweb.org/jtparchive/trps-11-79-01-041.pdf. 14W1/Z001
+Stocker, K. 2022. “Seeing in Visionary and Mystical Experience: A
+Perceptual and Cognitive-Semantic Account.” Cognitive Semantics 8, no.
+Liechti, M. E., P. C. Dolder, and Y. Schmid. 2017. “Alterations of Con- “ELOOL
+2: 323-344. https://doi.org/10.1163/23526416-bja10030.
+sciousness and Mystical-Type Experiences After Acute LSD in
+ÁSIM
+Humans.” Psychopharmacology 234, no. 9: 1499-1510. https://doi.org/1 Stocker, K., M. Hartmann, L. Ley, A. M. Becker, F. Holze, and M. E.
+0.1007/s00213-016-4453-0. Liechti. 2024. “The Revival of the Psychedelic Experience Scale: IUNUO
+Revealing its Extended-Mystical, Visual, and Distressing Experiential
+MacLean, K. A., J.-M. S. Leoutsakos, M. W. Johnson, and R. R. Griffiths.
+Spectrum With LSD and Psilocybin Studies.” Journal of Psychophar2012. “Factor Analysis of the Mystical Experience Questionnaire: A uo Aresqry]
+macology 38, no. 1: 80-100. https://doi.org/10.1177/02698811231199112.
+Study of Experiences Occasioned by the Hallucinogen Psilocybin.”
+Journal for the Scientific Study of Religion 51, no. 4: 721-737. https://doi. Stocker, K., M. Hartmann, Y. Schmid, et al. 2025. “The 3D-ASCr Scale:
+org/10.1111/j.1468-5906.2012.01685.x. A Revalidation of the Core Dimensions of the Altered States of Con-
+[9Z07/L0/L0]
+sciousness Rating Scale 5D(11)-ASC for Psychedelic Research.” Journal
+Mosurinjohn, S., L. Roseman, and M. Girn. 2023. “Psychedelic-Induced
+of Psychopharmacology: 02698811251397328. https://doi.org/10.1177/02 sy) 998
+Mystical Experiences: An Interdisciplinary Discussion and Critique.”
+698811251397328.
+Frontiers in Psychiatry 14: 1077311. https://doi.org/10.3389/fpsyt.2023.1 SULIT
+077311. Strassman, R. J., C. R. Qualls, E. H. Uhlenhuth, and R. Kellner. 1994. PUR
+“Dose-Response Study of N, N-dimethyltryptamine in Humans: II.
+Nour, M. M., L. Evans, D. Nutt, and R. L. Carhart-Harris. 2016. “Ego- Subjective Effects and Preliminary Results of a New Rating Scale.” ArDissolution and Psychedelics: Validation of the Ego-Dissolution In- chives of General Psychiatry 51, no. 2: 98-108. https://doi.org/10.1001/arc suonıpuo)
+
+ventory (EDI).” Frontiers in Human Neuroscience 10. https://doi.org/10. hpsyc.1994.03950020022002.
+3389/fnhum.2016.00269.
+Studerus, E., A. Gamma, and F. X. Vollenweider. 2010. “Psychometric
+Otto, R. 1926. West-dstliche Mystik: Vergleich und Unterscheidung zur Evaluation of the Altered States of Consciousness Rating Scale (OAV).”
+Wesensdeutung. Klotz. PLoS One 5, no. 8: e12412. https://doi.org/10.1371/journal.pone.001 Areigipsuruo/ sdy )
+2412.
+Otto, R. 1932. Mysticism East and West: A Comparative Analysis of the Kom
+
+Nature of Mysticism. Wipf and Stock. Taves, A., E. Ihm, M. Wolf, M. Barlev, M. Kinsella, and M. Vyas. 2023.
+“The Inventory of Nonordinary Experiences (INOE): Evidence of ValPahnke, W. N. 1969. “Psychedelic Drugs and Mystical Experience.”
+idity in the United States and India.” PLoS One 18, no. 7: e0287780.
+International Psychiatry Clinics 5, no. 4: 149-162.
+https://doi.org/10.1371/journal.pone.0287780.
+Prugger, J., E. Derdiyok, J. Dinkelacker, C. Costines, and T. T. Schmidt.
+Timmermann, C., P. R. Bauer, O. Gosseries, et al. 2023. “A Neuro2022. “The Altered States Database: Psychometric Data From a Sys-
+UO (SUONIPUO9-pue-sunoywos
+phenomenological Approach to Non-Ordinary States of Consciousness:
+tematic Literature Review.” Scientific Data 9, no. 1: 720: Article 1.
+Hypnosis, Meditation, and Psychedelics.” Trends in Cognitive Sciences
+https://doi.org/10.1038/s41597-022-01822-4.
+27, no. 2: 139-159. https://doi.org/10.1016/j.tics.2022.11.006. Á9[IM
+
+Richards, W. A. 1975. Counseling, Peak Experiences and the Human Van Gordon, W., E. Shonin, T. J. Dunn, et al. 2019. “Exploring Empti- 9UUO
+Encounter With Death: An Empirical Study of the Efficacy of DPT- ness and Its Effects on Non-Attachment, Mystical Experiences, and
+Assisted Counseling in Enhancing the Quality of Life of Persons With Psycho-Spiritual Wellbeing: A Quantitative and Qualitative Study of
+Terminal Cancer and Their Closest Family Members [Doctoral Disserta- 107 ÁIe.1qr]
+Advanced Meditators.” Explore 15, no. 4: 261-272. https://doi.org/10.101
+tion, Catholic University of America, Washington, DC]. ProQuest Dis- 6/j.explore.2018.12.003.
+sertations and Theses Global. Jo sons
+Van Gordon, W., E. Shonin, T. J. Dunn, D. Sheffield, J. Garcia-Campayo, “9sn
+Richards, W. A. 2015. Sacred Knowledge: Psychedelics and Religious and M. D. Griffiths. 2018. “Meditation-Induced Near-Death Experi- yO
+Experience. Columbia University Press. ences: A 3-Year Longitudinal Study.” Mindfulness 9, no. 6: 1794-1806.
+https://doi.org/10.1007/s12671-018-0922-3. sopon.e
+Rickli, A., O. D. Moning, M. C. Hoener, and M. E. Liechti. 2016. “Re-
+ose
+ceptor Interaction Profiles of Novel Psychoactive Tryptamines Watts, R., C. Day, J. Krzanowski, D. Nutt, and R. Carhart-Harris. 2017.
+Compared With Classic Hallucinogens.” European Neuro- “Patients’ Accounts of Increased ‘Connectedness’ and ‘Acceptance’ Af-
+
+oy Aq Pou19A08
+psychopharmacology 26, no. 8: 1327-1337. https://doi.org/10.1016/j.euro ter Psilocybin for Treatment-Resistant Depression.” Journal of Huneuro.2016.05.001. manistic Psychology 57, no. 5: 520-564. https://doi.org/10.1177/00221678
+17709585.
+Roseman, L., E. Haijen, K. Idialu-Ikato, M. Kaelen, R. Watts, and R.
+Carhart-Harris. 2019. “Emotional Breakthrough and Psychedelics: Watts, R., H. Kettner, D. Geerts, et al. 2022. “The Watts Connectedness o[quordde
+
+Validation of the Emotional Breakthrough Inventory.” Journal of Scale: A New Scale for Measuring a Sense of Connectedness to Self,
+SATIBOID
+
+
+SUOWLWOJ
+
+International Journal of Methods in Psychiatric Research, 2026 9 of 10
+ISUDOI']
+
+[PAGE 010]
+
+Others, and World.” Psychopharmacology 239, no. 11: 3461-3483. LS9OLSSI
+
+https://doi.org/10.1007/s00213-022-06187-5.
+Z “9Z07
+Yaden, D. B., M. Graziosi, A.M. Owen, et al. 2025. “A Field-Wide Review and Analysis of Study Materials Used in Psilocybin Trials:
+Assessment of Two Decades of Research.” Psychedelic Medicine (New
+popeoyumog
+Rochelle, N.Y.) 3, no. 1: 1-18. https://doi.org/10.1089/psymed.2024.0019.
+wos
+
+
+Arsigıp uruoy/:sdy
+
+AapM
+
+
+01 /Op/wios
+
+
+“ELOOL1dUYZOO1
+
+
+ÁMIM
+
+
+OUTTUO
+
+
+UO Areıqı
+
+
+“[9Z0Z/L0/LO]
+
+
+94) 998
+
+
+SULAL
+
+PUR
+
+
+SUOTIPUOD
+
+
+Areigijounuo/ :sdy )
+
+
+UO (SUONPUOH-pue-sunsywosAdjım
+
+
+Á9]EM
+
+
+SUNUO
+
+
+Joy Areıqı
+
+
+Jo sapnı
+
+“9sn
+
+yO
+
+
+soponıe
+ore
+
+
+ayy Aq pouIdAos
+
+
+Aqeondde
+
+
+dATTBAID
+
+
+SUOWWOJ
+
+10 of 10 International Journal of Methods in Psychiatric Research, 2026
+29U991]

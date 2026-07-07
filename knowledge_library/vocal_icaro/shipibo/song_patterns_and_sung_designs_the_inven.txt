@@ -1,0 +1,886 @@
+[PAGE 001]
+
+Musical Traditions
+Discovery, Inquiry, Interp
+ret ation, and Application
+XXVI European Semina
+r in Ethnomusicology
+Institute of Musicolog
+y, Budapest, 2010
+
+
+Edited by Pal Richter
+
+
+
+HAS, Research Centre for
+the Humanities
+Budapest, 2012
+
+[PAGE 002]
+
+We thank the National Cultural Fund (Budapest) and ESEM for their support.
+
+
+
+Edited by Pal Richter PhD
+
+Editor’s reader: Katalin Kovalcsik PhD
+English proofreading: Istvan G. Németh
+
+Make-up: Gitta Demeter
+Design, graphic layout: Gitta Demeter, Matyas Bolya
+
+
+© MTA Bölcseszettudomänyi Kutatöközpont, Budapest, 2012
+
+© Authors, 2012
+
+All rights reserved.
+
+
+Published in Hungary by HAS Research Centre for the Humanities
+
+Responsible publisher: Dr. Pal Fodor (director of HAS RCH)
+Made in the Institute of Muscicology, RCH, HAS
+
+Printed in the Petitpress Nyomda
+
+
+ISBN 978-615-5167-01-0
+
+[PAGE 003]
+
+— Contents
+
+JOHN BLACKING MEMORIAL LECTURE
+
+= LASZLO FELFOLDI 11
+Dance Knowledge - Dancing Ability
+Homage to John Blacking (1928-1990)
+
+
+KEYNOTE PAPER
+
+= VILMOS VOIGT
+29
+Four Faces of Musical Traditions
+
+
+DISCOVERY - THEORY OF TRADITION AND RESEARCH
+
+= COLIN QUIGLEY 45
+Tradition as Generative Process
+An Example from European/Euro-American Fiddling
+
+= ILwoo PARK 55
+Rule Following as a Social Practice and the Irish Music-Session
+
+= ZUZANA JURKOVA 71
+Ethnomusicological Paradigm as a Question of Life and Death
+(of Tradition)
+
+= SARAH ROSS AND BRITTA SWEERS 89
+A Blank Field of Musical Traditions?
+(Re-)Constructing Ethnomusicology in Contemporary Switzerland
+
+= AUSTE NAKIENE 116
+Creativity of Songwriters and the Continuation of Tradition
+Me and Historical Others
+
+
+DISCOVERY - ALTERING TRADITION
+
+= AusRA ZICKIENE 135
+Lithuanian Anthems
+In Search of the Law of the Survival of Tradition
+
+[PAGE 004]
+
+= RUTA ZARSKIENE 152
+The Origin, Development, and Disappearance of Tradition
+Brass Bands in Lithuania
+
+= JACEK JACKOWSKI 167
+Musical Traditions of Mazovia Region (Central Poland)
+Historical Relict or Alive Tradition?
+
+= URSULA HEMETEK 179
+Re-entering the Field after 30 Years
+Changing Traditions?
+
+
+DISCOVERY - SPECIAL ASPECTS OF MUSICAL TRADITION
+
+= JANA AMBROZOVA 201
+Gypsy String Ensembles in Central Slovakia
+and Their Performance Practice
+
+= Lujza TARI 217
+Vocal- and/or Instrumental Music?
+Some Remarks to the Performance Style of Village- and
+Town Gypsy Musicians
+
+= 'TERESA NOWAK 237
+Women in the Polish Musical Tradition
+
+
+INQUIRY - TRADITION AND ITS RESEARCH
+INTERACTIONS, METHODS, OPTIONS
+
+= JANOS SIPOS 253
+Tradition and Revival
+How Do Musical Styles of the Karachays Living in Turkey Change?
+
+= BERND BRABEC DE MORI 266
+Song Patterns and Sung Designs
+The Invention of Tradition among Amazonian Indians as a
+Response to Researchers’ Inquiries
+
+= ALEXANDRA BALANDINA 281
+Doing Embodied Research in Ethnomusicology
+Reflections of Fieldwork in Iran
+
+[PAGE 005]
+
+APPLICATION - ‘APPLIED ETHNOMUSICOLOGY,
+MEDIA, EDUCATION
+
+= Ewa DAHLIG-TUREK 311
+New Tradition
+
+= RyYTIS AMBRAZEVICIUS 322
+
+Vocal Training “In Tradition”
+Applied Ethnomusicology at Work
+
+= KATALIN LAZAR 339
+Traditional Music at the Beginning of the 21* Century
+
+= PAL RICHTER 351
+New Channels for Renewal of Tradition
+Folk Music in the University Education
+
+
+INTERPRETATION - PROMOTED, CREATED, AND
+‘INVENTED’ TRADITION, NATIONAL IDENTITY
+
+= GERDA LECHLEITNER 365
+Can Archives Contribute to Establishing Traditions?
+On the Interaction Between Archives and Tradition
+
+= SHAI BURSTYN 377
+The Ethnomusicologist as Inventor of Musical Tradition
+An Israeli Case Study
+
+= SEAWOMIRA ZERANSKA-KOMINEK 393
+The Changes in the Musical Culture of the Lithuanian
+Minority in Poland in the Past Twenty-five Years
+
+= ANA HOFMAN 404
+
+Musical Borderlands between National and Transnational
+Musical Spaces
+
+= MIROSLAV STOJISAVLJEVIC 422
+Gusle and the Serbian Immigrants to Melbourne, Australia
+
+[PAGE 007]
+
+Song Patterns and Sung Designs’
+The Invention of Tradition among
+Amazonian Indians as a Response
+to Researchers’ Inquiries
+
+
+Bernd Brabec de Mori
+
+Bernd Brabec de Mori is an ethnomusicologist specialised in indigenous music from
+the Ucayali Valley in Eastern Peru. Together with his wife Laida Mori Silvano de
+Brabec, who excels in translation and interpretation of indigenous poetics, he spent
+some years in the field and became integrated in the indigenous group ShipiboKonibo. He has been working at the Phonogrammarchiv of the Austrian Academy of
+Sciences and as an assistant at the Centre for Systematic Musicology at the University
+of Graz. His publications address the topics of Western Amazonian indigenous
+music, arts, and history as well as the complex of music, ritual, and altered states.
+
+
+Abstract: The Shipibo-Konibo are an Amazonian indigenous group in
+Eastern Peru. During centuries they have had contact with missionaries,
+settlers, exploiters, and researchers. Shipibo-Konibo are very popular
+among researchers of various areas as well as among tourists. The cause for
+this popularity may lie in the combination of easy geographic accessibility,
+spectacular artwork, and the practice of “shamanism” including a
+hallucinogenic drug (ayawaska). Especially “ayawaska shamanism” and
+related topics have been studied extensively during the last three decades.
+The ritual complex around ayawaska includes magical songs. Visions
+induced by the drug often mirror the quality of the indigenous groups
+“traditional” geometric designs. During the 1980s, a German anthropologist
+
+1 This paper was published in a reworked version with a slightly different focus in the
+Yearbook of the Phonogrammarchiv of the Austrian Academy of Sciences 2 (2011, ed. by
+Gerda Lechleitner and Christian Liebl) with the title “The Magic of Song, the Invention of
+Tradition and the Structuring of Time among the Shipibo (Peruvian Amazon)”.
+
+
+266
+
+[PAGE 008]
+
+Song Patterns and Sung Designs
+
+
+proposed that Shipibo “shamans” could sing the designs as if they were
+coded music, not unlike a notation; and by singing “pattern songs’, they
+could evoke corresponding designs in their visionary drug experience.
+This hypothesis was not only accepted in the scientific community, but
+even more enthusiastically in popular literature and in the end by ShipiboKonibo people themselves. Nowadays, many Indians present these ideas as
+a core “tradition of their tribe” — and researchers can observe and record
+many opportunities of its actual practice. However, according to newer
+studies (see references), this concept was not a part of Shipibo-Konibo life
+before it was introduced by anthropologists.
+Presenting this example I will point out how research (fieldwork,
+publications, teaching) itself can influence an entire indigenous group to reinvent their “tradition” (which thereafter “has always been there”) in order
+to obtain and maintain their social position as a preferred target group
+for researchers (and tourists following in their footsteps). This example
+underlines how “target groups” for research may actively shape their history
+and “traditions” as a response to researchers’ inquiries. They efficiently
+construct themselves as “interesting” and therefore may obtain funding,
+foster tourism, and be invited around the world as “singing artist shamans”.
+
+Keywords: Lowland South America, Shipibo-Konibo, invention of
+tradition, vocal music, pattern art.
+
+
+= 1. Introduction
+
+The Shipibo-Konibo (or Shipibo) are an indigenous group comprising
+about 45.000 individuals, who dwell mainly on the shores of the Ucayali
+River in Eastern Peru, in the western Amazonian rainforest lowlands.
+They are the biggest and only fluvial group of the Pano linguistic family.
+The Shipibo are well-known because of their fine artwork, manifesting
+especially in elaborate geometric patterns (called kené or kewé) applied
+to textiles, ceramics, and carved wooden items. Since around 1965, much
+research was done among them, in different disciplines like archaeology,
+anthropology, or linguistics; also ethnomedical research has been
+conducted on the group, mainly regarding the medical or “shamanic” use
+
+
+267
+
+[PAGE 009]
+
+Bernd Brabec de Mori
+
+
+of plants, most prominently the hallucinogenic brew ayawaska (called
+nishi or oni in Shipibo-Konibo language).’
+Because of their easy accessibility (the regional capital city of Pucallpa
+can easily be reached on the road or by airplane, and many Shipibo
+settlements can be visited via one-day boat-trips from Pucallpa), in the
+second half of the 20" century, the Shipibo suffered a relative oversaturation
+with researchers doing fieldwork, at least compared to neighbouring groups
+like the Kukama, Ashaninka, Yine, or Kakataibo, although both Kukama
+and Ashaninka count larger populations. During the 1950s and 1960s, the
+archaeologists Harry Tschopik and Donald Lathrap (1970) drew attention
+to their artwork, and Peter Roe (1982) worked intensely on Shipibo artwork
+and mythology during the 1970s. In the 1980s, Jacques Tournon (2002)
+started to do ethnobotanical fieldwork, Bruno Illius (1987) conducted
+research on Shipibo shamanism, and Angelika Gebhart-Sayer (1987)
+undertook a synthesis of artwork, music and shamanism/healing which
+had a wide response among other researchers. Since then, many studies
+have been done especially on the complex around arts and shamanism.
+
+
+= 2. The role of music
+
+Among the Shipibo, as well as most neighbouring indigenous groups, music
+is an important issue, especially when it comes to curing. There is some
+evidence that already before the rubber boom between circa 1870 and 1920,
+songs and theatrical performance was maybe the most important aspect of
+curing rituals, which may have included many processes which are rare
+these days. It appears, for example, that possession by or transformation
+into animals played a much higher role then, and music, specifically songs,’
+were the preferred mode of communication with these animals, and also
+the only possibility for animals or spirits who took possession of the healer
+to express their message among the human listeners.
+
+2 Acrucial event for this interest was the publication of Burroughs and Ginsberg’s popular
+book Yagé Letters in 1963. There the authors describe their experiences they lived when
+taking ayawaska in Pucallpa, Eastern Peru. Of course, also famous books by Castaneda
+(1968) and Harner (ed., 1973) drew many experience-seekers towards “indigenous drugs’,
+into the Peruvian rainforests and thereafter to the Shipibo people.
+3 Illius (1987: 126, 157) argues that also the nowadays almost unknown musical bow
+jonoronati served for the communication between the healer and his spiritual allies or enemies.
+
+268
+
+[PAGE 010]
+
+Song Patterns and Sung Designs
+
+
+However, there is no clear distinction between magical and nonmagical songs in Shipibo terminology and understanding. Also songs
+performed at drinking parties or for courtship maintain a certain degree
+of magical energy, as people are viewed as animals in the songs’ lyrics
+and the performance itself targets a certain manipulation of the current
+lived world (in order to have your desired partner fall in love with you,
+for example, or singing for the companionship of the legendary “hidden”
+Shipibo whom they call chaikoni jonibo and who are known to appear at
+drinking feasts where especially good singers are performing). There are
+also many songs which are said to have certain effects on the person they
+are sung to, like the songs for attracting fish or game animals, for “curing”
+somebody to become a good hunter or a better artist, and so on. Finally,
+and still apart from what we would understand as “magical” or “medical”
+songs performed for healing purposes, there is certain historical evidence
+of the mochai ritual, which is not performed anymore either. The mochai
+is almost unknown to anthropological studies about Shipibo history, and
+it seems to have comprised a collective adoration of the Sun, the “curing”
+of sun or moon in cases of eclipse, and in certain cases, the summoning
+of delicately powerful animal-human double beings called simpibo jonibo.
+The core of this ritual were the mochai songs.*
+In healing rituals, the importance of music is rather obvious, because
+songs are performed in all cases where healing occurs. The most discrete
+performance is the whistling (koxonti) of certain melodies in order to
+“charge” a carrier substance (usually a cigar, a tobacco pipe, a perfume, or
+any remedy to be administered to a patient) with the power of the song.
+Therefore, the melody is whistled, the object held close to the mouth, and
+the songs lyrics are thought by the healer during this performance. When
+the “charged” object is used (smoked, applied, ingested), the power of the
+magical song should unfold and cause the intended effects. This “charging”,
+
+4 The author recorded eleven mochai songs by different singers. One can find three
+categories or purposes of mochai singing: (i) adoration of the rising sun, summoning the
+sun or “healing” the sun or the moon during eclipses; (ii) a religious ceremony of collective
+prayer which is not necessarily directed to the sun, but rather to meet with the world of
+more powerful beings like the inka and their counterparts, the simpibo jonibo; and (iii) the
+application of mochai songs within curing rituals in order to perform especially difficult
+tasks of curing on a patient who is seriously ill (See BRABEC DE MORI 201 1b: 447-465).
+
+
+269
+
+[PAGE 011]
+
+Bernd Brabec de Mori
+
+
+koxonti, can also be executed with singing and pronouncing the lyrics, but
+this is rather seldom (cf. OLSEN 1996: 259-260 on the Warao hoa songs).
+
+
+== 3. Ayawaska Shamanism'
+
+Another option is the directed singing towards the patient (or victim). This
+is most often performed during curing sessions, when ayawaska is ingested.
+The healer will wait until the drug takes effect and then start his? songs.
+In Shipibo contexts, usually three categories of songs are used, the bewá
+(derived from artistic songs with a specific descending melodic model in
+two sections), mashá (derived from the round-dance music sung at drinking
+parties, with a strict repetition section and consequent four-beat phrasing),
+and ikaro (imported from the north by Kichwa-, Kukama-, and Spanishspeaking settlers together with the use of ayawaska with different melodic
+and rhythmic features. Ikaro forms are exclusively sung during ayawaska
+sessions). These song categories can change with each song; which musical
+form is chosen, depends on the individual. Some healers may sing more
+ikaro-type songs, others may sing mainly bewá, for example.
+A third possibility for the application of music in healing rituals is
+the setting most common when westerners take part in the session: not
+only the healer (and maybe his apprentices) ingests ayawaska, so do the
+participants, or the patients as well. In these cases, usually the healer
+leads the voice in the same way as described above, but sometimes the
+participants may enter the music by humming, whistling or trying to
+follow the healers song in unison, or even singing along with him, and
+maybe performing their own songs simultaneously with the healer, in case
+of “advanced students” (provided the healer allows them to do so).
+In all three cases, the healer whistles or sings determined musical
+sequences he chose in order to accomplish a certain process. However, it
+is not obvious, which melodic, rhythmic or dynamic features are related
+to which processes (like summoning allies, calling upon divine forces or
+praying, scaring away negative influences, cleaning diseased parts of the
+
+5 I use male forms when referring to the healers because, in my survey, 45 out of the 50
+healers I have been working with were male. Females also embark on important duties in
+Western Amazonian medical systems, but they are rarely involved as médicas who cure by
+singing and contacting non-human beings.
+
+
+270
+
+[PAGE 012]
+
+Song Patterns and Sung Designs
+
+
+body, or fighting enemy healers or sorcerers). Every healer has learned
+a certain repertoire of melodies which are sometimes taken from songs
+outside the curing context, sometimes learned or adapted from teachers
+(usually a family member: father, grandfather or uncle) and sometimes
+made up by the healer himself. Therefore, every single healer uses a different
+repertoire of melodies. Also the singing style differs from one individual
+to the other. Some sing in very high-pitched registers, some prefer intense
+nasalization, some sing in fairly fast tempi, and so on, while others do
+not. Despite this individual stylistic freedom, some generalisations can be
+undertaken. High-pitched falsetto singing, for example, usually indicates
+that the singer is in contact with powerful divine beings, who perform in
+very high pitches themselves. However, falsetto singing is not a necessary
+prerequisite to make contact with such beings. Some healers also apply
+voice masking (OLSEN 1996: 159-162), depending on the beings they are in
+contact with, so that the respective being seems to lend his/her voice to the
+singer. However, it is still the “translated song”, produced by the singer, we
+ie. the audience can hear, because he still uses a human (Shipibo) melody
+and rhythm and in most cases pronounce human (Shipibo) language in his
+lyrics. The communication with these beings is evidenced by the masked
+voice, with the singer imitating the singing style of the corresponding
+non-human beings, whose singing only he can perceive (cf. BRABEC DE
+Mort 2007). The song appears as a “bodily-exterior manifestation of [...]
+knowledge and power” (Gow 2001: 144).
+
+
+= 4. The Emergence of the ‘Aesthetic Therapy’
+
+The song categories mentioned above, with their individual interpretations,
+represent in fact a very precise art and a certain craftsmanship. The singers
+have to learn melodies and common phrases from their teachers or other
+singers in their community, and then they have to train in long retreats how
+to contact non-human beings. When they conclude their year-long training
+period, they should be able to contact these non-human beings at will and
+sing together with them in order to cure (or to inflict). However, these songs
+were seldom analysed in broad comparative studies, only their fragments
+taken out of the initial context. Moreover they were translated without the
+
+271
+
+[PAGE 013]
+
+Bernd Brabec de Mori
+
+
+necessary profound understanding of the metaphors and codes included in
+the Shipibos “worldview” (as if this would exist as a singular phenomenon).°
+Emerging from the 19" century and during the 20" century, ethnologists
+tried to interpret, compare, and understand the meaning of the elaborate
+geometric designs Shipibo women have produced on ceramics, textiles,
+or men have carved into wooden items. The heritage from the 19%
+century was the Kulturkreislehre and a general diffusionist understanding.
+Tessmann (1928) expresses the view, that the Shipibo would only imitate
+an art invented by “higher civilisations” before them, and they would
+not understand anything of their art’s meaning. In the 20" century, the
+designs were constant objects of interpretations, and it was mentioned
+very seldom that they could actually be “only” lart pour lart. Naturvólker
+were not supposed to produce art without function. Gebhart-Sayer (1987)
+also clung to the idea, that an assumed original meaning was lost, and
+only a few “Schamanen” would still know how to interpret these ancient
+codes. She tried to find a connection between these designs, the intake of
+ayawaska, and the performance of medical or magical songs, and called
+her hypothesis “una terápia estética” (GEBHART-SAYER 1986).
+With this “aesthetic therapy’, Gebhart-Sayer assumes that specialist
+“Schamanen” could sing certain songs to obtain certain visions of designs
+within their ayawaska experience. Vice versa, they could intone certain
+songs when looking at certain painted or embroidered designs, a way of
+reproducing a hidden code, specifically a coded song from the design.
+These “singable designs” or “song patterns” would now play an important
+role in healing sessions: the healer would perceive the patients body
+covered by (usually invisible) body patterns yora kené, and then alter these
+body patterns by singing the appropriate song for the appropriate pattern
+to appear on the patient’s body.
+Surprisingly, this hypothesis which was found to be a speculative
+European idea’ lacking any evidence in the history or recent practice among
+
+6 For relatively comprehensive and complete sequences of translated texts from ayawaska
+sessions see e.g. MEYER 1974: 56-66, ILLIUS 1987: 300-383 and 1999: 250-252, TOURNON
+1991: 183-201. Especially the translations by Illius stand out positively. See also BRABEC DE
+Mort 201 1b: 426-446.
+7 Bruno Illius (personal communication, 2011), who accompanied Gebhart-Sayer in
+the field in the early 1980s explained that the error was primarily conceptual: Gebhart-
+
+
+272
+
+[PAGE 014]
+
+Song Patterns and Sung Designs
+
+
+Shipibo people, was also reinterpreted by the Shipibo people themselves.
+By implementing Gebhart-Sayer’s work (even by incorrect or erroneous
+quotations, see BRABEC DE Mort 2011b: 69-79), many researchers got
+mesmerized, and visiting the field, asked Shipibo people about those
+phenomena. In most of the cases (as it happened in my own fieldwork)
+Shipibo laypeople would say that they did not know about such songs, or
+designs. However, a few people who were in close contact with GebhartSayer, among them the Shipibo artist Herlinda Agustin, started to take up
+this idea and produce such songs or designs themselves. This happened
+in the 1990s, and Agustin was fairly successful in reproducing GebhartSayer. She even held an explanation why common Shipibo people would
+not know about these techniques: because they were ignorant to their
+“true tradition” and have forgotten it all. Mainly through this mediation by
+Agustin, Gebhart-Sayer's speculative hypothesis more recently entered into
+ethnographic reports, for example by Martin (2005) or Rittner (2007). They
+presented healers who actually did cover their patients with embroidered
+textiles before singing corresponding pattern songs under the influence
+of ayawaska — of course together with their (Western) patients. Thus
+they employ a healing technique they readily explain, based on “healing
+patterns’, “design songs’, and “visions” of sung designs during ayawaska
+influence. This practice can be observed mainly in the native community
+of San Francisco de Yarinacocha, where most tourists and inexperienced
+researchers reach out to meet Shipibo people for the first time.
+
+
+= 5. Origins, authenticity, and tradition
+
+Around 1950, the Shipibo did not by any means try to represent anything
+especially “indigenous” in their daily life. They usually tried to find a way
+to live in the best possible position between their customs and the process
+of assimilation and adaptation to the growingly dominant fluvial mestizo
+
+Sayer mistook “metaphor” and “synaesthesia”. Shipibo singers who used metaphors of
+design in their song lyrics did not (as Gebhart-Sayer believed) describe their actual sensual
+experiences. It is important to note here that Illius, who is often quoted in concordance with
+Gebhart-Sayer, does not agree that designs could be sung or songs put into designs (see
+explicitly ILLrus 1987: 167, footnote). For further details in this case of misinterpretation
+and reinterpretation of the misinterpreted, see also BRABEC DE MORI AND MORI SILVANO
+DE BRABEC 2009a, 2009b, and BRABEC DE Mort 2011b: 59-81.
+
+273
+
+[PAGE 015]
+
+Bernd Brabec de Mori
+
+
+(or peruano) society. However, some tendencies appeared, which led to a
+re-indigenisation of most Peruvian rainforest societies:
+
+» the missionary-linguistic labours of the Summer Institute of Linguistics
+
+(SIL, established 1947-2002 in Yarinacocha) among most indigenous
+groups;
+
+
+» the land reform of the Sistema Nacional de Movilización Social
+(SINAMOS) under the government of General Velasco in the early
+1970s which granted communal land titles for native villages, the
+comunidades nativas;
+
+
+» the growing interest of anthropologists especially in the Shipibo-
+Konibo,* and therefore a confrontation with many questions regarding
+“traditions’, “original culture’, “knowledge of the past elders’, and so on,
+and finally
+
+
+» since William Burroughs, but massively for about three decades now,
+an invasion by “individual tourists’, “eco-tourists’, “spiritual tourists”
+» « » «
+
+
+(Jervis forthcoming) and “shaman’s-pupil-tourists”.
+
+All these tendencies helped to manipulate the indigenous peoples social
+position in favourable ways compared to the fluvial mestizo, who were almost
+entirely ignored. This favourable position was, however, only available for
+people and villages who declared themselves “indigenous” and showed this in
+their use of language (for the SIL), in economic communal labour (for Velasco's
+SINAMOS land titles), in being very knowledgeable (for anthropologists),
+and in the practice of preferably mystical or spiritual, “primitive’, spectacular,
+and impressing events for the tourists — the more “indigenous’, the better.
+In a series of publications,’ my wife and I have shown which elements
+of today’s “Shipibo culture” (in singular) may be traced back in the past and
+
+8 The huge interest in this indigenous group can be explained by combining the parameters
+mentioned above: (i) easy accessibility, (ii) “traditional” consumption ofa spectacular drug, (iii)
+elaborate artwork which is considered aesthetically appealing also by uneducated westerners,
+(iv) some spectacular myths like they would have possessed “indigenous books’, the “aesthetic
+therapy’, the hundreds of “meanings” of their geometric arts, etc etc.
+9 See BRABEC DE MORI AND MORI SILVANO DE BRABEC 2009a, 2009b, and BRABEC DE
+Mort 2007, BRABEC DE MORI 201 1a, 2011b, 201 1c, and forthcoming).
+
+274
+
+[PAGE 016]
+
+Song Patterns and Sung Designs
+
+
+history of the fluvial Pano of Ucayali (in plural), and which elements can
+be understood as individual creations (in plural), but are presented as “the
+original tradition of Shipibo people” (in singular).
+It appears that there are many items changing, being lost, and being
+created, although meanwhile, the illusion of “the original tradition of
+Shipibo people” is maintained (by missionaries, Indians, researchers, and
+tourists) in a surprisingly consistent mutual agreement. Everybody wins,
+if the “tradition” is as modern as possible, but still reaches into the past via
+“grandparents who already sang like this’, “authentic or original traditions
+» cc
+
+
+of our people’, “elements of a millennial culture”, and renderings like these,
+which are reported by the indigenous people themselves. Especially in
+San Francisco de Yarinacocha, a sort of unofficial “school” has emerged,
+where people train to make money with the visitors: they are “chamanes’,
+“artesanas” “artistas” or, in the most promising cases, a combination of all.'°
+These changes include, though not exclusively, the following:
+
+a) Healing songs outside the ayawaska complex, like those including
+theatrical performances and possession by animals, were altogether
+dismissed among Shipibo.
+
+
+b) The ayawaska complex was quickly adapted: what was once marginal
+and scary received most interest from visitors (and therefore gifts and
+money) and so it was placed in the centre of “Shipibo culture” Not
+only the respected healer would drink the brew, but all people present,
+including visitors. The collective hallucinatory experience (sometimes
+including collective singing) was declared a millennial tradition.
+
+
+10 The Shipibo ayawaska-using specialists were mostly male, until, in recent years, a
+“gender mainstreaming” (probably triggered by the tourist's preferences) has taken place,
+and female ayahusqueros have emerged. However, all ayahuasgeros would call themselves
+médicos within an indigenous context. If they call themselves chamanes, this is a secure
+indicator that they aim towards Western visitors. Further on, the distinction between
+artesanas and artists is very interesting (cf. BRABEC DE MORI AND MORI SILVANO DE
+BRABEC 2009a): female artesanas produce handicrafts, with a medium size embroidered
+sheet sold at around 35 US dollars (2008 price), while male painters produce art paintings
+sold at around 350 US dollars each, although labour, material, and the invested creativity
+are comparably the same. This distinction between “high art” and “low-level handicraft” is
+a recent western import (art painters were absent among Shipibo before around 2000) and
+sheds a doubtful light on the assumed equity of gender in Western society.
+
+
+275
+
+[PAGE 017]
+
+Bernd Brabec de Mori
+
+
+c) The kené designs were adapted to market strategies and therefore
+simplified and standardized (cf. LATHRAP 1976). The questions of
+researchers about possible “meanings” of the designs were reflected
+and many Shipibo-Konibo started to come up with answers to such
+questions.
+
+
+d) The songs performed in ayawaska sessions were connected to kené
+designs answering Gebhart-Sayer’s questions. Herlinda Agustin! from
+San Francisco de Yarinacocha had worked with Gebhart-Sayer and is
+now the most prominent protagonist in “healing patterns” (cf. MARTIN
+2005).
+
+e) This combined multimedia package was then declared a millennial
+tradition: the (new) ayawaska drinking session, the (aesthetically
+renovated) kené art, and the (never existing) songs which would evoke
+designs or designs which would encode songs were therefore not
+invented recently (which is an interesting advance in my point of view),
+but have always existed.
+
+
+== 6. Tradition and the structure of time
+
+In most indigenous societies, “tradition” (or “originality”, “authenticism’,
+» «
+
+
+“historical legacy’, etc., etc.) can not be expressed in the vernacular language.
+There are many indications, that the structure of time in indigenous
+societies does not necessarily follow the linear nor the circular idea of
+advancing time. In Shipibo Society, for example, the so-called “mythical
+past” can be viewed much better as a “distant present” (see e.g. ILLIUs 1999:
+128, BRABEC DE MORI 201 la: 182-184). Synchronicity is a very important
+aspect in Shipibo healing and witchcraft practice, and through the analysis
+of curing songs, many “synchronicisms” can be observed.
+The idea of a flexible past is perfectly suitable to such a “synchronic time
+structure’, where actually people (and the world itself) grow older, but where
+the past and future are actually present, albeit in distant regions, which can
+be visited by trained specialists (with or without the ingestion of drugs).
+
+11 Herlinda Agustin died in early 2012. Her legacy, the actual production of healing
+patterns and desing songs, however, is being carried on by family members and others.
+
+
+276
+
+[PAGE 018]
+
+Song Patterns and Sung Designs
+
+
+A certain conflict emerges from the translation of e.g. moatian ipaokani
+in Shipibo-Konibo into Spanish and other European languages. This term
+would be interpreted as “as they lived/acted in mythical past” in orthodox
+understanding, but it transports much more a meaning like “because this
+happens in a remote place, it effects what we know or do here”. Moatian
+ipaokani cannot be translated anyway.”
+The historical inevitability of the Western interpretation of time (there
+is an objective past which had actually happened, and an intersubjective,
+historical interpretation of this past in the present) is not compatible with
+this generative model of time, where any past can be constructed from
+a manipulation of contents in the present. Gow (2001) showed how the
+changes in so-called “myths” among the Piro (a neighbouring group to the
+Shipibo) that happen during the actual performance of a specific situation,
+altogether alter the past of the group, independently from the historical
+(mainly missionary) archives of Western visitors.
+The Shipibo-Konibo protagonists nowadays singing songs which can
+be transformed into designs and vice versa, are, of course, inventing this
+from scrap. However, through their practice and their way of pouring a
+meaning into the dimension of moatian ipaokani by declaring that “this is
+the original tradition of Shipibo people’, this idea is slowly transforming
+into reality. Nowadays it can be observed even honestly by visitors
+(although still exclusively in San Francisco — I suppose the practice will
+quickly spread through the Shipibo territories).
+The understanding of past in the Shipibo philosophy allows for a
+complete freedom in maintaining, transmitting, creating, and changing of
+“traditions”.
+
+
+12 Moa-tian // i-pao-kan-ni. Root: “yet/already” - Temp: synchr. (“when”) // Root: “be/
+do” - Mod: distance indicator (?) - Mod: pluralisation “we/they” - Temp: distance (?). I
+marked with (?) those particles which are understood as “indicators for mythical past” but
+which are not emically predetermined in a temporal sense.
+
+
+277
+
+[PAGE 019]
+
+Bernd Brabec de Mori
+
+
+References
+
+Brabec de Mori, Bernd. 2007. “The Inkas Song Emanates from my Tongue:
+Composition vs. Oral Tradition in Western Amazonian Curing Songs”. M.S.,
+Paper presented at the 39" World Conference of the International Council for
+Traditional Music ICTM, Vienna, July 5-11 (in process of publication).
+
+
+Brabec de Mori, Bernd. 2011la. “The Magic of Song, the Invention of Tradition
+and the Structuring of Time among the Shipibo (Peruvian Amazon)”. Jahrbuch
+des Phonogrammarchivs der Osterreichischen Akademie der Wissenschaften 2:
+169-192.
+
+
+Brabec de Mori, Bernd. 2011b. Die Lieder der Richtigen Menschen. Musikalische
+Kulturanthropologie der indigenen Bevölkerung im Ucayali-Tal, Westamazonien. 2
+Vols. PhD Thesis in ethnomusicology, University of Vienna. Summary retrievable
+from: http://www.uni-graz.at/Brabec_Diss_international.pdf.
+
+
+Brabec de Mori, Bernd. 2011c. “Tracing Hallucinations. Contributing to a
+Critical Ethnohistory of Ayahuasca Usage in the Peruvian Amazon”. In The
+Internationalization of Ayahuasca, edited by Beatriz Caiuby Labate and Henrik
+Jungaberle, 23-47. Zúrich: LIT Verlag.
+
+
+Brabec de Mori, Bernd. forthcoming. “La transformación de la medicina shipibokonibo. Conceptos etnomedicos en la representación de un pueblo indígena”.
+Estudios del Hombre 30. Guadalajara.
+
+
+Brabec de Mori, Bernd and Laida Mori Silvano de Brabec. 2009a. “Shipibo-Konibo
+Art and Healing Concepts. A Critical View on the ‘Aesthetic Therapy”. Viennese
+Ethnomedicine Newsletter 11 (2-3): 18-26.
+
+Brabec de Mori, Bernd and Laida Mori Silvano de Brabec. 2009b. “La corona de la
+inspiración. Los diseños geométricos de los Shipibo-Konibo y sus relaciónes con
+cosmovisión y música”. Indiana 26: 105-134.
+
+
+Burroughs, William S. and Allen Ginsberg. 1963. The Yagé Letters. 2nd ed., San
+Francisco CA 1975: City Lights Books.
+
+
+Castaneda, Carlos. 1968. The Teachings of Don Juan: A Yaqui Way of Knowledge.
+New York: Ballantine Books.
+
+
+Gebhart-Sayer, Angelika. 1986. “Una terápia estética. Los diseños visionarios del
+ayahuasca entre los Shipibo-Conibo”. América Indígena 46 (1): 189-218.
+
+
+278
+
+[PAGE 020]
+
+Song Patterns and Sung Designs
+
+
+Gebhart-Sayer, Angelika. 1987. Die Spitze des Bewußtseins. Untersuchungen zu
+Weltbild und Kunst der Shipibo-Conibo (Miinchener Beitrage zur Amerikanistik).
+Hohenscháftlarn: Klaus Renner Verlag.
+
+
+Gow, Peter. 1994. “River people: Shamanism and History in Western Amazonia’.
+In Shamanism, History and the State, edited by Nicholas Thomas and Caroline
+Humphrey, 90-113. Ann Arbor: University of Michigan.
+
+
+Gow, Peter. 2001. An Amazonian Myth and its History. Oxford: Oxford University
+Press.
+
+
+Harner, Michael, ed. 1973. Hallucinogens and Shamanism. New York: Oxford
+University Press.
+
+
+Illius, Bruno. 1987. Ani Shinan. Schamanismus bei den Shipibo-Conibo (Ost-Peru).
+(Ethnologische Studien Bd.12). 2nd ed., Münster 1991: LIT- Verlag.
+
+
+Illius, Bruno. 1999. Das Shipibo. Texte, Kontexte, Kommentare. Ein Beitrag zur
+diskursorientierten Untersuchung einer Montaña-Kultur. Berlin: Dietrich Reimer
+Verlag.
+
+
+Jervis, Francis. forthcoming. “How Do You Tell the Joshobo That Their Shinan Is
+Coshima? Translation and Transculturality in Ethnomedical Tourism”. M.S., 20p.
+
+
+Lathrap, Donald W. 1970. The Upper Amazon. (Ancient Peoples and Places 70).
+New York: Thames and Hudson.
+
+
+Lathrap, Donald W. 1976. “Shipibo Tourist Art”. In Ethnic and Tourist Arts.
+Cultural Expressions from the Fourth World, edited by Nelson H. H. Graburn,
+197-207. Berkeley: University of California Press.
+
+
+Martin, Barrett H. 2005. “Woven Songs of the Amazon” (Icaros and Weavings
+of the Shipibo Shamans). M.S., paper presented at the 50 Conference of the
+Society for Ethnomusicology (SEM), Atlanta, November 2005. Online available
+at: <http://www.museumtextiles.com/wovensongs.pdf>
+
+
+Olsen, Dale A. 1996. Music of the Warao of Venezuela. Song People of the Rain
+Forest. Gainesville: University Press of Florida.
+
+
+Meyer, Bernhard Heinrich. 1974. Beitráge zur Ethnographie der Conibo und
+Shipibo (Ostperu). PhD Thesis, Faculty of Philosophy II, University of Zurich.
+
+Rittner, Sabine. 2007. “Sound - Trance - Healing - The Sound and Pattern
+Medicine of the Shipibo in the Amazon Lowlands of Peru”. Music Therapy Today 8
+(2): 196-235. Online available at: <http://musictherapyworld.net>
+
+
+279
+
+[PAGE 021]
+
+Bernd Brabec de Mori
+
+
+Roe, Peter G. 1982. The Cosmic Zygote. Cosmology in the Amazon Basin. New
+Brunswick: Rutgers University Press.
+
+
+Tessmann, Günter. 1928. Menschen ohne Gott: ein Besuch bei den Indianern des
+Ucayali. Stuttgart: Strecker & Schröder.
+
+
+Tournon, Jacques. 1991. “Medicina y visiones: canto de un curandero ShipiboConibo, texto y contexto”. Amerindia. Revue dethnolinguistique amerindienne 16:
+179-209.
+
+
+Tournon, Jacques. 2002. La merma mágica. Vida e historia de los Shipibo-Conibo
+del Ucayali. Lima: CAAAP.
+
+
+280

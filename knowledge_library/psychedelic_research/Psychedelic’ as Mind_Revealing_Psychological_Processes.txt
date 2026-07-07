@@ -1,0 +1,1621 @@
+[PAGE 001]
+
+¿Preprints.org
+
+
+‘Psychedelic’ as Mind-Revealing:
+Psychological Processes in the
+Subjective Experience That Drive
+Positive Change
+
+
+Runa E E. Walther * and Hein T. van Schie
+
+Posted Date: 30 July 2024
+
+
+doi: 10.20944/preprints202407.2400v1
+
+
+Keywords: psychedelic; altered states of consciousness; therapeutic change; psychedelic-assisted therapy;
+psychology; mental health
+
+
+Preprints.org is a free multidiscipline platform providing preprint service that
+is dedicated to making early versions of research outputs permanently
+available and citable. Preprints posted at Preprints.org appear in Web of
+Science, Crossref, Google Scholar, Scilit, Europe PMC.
+
+Copyright: This is an open access article distributed under the Creative Commons
+Attribution License which permits unrestricted use, distribution, and reproduction in any
+medium, provided the original work is properly cited.
+
+[PAGE 002]
+
+doi:10.20944/preprints202407.2400.v1
+
+
+Review
+
+
+‘Psychedelic’ as Mind-Revealing: Psychological
+Processes in the Subjective Experience That Drive
+Positive Change
+
+Runa F. E. Walther 1* and Hein T. van Schie 2
+
+! Radboud University, School of Psychology, Nijmegen, The Netherlands; runa.walther@gmail.com
+2 Radboud University, Behavioral Science Institute, Nijmegen, The Netherlands; hein.vanschie@ru.nl
+* Correspondence: runa.walther@gmail.com
+
+
+Abstract: This narrative review explores the utilization of psychedelic states in therapeutic contexts,
+deliberately shifting the focus from psychedelic substances back to the experiential phenomena they
+induce, in alignment with the original meaning of the term “mind-manifesting.” The review
+provides an overview of various psychedelic substances used in modern therapeutic settings and
+ritualistic indigenous contexts, as well as non-pharmacological methods that can arguably induce
+psychedelic states, including breathwork, meditation, and sensory deprivation. While the
+occurrence of mystical experiences in psychedelic states seems to be the strongest predictor of
+positive outcomes, the literature of the field yields several other psychological processes, such as
+awe, perspective shifts, insight, emotional breakthrough, acceptance, re-experiencing of memories,
+and certain aspects of challenging experiences, that are significantly associated with positive
+change. We additionally discuss in detail mystical experience related changes in metaphysical as
+well as self-related beliefs and their respective contributions to observed outcomes. We conclude
+that a purely medical and neurobiological perspective on psychological health is reductive and
+should not overshadow the significance of phenomenological experiences in understanding and
+treating psychological issues that manifest in subjective realities of human individuals.
+
+
+Keywords: psychedelic; altered states of consciousness; therapeutic change; psychedelic-assisted
+therapy; psychology; mental health
+
+
+1. Introduction
+
+Utilization of Altered States of Consciousness (ASCs) for therapeutic purposes can be traced
+back to prehistoric civilizations. Substances like psilocybin and ayahuasca have historically been, and
+still are, central to healing rituals and regarded as sacred in indigenous societies across the globe and
+across time [1-3]. Recent years have seen a surge of interest into the therapeutic potential of
+psychedelic and related substances as evidence of their effectiveness in treating various mental health
+conditions has amounted [4,5]. For example, psilocybin shows promising therapeutic efficacy for
+treatment of mood disorders [6-12], substance addiction [13], and end-of-life anxiety, among others
+[3]. The dissociative ketamine is increasingly tested and was recently approved for treatmentresistant depression [14], and the US Food and Drug Administration (FDA) has designated MDMAassisted psychotherapy as a “Breakthrough Therapy” in 2017. Additionally, research on indigenous
+plant medicines, like ayahuasca and mescaline, and their effects are being researched within and
+outside of their original cultural contexts [15-20] .
+Psychedelic states can be utilized as a means to achieve therapeutic objectives [1,3] in a variety
+of ways. Apart from neurobiological mechanisms, the literature on psychedelic-assisted
+psychotherapy proposes several mechanisms and psychological processes within acute psychedelic
+experiences that are associated with subsequent clinical improvement [2,14,21-26]. This review
+intends to provide an overview of various psychedelic substances used in modern therapeutic
+settings and ritualistic indigenous contexts, as well as non-pharmacological methods that induce
+
+[PAGE 003]
+
+psychedelic states, and particularly these states’ inherent subjectively experienced psychological
+processes that are associated with positive change.
+We thereby aim to contribute to the scientific understanding of the processes that drive
+therapeutic change, which may assist in the development of specific frameworks for more
+increasingly targeted and effective therapeutic interventions that are able to optimally harness
+psychedelic states for clinical outcomes [22]. Insight into how change occurs aids in identifying the
+clients or patients who are most likely to derive significant value from these kinds of therapy and
+experiences, and, by considering contextual factors of, for example, particular therapeutic approaches
+or ceremonial settings, the specific circumstances that are most conducive to these benefits. This
+additionally enhances safety and accessibility of pharmacologically-assisted therapies employing
+altered states of consciousness, and especially in a young and potentially still stigmatized field,
+facilitate conversation in the scientific and clinical community through demystification [27]. For
+psychotherapy in general, researchers have long noted the importance of studying change processes
+in their specific context (i.e., the sessions themselves), and to extend our understanding of that change
+beyond mere outcome measures with the ultimate goal of making therapy more effective [28].
+Of all substances reviewed in this paper, classical psychedelics are currently the most extensively
+studied. Other substances such as ketamine and cannabis, as well as the non-pharmacological
+methods, have received researchers’ attention partly because of the similarity of their respective
+phenomenology to the acute psychedelic state, while having distinct pharmacological and
+neurological mechanisms of action [1,3]. The review will thus include classical psychedelics like
+psilocybin, LSD, and DMT, as well as the substances 3,4-methylenedioxymethamphetamine (MDMA),
+ketamine, and cannabis, the indigenous plant medicines ayahuasca, mescaline, and ibogaine, and
+additionally present non-pharmacological methods such as breathwork, meditation, and sensory
+deprivation before illustrating the psychological processes by which these modalities effect
+therapeutic change through the subjective experience of the ‘psychedelic’ state.
+
+
+2. Psychedelic- and Substance-Assisted Therapy
+
+Therapies utilizing pharmacologically induced psychedelic states are pooled under the umbrella
+terms “psychedelic-assisted therapy”, more inclusively “substance-assisted psychotherapy” [3], or
+specifically as psilocybin-assisted psychotherapy, LSD-assisted psychotherapy, MDMA-assisted
+psychotherapy, or ketamine-assisted psychotherapy. In sessions involving high doses of
+hallucinogenic substances, it is common to use eyeshades to enable stronger focus on the internal
+experience, but at least two therapists or session monitors are present throughout to provide support
+if required. Ketamine-assisted therapy often involves minimal interactions, while for MDMA there
+exist more specific protocols and manuals for interventions, and LSD, psilocybin, and ibogaine
+studies vary along this spectrum [29].
+
+
+2.1. Serotonergic Psychedelics: Psilocybin, LSD, and DMT
+
+In 1938, the Swiss chemist Albert Hoffmann synthesized lysergic acid diethylamide (LSD),
+which essentially marked the beginning of psychedelics’ entry to modern medicine [1]. Rapidly
+growing research through the 1950s contributed to the early understanding of serotonin systems and
+its role in cognition, and much research was conducted on clinical potential and safety of psychedelics
+[30,31]. The Controlled Substances Act of 1980 in the US, as well as the United Nations Convention
+on Psychotropic Substances in 1971 effectively illegalized psychedelic substances, and research was
+severely impeded until recent years [1].
+Psilocybin, LSD, and N,N-Dimethyltryptamine (DMT) are considered classical serotonergic
+psychedelics while differing slightly in their chemical structures and subjective effects. They are
+currently assumed to exert their effects by binding predominantly to the 5-HT2A serotonin receptor
+subtype, which is presumed to lead to a cascade of effects, including downstream changes in
+neurotransmitter release of particularly dopamine and glutamate, and altered neuronal and
+functional connectivity [32]. Additionally, increased neuroplasticity is generated by cascades of
+neurochemical effects including the release of brain-derived neurotrophic factors (BDNF) and
+
+[PAGE 004]
+
+subsequent expression of genes that are related to neuroplasticity and affect protein synthesis for
+synaptic components [5,22,33,34]. Reduced levels of BDNF have been observed in people suffering
+from anxiety, depression, and addiction [35], and boosting of BDNF levels is a biological mechanism
+of selective serotonin reuptake inhibitors (SSRIs), which implies a role of BDNF and enhanced
+neuroplasticity in the therapeutic effects of psychedelics [33].
+Users of serotonergic psychedelics report vivid visual hallucinations with perceptual alterations
+in light, sound, and touch, accompanied by changes in mood, prevalently towards joy and euphoria
+yet encompassing the whole emotional spectrum [36], and feelings of unity or ego dissolution which
+can culminate in complete mystical and deeply spiritual experiences [1,37]. Cognition can feel
+accelerated and hyper-associative [26], and users report abstract visions of colours and geometric
+patterns, sometimes also visions of creatures or places. Spontaneous personal insight is common and
+frequently imbued with a strong sense of meaning and significance [36,38,39]. Individual experiences
+often reflect personal history and symbolism [26,36,40]. The intensity and nature of these
+psychological effects vary widely based on factors like dosage, setting, and support [41].
+Contemporary research has mainly investigated the therapeutic applications of psilocybin [68,42], while clinical investigations pertaining LSD and pure DMT are rarer [1]. Among outcomes of
+these investigations are reductions in symptoms of depression [6,8,11,43,44], reduced anxiety around
+death [45], reduced substance misuse [46] by mechanisms such as increased cognitive and
+psychological flexibility [47,48], as well as improved mental well-being, happiness, trust, empathy,
+positive mood, pro-sociality, (self-)acceptance, openness, mindfulness, and sense of meaning and
+belonging [27,40,49-51].
+
+
+2.2. Other Substances: MDMA, Ketamine, and Cannabis
+
+The entactogen MDMA also acts to increase serotonin, as well as the other monoamines
+norepinephrine and dopamine through reuptake inhibition and reversal of transporter proteins [52].
+Through downstream serotonin effects, it additionally increases levels of cortisol, prolactin,
+vasopressin, and oxytocin [3], all of which predominantly lead to increased feelings of empathy
+(reflected by the alternative term “empathogen”), self-confidence, and sociability. Other self-reported
+subjective effects are increased well-being, mood, introspection, and emotional openness [53,54], but
+little hallucinogenic effects are reported. MDMA, like the classical serotonergic psychedelics, has
+been found to increase neuroplasticity through BDNF release, the effects of which are said to reinforce
+learning in the context of psychotherapy that accompanies the altered state experience [52].
+Ketamine-assisted psychotherapy (KAP) is supported by numerous studies to be a promising
+therapeutic intervention for the treatment of treatment-resistant depression and substance use
+disorders [14]. Different frameworks for KAP exist that incorporate ketamine infusions into
+psychotherapeutic treatment either in-between sessions or in-sessions with lower, sub-anaesthetic
+doses [14]. However, ketamine is currently still primarily delivered as a standard pharmacological
+intervention without specific psychological assistance or psychotherapy [21] which is somewhat
+concerning considering its substantial psychoactive effects. It’s theorized that ketamine promotes
+neuroplasticity through release of BDNF as well, while simultaneous cognitive-behavioural therapy
+supports in stabilising new synaptic connections [55].-
+Interestingly, the subjective experience after consuming a high dose of cannabis has been
+suggested to overlap with reactions to psilocybin [56-58]. With high dosage, cannabis users report
+experiences of oceanic boundlessness, ego dissolution, and emotional breakthrough much alike the
+ones occasioned by classical psychedelics [56,57,59] and therefore might similarly act as a mediator
+for therapeutic outcomes here. However, clinical research is limited to one case report of 10 cannabisassisted therapy sessions over 5 months, and reported hypothetical expectations of patients [57].
+
+[PAGE 005]
+
+doi:10.20944/preprints202407.2400.v1
+
+
+2.3. Contextual Factors in Substance-Assisted Therapy
+
+2.3.1. Set and Setting
+
+The terms “set” and “setting” have become well established as crucial factors influencing trip
+experiences in clinical research [1,29,33] and refer to the internal disposition of the individual and the
+external environment in which the therapeutic session occurs, respectively. Set includes the patient’s
+beliefs, attitudes, expectations, mood, personality traits, and psychological state (e.g., arousal,
+mindset) at the time of the session [22,49]. Physical surroundings (e.g., tent, nature, a hospital),
+support from therapists, and sensory stimuli such as music or lighting are part of what is understood
+as the setting [49,60]. Both set and setting have been found to be linked to therapeutic outcome as
+well as to how the psychedelic state is manifested in the subjective experience, in particular regarding
+the occurrence of mystical experiences [61]. For instance, prior to sessions, patients should ideally be
+in a calm, accepting, and open mindset, without having specific goals or rigid expectations [60]. Good
+settings are comfortable environments in which patients can relax, feel safe, supported and
+undisturbed. Nature has also been found to provide a beneficial setting for psychedelic experiences
+[49].
+In psychedelic-assisted therapy, supervised sessions take place often in aptly decorated rooms
+with for example a comfortable sofa to lie on, and are accompanied by evocative music that may
+create a soothing auditory environment conducive to introspection and emotional processing [1].
+Music has been found to enhance the overall therapeutic experience by evoking feelings of wonder,
+transcendence, and mysticality [49,62]. It’s been suggested that set and setting manifest the
+experiential outcomes (e.g., occurrence of a mystical experience) in a session much more than purely
+the ingestion of a substance does, which then rather serves as a catalyst of such experiences [49,63].
+This is historically mirrored in indigenous peoples’ use of psychedelic substances in structured
+ceremonial rituals that have long acknowledged the importance of context and preparation [49,64,65].
+
+
+2.3.2. Preparation and Integration
+
+Both preparation and integration are recognized as relevant factors influencing therapeutic
+outcomes [1]. Preparatory sessions are held prior to drug administration sessions with the same
+therapists to create rapport and learn about the patient’s life, personal struggles, traumas,
+relationships, and worldview. In subsequent drug-free integration sessions, patients are given the
+opportunity to reflect on, process and integrate their psychedelic experiences with the help of the
+therapists. The goal is to make sense of the potentially very profound insights and emotions that
+emerged during the acute drug experience and translate them into the context of daily life behaviour,
+personal values and goals, beliefs, and habits. Proper integration is thus crucially important to
+maximise the therapeutic benefit that can be derived from the experience because accommodation of
+the insights gained during the altered state into one’s everyday life and value systems is necessary
+for lasting behavioural and psychological changes to occur [1,66].
+
+
+2.3.3. The Therapeutic Relationship
+
+Psychotherapy research has long recognized the therapeutic alliance —defined as the quality of
+the bond and collaborative relationship between therapist and client—as a crucial contextual/nonspecific mechanism for positive treatment outcomes [1,67]. The therapeutic alliance has been found
+to be similarly significant in forms of pharmacotherapy, e.g., findings indicating that treatment
+response to SSRIs in depression is greatly influenced by the quality of the therapeutic relationship in
+accompanying psychotherapy [68,69]. In psychedelic therapy, the therapeutic alliance assumes even
+greater importance due to the profound, intimate, and intense experiences often elicited during highdose drug sessions.
+
+
+3. Indigenous Ceremonial Use: Ayahuasca, Mescaline, and Ibogaine
+
+The use of traditional psychedelic plant medicines such as ayahuasca, mescaline, and ibogaine,
+has had a rich history rooted in indigenous spiritual practices long before the substances were
+
+[PAGE 006]
+
+researched in “western” clinical settings. Ayahuasca is a traditional Amazonian brew made from the
+Banisteriopsis caapi vine and the Psychotria viridis leaf, which contain B-carboline alkaloids acting
+as MAO-inhibitors and DMT, respectively. Ayahuasca is used in shamanic and spiritual rituals of
+indigenous tribes and communities and is known for its intense introspective visionary experiences
+and reported therapeutic benefits [17,70-72]. Among outcomes observed after consumption of
+ayahuasca are lower hopelessness and improvement of depression [17,72-74], as well as beneficial
+personality changes [75].
+Mescaline is a naturally occurring psychedelic alkaloid found in several cactus species, most
+notably Peyote and San Pedro cacti. It produces visual hallucinations and altered states of
+consciousness similar to those of LSD and psilocybin, and has been used ceremonially in indigenous
+contexts in Central America for millennia [76]. Both mescaline and ayahuasca are technically also
+serotonergic psychedelics and have similar pharmacological and neurobiological mechanisms as the
+ones described above for psilocybin, LSD, and DMT.
+Ibogaine is an alkaloid derived from the root bark of the African plant Tabernanthe iboga and is
+used in traditional African spiritual ceremonies. Ibogaine acts on various neurotransmitter systems,
+likely including serotonin, dopamine, opioid, sigma, and NMDA receptors, but its precise
+mechanism of action is not fully understood [77,78]. Ibogaine has been clinically researched mainly
+in the context of substance use disorder treatment, and anecdotal findings suggest that Ibogaine may
+help individuals struggling with various substance addictions [79], e.g., by reducing craving (through
+dopamine transporter inhibition and NMDA antagonism) and withdrawal symptoms (via opioid
+receptors) [77]. However, Ibogaine poses considerable risks because of its toxicity and potential
+adverse physical reactions, particularly its potential to cause cardiac arrhythmias, which arguably
+limits its therapeutic applicability [77-79]. The subjective experience is characterized by potentially
+uncomfortable re-experience of repressed memories and imaginary scenes with personal
+significance, accompanied by intense emotional release over a wide spectrum of emotions, and
+insight [78].
+
+
+3.1. Arising Issues with Indigenous Plant Medicines
+
+For many indigenous peoples of the Amazon, ayahuasca is integral to ritual practices, myths,
+cosmologies, art, music, and various aspects of cultural life [80]. Incorporating substances such as
+ayahuasca, mescaline or ibogaine into modern therapeutic practices necessitates a careful
+consideration of their traditional and shamanic contexts, as it raises issues of cultural appropriation
+[80,81]. For example, ayahuasca is now used in various countries outside the Amazon, including parts
+of South America, North America, Europe, Australia, New Zealand, and some parts of Asia. The
+consumption in possibly different cultural and geographical contexts and thus “settings”, as well as
+different “sets” in terms of a consumer’s cultural pre-convictions, affect how the altered state
+manifests phenomenologically, and also the meaning individuals derive from the experience [81,82].
+
+
+4, Pharmacology and the Subjective ‘Psychedelic’ Experience
+
+There is, notably, an ongoing debate regarding the necessity of the subjective experience for
+long-lasting clinical outcomes in particular for therapy assisted by psychedelic substances [5,83,84].
+Some argue that acute subjective experience of a psychedelic state may not be essential for therapeutic
+outcomes, positing that an increase in neural plasticity, independent of subjective phenomena, is the
+primary, or at least a sufficient, mechanism driving therapeutic outcomes [83]. This perspective is
+analogous with the psychoplastogen model of psychedelics, and with what is called the “Molecular
+Neuroplasticity Theory of Psychedelic Therapy” [85].
+These models suggest that isolating the non-hallucinogenic properties of psychedelics or other
+substances could provide effective therapeutic interventions, for example through concurrent
+administration of ketanserin to serotonergic psychedelics, which is a 5-HT2A receptor antagonist that
+subdues the changes in perception generated by the hallucinogen alone [34]. Indeed, compounds
+(such as tabernanthalog, a non-hallucinogenic analogue of DMT) have been engineered that promote
+cortical neuron structural plasticity without inducing an acute altered state, and that have
+
+[PAGE 007]
+
+demonstrated preclinical anti-addictive and antidepressant effects similar to those of ketamine in
+rodents [79]. Based on these findings, it has been suggested that the subjective alterations in
+consciousness may not always be strictly necessary for producing at least some therapeutic responses
+[83].
+On the other hand, one of the most consistent findings in research about psychedelics is their
+ability to elicit experiences that are considered extraordinarily meaningful and transformative by the
+person going through them [39,51,86-88]. These profound psychological experiences have been
+found to be significantly associated with positive treatment outcomes in various contexts and across
+various substances [25,32,46,86]. The quality of the acute experience, and particularly the occurrence
+and intensity of a mystical experience, is the strongest predictor of the efficacy of psychedelic therapy
+for long-term mental health improvements [1,11,24,25,49,78,84,89]. These findings are more
+consistent with the behavioural catalyst model of psychedelics, which acknowledges a synergy between
+subjective experience and neurobiological mechanisms. It posits that the enduring therapeutic effects
+of psychedelics are mediated by the facilitation of transformative or disruptive subjective experiences
+during psychotherapy sessions and are implemented and reinforced neurobiologically during a
+window of increased plasticity [2,53].
+Importantly though, it is arguable that not only serotonergic substances can evoke psychedelic
+states, but also other substances (e.g., ketamine) and even methods. Non-pharmacologically induced
+ASCs, for example through breathwork, some kinds of meditation, and sensory deprivation
+(presented in the following section), as well as near-death experiences and ancient dance and
+drumming rituals, share common aspects of phenomenology and neural correlates with those
+observed in drug-induced psychedelic states [90-94]. On the other end of the spectrum of theories,
+this may correspond to the one that Letheby [85] calls the “Implementational Neuroplasticity
+Theory”: The psychedelic experience itself could trigger neuroplastic changes, regardless of whether
+it was induced by a substance or not. Molecular events like increased BDNF synthesis, in this view,
+are really a result, and not a cause, of the nature of the subjective experience.
+Consequently, we would like to interpret the term ‘psychedelic’ to not include only drugs acting
+on a particular neurotransmitter receptor, but rather intentionally shift the focus away from
+psychedelic substances back to psychedelic experiences. The term “psychedelic” has been spuriously
+associated with experiences induced by substances that act as serotonin 5-HT2A receptor agonists,
+yet this definition, in our view, places undue emphasis on specific substances and their
+pharmacological actions rather than the experiential phenomena that the term was originally meant to
+describe, such as an expanded or dissolved sense of self, heightened emotions, altered perception
+and cognition, and visual mental imagery [41,95]. “Psychedelic” is simply a neologism derived from
+the ancient Greek words psyche and delos, intended to convey the concept of “mind-manifesting”.
+Over time, the original meaning of “psychedelic” has been obscured by cultural shifts, i.e., the
+counterculture movement of the 1960s, the war on drugs, and a prevailing scientific reductionism
+that focuses on the physical/materialistic rather than the experiential [94]. Especially when talking
+about psychotherapy (as opposed to mere pharmacotherapy), however, the experiential aspect
+becomes increasingly relevant, as the subjective experience of the individual is essential for the
+therapeutic process. By broadening our understanding of “psychedelic” to encompass any experience
+that manifests the mind in an ultimately transformative way, we can more fully appreciate and
+understand the therapeutic potential of these experiences.
+
+
+5. Non-Pharmacological ‘Psychedelic’ States
+
+5.1. Breathwork
+
+Nowadays, modern schools of breathwork, such as for example Holotropic Breathwork (which
+was developed by Stanislav and Cristina Grof as a substitute method to bring about cathartic
+psychedelic states of consciousness after LSD was effectively banned from psychiatric research and
+practice), Rebirthing Breathwork or Sudarshan Kriya® breathing, aim to induce altered states of
+consciousness to facilitate therapeutic change through active modulation of breathing rhythms [91].
+Similar much older breathing practices such as yogic pranayama have been utilized for millennia in
+
+[PAGE 008]
+
+spiritual and healing practices [96]. Breathwork sessions are often guided by trained facilitators and
+frequently accompanied by evocative music, although the specific context can vary depending on the
+philosophy of each breathwork school [91]. The common technique of these modern forms of
+breathwork is conscious connected breathwork (CCB), which induces respiratory alkalosis by increasing
+CO2 elimination, leading to cerebral vasoconstriction and reduced oxygen delivery to the brain
+[91,97]. Alkalosis disrupts GABAergic inhibition, increasing neuronal hyperexcitability and
+neurometabolic demands that are not met by the reduced oxygen supply [98,99]. The hypoxic state
+eventually results in heightened arousal, increased alertness, and stimulation of the sympathetic
+nervous system, consequently contributing to intense emotional and somatic experiences that are
+integral to the therapeutic processes taking place during the breathing session [91].
+Participants report acute changes in the intensity and content of thoughts and emotions, sense
+of self, as well as perceptual distortions, subjective visions, and somatic sensations such as for
+example tingling, roaring in the ears, light-headedness, or sweating [100]. In a bulletin for the
+Multidisciplinary Association for Psychedelic Studies (MAPS), 80% of psychiatric inpatients
+described their Holotropic Breathwork experiences as ‘psychedelic’ [90], and in a day-long workshop
+approximately 10% of participants met the criteria for a “complete” mystical experience [101], which
+is comparable to the 11% rate observed in participants administered a 10 mg/70 kg dose of psilocybin
+[87]. Similar to substance-induced psychedelic therapy, breathwork sessions aim to achieve
+emotional breakthroughs or catharsis and gaining insights via the re-experiencing of significant
+autobiographical events and through mystical-type experiences including ego dissolution or oceanic
+boundlessness [101-103].
+Despite being in early stages of scientific research concerning experiential states and outcomes,
+breathwork represents a promising non-pharmacological alternative for inducing psychedelic-like
+alterations in consciousness that may offer therapeutic benefits [91]. Indeed, in a recent study in this
+special issue, Breathwork was used as a control group to assess changes in well-being, resilience, selfcompassion, and personality after an Ayahuasca experience. In follow-up, both groups showed
+comparable changes and improvements in all measurements that did not differ significantly from
+each other [104].
+
+
+5.2. Meditation
+
+Recent research indeed also suggests that there might be significant phenomenological and
+neurophysiological overlaps between meditation-induced trance states and those induced by
+psychedelic substances [105-107]. One example are their effects on brain regions involved in selfreferential awareness [108-110]. Both psychedelic and very deep meditative states of advanced
+practice can be characterized by an experiential quality of oneness and an altered sense of self, such
+as that of complete dissolution of ego boundaries, both of which have been proposed as a key
+processes underlying therapeutic benefits [107,111,112] and will be elaborated on later in this review.
+Indeed, it has been noted that most meditation practices, regardless of tradition or technique, have it
+as their ultimate aim to transcend ego self-identification and achieve this unified state of “nondual”
+awareness that is so characteristic of psychedelic-occasioned mystical experiences [113,114].
+
+
+5.3. Sensory Deprivation
+
+As a third example, sensory deprivation can induce altered states of consciousness that closely
+resemble those induced by psychedelic substances. Sensory deprivation involves the intentional
+reduction or elimination of sensory input, which can be achieved using methods such as darkened
+chambers, soundproof spaces, or floatation tanks [115]. Floating induces a variety of
+neurophenomenological effects similar to those caused by psychedelics, such as ego dissolution,
+disembodiment, transcendence of space and time, and hallucinations [116,117]. Sensory deprivation
+can also trigger visual and auditory hallucinations, as the brain generates its own sensory signals in
+the absence of external stimuli [116,118,119]. These hallucinatory experiences and the resultant
+cognitive flexibility may lead to novel insights and challenge existing cognitive structures, similar to
+the effects of psychedelic substances [119-121]. Additionally, the disruption of default mode network
+
+[PAGE 009]
+
+doi:10.20944/preprints202407.2400.v1
+
+
+activity observed during floatation is comparable to the effects seen with psychedelics, suggesting
+that both modalities can lead to ego dissolution and a heightened state of entropy in cognitive
+processing [105,109,122].
+
+
+6. Subjective Psychological Experiences and Processes Triggered by the Psychedelic State
+
+6.1. Transcendent and Mystical Experiences
+
+In the study of therapeutic change, the term “transcendence” is used to describe moving beyond
+perceived limitations and problems caused by dysfunctional beliefs or entrenched thought and
+behaviour patterns [28]. This process of “stepping outside” of the context where these limitations
+exist, crucially, always requires individuals to alter or redefine their sense of self. This aligns with
+self-transcendent experiences during psychedelic states — such as mystical states that by definition
+involve profound shifts in the perception of self [112].
+Psychedelic experiences have consistently demonstrated the capacity to include so-called
+mystical states [32,49,123] that are experienced as deeply meaningful and transformative by the
+individuals undergoing them [86]. “Mystical experiences”, per definition, are profound states
+characterized by an experience of unity, interconnectedness, and transcendence beyond the
+conventional sense of self and time. They are marked by intense positive emotions like joy and bliss,
+deep peace, a sense of safety, and love; as well as the sense of having encountered some kind of
+ultimate reality and insight [22,49,123]. They are associated with long-term positive change
+[1,25,42,124,125] such as for example in personality traits, well-being and life satisfaction, greater
+sense of meaning and appreciation for life, self-acceptance, and creativity, as well as decreased
+existential anxiety in the terminal ill [1,45,49,126,127].
+The most widely used tool to quantify mystical experiences is the Mystical Experience
+Questionnaire (MEQ), a scale that is based on an identification of common core characteristics of
+mystical experiences by Stace [128] that he argued to be universal; i.e., independent of culture and
+not tied to any specific religion or philosophical system: experience unity and ego dissolution, noetic
+quality, a sense of sacredness, positive mood, transcendence of space and time, paradoxicality, and
+ineffability [129]. The most recent version of the questionnaire, the MEQ-30 [130], assesses the
+subjective phenomenology of mystical experiences across four subdimensions: mysticality (which
+includes the first three of Stace’s core characteristics), positive mood, transcendence of space and time,
+and ineffability. For example, MDMA increases feelings of unity and positive mood that act
+therapeutically but might not induce “complete” mystical experiences as frequently as psilocybin
+[32,131].
+Rather than being a mechanism as such, the quality and intensity of mystical experiences have
+been shown to significantly mediate therapeutic outcomes [11,14,29,123] via experiences of unity, ego
+dissolution, awe, insight, emotional breakthrough, and acceptance, as well as changes in beliefs about
+the world and the self.
+
+
+6.2. Unity and Ego Dissolution
+
+One key feature of mystical experiences is a profound sense of connection with the universe or
+self, referred to as “unity” [125]. This “extrovertive” unitive aspect is represented by high scores in
+the “mysticality” factor of the MEQ as well as the “oceanic boundlessness” dimension of the Altered
+States of Consciousness (ASC) scale, and it has been shown to predict long-term therapeutic outcomes
+[18,25,49], for example for alleviating depression and reducing death anxiety in both terminally ill
+patients and healthy participants [22,23,89]. During these experiences, individuals often report
+feelings of empathy, (self-)compassion, and profound interconnectedness. Neuroimaging studies
+have suggested that these unitive feelings are associated with increased global functional
+connectivity in the brain, reflecting a more integrated mode of brain function during psychedelic
+states [109,132].
+The second, “introvertive” aspect of unitive experiences, known as “ego dissolution” or “ego
+death,” involves a temporary loss of the sense of self and is considered a core therapeutic mechanism
+
+[PAGE 010]
+
+doi:10.20944/preprints202407.2400.v1
+
+
+of psychedelics [85,106]. Ego dissolution is characterized by “complete absence of self-reflective
+thought, the experience of an ‘I’ as being distinct from the world, and of the sense of having a bodily
+self or a narrative/reflective self” [22], which can be both pleasurable and initially frightening. These
+“ego death” experiences can sometimes be preceded by extreme tension and distress, such as feeling
+like or visions of dying, but ultimately lead to significant therapeutic benefits nonetheless [133-135].
+Research indicates that individuals who undergo “complete” ego dissolution are more likely to report
+positive clinical outcomes and long-term changes in worldview and personality traits, particularly
+openness [25,41,44,50,105].
+It’s been proposed that instances of ego dissolution, e.g., as occasioned by ketamine or DMT,
+share certain similarities with near death experiences (NDEs) [136], which are equally renowned for
+changing a person’s worldview and spiritual beliefs [14,137]. NDE’s are deeply transformative
+experiences that may facilitate insights which help to make sense of death, instigate increased
+meaning in life, and change embraced values [14], thereby making death seem less threatening [45].
+The long-term self-transformational effects of NDE’s seem to be comparable with those of
+psychedelics and present opportunities for foundational changes in self-identity, personality, values,
+and purpose [138].
+
+
+6.3. Awe
+
+Findings support that awe is a core characteristic of mystical experiences and thus a factor for
+long-term therapeutic outcomes [123], making it a significant process in the subjective psychedelic
+state (MacLean et al., 2012). Awe is an emotion associated with profound pleasure, sometimes mixed
+with fear, that arises when individuals process stimuli or ideas that are perceived as vast and
+extending well beyond the sense of self [140]. In the context of psychedelic experiences, the profound
+sense of awe can prompt individuals to adapt their existing mental frameworks to accommodate
+these novel perspectives. Mirroring aspects of ego dissolution, experiences of awe often reduce selfreferential processing [141], fostering a sense of connection to a larger collective such as one’s
+community or species [132,142-144]. The intense and awe-inducing nature of psychedelic experiences
+is hypothesised to facilitate overcoming personal obstacles by prompting a revision of existing mental
+schemes, also known as accommodation [139]. Encountering something awe-inspiring which
+transcends current frames of reference can have beneficial effects on well-being and is associated with
+increased life satisfaction [145,146], more positive emotions [147], and greater meaning in life [148].
+
+
+6.4. Long-Term Changes in Beliefs — Cosmology, Meaning, and Self
+
+Ultimately, all the psychological processes inherent to mystical experiences may lead to
+fundamental changes in a person’s belief and value systems. Being inherently spiritual on account
+of their transcendent nature, hallucinogenic and particularly mystical experiences have been found
+to profoundly shift individuals’ beliefs about the world and about themselves, and even occasion sotermed “ontological shock”, a dramatic revision of prior beliefs [22,49,149]. Indeed, a recent study
+revealed that a DMT experience can significantly impact individuals’ worldviews, with over half of
+the participants no longer identifying as atheists after their experience with DMT as opposed to
+before [150]. Additionally, another recent study found that participants in a psychedelic retreat
+experienced shifts in their metaphysical beliefs, transitioning from physicalist or materialist
+perspectives to more panpsychist ones [151].
+It’s important to note that even though spirituality or religiousness are by no means
+prerequisites for either mystical experiences to occur or for them to have therapeutic value, but that
+these mystical experiences, on account of their transcendent nature, are fundamentally spiritual.
+While purely secular interpretations of psychedelic experiences can certainly provide valuable
+insights and improvements in psychological processes and well-being, they may limit the full
+potential to be derived from these experiences. It seems thus advisable to achieve a balance between
+acknowledging the diverse spiritual experiences and their metaphysical implications that may arise
+during e.g., drug administration sessions and respecting the individual’s autonomy to interpret these
+experiences and assign meaning to them within their own belief system [49]. This seems even more
+
+[PAGE 011]
+
+10
+
+
+relevant when considering that psychedelic substances have been found to increase suggestibility
+[38,152], i.e., a heightened responsiveness of individuals to suggestions, guidance, or external stimuli
+during and after a psychedelic experience.
+This effect is possibly evoked or strengthened by relaxed prior beliefs and convictions.
+Integrating the entropic brain theory and free energy principle framework, the REBUS model
+(reviewed elsewhere in more detail) attempts to explain how psychedelic-induced neural entropy
+could temporarily induce a relaxation of precision weighting [152]. This leads to a state in which
+established beliefs and reinforced patterns of attention are essentially more “plastic”, in a higher-level
+sense concerning models of identity, ego, and sense of self [153], which makes experiences such as
+ego dissolution possible. In states of increased neural entropy and uncertainty, the extra-ordinary
+may be no longer “explained away” by the brain’s prior convictions and thus make it into conscious
+reflection. Additionally, this state provides a chance to revise previously entrenched cognitive
+patterns and self-models that may contribute to psychiatric complaints, as they are temporarily made
+more amenable to alternative viewpoints and thus constructive change [2,152,154,155].
+The so-called Metaphysical Belief Theory (MBT) of psychedelic therapy proposes that its
+therapeutic efficacy stems indeed from inducing enduring non-naturalistic beliefs centred around a
+“Joyous Cosmology” that is encountered during the mystical experience [85]. ‘Joyous Cosmology is
+a term coined by Alan Watts [156] to describe the largely ineffable transcendent vision of nonnaturalistic metaphysical ideations. According to MBT, psychedelic states facilitate lasting benefits
+by first triggering mystical experiences characterized by such a cosmology, which subsequently foster
+strong beliefs in it. Thus, these belief changes, rather than the mystical experience itself, are seen as
+primarily responsible for therapeutic outcomes [85]. This theory is not uncontroversial: the main
+objecting concern is that these practices may promote or rely on beliefs that, while comforting or
+psychologically beneficial for the individual, are not necessarily true or grounded in reality. This may
+raise ethical questions about whether it is appropriate to essentially encourage beliefs in mental
+health treatment that are not based on evidence, despite their pragmatic value for therapeutic
+outcomes [82]. On the other hand, if the beliefs induced by psychedelic experiences lead to genuine
+improvements in mental health and well-being, then the role they have in therapeutic practice might
+arguably be justified. It may be argued that determining the “truth” or “falsehood” of beliefs based
+on objective reality is beyond our capacity anyways, given our current understanding of the nature
+of consciousness and the fundamental principles of the universe.
+It has also been suggested that the therapeutic effects of psychedelics that correlate so
+significantly with the occurrence of mystical experiences do not necessarily depend on the conscious
+endorsement of changed metaphysical beliefs, but rather that they arise from non-reflective mental
+representations of the encountered vision [85]. The idea would be that psychedelic therapy operates
+akin to a kind of ‘inverse PTSD’ scenario [157], where a singular peak experience and the memory of
+it yield enduring positive effects on well-being by functioning as an embodied beacon of hope.
+Nevertheless, even when disregarding changes in metaphysical beliefs as the driving
+therapeutic force, deeply meaningful experiences of self-transcendence do appear to frequently
+prompt re-evaluations of personal narratives, life perspectives, and core beliefs. This brings about
+positive therapeutic change by helping individuals make sense of their own identity and place in the
+world, thereby alleviating symptoms of e.g., depression [22,126,158]. They may fundamentally
+challenge the conventional or, in relation to psychopathology, dysfunctional ways of perceiving
+meaning as well as one’s relation to the world, and thus offer individuals new ways to evaluate and
+process their struggles and potentially adverse autobiographies. Like in ‘regular’ cognitivebehavioural therapy, one proposed mechanism of change in psychedelic-assisted therapy is indeed
+the breaking of previously rigid maladaptive emotional and cognitive patterns, and “restructuring”
+them in a more adaptive and functional way for the patient [3,55].
+Psychedelic states, then, might operate therapeutically by challenging one’s core assumptions
+about oneself, ine’s life, and one’s relationship with the world. The critical factor might not
+necessarily involve a fundamental change towards non-naturalistic metaphysical beliefs, but rather
+the disruption and re-evaluation of mental representations of the self, and the self in relation to the
+
+[PAGE 012]
+
+doi:10.20944/preprints202407.2400.v1
+
+
+11
+
+
+world [85]. Ego dissolution, a phenomenological manifestation of self-disruption through relaxed
+priors, might be seen as a more naturalistic hallmark of what we call mystical experiences. Positive
+treatment outcomes associated with, for instance, psilocybin- and ketamine-assisted therapy have
+indeed been attributed to enduring alterations in views on the self [3,14,153,159]. This relationship is
+in alignment with neuroscientific findings describing psychedelic states that suggest alterations in
+the default mode network and salience network, both of which plausibly influence changes in selfperception [109,160]. In a way, the experiential insight into alternative ways of perceiving the self
+brings the earlier discussed original notion of ‘psychedelic’ back full circle: revealing one’s mind, and
+its potential, to oneself.
+
+
+6.5. Emotional Breakthrough
+
+The occurrence of so-called “emotional breakthroughs” during psychedelic experiences has
+been found to strongly predict improvements in psychological well-being and is generally correlated
+with beneficial clinical outcomes [22,161-163]. These breakthroughs, whose conceptualisation is
+similar to the psychoanalytic notion of catharsis [163,164], are facilitated by intensification of and
+increased access to (conscious or unconscious) emotions and cognitions, which may be enabled by
+the effects of a (psychedelic) drug or other mind-manifesting methods such as breathwork or
+floatation-REST [41,116,165,166]. In a supportive therapeutic setting, this increased access and
+amplification of emotions can facilitate emotional breakthroughs, leading to feelings of resolution,
+relief, and insight [163]. The Emotional Breakthrough Inventory (EBI) was recently validated as a tool
+to measure these aspects of psychedelic experiences and has been shown to predicts changes in wellbeing after psychedelic use [163].
+
+
+6.6. Insight
+
+“Insight” can be brought on by experiences of unity, ego dissolution, emotional breakthroughs,
+reliving of autobiographical memories, or perspective shifts, but also occur independently. Insight is
+generally considered a highly essential mechanism of core change in almost any psychotherapy
+[3,28,167]. In the context of therapeutic psychedelic experiences, insight encompasses a profound
+realization that may involve gaining a deeper understanding of one’s own (possibly dysfunctional)
+thoughts, emotions, behaviours, personal histories or current life circumstances [168], like for
+example the root causes or maintaining factors of a patient’s issues or disorders [3,169]. Additionally,
+insights may extend beyond the personal realm to encompass deep metaphysical understandings of
+fundamental truths about the nature of reality and the constructed sense of self [26].
+In the context of psychedelic experiences, insight has been characterized by its intuitive (rather
+than intellectual/rational) nature, with individuals experiencing sudden breakthroughs in
+understanding accompanied by feelings of certainty and positive affect [170]. This understanding
+aligns with Stace’s notion of “the noetic quality” (from the Greek word “noesis”, which means “inner
+wisdom” or “intuitive understanding”) [171]. These insights are frequently cited as fundamentally
+important to enduring positive outcomes in therapy, mediating improvements in e.g., well-being,
+psychological flexibility, depression, anxiety, and substance use [84]. Insight in psychedelic-assisted
+therapy is equated with a restructuring of existing patterns of cognitive schemas and beliefs into
+novel understandings of past experiences or the self [26], for example renewed beliefs in one’s own
+self-efficacy and worth, or one’s ability to stay abstinent, and a stronger sense of connection with
+oneself and the world [36,84,172,173].
+The Psychological Insights Questionnaire (PIQ) was developed to measure participants’
+experiences of sudden understanding into their memories, emotions, relationships, behaviours, or
+beliefs that may occur subsequent to the ingestion of psychedelics [174,175]. It has been observed that
+insight effects predicted self-reported reductions in depression and anxiety, as well as changes in
+well-being even when controlling for the occurrence of mystical experiences [47,63,84,176].
+
+[PAGE 013]
+
+doi:10.20944/preprints202407.2400.v1
+
+
+12
+
+
+6.7. Perspective Shift
+
+Psychopathology is, among other things, characterized by patients’ restricted ego-centric
+perspective which is exemplified in the act of ruminating or common feelings of despair and
+hopelessness in depression. A perspective change as enabled by consciousness-altering substances or
+methods provides the patient not only with a temporarily altered view on their own “self”, but also
+a new and different space to look for solutions and more functional ways of dealing with their
+problems [3,21,22,86]. As mentioned previously, an embodied emotional recollection of a psychedelic
+experience may stimulate people to “un-self”, i.e., to transcend biased or limiting perceptions of their
+self in their daily life which may fuel gradual change and healing [177].
+Notable with regards to mystical experiences is that particularly the shift to the experience of
+unity/interconnectedness with the world and with others and away from ego-centric identification
+have been hypothesized to account for the therapeutic effects of psychedelics across various disorders
+[3,14]. Another example is ketamine, for which reduced self-referential awareness in the dissociative
+experience is stressed as a factor enabling severely depressed patients to engage in therapy more
+meaningfully as they are afforded a “break” from their ordinary ruminating mind, suicidal thoughts,
+negativity, and hopelessness [14,21] . As Hanna et al. [28] suggest, gaining an overarching perspective
+by simply stepping back and detaching from the context of a problem can itself facilitate more
+effective coping.
+Furthermore, the widening of a self-centred point of view is often paralleled by a sense of
+connectedness and peace, and associated with increased empathy and better relationships [178]. The
+shift in perspective fosters greater connectedness not only with oneself, but also a different way of
+relating to people, the external world, and life [49,125,135,137,173], counteracting feelings of
+disconnection and isolation commonly associated with depression (Breeksema et al., 2023).
+
+
+6.8. Acceptance
+
+The shift from avoidance to a state of acceptance, openness, and surrender is a process that is
+seen as central in psychedelic treatments [179] and also for example in meditative practice [168,179182]. It has been linked to the occurrence of mystical experiences under psilocybin [159] and is also a
+key aspect of mindfulness [49]. More generally, by adopting an accepting and compassionate
+perspective towards the world and oneself, people might be better equipped to handle life’s
+challenges without resorting to avoidance behaviours [183].
+Patients undergoing psychedelic therapy for a variety of conditions have identified broadened
+emotional spectrum and heightened emotional experiences as characteristic of the psychedelic state
+and also found them therapeutically significant [%[36,135,184,185]. These intense emotional
+experiences might initially involve confrontation with difficult or painful emotions, however the
+acceptance of them can ultimately lead to a feelings of catharsis and release, even joy, bliss, or
+profound forgiveness and love [85].
+In addition, Thal et al. [3] highlight that substance-induced dissociation from conditioned roles
+and habits may foster acceptance of oneself, which has also been reported by participants of e.g.,
+ayahuasca [186] or breathwork [104] sessions. Acceptance can also target aspects of one’s life, such as
+terminal illness [187] or aspects of one’s biography that were previously avoided [85]. Shifts from
+experiential avoidance to acceptance may again be facilitated by the relaxation of higher-level beliefs
+that would result in avoidance of e.g., certain emotions or memories [3], as described above for
+metaphysical and self-related beliefs.
+Moreover, avoidance sensitivity, meaning the tendency to avoid aversive aspects of psychedelic
+experiences, can exacerbate potential adverse responses in the acute psychedelic state, while
+embracing these experiences can lead to more positive outcomes: Participants have reported that
+reducing resistance and embracing the experience during sessions with substances like esketamine
+led to calmer, smoother, and more pleasant experiences, contributing to a positive affect post-session.
+“Letting go” was not only necessary for the experience to unfold positively but was considered to be
+a very meaningful and even key therapeutic aspect of their experience [60].
+
+[PAGE 014]
+
+doi:10.20944/preprints202407.2400.v1
+
+
+13
+
+
+6.9. Re-Experiencing and Reconsolidation of Memories
+
+Re-experiencing and reconsolidation of memories are hypothesised to play a crucial role in the
+therapeutic efficacy of psychedelic-assisted therapy [2,3,188]. Psychedelic-induced states, as well as
+experiences during breathwork and meditation, often involve emotional recollections and reflections
+on significant life events and relationships, ranging from past transgressions and unresolved traumas
+[189] to memories providing insights into one’s own ways of being and behaviour [1]. This process
+thus often also involves mindfulness, where patients first become aware of unconscious thoughts and
+emotions and are furthermore enabled to evaluate them open-mindedly. Due to their empathogenic
+effects, substances such as for example MDMA allow patients to revisit and re-process traumatic
+memories without experiencing overwhelming emotional discomfort, judgement, or retraumatisation [3,190], facilitating increased feelings of acceptance and resolution. For instance, a key
+symptom of PTSD is the occurrence of involuntary memory intrusions associated with the traumatic
+event. Through the process of memory reconsolidation, previously frightening stimuli lose their
+threat association and become reintegrated in a less problematic way [3]. This process is akin to
+exposure therapy for PTSD, where therapeutic change is a result of new emotional responses to
+initially very distressing memories becoming integrated [191]. The metaphor of the “helioscope” has
+been proposed to explain how psychedelics may help a patient choose and process traumatic
+memories without being severely overwhelmed by their emotional charge [192].
+It might be worth noting that the positive effects of these recollections are not necessarily
+dependent on the factual accuracy of the memories themselves but rather on the release and reassessment of trauma-related emotions [190]. Additionally, the potentially ineffable nature of these
+memories in the context of a mystical experience does not seem to diminish their therapeutic impact
+or perceived meaningfulness [184].
+
+
+6.10. Challenging Experiences
+
+It is worth discussing that certain experiences occurring within psychedelic states may be
+challenging and acutely unpleasant to the individual, such as ego dissolution or the re-experience of
+traumatic memories. For instance, in one survey, about one-third of participants rated their mystical
+experience among the top five most psychologically challenging experiences they had ever faced
+[193]. The frequently used and validated Challenging Experience Questionnaire (CEQ) is a self-report
+tool designed to measure the intensity and nature of challenging experiences encountered during
+psychedelic sessions. It encompasses seven key domains: fear, grief, physical distress, insanity,
+isolation/alienation, death, and paranoia [194]. The CEQ is particularly sensitive to difficult
+psychedelic experiences, and it has been found to indicate that the intensity of such experiences is
+indeed predictive of positive long-term outcomes (e.g., higher scores tended to be accompanied by
+higher degrees of mystical experience and psychological insight), while prolonged struggle may
+predict negative outcomes [25,194,195]. The subscales of the “Dread of Ego Dissolution” dimension
+within the 11D-ASC questionnaire measure these negative aspects of altered states, namely anxiety
+and impaired cognition and control [196].
+In lay circles, instances of adverse experiences are frequently termed “bad trips”; it should
+however be kept in mind that challenging experiences are usually transient and can be inherently
+and exceedingly valuable to therapeutic progress. Intense emotions such as anxiety, confusion, grief,
+anger, or distress can be unpleasant aspects of psychedelic experiences. However, it is not surprising
+that a profound restructuring of the self, way of being, or way of perceiving and coping with the
+world or life events (resembling perhaps the ultimate goals of psychedelic therapy) can involve
+intense turmoil, stress, and internal conflicts before the significant change occurs (Hanna, 1995).
+Such episodes of difficult self-experiences, whilst initially upsetting, are sometimes seen as
+essential for emotional breakthroughs and insights [134], and do align with, for example,
+psychoanalytic theories that emphasize the need to overcome psychological resistance for therapeutic
+progress [164] and the humanistic notion that coming face to face with a problem is necessary to
+transcend it [28]. Similarly, in modern exposure therapy, which shares parallels with confrontational
+aspects of psychedelic experiences in its working mechanisms, braving discomfort plays a crucial role
+
+[PAGE 015]
+
+14
+
+
+in emotional processing and subsequent symptom reduction [197]. Accordingly, challenging
+experiences in psychedelic therapy can enable individuals to confront, process, and integrate
+significant (and sometimes unconscious) memories and emotions, ultimately generating new helpful
+perspectives, coping mechanisms, and self-awareness [1]. The deliberate/intentional and controlled
+induction of discomfort or stress, as it happens also for example in breathwork sessions, can reduce
+long-term anxiety through gradual adaptation [198,199].
+Crucially, therapeutic support is vital in guiding individuals through these challenging
+moments, ensuring that transient distress leads to meaningful insights and lasting benefits and not
+further destabilisation [60], which is of importance especially in clinical populations. Proper
+preparation, monitoring, and ongoing support with integration are critical, as they help contextualize
+and ground these experiences, maximizing their therapeutic value [1,61,134,195].
+Nonetheless, the unusually vulnerable state participants are placed in during psychedelic
+experiences can lead to challenging experiences that have serious long-lasting negative effects, such
+as for example prolonged existential struggle, social disconnection, depersonalization and
+derealization, if not properly managed [200,201]. While cases in the literature might seem rare, there
+is a realistic possibility that they are overlooked or under-reported due to flawed designs, small
+sample sizes, imprecise follow-ups, or biased reporting [202]. Additionally, it is well possible that not
+all contraindications are fully understood at this time, increasing the risk of adverse reactions and
+experiences. Therefore, it is essential to take comprehensive precautions to ensure patient safety. This
+highlights the importance of a nuanced view on challenging experiences, and on ongoing harm
+reduction research to identify and mitigate risks associated with psychedelic treatments.
+
+
+7. Discussion
+
+The findings presented in this review speak to the relevance of the subjective experience to
+therapeutic outcomes, rather than being a mere a ‘side effect’ of the non-experiential, low-level
+molecular mechanisms that promote neural plasticity. While the occurrence of mystical experiences
+seems to be the strongest predictor of positive outcomes, the literature of the field yields numerous
+other psychological processes, such as insight, emotional breakthrough, acceptance, re-experiencing
+of memories, and certain aspects of challenging experiences, that are significantly associated with
+positive change.
+We have additionally discussed in detail the changes in metaphysical as well as self-related
+beliefs and their respective contributions to observed outcomes. Briefly, mystical experiences
+facilitated by psychedelic substances as well as other mindful practices are thought to be able to
+profoundly shift belief systems and thereby provide therapeutic benefits. However, these benefits
+may not solely depend on changes in metaphysical beliefs but rather on the re-evaluation of selfperception and personal narratives as well. In essence, psychedelic experiences facilitate not only
+plasticity on a pharmacological/neuronal level, but also in cognitive patterns and patterns of
+meaning. Importantly, these kinds of plasticity do not necessitate a substance to ‘reveal their mind’
+to a person, as they are not limited to pharmacologically induced altered states.
+Earlier in this review, we discussed modern forms of breathwork [91,103,203], as well as
+meditation [204], and sensory deprivation [116,117] as non-pharmacological modalities to induce
+states that accurately might be described as ‘psychedelic’ in the original sense of its meaning.
+Although investigations into their therapeutic efficacy and distinct neurophysiological correlates are
+partly limited to date, existing findings offer sufficient insights to infer their change-driving
+mechanisms. Importantly, some of them overlap considerably with the subjective states of
+pharmacologically induced altered states that are more readily and commonly considered
+‘psychedelic’. For example, among proposed therapeutic mechanisms of breathwork are reexperiencing of significant memories, emotional breakthrough, insight, change of beliefs, and
+mystical experience [101-103,165,205]. Similarly, meditation has recently been investigated for its
+potential to induce mystical experiences [204,206-208]. This additionally supports the notion that
+therapeutic processes tied to subjective and ‘psychedelic’ experiences that exist across various
+modalities (and beyond substances) and are fundamental in facilitating positive therapeutic change.
+
+[PAGE 016]
+
+15
+
+
+A purely neurochemical/pharmacological approach thus seems reductionist when asked to account
+for the therapeutic potential of these extra-ordinary states.
+
+
+7.1. Implications for Research
+
+Incidentally, the initial question of whether the acute subjective experience is essential for the
+therapeutic effects of psychedelic therapy at all effectively invites a discussion of much broader
+philosophical fundamental principles in psychology, specifically concerning our understanding of
+psychopathology and what constitutes psychotherapy. This discourse hints at a potential paradigm
+shift away from a traditional medical model towards a more humanistic and experience-focused
+approach to understanding mental pathology and treatment, which is very relevant to our
+understanding of how therapy in altered states of consciousness may work therapeutically.
+Historically, the medical model has dominated the field of mental health, viewing mental disorders
+primarily as biological diseases to be treated with medication or other medical interventions. This
+approach somewhat mirrors the psychoplastogen model of psychedelics, as it solely emphasizes the
+therapeutic neurobiological effects of these substances as a novel kind of pharmacotherapy.
+However, our psychological and psychopathological realities as sentient humans are shaped most of
+all by our subjective perspective and perception. In the field of medicine, a physician might identify
+a patient’s condition based on symptoms and provides appropriate treatment aimed at curing the
+illness. Similarly, proponents of the medical model in psychotherapy assert that therapists diagnose
+patients using a similar symptom-based approach and consequently apply treatments aimed at
+alleviating their psychological distress. This perspective arguably overlooks the fundamental nature
+of psychotherapy as an inter- and intrapersonal process, distinct from medical practice and pure
+technical intervention [209]. The emphasis instead lies on improvement on account of the therapeutic
+relationship and psychological exploration that provides solutions and new perspectives, rather than
+being a mere medical-pharmacological intervention [67]. Psychological problems are situated in the
+context of life as it is experienced by a person, and most often in relation to others. From an existentialphenomenological perspective, disorders are not as much diseases as they are alterations of beingin-the-world that are experienced as distressing or impairing [209].
+Psychotherapy should aim to acknowledge the complexity of human psychology and the
+interconnectedness of biological, psychological, and social factors in shaping mental well-being.
+Therefore, instead of trying to rigidly separate therapeutic efficacy of psychedelic therapy into
+subjective versus neurobiological components or argue away either of them, it seems much more
+reasonable to acknowledge their interdependence. There is no subjective experience without
+neurological underpinnings, and likewise neurophysiological changes typically have mental
+consequences. Taking a holistic view of individual patients as experiencing beings rather than
+objectified “broken machinery” necessitates integrating psychological mechanisms of change, and
+therefore subjective experiences, into our understanding of mental health treatment, and especially
+into psychedelic therapy. As long as we label clinical interventions involving the administration of
+psychedelic substances as “psychedelic-assisted psychotherapy” (and not just “substance-assisted
+therapy”), the importance of the subjective experience (that is, in addition, so clearly contextdependent) in the meaning-making therapeutic process seems undisputable.
+On this note, the accuracy of the term “psychedelic-assisted psychotherapy” has also been called
+into question, since at least in case of therapy sessions involving the administration of high doses of
+psychedelics, the experience itself is, in fact, the main constituent of the therapy. Therapists supervise
+these drug sessions primarily for safety reasons rather than for therapeutic efficacy. For example,
+with high doses of psilocybin or LSD, there is typically no “psychotherapy” that might be assisted by
+the drug, because the acute psychedelic state makes interactions of conventional psychotherapy
+largely impossible [210]. In contrast, MDMA-assisted therapy, for example, involves a therapeutic
+relationship process that is augmented by a pharmacological agent that alters consciousness. The
+medication serves as a catalyst within the treatment process rather than constituting the treatment
+itself, making it, again, more than purely a medical-pharmacological treatment. We might therefore
+need to make a more explicit and nuanced difference between “psychedelic therapy” and
+
+[PAGE 017]
+
+16
+
+
+“psychedelic-assisted therapy”, depending on whether (a) the subjective transcendent experience of
+a drastically altered state constitutes the therapy (by changing self-views, world-views, meaning,
+increasing insight and acceptance etc.) or (b) a slightly altered state (such as with moderate doses of
+a drug, or specific breathing patterns) supports a more regular psychotherapeutic intervention. In
+both cases however, psychological mechanisms within the subjective experience of the patient play
+an undeniably essential role for therapeutic success [22,84].
+Consequently, while pharmacological agents such as psychedelics surely provide a neurological
+foundation conducive to healing, the accompanying psychological processes remain crucial for
+achieving lasting therapeutic outcomes. For example, disorders rooted in irrational core beliefs,
+which are deeply embedded within the individual’s cognitive framework, certainly require more
+than just pharmacological intervention for meaningful change. These beliefs, foundational to a
+person’s worldview, are not easily altered by chemical agents alone and necessitate a comprehensive
+psychological integration process. It must be noted that this transformation can be lengthy, requiring
+shifts in viewpoints that eventually lead to changes in behaviour. We do no argue that psychological
+experiences during psychedelic therapy or experiences are always singular solutions, but rather that
+they can act as eye-openers that challenge limited beliefs and ordinary perspectives manifested by or
+in psychopathology. At the same time, while psychedelic states may be able to facilitate significant
+insights and breakthroughs, not all psychological/psychiatric disorders can be resolved solely
+through these means either. Neurochemical imbalances and aberrant neural circuitry are frequently
+implicated in various psychiatric conditions, and they do offer potential targets for pharmacological
+interventions.
+In essence, the debate around subjective experience in substance-assisted (psycho)therapy
+highlights the necessity of a more nuanced, multi-level, interdisciplinary approach that bridges
+pharmacological and psychological interventions to truly understand how therapeutic change is
+sustainably achieved. As Garcia-Romeu and Richards [1] have stated: “we propose this paradigm
+serves as an invitation for psychiatry overall to return to a more holistic, humanistic-existential, or
+biopsychosocial framing of the person and his/her issues as a whole within a larger social matrix and
+fabric of meaning, as opposed to approaches that reduce the person to mere neurochemistry,
+symptoms, and disorders”.
+
+
+8. Conclusion
+
+This narrative review has emphasized the positive changes facilitated through psychedelic
+altered states of consciousness rather than psychedelic substances alone. In addition to
+pharmacological approaches, exploring non-pharmacological methods to harness the potential of
+psychedelic-like effects for therapeutic and self-realization purposes seems worthwhile and could
+expand the available repertoire of interventions.
+The findings, moreover, suggest that a purely medical and neurobiological perspective on
+psychological health is too limited and should not overshadow the significance of phenomenological
+experiences in understanding and treating psychological issues that manifest in subjective realities
+of human individuals. This is particularly relevant for therapies that utilize psychedelic states, as the
+psychological processes inherent to the subjective experience of those states show clear associations
+with subsequent positive change. An integrative model is needed to account for the interdependence
+of psychological and pharmacological dimensions that shape psychopathology and mental health
+treatment.
+
+
+Author Contributions: Conceptualization, R.W.; writing—original draft preparation, R.W.; writing—review
+and editing, H.S.; supervision, H.S. All authors have read and agreed to the published version of the manuscript.
+
+Funding: This research received no external funding.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
+
+[PAGE 018]
+
+17
+
+
+References
+1. Garcia-Romeu, A.; Richards, W.A. Current Perspectives on Psychedelic Therapy: Use of Serotonergic
+Hallucinogens in Clinical Interventions. Int. Rev. Psychiatry 2018, 30, 291-316,
+doi:10.1080/09540261.2018.1486289.
+Heifets, B.D.; Olson, D.E. Therapeutic Mechanisms of Psychedelics and Entactogens.
+Neuropsychopharmacology 2024, 49, 104-118, doi:10.1038/s41386-023-01666-5.
+Thal, S.B.; Bright, S.J.; Sharbanee, J.M.; Wenge, T.; Skeffington, P.M. Current Perspective on the Therapeutic
+Preset for Substance-Assisted Psychotherapy. Front. Psychol. 2021, 12, doi:10.3389/fpsyg.2021.617224.
+Andersen, K.A.A.; Carhart-Harris, R.; Nutt, D.J.; Erritzoe, D. Therapeutic Effects of Classic Serotonergic
+Psychedelics: A Systematic Review of Modern-era Clinical Studies. Acta Psychiatr. Scand. 2021, 143, 101-
+118, doi:10.1111/acps.13249.
+Cameron, L.P.; Patel, S.D.; Vargas, M.V.; Barragan, E.V.; Saeger, H.N.; Warren, H.T.; Chow, W.L.; Gray,
+J.A.; Olson, D.E. 5-HT2ARs Mediate Therapeutic Behavioral Effects of Psychedelic Tryptamines. ACS Chem.
+Neurosci. 2023, 14, 351-358, doi:10.1021/acschemneuro.2c00718.
+Carhart-Harris, R.; Giribaldi, B.; Watts, R.; Baker-Jones, M.; Murphy-Beiner, A.; Murphy, R.; Martell, J.;
+Blemings, A.; Erritzoe, D.; Nutt, D.J. Trial of Psilocybin versus Escitalopram for Depression. N. Engl. J. Med.
+2021, 384, 1402-1411, doi:10.1056/NEJMoa2032994.
+Carhart-Harris, R.L.; Roseman, L.; Bolstridge, M.; Demetriou, L.; Pannekoek, J.N.; Wall, M.B.; Tanner, M.;
+Kaelen, M.; McGonigle, J.; Murphy, K.; et al. Psilocybin for Treatment-Resistant Depression: fMRI-
+Measured Brain Mechanisms. Sci. Rep. 2017, 7, doi:10.1038/s41598-017-13282-7.
+Davis, A.K.; Barrett, F.S.; May, D.G.; Cosimano, M.P.; Sepeda, N.D.; Johnson, M.W.; Finan, P.H.; Griffiths,
+R.R. Effects of Psilocybin-Assisted Therapy on Major Depressive Disorder: A Randomized Clinical Trial.
+JAMA Psychiatry 2021, 78, 481, doi:10.1001/jamapsychiatry.2020.3285.
+Galvao-Coelho, N.L.; Marx, W.; Gonzalez, M.; Sinclair, J.; De Manincor, M.; Perkins, D.; Sarris, J. Classic
+Serotonergic Psychedelics for Mood and Depressive Symptoms: A Meta-Analysis of Mood Disorder
+Patients and Healthy Participants. Psychopharmacology (Berl.) 2021, 238, 341-354, doi:10.1007/s00213-020-
+05719-1.
+10. Ko, K.; Kopra, E.L; Cleare, A.J.; Rucker, J.J. Psychedelic Therapy for Depressive Symptoms: A Systematic
+Review and Meta-Analysis. J. Affect. Disord. 2023, 322, 194-204, doi:10.1016/j.jad.2022.09.168.
+11. Romeo, B.; Karila, L.; Martelli, C.; Benyamina, A. Efficacy of Psychedelic Treatments on Depressive
+Symptoms: A Meta-Analysis. J. Psychopharmacol. (Oxf.) 2020, 34, 1079-1085, doi:10.1177/0269881120919957.
+12. Von Rotz, R.; Schindowski, E.M.; Jungwirth, J.; Schuldt, A.; Rieser, N.M.; Zahoranszky, K.; Seifritz, E.;
+Nowak, A.; Nowak, P.; Jancke, L.; et al. Single-Dose Psilocybin-Assisted Therapy in Major Depressive
+Disorder: A Placebo-Controlled, Double-Blind, Randomised Clinical Trial. eClinicalMedicine 2023, 56,
+doi:10.1016/j.eclinm.2022.101809.
+13. Van Der Meer, P.B.; Fuentes, J.J.; Kaptein, A.A.; Schoones, J.W.; De Waal, M.M.; Goudriaan, A.E.; Kramers,
+K.; Schellekens, A.; Somers, M.; Bossong, M.G.; et al. Therapeutic Effect of Psilocybin in Addiction: A
+Systematic Review. Front. Psychiatry 2023, 14, doi:10.3389/fpsyt.2023.1134454.
+14. Joneborg, I.; Lee, Y.; Di, J.D.; Ceban, F.; Meshkat, S.; Lui, L.M.; Fancy, F.; Rosenblat, J.D.; Mcintyre, R.S.
+Active Mechanisms of Ketamine-Assisted Psychotherapy: A Systematic Review. J. Affect. Disord. 2022, 315,
+105-112, doi:10.1016/j.jad.2022.07.030.
+15. Agin-Liebes, G.; Haas, T.F.; Lancelotta, R.; Uthaug, M.V.; Ramaekers, J.G.; Davis, A.K. Naturalistic Use of
+Mescaline Is Associated with Self-Reported Psychiatric Improvements and Enduring Positive Life
+Changes. ACS Pharmacol. Transl. Sci. 2021, 4, 543-552, doi:10.1021/acsptsci.1c00018.
+16. Agin-Liebes, G.; Zeifman, R.; Luoma, J.B.; Garland, E.L.; Campbell, W.K.; Weiss, B. Prospective
+Examination of the Therapeutic Role of Psychological Flexibility and Cognitive Reappraisal in the
+Ceremonial Use of Ayahuasca. J. Psychopharmacol. (Oxf.) 2022, 36, 295-308, doi:10.1177/02698811221080165.
+17. Palhano-Fontes, F.; Barreto, D.; Onias, H.; Andrade, K.C.; Novaes, M.M.; Pessoa, J.A.; Mota-Rolim, S.A.;
+Osorio, F.L.; Sanches, R.; Dos Santos, R.G.; et al. Rapid Antidepressant Effects of the Psychedelic Ayahuasca
+in Treatment-Resistant Depression: A Randomized Placebo-Controlled Trial. Psychol. Med. 2019, 49, 655—
+663, doi:10.1017/S0033291718001356.
+18. Uthaug, M.V.; Van Oorsouw, K.; Kuypers, K.P.C.; Van Boxtel, M.; Broers, N.J.; Mason, N.L.; Toennes, S.W.;
+Riba, J.; Ramaekers, J.G. Sub-Acute and Long-Term Effects of Ayahuasca on Affect and Cognitive Thinking
+Style and Their Association with Ego Dissolution. Psychopharmacology (Berl.) 2018, 235, 2979-2989,
+doi:10.1007/s00213-018-4988-3.
+19. Uthaug, M.V.; Davis, A.K.; Haas, T.F.; Davis, D.; Dolan, S.B.; Lancelotta, R.; Timmermann, C.; Ramaekers,
+J.G. The Epidemiology of Mescaline Use: Pattern of Use, Motivations for Consumption, and Perceived
+Consequences, Benefits, and Acute and Enduring Subjective Effects. J. Psychopharmacol. (Oxf.) 2022, 36, 309-
+320, doi:10.1177/02698811211013583.
+
+[PAGE 019]
+
+doi:10.20944/preprints202407.2400.v1
+
+
+18
+
+
+20. Van Oorsouw, K.; Toennes, S.W.; Ramaekers, J.G. Therapeutic Effect of an Ayahuasca Analogue in
+Clinically Depressed Patients: A Longitudinal Observational Study. Psychopharmacology (Berl.) 2022, 239,
+1839-1852, doi:10.1007/s00213-021-06046-9.
+21. Breeksema, J.J.; Niemeijer, A.; Kuin, B.; Veraart, J.; Vermetten, E.; Kamphuis, J.; Brink, W.V.D.; Schoevers,
+R. Phenomenology and Therapeutic Potential of Patient Experiences during Oral Esketamine Treatment
+for Treatment-Resistant Depression: An Interpretative Phenomenological Study. Psychopharmacology (Berl.)
+2023, 240, 1547-1560, doi:10.1007/s00213-023-06388-6.
+22. Van Elk, M.; Yaden, D.B. Pharmacological, Neural, and Psychological Mechanisms Underlying
+Psychedelics: A Critical Review. Neurosci. Biobehav. Rev. 2022, 140, doi:10.1016/j.neubiorev.2022.104793.
+23. Moreton, S.G.; Szalla, L.; Menzies, R.E.; Arena, A.F. Embedding Existential Psychology within Psychedelic
+Science: Reduced Death Anxiety as a Mediator of the Therapeutic Effects of Psychedelics.
+Psychopharmacology (Berl.) 2020, 237, 21-32, doi:10.1007/s00213-019-05391-0.
+24. Nikolaidis, A.; Lancelotta, R.; Gukasyan, N.; Griffiths, R.R.; Barrett, F.S.; Davis, A.K. Subtypes of the
+Psychedelic Experience Have Reproducible and Predictable Effects on Depression and Anxiety Symptoms.
+J. Affect. Disord. 2022, 324, 239-249, doi:10.1016/j.jad.2022.12.042.
+25. Roseman, L.; Nutt, D.J.; Carhart-Harris, R.L. Quality of Acute Psychedelic Experience Predicts Therapeutic
+Efficacy of Psilocybin for Treatment-Resistant Depression. Front. Pharmacol. 2018, 8, 974,
+doi:10.3389/fphar.2017.00974.
+26. Tulver, K.; Kaup, K.K.; Laukkonen, R.; Aru, J. Restructuring Insight: An Integrative Review of Insight in
+Problem-Solving, Meditation, Psychotherapy, Delusions and Psychedelics. Conscious. Cogn. 2023, 110,
+doi:10.1016/j.concog.2023.103494.
+27. MacLean, K.A.; Johnson, M.W.; Griffiths, R.R. Mystical Experiences Ooccasioned by the Hallucinogen
+Psilocybin Lead to Increases in the Personality Domain of Openness. J. Psychopharmacol. (Oxf.) 2011, 25,
+doi:10.1177/0269881111420188.
+28. Hanna, F.J.; Giordano, F.; Dupuy, P.; Puhakka, K. Agency and Transcendence: The Experience of
+Therapeutic Change. Humanist. Psychol. 1995, 23, 139-160, doi:10.1080/08873267.1995.9986822.
+29. Schenberg, E.E. Psychedelic-Assisted Psychotherapy: A Paradigm Shift in Psychiatric Research and
+Development. Front. Pharmacol. 2018, 9, doi:10.3389/fphar.2018.00733.
+30. Brodie, B.B.; Shore, P.A. A Concept For a Role of Serotonin and Norepinephrine as Chemical Mediators in
+the Brain. Ann. N. Y. Acad. Sci. 1957, 66, 631-642, doi:10.1111/j.1749-6632.1957.tb40753.x.
+31. Woolley, D.W.; Shaw, E. Some Neurophysiological Aspects of Serotonin. Br. Med. J. 1954, 2, 122-126,
+doi:10.1136/bmj.2.4880.122.
+32. Johnson, M.W.; Hendricks, P.S.; Barrett, F.S.; Griffiths, R.R. Classic Psychedelics: An Integrative Review of
+Epidemiology, Therapeutics, Mystical Experience, and Brain Network Function. Pharmacol. Ther. 2019, 197,
+83-102, doi:10.1016/j.pharmthera.2018.11.010.
+33. De Vos, C.M.H.; Mason, N.L.; Kuypers, K.P.C. Psychedelics and Neuroplasticity: A Systematic Review
+Unraveling the Biological Underpinnings of Psychedelics. Front. Psychiatry 2021, 12,
+doi:10.3389/fpsyt.2021.724606.
+34. Jaster, A.M.; González-Maeso, J. Mechanisms and Molecular Targets Surrounding the Potential
+Therapeutic Effects of Psychedelics. Mol. Psychiatry 2023, 28, 3595-3612, doi:10.1038/s41380-023-02274-x.
+35. Brunoni, A.R.; Lopes, M.; Fregni, F. A Systematic Review and Meta-Analysis of Clinical Studies on Major
+Depression and BDNF Levels: Implications for the Role of Neuroplasticity in Depression. Int. J.
+Neuropsychopharmacol. 2008, 11, 1169-1180, doi:10.1017/S1461145708009309.
+36. Belser, A.B.; Agin-Liebes, G.; Swift, T.C.; Terrana, S.; Devenot, N.; Friedman, H.L.; Guss, J.; Bossis, A.; Ross,
+S. Patient Experiences of Psilocybin-Assisted Psychotherapy: An Interpretative Phenomenological
+Analysis. J. Humanist. Psychol. 2017, 57, 354-388, doi:10.1177/0022167817706884.
+37. Barrett, F.S.; Griffiths, R.R. Classic Hallucinogens and Mystical Experiences: Phenomenology and Neural
+Correlates. In Behavioral Neurobiology of Psychedelic Drugs; Halberstadt, A.L., Vollenweider, F.X., Nichols,
+D.E., Eds.; Current Topics in Behavioral Neurosciences; Springer Berlin Heidelberg: Berlin, Heidelberg,
+2017; Vol. 36, pp. 393-430 ISBN 978-3-662-55878-2.
+38. Carhart-Harris, R.L.; Kaelen, M.; Whalley, M.G.; Bolstridge, M.; Feilding, A.; Nutt, D.J. LSD Enhances
+Suggestibility in Healthy Volunteers. Psychopharmacology (Berl.) 2015, 232, 785-794, doi:10.1007/s00213-014-
+3714-z.
+39. Preller, K.H.; Herdener, M.; Pokorny, T.; Planzer, A.; Kraehenmann, R.; Stämpfli, P.; Liechti, M.E.; Seifritz,
+E.; Vollenweider, F.X. The Fabric of Meaning and Subjective Effects in LSD-Induced States Depend on
+Serotonin 2A Receptor Activation. Curr. Biol. 2017, 27, 451-457, doi:10.1016/j.cub.2016.12.030.
+40. Winkelman, M.J. The Mechanisms of Psychedelic Visionary Experiences: Hypotheses from Evolutionary
+Psychology. Front. Neurosci. 2017, 11, doi:10.3389/fnins.2017.00539.
+41. Swanson, L.R. Unifying Theories of Psychedelic Drug Effects. Front. Pharmacol. 2018, 9,
+doi:10.3389/fphar.2018.00172.
+
+[PAGE 020]
+
+doi:10.20944/preprints202407.2400.v1
+
+
+19
+
+
+42. Raison, C.L.; Sanacora, G.; Woolley, J.; Heinzerling, K.; Dunlop, B.W.; Brown, R.T.; Kakar, R.; Hassman, M.;
+Trivedi, R.P.; Robison, R.; et al. Single-Dose Psilocybin Treatment for Major Depressive Disorder: A
+Randomized Clinical Trial. JAMA 2023, 330, 843-853, doi:10.1001/jama.2023.14530.
+43. Davis, A.K.; So, S.; Lancelotta, R.; Barsuglia, J.P.; Griffiths, R.R. 5-Methoxy- N,N -Dimethyltryptamine (5-
+MeO-DMT) Used in a Naturalistic Group Setting Is Associated with Unintended Improvements in
+Depression and Anxiety. Am. J. Drug Alcohol Abuse 2019, 45, 161-169, doi:10.1080/00952990.2018.1545024.
+44. Griffiths, R.R.; Johnson, M.W.; Carducci, M.A.; Umbricht, A.; Richards, W.A.; Richards, B.D.; Cosimano,
+M.P.; Klinedinst, M.A. Psilocybin Produces Substantial and Sustained Decreases in Depression and Anxiety
+in Patients with Life-Threatening Cancer: A Randomized Double-Blind Trial. J. Psychopharmacol. (Oxf.)
+2016, 30, 1181-1197, doi:10.1177/0269881116675513.
+45. Moreton, S.G.; Arena, A.F.A.; Foy, Y.; Menzies, R.E. Reduced Death Anxiety as a Mediator of the
+Relationship between Acute Subjective Effects of Psychedelics and Improved Subjective Well-Being. Death
+Stud. 2023, 47, 1115-1126, doi:10.1080/07481187.2023.2169848.
+46. Garcia-Romeu, A.; Davis, A.K.; Erowid, F.; Erowid, E.; Griffiths, R.R.; Johnson, M.W. Cessation and
+Reduction in Alcohol Consumption and Misuse after Psychedelic Use. J. Psychopharmacol. (Oxf.) 2019, 33,
+1088-1101, doi:10.1177/0269881119845793.
+47. Davis, A.K.; Xin, Y.; Sepeda, N.D.; Garcia-Romeu, A.; Williams, M.T. Increases in Psychological Flexibility
+Mediate Relationship Between Acute Psychedelic Effects and Decreases in Racial Trauma Symptoms
+Among People of Color. Chronic Stress 2021, 5, doi:10.1177/24705470211035607.
+48. Doss, M.K.; Povazan, M.; Rosenberg, M.D.; Sepeda, N.D.; Davis, A.K.; Finan, P.H.; Smith, G.S.; Pekar, J.J.;
+Barker, P.B.; Griffiths, R.R.; et al. Psilocybin Therapy Increases Cognitive and Neural Flexibility in Patients
+with Major Depressive Disorder. Transl. Psychiatry 2021, 11, doi:10.1038/s41398-021-01706-y.
+49. Gandy, S. Predictors and Potentiators of Psychedelicoccasioned Mystical Experiences. J. Psychedelic Stud.
+2022, 6, 31-47, doi:10.1556/2054.2022.00198.
+50. Griffiths, R.; Richards, W.; Johnson, M.; McCann, U.; Jesse, R. Mystical-Type Experiences Occasioned by
+Psilocybin Mediate the Attribution of Personal Meaning and Spiritual Significance 14 Months Later. J.
+Psychopharmacol. (Oxf.) 2008, 22, 621-632, doi:10.1177/0269881108094300.
+51. Griffiths, R.R.; Johnson, M.W.; Richards, W.A.; Richards, B.D.; Jesse, R.; MacLean, K.A.; Barrett, F.S.;
+Cosimano, M.P.; Klinedinst, M.A. Psilocybin-Occasioned Mystical-Type Experience in Combination with
+Meditation and Other Spiritual Practices Produces Enduring Positive Changes in Psychological
+Functioning and in Trait Measures of Prosocial Attitudes and Behaviors. J. Psychopharmacol. (Oxf.) 2018, 32,
+49-69, doi:10.1177/0269881117731279.
+52. Yazar-Klosinski, B.B.; Mithoefer, M.C. Potential Psychiatric Uses for MDMA. Clin. Pharmacol. Ther. 2016,
+101, doi:10.1002/cpt.565.
+53. Barksdale, B.R.; Doss, M.K.; Fonzo, G.A.; Nemeroff, C.B. The Mechanistic Divide in Psychedelic
+Neuroscience: An Unbridgeable Gap? Neurotherapeutics 2024, 21, doi:10.1016/j.neurot.2024.e00322.
+54. Gorman, I.; Belser, A.B.; Jerome, L.; Hennigan, C.; Shechet, B.; Hamilton, S.; Yazar-Klosinski, B.; Emerson,
+A.; Feduccia, A.A. Posttraumatic Growth After MDMA-Assisted Psychotherapy for Posttraumatic Stress
+Disorder. J. Trauma. Stress 2020, 33, doi:10.1002/jts.22479.
+55. Wilkinson, S.T.; Rhee, T.G.; Joormann, J.; Webler, R.; Ortiz Lopez, M.; Kitay, B.; Fasula, M.; Elder, C.; Fenton,
+L.; Sanacora, G. Cognitive Behavioral Therapy to Sustain the Antidepressant Effects of Ketamine in
+Treatment-Resistant Depression: A Randomized Clinical Trial. Psychother. Psychosom. 2021, 90, 318-327,
+doi:10.1159/000517074.
+56. Earleywine, M.; Ueno, L.F.; Mian, M.N.; Altman, B.R. Cannabis-Induced Oceanic Boundlessness. J.
+Psychopharmacol. (Oxf.) 2021, 35, 841-847, doi:10.1177/0269881121997099.
+57. Earleywine, M.; Mian, M.N.; Altman, B.R.; Leo, J.A.D. Expectancies for Cannabis-Induced Emotional
+Breakthrough, Mystical Experiences and Changes in Dysfunctional Attitudes: Perceptions of the Potential
+for Cannabis-Assisted Psychotherapy for Depression. Cannabis 2022, 5, doi:10.26828/cannabis/2022.02.02.
+58. Farmer, S.; Slavin, M.N.; Loflin, M.J.E.; Luba, R.; Earleywine, M. Aversiveness and Meaningfulness of
+Uncomfortable Experiences with Edible Cannabis. J. Psychoactive Drugs 2019, 51, 413-420,
+doi:10.1080/02791072.2019.1645371.
+59. Ferrara, M.S. Peak-Experience and the Entheogenic Use of Cannabis in World Religions. J. Psychedelic Stud.
+2020, 4, 179-191, doi:10.1556/2054.2020.00122.
+60. Breeksema, J.J.; Niemeijer, A.; Kuin, B.; Veraart, J.; Kamphuis, J.; Schimmel, N.; Van Den Brink, W.;
+Vermetten, E.; Schoevers, R. Holding on or Letting Go? Patient Experiences of Control, Context, and Care
+in Oral Esketamine Treatment for Treatment-Resistant Depression: A Qualitative Study. Front. Psychiatry
+2022, 13, doi:10.3389/fpsyt.2022.948115.
+61. Aday, J.S.; Davis, A.K.; Mitzkovitz, C.M.; Bloesch, E.K.; Davoli, C.C. Predicting Reactions to Psychedelic
+Drugs: A Systematic Review of States and Traits Related to Acute Drug Effects. ACS Pharmacol. Transl. Sci.
+2021, 4, 424-435, doi:10.1021/acsptsci.1c00014.
+
+[PAGE 021]
+
+doi:10.20944/preprints202407.2400.v1
+
+
+20
+
+
+62. Kaelen, M.; Giribaldi, B.; Raine, J.; Evans, L.; Timmerman, C.; Rodriguez, N.; Roseman, L.; Feilding, A.;
+Nutt, D.; Carhart-Harris, R. The Hidden Therapist: Evidence for a Central Role of Music in Psychedelic
+Therapy. Psychopharmacology (Berl.) 2018, 235, 505-519, doi:10.1007/s00213-017-4820-5.
+63. Carhart-Harris, R.L.; Roseman, L.; Haijen, E.; Erritzoe, D.; Watts, R.; Branchi, I.; Kaelen, M. Psychedelics
+and the Essential Importance of Context. J. Psychopharmacol. (Oxf.) 2018, 32, 725-731,
+doi:10.1177/0269881118754710.
+64. Bohn, A.; Kiggen, M.H.H.; Uthaug, M.V.; Van Oorsouw, K.I.M.; Ramaekers, J.G.; Van Schie, H.T. Altered
+States of Consciousness During Ceremonial San Pedro Use. Int. J. Psychol. Relig. 2023, 33, 309-331,
+doi:10.1080/10508619.2022.2139502.
+65. Winkelman, M. Psychedelics as Medicines for Substance Abuse Rehabilitation: Evaluating Treatments with
+LSD, Peyote, Ibogaine and Ayahuasca. Curr. Drug Abuse Rev. 2015, 7, 101-116,
+doi:10.2174/1874473708666150107120011.
+66. Richards, W.A. Psychedelic Psychotherapy: Insights From 25 Years of Research. J. Humanist. Psychol. 2017,
+57, 323-337, doi:10.1177/0022167816670996.
+67. Elkins, D.N. Common Factors: What Are They and What Do They Mean for Humanistic Psychology? J.
+Humanist. Psychol. 2022, 62, 21-30, doi:10.1177/0022167819858533.
+68. Krupnick, J.L.; Sotsky, S.M.; Simmens, S.; Moyer, J.; Elkin, I.; Watkins, J.; Pilkonis, P.A. The Role of the
+Therapeutic Alliance in Psychotherapy and Pharmacotherapy Outcome: Findings in the National Institute
+of Mental Health Treatment of Depression Collaborative Research Program. J. Consult. Clin. Psychol. 1996,
+64, 532-539, doi:10.1037/0022-006X.64.3.532.
+69. Weiss, M.; Gaston, L.; Propst, A.; Wisebord, S.; Zicherman, V. The Role of the Alliance in the Pharmacologic
+Treatment of Depression. J. Clin. Psychiatry 1997, 58, 196-204, doi:10.4088/JCP.v58n0504.
+70. Maia, L.O.; Daldegan-Bueno, D.; Wießner, I.; Araujo, D.B.; Tofoli, L.F. Ayahuasca’s Therapeutic Potential:
+What We Know - and What Not. Eur. Neuropsychopharmacol. 2023, 66, 45-61,
+doi:10.1016/j.euroneuro.2022.10.008.
+71. Palhano-Fontes, F.; Soares, B.L.; Galvao-Coelho, N.L.; Arcoverde, E.; Araujo, D.B. Ayahuasca for the
+Treatment of Depression. In Disruptive Psychopharmacology; Barrett, F.S., Preller, K.H., Eds.; Current Topics
+in Behavioral Neurosciences; Springer International Publishing: Cham, 2021; Vol. 56, pp. 113-124 ISBN 978-
+3-031-12183-8.
+72. Sanches, R.F.; De Lima Osório, F.; Dos Santos, R.G.; Macedo, L.R.H.; Maia-de-Oliveira, J.P.; Wichert-Ana,
+L.; De Araujo, D.B.; Riba, J.; Crippa, J.A.S.; Hallak, J.E.C. Antidepressant Effects of a Single Dose of
+Ayahuasca in Patients With Recurrent Depression: A SPECT Study. J. Clin. Psychopharmacol. 2016, 36, 77-
+81, doi:10.1097/JCP.0000000000000436.
+73. Dos Santos, R.G.; Osório, F.L.; Crippa, J.A.S.; Riba, J.; Zuardi, A.W.; Hallak, J.E.C. Antidepressive,
+Anxiolytic, and Antiaddictive Effects of Ayahuasca, Psilocybin and Lysergic Acid Diethylamide (LSD): A
+Systematic Review of Clinical Trials Published in the Last 25 Years. Ther. Adv. Psychopharmacol. 2016, 6, 193-
+213, doi:10.1177/2045125316638008.
+74. Santos, R.G.; Landeira-Fernandez, J.; Strassman, R.J.; Motta, V.; Cruz, A.P.M. Effects of Ayahuasca on
+Psychometric Measures of Anxiety, Panic-like and Hopelessness in Santo Daime Members. J.
+Ethnopharmacol. 2007, 112, 507-513, doi:10.1016/j.jep.2007.04.012.
+75. Barbosa, P.C.R.; Strassman, R.J.; Da Silveira, D.X.; Areco, K.; Hoy, R.; Pommy, J.; Thoma, R.; Bogenschutz,
+M. Psychological and Neuropsychological Assessment of Regular Hoasca Users. Compr. Psychiatry 2016,
+71, 95-105, doi:10.1016/j.comppsych.2016.09.003.
+76. Vamvakopoulou, I.A.; Narine, K.A.D.; Campbell, I.; Dyck, J.R.B.; Nutt, D.J. Mescaline: The Forgotten
+Psychedelic. Neuropharmacology 2023, 222, doi:10.1016/j.neuropharm.2022.109294.
+77. Kock, P.; Froelich, K.; Walter, M.; Lang, U.; Dürsteler, K.M. A Systematic Literature Review of Clinical
+Trials and Therapeutic Applications of Ibogaine. J. Subst. Abuse Treat. 2021, 138,
+doi:10.1016/j.jsat.2021.108717.
+78. Schenberg, E.E.; Comis, M.A.D.C.; Felipe, J.; Alexandre, M.; Tófoli, L.F.; Daniel, B.; Chaves, R.; Silveira,
+D.X.D.; Ekman, E.; Instituto, S.; et al. A Phenomenological Analysis of the Subjective Experience Elicited
+by Ibogaine in the Context of a Drug Dependence Treatment. J. Psychedelic Stud. 2017, 1, 74-83,
+doi:10.1556/2054.01.2017.007.
+79. Cameron, L.P.; Tombari, R.J.; Lu, J.; Pell, A.J.; Hurley, Z.Q.; Ehinger, Y.; Vargas, M.V.; Mccarroll, M.N.;
+Taylor, J.C.; Myers-Turnbull, D.; et al. A Non-Hallucinogenic Psychedelic Analog with Therapeutic
+Potential. Nature 2021, 589, 474-479, doi:10.1038/s41586-020-3008-z.
+80. Tupper, K.W. Ayahuasca Healing beyond the Amazon: The Globalization of a Traditional Indigenous
+Entheogenic Practice. Glob. Netw. 2009, 9, 117-136, doi:10.1111/j.1471-0374.2009.00245.x.
+81. Dobkin De Rios, M. Drug Tourism in the Amazon. Anthropol. Conscious. 1994, 5, 16-19,
+doi:10.1525/ac.1994.5.1.16.
+
+[PAGE 022]
+
+21
+
+
+82. Timmermann, C.; Watts, R.; Dupuis, D. Towards Psychedelic Apprenticeship: Developing a Gentle Touch
+for the Mediation and Validation of Psychedelic-Induced Insights and Revelations. Transcult. Psychiatry
+2022, 59, 691-704, doi:10.1177/13634615221082796.
+83. Olson, D.E. The Subjective Effects of Psychedelics May Not Be Necessary for Their Enduring Therapeutic
+Effects. ACS Pharmacol. Transl. Sci. 2021, 4, 563-567, doi:10.1021/acsptsci.0c00192.
+84. Yaden, D.B.; Griffiths, R.R. The Subjective Effects of Psychedelics Are Necessary for Their Enduring
+Therapeutic Effects. ACS Pharmacol. Transl. Sci. 2020, 4, 568-572, doi:10.1021/acsptsci.0c00194.
+85. Letheby, C. Philosophy of Psychedelics; International perspectives in philosophy & psychology; Oxford
+University Press: New York, 2021; ISBN 978-0-19-884312-2.
+86. Griffiths, R.R.; Richards, W.A.; McCann, U.; Jesse, R. Psilocybin Can Occasion Mystical-Type Experiences
+Having Substantial and Sustained Personal Meaning and Spiritual Significance. Psychopharmacology (Berl.)
+2006, 187, 268-283, doi:10.1007/s00213-006-0457-5.
+87. Griffiths, R.R.; Johnson, M.W.; Richards, W.A.; Richards, B.D.; McCann, U.; Jesse, R. Psilocybin Occasioned
+Mystical-Type Experiences: Immediate and Persisting Dose-Related Effects. Psychopharmacology (Berl.)
+2011, 218, 649-665, doi:10.1007/s00213-011-2358-5.
+88. Schmid, Y.; Gasser, P.; Oehen, P.; Liechti, M.E. Acute Subjective Effects in LSD-and MDMA-Assisted
+Psychotherapy. J. Psychopharmacol. (Oxf.) 35, 362-374, doi:10.1177/0269881120959604.
+89. Ross, S. Therapeutic Use of Classic Psychedelics to Treat Cancer-Related Psychiatric Distress. Int. Rev.
+Psychiatry 2018, 30, 317-330, doi:10.1080/09540261.2018.1482261.
+90. Eyerman, J. A Clinical Report of Holotropic Breathwork in 11,000 Psychiatric Inpatients in a Community
+Hospital Setting. MAPS Bull. Spec. Ed. 2013, 23, 24-27.
+91. Fincham, G.W.; Kartar, A.; Uthaug, M.V.; Anderson, B.; Hall, L.; Nagai, Y.; Critchley, H.; Colasanti, A. High
+Ventilation Breathwork Practices: An Overview of Their Effects, Mechanisms, and Considerations for
+Clinical Applications. Neurosci. Biobehav. Rev. 2023, 155, doi:10.1016/j.neubiorev.2023.105453.
+92. Fritz, P.; Lejeune, N.; Cardone, P.; Gosseries, O.; Martial, C. Bridging the Gap: (A)Typical Psychedelic and
+near-Death Experience Insights. Curr. Opin. Behav. Sci. 2024, 55, doi:10.1016/j.cobeha.2023.101349.
+93. Holas, P.; Kaminska, J. Mindfulness Meditation and Psychedelics: Potential Synergies and Commonalities.
+Pharmacol. Rep. 2023, 75, 1398-1409, doi:10.1007/s43440-023-00551-8.
+94. Lyon, A. Psychedelic Experience: Revealing the Mind; 1st ed.; Oxford University Press: New York, 2023; ISBN
+978-0-19-884375-7.
+95. Osmond, H. A Review of the Clinical Effects of Psychotomimetic Agents. Ann. N. Y. Acad. Sci. 1957, 66,
+418-434, doi:10.1111/j.1749-6632.1957.tb40738.x.
+96. Brown, R.P.; Gerbarg, P.L.; Muench, F. Breathing Practices for Treatment of Psychiatric and Stress-Related
+Medical Conditions. Psychiatr. Clin. North Am. 2013, 36, 121-140, doi:10.1016/j.psc.2013.01.001.
+97. Stenkamp, K.; Palva, J.M.; Uusisaari, M.; Schuchmann, S.; Schmitz, D.; Heinemann, U.; Kaila, K. Enhanced
+Temporal Stability of Cholinergic Hippocampal Gamma Oscillations Following Respiratory Alkalosis In
+Vitro. J. Neurophysiol. 2001, 85, 2063-2069, doi:10.1152/jn.2001.85.5.2063.
+98. Li, S.; Rymer, W.Z. Voluntary Breathing Influences Corticospinal Excitability of Nonrespiratory Finger
+Muscles. J. Neurophysiol. 2011, 105, 512-521, doi:10.1152/jn.00946.2010.
+99. Sun, Y.-G.; Wu, C.-S.; Renger, J.J.; Uebele, V.N.; Lu, H.-C.; Beierlein, M.GABAergic Synaptic Transmission
+Triggers Action Potentials in Thalamic Reticular Nucleus Neurons. J. Neurosci. 2012, 32, 7782-7790,
+doi:10.1523/JNEUROSCI.0839-12.2012.
+100. Agadzhanyan, N.A.; Panina, M.I.; Kozupitsa, G.S.; Sergeev, O.S. Subjective and Neurological
+Manifestations of Hyperventilation States of Different Intensities. Hum. Physiol. 2003, 29, 448-452,
+doi:10.1023/A:1024929523667.
+101. Puente, I. Holotropic Breathwork Can Occasion Mystical Experiences in the Context of a Daylong
+Workshop. J. Transpers. Res. 2014, 6, 40-50.
+102. De Wit, P.A.J.M.; Moraes Cruz, R. Treating PTSD with Connected Breathing: A Clinical Case Study and
+Theoretical Implications. Eur. J. Trauma Dissociation 2021, 5, doi:10.1016/j.ejtd.2020.100152.
+103. Uthaug, M.V.; Mason, N.L.; Havenith, M.N.; Vancura, M.; Ramaekers, J.G. An Experience with Holotropic
+Breathwork Is Associated with Improvement in Non-Judgement and Satisfaction with Life While Reducing
+Symptoms of Stress in a Czech-Speaking Population. J. Psychedelic Stud. 2022, 5, 176-189,
+doi:10.1556/2054.2021.00193.
+104. Khubsing, R.S.I.; Leerdam, M.V.; Haijen, E.C.H.M.; Kuypers, K.P.C. Self-Rated Effectiveness of Ayahuasca
+and Breathwork on Well-Being, Psychological Resilience, Self-Compassion, and Personality: An
+Observational Comparison Study. Psychoactives 2024, 3, 167-183, doi:10.3390/psychoactives3020011.
+105. Lebedev, A.V.; Lövden, M.; Rosenthal, G.; Feilding, A.; Nutt, D.J.; Carhart-Harris, R.L. Finding the Self by
+Losing the Self: Neural Correlates of Ego-Dissolution under Psilocybin: Finding the Self by Losing the Self.
+Hum. Brain Mapp. 2015, 36, 3137-3153, doi:10.1002/hbm.22833.
+106. Milliere, R.; Carhart-Harris, R.L.; Roseman, L.; Trautwein, F.-M.; Berkovich-Ohana, A. Psychedelics,
+Meditation, and Self-Consciousness. Front. Psychol. 2018, 9, doi:10.3389/fpsyg.2018.01475.
+
+[PAGE 023]
+
+22
+
+
+107. Simonsson, O.; Goldberg, S.B. Linkages between Psychedelics and Meditation in a Population-Based
+Sample in the United States. J. Psychoactive Drugs 2023, 55, 11-18, doi:10.1080/02791072.2021.2022816.
+108. Brewer, J.A.; Worhunsky, P.D.; Gray, J.R.; Tang, Y.-Y.; Weber, J.; Kober, H. Meditation Experience Is
+Associated with Differences in Default Mode Network Activity and Connectivity. Proc. Natl. Acad. Sci. 2011,
+108, 20254-20259, doi:10.1073/pnas.1112029108.
+109. Carhart-Harris, R.L.; Erritzoe, D.; Williams, T.; Stone, J.M.; Reed, L.J.; Colasanti, A.; Tyacke, R.J.; Leech, R.;
+Malizia, A.L.; Murphy, K.; et al. Neural Correlates of the Psychedelic State as Determined by {MRI Studies
+with Psilocybin. Proc. Natl. Acad. Sci. 2012, 109, 2138-2143, doi:10.1073/pnas.1119598109.
+110. Farb, N.A.S.; Segal, Z.V.; Mayberg, H.; Bean, J.; McKeon, D.; Fatima, Z.; Anderson, A.K. Attending to the
+Present: Mindfulness Meditation Reveals Distinct Neural Modes of Self-Reference. Soc. Cogn. Affect.
+Neurosci. 2007, 2, 313-322, doi:10.1093/scan/nsm030.
+111. Dahl, C.J.; Lutz, A.; Davidson, R.J. Reconstructing and Deconstructing the Self: Cognitive Mechanisms in
+Meditation Practice. Trends Cogn. Sci. 2015, 19, 515-523, doi:10.1016/j.tics.2015.07.001.
+112. Van Lente, E.; Hogan, M.J. Understanding the Nature of Oneness Experience in Meditators Using
+Collective Intelligence Methods. Front. Psychol. 2020, 11, 2092, doi:10.3389/fpsyg.2020.02092.
+113. Berentsen, K.B.; Stodkilde-Jorgensen, H.; Sommerlund, B.; Hartmann, T.; Damsgaard-Madsen, J.; Fosnes,
+M.; Green, A.C. An Investigation of Brain Processes Supporting Meditation. Cogn. Process. 2010, 11, 57-84,
+doi:10.1007/s10339-009-0342-3.
+114. Mills, P.J.; Peterson, C.T.; Pung, M.A.; Patel, S.; Weiss, L.; Wilson, K.L.; Doraiswamy, P.M.; Martin, J.A.;
+Tanzi, R.E.; Chopra, D. Change in Sense of Nondual Awareness and Spiritual Awakening in Response to a
+Multidimensional Well-Being Program. J. Altern. Complement. Med. 2018, 24, 343-351,
+doi:10.1089/acm.2017.0160.
+115. Lilly, J.C. The Deep Self: Consciousness Exploration in the Isolation Tank; Consciousness classics; Gateways
+Books and Tapes: Nevada City, CA, 2007; ISBN 978-0-89556-116-9.
+116. Kjellgren, A.; Lyden, F.; Norlander, T. Sensory Isolation in Flotation Tanks: Altered States of Consciousness
+and Effects on Well-Being. Qual. Rep. 2008, 13, 636-656, doi:10.46743/2160-3715/2008.1577.
+117. Norlander, T.; Kjellgren, A.; Archer, T. Effects of Flotation-Versus Chamber-Restricted Environmental
+Stimulation Technique (Rest) on Creativity and Realism under Stress and Non-Stress Conditions. Imagin.
+Cogn. Personal. 2003, 22, 343-359, doi:10.2190/0LAE-M7WP-R6UQ-CR3P.
+118. Dotan, A.; Shriki, O. Tinnitus-like “Hallucinations” Elicited by Sensory Deprivation in an Entropy
+Maximization Recurrent Neural Network. PLOS Comput. Biol. 2021, 17, doi:10.1371/journal.pcbi.1008664.
+119. Jonsson, K.; Kjellgren, A. Characterizing the Experiences of Flotation-REST (Restricted Environmental
+Stimulation Technique) Treatment for Generalized Anxiety Disorder (GAD): A Phenomenological Study.
+Eur. J. Integr. Med. 2017, 12, 53-59, doi:10.1016/j.eujim.2017.04.011.
+120. Suedfeld, P.; Landon, P.B.; Ballard, E.J. Effects of Reduced Stimulation on Divergent and Convergent
+Thinking. Environ. Behav. 1983, 15, 727-738, doi:10.1177/0013916583156003.
+121. Suedfeld, P.; Metcalfe, J.; Bluck, S. Enhancement of Scientific Creativity by Flotation Rest (Restricted
+Environmental Stimulation Technique). J. Environ. Psychol. 1987, 7, 219-231, doi:10.1016/S0272-
+4944(87)80031-2.
+122. Al Zoubi, O.; Misaki, M.; Bodurka, J.; Kuplicki, R.; Wohlrab, C.; Schoenhals, W.A.; Refai, H.H.; Khalsa, S.S.;
+Stein, M.B.; Paulus, M.P.; et al. Taking the Body off the Mind: Decreased Functional Connectivity between
+Somatomotor and Default-mode Networks Following Floatation-REST. Hum. Brain Mapp. 2021, 42, 3216-
+3227, doi:10.1002/hbm.25429.
+123. Ko, K.; Knight, G.; Rucker, J.J.; Cleare, A.J. Psychedelics, Mystical Experience, and Therapeutic Efficacy: A
+Systematic Review. Front. Psychiatry 2022, 13, doi:10.3389/fpsyt.2022.917199.
+124. Bogenschutz, M.P.; Forcehimes, A.A.; Pommy, J.A.; Wilcox, C.E.; Barbosa, P.; Strassman, R.J. Psilocybin-
+Assisted Treatment for Alcohol Dependence: A Proof-of-Concept Study. J. Psychopharmacol. (Oxf.) 2015, 29,
+289-299, doi:10.1177/0269881114565144.
+125. Carhart-Harris, R.L.; Erritzoe, D.; Haijen, E.; Kaelen, M.; Watts, R. Psychedelics and Connectedness.
+Psychopharmacology (Berl.) 2018, 235, 547-550, doi:10.1007/s00213-017-4701-y.
+126. Hartogsohn, I. The Meaning-Enhancing Properties of Psychedelics and Their Mediator Role in Psychedelic
+Therapy, Spirituality, and Creativity. Front. Neurosci. 2018, 12, doi:10.3389/fnins.2018.00129.
+127. Van Den Hurk, P.A.M.; Wingens, T.; Giommi, F.; Barendregt, H.P.; Speckens, A.E.M.; Van Schie, H.T. On
+the Relationship Between the Practice of Mindfulness Meditation and Personality—an Exploratory
+Analysis of the Mediating Role of Mindfulness Skills. Mindfulness 2011, 2, 194-200, doi:10.1007/s12671-011-
+0060-7.
+128. Stace, W.T. Mysticism and Philosophy; St. Martin’s Press: New York, 1960; ISBN 0-87477-416-0.
+129. Barrett, F.S.; Johnson, M.W.; Griffiths, R.R. Validation of the Revised Mystical Experience Questionnaire in
+Experimental Sessions with Psilocybin. J. Psychopharmacol. (Oxf.) 2015, 29, 1182-1190,
+doi:10.1177/0269881115609019.
+
+[PAGE 024]
+
+23
+
+
+130. MacLean, K.A.; Leoutsakos, J.S.; Johnson, M.W.; Griffiths, R.R. Factor Analysis of the Mystical Experience
+Questionnaire: A Study of Experiences Occasioned by the Hallucinogen Psilocybin. J. Sci. Study Relig. 2012,
+51, 721-737, doi:10.1111/j.1468-5906.2012.01685.x.
+131. Lyvers, M.; Meester, M. Illicit Use of LSD or Psilocybin, but Not MDMA or Nonpsychedelic Drugs, Is
+Associated with Mystical Experiences in a Dose-Dependent Manner. J. Psychoactive Drugs 2012, 44, 410-
+417, doi:10.1080/02791072.2012.736842.
+132. Isham, A.; Elf, P.; Jackson, T. Self-Transcendent Experiences as Promoters of Ecological Wellbeing?
+Exploration of the Evidence and Hypotheses to Be Tested. Front. Psychol. 2022, 13,
+doi:10.3389/fpsyg.2022.1051478.
+133. Dyck, E.; Elcock, C. Reframing Bummer Trips: Scientific and Cultural Explanations to Adverse Reactions
+to Psychedelic Drug Use. Soc. Hist. Alcohol Drugs 2020, 34, 271-296, doi:10.1086/707512.
+134. Gashi, L.; Sandberg, S.; Pedersen, W. Making “Bad Trips” Good: How Users of Psychedelics Narratively
+Transform Challenging Trips into Valuable Experiences. Int. J. Drug Policy 2021, 87, 102997,
+doi:10.1016/j.drugpo.2020.102997.
+135. Gasser, P.; Kirchner, K.; Passie, T. LSD-Assisted Psychotherapy for Anxiety Associated with a Life-
+Threatening Disease: A Qualitative Study of Acute and Sustained Subjective Effects. J. Psychopharmacol.
+(Oxf.) 2015, 29, 57-68, doi:10.1177/0269881114555249.
+136. Timmermann, C.; Roseman, L.; Williams, L.; Erritzoe, D.; Martial, C.; Cassol, H.; Laureys, S.; Nutt, D.;
+Carhart-Harris, R. DMT Models the Near-Death Experience. Front. Psychol. 2018, 9,
+doi:10.3389/fpsyg.2018.01424.
+137. Krupitsky, E.; Burakov, A.; Romanova, T.; Dunaevsky, I; Strassman, R.; Grinenko, A. Ketamine
+Psychotherapy for Heroin Addiction: Immediate Effects and Two-Year Follow-Up. J. Subst. Abuse Treat.
+2002, 23, 273-283, doi:10.1016/50740-5472(02)00275-1.
+138. Van Lommel, P.; Van Wees, R.; Meyers, V.; Elfferich, I. Near-Death Experience in Survivors of Cardiac
+Arrest: A Prospective Study in the Netherlands. The Lancet 2001, 358, 2039-2045, doi:10.1016/S0140-
+6736(01)07100-8.
+139. Hendricks, P.S. Awe: A Putative Mechanism Underlying the Effects of Classic Psychedelic-Assisted
+Psychotherapy. Int. Rev. Psychiatry 2018, 30, 331-342, doi:10.1080/09540261.2018.1474185.
+140. Keltner, D.; Haidt, J. Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion. Cogn. Emot. 2003, 17,
+297-314, doi:10.1080/02699930302297.
+141. Van Elk, M.; Arciniegas Gomez, M.A.; Van Der Zwaag, W.; Van Schie, H.T.; Sauter, D. The Neural
+Correlates of the Awe Experience: Reduced Default Mode Network Activity during Feelings of Awe. Hum.
+Brain Mapp. 2019, 40, 3561-3574, doi:10.1002/hbm.24616.
+142. Chen, S.K.; Mongrain, M. Awe and the Interconnected Self. J. Posit. Psychol. 2021, 16, 770-778,
+doi:10.1080/17439760.2020.1818808.
+143. Shiota, M.N.; Keltner, D.; Mossman, A. The Nature of Awe: Elicitors, Appraisals, and Effects on Self-
+Concept. Cogn. Emot. 2007, 21, 944-963, doi:10.1080/02699930600923668.
+144. Van Cappellen, P.; Saroglou, V. Awe Activates Religious and Spiritual Feelings and Behavioral Intentions.
+Psychol. Relig. Spiritual. 2012, 4, 223-236, doi:10.1037/a0025986.
+145. Lutkajtis, A. Entity Encounters and the Therapeutic Effect of the Psychedelic Mystical Experience. J.
+Psychedelic Stud. 2021, 4, 171-178, doi:10.1556/2054.2020.00143.
+146. Rudd, M.; Vohs, K.D.; Aaker, J. Awe Expands People’s Perception of Time, Alters Decision Making, and
+Enhances Well-Being. Psychol. Sci. 2012, 23, 1130-1136, doi:10.1177/0956797612438731.
+147. Anderson, C.L.; Monroy, M.; Keltner, D. Awe in Nature Heals: Evidence from Military Veterans, at-Risk
+Youth, and College Students. Emotion 2018, 18, 1195-1202, doi:10.1037/em00000442.
+148. Rivera, G.N.; Vess, M.; Hicks, J.A.; Routledge, C. Awe and Meaning: Elucidating Complex Effects of Awe
+Experiences on Meaning in Life. Eur. J. Soc. Psychol. 2020, 50, 392-405, doi:10.1002/ejsp.2604.
+149. Nour, M.M.; Carhart-Harris, R.L.; Bch, B.M. Psychedelics and the Science of Self Experience. Br. J. Psychiatry
+2017, 210, 177-179, doi:10.1192/bjp.bp.116.194738.
+150. Davis, A.K.; Clifton, J.M.; Weaver, E.G.; Hurwitz, E.S.; Johnson, M.W.; Griffiths, R.R. Survey of Entity
+Encounter Experiences Occasioned by Inhaled N,N -Dimethyltryptamine: Phenomenology, Interpretation,
+and Enduring Effects. J. Psychopharmacol. (Oxf.) 2020, 34, 1008-1020, doi:10.1177/0269881120916143.
+151. Timmermann, C.; Kettner, H.; Letheby, C.; Roseman, L.; Rosas, F.E.; Carhart-Harris, R.L. Psychedelics Alter
+Metaphysical Beliefs. Sci. Rep. 2021, 11, doi:10.1038/s41598-021-01209-2.
+152. Carhart-Harris, R.L.; Friston, K.J. REBUS and the Anarchic Brain: Toward a Unified Model of the Brain
+Action of Psychedelics. Pharmacol. Rev. 2019, 71, 316-344, doi:10.1124/pr.118.017160.
+153. Van Eyghen, H. Psychedelics and the Entropic Brain Beyond the Self. Int. J. Psychol. Relig. 2023, 33, 277-293,
+doi:10.1080/10508619.2023.2192078.
+154. Carhart-Harris, R.L.; Leech, R.; Hellyer, P.J.; Shanahan, M.; Feilding, A.; Tagliazucchi, E.; Chialvo, D.R.;
+Nutt, D. The Entropic Brain: A Theory of Conscious States Informed by Neuroimaging Research with
+Psychedelic Drugs. Front. Hum. Neurosci. 2014, 8, doi:10.3389/fnhum.2014.00020.
+
+[PAGE 025]
+
+doi:10.20944/preprints202407.2400.v1
+
+
+24
+
+
+155. Girn, M.; Rosas, F.E.; Daws, R.E.; Gallen, C.L.; Gazzaley, A.; Carhart-Harris, R.L. A Complex Systems
+Perspective on Psychedelic Brain Action. Trends Cogn. Sci. 2023, 27, 433-445, doi:10.1016/j.tics.2023.01.003.
+156. Watts, A. The Joyous Cosmology: Adventures in the Chemistry of Consciousness; Vintage Books: New York, 1962;
+ISBN 978-0-394-70299-5.
+157. Garcia-Romeu, A.; Griffiths, R.; Johnson, M. Psilocybin-Occasioned Mystical Experiences in the Treatment
+of Tobacco Addiction. Curr. Drug Abuse Rev. 2015, 7, 157-164, doi:10.2174/1874473708666150107121331.
+158. Young, W.C.; Nadarajah, S.R.; Skeath, P.R.; Berger, A.M. Spirituality in the Context of Life-Threatening
+IlIness and Life-Transforming Change. Palliat. Support. Care 2015, 13, 653-660,
+doi:10.1017/S1478951514000340.
+159. Smigielski, L.; Scheidegger, M.; Kometer, M.; Vollenweider, F.X. Psilocybin-Assisted Mindfulness Training
+Modulates Self-Consciousness and Brain Default Mode Network Connectivity with Lasting Effects.
+Neurolmage 2019, 196, 207-215, doi:10.1016/j.neuroimage.2019.04.009.
+160. Asakage, S.; Nakano, T. The Salience Network Is Activated during Self-recognition from Both First-person
+and Third-person Perspectives. Hum. Brain Mapp. 2023, 44, 559-570, doi:10.1002/hbm.26084.
+161. Aday, J.S.; Mitzkovitz, C.M.; Bloesch, E.K.; Davoli, C.C.; Davis, A.K. Long-Term Effects of Psychedelic
+Drugs: A Systematic Review. Neurosci. Biobehav. Rev. 2020, 113, 179-189,
+doi:10.1016/j.neubiorev.2020.03.017.
+162. Low, F.; Earleywine, M. Psychedelic Experiences After Bereavement Improve Symptoms of Grief: The
+Influence of Emotional Breakthroughs and Challenging Experiences. J. Psychoactive Drugs 2024, 56, 316-
+323, doi:10.1080/02791072.2023.2228303.
+163. Roseman, L.; Haijen, E.; Idialu-Ikato, K.; Kaelen, M.; Watts, R.; Carhart-Harris, R. Emotional Breakthrough
+and Psychedelics: Validation of the Emotional Breakthrough Inventory. J. Psychopharmacol. (Oxf.) 2019, 33,
+1076-1087, doi:10.1177/0269881119855974.
+164. Freud, S. A General Introduction to Psychoanalysis; Boni & Liveright: New York, 1920; ISBN 978-0-671-80032-
+1.
+165. Grof, S.; Grof, C. Holotropic Breathwork: A New Approach to Self-Exploration and Therapy; SUNY series in
+transpersonal and humanistic psychology; State University of New York Press: Albany, 2010; ISBN 978-1-
+4384-3393-6.
+166. Lindegaard, T. Do Psychedelics Facilitate Emergence of Unconscious Psychological Processes? Psychodyn.
+Psychiatry 2023, 51, 270-286, doi:10.1521/pdps.2023.51.3.270.
+167. Jennissen, S.; Huber, J.; Ehrenthal, J.C.; Schauenburg, H.; Dinger, U. Association Between Insight and
+Outcome of Psychotherapy: Systematic Review and Meta-Analysis. Am. J. Psychiatry 2018, 175, 961-969,
+doi:10.1176/appi.ajp.2018.17080847.
+168. Davis, A.K.; Barrett, F.S.; Griffiths, R.R. Psychological Flexibility Mediates the Relations between Acute
+Psychedelic Effects and Subjective Decreases in Depression and Anxiety. J. Context. Behav. Sci. 2020, 15, 39-
+45, doi:10.1016/j.jcbs.2019.11.004.
+169. Noorani, T.; Garcia-Romeu, A.; Swift, T.C.; Griffiths, R.R.; Johnson, M.W. Psychedelic Therapy for Smoking
+Cessation: Qualitative Analysis of Participant Accounts. J. Psychopharmacol. (Oxf.) 2018, 32, 756-769,
+doi:10.1177/0269881118780612.
+170. Danek, A.H.; Fraps, T.; Müller, A.V.; Grothe, B.; Ollinger, M. It’s a Kind of Magic-What Self-Reports Can
+Reveal about the Phenomenology of Insight Problem Solving. Front. Psychol. 2014, 5,
+doi:10.3389/fpsyg.2014.01408.
+171. Waldron, J.L. The Life Impact of Transcendent Experiences with a Pronounced Quality of “Noesis.” J.
+Transpers. Psychol. 1998, 30, 103-134.
+172. Agin-Liebes, G.; Ekman, E.; Anderson, B.; Malloy, M.; Haas, A.; Woolley, J. Participant Reports of
+Mindfulness, Posttraumatic Growth, and Social Connectedness in Psilocybin-Assisted Group Therapy: An
+Interpretive Phenomenological Analysis. J. Humanist. Psychol. 2024, 64, 564-591,
+doi:10.1177/00221678211022949.
+173. Argento, E.; Capler, R.; Thomas, G.; Lucas, P.; Tupper, K.W. Exploring Ayahuasca-assisted Therapy for
+Addiction: A Qualitative Analysis of Preliminary Findings among an Indigenous Community in Canada.
+Drug Alcohol Rev. 2019, 38, 781-789, doi:10.1111/dar.12985.
+174. Davis, A.K.; Barrett, F.S.; So, S.; Gukasyan, N.; Swift, T.C.; Griffiths, R.R. Development of the Psychological
+Insight Questionnaire among a Sample of People Who Have Consumed Psilocybin or LSD. J.
+Psychopharmacol. (Oxf.) 2021, 35, 437-446, doi:10.1177/0269881120967878.
+175. Peill, J.M.; Trinci, K.E.; Kettner, H.; Mertens, L.J.; Roseman, L.; Timmermann, C.; Rosas, F.E.; Lyons, T.;
+Carhart-Harris, R.L. Validation of the Psychological Insight Scale: A New Scale to Assess Psychological
+Insight Following a Psychedelic Experience. J. Psychopharmacol. (Oxf.) 2022, 36, 31-45,
+doi:10.1177/02698811211066709.
+176. Carhart-Harris, R.L.; Bolstridge, M.; Day, C.M.J.; Rucker, J.; Watts, R.; Erritzoe, D.E.; Kaelen, M.; Giribaldi,
+B.; Bloomfield, M.; Pilling, S.; et al. Psilocybin with Psychological Support for Treatment-Resistant
+
+[PAGE 026]
+
+25
+
+
+Depression: Six-Month Follow-Up. Psychopharmacology (Berl.) 2018, 235, 399-408, doi:10.1007/s00213-017-
+4771-x.
+177. Kahonen, J. Psychedelic Unselfing: Self-Transcendence and Change of Values in Psychedelic Experiences.
+Front. Psychol. 2023, 14, doi:10.3389/fpsyg.2023.1104627.
+178. van der Tempel, J.; Moodley, R. Spontaneous Mystical Experience among Atheists: Meaning-Making,
+Psychological Distress, and Wellbeing. Ment. Health Relig. Cult. 2020, 23, 789-805,
+doi:10.1080/13674676.2020.1823349.
+179. Watts, R.; Day, C.; Krzanowski, J.; Nutt, D.; Carhart-Harris, R. Patients’ Accounts of Increased
+“Connectedness” and “Acceptance” After Psilocybin for Treatment-Resistant Depression. J. Humanist.
+Psychol. 2017, 57, 520-564, doi:10.1177/0022167817709585.
+180. Kornfield, J. Intensive Insight Meditation: A Phenomenological Study. J. Transpers. Psychol. 1979, 11, 41-58.
+181. Wolff, M.; Evens, R.; Mertens, L.J.; Koslowski, M.; Betzler, F.; Gründer, G.; Jungaberle, H. Learning to Let
+Go: A Cognitive-Behavioral Model of How Psychedelic Therapy Promotes Acceptance. Front. Psychiatry
+2020, 11, 5, doi:10.3389/fpsyt.2020.00005.
+182. Wolff, M.; Mertens, L.J.; Walter, M.; Enge, S.; Evens, R. The Acceptance/Avoidance-Promoting Experiences
+Questionnaire (APEQ): A Theory-Based Approach to Psychedelic Drugs’ Effects on Psychological
+Flexibility. J. Psychopharmacol. (Oxf.) 2022, 36, 387-408, doi:10.1177/02698811211073758.
+183. Cordova, J.V. Acceptance in Behavior Therapy: Understanding the Process of Change. Behav. Anal. 2001,
+24, 213-226, doi:10.1007/BF03392032.
+184. Malone, T.C.; Mennenga, S.E.; Guss, J.; Podrebarac, S.K.; Owens, L.T.; Bossis, A.P.; Belser, A.B.; Agin-
+Liebes, G.; Bogenschutz, M.P.; Ross, S. Individual Experiences in Four Cancer Patients Following
+Psilocybin-Assisted Psychotherapy. Front. Pharmacol. 2018, 9, doi:10.3389/fphar.2018.00256.
+185. Nielson, E.M.; May, D.G.; Forcehimes, A.A.; Bogenschutz, M.P. The Psychedelic Debriefing in Alcohol
+Dependence Treatment: Illustrating Key Change Phenomena through Qualitative Content Analysis of
+Clinical Sessions. Front. Pharmacol. 2018, 9, doi:10.3389/fphar.2018.00132.
+186. Soler, J.; Elices, M.; Dominguez-Clavé, E.; Pascual, J.C.; Feilding, A.; Navarro-Gil, M.; Garcia-Campayo, J.;
+Riba, J. Four Weekly Ayahuasca Sessions Lead to Increases in “Acceptance” Capacities: A Comparison
+Study With a Standard 8-Week Mindfulness Training Program. Front. Pharmacol. 2018, 9,
+doi:10.3389/fphar.2018.00224.
+187. Swift, T.C.; Belser, A.B.; Agin-Liebes, G.; Devenot, N.; Terrana, S.; Friedman, H.L.; Guss, J.; Bossis, A.P.;
+Ross, S. Cancer at the Dinner Table: Experiences of Psilocybin-Assisted Psychotherapy for the Treatment
+of Cancer-Related Distress. J. Humanist. Psychol. 2017, 57, 488-519, doi:10.1177/0022167817715966.
+188. Healy, C.J. The Acute Effects of Classic Psychedelics on Memory in Humans. Psychopharmacology (Berl.)
+2021, 238, 639-653, doi:10.1007/s00213-020-05756-w.
+189. Weiss, B.; Wingert, A.; Erritzoe, D.; Campbell, W.K. Prevalence and Therapeutic Impact of Adverse Life
+Event Reexperiencing under Ceremonial Ayahuasca. Sci. Rep. 2023, 13, doi:10.1038/s41598-023-36184-3.
+190. Mithoefer, M.C. A Manual for MDMA-Assisted Psychotherapy in the Treatment of Posttraumatic Stress
+Disorder. Available online: https://s3-us-west-1.amazonaws.com/mapscontent/research-
+archive/mdma/TreatmentManual_MDMA AssistedPsychotherapyVersion+8.1_22+Aug2017.pdf (accessed
+on 20 July 2024).
+191. Ehlers, A.; Clark, D.M. A Cognitive Model of Posttraumatic Stress Disorder. Behav. Res. Ther. 2000, 38, 319-
+345, doi:10.1016/50005-7967(99)00123-0.
+192. Hasler, G. Toward the “Helioscope” Hypothesis of Psychedelic Therapy. Eur. Neuropsychopharmacol. 2022,
+57, 118-119, doi:10.1016/j.euroneuro.2022.02.006.
+193. Griffiths, R.R.; Hurwitz, E.S.; Davis, A.K.; Johnson, M.W.; Jesse, R. Survey of Subjective “God Encounter
+Experiences”: Comparisons among Naturally Occurring Experiences and Those Occasioned by the Classic
+Psychedelics Psilocybin, LSD, Ayahuasca, or DMT. PLOS ONE 2019, 14, doi:10.1371/journal.pone.0214377.
+194. Barrett, F.S.; Bradstreet, M.P.; Leoutsakos, J.-M.S.; Johnson, M.W.; Griffiths, R.R. The Challenging
+Experience Questionnaire: Characterization of Challenging Experiences with Psilocybin Mushrooms. J.
+Psychopharmacol. (Oxf.) 2016, 30, 1279-1295, doi:10.1177/0269881116678781.
+195. Carbonaro, T.M.; Bradstreet, M.P.; Barrett, F.S.; MacLean, K.A.; Jesse, R.; Johnson, M.W.; Griffiths, R.R.
+Survey Study of Challenging Experiences after Ingesting Psilocybin Mushrooms: Acute and Enduring
+Positive and Negative Consequences. J. Psychopharmacol. (Oxf.) 2016, 30, 1268-1278,
+doi:10.1177/0269881116662634.
+196. Dittrich, A. The Standardized Psychometric Assessment of Altered States of Consciousness (ASCs) in
+Humans. Pharmacopsychiatry 1998, 31, 80-84, doi:10.1055/s-2007-979351.
+197. Rothbaum, B.O.; Schwartz, A.C. Exposure Therapy for Posttraumatic Stress Disorder. Am. J. Psychother.
+2002, 56, 59-75, doi:10.1176/appi.psychotherapy.2002.56.1.59.
+198. Balban, M.Y.; Neri, E.; Kogon, M.M.; Weed, L.; Nouriani, B.; Jo, B.; Holl, G.; Zeitzer, J.M.; Spiegel, D.;
+Huberman, A.D. Brief Structured Respiration Practices Enhance Mood and Reduce Physiological Arousal.
+Cell Rep. Med. 2023, 4, doi:10.1016/j.xcrm.2022.100895.
+
+[PAGE 027]
+
+26
+
+
+199. Meuret, A.E.; Ritz, T.; Wilhelm, F.H.; Roth, W.T. Voluntary Hyperventilation in the Treatment of Panic
+Disorder—Functions of Hyperventilation, Their Implications for Breathing Training, and
+Recommendations for Standardization. Clin. Psychol. Rev. 2005, 25, 285-306, doi:10.1016/j.cpr.2005.01.002.
+200. Calder, A.; Hasler, G. Extrapharmacological Safety Topics in Psychedelic-Assisted Psychotherapy. JAMA
+Psychiatry 2023, 80, 761-762, doi:10.1001/jamapsychiatry.2023.1031.
+201. Evans, J.; Robinson, O.C.; Argyri, E.K.; Suseelan, S.; Murphy-Beiner, A.; McAlpine, R.; Luke, D.; Michelle,
+K.; Prideaux, E. Extended Difficulties Following the Use of Psychedelic Drugs: A Mixed Methods Study.
+PLOS ONE 2023, 18, doi:10.1371/journal.pone.0293349.
+202. Marrocu, A.; Kettner, H.; Weiss, B.; Zeifman, R.J.; Erritzoe, D.; Carhart-Harris, R.L. Psychiatric Risks for
+Worsened Mental Health after Psychedelic Use. J. Psychopharmacol. (Oxf.) 2024, 38, 225-235,
+doi:10.1177/02698811241232548.
+203. Bahi, C.; Irrmischer, M.; Franken, K.; Fejer, G.; Schlenker, A.; Deijen, J.B.; Engelbregt, H. Effects of Conscious
+Connected Breathing on Cortical Brain Activity, Mood and State of Consciousness in Healthy Adults. Curr.
+Psychol. 2024, 43, 10578-10589, doi:10.1007/s12144-023-05119-6.
+204. Gellings, T.; Ossebaard, J.; van Schie, H.T. Self-Transcendence in Daily Life and During Meditation in
+Focused Attention and Open Monitoring Meditators. 2023, manuscript submitted for publication.
+205. Lalande, L.; Bambling, M.; King, R.; Lowe, R. Breathwork: An Additional Treatment Option for Depression
+and Anxiety? J. Contemp. Psychother. 2012, 42, 113-119, doi:10.1007/s10879-011-9180-6.
+206. Josipovic, Z. Neural Correlates of Nondual Awareness in Meditation. Ann. N. Y. Acad. Sci. 2014, 1307, 9-
+18, doi:10.1111/nyas.12261.
+207. Vieten, C.; Wahbeh, H.; Cahn, B.R.; MacLean, K.; Estrada, M.; Mills, P.; Murphy, M.; Shapiro, S.; Radin, D.;
+Josipovic, Z.; et al. Future Directions in Meditation Research: Recommendations for Expanding the Field
+of Contemplative Science. PLOS ONE 2018, 13, doi:10.1371/journal.pone.0205740.
+208. Travis, F. Transcendental Experiences during Meditation Practice. Ann. N. Y. Acad. Sci. 2014, 1307, 1-8,
+doi:10.1111/nyas.12316.
+209. Pérez-Alvarez, M. Psychotherapy as a Human Science, More Than a Technological One. Papeles Psicólogo -
+Psychol. Pap. 2018, 40, doi:10.23923/pap.psicol2019.2877.
+210. Goodwin, G.M.; Malievskaia, E.; Fonzo, G.A.; Nemeroff, C.B. Must Psilocybin Always “Assist
+Psychotherapy”? Am. J. Psychiatry 2023, 181, 20-25, doi:10.1176/appi.ajp.20221043.
+
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those
+of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s)
+disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or
+products referred to in the content.

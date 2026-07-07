@@ -196,7 +196,7 @@ def test_importer_does_not_write_to_ctpc(tmp_path: Path) -> None:
 
     ctpc_dir = Path(paths.ctpc_dir)
     assert ctpc_dir.exists()
-    assert list(ctpc_dir.iterdir()) == []
+    assert list(ctpc_dir.rglob("*.json")) == []
 
 
 def test_importer_does_not_call_openai() -> None:

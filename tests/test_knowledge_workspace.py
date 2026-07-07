@@ -6,6 +6,10 @@ from pathlib import Path
 
 import pytest
 
+from niros.knowledge_domain import (
+    KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
+    KNOWLEDGE_DOMAIN_VOCAL_ICARO,
+)
 from niros.knowledge_workspace import (
     DEFAULT_KNOWLEDGE_ROOT,
     KnowledgeWorkspacePaths,
@@ -20,7 +24,6 @@ def test_default_paths_deterministic() -> None:
     second = build_knowledge_workspace_paths()
     assert first == second
     assert first.root == DEFAULT_KNOWLEDGE_ROOT
-    assert first.incoming_dir == "knowledge_factory/incoming"
     assert first.registry_dir == "knowledge_factory/registry"
     assert first.raw_corpus_dir == "knowledge_factory/raw_corpus"
     assert first.extractions_dir == "knowledge_factory/extractions"
@@ -41,12 +44,14 @@ def test_ensure_creates_directories_using_tmp_path(tmp_path: Path) -> None:
     root = tmp_path / "knowledge_factory"
     paths = ensure_knowledge_workspace(str(root))
     assert Path(paths.root).is_dir()
-    assert Path(paths.incoming_dir).is_dir()
+    assert not Path(paths.root, "incoming").exists()
     assert Path(paths.registry_dir).is_dir()
     assert Path(paths.raw_corpus_dir).is_dir()
     assert Path(paths.extractions_dir).is_dir()
     assert Path(paths.review_dir).is_dir()
     assert Path(paths.ctpc_dir).is_dir()
+    assert Path(paths.ctpc_dir, KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE).is_dir()
+    assert Path(paths.ctpc_dir, KNOWLEDGE_DOMAIN_VOCAL_ICARO).is_dir()
     assert Path(paths.audio_dir).is_dir()
     assert Path(paths.logs_dir).is_dir()
 
@@ -54,7 +59,6 @@ def test_ensure_creates_directories_using_tmp_path(tmp_path: Path) -> None:
 @pytest.mark.parametrize(
     ("artifact_type", "expected_dir"),
     [
-        ("incoming", "incoming"),
         ("registry", "registry"),
         ("raw_corpus", "raw_corpus"),
         ("extractions", "extractions"),

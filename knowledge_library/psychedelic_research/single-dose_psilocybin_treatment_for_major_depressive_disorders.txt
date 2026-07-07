@@ -1,0 +1,488 @@
+[PAGE 001]
+
+Single-Dose Psilocybin Treatment for Major Depressive Disorder: A R.. https://jamanetwork.com/journals/jama/fullarticle/2808950
+
+
+Home | JAMA | Vol. 330, No. 9
+
+
+View Correction
+
+
+Original Investigation
+
+
+Single-Dose Psilocybin Treatment for Major Depressive
+Disorder
+A Randomized Clinical Trial
+Charles L. Raison, MD!; Gerard Sanacora, MD, PhD?; Joshua Woolley, MD, PhD?*; et al
+
+> Author Affiliations | Article Information
+
+« Cite C Permissions Y” Metrics
+
+
+JAMA
+
+Published Online: August 31, 2023
+
+2023;330;(9):843-853.
+
+doi:10.1001/jama.2023.14530
+
+
+= RELATED ARTICLES [>] MEDIA FIGURES | SUPPLEMENTAL CONTENT
+
+
+Key Points
+
+Question What are the efficacy and safety of psilocybin in patients with major depressive disorder?
+
+
+Findings In a randomized, placebo-controlled, 6-week trial in 104 adults, a 25-mg dose of psilocybin
+
+administered with psychological support was associated with a rapid and sustained antidepressant
+
+o
+PDF ESS v=
+
+
+vZ
+o—
+
+Sections PDF CME Share
+
+
+1 of 22 07.07.26, 20:41
+
+[PAGE 002]
+
+Single-Dose Psilocybin Treatment for Major Depressive Disorder: A R. https://jamanetwork.com/journals/jama/fullarticle/2808950
+
+
+Meaning A 25-mg dose of psilocybin was well tolerated and may hold promise as a treatment for major
+
+depressive disorder when combined with psychological support.
+
+
+Abstract
+
+Importance Psilocybin shows promise as a
+ol y
+treatment for major depressive disorder (MDD).
+
+QUESTION What is the efficacy and safety of single-dose psilocybin in patients with major depressive disorder?
+
+. = . . . CONCLUSION A 25-mg dose of psilocybin was associated with a clinically significant sustained reduction in depressive symptoms
+O bj ective To eVa lu d te t h e m a g n | t u d e 1 tl m | n g 1 and functional disability, without serious adverse events.
+nae . POPULATION INTERVENTION FINDINGS
+
+
+and durability of antidepressant effects and e Mean cage nore om asin
+. a . 5 . 52 Men &
+52 Women 43
+zB 104 Patients analyzed
+104 Patients randomized
+a Den a ”
+
+
+safety of a single dose of psilocybin in patients Mn m e
+with major AR disorder Psilocybin Niacin Niacin
+. with current episode 260 days FE of synthetic 100-mg dose ein
+
+W|th M D D= Mean age: 41 years with psychological support psychological support
+LOCATIONS PRIMARY OUTCOME Psilocybin was associated with significantly
+. o | o reduced MADRS scores vs niacin:
+
+
+Design, Setting, and Pa rticipa nts In this phase inthe US (range, 0-60; higher scores indicate more severe depression) -12.3 (95% C1, -17.5 to -7.2); P<.001
+
+
+2 trial conducted between December 2019 and
+
+June 2022 at 11 research sites in the US,
+
+participants were randomized in a 1:1 ratio to single-Dose Psilocybin Treatment for Major
+Depressive Disorder
+receive a single dose of psilocybin vs niacin Visual Abstract.
+
+placebo administered with psychological
+
+support. Participants were adults aged 21 to 65
+
+years with a Diagnostic and Statistical Manual of
+
+Mental Disorders, Fifth Edition diagnosis of MDD
+
+of at least 60 days’ duration and moderate or greater symptom severity. Exclusion criteria included
+
+history of psychosis or mania, active substance use disorder, and active suicidal ideation with intent.
+
+Participants taking psychotropic agents who otherwise met inclusion/exclusion criteria were eligible
+
+following medication taper. Primary and secondary outcomes and adverse events (AEs) were assessed
+
+at baseline (conducted within 7 days before dosing) and at 2, 8, 15, 29, and 43 days after dosing.
+
+
+Interventions Interventions were a 25-mg dose of synthetic psilocybin or a 100-mg dose of niacin in
+
+identical-appearing capsules, each administered with psychological support.
+
+
+Main Outcomes and Measures The primary outcome was change in central rater-assessed
+
+Montgomery-Asberg Depression Rating Scale (MADRS) score (range, 0-60; higher scores indicate more
+
+severe depression) from baseline to day 43. The key secondary outcome measure was change in MADRS
+
+score from baseline to day 8. Other secondary outcomes were change in Sheehan Disability Scale score
+
+from baseline to day 43 and MADRS-defined sustained response and remission. Participants, study site
+narennnal ctidw ennnenr nııtcnma accacenre (ratare) and ctaticticiane were hlindad tn traatmant
+
+9
+a,
+v=
+
+
+o— v=
+
+
+Sections PDF CME Share
+
+
+2 of 22 07.07.26, 20:41
+
+[PAGE 003]
+
+Single-Dose Psilocybin Treatment for Major Depressive Disorder: A R. https://jamanetwork.com/journals/jama/fullarticle/2808950
+
+
+Results A total of 104 participants (mean [SD] age, 41.1 [11.3] years; 52 [50%] women) were
+
+randomized (51 to the psilocybin group and 53 to the niacin group). Psilocybin treatment was
+
+associated with significantly reduced MADRS scores compared with niacin from baseline to day 43
+
+(mean difference,-12.3 [95% Cl, -17.5 to -7.2]; P <.001) and from baseline to day 8 (mean difference,
+
+12.0 [95% Cl, -16.6 to -7.4]; P<.001). Psilocybin treatment was also associated with significantly
+
+reduced Sheehan Disability Scale scores compared with niacin (mean difference, -2.31 [95% Cl, -3.50 to
+
+-1.11]; P<.001) from baseline to day 43. More participants receiving psilocybin had sustained response
+
+(but not remission) than those receiving niacin. There were no serious treatment-emergent AEs;
+
+however, psilocybin treatment was associated with a higher rate of overall AEs and a higher rate of
+
+severe AEs.
+
+
+Conclusions and Relevance Psilocybin treatment was associated with a clinically significant sustained
+
+reduction in depressive symptoms and functional disability, without serious adverse events. These
+
+findings add to increasing evidence that psilocybin—when administered with psychological support—
+
+may hold promise as a novel intervention for MDD.
+
+
+Trial Registration ClinicalTrials.gov Identifier: NCTO3866174
+
+
+Introduction
+
+Interest in the therapeutic potential of the psychedelic psilocybin has skyrocketed in recent years,
+
+spurred in part by increasing awareness of the limitations of currently approved pharmacological
+
+treatments for major depressive disorder (MDD)!=3 and in part by recent studies suggesting that
+psilocybin engenders a rapid antidepressant response that far outlasts the presence of the drug in the
+
+body.®-!5 However, recent critiques highlight notable limitations in many of these studies, 10-13
+including small sample sizes, assessments by raters likely to be functionally unblinded, an open or
+
+waitlist comparator design, and an inadequate assessment of adverse events (AEs). Larger recent
+
+studies have addressed these issues to various degrees, but report primary end points of short
+
+duration, '*:'> leaving open the question of the long-term clinical utility of psilocybin for an often
+chronic condition such as MDD.
+
+
+The current study seeks to address these issues using a randomized, multiblinded design that compared
+
+a single dose of psilocybin with an active placebo comparator (niacin), with outcome assessments
+
+conducted by blinded centralized raters to examine the timing of onset of action, durability of benefit,
+
+and safety profile of psilocybin over a 6-week period.
+
+
+9 Gia, v=
+
+
+o— vZ
+
+
+Sections PDF CME Share
+
+
+3 of 22 07.07.26, 20:41
+
+[PAGE 004]
+
+Single-Dose Psilocybin Treatment for Major Depressive Disorder: A R. https://jamanetwork.com/journals/jama/fullarticle/2808950
+
+
+This randomized, 2-group, phase 2 clinical trial was designed to evaluate the efficacy of psilocybin vs
+
+niacin (active placebo) administered with psychological support in patients with MDD. The trial was
+
+conducted at 11 US sites from December 2019 to June 2022 (list of sites provided in eTable 1 in
+
+Supplement 3). The study was conducted in accordance with the International Conference on
+
+Harmonization Good Clinical Practice Guideline. Participants provided written informed consent before
+
+engaging in study-specific procedures. The protocol was approved by a central institutional review
+
+board (Western Institutional Review Board Copernicus Group) and/or site institutional review boards.
+
+The trial protocol is available in Supplement
+1 and the statistical analysis plan is available in Supplement
+
+2.
+
+
+Participants
+
+Recruitment occurred through a study-specific website, clinical programs at participating institutions,
+
+advertisements, and national clinician-focused and patient-advocate listservs. Eligible participants were
+
+medically healthy adults aged 21 to 65 years who met Diagnostic and Statistical Manual of Mental
+
+Disorders, Fifth Edition (DSM-5) criteria for MDD with a current depressive episode of at least 60 days
+
+assessed by the Structured Clinical Interview for DSM-5 Disorders Clinical Version.2° Participants were
+required to have a central rater-assessed Montgomery-Asberg Depression Rating Scale (MADRS) total
+
+score greater than or equal to 28 at screening, with less than or equal to 30% improvement in MADRS
+
+score during a 7- to 35-day period to allow for a psychiatric medication taper if indicated (including not
+
+receiving antidepressants for >2 weeks or 5 half-lives, whichever was longer), to ensure randomized
+
+participants met criteria for moderate to severe MDD at the baseline assessment. Additional exclusion
+
+criteria included personal or first-degree family history of psychosis or mania, moderate/severe alcohol
+
+or drug use disorder, being unable/unwilling to discontinue prohibited psychotropic medications, use of
+
+a psychedelic drug in the past 5 years or more than 10 lifetime uses, active suicidal ideation with intent
+
+or plan, or suicidal behavior in the past 12 months. There were no exclusions for number of prior
+
+depressive episodes, length of current episode, maximum symptom severity, or number of previous
+
+pharmacological or behavioral treatments, with the exception of history of deep brain or vagus nerve
+
+stimulation, which were exclusionary as a proxy for severe treatment resistance. See the study protocol
+
+in Supplement
+1 for a full list of inclusion and exclusion criteria. Participants were queried regarding
+
+demographic information by site personnel; race and ethnicity were collected in accordance with the US
+
+Food and Drug Administration guidance document Collection of Race and Ethnicity Data in Clinical
+
+Trials.2
+
+
+Study Procedures
+
+Following the 7- to 35-day screening period to allow for a medication taper if needed, participants who
+
+9
+a, D
+v=
+
+
+o— v=
+
+
+Sections PDF CME Share
+
+
+A of 22 07.07.26, 20:41
+
+[PAGE 005]
+
+Single-Dose Psilocybin Treatment for Major Depressive Disorder: A R. https://jamanetwork.com/journals/jama/fullarticle/
+2808950
+
+
+in a 1:1 ratio using permuted blocks with random block sizes of 2, 4, and 6, with randomization stratified
+
+by site, to receive a single 25-mg oral dose of psilocybin or 100-mg dose of niacin. Randomization was
+
+administered centrally by the study's clinical research organization via the Advantage eClinical data
+
+system. Statistical programs generated for randomization by unblinded statistical staff at the clinical
+
+research organization included a master medication list program that generated a random blinded
+
+bottle number code and associated treatment for each bottle and a treatment assignment program that
+
+assigned participants to a treatment. Bottles were labeled by the drug distributor with a blinded bottle
+
+number prior to distribution to sites. On the day of dosing, after participants were confirmed to be
+
+eligible, the data system identified the participant's treatment assignment based on the treatment
+
+table. The data system then identified a bottle shown to be available on site containing the appropriate
+
+treatment. Only the blinded bottle number was then displayed to site staff for treatment
+
+administration.
+
+
+Niacin was used as an active placebo that produces an acute physiological response (flushing) thought
+
+to aid in blinding.®:22 Study drug administration occurred on the same day as randomization (day 1), no
+later than 7 days following the baseline assessment. Postdosing assessments were conducted on days
+
+2, 8, 15, 29, and 43. Participants, study sponsor, and study site personnel were blinded to treatment
+
+group until unblinding following data lock.
+
+
+Study drugs were administered within a “set and setting” protocol?? that was identical for participants
+randomized to receive either psilocybin or niacin placebo and that included (1) 6 to 8 hours of
+
+preparatory sessions with 2 facilitators between the baseline assessment and the day of dosing, (2) a 7-
+
+to 10-hour dosing session conducted in a comfortable room under the supervision of the same
+
+facilitators, and (3) 4 hours of postdose integration sessions during which participants were invited to
+
+discuss their dosing experience with the facilitators. All set and setting sessions (eg, preparatory,
+
+dosing, integration) were protocolized and communicated via instructions in a manual for clinical
+
+facilitators. During the dosing session, participants were encouraged to wear eyeshades and listen to a
+
+curated playlist on headphones. Lead facilitators were doctoral-level psychologists or physicians with
+
+MDD treatment experience and co-facilitators held a minimum of a bachelor's degree in a mental
+
+health-related field. All facilitators completed study-specific training prior to engaging with
+
+participants.
+
+
+Efficacy Assessments
+
+The primary study outcome was between-group difference in mean change of central rater-assessed
+
+MADRS score from baseline to day 43. MADRS is a 10-item scale with a scoring range of O to 60, with
+E NN A AO Y OY E A A E OT A Y 7 UN WW
+ond E Oe
+
+
+9
+POF MAS
+v=
+
+
+O v=
+
+
+Sections PDF CME Share
+
+
+5 of 22 07.07.26, 20:41
+
+[PAGE 006]
+
+Single-Dose Psilocybin Treatment for Major Depressive Disorder: A R. https://jamanetwork.com/journals/jama/fullarticle/2808950
+
+
+clinically meaningful and a change of 12 as clinically substantial.22:2© To reduce the risk of functional
+unblinding of raters, all MADRS assessments, including those at screening and baseline, were
+
+conducted via telephone2’:28 by trained, remote central raters who maintained interrater reliability and
+were blinded to participant treatment assignment, study visit, and the specifics of the protocol and
+
+study design.
+
+
+The key secondary outcome was change in total MADRS score from baseline to day 8. Additional
+
+secondary outcomes included change in Sheehan Disability Scale (SDS) score from baseline to day 43
+
+and proportion of participants with a sustained depressive symptom response, defined a priori as at
+
+least a 50% reduction from baseline MADRS score at days 8, 15, 29, and 43, and sustained depressive
+
+symptom remission, defined a priori as MADRS score less than or equal to 10 at days 8, 15, 29, and 43.
+
+The SDS comprises self-rated items that measure the extent to which psychiatric symptoms have
+
+impaired functioning in patients’ work/school, social, and family/home responsibilities. Scores for each
+
+section range from O to 10,29 and the total score was calculated as the mean score of all 3 sections. No
+MCID is defined for active vs control interventions. If the work/school section was not applicable, the
+
+mean score was calculated as the mean of social life and family/home responsibilities. Administration of
+
+the SDS at baseline and postdosing assessments was overseen by trained and blinded site raters.
+
+
+Exploratory outcomes included scores on the Clinical Global Impressions Scale, Hamilton Anxiety Rating
+
+Scale, Quality of Life Enjoyment and Satisfaction Questionnaire, Symptoms of Major Depressive
+
+Disorder Scale, and the Oxford Depression Questionnaire (to assess emotional blunting). These
+
+exploratory assessments were completed by self-report overseen by blinded and trained site raters at
+
+baseline and all postdosing assessments.
+
+
+Safety Assessments
+
+AEs were collected from enrollment through the end of study and were graded for severity,
+
+seriousness, and relationship to study product by site principal investigators. Treatment-emergent AEs
+
+(TEAEs) were considered any AE that occurred after drug administration. Among TEAEs, an AE was
+
+classified as "related" if there was a reasonable possibility that the study drug caused the event as
+
+judged by site principal investigators. Solicited adverse events included (1) active suicidal ideation
+
+assessed with the Columbia Suicide Severity Rating Scale (C-SSRS) administered by site personnel or
+
+MADRS item 10 and verified by clinical assessment, (2) elevated blood pressure or heart rate requiring
+
+medication, (3) drug overdose with suicidal intent, (4) headache, (5) nausea, and (6) visual perceptual
+
+effects. Serious AEs were classified as those resulting in any of a list of negative health outcomes (eg,
+
+death, inpatient hospitalization, significant or persistent incapacity, congenital birth defect/
+NNPA JN Y CI OP
+A A A PC |
+
+
+= = <
+0 Ba, v=
+
+
+Sections PDF CME Share
+
+
+6 of 22 07.07.26, 20:41

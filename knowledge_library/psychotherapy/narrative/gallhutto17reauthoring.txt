@@ -1,0 +1,687 @@
+[PAGE 001]
+
+Hutto, D. and Gallagher, S. 2017. Re-authoring narrative therapy: Improving our
+self-management tools. Philosophy, Psychiatry & Psychology 24 (2): 157-67.
+
+
+RE-AUTHORING
+NARRATIVE THERAPY:
+IMPROVING OUR SELF-
+MANAGEMENT TOOLS
+DANIEL D. HUTTO & SHAUN
+(GALLAGHER
+
+
+ABSTRACT: Narrative practices have the potential to play als to frame, or reframe, and to manage their life
+a robust part in strategies for self-managing psychoso- circumstances in richer or new ways (Lock &
+cial well-being. Narrative therapy in particular seeks to
+Strong, 2012).
+empower groups and individuals, providing them with
+Narrative Therapy (hereafter NT), an importhe resources and skills needed for positively improving
+tant sub-class of talking therapies, breaks faith
+their own well-being and coping with a wide range of
+lite challenges. However, narrative therapy is in need with more traditional psychodynamic approaches
+of a philosophical update and some theoretical fine- in adopting a not-knowing interactive stance. NT,
+tuning. Re-authoring some key elements of narrative developed by White and Epston in the early 1990s,
+therapy’s official narrative will not only improve our stands out in seeking to empower individuals and
+understanding of it but increase the chances of a wider groups by getting them to look again at their habits
+uptake of self-management strategies. Some features
+of self-narration and to explore the possibility of
+of narrative therapy’s self-understanding invite and
+telling new stories about their individual or colrequire clarification or adjustment in order to benefit
+from new thinking in philosophy and the cognitive lective lives: “As people become more narratively
+sciences. resourced .. . they find that they have available
+KEYWORDS: narrative therapy, folk psychology, self, to them options for action that would not have
+self-management, cognitive science otherwise been imaginable” (White, 2011, p. 5,
+emphasis added). The aim of NT is to expand the
+individual’s or group’s “options in self-formation”
+
+
+H: good or ill. Our narrative practices
+OW WE NARRATE OUR LIVES can affect us, (White, 2004, p. 43).
+NT practitioners pursue this aim by helping
+make an undeniable difference to our individuals or groups to re-author or re-story
+psychosocial well-being. All so-called “talking conversations, enabling them to see new avenues
+cures” — including traditional psychoanalytic and for action and by improving their capacities to
+psychodynamic approaches to therapy and newer respond to such affordances. In terms of its ambitechniques — are motivated by this insight about tions and style, NT “seeks to be a respectful, nonthe power of personal narratives. All therapies of blaming approach to counseling and community
+the discursive ilk make use of narratives, in one work, which centers people as the experts in their
+way or another, as a means of enabling individu- own lives” (Morgan, 2000, p. 4). In short, NT uses
+
+
+© 2017 by Johns Hopkins University Press
+
+[PAGE 002]
+
+158 M PPP/ Vor. 24, No. 2 / JUNE 2017
+
+
+special techniques in order to provide the tools that or adjustment if it is to benefit from new thinking
+enable people to take responsibly for their own in and a wider engagement with philosophy and
+mental health and to exercise their agency in pos- the cognitive sciences.
+itive ways. NT equips individuals with powerful Section 1 reviews NT’s official story about its
+tools that can enhance self-management of mental working methods and theoretical assumptions.
+healthcare. Although NT is very much in the mold Section 2 shows that certain of NT’s central asof “talking cures”, it does not seek to under- sumptions — about science, folk psychology and
+stand past causes of current trauma through such the self — are in need of revision so as to enable
+means. NT’s working assumption is: “Change NT’s further theoretical and practical developthe over-arching narrative representation and ment. Section 3 supplies first pass answers about
+deeper and more extensive opportunities for how NT might revise its narrative concerning these
+engaging in novel behaviors can be ac- assumptions in order to become more internally
+hieved” (Russell et al., 2004, 215). Consequently, coherent and to enter into a more positive and
+its main aim is to use narrative techniques to get cooperative relationship with sciences of the mind.
+people to construct a more positive “future The concluding Section 5 briefly summarizes how
+trajectory rather than achieving past ac- the future development of NT along the theoretical
+curacy” (Graham, 2010, p. 14). lines we propose opens up promising new pos-
+Decades after its inception, NT is now well sibilities for NT to feature in self-management
+established in practice. NT is widely used as a mental healthcare strategies.
+basis for personal, family and community intervention and treatment around the world. It is NARRATIVE THERAPY: THE
+especially popular in Australia and New Zealand,
+OFFICIAL STORY
+where it originated, having its main base in the
+Dulwich Centre, Adelaide which was founded in One of NT’s central tenets is that deficiency1984. Other Centers and Institutes of NT have centered stories limit options for action (White,
+been established in parts of the English-speaking 2004, p. 34). Such stories pathologize and disworld, Canada, the UK and USA. Although there empower people by making it seem as if their
+is limited scientific evidence of the efficacy of NT, problems are an essential part of who they are. In
+it enjoys a reputation as providing an attractive general, prét-a-porter narratives — those inherited
+means of supporting people from diverse back- uncritically from the surrounding culture — tend
+grounds. For example, NT has been used to help to foster such negative and limited ways of thinkpeople deal with a wide range of problems, from ing. Such narratives restrict a person’s vision and
+asthma, anorexia, bulimia, depression and other capacities for self-understanding by presenting
+psychiatric illnesses to trauma (Murdoch, 2009, only a limited array of options. Those who operate
+p. 494). As such, it has the potential to inform with such “thin” narratives perceive fewer of the
+approaches to self-management in mental health genuine possibilities for action, fewer affordances.
+care. This is especially so on the assumption that The danger, as NT practitioners point out, is
+a set of narrative skills, once acquired, can be that “All too often, the stories we believe about
+deployed independently, without continued reli- ourselves have been written by others” (Denborance on therapists. ough, 2014, p. 8). In passively buying into and
+Despite its successes, NT is in need of a philo- repeating narrow and negative narratives we
+sophical update and some theoretical fine-tuning. unnecessarily restrict our life possibilities. NT
+By re-authoring some key elements of narrative guards against this by questioning such narratives,
+therapy’s official narrative, the therapy itself will insisting on the need for people to reclaim and
+be afforded new possibilities for development and take back their “storytelling rights” (Denborough,
+wider uptake. This paper provides an initial analy- 2014, p. 8, 10, 22). The practices of NT help
+sis of some features of narrative therapy’s self- people to reclaim these rights, by enabling them
+understanding that invite and require clarification “to break from thin conclusions about their lives,
+
+[PAGE 003]
+
+HUTTO AND GALLAGHER / RE-AUTHORING NARRATIVE THERAPY M 159
+
+
+about their identities, and about their relation- of being and new possibilities for action are put on
+ships” (White, 2000, p. 4). This way of seeing the the table. All of this works because narratives are
+landscape of therapy is connected to one of NT’s necessarily selective. Whichever story we tell
+grounding post-structuralist assumptions that “it about our lives there are always other options
+is not one’s motive that shapes action, but one’s — possibilities that were not foregrounded, not
+account of one’s motive that has been socially mentioned, not attended to. Any story of the days
+derived in narrative negotiations that does so” of our lives — even a single day of our lives — is
+(White, 2000, p. 4). never the whole story. Hence “there are many dif-
+Chief amongst NT’s tools for combatting such ferent events in our lives, but only some of them
+life-limiting stories is that of externalizing conver- get formed into the storylines of our identities”
+sations that “open options for people to redefine or (Denborough, 2014, p. 6).
+revise their relationships with a problem” (White, As such it need not be that a dominant story is
+2004, p. 32; Murdoch, 2009, p. 501). NT’s favor- false; it is enough that a dominant story is limited
+ite slogan is that “the person is not the problem, and partial, occluding alternative storylines that
+the problem is the problem” (Denborough, 2014, can possibly “provide the gateway or point of
+p. 26). The crucial move in getting clients to see entry to the exploration of other knowledges of
+this is to get them to abandon the idea that the life and other skills of living or practices of life
+problem is a crippling, essential feature of the indi- that are cultural and historical” (White, 2011,
+vidual or group and come to treat it as something p. 9). By taking a fresh and fuller look at their
+apart and distinct from themselves — something own lives people can explore healthier possibilities
+that can be addressed and dealt with by means for narrating it — they can “rework or rewrite the
+of a number of strategies. NT thus “refuses to storylines of identity” (Denborough, 2014, p. 3,
+locate problems inside people . . . [it] refuses to 21). Here it is important to recognize that NT
+pathologize people” (Denborough, 2014, p. 26). does not view the alternative storylines it helps to
+The main NT strategy is to find new, richer foster as radically constructed (see White, 2004,
+stories to tell about one’s life, and thus p. 43; White, 2011, p. 9). On the contrary, they are
+augment one’s resources; this involves finding and deemed more realistic, fuller accounts of one’s life.
+attending to so-called “unique outcomes” — those
+“sparkling moments” — in which one’s problem PROBLEMATIC STORIES: SCIENCE,
+did not impede the living of life; those times at
+FOLK PSYCHOLOGY AND SELF
+which one had the strength and means to deal
+with it effectively or to put it aside (Murdoch, Given the way NT seeks to retrain and empow2009, p. 500; Denborough, 2014, p. 49). The er individuals it has great promise to add to the
+end result of this process of re-storying, if all range of self-managed approaches to mental
+goes well, is increased “response-ability” - health, but it needs updating. Certain familiar
+enabling people to become “more able to philosophical assumptions about the nature of
+respond” (Denborough, 2014, 36). This in- science, folk psychology, and selves are
+volves developing and mobilizing one’s practi- obscuring a healthier understanding of NT, and
+cal know-how and life skills (White, 2004, p. are removing or reducing fruitful opportunities
+39, 40). Once these new self-management for NT to engage with the best philosophy and
+capacities are established, further NT conversa- science of the mind. Put otherwise, it appears
+tions help to provide the necessary support and that dominant stories about science, folk
+scaffolding to ensure that the new, richer psychology and selves, embraced or endorsed
+storylines and the expanded possibilities for by leading NT practitioners, may be standing
+action associ-ated with them take root and in the way of valuable possibilities for NT’s
+flourish. future theoretical, scientific and _ practical
+The crucial point is that by shifting one’s think- investigation, assessment and development.
+ing, so that problems are externalized, new ways We identify three main sources of tension.
+
+[PAGE 004]
+
+160 M PPP/ Vor. 24, No. 2 / JUNE 2017
+
+
+CONFLATING SCIENTISM WITH SCIENCE our lives” (Denborough, 2014, p. 242, emphasis
+
+NT subscribes to a constructivist framework added).
+The stories we tell about ourselves either open
+that promotes the view that social realities are
+something that we can create and construct for up or close down affordances and therefore make
+factual, existential differences to possibilities for
+ourselves, even if not radically. In this NT is
+directly inspired by the interpretive turn made living our lives. We can alter the possibilities
+for living a life by narrating that life differently.
+prominent by French postmodernists. In adhering
+to a post-structuralist framework NT opposes the These ideas are at the very heart of NT. Through
+re-authoring one comes “to attach significance
+sort of exclusive scientific realism associated with
+to some... previously neglected events” (White,
+grand narratives about science (see Murdoch,
+2009, p. 491, 494). NT justifiably rejects the idea 2011, p. 5). And by attaching significance indi-
+viduals contribute “to possibilities for significantly
+that there is one and only one true story to be told
+about ourselves and the world - especially when, different responses to the events of their lives”
+(White, 2011, p. 6).
+to this basic claim, it is added that such a story
+must be told, in the end, in the vocabulary of the Practically speaking, the hostility some NT
+practitioners bear towards scientistic grand narrahard sciences — preferably, if possible, only in the
+language of physics. Following in Foucault’s foot- tives has apparently led, through guilt by associa-
+tion, to unnecessarily hostile relations between NT
+steps, NT practitioners treat this claim as part and
+and the empirical sciences. NT practitioners typiparcel of “the ‘grand abstractions’ of reductionist
+cally shun formal, empirical assessments, allegedly
+science... [abstractions that have] dehumanized
+and objectified people”(Combs & Freedman for two main reasons: “First, traditional models
+
+2004, p. 139).
+of assessment assumea single reality to which the
+therapist has access. Second, these processes tend
+There are certainly many excellent reasons to be
+suspicious of and indeed hostile towards exclusive, to be pathology-oriented and may ignore cultural
+or other contextual factors” (Murdoch, 2009,
+reductionist “scientistic grand narratives” (see
+Putnam, 1990; Hutto, 2000). Yet those reasons p. 499). A bad consequence of NT’s steering clear
+of the empirical sciences, however, is that “little
+are not good reasons to be suspicious of truth,
+objectivity or the sciences — when understood in traditional theory testing or outcome research can
+be found that is specific to NT counseling” (Mura suitably modest fashion.
+Philosophically speaking, if postmodern suspi- doch, 2009, p. 513).* The lack of proper empirical
+
+cions about truth and objectivity are overplayed credentials has in turn resulted in NT not being
+deemeda scientifically respectable form of therapy
+it becomes difficult to make sense of how NT is
+meant to work in practice in a way consistent with by mainstream researchers and practitioners.
+The mutual antagonism between NT and scienNT’s official story. For it is not as if NT avoids
+commitment to the idea that there are truths tific approaches to mind and mental health works
+to keep NT “outside the mainstream elaboration
+about our lives that outstrip the stories we tell
+about them. Rather it claims that as, “we retell of psychotherapy by university-based research and
+training programmes” (Polkinghorne, 2004, p. 53,
+and rewrite the stories of our life, the facts of our
+lives won’t change, but their meaning will change” Vromans & Schweitzer, 2011, p. 5). By developing
+
+(Denborough, 2014, p. 21). Yet it is not just the healthier relations with the sciences of the mind,
+NT can avoid being “on the fringe” — of being the
+meanings we adopt that change in such cases,
+our practices and underlying skill sets alter too. sort of approach that mainstream mental health
+and policymakers are likely to systematically
+Something over and above our narrative choices
+changes in the process. After all, NT assumes that ignore, or at least marginalize. Addressing this is
+important to prevent them from overlooking and
+through narrative practice we can reshape our
+current life and thereby alter future possibilities underrating NT’s unique story-based and valuable
+form of therapy.
+for engagement. This is precisely why “it makes a
+real difference how we talk about the problems in
+
+[PAGE 005]
+
+HUTTO AND GALLAGHER / RE-AUTHORING NARRATIVE THERAPY MM 161
+
+
+SHALLOW AND CULTURALLY BIASED FOLK What about the cultural bias worry? NT is
+PsYCHOLOGY “shaped” and “informed” by an FP tradition that
+
+Another major reason why NT is not better lays great stress on notions of (1) personal agency
+
+and more widely received is that it is fundamen- as driven by (2) intentional attitudes (beliefs, detally committed to folk psychology (hereafter FP) sires, hopes) and how they interact (White, 2004,
+
+(White, 2004). The trouble is that FP “hasn’t fared p. 20, 28, 49). To construe FP in this way, and to
+that well in the arena of professional psycholo- make it foundational to the thinking behind NT -
+
+gies. It is lowly ranked and marginalized by these part of its very basis — renders NT culturally biased
+psychologies” (White,p. 2004, 20). FP is arguably and skewed, despite its best intentions.
+
+best thought of as a kind of domestic anthropol- This is ironic, given NT’s appeal to post-struc-
+
+ogy — one “mired in biases of local culture” (see turalism, since the emphasis on personal agency
+
+e.g., Stich, 1983, Hutto, 2008). As such, FP expla- and intentional states is arguably a feature of the
+
+nations don’t run very deep. Let’s consider these Western, Eurocentric “theory of mind”- a “re-
+
+worries in reverse order. flection of this folk psychology’s theory of mind”
+
+There is every reason to doubt that FP expla- (White, 2004, p. 20, emphasis added). White
+
+nations get at the true causes of action. Hence, claims that such an emphasis “is still strongly
+
+if it is assumed that NT’s main therapeutic task featured in the great majority of folk psychological
+depends on having a deep understanding of the accounts of human action” (White, 2004, p. 20).
+
+mind then NT runs into trouble since FP explana- That may well be true of WEIRD people (those
+
+tions are “not up to the sophistication and rigor from Western, Educated, Industrialized, Rich,
+
+required by modern psychology” (White, 2004, and Democratic countries) but there is evidence
+
+p. 20). Essentially, when it comes to explaining of divergent practice too, that some people from
+
+the basic mechanics and dynamics of the mind, other cultures favor other styles of FP explana-
+
+FP is viewed as being unscientific and naive in tions (see Hutto, 2008; Fiebich, 2014; Hutto &
+
+its conceptions. In a word, FP is just too shallow Kirchhoff, forthcoming). As a result, so long as
+
+and “folksy” to be a respectable part of a proper NT gives pride of place to a peculiarly Western
+science of the mind needed for illuminating the form of FP at its basis, “NT can't just be blindly
+
+basis of psychopathologies. For: applied in cultures other than the ones in which it
+originated” (Murdoch, 2009, p. 511).?
+mind has an existence and substantive character
+It is well known that “Effective cultural con-
+that goes well beyond, and is independent of our
+sultation requires an awareness of the constraints
+best commonsense interpretative practices. Hence
+knowing the truth about the mind requires a of [power, prejudice, identity and cultural dis-
+great deal more than informed reflection on those sonance] on clinicians’ agency, engagement and
+practices. In fact, it requires cognitive science positioning as well as on clients” (Guzder, 2014
+(Carruthers, 2011, p. xiv). p. 164). NT therapists actively and sensitively
+adjust their practices in light of cross-cultural dif-
+We agree with Carruthers that cognitive sci-
+ferences. For example, therapists working within
+ence, not folk psychology, reveals the basic nature
+an overwhelmingly white Australian culture reof minds. We disagree with him in thinking that
+shape their therapeutic practice significantly when
+cognitive science will end up endorsing some form
+dealing with Aboriginal communities (see, e.g.
+of classic cognitivism. Nevertheless, the above
+Denborough et al., 2006). African and Palestinian
+remarks highlight the need for NT to take stock
+NT practitioners — who operate in contexts where
+of debates about the fundamental nature of minds
+the we/l balance differs than in conceptions of
+if it is to properly situate its form of therapy and
+Western folk psychology — must modify and even
+justify it within a wider set of possible approaches.
+sometimes invent their own forms of narrative
+Making this effort would also allow NT to benefit
+practice. Over last 20 years, The Dulwich Centre
+from new findings in cognitive science that could
+has actively sought to ensure its approach is
+shed light on how narratives play their part in
+appropriately sensitive to such differences in
+changing attitudes and habits.
+
+[PAGE 006]
+
+162 M PPP/ VoL. 24, No. 2 / June 2017
+
+
+outlook through cross-cultural partnerships. To ceive of the self that is, at once, both the agent and
+complete this work NT also needs to update the the patient of self-management.
+official vision of folk psychology that informs its
+background philosophy in line with these adjust- ALTERNATIVE STORIES: SCIENCE,
+ments to its practice.
+FOLK PSYCHOLOGY AND THE SELF
+SUBJECTED SELVES In the limited space available, we want to sketch
+some positive revisions to NT concerning the three
+NT focuses on opening up possibilities for
+topics identified above that will overcome the
+active and creative self-development through re-
+sorts of theoretical and practical difficulties NT
+authoring. As such it requires an understanding of
+currently encounters. This is a prolegomena for
+selves that is more protean and open-ended than
+future work and deeper investigations.
+the modern, Western conception allows. Thus it
+sets its face against a tradition of thought that iden-
+SCIENCE NOT SCIENTISM
+tifies selves as enduring egos, entities that persist
+and survive unscathed through change - it rejects The existing scientific literature lends broad
+the picture of an “adamantine self — obdurate and empirical support to NT’s working assumption
+unchanging” (Kirmayer, 2003, p. 179). In place of that certain narrative practices, those involving
+this notion of the self, NT looks to postmodernism particular kinds of rich storied content, used in
+for inspiration. particular ways for particular purposes, corre-
+The intellectual links between NT and post- lates positively with mental health. A number of
+structuralist/postmodern theory are so tight that findings demonstrate that people “who are able
+NT is sometimes dubbed “postmodern therapy” to narrate the emotional events of their lives in
+(Polkinghorne, 2004, p. 54). Accordingly, NT is more self-reflective ways show better physical and
+fundamentally anti-essentialist when it comes to psychological health” (Fivush et al., 2010, p. 46).
+thinking about selves. It is highly critical of “West- Other findings also reveal that choice of narrative
+ern culture’s taken-for-granted understandings is important to our well-being, showing that “How
+that construct a self at the center of personhood” we remember the stressful events of our lives
+(White, 2004, p. 32). has an impact on our ability to cope” (Fivush &
+There is a tension, however, between adopt- McDermott-Sales, 2006, p. 125; McDermott Sales
+ing standard postmodern visions of the self and et al., 2005). Coping is not here to be understood
+NT’s fundamental commitment to the possibility as merely a backward looking matter of dealing
+of personal transformations. Commitment to the with a past event — it is also a forward-looking
+idea that individuals and groups can transform matter dealing better with other, similar stressful
+themselves “separates these therapists from what future happenings.
+has been the view of postmodern philosophers that On the face of it, it appears that as long as
+the subject is a passive creation of social discourse” the goal and methods of scientific work are un-
+(Polkinghorne, 2004, p. 65). Again, there is a need derstood in appropriately modest ways, there is
+to re-author NT’s official story: Polkinghorne goes no reason why NT could not benefit from direct
+on to argue that “[narrative therapists] need to be empirical assessment. Of course, any investigaless impressed by the version of postmodernism tions would need to be conducted in ways that are
+developed in the work of. . . French postmodern sensitive to the nature of NT. This seems entirely
+philosophers and more aggressive in their pre- possible (cf. Murdoch 2009, p. 509).
+sentation of their own version of an existentially Indeed, taking care to identify appropriate meainformed postmodernism of human self-creation”. sures and assessments, Vromans and Schweitzer
+The challenge, then, is for NT therapists to become (2011) recently conducted the first rigorous em-
+“more assertive in their rejection of the empty and pirical investigation of NT. Their findings report
+powerless subject,” (Polkinghorne, 2004, p. 65).° effective improvement in depressive symptoms
+NT needs to say more about how we should con- and interpersonal relations after eight sessions
+
+[PAGE 007]
+
+HUTTO AND GALLAGHER / RE-AUTHORING NARRATIVE THERAPY HM 163
+
+
+of manualized NT with 47 adults with major p. 214). Defending this view would be defending
+depressive disorder. Benchmarking and clinical the view that seemingly Western notions of “persignificance analyses used to evaluate outcomes sonal agency” and “intentional states” are in fact
+showed NT gains to be ona par with other widely truly the universal core of all human FP practice.
+used forms of therapy, such as Cognitive Behav- There is another, better way for NT to unioral Therapy and Psychodynamic Interpersonal, derstand the relation between FP and narrative
+Prolonged Exposure Therapy. However, at a three- practices — one that allows it to be more appromonth follow-up, it was found that only depres- priately sensitive to differences in those practices
+sive symptoms and not interpersonal relatedness across cultures. The alternative way to think about
+improvements were maintained.* FP gives pride of place to narrative practices in a
+Clearly NT proponents need to separate sci- way that better suits NT, and which better fits the
+entific wheat from scientistic chaff. There are known facts about FP practice and development.
+surely ways of elucidating and understanding the The Narrative Practice Hypothesis (NPH) rejects
+scientific enterprise without construing it under the idea that FP entails the existence of ToMs. It
+the guise of grand narrative scientism. understands FP as a competence fostered by en-
+gaging in socially supported storytelling activities
+FOLK PSYCHOLOGY AS NARRATIVE (Hutto, 2007; 2008a; 2008b; 2009, Gallagher &
+PRACTICE Hutto, 2008).
+The worry that NT is, at root, culturally biased The NPH holds that “storytelling practices
+is motivated by NT’s commitment to understand- scaffold folk psychological reasoning, or reasoning
+ing narrative practices through the lens of a West- about one’s own and others’ reasons for acting”
+ern “theory of mind” (hereafter ToM). On the face (Herman, 2013, p. 94). Yet this does not imply that
+of it, it seems hard to avoid this charge. Michael engaging in narrative practices builds up a ToM
+White, for example, more than flirts with the idea that was already present in weaker form. Accordthat NT is based on FP as a kind of culturally ing to the NPH, engaging with narrative practices
+inherited ToM. He confirms the standard story does not put the icing on a pre-existing, universal
+that we need ToM “to comprehend the selves of ToM cake. Instead it is through participating in
+others” (White, 2004, p. 38). He also speaks of narrative practices that such a culturally local FP
+FP, not as a practice, but as if it were something to cake is baked. Thus “it is FP that is facilitated by
+be “employed”, “put into service” — as something narrative rather than vice versa” (Cobley, 2014,
+that “equips us with a range of notions about what p. 227; see also Herman, 2013, pp. 296-298).
+makes people tick” (2004, p. 19). FP is not monomorphic — one should expect the
+To think of FP in this ToMish way encourages forms and norms of our FP explanations to vary
+a standard vision of how narrative practices relate systematically in line with local narrative practices
+to and play a part in its development. It typically (see Hutto & Kirchhoff, forthcoming).
+promotes a ToM-first vision according to which, Of course, going this way only exacerbates
+local narrative practices put the icing on a univer- the worry that NT’s commitment to FP makes it
+sally sourced ToM cake. Those who subscribe to shallow and unscientific. How best to respond?
+this view regard ToM as a universal theory about Undeniably, an uncritical commitment to FP can
+how mental states enable personal agency in our promote oversimplified ideas and misleading picspecies. ToM is part of the basic equipment of all tures about how minds really work. Many are atnormally developing individuals, whereas “narra- tracted to the idea that intentional attitudes - such
+tives enable individuals to interface their theories as beliefs, desires and emotions — are neatly and
+of mind in symbolic and literal action” (Russell et discretely defined, causally efficacious, contental., 2004, p. 214, emphasis added). Accordingly bearing inner states that figure in nicely staged
+storytelling is a given culture’s normative strategy and sequenced linear processes and operations.
+through which a universal ToM is “conveyed, However, it seems the mind is messier than that.
+developed and practiced” (Russell et al., 2004,
+
+[PAGE 008]
+
+164 M PPP/ Vor. 24, No. 2 / JUNE 2017
+
+
+Putting emotion in the spotlight, Baumeister evident in our ways of living, in our acts of life”
+et al. (2007) make this point vividly. They trade (White, 2004, p. 39). New thinking about how
+the simplistic and intuitively appealing idea that we come to respond to affordances in embodied,
+mental states directly cause behavior for a vision enactive ways holds out the promise of deeper ilof mental processing that understands cognitive lumination into how NT works, which may lead
+influence in more complex, dynamical and holistic to potential improvements.
+terms. One goal of cognitive science could to be to
+investigate just how narrative activity manages to
+People will explain someone’s behavior in terms
+of “because she was mad” or “because he was affect changes in our skill set, without assuming
+afraid”, as opposed to saying “anger directed her that FP explanations will form part of the best
+cognitive processing to focus disproportionately mature explanation of this process. Adherents
+on certain possible outcomes, whereupon her of FP can agree, just as eliminativists claim, that
+behavioral decision process failed to take certain propositional attitudes directly causing actions is
+potential risks into account” or “fear temporar-
+unlikely to figure in our best developed scientific
+ily reordered his goal priorities, causing him to
+accounts of the basic nature of minds and how
+abandon one goal in favor of the seemingly urgent
+albeit irrational goal of escaping the situation they operate (cf. Churchland, 2007). Hence, to
+(Baumeister et al., 2007, p. 168). contend that FP doesn’t tell us much if anything
+about the underlying dynamics of the mind is no
+Let us assume the second analysis is closer to
+reason at all to dismiss person-focused therapeutic
+the truth. Even if it is, FP’s lack of transparency
+approaches that make use of FP practices.
+about the underlying dynamics of mind is only a
+problem for FP if it is assumed that FP is in the
+SELVES AS PATTERNS
+business of trying to give causal explanations of
+Are there ways for NT to get beyond its atthis sort in the first place. FP’s explanation will
+tachment to post-structuralist conceptions of
+only be deemed shallow if it is assumed that FP
+the decentered self? To embrace the concept of a
+and cognitive science are competing on this score.
+postmodern self, after all, is self-defeating for NT.
+If that is the case then one can motivate eliminativ-
+Rather than seeing the subject as a locus of control
+ism about FP on the grounds that its explanations
+over its individual life, the post-structuralist view
+are inferior to those of the cognitive sciences.
+understands the subject to be the subjected — the
+Once we construe FP as a narrative practice
+product of larger forces of language and power
+that is not interested in offering causal explana-
+(e.g., Foucault, 1988). But that means that any
+tions that compete with those of the cognitive sci-
+post-structuralist bid for emancipation or selfences it becomes possible to view the relationship
+management appealing to narrative as a means
+between FP and cognitive science as cooperative,
+for self-formation would be seen as an illusion;
+not competing (see Hutto, 2011 for a detailed
+since language is not something under individual
+argument). This fits with Kirmayer’s assessment
+control every individual is shaped by social forces.
+that we are “on the threshold of a renaissance,
+In contrast, a pattern theory of self better suits
+in which complex-systems thinking will allow us
+NT in suggesting that things are more complicated
+to integrate neuroscience, psychology, and the
+than either the Cartesian extreme of total selfsocial sciences” (Kirmayer, 2015, p. 1169). View-
+governance or the post-structuralist extreme of
+ing FP as a narrative practice — one that provides
+a completely emaciated self (Gallagher, 2013). It
+normalizing explanations that are personal and
+begins by acknowledging that there are determinparticular as opposed to causal explanations of a
+ing forces of biology and sociality over which we
+general, mechanical sort - allows us to see how
+do not exercise control. The facticity of human
+our narratives can reveal new opportunities for
+embodiment and the fact that we are necessarily
+action, just as NT assumes. Embodied, enactive
+intersubjective beings place real (material) limits
+and ecological approaches to mind are perfectly
+on the type of identities that we can take on. At
+poised to explicate the basis of “skills that are
+the same time, however, these factors are enabling
+
+[PAGE 009]
+
+HUTTO AND GALLAGHER / RE-AUTHORING NARRATIVE THERAPY M 165
+
+
+conditions that allow us to engage in actions and identity involved. Narrative distance allows for
+joint endeavors that permit some degree of tran- some critical space to open up, and this itself can
+scendence and freedom. introduce some degree of control and transforma-
+Narrative is double-barrelled in the same way. tion in terms of how I want to understand myself.
+Just as language places limitations on how we can This kind of critical narrative distance is essential
+make ourselves understood, at the same time al- for self-management.
+lowing for an infinite number of ways to express Second, this is not the whole story because
+ourselves, narrative practices likewise can be we are not just narrative selves. The capacity we
+conservative and reproductive, and yet offer the have for narrative is only one factor in a pattern
+resources for criticism and transformation. How is of existence that includes biological and experithis possible? In this regard, there are two impor- ential factors, social and psychological factors,
+tant things to consider: (1) the nature of narrative emotional and situational factors. Narrative
+itself, specifically the concept of narrative distance, practices, and the critical distance they can open
+and (2) the fact that we are not merely narrative up, can give us some leverage for self-management
+selves — narrators or narrated subjects. and transformation; but they could provide no
+First, narrative has a certain internal structure such leverage unless we were also embodied bedescribed in the concept of narrative distance. ings able to act and to have a sense of agency
+Narrative distance is a concept that goes back to for such action. And such action would be
+Aristotle’s Poetics. It indicates how far removed entirely unmotivated unless we were already in
+the narrator is from the narrated events (Andringa, the world and with others, engaged in joint
+1996; Lothe, 2000). For example, there is less actions or in oppositional reactions, or retreating
+distance between the narrator and the narrated from such engagements because we are deevents if the narration is done in the first person pressed, or broken-hearted, or alienated or
+versus third person (this is perspectival distance); traumatized.
+the amount of time between the narration and the A pattern theory of self emphasizes this multidinarrated events characterizes a temporal distance; mensional existence where possibilities outlined by
+and the extent and the valence of the narrator’s narrative are possibilities only because we are emevaluation of the events (evaluative distance) can bodied actors situated in pragmatic contexts with
+also be a measure of narrative distance. Finally, others. Therapy, or, importantly, self-management
+various interpretive aspects of narration intro- can target any of these factors in order to target
+duce limitations and biases into the recounting of them all. A change in narrative self-understanding
+events. All narrative recounting is an interpreta- can modulate our intersubjective behaviors; a
+tion due to factors such as the narrator’s interest change in bodily practices can transform our
+or purpose, the audience and its expectations, etc. narrative self-understanding; a change in worldly
+(Bedwell et al., 2011; Gadamer, 1989; Ricoeur, circumstances, or mood, or instituted practice can
+1981). equally affect all the other factors that make us
+The same concept applies to autobiographical who we are.
+(or self-) narrative. Specifically, there is always
+some distance between the self who narrates and
+CONCLUSION
+the self who is narrated. When the narrator says, NT is aptly placed to inform approaches to the
+for example, “I had a great journey,” the ‘I’ points self-management of mental health. Insofar as NT is
+in two directions: to the narrator, signifying that based on changing and developing self-narratives,
+the narrator means to say something about herself; it supports those who abandon the idea that the
+and to the person or character whom the narrator job of therapy is the expert treatment of afflicting
+was, at some point in the past, during the journey. mental disorders and instead see it as working to
+The narrator implies an identity between herself make individuals more adept and expert in copand the person she is talking about, but there ing with life challenges. NT strategies provide the
+is necessarily some degree of difference or non- means for individuals to be actively and centrally
+
+[PAGE 010]
+
+166 M PPP/ Vor. 24, No. 2 / June 2017
+
+
+engaged in the enhancement and maintenance of graphical narratives. Consciousness and Cognition,
+their own well-being. 20, 547-555.
+Carruthers, P. (2011). The opacity of mind: an inte-
+Unfortunately there has been ‘little focus on
+grative theory of self-knowledge. Oxford: Oxford
+what aspects of narrative representation may be
+University Press.
+most fruitful to target for change or repair’ (Rus- Churchland, P. (2007). The evolving fortunes of elimisell et al., 2004, p. 215). Apart from a philosophi- nativist materialism. In B. McLaughlin & J. Cohen
+cally informed re-authoring of NT’s official story, (Eds.), Contemporary debates in philosophy of mind
+another major agenda item is to determine which (pp. 160-181). Oxford: Blackwell Publishing..
+kinds of narrative (identifying their special proper- Cobley, P. (2014). Narrative. London: Routledge.
+
+ties) and which practices (the way such narratives Combs, G. & Freedman, J. (2004). A poststructural-
+ist approach to narrative work. In L. E. Angus &
+are used) best aid promotion of psychosocial
+J. McLeod (Eds.), The handbook of narrative and
+well-being. Mental health policymakers should
+psychotherapy (pp. 137-155). London: Sage.
+be made aware of the promise of NT and take Denborough, D. (2014). Retelling the stories of our
+it into account when recommending appropriate lives. New York: W.W. Norton and Company.
+courses of self-managed treatment and customized Denborough, D. Koolmatrie, C., Mununggirritj, D,
+assistance. Marika, D., Dhurrkay, W., & Yunupingu, M.
+(2006). Linking Stories and Initiatives: A Narrative
+Approach to Working with Skills and Knowledge of
+NOTES
+Communities. The International Journal of Narra-
+1. Vromans and Schweitzer report: “Currently, no
+tive Therapy and Community Work, 2. [Retrieved
+rigorous empirical support exists for narrative therapy.
+from www.dulwichcentre.com.au].
+The omission likely arises from fundamental differences
+Epston, D. (2011). Introduction. In M. White & D.
+in theories of knowledge distinguishing postmodernist
+Denborough (Eds.) Narrative practice: continuing
+from modernist thought” (Vromans & Schweitzer,
+the conversations. New York: W. W. Norton.
+2011,
+p. 4).
+Fiebich, A. (2014). Narratives, culture, and folk psy-
+2. This raises wider questions about other, epistemic
+chology. Phenomenology and the cognitive sciences.
+differences in the narrative practices of various cultures
+DOI 10.1007/s11097-014-9378-7. 1-15.
+about whether and how any given narratives “fit
+Fivush, R., Bohanek, J. G., & Zaman, W. (2010). Perwith templates... exemplars of ‘good explanations’ ...
+sonal and intergenerational narratives in relation
+external, cultural forms” (Kirmayer, 2003, p. 172).
+to adolescents’ well-being. In T. Habermas (Ed.),
+3. The need for re-authoring is something leading
+The development of autobiographical reasoning in
+NT proponents accept. Epston raises the worry that
+adolescence and beyond: new directions for child
+NT may be “becoming theoretically passé” (Epston,
+and adolescent development, 131 (pp. 45-57). NY,
+2011, p. xxxvi).
+NY: Wiley.
+4. Vromans and Schweitzer (2011) note that their
+Fivush R. & McDermott Sales, J. (2006). Coping, atresearch “was limited by its small sample” and lacked
+tachment, and mother-child narratives of stressful
+“generalizability” (Vromans & Schweitzer, 2011, p. 13).
+events. Merrill-Palmer quarterly, 52(1), 125-150.
+This highlights the need for further comparative and
+Foucault, M. (1988). Technologies of the self: A seminar
+more in-depth research designed with larger samples
+with Michel Foucault. Boston: University of Mastargeting a wider variety populations and complaints.
+sachusetts Press.
+Gadamer, H. G. (1989). Truth and Method (2** ed.).
+REFERENCES London: Sheed and Ward.
+Andringa, E. (1996). Effects of ‘narrative distance’ on Gallagher, S. 2013. A pattern theory of self. Frontiers
+readers” emotional involvement and response. Poet- in Human Neuroscience. 7. 443.
+ics, 23, 431-452. Gallagher, S. & Hutto, D. (2008). Understanding others
+Baumeister, R. E, Vohs, K.D., DeWall, C.N., & Zhang, through primary interaction and narrative practice.
+L. (2007). How emotion shapes behavior: feedback, In: J. Zlatev, T. Racine, C. Sinha, & E. Itkonen (Eds).
+anticipation, and reflection, rather than direct cau- The Shared Mind: Perspectives on Intersubjectivity
+sation. Personality and social psychology review, (pp. 17-38). Amsterdam: John Benjamins.
+11(2), 167-203. Graham, G. (2010). The disordered mind. London:
+Bedwell, J., Gallagher, S. Whitten, S., & Fiore, S. (2011). Routledge.
+Linguistic correlates of self in deceptive oral autobio-
+
+[PAGE 011]
+
+HUTTO AND GALLAGHER / RE-AUTHORING NARRATIVE THERAPY M 167
+
+
+Guzder, J., Santhanam-Martin, R., & Rousseau, C. Lothe, J. (2000). Narrative in fiction and film. Oxford:
+(2014). Cultural Consultation: Encountering the Oxford University Press.
+Other in Mental Health Care. In L.J. Kirmayer et Murdoch, N. (2009). Theories of counseling and psy-
+al. (Eds.). International and Cultural Psychology. chotherapy: a case approach. Upper Saddle River,
+Springer. [DOI 10.1007/978-1-4614-7615-3_8]. N.J.: Merrill/Pearson.
+Herman, D. (2013). Storytelling and the sciences of the McDermott Sales, J. Fivush, R., Parker J., & Bahrick,
+mind. Cambridge, MA: MIT Press. L. (2005). Stressing memory: long-term relations
+Hutto, D.D. (2000). Beyond physicalism. Amsterdam: among children’s stress, recall and psychological
+John Benjamins. outcome following Hurricane Andrew. Journal of
+Hutto, D.D. (2007). The narrative practice hypothesis: cognition and development, 6(4), 529-545.
+Origins and applications of folk psychology. Narra- Polkinghorne, D. (2004). Narrative therapy and post-
+tive and understanding persons. Royal Institute of modernism. In L. E. Angus & J. McLeod (Eds.),
+Philosophy Supplement, 82, 43-68. The handbook of narrative and psychotherapy (pp.
+Hutto, D.D. (2008). Folk psychological narratives: 53-67). London: Sage..
+the sociocultural basis of understanding reasons. Putnam, H. (1990). Realism with a human face. Cam-
+Cambridge, MA: MIT Press. bridge, MA: Harvard University Press.
+Hutto, D.D. (2009). Folk psychology as narrative Ricoeur, P. (1981). Hermeneutics and the human sci-
+practice. Journal of Consciousness Studies, 16(6-8), ences: Essays on language, action, and interpretation
+9-39. (Trans. by J. B. Thompson,). Cambridge: Cambridge
+Hutto, D.D. (2011). Presumptuous naturalism: a University Press.
+cautionary tale. American Philosophical Quarterly. Russell, R.L. Bryant, EB, Castilino, C. Jones, M.,
+48(2), 129 - 145. Wandrel, M., Piette, J. Elling, K., & Day, R. 2004.
+Hutto DD & Myin E. (2013). Radicalizing encativism. Minding our therapeutic tales: treatments in per-
+Cambridge MA: MIT Press. spectivism. In L. E. Angus & J. McLeod (Eds.),
+Hutto, D.D. & Kirchhoff, M. (Forthcoming). Social The handbook of narrative and psychotherapy (pp.
+neuroscience in context: narrative practices, niche 211-226). London: Sage.
+construction and neural patterns. Cognitive systems Vromans, L. & Schweitzer, R. (2011). Narrative
+research, therapy for adults with major depressive disorder:
+Kirmayer, L. (2003). Failures of imagination: the Improved symptom and interpersonal outcomes.
+refugees narrative in psychiatry. Anthropology and Psychotherapy research, 21(1), 4-15.
+medicine, 10(2), 167-185. White, M. & Epston, D. (1990). Narrative means to
+Kirmayer, L.J. (2015) Re-visioning psychiatry: Toward therapeutic ends. New York: W. W. Norton.
+an ecology of mind in health and illness. In L.J. White, M. (2000). Reflections on narrative practice.
+Kirmayer, R. Lemelson, & C. Cummings (Eds.) Adelaide: Dulwich Centre Publications.
+Re-visioning psychiatry: cultural phenomenology, White, M. (2004). Folk psychology and narrative
+critical neuroscience and global mental health (pp. practices. In L. E. Angus & J. McLeod (Eds). The
+1166-1231). New York: Cambridge University handbook of narrative and psychotherapy (pp.
+Press. 15-51). London: Sage..
+Lock, A. & Strong, T. (Eds.). (2012). Discursive per- White, M. (2011). Narrative practice: continuing the
+spectives in therapeutic practice. Oxford: Oxford conversations. New York: W. W. Norton.
+University Press.

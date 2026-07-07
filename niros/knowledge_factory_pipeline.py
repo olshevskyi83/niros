@@ -9,6 +9,7 @@ from typing import Any, Callable
 from niros.ctpc import CanonicalTherapeuticPattern
 from niros.ctpc_compiler import CTPCCompiler
 from niros.human_review_workflow import HumanReviewRecord, HumanReviewWorkflow
+from niros.knowledge_domain import KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE
 from niros.knowledge_workspace import (
     DEFAULT_KNOWLEDGE_ROOT,
     KnowledgeWorkspacePaths,
@@ -98,9 +99,19 @@ class KnowledgeFactoryPipeline:
     def create_pending_review(
         self,
         extraction: TherapeuticFunctionExtraction,
+        *,
+        knowledge_domain: str | None = None,
     ) -> HumanReviewRecord:
         """Create a pending human review for one extraction proposal."""
-        return self.review_workflow.create_pending_review(extraction)
+        from niros.knowledge_domain import KNOWLEDGE_DOMAIN_UNKNOWN
+
+        resolved_domain = (
+            KNOWLEDGE_DOMAIN_UNKNOWN if knowledge_domain is None else knowledge_domain
+        )
+        return self.review_workflow.create_pending_review(
+            extraction,
+            knowledge_domain=resolved_domain,
+        )
 
     def approve_review(
         self,
@@ -136,6 +147,7 @@ class KnowledgeFactoryPipeline:
         source_type: str | None = None,
         reviewer_id: str = "",
         reviewer_notes: str = "",
+        knowledge_domain: str = KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
     ) -> KnowledgeFactoryPipelineResult:
         """Run the full Knowledge Factory pipeline for one PDF segment."""
         corpus = self.import_pdf(
@@ -152,7 +164,10 @@ class KnowledgeFactoryPipeline:
 
         resolved_segment_id = segment_id or corpus.segments[0].segment_id
         extraction = self.extract_from_corpus(corpus, resolved_segment_id)
-        pending_review = self.create_pending_review(extraction)
+        pending_review = self.create_pending_review(
+            extraction,
+            knowledge_domain=knowledge_domain,
+        )
         approved_review = self.approve_review(
             pending_review.review_id,
             reviewer_id=reviewer_id,

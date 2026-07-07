@@ -1,0 +1,4275 @@
+[PAGE 001]
+
+Acceptance and Commitment Therapy for PTSD
+
+
+Group Manual
+
+
+Regan Settles, Ph.D.
+Beth Morris, Ph.D.
+Kristi Bratkovich, Ph.D.
+
+[PAGE 002]
+
+Table of Contents
+
+
+Acknowledgement. ......... 0... cccccceccneececee sees ee tuseesecucuseesaeueuenetaeeneneeatutneeesatusuenerens 1
+Manual Overview RER 3
+Session 0: Optional Pre-group Individual Session 0c ..............
+ccccecececcecececeaeueueeec
+.0.0uenceenes 9
+Session 1: Introduction to ACT ...........cccccccccccccececeececceuceevacucueeaeaeueuetataeuenecaeuenenen 11
+Session 2: Willingness and Mindfulness. ...............0.cccccecececcececeeeeveceeeeeetaeuseaseteneeaas 20
+Session 3: Defusion.......ccc cece cc cece ec ec ec eneesee cess cecueeseecaceustacaeueeeeaeaeuentsataeretteaenenss 28
+Session 4: Personal Values.......... 0.0... ccc ecccccceneuceceseeueusescsueveueuevevecatetaeaeaeaeatueusaesss 34
+Session 5: Willingness and Values-Based In Vivo Exposures...........c..ccccececececcecececeeeeese 38
+Session 6: Decision Points and Imagining Next Exposure..........0.....c.cccccececeeeceseseececusss 41
+Session 7: Post-Exposure RevieW..............ccccceccccesecceceecuceacueeaeueeaeueeaeueeevaeaeneensuenss 47
+Session 8: Observing Self.....oooocoocnccccoconcn nono ono nono nr n
+cncncrncnncnnr nro nn nnr n nn
+cnno
+cananea 53
+Session 9: Observing Self and Observing the Trauma ...............c.cccccecececccceeeseeceeucesesses 59
+Session 10: Review and Wrap Up.........cccccccccccesecceccuceecuccueueeaeuenseeeaeueueceeaeuenresens 66
+Appendix A: Responding to Challenges in Exposure...............0.c.ccccececececececeeeeeeeacecaens 69
+Appendix B: Measure s.............
+eee enteseccuceseececncesuevac
+cceccccc euevavaeuentsaeaeutnaeaea
+cccec enes 73
+Appendix C: Values Card Sort........ 0.0.0 cccccccccccccccecs esse cecucucuccucssireseveeenenerenesenenany 78
+
+[PAGE 003]
+
+Acknowledgements
+
+
+Portions of this manual were adapted from or influenced by the following sources:
+
+
+Follette, V.M., & Pistorello, J. (2007). Finding Life Beyond Trauma: Using Acceptance and
+Commitment Therapy to Heal Post-Traumatic Stress and Trauma-Related Problems.
+Oakland, CA: New Harbinger Publications.
+
+
+Harris, R. (2009). ACT Made Simple: An easy-to-read Primer on Acceptance and Commitment
+Therapy. Oakland, CA: New Harbinger Publications.
+
+
+Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). Acceptance and commitment therapy: an
+experiential approach to behavior change. New York: Guilford Press.
+
+
+Hayes, S. C., & Strosahl, K. D. (Eds.). (2005). A practical guide to acceptance and commitment
+therapy. New York: Springer Science.
+
+
+Hayes, S.C., & Smith, S. (2005) Get Out of Your Mind and Into your Life. Oakland, CA: New
+Harbinger.
+
+
+Juariscio, A., Shaw, J., Forman, E., Timko, C.A., Herbert, J., Butryn, M., & Lowe, M. (2010)
+The WE-ACT Group: Weight and Eating Applications of Acceptance-Based
+Treatments. Unpublished Manual.
+
+
+Kabat-Zinn, J. (1994). Wherever you go, there you are: Mindfulness Meditation in Everyday
+Life. New York: Hyperion.
+
+
+Stahl, B., & Goldstein, E. (2010). A Mindfulness-Based Stress Reduction Workbook. Oakland,
+CA: New Harbinger.
+
+
+Walser, R.D. & Westrup, D. (2007). Acceptance and Commitment Therapy for the Treatment
+of Post Traumatic Stress Disorder and Trauma-related Problems. Oakland, CA: New
+Harbinger Publications.
+
+
+Portions of session 10 were also adapted from sources on Dr. Russ Harris’ website:
+www.thehappinesstrap.com
+
+[PAGE 004]
+
+This manual was developed with support from a South Central MIRECC clinical educator grant.
+
+
+The authors would like to thank the following individuals for serving as reviewers during the
+development of this manual:
+
+
+Expert Reviewers Clinician Reviewers
+Robyn Walser, Ph.D. Olivia Chang, Ph.D.
+Brian Thompson, Ph.D. Phillip Lehman, Ph.D.
+Susan Orsillo, Ph.D. Cheryl Bay, LCSW
+Victoria Follette, Ph.D. Letta Jett, LCSW
+
+
+The authors would also like to thank Dr. Steven Scruggs, director of the Trauma and Deployment
+Recovery Services clinic at the Oklahoma City VA Medical Center, for providing administrative support
+for this project.
+
+[PAGE 005]
+
+Manual Overview
+
+
+How to use this manual:
+
+
+The manual is designed for a group consisting of ten 90-minute sessions. The manual is set up to
+allow the group leader to balance fidelity to the core principles of ACT with flexibility to the
+individual needs of the group. For many sessions, there are core components and optional
+components. The group leader should ideally strive to cover all content and stay within the
+suggested time recommendations. However, there may be times when a particular group is
+struggling to grasp a critical concept and clinical judgment suggests that strictly adhering to the
+outline would result in failure to understand a core concept. We encourage leaders to read the
+entire manual and practice skills themselves before beginning a group. This allows the leader to
+keep the “big picture” of ACT for PTSD in mind as they proceed through the group. This also
+helps group leaders better understand the experiential nature of learning in ACT. While content
+is important, the process of experiential learning is critical for veterans to develop greater
+psychological flexibility.
+
+
+ACT is best learned experientially. For this reason, new content is first experienced by group
+members. The ACT process is then named and its application is explained. Leaders should keep
+this process in mind when introducing new content: Experience it, Name it, Explain it.
+
+
+Components of ACT and their applicability to PTSD
+
+
+ACT targets experiential avoidance, which is the avoidance of emotional states, thoughts, and
+physiological experiences that are considered negative or unwanted. Experiential avoidance is
+considered a normal human tendency that both patient and therapist are likely to exhibit. From an
+ACT perspective, experiential avoidance is problematic for several reasons: (1) It does not
+actually get rid of the unwanted thought, emotion, or experience; (2) failed attempts to avoid
+painful internal experiences can result in an increased sense of failure and perceived
+“brokenness,” and (3) efforts to remove pain take tremendous amounts of energy that interfere
+with pursuing valued activities and relationships. As valued activities decrease, veterans’ daily
+life and sense of identity become increasingly defined by their trauma.
+
+
+Unlike cognitive behavioral therapies, the goal in ACT is not to reduce the presence of unwanted
+internal experiences. Instead the goal is to help veterans “make room” for their past traumas.
+This is referred to as psychological flexibility. The goal is for veterans to be able to acknowledge
+their negative internal experiences and pursue a meaningful life despite their presence. This is
+accomplished through the following six core processes:
+
+
+Mindfulness: Veterans are first introduced to mindfulness as a way to reconnect with the present
+moment. This builds the foundation for increased exposure to avoided thoughts and emotions.
+
+
+Willingness: Willingness refers to being open to one’s full experience, even if that experience is
+painful or anxiety provoking. This does not mean that the veteran likes or wants the pain and/or
+anxiety, rather that they accept its presence and create room for it. By taking a willing stance,
+veterans are able to move forward with important activities in the face of pain and anxiety.
+
+[PAGE 006]
+
+Connection to Personal Values: Often veterans’ lives have become so dominated by avoidance
+that they have forgotten their own personal values. A significant goal of ACT is help veterans
+reconnect with their personal values and to create discrepancy between trauma-driven behavior
+and behavior that is driven by values.
+
+
+Committed Action: Even when veterans are aware of their personal values, their behavior may
+still be driven by trauma. Committed action focuses on establishing clear goals to begin moving
+in the direction of one’s values. In ACT for PTSD, veterans use their most important values to
+guide personal goals that become the basis for in vivo exposure activities throughout the group.
+In this manual, we refer to these as values-based exposure goals.
+
+
+Defusion: Through mindfulness practice, veterans become aware of painful thoughts that get in
+the way of them reaching their values-based goals. Defusion strategies help veterans learn to
+acknowledge their thoughts as just thoughts. Unlike more cognitive strategies, the goal 1s not to
+challenge thoughts but rather to acknowledge when they are not helpful, detach from them, and
+move forward. It is not necessary to determine if they are true or untrue. Defusion strategies
+allow veterans to create distance from painful thoughts in order to continue committed action in
+the face of pain or anxiety.
+
+
+Observing Self: Finally, veterans learn to utilize their skills to take a “big picture” perspective of
+their life over time. This helps veterans moving forward to see painful experiences of the present
+moment in the broader context of life by connecting with the self that is constant across time.
+This connection with a constant sense of self promotes greater psychological flexibility and
+makes the experience of present anxiety less threatening.
+
+
+Exposure in ACT
+
+
+One of the primary goals of this protocol is to begin to facilitate in vivo exposure to avoided
+activities. The framework for exposures in ACT will differ from that of traditional exposure
+therapies. From an ACT perspective, the goal of exposure is not to experience anxiety reduction
+(although that can be a nice byproduct). Instead, the goal is to increase psychological flexibility
+in the presence of painful and anxious internal experiences so that engagement in valued
+activities can be re-established. Readers are referred to Arch and Craske (2008) for a thorough
+discussion of the differences between ACT and cognitive behavioral therapy elements, including
+the potential for values-based action to include exposure activities motivated by the individual’s
+values rather than by symptom reduction.
+
+
+Starting in session 5, veterans will begin to select activities that will serve as in vivo exposures.
+Through early sessions, veterans should have identified discrepancies between their personal
+values and their behavior. These areas of discrepancy guide the selection of exposure exercises.
+Clinicians will need to carefully assess each veteran’s goals to ensure that they have selected a
+goal that is both valued and that is avoided due to PTSD, not other causes (e.g.,, not exercising
+due to struggles with motivation). In some cases, it may be necessary to schedule individual
+meetings to help veterans select exposure activities. While not a necessary component of
+selecting exposures, SUDS ratings may be used to ensure that selected weekly activities are
+
+[PAGE 007]
+
+sufficiently challenging. But keep in mind that the purpose of SUDS in ACT exposure is not to
+measure how much anxiety decreases but to reinforce the attempt or completion of valued action
+despite feeling strong negative emotions.
+
+
+The application of exposure within this manual is consistent with recent theoretical and empirical
+knowledge about the mechanisms underlying successful exposure therapy. Readers are referred
+to Craske, Treanor, Conway, Zbozinek, and Vervliet (2014) for a discussion of the inhibitory
+learning model and clinical recommendations that aim to maximize the effectiveness of exposure
+activities. Two of these recommendations are briefly described as they relate to exposure-based
+activities in ACT for PTSD. First, the inhibitory learned model suggests that exposure is most
+effective when the individual’s expectations about the aversive experience are violated (1.e.,
+expectancy violations, Craske et al., 2014). In ACT for PTSD, exposure exercises are not timed
+based on the habituation of fear. Rather, the exposure activity aims to violate the negative
+expectancy associated with that activity by tolerating anxiety rather than reducing it. In other
+words, ACT is focused on violating the universal PTSD expectancy of “I can’t” or the belief that
+one is unable to tolerate the negative emotion that will come from engaging in a particular valued
+action. When the valued action is taken anyway, the fear is tolerated and the individual’s
+experience thus violates the expectancy that they cannot tolerate that activity. Clinically
+speaking, we refer to this in ACT as “learning by doing” and leaders empower veterans to create
+their own opportunities for learning through weekly activities.
+
+
+The second recommendation by Craske et al (2014) that is important to mention is the idea that
+exposure activities are most effective when presented in a variable order in terms of frequency
+and intensity. That is, traditional exposure exercises are ranked and placed in a hierarchy and the
+individual proceeds up the hierarchy from least fearful to most fearful activity. In ACT for
+PTSD, veterans generate a list of exposure exercises based on their personal values and goals,
+but are free to move through them in any order. Veterans are also free to repeat a weekly goal
+and are empowered and reinforced for skill use rather than goal completion. If SUDS ratings are
+utilized to help veterans pick appropriate goals, keep in mind that (unlike Prolonged Exposure,
+for example) activities can be completed in any order.
+
+
+The flexible hierarchy approach also reinforces the idea that willingness changes moment to
+moment, and it empowers veterans to be mindful and accepting of variations in willingness. That
+is, an activity they feel willing to do today may not be something they feel willing to complete
+once they get there. By not judging this as a “success/completion” or “failure/non-completion,”
+veterans learn rather to be mindful in the moment of what is getting in the way of willingness
+and to use that information during homework review with the group to choose their next goal or
+use a new skill to keep moving toward the same goal. This approach will be new to some leaders
+and we encourage leaders to practice mindfulness of their own reactions and to be open to
+feedback from co-leaders in order to maintain an ACT stance toward exposure-based activities.
+
+
+For additional reading about exposure in ACT, see:
+
+
+Arch, J.J., & Craske, M.G. (2008). Acceptance and commitment therapy and cognitive
+behavioral therapy for anxiety disorders: different treatment, similar mechanisms?
+Clinical Psychology: Science and Practice, 15, 263-279
+
+[PAGE 008]
+
+Craske, M., Treanor, M., Conway, C. C., Zbozinek, T., Vervliet, B. (2014). Maximizing
+exposure therapy: an inhibitory learning approach. Behaviour Research and Therapy, 58,
+10-23.
+
+
+Tips for Maintaining an ACT Stance
+
+
+1. Practice and model ACT
+One of the primary tenants of ACT is that experiential avoidance is a normal human process. It
+is important to normalize the pull to avoid by acknowledging your own experiential avoidance.
+You can also acknowledge your own lack of mindfulness, fusion with thoughts, and times when
+values have not guided your behavior. Model ACT principles by noticing them in yourself and
+your co-leader. Be playful and humble about demonstrating your humanity and use of skills.
+Take advantage of any opportunities to demonstrate skills. For example, notice and label aloud
+an urge to “convince” a veteran of something, share your own example of using defusion to get
+through an anxious moment, or notice your co-leader use the word “but” and prompt them to
+replace it with “and” instead.
+
+
+2. Resist the urge to restructure
+It can be tempting for clinicians who treat PTSD to try to challenge cognitive distortions while
+delivering ACT. Remember that the goal of ACT is not to get rid of thoughts or determine their
+veracity, rather it is to create distance from thoughts that are unhelpful. It is very important to be
+aware of your own urge to correct during sessions. If you find yourself correcting, label it for the
+group members. When faced with what you would view as a cognitive distortion, focus your
+efforts on helping the veteran understand the function of the thought. Is it helpful to them? Is it
+interfering with their goals? If it is deemed unhelpful, then the goal is to help them make room
+for the thought so they can continue pursuing their goals. This can be accomplished through
+willingness strategies and through defusion.
+
+
+3. Practice Mindfulness
+While the goal is to get through every activity in this manual, you may have to slow down to
+meet veterans where they are. Don’t get so caught up in the agenda that you lose the process.
+Unwillingness on the part of the group leader can often come in the form of being overly
+directive and trying to push patients in a direction you think they should go. Be very mindful of
+urges to correct and your own lack of willingness to stay with your group.
+
+
+4. Values-based living is based on the veteran’s values:
+Sometimes a veteran’s values do not reflect what a provider hopes for. Remember that values
+are individually decided and you should respect a veteran’s value even if you disagree.
+Occasionally a veteran may decide that they value safety so highly that they are willing to let go
+of all other values. Your goal will then shift to helping their choice be a thoughtful, mindful
+choice rather than a choice that is made out of reaction to avoidance. You may also remind them
+that values may shift over time and encourage them to continue assessing whether that one value
+is worth giving up all others.
+
+[PAGE 009]
+
+5. Highlight ACT processes throughout group as they occur
+While this manual provides an outline of core components to guide each group session, go
+beyond simply covering the content and incorporate ACT processes into your group process.
+For example, look for opportunities to highlight willingness during group (e.g., willingness to
+take the risk of coming, opening up) and highlight what they potentially gain through that.
+Praise the use of skills as you see them being used so that veterans recognize their use. For
+example, often veterans will come to group having just encountered a stressor that tapped their
+resources to be present. Below is an example way to reinforce a veteran’s skills use:
+
+
+“Wow, Mr. Smith, it sounds like you were able to use mindfulness in the moment to be aware of
+how frustrated you were feeling in traffic on the way here, and to be aware of that urge to turn
+around and go home. I also heard you say you were aware of that voice in your head giving you
+the “hot head” label again. Great job noticing all of that in the moment. We know you’ve said
+before the group is important to you, and you were able to remain willing to come today despite
+the traffic and frustration. How are you feeling now that you are here?”
+
+
+You may also ask veterans to practice identifying a specific thought or urge that is interfering
+with group participation and help them practice willingness and defusion. Encourage other
+veterans to notice skill use in each other — write skills on board that they know so far to remind
+group members of what to look for. Just be sure not to use words they haven’t learned yet.
+
+
+6. Highlight ACT processes through homework review.
+Homework review should also be used to reinforce use of ACT skills in the moment.
+If a veteran did not complete their homework, you can use homework review to help them
+identify what got in the way. Begin by asking if they are willing to let the group look at what
+happened and highlight willingness if they are. Then proceed to identify potential barriers to
+homework completion. For example, did the homework assignment not feel in line with what is
+important to them? Were there some painful thoughts the assignment brought up that they
+weren’t willing to have present? Help them acknowledge thoughts and emotions that come up as
+their homework is reviewed. Be careful to not use ACT terms that they have not learned yet,
+but do reinforce ACT skills as you see them.
+
+
+The following is an example of how to incorporate processes when a veteran did not complete
+their homework:
+Therapist: “Mr. Jones, I heard you say you noticed yourselffeeling really “stupid” when
+you were starting to try the mindfulness skills at home. You said you were having the thought,
+‘here we go again with some other weird therapy thing that won’t work,’ and it seems like that
+was right before you decided not to try it. So, it seems like even though you didn’t start the
+mindfulness exercise, you were pretty mindful in the moment of how you were feeling and what
+got in the way ofyour trying it. That process is really a key part ofACT — learning to tune in to
+how we are doing on the inside and what kinds of things get in the way of us doing things on the
+outside. And it very well may be that the mindfulness exercise we asked you to try for homework
+may not be your cup of tea, and we end up finding some other way of being mindful that suits you
+better. Some of the exercises still feel weird to me! As we talk about a lot in here, we learn by
+doing. So we will be learning different ways to work around the negative emotions or thoughts or
+whatever that keep us from doing things. I wonder what would happen ifyou tried doing the
+
+[PAGE 010]
+
+exercise for 1 minute even ifyou continue to feel stupid. It’s up to you. Maybe another group
+member had a similar experience?”
+
+
+The goal here is not to pressure the veteran into trying the skill, but to help him or her be mindful
+of how big an impediment this “stupid” feeling is and how much the hopeless thought process
+gets in the way. If it gets in the way of doing a 1 minute mental exercise, this may be a repeating
+thought process that gets in the way of many other valued activities. Becoming aware of those
+internal “repeat offenders” that interfere with valued actions is an important process in ACT. In
+this case, the leader is reinforcing the only skill the group has learned at that point, mindfulness,
+while also touching on other concepts such as willingness and valued action even though the
+group is not there yet.
+
+
+The following is an example for a veteran who did complete homework:
+
+
+Therapist: “Ms. Cooper, I heard you say you completed the assignment. Are you willing to share
+with us how that was for you?”
+
+
+The leader here is not assuming that Ms. Cooper had “success” or had a positive outcome. The
+leader empowers the veteran by asking about her level of willingness and is prepared to accept
+any answer nonjudgmentally. Her response may be that she did the assignment by rushing
+through as fast as possible to get it over with, or that it was easy and she now feels foolish for
+having avoiding it for so long, or that she is not willing to share about it. The leader thus models
+in homework that there is “room” for all experiences and that tuning into those experiences is an
+ACT skill.
+
+[PAGE 011]
+
+SESSION 0: OPTIONAL PRE-GROUP INDIVIDUAL SESSION
+
+N
+
+This is an optional individual session that may occur prior to group. In clinics where
+referring providers are familiar with ACT, this may be completed as part of the referral
+process. When referring providers are less familiar with ACT, or veterans are referred to
+group immediately following assessment, a pre-group individual session is recommended.
+The goals of this session are to provide a brief orientation, develop rapport, gain
+understanding of the veteran’s problems, and develop motivation for group. Pre-treatment
+symptom measures may also be given during this session or prior to group entry by referring
+providers. Session length may range from a brief 20-minute meeting to a full therapy
+session, depending on clinic structure. For this reason, this session is less structured than
+others to allow therapist flexibility.
+
+a y
+
+Materials Needed:
+(See Appendix D)
+PCL-5
+PHQ-9
+AAQ-U
+
+
+Session Outline:
+Introductions and Overview
+Review of Presenting Trauma and Veteran Goals
+Administer Measures
+
+
+Session Content:
+
+
+Introductions and Overview
+
+
+e Leaders introduce themselves, assess veteran’s understanding of the group, and provide a
+brief overview of the group structure and goals
+
+
+Review of Presenting Trauma and Veteran Goals
+
+
+1. Obtain a brief overview of the trauma leading them to seek treatment.
+
+
+2. Obtain at least a brief overview of the ways they have attempted to cope with their PTSD.
+During this discussion, begin to gently plant seeds that control efforts are exhausting and
+don’t work. Below is a sample discussion:
+
+
+Therapist: A lot ofpeople are referred to this group because they have tried a lot
+of things to get rid of their PTSD. What all have you tried?
+
+[PAGE 012]
+
+Veteran: Well I used to drink alcohol but
+I quit that. Once I quit, I started
+thinking of my trauma more so I’ve tried to just push it away by working a lot and
+exercising.
+
+
+Therapist: How has that been going for you? I imagine there must be some limit
+to how well it is working for you to be here?
+
+
+Veteran: Yes it worked really well for a while but now I’m finding myself going
+numb a lot and I don’t feel connected to my family. I’m still having nightmares
+and thinking of it when I don’t want to.
+
+
+Therapist: / wonder how much ofyour energy it has taken to try not to think about
+it?
+
+
+Veteran: A lot. Ijust really want it to go away.
+
+
+Therapist: J wonder how using all that energy affects your life? For example, do
+you feel like you are able to live the type of life you want to live?
+
+
+3. Obtain a brief overview of the veteran’s values and use this to fuel motivation for group.
+Below is a sample discussion:
+
+
+Therapist: / hear you saying that in your attempts to get rid of all this pain, you
+have started to feel numb and distant from your family. Is your family important
+to you?
+
+
+Veteran: Yes, incredibly important. I know I’m hurting my spouse and I hate that
+I can’t connect with my kids as well as I’d like to.
+
+
+Therapist: What you are describing is one ofyour personal values. Our values are
+essentially the things that matter most to us, or the things we want our lives to be
+about. What you are describing is really common in people with PTSD. That is,
+that you are so overwhelmed by your PTSD symptoms, that some of the things
+that matter most to you start slipping away (OR in some cases, you may have
+forgotten what really matters). Helping you live those values out is a big part of
+what this group is about. Is that something you would like?
+
+
+Veteran: Yes, I’d really like to feel happy and close to my family again.
+
+
+Therapist: Are there other important things in your life that have been impacted
+by PTSD that you would like to work on?
+
+
+Administer Measures
+
+
+Administer and record PHQ-9, PCL-5, and AAQ.
+
+
+10
+
+[PAGE 013]
+
+SESSION 1: INTRODUCTION TO ACT
+
+
+| The primary goals of this session are to introduce veterans to ACT, to introduce the |
+concepts of pain of presence and pain of absence, and to help veterans identify the ways
+they have tried to suppress or “get rid of” pain and what that has cost them. The ubiquity of
+human pain discussion introduces pain as a normal human process and introduces the
+concepts of the pain of presence (““clean pain”) and the pain of absence (“dirty pain”).
+Continual efforts to get rid of pain are validated and referred to as “the struggle with pain.”
+This is illustrated through the Tug of War Monster exercise. It is important to explain that
+trying to get rid of psychological pain is a normal human process. It should not be labeled
+or explained as wrong or invalidated in any way. The focus, rather, is on how well (or
+poorly) strategies to suppress pain work, and whether they bring about additional suffering
+through the pain of absence. The Pain of PTSD worksheet helps veterans identify the
+sources of their PTSD pain, how they have tried to avoid that pain, and the impact that
+struggle has had on valued living. In ACT terms, this is the beginning of facilitating
+creative hopelessness, which is the process through which people realize the futility of their
+efforts to avoid pain. As part of this process, veterans may experience frustration. Validate
+that frustration as part of the process and don’t rush to remove or reduce it. It is an
+important part of creating openness to trying out a new way of relating to trauma.
+
+y
+Materials Needed:
+Rope for Tug of War Monster
+Veteran manuals
+
+
+Session Outline:
+Introduction and Group Expectations (10 minutes)
+Ubiquity of Human Pain (10-15 minutes)
+The Pain of PTSD worksheet (30-45 minutes)
+Tug of War Monster (10 minutes)
+Overview of ACT (5 minutes)
+Wrap up and Homework (5 minutes)
+
+
+Session Content:
+
+
+Introduction and Group Expectations (10 minutes)
+
+
+e Group Introductions
+
+
+e Review Group Rules
+
+
+¢ Confidentiality
+o Review limits of confidentiality for providers
+o Explain expectation of confidentiality among group members
+
+
+11
+
+[PAGE 014]
+
+Respect
+o Discuss expectation for group members to show respect for others” points of
+view
+Being on time
+o Inform that group will start on time and members are expected to arrive
+promptly. Group members who arrive more than 5 minutes late may miss
+important information. Late arrivals are asked to enter the room quietly to
+avoid disruption.
+Missing sessions
+o Inform the group that if a veteran is to miss more than two weeks, he/she must
+discontinue the current group and complete the next group cycle. Missing
+more than two sessions does not give the veteran adequate exposure to the
+necessary components of the ten week group. Acknowledge that prioritizing
+group can be difficult, and there may be times when veterans feel a pull to
+avoid. Encourage committing to attendance for themselves and their fellow
+group members.
+Timing of sessions
+o Explain that there is a lot to cover in group. Prepare group members that
+leaders may redirect the conversation if needed to cover all group topics for
+that week and explain that leaders can be available outside of group if
+veterans need to discuss something further.
+Posttraumatic Stress Focus
+o Inform the group that the primary focus of sessions will be on the impact of
+trauma.
+Homework
+o Set the expectation that there will be homework assignments between
+sessions. Explain that homework has two primary purposes: 1) It serves as an
+extension of the session to provide group members more time to individualize
+the lesson, and 2) Homework serves to provide members with experience
+using the material in a real world setting. Group will have limited
+effectiveness without the completion of homework. Explain that making
+changes is difficult for all of us, requiring time and emotional energy. If this is
+not a time in their lives where they are ready and able to commit to that, this
+group may not be the best fit right now. Acknowledge that working on
+themselves can be difficult, and the commitment to themselves and the group
+is important. Encourage group members to speak up about barriers to
+homework completion so that leaders can help them problem solve
+collaboratively.
+
+
+Ubiquity of Human Pain (10-15 minutes)
+
+
+All of you are here because you have experienced significant pain in your life, maybe
+particularly during your military service. Many ofyou have encountered things that a lot
+ofpeople will never have to encounter. You are also here because PTSD has become a
+significant source ofpain in your life. How many ofyou have felt like you are the only
+one struggling and wondered why you can’t just be happy? How many ofyou have had
+
+
+12
+
+[PAGE 015]
+
+the thought, “If only I didn’t have this PTSD I could be happy?” or “If this one thing
+hadn’t happened, my life would be better,” or “IfI could just stop being so anxious or
+angry, things would be better?”
+
+
+Something that this group is built around is that every human suffers. Anyone who lives
+long enough will experience the devastation of losing someone close to them. Every
+person will experience rejection and betrayal at some point in their life. Every person
+will experience physical and emotional pain, anxiety, sadness, and fear. Some people’s
+pain will be more visible than others. Some people will experience more tragedy and
+hardship than others (for instance, veterans who have been exposed to military trauma).
+Even so, everyone experiences pain. Can you think of anyone you know who doesn’t
+experience pain? Do you think it is possible to go through life avoiding pain? What is
+the cost of trying to avoid pain?
+
+
+There are actually two types of pain. One is called the pain ofpresence. This is the one
+that we are all familiar with. It includes the pain we feel in response to death or divorce,
+anxiety, traumatic memories, and specific problems. Another way we refer to this type of
+pain is the term “clean pain” because this pain is related to inevitable difficulties of life.
+The second type ofpain is one that we don’t think about too much. It occurs when the
+ways that we try to get rid ofpain cause us to miss out on things that are important to us.
+It’s called the pain of absence. What we mean by pain of absence is the things that we
+miss out on in life when we are focused on the pain ofpresence. For example, ifyou are
+consumed by trying not to think about a traumatic memory, then you may not be out
+making new positive memories or spending time with people you care about. If the
+presence of anxiety prevents you from going places, then you may not be creating the life
+that you enjoy. Some refer to this type ofpain as “dirty pain” because it is does not
+relate to an inevitable life challenge, and is instead created by trying to get rid of the
+“clean pain.” Most of the work we are going to do in this group is teaching you a new
+way to relate to your PTSD pain, so that it doesn’t control your life and so that you are
+able to fully engage with what matters to you in life. Note that our goal in this group isn’t
+to get rid of the pain completely, but to help you relate to it in a new way.
+
+
+We are going to focus a lot on the pain of absence in this group. To get started, we want
+you to start thinking about where the pain of absence is in your life.
+
+
+Activity: The Pain of PTSD Worksheet (30-45 minutes)
+
+
+Sources of PTSD Pain (Column 1):
+
+
+Now that we have identified that everyone has pain and anxiety, we are going to walk through an
+exercise to help you identify the sources ofpain in your life is and what the pain of PTSD looks
+
+
+13
+
+[PAGE 016]
+
+like for you personally. At this point, we are only going to focus on the first column (What are
+the sources of my PTSD pain?). When we talk about PTSD pain, this can include: feelings,
+sensations, urges, thoughts, memories, and images. We are not talking about specific situations,
+but experiences of having a memory or image of a past painful experience, and sensations or
+urges to do something that has caused you problems in the past (e.g., drinking, avoiding places,
+angry outbursts), negative thoughts about yourself, others, or the world that bother you, and
+feeling anxious or angry in certain situations. For example, a painful urge might be the urge that
+you feel to run out of a crowded place or to constantly check for danger. A painful sensation
+might be the intense tightness in your chest. A painful thought might be fear that your family will
+be harmed, that others will hurt you, or that you are damaged. These are all examples of the
+pain ofpresence — these thoughts, feelings, and urges bring about pain just by being there.
+
+e Give group members 5 minutes to start listing their own sources of PTSD pain in Column
+1.
+
+
+e After 5 minutes, ask group members if they are willing share some of the things they
+wrote down and list on the board.
+
+
+Ways I have tried to get rid of it (Column 2):
+
+Most people with PTSD have tried a lot of ways to deal with the pain. Let's make a list of all of
+the things that you or other people you know have done or currently do to try to get rid of it.
+
++ Make a list on the board of what they share. Things you can draw out if they are not
+shared include the following: Distraction (staying busy on work or other projects,
+shopping, watching TV), withdrawing or giving up, thinking (ruminating, dwelling on,
+fantasizing, blaming), and numbing (substances, self-harm, recklessness). Be sure to
+draw out fleeing from or avoiding anxiety-provoking situations in this part (e.g., not
+going to particular places, hypervigilant behaviors, exerting excessive control, avoiding
+intimacy, etc.)
+
+
+What is the main goal of these behaviors? To avoid the pain and anxiety. This is such a natural
+thing to do! All of us as humans, even those without PTSD, do this. With PTSD pain, we often try
+to avoid or get rid of it by not thinking about certain things or by staying away from situations
+that seem risky or dangerous. Anda lot of times it works in the short term, right? For instance,
+ifyou know that going to a crowded football game will make you anxious, you can avoid that
+anxiety a bit by just not going. Or if the idea ofyour spouse driving a long distance alone makes
+you scared for their safety, you can sort of manage that temporarily by not allowing them to go
+or making them call frequently.
+
+
+14
+
+[PAGE 017]
+
+In the moment, this makes a lot of sense, right? Why would we want to do things that make us
+feel anxious or scared? Why not just continue doing what we’ve been doing in Column 2 to avoid
+the pain ofPTSD?
+
+
+What I am Missing Out On (Column 3):
+
+
+e Refer them to the list they have generated.
+
+
+Looking at what you listed in Column 2 as ways you have tried to get rid ofPTSD pain, are there
+any that you have found end up causing you more problems in the long run?
+
+
+What types ofproblems have you had as a result of trying to get rid of PTSD pain? (i.e., legal
+problems, loss ofjob, relationship issues, isolation, substance use issues, etc.).
+
+
+It is often pretty obvious to us when our ways of trying to get rid ofpain and anxiety cause new
+problems (e.g., legal problems, marital difficulties), but we tend not to stop and think about how
+these ways of avoiding PTSD pain can also interfere with our living the life we want. Column 3
+asks you to examine what you might be missing out on as a result of trying to get rid of PTSD
+pain. How are the ways that you try to get rid of it getting in the way of the life you want? For
+instance, in the example we talked about earlier, the person who stays home from the game may
+miss out on time with family and friends.
+
+
+e Give group members 5 minutes to look at what they are missing out on and fill in the
+third column of their worksheet.
+
+
+e After 5 minutes, ask group members to share what they have been missing out on.
+
+
+e During discussion make sure to get the following points across:
+
+
++ Validate efforts to get rid of pain as a natural human response and particularly
+natural for people who have had the types of traumatic or painful experiences
+veterans with PTSD have had.
+
+
++ Use reflections to emphasize the importance of what they are missing out on (e.g.,
+“Your family is important to you and it is really painful to not be able to spend
+time with them the way you want to.”)
+
+
++ Use discussion questions to elicit the main point that when people try to avoid
+pain they may not be fully living the kind of lives they want (e.g., “So as we
+look at all this, do you see any common themes? Are people fully living the
+type of lives they want to live when they try to avoid pain? ”).
+
+
+15
+
+[PAGE 018]
+
++ Validate difficult emotions that arise when looking at the pain of absence and
+reinforce willingness to have them. (e.g., What is it like for you to look at
+these things? It can often take a lot of effort to avoid or get rid ofpain and
+anxiety. It’s something all of us as humans want so badly to do. And it can be
+really difficult for us to take a look at how our efforts to avoid pain can get in
+the way of the life we want to live. Your willingness to do this is an important
+first step towards living the life that you want. )
+
+
+Activity: Tug of War Monster (Adapted from Hayes et al., 1999)
+
+
+We are going to walk through a metaphor to help you visualize what we are talking about here,
+and where we are going to go in this group. I need someone who is willing to volunteer to play
+tug of war with me.
+
+
+**T eader note: the veteran may often be stronger than the group leader. In that case, just
+make light of 1t and note that the point of this isn’t actually to have a winner but to
+illustrate the struggle. Also, please note that this activity should be a bit playful at times
+but also serious. Do not quickly rush through the tug of war but really draw out the
+veteran’s experience. It is not abnormal for people to become tearful during the activity.
+
+
+Have veteran stand and hold other end of rope.
+
+
+Imagine that I am your PTSD monster. I represent all ofyour experiences related to your PTSD
+that you don’t want. I am your bad memories of trauma. I am all of the fears you have about
+trusting others, letting go of control, and the safety ofyou and your family. I am all of the bad
+thoughts that you have. I am big, ugly, and strong, and in between us is a very deep hole that
+appears to be bottomless. Ifyou lose this tug of war, you will fall into the hole and be destroyed.
+What are you going to do now?... You are going to pull as hard as you can, right?
+
+
+Can you show me what it looks like as you pull? (1.e., feet locked, full body effort, both
+hands on the rope, etc.)
+
+
+What are some of the ways in which you pull back against me? (Prompt volunteer and
+group members to elaborate on avoidance and control behaviors as well as problematic
+thoughts).
+
+
+Each time the veteran pulls, you pull back and describe what you are doing. First ask,
+“How do you think I’m going to pull back when you do that? If the veteran can’t identify
+anything, share what you think would likely happen with PTSD. For example, if the
+veteran states that they are going to just stop going out in crowds, you might say
+something like “Ok, now I’m going to start telling you how worthless you are because
+you can’t go anywhere. ”
+
+
+16
+
+[PAGE 019]
+
+Continue pulling the rope back and forth, engaging the veteran with specific examples of
+how they try to fight PTSD, and how it comes back with another challenge.
+
+
+So you pull and you pull, but the harder you pull, the harder I’m going to pull back.. The
+battle doesn’t stop does it?
+
+
+Sometimes it looks like you are winning. What does that look like? (For example, 1t may
+be that anxiety temporarily improves or they push back a memory for a while).
+
+
+Other times the monster is winning. What does that look like? (For example, it may be
+that they slide into depression, become suicidal, or have a series of panic attacks).
+
+
+But neither one ofyou actually wins. You just continue to pull back and forth. Ask the
+veteran what they notice (e.g., Where is their energy focused? Are they winning? Isn’t
+this exhausting?)
+
+
+Try to point out the following things if the veteran doesn’t notice themselves:
+o With hands and feet locked in the struggle, they can’t do much else.
+o It’s really exhausting! Really validate here how hard they are trying and how
+frustrating it is to keep trying and not win.
+o Where is their attention focused? Usually on the struggle, not on the rest of life.
+o Are they moving any closer to what’s important to them? No
+
+
+After struggling with the rope for a bit, not the following: “So we could go on and on like
+this for a long time. You could continue day in and day out to feel tired, discouraged,
+and not able to live the life you want. I’m wondering if there might be another way to
+deal with me?”
+
+
+“Drop the rope” (e.g., stop the struggle) is what you're getting at, but respond to
+everything they have to say until the volunteer or someone else in the group gets to this
+point. Once it has been said, be sure to ask what they mean by dropping the rope.
+
+
+Ask the veteran what they notice now that they have dropped the rope. You want to
+eventually get at the following:
+Y” Their hands and feet are free
+Y” They have more energy
+Y” They can shift their focus to (other things).
+
+
+Now pick the rope back up, playfully dangle 1t around and taunt them to pick 1t up (Try to
+taunt them with something they specifically brought up in the exercise. An example
+might be the following: “J am your trauma. You are never going to get rid of me! Who
+
+
+17
+
+[PAGE 020]
+
+are you to think you can keep moving with your life? I’m with you for life. Oh, I know
+you thought you could come into Wal-Mart and just let me be here, but really bad things
+are going to happen. You have to pick this rope back up!).
+
+
+The goal of this is to help them see how strong the pull to fight and defeat pain is. Note
+though that even though the PTSD monster is still there, still yelling and taunting at them,
+it is their choice whether to engage in the tug of war. If they choose not to struggle, they
+can be freed up to do other things.
+
+
+Discussion: Make sure to allow time to discuss reactions and make room for all reactions. Some
+may really like the idea of dropping the rope. Others may notice one of the following points
+below. Allow ample time for discussion:
+
+
+That the struggle is important to them and they don’t want to drop the rope. For some
+veterans, the struggle is all that they know. It is scary and takes a lot of willingness to
+think about a new way of relating to trauma.
+That they want to drop the rope but can’t actually do it. There is a difference between
+thinking about doing it and actually doing it. Explore what underlies the disconnect
+between thinking and doing if time allows.
+Validate any resistance to this issue by noting that often pain has become a big part of
+their lives and even thinking of engaging with it differently can seem overwhelming
+or impossible. Veterans have often tried countless ways to get rid of pain without
+success, and so the idea of dropping the rope is very new. Do NOT engage in a back
+and forth of trying to convince the group of anything. Instead focus on the idea that
+the veteran has the power to choose how to interact with pain. Right now we are just
+stepping back and looking at what their individual struggle has looked like and
+whether some of the ways they have tried to get rid of pain have led to them missing
+out in areas of life that are important to them.
+
+
+Overview of ACT (5 minutes)
+
+
+Acceptance and Commitment Therapy, or ACT for PTSD, is about helping you overcome the pull
+of avoidance and “drop the rope” so that you can live the life that you want. This, of course, is
+not easy, so the group will give you the tools to relate to your pain in a new way, a way that feels
+manageable. At times, we put so much effort into pushing away the pain of PTSD that we can
+become distracted or even disconnected from what is really important and the kind of life we
+really want. ACT is about connecting with that as well.
+
+
+The core idea of this therapy is that we can learn to live with inevitable pain while making more
+room for the important things in our lives. What is important varies from person to person. This
+
+
+18
+
+[PAGE 021]
+
+group is about helping you connect with what matters to YOU, and giving you the tools to move
+toward the life you want.
+
+
+Wrap-up and Homework: (5 minutes)
+
+
+Today we have started by acknowledging the pain ofpresence that comes with PTSD. You took
+a big step today by taking a look at how the pain of PTSD has affected you and how you have
+tried to cope with it using that natural human response of wanting to avoid pain.
+
+
+Today you also looked at what you may have missed out on as a result of trying to avoid the pain
+of PTSD. Some of those things may involve areas of life that are very important to you. Between
+now and next session, we ask that you continue to reflect on this. For homework this week, keep
+looking at and adding to your Pain of PTSD worksheet. Notice what comes up throughout the
+week and jot down pain or efforts to avoid that pain, along with thinking about the big picture
+areas of life that seem most affected by these. Also for homework, complete the PTSD Beliefs and
+Behaviors Worksheet. This worksheet is all about how PTSD can impact how we think about
+things (our beliefs) and what we do (our behaviors). Answer the questions about how PTSD has
+affected your beliefs in different areas of life and how this has affected your behavior. We will
+use this throughout the rest of the group so it is a really important assignment. Use the
+completed example as a guide.
+
+
+You may go home today and think “This is hopeless” or “This is yet another stupid therapy
+idea.” That's ok. These thoughts will likely come up AND we are on a path here that can make a
+difference. You know ifyou are driving on a dark road, and you may only be able to see the next
+bit where your headlights are shining? But you can make it home bit by bit by focusing on what
+is right in front ofyou? That is what we are doing here. You can feel frustrated, confused, and
+hopeless AND continue to move forward on that path. We really appreciate your openness and
+willingness to look at tough things today. We lookforward to the next part of our work with you
+on the path to living the life you want next week.
+
+
+19
+
+[PAGE 022]
+
+SESSION 2: WILLINGNESS AND MINDFULNESS
+
+
+[ne primary goal of this session is to facilitate willingness as an alternative to struggling. N
+When introducing willingness, remember: “Experience it, name it, explain it.” Veterans are
+first introduced to willingness through questions designed to highlight their own experience
+with it and through the “Joe the Annoying Uncle” metaphor. The goal is for veterans to begin
+grasping the idea of willingness before you move into actually defining it.
+
+Both willingness and mindfulness counter avoidance and hypervigilance. Therefore, there may
+be some resistance to these concepts. If this occurs, do not argue. Instead, validate the source
+of the resistance (e.g., “this approach feels very different than the way you have thought
+before” or “you feel like what you have been doing has been keeping you safe and you aren’t
+sure this new way will work”). Use Socratic questions to gently draw the discussion back to
+how lack of willingness and mindfulness can create barriers between us and the life we want.
+Remind group members that most of us learn fastest and best by doing, and it is the
+experiential knowledge they gain by trying the skills that is most effective in helping to engage
+with the pain of PTSD in a new way.
+
+
+This is also a good time to validate that willingness to look at painful patterns of struggling and
+to try new experiences is often not as easy it sounds. Be sure to point out that they are starting
+to demonstrate willingness by coming to the group and entertaining a new approach.
+
+\ y
+Session Outline:
+Introductions and Homework Review (20 minutes)
+Joe the Annoying Uncle (10-15 minutes)
+Introduction to Willingness (15 minutes)
+Introduction to Mindfulness (15 minutes)
+Be Where You Are (10-15 minutes)
+Wrap up and Homework (5-10 minutes)
+
+
+Session Content:
+
+
+Introductions and Homework Review (20 minutes)
+
+
+e Group introductions again if needed
+
+
+e Review of group rules if needed
+
+
+e Review homework
+
+
+o Highlight patterns in problematic sources of pain, how they try to get rid of pain, and
+what they are missing out on. Reinforce veterans sharing their experiences,
+connecting with one another on similarities, empathizing with one another, etc.
+
+20
+
+[PAGE 023]
+
+o Offer positive feedback for the effort it took to complete the assignment and the effort
+it takes to share experiences with the group. Remember, just by being willing to look
+at their pain and the pain of absence brought on by problematic strategies to avoid
+pain, they are beginning to engage with pain in a new way.
+
+
+Do not rush the homework review! This discussion is critical for building the foundation for
+willingness. You want to reflect and draw out the pain of absence as well as reflecting the
+willingness it takes to look at it.
+
+
+“Joe the Annoying Uncle” metaphor (10-15 minutes)
+
+
+We are going to start today with a metaphor related to what we have been discussing so far in
+this group.
+
+
+Imagine that you have just moved into a new house. You've decided to have a housewarming
+party and invite all the neighbors over. The sign says "everybody's welcome." Well, this includes
+your annoying Uncle Joe, who lives down the street. Joe is smelly, dirty, loud, and rude. If he
+comes into the party, he is likely to be disruptive and unpleasant. So, you could decide that even
+though you said everybody was welcome, in reality Joe is not welcome. But as soon as you do
+that, the party changes. Now you have to be at the front door, guarding the house, and keeping
+Joe out.
+
+
+In the meantime, life goes on, the party is going on, and you are spending all your time guarding
+the house. The alternative option is to welcome Uncle Joe into the party. You don't have to like
+him. You don't have to like the way he makes you feel.
+
+
+But take a look at the costs of not being willing to have him there. When this party started, it was
+all about living a life you valued. Being with your friends and family, really connecting with
+them and doing things you enjoy. The more unwilling you are for Joe to be there, the more time
+you spend trying to keep him out.
+
+
+The problem is that Joe—like your own distressing thoughts and feelings—is really good at
+finding a way back in. So very quickly, this party can become less and less about doing what
+matters to you, and more and more about fighting a losing battle and keeping Joe away.
+
+
+Try hard to imagine what it would be like to do something like this; “I don’t want Joe here. He
+really complicates things, and I never invited him. But, in the interest of making this party be
+about what I value, I’m going to stop spending all this time and effort trying to keep him out. I’m
+going to give up the fight against Joe---and live my life in a way that matters to me with Joe in
+plain sight. ”
+
+
+Discussion:
+
+
+21
+
+[PAGE 024]
+
+The goal of this conversation is to help veterans self-discover that by choosing a stance of
+willingness, they can have a more meaningful life. They don’t have to get rid of pain to have
+meaning.
+
+
+e How do you think Joe the Uncle applies to your PTSD?
+
+
+e Do you think it is possible to have the things you identified as painful AND have the
+things that you feel you have been missing out on at the same time? Can you have
+pain AND have what you want in life?
+
+
+« How? What would that look like?
+
+
+e What would the result be in terms of what matters most to you?
+
+
+Introduction to Willingness (15 minutes)
+
+
+We call the stance taken in this metaphor “willingness.” Dropping the resistance to distress,
+easing into it, and freeing up the energy you were using to fight it so that you can start using it to
+do what matters to you. This is also the stance that we were talking about last week in Tug of
+War monster when we talked about “dropping the rope.” The person in the metaphor can choose
+to take a willing stance by acknowledging that their annoying uncle is there AND still doing
+what matters to them by spending time with friends and neighbors at the party.
+
+
+We want to start focusing on the AND in this therapy. Often, we get stuck in “buts. ” For example
+we say, “I want to stay at my kid’s event, but I’m scared. ” Dropping the rope, or letting Joe
+come to your party, is about saying “I want to stay at my kid’s event AND I'm scared. ” The fear
+doesn’t go away but your fear no longer limits your behavior. Think about this when you were in
+the military. You may have been in combat scenarios or training missions where you felt scared
+for your life AND you still moved forward because it was important to you. You didn’t say, “I
+need to do this, but I’m too scared.” You've shown the ability to “live in the AND.”
+
+
+Ask group members for other examples of when they were scared but moved forward anyway.
+Scenarios like the first time repelling or jumping out of a plane can be helpful here. Ask the
+following questions to help identify what thoughts, emotions, physical sensations, and urges the
+veteran was having at the time and whether they continued on anyway: What was it like? Were
+you able to move forward anyway? How did you feel about yourself when you were able to do
+that?)
+
+
+We want to help you start applying that to your daily life...so you can acknowledge all these
+painful and scary thoughts and emotions AND still pursue things that are important to you.
+
+
+Discussion:
+
+
+¢ What do you think your life would look like ifyou could live with this AND?
+
+
+¢ Ifyou could truly drop the rope, what would be different?
+
+
+22
+
+[PAGE 025]
+
+e Write on the board: Willingness means: “making room” for painful feelings, thoughts,
+physical sensations, urges, and memories so that you can focus on what matters to you.
+
+e Explain that “what matters to you” means “what is important to you” or “what is
+meaningful to you.”
+
+
+**Leader note: Remember that you are not trying to convince group members of
+anything here. Do not get into a back and forth about how this is not possible. Reflect
+what group members are saying and validate how difficult it is to take a willing stance at
+times.
+
+
+Willingness isn't about just experiencing pain to experience it. It's being willing to have
+whatever pain or anxiety is present so that you can pursue what matters to. You are being willing
+in the service of something important to you.
+
+It’s also important to note that willingness isn’t an attitude or a feeling. It’s more of a stance you
+choose to take. Do you think that the person in the Joe the Annoying Uncle metaphor was ever
+really feeling good about Joe being there?
+
+Willingness is also a constant choice. We don’t just choose to be willing once and then we are
+done. Do you think the person in the metaphor got tempted throughout the party to go try and
+kick Joe out again?
+
+
+Discussion:
+
+
+o You all have actually already started demonstrating willingness just by coming to this
+group. Who felt nervous about coming to group?
+
+o What fears did you have? What risks did you take?
+
+o Why did you choose to come anyway? (highlight that they chose to push through fears
+in the service of trying to improve their lives.)
+
+o Do you think you will have to make that choice over and over again in your life?
+
+o Sometimes people think that if they just choose this willing stance, life will get easier.
+Do you think that is true? (Answer: No—That thought is our brain once again trying
+to control the fact that life is hard and bad things inevitably happen.) Willingness is
+not about making life easier or avoiding pain. Remember we all agreed that
+everyone has pain? So willingness is more about choosing how that pain impacts
+your life—does it take over and pull you away from what matters? Or do you live a
+full life even in its presence?
+
+
+23
+
+[PAGE 026]
+
+Introduction to Mindfulness (15 minutes)
+
+
+One of the skills we are going to be working on in this group that, with practice, will help with
+taking a willing stance, is mindfulness. When we try to avoid or get rid of PTSD pain and
+anxiety, we are not acknowledging and experiencing in the present moment. PTSD often pulls
+our focus to what might happen in the future or toward thoughts and feelings about what
+happened in the past.
+
+
+The goal of mindfulness is to become aware ofyour present environment, thoughts, feelings,
+emotions, and physical sensations, rather than thinking about the past or worrying about the
+future. The goal is also to learn how to be nonjudgmental ofyour thoughts.
+
+
+What do you think we mean by nonjudgmental? (Answer: judging means evaluating whether
+something is good or bad, right or wrong, true or not true).
+
+
+Can anyone think of a time when they started to feel anxious and then thought “this anxiety isn’t
+ok. It must mean something is wrong?” That is a judgment. What happened to your anxiety
+when you judged it? (it went up). So being nonjudgmental would mean that you could just
+acknowledge you were anxious without deciding whether it was good or bad. You might still be
+anxious, but your judgments wouldn’t make it worse and you would have a bit more freedom to
+keep moving towards what matters to you.
+
+
+What is your understanding of what mindfulness is? Use this as an opportunity to catch and
+counter any mindfulness myths (e.g., that mindfulness requires ascribing to a religion, that the
+goal is relaxation, etc.).
+
+
+Survivors of trauma often cope in two different ways, both of which are counter to mindfulness:
+
+
+e Dissociation or Numbing: Some people shut down and don’t really notice life
+anymore. They feel distant and disconnected from their feelings, aspects of their
+daily life, or other people. Some also experience dissociation, where they completely
+disconnect from the present experience and feel spaced out.
+
+
+e Hypervigilance: Many veterans find that the opposite occurs: they become highly
+aware of everything around them. This makes a lot of sense to combat veterans, for
+example, because when you were deployed it was likely very adaptive to have a high
+level of awareness, since danger really was always just around the corner. This is
+not what we mean by being mindful though, because this constant level of
+Physiological arousal is very hard on your body physiologically, can be emotionally
+draining, and prevents you from ever being able to just enjoy the present moment.
+
+
+Discussion:
+
+
+e When you are doing either of these things, how does it affect your ability to engage in
+important parts ofyour life?
+
+
+24
+
+[PAGE 027]
+
+e Are you fully present when numb?
+
+
+° Has hypervigilance ever prevented you from enjoying good moments? What do you
+think life might be like ifyou didn’t do these things? (Leader: use this to build
+motivation and buy-in!)
+
+
+Mindfulness is a really critical piece of helping you live a life that is more meaningful to you.
+There are several key goals of mindfulness:
+
+
+° To help you be aware of what is going on with you. Why might this be important?
+The ability to notice your experience in to the present moment directly counters the
+emotional disconnect of numbing and the hypervigilance ofpotential future danger
+that pulls you from the present moment.
+
+
+° To serve as a “systems check.” /fyou are not aware of what you are thinking,
+feeling, and having urges to do, then it is really hard to do something healthy with it.
+The ability to know what is going on with you is an important part of being able to
+pursue a life that is meaningful to you.
+
+
+e A related goal is to help you create some space between what goes on inside and
+how you react. When you are able to be more mindful, you can look at internal
+experiences for what they are: a thought, an emotion, or an urge. When you develop
+this skill, your ability to just be with your pain goes up, and you are less likely to feel
+overwhelmed by it, or like it is something that you have to get rid of. This will
+increases your ability to choose how you want to react to pain, and to react in a way
+that reflects what matters to you.
+
+
+Mindfulness can help empower us to choose our reactions to painful experiences. For instance,
+often we get really caught up in trying to put blame where it belongs, whether that means beating
+ourselves up or holding on to anger toward others. Ask yourself, does doing this lead to a sense
+of empowerment for you? Does it benefit you? The alternative is acknowledging that you have
+the power to choose how to respond to pain in your life. You may not be able to choose what
+happens to you or has happened to you, but you do get to choose the subsequent impact. Some
+refer to this ability to choose our responses as “response-ability. ”
+
+
+° It helps you get better at noticing positive experiences.
+
+
+Remember, mindfulness is about full awareness of experiences: positive, negative, and neutral.
+
+
+The best way to learn mindfulness is to practice, so we will be starting each group each week
+with practice. Please know that there is no right or wrong way to practice mindfulness. You will
+likely get distracted, have moments of discomfort, or even have thoughts of wondering whether
+you are doing it right. This is all a part ofyour experience to be observed nonjudgmentally.
+
+
+25
+
+[PAGE 028]
+
+Be Where You Are Exercise: (Adapted from Hayes & Smith, 2005; 10-15 minutes to
+complete and discuss)
+
+
+Assume a comfortable position with your back straight, letting your shoulders drop and relax.
+Close your eyes or find a spot on the floor to focus on. We are going to start by focusing on your
+breath. Bring attention to your stomach, feeling it rise or expand gently on the in-breath and fall
+or recede on the out-breath. Keep focusing on your breath, “being with” each breath for its full
+duration. Every time that you notice your mind wandering from your breath, notice what it was
+that took you away, and then gently and without judgment, bring your attention back to your
+breath. You may have to bring your attention back multiple times and that’s ok.
+
+
+Now, become aware of the chair you are sitting in. See ifyou feel exactly where the chair
+touches you and you touch it. Mentally try and see ifyou can color in the shape of where your
+body touches the chair. Take a minute to feel the chair- grasp the arm handles and notice the
+connection your hands have to them. Notice the cushiness offirmness of the seat below you.
+Next, take a moment to notice any sounds that you can hear in this room right now. Spend a
+moment just observing them. Remember, ifyou get distracted, just observe that and gently
+redirect yourself.
+
+
+Next, gently open your eyes and spend a moment noticing the light in the room. How bright is
+it? Where is the light hitting the room?
+
+
+Next, look around and notice the colors, furniture, and people in the room. You may have been in
+this room or with these people before, but look at it all as ifyou were an alien entering a new
+environment. Spend a few minutes being aware.
+
+
+e Discuss veteran experiences. If a veteran says they felt like they didn’t do it right, help
+them observe and label that as a thought they are having. Anything that comes up is a part
+of their experience and should be highlighted as such.
+
+
+e Validate any comments about awkwardness or trouble staying focused. Share that even
+providers with experience in mindfulness found it difficult at first and that some days are
+still more difficult than others. Validate resistance by noting that often the last thing that
+veterans with PTSD want to do is sit still with their experience because that is often a
+time when painful thoughts or emotions come up.
+
+
+e Make sure to point out that while mindfulness often results in relaxation, the goal is not
+relaxation. Veterans will often feel that mindfulness didn’t go well or that they did it
+wrong if they are not relaxed afterwards or if it was difficult.
+
+
+Wrap-up and Homework (5-10 minutes)
+
+
+e Review group content. Ask members what the take-home point was for them today. Ask
+them how that might affect how they approach their week.
+
+
+26
+
+[PAGE 029]
+
+Homework:
+
+
+1. Ask veterans to practice mindfulness daily for at least 5-10 minutes. Refer veterans to
+the script for Be Where You Are in their patient manual and the Mindfulness Log for
+tracking their practice.
+Reassign the PTSD Beliefs and Behaviors Worksheet to those who did not complete
+it. You can also frame this as a way to identify thoughts and images that make
+willingness difficult and note that they will be learning strategies to cope with those
+thoughts and behaviors in a future session. Ask those who did complete it to continue
+working on it and see ifthey can find one way to be willing during the week.
+3. Introduce the Willingness Assessment and ask veterans to complete for homework.
+
+
+27
+
+[PAGE 030]
+
+SESSION 3: DEFUSION
+
+TM
+
+The first goal of this session is to review the PTSD Beliefs and Behaviors worksheet in
+detail. Make sure to help veterans carefully identify specific thoughts and behaviors
+associated with their PTSD. This review should help in beginning to identify three
+important points of intervention: (1) specific thoughts that can interfere with a valued life
+and could be defused from, (2) specific anxiety control behaviors that may be future targets
+for exposure, and (3) continued facilitation of willingness through increased awareness of
+the impact of the above thoughts and behaviors, as well as how a desired life might be
+attained if the veteran took a stance of willingness. The second goal of this session is to
+introduce defusion. When introducing defusion, remember: experience it, name it, and then
+explain it. Once the concept of defusion is introduced, leaders should help veterans begin
+practicing defusion from specific trauma-related thoughts. Veterans should be encouraged
+to practice defusion throughout the week on identified beliefs. )
+
+
+Session Outline:
+Mindful Check-in (10 minutes)
+Review previous content and PTSD Beliefs and Behaviors worksheet (30-40 minutes)
+Defusion Introduction and Practice (30-40 minutes)
+Homework (5 minutes)
+
+
+Session Content:
+
+
+Mindful Check-in or “Systems Check” (10 minutes; adapted from Stahl & Goldstein, 2010)
+
+
+Begin with review of rationale for mindfulness (see session 2)
+
+
+We are going to start a little differently today by doing a mindfulness exercise, and then we will
+review homework and move on with the rest of the session. This exercise is called the mindful
+check in and the purpose is to do a kind of “systems check” on ourselves to see how we are
+doing. Often we get caught up in our busy lives, or we get caught up in what is going on in our
+heads and we neglect to “check in” with ourselves and to become aware of how we are feeling
+emotionally, mentally, and physically.
+
+
+To begin, let's close our eyes, or find a spot on the floor to stare at, and I will step us through a
+mindful check-in script, which is also in your veteran manual for your reference.
+
+
+As you close your eyes, just take a moment to get comfortable, and then be still... Begin the
+mindful check-in by first attending to your breath... Not changing it, just noticing its qualities,
+what it feels like. Breathe in, and breathe out, noticing how your abdomen rises with each inhale
+and falls with each exhale... Engage in focused breathing for a moment... (pause)
+
+
+28
+
+[PAGE 031]
+
+Now extend this awareness of the breath to your entire body, just being present with your whole
+body and noticing any sensations that arise. Do not judge these sensations, just notice anything
+happening in your body... Maybe you feel some relaxation in some area, or some tension. Maybe
+there is some discomfort, or another particular sensation. Just be with these experiences for a
+moment...(pause)
+
+
+Now let’s shift our attention to your emotions, and any feelings you may be having, no matter
+how subtle or strong. Again, we do not want to judge these emotions, simply notice and accept
+their presence... Stay with your emotions for a moment...(pause)
+
+
+Finally, let’s shift our awareness to our thoughts, just noticing the thoughts that are entering,
+flowing through, and exiting your consciousness. Without becoming attached to any ofyour
+thoughts, or getting wrapped up in them, simply notice them. Notice them as they arrive, observe
+them as they play out, and allow them to leave when they are ready, without trying to push them
+away or cling to them. Stay with your thoughts for a moment... (pause)
+
+
+Now congratulate yourself on taking these moments to practice an exercise that enhances your
+well-being... When you are ready, slowly and gently open your eyes and re-enter the room.
+
+
+Discussion:
+
+
+e Ask group to share reactions to this exercise. Validate any difficulties brought up by
+noting again that this is a totally new approach for many, especially for those with PTSD
+who often have a great deal of practice at NOT noticing how they are doing inside. It can
+be difficult at first, and let them know that we will teaching a number of different
+mindfulness exercises and have found that very few people find all of them equally
+helpful. Veterans often find one or two that are most helpful to them.
+
+
+e If veterans state “I wasn’t doing it right,” or “it didn’t work,” you can help them to
+observe these statements as thoughts by saying something like “ok so you had the
+thought that you weren’t doing it right.”
+
+
+e Offer positive reinforcement for being willing to try something new without the condition
+that there has to be a good outcome.
+
+
+Review previous content and PTSD Beliefs and Behaviors Inventory (30-40 minutes)
+
+
+Last week we talked about learning how to live in the “AND.” Does anyone remember what we
+mean by that?
+
+
+The “AND” means you can have the pain, anxiety, etc., from your PTSD “AND” you can still
+live a life that you want. Many people don’t reach this point and instead live life in a place of
+BUT (e.g., “ I want a better life, but I might get hurt.” We also talked about how willingness is a
+stance that can help you live in the “AND.”
+
+
+29
+
+[PAGE 032]
+
+What do you remember about willingness?
+
+
+** T eader note: be sure that this discussion includes review of the following: (1) “Joe the
+Annoying Uncle,” (2) the concept that willingness is a choice not a feeling, and (3) that
+that willingness can’t be contingent on getting what we want.
+
+
+Your homework assignment was to complete the PTSD Beliefs and Behaviors Inventory. The
+goal of this was to help you start identifying some of the specific fears you have and the
+behaviors you engage in to cope with those fears. We are specifically focusing on those beliefs
+and behaviors that keep you from having the life that you want to live. We are going to spend
+the first part of this session reviewing that homework assignment. Then we will start learning
+some strategies to approach those thoughts in a new way.
+
+
+e Walk through each section of the PTSD Beliefs and Behaviors Worksheet and write
+answers on the board. Do not rush this! For those familiar with Cognitive Processing
+Therapy, you might think of this as an activity similar to creating a stuck point log. You
+want veterans to be able to clearly identify specific beliefs, behaviors, and their impact on
+the veteran’s values. For example, if a veteran expresses the belief, “I can’t trust other
+people” help them identify what they fear will happen if they do. This gives them more
+specific content to defuse from. Then help them identify how acting on this belief
+impacts their values.
+
+
+Review their willingness ratings and how they think life might be different if they tried to
+approach these beliefs and behaviors differently, by instead taking a willing stance? What might
+life look like if they don’t?
+
+
+Defusion Introduction and Practice (30-40 minutes)
+
+
+Saliva exercise: The purpose of this exercise is to help patients understand the power of
+language. Although you are only describing something, their minds will naturally connect the
+words with an image and sensations, and disgust will be evoked.
+
+
+Today we are going to focus on a skill that will help you start being able to have some of those
+difficult thoughts you identified and still move forward. Before we learn the skill, we first want
+to do a little exercise with you.
+
+
+e Ask the group members to close their eyes and follow along with what you describe.
+Then say something like: “ Imagine that I have given you the strange homework
+assignment of saving up your saliva in a water bottle for the next week. I instructed you
+to spit your saliva into the water bottle every time you thought of it. Now, we are back
+into group after a week of collecting. I’m giving each ofyou a glass, and I’m going to ask
+you to pour a small glass of the saliva that you collected into it. Now you are going to
+take the glass, lift it to your mouth, and take a sip. You will feel the warm, thick, saliva
+as it enters your mouth and slides down your throat. You swallow the saliva and then set
+the glass back down.”
+
+
+30
+
+[PAGE 033]
+
+e Have veterans discuss reactions
+
+
+So none of us had to actually drink the saliva, but we were able to produce that disgust and
+terrible physical sensation. That is because even though all we did was use words and images,
+our mind gave them an element of realness. The fact that you were able to envision it without
+seeing it is what we call fusion.
+
+
+This is a property of language. Even though that didn’t happen, once those words entered your
+mind, you reacted to them as if they were real. This human ability to conjure up something that
+feels real based on thoughts and images is adaptive or helpful in some ways. It allows us to have
+a positive imagination (e.g., I can think of a beautiful sunset and feel at peace). However, it can
+also cause problems when we become too connected or attached to painful thoughts.
+
+
+Imagine what happens when fusion occurs with a less simple or more painful thought. For
+example, the thoughts “I am a failure” or “things will never get better.” Just like the
+description of saliva, those can conjure up intense emotions and reactions, even though in reality
+that are just words. If we take them seriously, they can have a huge impact on us.
+
+
+Define Fusion and Defusion:
+
+
+e Write definitions on the board and do one more brief review to make sure everyone
+understands.
+
+
+Fusion: Believing that a thought is true and important
+e Link back to the saliva exercise — feeling disgusted is being fused even though it was
+just words, feeling as if words are true is fused
+
+
+Defusion: Recognizing a thought for what it is - sounds, words, stories, bits of language
+e Not believing, following, or attending to unhelpful thoughts. Instead recognizing that
+thoughts may or may not be true. Whether they are true or not is not what matters.
+What matters is whether they are helpful.
+
+
+Hands As Thoughts Metaphor:
+
+
+Imagine for a moment that your hands are your thoughts. I'd like you to hold your hands
+together, palms open, as if they are the pages of an open book. Then I'd like you to slowly and
+steadily raise your hands up toward your face. Keep going until they’re covering your eyes. Then
+take a few seconds to look at the world around you through the gaps in between your fingers and
+notice how this affects your view of the world.
+
+
+So what would it be like going around all day with your hands covering your eyes in this
+manner? How much would it limit you? How much would you miss out on? How would it reduce
+your ability to respond to the world around you? This is like fusion: we become so caught up in
+our thoughts that we lose contact with many aspects of our here-and-now experience, and our
+thoughts have such a huge influence over our behavior that our ability to act effectively is
+significantly reduced.
+
+31
+
+[PAGE 034]
+
+Now once again, I'd like you to cover your eyes with your hands, but this time, lower them from
+your face very, very slowly. As the distance between your hands and your face increases, notice
+how much easier it is to connect with the world around you.
+
+
+What you just did is defusion. You created distance between your thoughts (your hands) and your
+face so you could see and engage with the world. The thoughts were still there but they
+weren 't as dominant. When your hands were in front ofyour face, you were fused and your
+hands were getting in the way — that is what fusion does. It gets in the way. When moving toward
+values based goals, our goal is to be able to defuse when thoughts or emotions get in the way of
+our goals.
+
+
+Discussion:
+
+
+Engage the group in a discussion about what fusion looks like in their lives and how it is
+limiting. Give examples if group members struggle (i.e., If my goal is to make friends and be
+more social but I am fused with the thought that I am weird how will that get in the way? Think
+of my fused thought of “I am weird” is my hands in front of my face — I can’t see around, notice
+other person’s reactions, and I’m so caught up in my own thought that I am weird that I can’t see
+anything else. Link this back to the thoughts identified on the PTSD Beliefs and Behaviors
+Worksheet.
+
+
+Defusion Practice
+
+
+For the rest of group, we are going to practice some specific defusion exercises. Some will work
+well for you and others will be challenging. Be open minded about trying each one but know
+that some will work better for you than others. Just focus on the ones that work for you. We want
+you to pick one of the thoughts that you identified on your PTSD Beliefs and Behaviors
+Worksheet to practice.
+
+
++ Have each veteran share the thought they plan to practice with to ensure it is
+appropriate. Process reactions after each exercise.
+
+
+Practice Exercises:
+
+
+° “I’m having the thought that...”: Bring to mind your difficult thought. Focus on that
+thought and believe it as much as you can for 10 seconds. Next take that thought and
+in front of it insert the phrase, “I’m having the thought that...” Pay attention to what
+happens (pause 10 seconds). Now again, change the thought to “I notice I’m having
+the thought that...” Pay attention again to what happens (pause for 10 seconds).
+Note that this particular exercise is great for emotions and urges as well (i.e., I’m
+having the urge to leave, I notice I’m having anxious feelings).
+
+
+¢ Musical Thoughts: Bring your difficult thought to mind again. Hold it in your mind
+for 10 seconds and notice how it affects you. Now imagine taking that same thought
+and singing it to yourself to the tune of “happy birthday.” Notice what happens
+
+
+32
+
+[PAGE 035]
+
+(pause 10 seconds). Now go back to the thought in its original form. Hold for 10
+seconds and notice how it affects you (pause for 10 seconds). Now take that thought
+and silently sing it to the tune of “jingle bells.” Notice what happens (pause for 10
+seconds). Veterans can also choose their own songs or you can give additional
+examples (e.g., follow the yellow brick road, any song that leaders or group members
+think of).
+
+
+e Naming your stories: Identify your minds’ favorite stories. Give them names such as the
+“I can’t do it” story or the “my life sucks” story, or the “I'm a failure story.” When
+your story comes up, simply acknowledge it by name (e.g., “Oh here’s that oldfavorite of
+mine- the everything is my fault story.” Once you have acknowledged the story, just let it
+be. You don't have to challenge it or push it away, but you also don't have to pay much
+attention to it.
+
+
+e Thanking your mind: When your mind starts coming up with the same old story, just
+saying “Thank you mind! That is informative.” Or “Thanks, mind! That is interesting!”
+Make sure you don’t do this sarcastically or aggressively, but with humor and
+appreciation that your mind is a great storyteller.
+
+
+e Silly voices: Again, bring your painful thought to mind and spend 10 seconds believing it
+as much as possible (pause 10 seconds). Then, pick an animated cartoon character (e.g.,
+Shrek, Homer Simpson, Mickey Mouse, Donald Duck, Porky Pig, Bugs Bunny) and
+“hear” the thought being spoken in that voice. Notice what happens (pause 10 seconds).
+Alternate back and forth and notice what happens.
+
+
+Homework (5 minutes)
+
+
+1. Practice Defusion. Take a list of each difficult thought you identified on your PTSD
+Beliefs and Behaviors Worksheet. Practice using any combination of defusion
+strategies on at least one thought per day. You can also continue to practice with the
+thought you used in group today. There is a list of extra defusion exercises you can
+try in your manual.
+
+
+2. Practice the Mindful Check-in at least once per day. Aim for 5-10 minutes. Record
+your experience in your mindfulness log. You can find a script for the check-in in
+your Appendix of mindfulness exercises.
+
+
+33
+
+[PAGE 036]
+
+SESSION 4: PERSONAL VALUES
+
+
+The primary goal of this session is to help veterans connect with their values and create
+values-based goals to work on during the course of the group. Some veterans may have lost
+touch with their values completely, whereas others may be aware of them but not realize
+that their struggle with pain prevents valued actions. It can be helpful to think of a
+distinction between “trauma-influenced values” and “personally-influenced values.” Often
+values such as emotional and physical safety will become more prominent following
+trauma, and will be lived out at the expense of other values. Additionally, some veterans
+feel that their ability to live out a certain value has been taken from them by the trauma. It
+is important to help veterans explore the impact of their trauma on their personal values.
+We recommend that you complete the values card sort yourself so that you can provide
+personal examples or relate to struggles experienced by the group members.
+
+\ y
+Materials Needed:
+Values cards (one set for each group member. See Appendix C.)
+
+
+Session Outline:
+Mindfulness Exercise and Discussion (10 minutes)
+Review Previous Week and Homework Review (15-20 minutes)
+Introduction to Values and Goals (5-10 minutes)
+Values Card Sort (30-40 minutes)
+Homework (5-10 minutes)
+
+
+Session Content:
+
+
+Mindful Check-in or “Systems Check” (10 minutes; adapted from Stahl & Goldstein, 2010)
+
+
+We are going to do the mindful check-in from last week again. Remember, the purpose of this
+exercise is to do a kind of “systems check” on ourselves to see how we are doing. Often we get
+caught up in our busy lives, or we get caught up in what is going on in our heads and we neglect
+to “check in” with ourselves and to become aware of how we are feeling emotionally, mentally,
+and physically.
+
+
+To begin, let’s close our eyes, or find a spot on the floor to stare at, and I will step us through a
+mindful check-in script, which is also in your veteran manual for your reference.
+
+
+As you close your eyes, just take a moment to get comfortable, and then be still... Begin the
+mindful check-in by first attending to your breath... Not changing it, just noticing its qualities,
+what it feels like. Breathe in, and breathe out, noticing how your abdomen rises with each inhale
+and falls with each exhale... Engage in focused breathing for a moment...(pause)
+
+
+34
+
+[PAGE 037]
+
+Now extend this awareness of the breath to your entire body, just being present with your whole
+body and noticing any sensations that arise. Do not judge these sensations, just notice anything
+happening in your body... Maybe you feel some relaxation in some area, or some tension. Maybe
+there is some discomfort, or another particular sensation. Just be with these experiences for a
+moment...(pause)
+
+
+Now let’s shift our attention to your emotions, and any feelings you may be having, no matter
+how subtle or strong. Again, we do not want to judge these emotions, simply notice and accept
+their presence... Stay with your emotions for a moment...(pause)
+
+
+Finally, let’s shift our awareness to our thoughts, just noticing the thoughts that are entering,
+flowing through, and exiting our consciousness. Without becoming attached to any ofyour
+thoughts, or getting wrapped up in them, simply notice them. Notice them as they arrive, observe
+them as they play out, and allow them to leave when they are ready, without trying to push them
+away or cling to them. Stay with your thoughts for a moment... (pause)
+
+
+Now congratulate yourself on taking these moments to practice an exercise that enhances your
+well-being... When you are ready, slowly and gently open your eyes and re-enter the room
+
+
+Review Previous Week and Homework Review (15-20 minutes)
+
+
+e Review mindfulness practice
+e Review concepts of fusion and defusion.
+e Review their experience practicing defusion on beliefs from PTSD Beliefs and Behaviors
+worksheet
+e Ask if they noticed themselves getting fused with any thoughts throughout the week.
+
+
+**T eader note: Remember that now that veterans understand the concepts of fusion and
+defusion, you can point out and help veterans label fused thoughts any time you see them in
+group.
+
+
+Introduction to Values and Goals (5-10 minutes)
+
+
+For the remainder of group today we are going to be focusing on values.
+
+
+What are values?
+
+
+Values are important life directions that reflect what is most important to you and what you want
+to be about. They are also about how you want to live your life.
+
+
+Values are meant to structure the way you choose to live your life. They provide a sense of
+purpose and meaning to our lives. Values are not the same as goals. Goals are things that can be
+achieved in a specific time frame whereas values are ongoing. Your values shape what goals you
+set for yourself. For example, ifI value my health, then I may set a goal of quitting smoking,
+running a 5K, or eating 5 fruits and vegetables each day. Another example is a value would be
+
+
+35
+
+[PAGE 038]
+
+like driving West. We never arrive at West but we arrive at destinations along the way to “west”
+such as a particular city or store.
+
+
+Values are very personal and are different for different people. Values may change over time.
+For instance, a young person who valued excitement and enjoyed spontaneity may begin to value
+simplicity and inner peace as an older person. Another example would be someone who valued
+achievement above all else and had a very successful career may begin to value service and
+philanthropy in retirement.
+
+
+**Leader note: The following are points that you should be prepared to discuss if needed, but do
+not necessarily need to be included in group discussion:
+
+
+e You may need to distinguish values from Morals. Morals are often broadly held
+(e.g., don’t hurt children, don’t kill your neighbor, etc.) whereas values are more
+individual. One could have what we would consider no morals but still have a
+value (e.g., the person who will unscrupulously walk all over others to get what
+they want may be considered immoral but they likely value self-satisfaction and
+that influences their decisions).
+
+
+e Make sure that veterans understand that they are selecting the values that they
+want to direct their life, regardless of whether they are currently acting in line
+with those values.
+
+
+e You can tie in the concept of willingness and mindfulness again. The goal is for
+veterans to develop psychological flexibility so that they can make mindful
+decisions about what they want for their life, rather than having the trauma
+influence their decisions. Even if they choose to prioritize a value that is more
+influenced by trauma than their personal values, the goal is to help them become
+more mindful of that choice and why they made it.
+
+
+Values Card Sort (30-40 minutes, Miller, D’de Baca, & Matthews, 2001)
+
+
+The goal of this exercise is to help you clarify your most important values. You may already
+know what they are, but a lot ofpeople have actually not given much thought to what is most
+important to them.
+
+
+e Give each veteran a stack of values cards.
+
+
+e There should be 3 cards labeled “important to me,” “very important to me” and “not at all
+important to me.” Veterans should lay these out and then put each value card in one of
+the three categories.
+
+
+36
+
+[PAGE 039]
+
+e Once they are finished, have them discard any value cards that are not in the “very
+important to me” pile.
+
+
+° The next step is to have veterans identify their top 5 values. To do that they will:
+o Lay down 9 cards at random. Chose the top value among those 9 and put it aside.
+Discard the rest (occasionally a veteran will be torn between two values. In this
+case, it may be that two of their top 5 happened to fall together. It is okay to
+occasionally “cheat” and select 2 cards if they really can’t decide.)
+o Continue with sets of 9 until are left with only 5.
+
+
+° After all group members have completed the card sort, ask each veteran to share their top
+5 values and write them on the board. Leaders should also direct each veteran to write
+down their values in their manuals.
+
+
+Discussion:
+
+
+e Spend the rest of the session beginning to discuss the values each veteran selected. Below
+are questions to help facilitate discussion. The overall goal is to begin creating a greater
+emotional connection to the values they have selected.
+
+
+e Why did you select this value?
+e Why is it important to you?
+e What does it feel like to look at this value?
+e What would it be like if there were no barriers to living out this value?
+e What makes this value so important/special?
+
+
+Homework (5-10 minutes):
+
+
+Values Worksheet: For the remainder of this group, we are going to be working on helping you
+reconnect with at least one of these values. For your homework this week, you will complete the
+Values worksheet. When you complete this, we want you to think about one the values you
+identified that you feel you are not living out very well right now. This may be a value that you
+feel has become difficult for you to live out since you experienced your trauma. The worksheet
+will help you consider the importance of this value and how it is playing out in relation to your
+trauma.
+
+
+37
+
+[PAGE 040]
+
+SESSION 5: WILLINGNESS AND VALUES-BASED IN VIVO EXPOSURES
+
+r a
+There are two primary goals of this session. The first is to continue to facilitate increased
+willingness to experience anxiety and difficult trauma-related thoughts and sensations. This
+is facilitated through review of the values worksheet. The second goal is to develop values-
+based in vivo exposures that veterans will work on for the rest of the group. These should
+ideally be in vivo exposures that the veteran is willing to complete in the service of being
+able to better live out their values. It is common to encounter some resistance to the idea of
+completing exposures. Refer to Appendix A for tips on how to respond in an ACT
+consistent manner and optional activities to facilitate willingness to do exposures.
+
+
+Session Outline:
+Mindfulness Exercise- Leaves on a Stream (5-10 minutes)
+Homework Review (30-40 minutes)
+Development of values-based in vivo exposure goals (40-50 minutes)
+Homework (5 minutes)
+
+
+Session Content:
+
+
+Mindfulness Exercise - Leaves on a Stream (5-10 minutes; adapted from Harris, 2009)
+
+Sit in a comfortable position and either close your eyes or find a spot to focus on. Now, imagine
+you are sitting or standing in the middle of a stream. The water is flowing away in front ofyou.
+Notice if there is any sound from the running water. Notice if there are any trees, etc. on the
+banks of the stream (pause).
+
+
+Now, look around and notice that there are leaves gently floating along the surface of the water.
+Notice that each leaf comes into your awareness and then gently floats down the stream until you
+can no longer see it (pause).
+
+
+For the next few minutes, take each thought that enters your mind and place it on a leaf and let it
+float by. Do this with each thought- pleasurable, painful, or neutral. Just notice it, place it on a
+leaf, and let it float by. Just observe it floating by without becoming attached (pause).
+
+Ifyour thoughts momentarily stop, continue to watch the stream. Sooner or later your thoughts
+will start up again (pause).
+
+
+Allow the stream to flow at its own pace. Don't try to speed it up or rush your thoughts along.
+You are not trying to get rid ofyour thoughts. You are allowing them to come and go at their
+own pace. Some may move by quickly, others may linger. Some may come by multiple times.
+Just let whatever thoughts come by be there for as long as they are (pause).
+
+Ifyour mind says, “This is dumb,” “I'm bored” or “I’m not doing it right” place those thoughts
+on leaves too and let them pass (pause).
+
+
+38
+
+[PAGE 041]
+
+If a difficult or painful feeling arises, simply acknowledge it. Say to yourself, “I notice myself
+having a feeling of boredom/impatience/frustration/anxiety.” Place those thoughts on leaves
+and allow them to float along at their own pace (pause).
+
+
+As you do this, you may find that a thought hooks you and distracts you. This is normal. As soon
+as you realize you have been side-tracked, gently bring your attention back to the exercise
+(pause).
+
+
+You may also notice that you find yourself trying to push away a certain leaf. Again, once you
+notice it, gently bring your attention back to the exercise (pause).
+
+
+Continue observing your thoughts and placing them on leaves for the next few minutes.
+
+
+Homework Review (30-40 minutes)
+
+
+Review mindfulness practice
+Review the values worksheet. Do not rush review of the worksheet. There are several
+goals group leaders should aim to facilitate. The first is to continue to increase emotional
+attachment to personal values. The second is increase discrepancy between values and
+current behavior to increase motivation to take a willing stance.
+During the review, you may also consider referring back to the Joe the Annoying Uncle
+metaphor from session two. For example, when discussing question 7, you might ask
+“What would it look like to let Joe into your party?”
+
+
+Development of values-based in vivo exposure goals (40-50 minutes)
+
+
+For the rest of our time together in this group, we are going to work together to set and work
+towards goals that will help you get back in touch with your values.
+
+
+Introduce SMART goals format. Note that our time limit will be working on a new goal
+that can be completed in one week”s time each week. This will allow for group members
+to review their experience each week.
+o Specific
+o Measurable
+o Attainable
+o Realistic
+o Time-Limited
+
+
+Introduce exposure smart goals. Exposure is a method where you intentionally approach
+the very things that make you anxious. Let's say for example that you would like greater
+peace of mind. You might notice that part of what lowers your peace of mind is that you
+don’t feel safe and you are always checking your surroundings. So some SMART goals
+you might create would involve going places that usually scare you or going out but
+
+
+39
+
+[PAGE 042]
+
+reducing the number of times you scan your environment. As you do that, you are
+showing willingness to experience your fear. In the process, you may find that you are
+able to feel more comfortable with the fear and increase your peace of mind. The fear
+may or may not go away when you do this. If it does, great! But if it doesn’t, that is ok to.
+You will now know that you can have that fear AND still do things that are important to
+you.
+
+
+e A second example would be ifyou really value your relationship with your spouse. Let's
+say you set a long-term SMART goal of being able to take him or her out for a dinner
+date by the end of group. This has always been a struggle for you due to anxiety being in
+crowded places. You might start out with a smart goal of going to the restaurant at 3:00
+p.m. Then maybe try going to a less busy restaurant at 5 p.m., then a busy restaurant at
+5:00 p.m. Then you might try to reduce the number of times you check behind you. You
+would keep doing this every week until you reach the ability to take your spouse to dinner
+and stay focused on him or her. Again, you may get the added benefit of reduced anxiety.
+Or you may not- but you will be able to carry your anxiety to do what matters to you,
+rather than having it limit you.
+
+
+e Remember this therapy is all about learning to live with that AND. So as you do these
+exposures you are teaching yourself that you can experience fear AND still go do things
+that are personally important to you. It may not go away, but it doesn’t have to limit you
+either.
+
+
+e Review the Ideas for Exposure handout in the veteran manual and talk through a few
+examples. Once veterans seem to grasp the concept, spend the remainder of group
+helping each member create a list of in vivo exposures that they would be willing to try
+during the remainder of group. Refer to any points in Appendix A as needed during this
+process.
+
+
+Homework (5 minutes)
+
+
+1. Continue to practice mindfulness and record observations
+2. Continue to practice defusion
+3. Complete first values-based exposure
+
+
+40
+
+[PAGE 043]
+
+SESSION 6: DECISION POINTS AND IMAGINING NEXT EXPOSURE
+
+
+There are two primary goals of this session. The first is to normalize any struggle that
+veterans are having with taking a new approach to their trauma, to re-instill motivation, and
+to help them better understand the process of value-based living. This is done through the
+decision points exercise. The second goal of the group is to help veterans prepare for their
+next exposure and anticipate the decision points they will encounter as they complete their
+exposure activities. This is accomplished through an imaginal exercise in which veterans
+mentally rehearse their next exposure and practice identifying challenges and opportunities
+to apply what they are learning in ACT.
+
+a y
+Session Outline:
+Mindfulness and Willingness Exercise: “Physicalizing” (10-15 minutes)
+Homework Review (15-20 minutes)
+Decision Points (15- 20 minutes)
+Imagining Next Exposure Goal (20-30 minutes)
+Homework (5 minutes)
+
+
+Session Content:
+
+
+Mindfulness and Willingness Exercise - Physicalizing (10-15 minutes; Adapted from Hayes
+and Smith, 2005)
+
+
+For today’s mindfulness exercise, we are going to practice nonjudgmentally being mindful of a
+painful, trauma-related, thought, emotion, or memory. Can you think of one such thing related
+to your trauma that you would be willing to try taking a look at today? It doesn’t have to be the
+hardest thing for you—you have control over what you are willing to look at. But can you pick
+one thought, emotion, or memory that still has a lot ofpower over you or keeps you from your
+values? Bring that to mind before we start and write it down on your session 6 overview in your
+manual where it says my target item.
+
+
+When we look at objects external to ourselves, we don’t take them to mean anything about us.
+For example, imagine you are walking down the street and you notice an ugly pile of trash.
+Normally, you wouldn’t take that pile of trash to mean that you are a pile of trash or a horrible
+person right? However, what if instead of a pile of trash, you noticed a feeling of self-loathing?
+You might fuse with that feeling as an indicator that you are a horrible person. But since we
+have talked about thoughts just being thoughts, that thought doesn’t really define you any more
+than the pile of trash does. This exercise is going to help you better look at a painful traumarelated thought, emotion or memory, like that pile of trash. By making it a bit more outside
+yourself, you can see that it doesn’t define you; it is just what it is - a thought, emotion, or
+memory.
+
+
+Begin by looking at the target item you wrote down. Get in touch with how you feel when you
+make contact with it.
+
+
+41
+
+[PAGE 044]
+
+Now, close your eyes and imagine taking this item and placing it four or five feet in front ofyou.
+Later, we will let you take it back, so if it objects to being put outside, let it know you will be
+taking it back. See ifyou can set it out on the floor in front ofyou.
+
+
+If this target had a shape, what shape would it be? Try to really picture it.
+
+
+If this target had a size, how big would it be? Try to really picture it
+
+
+If this target had a color, what color would it be? Try to really picture it.
+
+
+If this target had a power, how powerful would it be?
+
+
+If this target had a weight, how much would it weigh?
+
+
+If this target had a speed, how fast would it go?
+
+
+If this target had a surface texture, what would it feel like?
+
+
+If this target had an internal texture, what would it feel like inside?
+
+
+If this target could hold water, how much volume would it hold?
+
+
+Now, see whether there are any sticky negative reactions that appear to interfere with your
+willingness to have this object be exactly as you experience it to be. These reactions might be
+things like disliking it, fearing it, or just wanting it to go away. If there are no reactions, you can
+stop the exercise. If there are, then stick with me. Move the original target object off to the right
+and imagine yourself taking your sticky, difficult reaction to that target and putting it four or five
+feet in front ofyou. For example, ifyou find that you hate the original target, put that “hate”
+out on the floor next to it. We call this the “new target.”
+
+
+Leader: go through above questions with the new target. Then say now, see ifyou can drop
+your struggle with this new object. Try to be willing to experience it fully without defense.
+Meditate on that for a few moments.
+
+
+Now before taking these objects back, since they do reside within you, take a look at them and
+notice if they look any different than when we started. Maybe they do, maybe they don't. Just
+observe. Now imagine picking up each target and putting it back inside ofyou, but also realize
+that it is possible to be more willing towards the things we struggle with, and notice too, that it is
+how we react to these events that gives them much of their power over us. Close your eyes and
+bring both objects back inside you, willingly, much as you would welcome a guest in your home.
+
+
+Discussion: What was that exercise like? What was it like to imagine your target painful thing
+as an object? Did it change how you interacted with it at all? Where did you find “stickiness”
+in terms ofyour willingness? The point you want to get to is that painful thoughts and feelings
+lose their power when we are willing to have them.
+
+
+42
+
+[PAGE 045]
+
+Homework Review (15-20 minutes)
+
+
+e Review practice of mindfulness and progress on their exposure goals.
+
+Decision Points (15-20 minutes)
+
+
+One of the important things for you to remember as you try out these exposures and this new way
+of relating to your trauma, is that living within your values is not a one time decision. Being
+mindful, being willing, and taking steps towards your values are not one time things. All of these
+choices are made daily, moment to moment. So ifyou are finding yourself taking two steps
+forward and one step back throughout this group, that is normal! This is not going to come
+naturally.
+
+
+e Direct veterans to the Decision Points handout in their manual. Group leaders draw target
+circle on the board and review each point from the inside out.
+
+e Inner Circle - Anxiety/painful emotions.
+o This is the starting point that the veteran has no control over. This is the pain or
+anxiety that is inevitable and how the veteran responds to it influences whether
+they move towards values or toward other behaviors that make pain worse in the
+long run.
+o Give the following example situation that can be drawn out as you explain each
+ring: Let’s imagine this with an exposure goal of going out to be in a crowd.
+Let’s say you selected specifically the goal of going to your child’s basketball
+game. You get there and you start noticing thoughts like “I’m out of control” and
+“something bad is going to happen.” You notice your heart starts racing and your
+palms get sweaty. You start feeling an urge to turn around and go home.
+
+e Start with reviewing the left side of the circle. The rings on the left side of the circle
+represent how various decisions can lead towards a path of increased suffering. Fill in
+examples for each circle (suggestions are below but ask the group for examples as well).
+
+
+e As veterans to follow along and fill in their rings with what each ring represents.
+
+1. First circle: Write “Judge” in the ring to the left of the center. This represents the
+decision to judge the pain and anxiety that is being experienced (e.g., I have to get rid
+of this, it’s bad that I feel this way, my anxiety must mean something bad really is
+going to happen).
+
+
+2. Second circle: Write “Unwillingness” in the next ring to the left. This represents the
+decision to be unwilling to experience that anxiety or pain (taking an unwilling stance
+or saying I’m not willing to feel these emotions, have this experience)
+
+3. Third circle: Write “Avoid” in the third ring to the left. This represents efforts to
+suppress or get rid of the anxiety (leave the situation, try to exert control, etc.).
+
+
+43
+
+[PAGE 046]
+
+4. Fourth circle: Write “Consequences.” The first consequences to review are the short
+term payoff of the avoidance. The short term consequences are reducing anxiety
+temporarily. Then review long term consequences. First, anxiety comes back anyway
+(1.e., still afraid of public spaces). Other long term consequences are often negative
+emotions such as shame, guilt, frustration, etc., which can lead to further judgment
+(e.g., “I am weak”) and further attempts to get rid of it. This perpetuates greater pain
+and anxiety. Demonstrate this by showing that veterans often wind up back at the first
+circle with judgments, then on to the second circle of unwillingness and back to third
+circle of trying to get rid of that pain or negative emotion. If nothing is done, the
+person just keeps cycling through the rings on the left like a whirlpool.
+
+
+Ensure that veterans are able to see the connection between the “Avoid” ring and the
+kinds of behaviors they listed in Session 1 on their Pain Inventory as creating more pain
+and suffering in the long run.
+
+
+Review the right side of the circle (valued living). This shows how they have multiple
+decision points in which they can do what matters even in the presence of anxiety.
+
+
+I. First circle: Write “Notice.” This represents the decision to notice the anxiety using
+mindfulness (e.g., they go to the game and mindfully observe that they are having
+anxious thoughts and urges to leave)
+
+
+Second circle: Write “Willingness.” This ring represents being willing to experience
+it (e.g., they make a commitment to stay at the game and experience whatever comes
+up for them).
+
+
+Third circle: Write “Valued action.” This ring represents the decision to engage in
+valued action despite the presence of anxiety. Note that they could try defusion
+strategies to help them continue with valued action as needed.
+
+
+Fourth circle: Write “Consequences.” Again, review short term consequences, which
+include still feeling anxious in the short term, maybe feeling good about doing the
+valued action, maybe not. Long term consequence is that the ability to tolerate
+anxiety increases and the ability to still do what matters increases.
+
+
+Explain that each ring is a moment-to-moment decision point, and none of them are carved in
+stone. Every moment represents a new decision point (e.g., how to react to a judgment thought
+that just popped up, whether to continue with the action or avoid the pain). Practicing
+mindfulness will help them be more aware of their moment to moment decisions so they can
+make changes as needed.
+
+
+Imagining Next Exposure Goal: (20-30 minutes):
+
+
+For the rest of group, we are going to have you imagine yourself engaging in the exposure you
+plan to do this week. As you do this, we will guide you through noticing the decision points you
+are likely to encounter during your exposure. We will then practice applying what you are
+learning to make decisions that keep you moving towards the goal you have selected.
+
+44
+
+[PAGE 047]
+
+Close your eyes or find a spot in front ofyou to focus on. I want you to try to take yourself to the
+first step in the exposure you have selected. If, for example, you plan to try to go to Walmart at a
+busy time, I want you to envision yourselfpulling in the parking lot. Mentally walk yourself
+through the process of what you will do. As you do that, I will be asking you some questions to
+help you be mindful of difficult things that might come up for you and how you can continue to
+move forward in the face of those difficulties (pause).
+
+
+Are you noticing any physical sensations come up? Can you observe nonjudgmentally? Can you
+make the choice to be willing to have them and keep moving forward? Sit with those sensations
+for a minute.
+
+
+Are you noticing any other emotions? Can you observe them nonjudgmentally? If so, sit with
+them for a minute. Can you make the choice to be willing to have them and keep moving
+forward?
+
+
+Are you noticing any urges? Can you make the choice to be willing to have the urge and still
+move forward? If'so, sit with them for a minute and then move forward towards your goal. Can
+you observe what it is like to have that urge and still move forward?
+
+
+Are difficult thoughts coming up? For example, you might have thoughts like “I can’t handle
+this” or “something bad is going to happen.” Can you defuse from those thoughts and keep
+moving forward? Ifyou notice a thought, try stepping back from it by saying “I notice that Iam
+having this thought” or by saying “1 hear that thought, mind. Thanks.” Continue doing this until
+you have mentally completed you exposure goal.
+
+
+Discussion:
+
+
+e What decision points were hard?
+e Why were those moments hard? Help them look at the blocks to exposure completion and
+validate them. This includes both helping them identify specific thoughts, emotions, and
+sensations and highlighting how they would make the exposure difficult (1.e. “yes I can
+see how if you bought that thought you would turn around and go home”)
+e How would each decision point affect the ultimate outcome? (e.g., let's say that you
+aren’t mindful and you are surprised by anxious thoughts? How does that affect your
+ability to respond nonjudgmentally and willingly? What ifyou choose to not be willing to
+have your anxiety and you flee the situation? How will you feel after? What ifyou
+choose to believe the thoughts you are having instead of looking at them as just thoughts?
+How will you feel ifyou choose willingness and meet your goal?)
+e Instruct them to record potential decision points they will face during this week’s
+exposure on their Session 6 overview sheet.
+
+
+45
+
+[PAGE 048]
+
+Homework (5 minutes)
+
+
+1. Continue to practice mindfulness and/or the physicalizing exercise and record
+observations in the mindfulness log
+2. Complete the next values-based exposure
+
+
+46
+
+[PAGE 049]
+
+SESSION 7: POST-EXPOSURE REVIEW
+
+
+The primary goal of this session is to teach veterans how to complete a post-exposure review. The
+purpose of the post-exposure review is to help veterans become more mindful of what happens
+while completing in vivo exposures. This can be used as a tool to (a) increase mindfulness to skills
+used that were helpful and (b) increase mindfulness to barriers in order to inform problem-solving
+for in vivo exposures. Veterans also complete the Imagining Next Exposure Goal exercise again,
+using what they learned in the post-exposure review to identify and problem solve potential barriers
+for the upcoming week.
+
+
+a
+
+
+Session Outline:
+Mindfulness Exercise - Physicalizing with a new target (10 minutes)
+Past Week Review (5-10 minutes)
+Post-Exposure Review (45-50 minutes)
+Imagining Next Exposure Goal (20-30 minutes)
+Homework (5 minutes)
+
+
+Session Content:
+
+
+Mindfulness Exercise- Physicalizing with a new target (10 minutes)
+
+
+Leader note: Today’s mindfulness exercise will be a repetition of the previous week. This will
+allow any absent members to practice physicalizing. For members who were present the previous
+week, instruct them to select a different target thought, emotion, or memory to practice with.
+
+
+For today’s mindfulness exercise, we are going to practice nonjudgmentally being
+mindful of a painful, trauma related, thought, emotion, or memory. Can you think of one
+such thing related to your trauma that you would be willing to try taking a look at today?
+It doesn’t have to be the hardest thing for you—you have control over what you are
+willing to look at. But can you pick one thought, emotion, or memory that still has a lot
+ofpower over you or keeps you from your values? Bring that to mind before we start and
+write it down.
+
+
+Remember, when we look at objects external to ourselves, we don’t take them to mean
+anything about us. For example, imagine you are walking down the street and you notice
+an ugly pile of trash. Normally, you wouldn’t take that pile of trash to mean that you are
+a pile of trash or a horrible person right? However, what if instead of a pile of trash, you
+noticed that a feeling of self-loathing? You might fuse with that feeling as an indicator
+that you are a horrible person. But since we have talked about thoughts just being
+thoughts, that thought doesn’t really define you any more than the pile of trash does.
+This exercise is going to help you better look at a painful thought, emotion or memory,
+
+
+47
+
+[PAGE 050]
+
+like that pile of trash. By making it a bit more outside yourself, you can see that it
+doesn’t define you; it is just what it is - a thought, emotion, or memory.
+
+
+Begin by looking at the target item you wrote down. Get in touch with how you feel when
+you make contact with it.
+
+
+Now, imagine taking this item and placing it four or five feet in front ofyou. Later, we
+will let you take it back, so if it objects to being put outside, let it know you will be taking
+it back. See ifyou can set it out on the floor in front ofyou.
+
+
+If this target had a shape, what shape would it be? Try to really picture it.
+
+
+If this target had a size, how big would it be? Try to really picture it
+
+
+If this target had a color, what color would it be? Try to really picture it.
+
+
+If this target had a power, how powerful would it be?
+
+
+If this target had a weight, how much would it weigh?
+
+
+If this target had a speed, how fast would it go?
+
+
+[f this target had a surface texture, what would it feel like?
+
+
+If this target had an internal texture, what would it feel like inside?
+
+
+If this target could hold water, how much volume would it hold?
+
+
+Now, see whether there are any sticky negative reactions that appear to interfere with
+your willingness to have this object be exactly as you experience it to be. These reactions
+might be things like disliking it, fearing it, or just wanting it to go away. If there are no
+reactions, you can stop the exercise. If there are, then stick with me. Move the original
+target object off to the right and imagine yourself taking your sticky, difficult reaction to
+that target and putting it four or five feet in front ofyou. For example, ifyou find that
+you hate the original target, put that “hate” out on the floor next to it. We call this the
+“new target.”
+
+
+Leader: go through above questions with the new target. Then say now, see ifyou
+can drop your struggle with this new object. Try to be willing to experience it fully
+without defense. Meditate on that for a few moments.
+
+
+Now before taking these objects back, since they do reside within you. Take a look at
+them and notice if they look any different than when we started. Maybe they do, maybe
+they don’t. Just observe. Now imagine picking up each target and putting it back inside
+ofyou, but also realize that it is possible to be more willing towards the things we
+struggle with, and notice too, that it is how we react to these events that gives them much
+
+
+48
+
+[PAGE 051]
+
+of their power over us. Close your eyes and bring both objects back inside you, willingly,
+much as you would welcome a guest in your home.
+
+
+Past Week Review (5-10 minutes)
+
+
+Briefly review the decision points discussion. Reinforce the take home message that
+mindfulness and willingness allow us to proceed with valued action. You also reinforce
+the point that values-based living requires constant decisions to continue to be mindful, to
+not judge experiences, to defuse, and to continue moving towards values.
+
+
+Post-Exposure Review (45-50 minutes)
+
+
+The purpose of the post-exposure review is to help veterans become more mindful of
+what happens in their pursuit of a goal. This can be used as a tool to (a) increase
+mindfulness to skills used that were helpful, (b) increase mindfulness to goal barriers and
+aid in problem solving, and (c) begin to introduce the concept of the observing self. As
+you conduct the post-exposure review, here are a few things to be mindful of:
+o The possibility for veterans to get stuck in judgment of themselves if they
+struggled during exposure and having urges to avoid/shut down. If this occurs,
+encourage them to practice mindfulness of judgmental thoughts in the moment.
+You may also highlight the opportunity to practice willingness to share about their
+experience completing the exercise.
+o The urge to use this as an analysis of “what went right or what went wrong.” It
+may be helpful to think of things as helpful or unhelpful to veterans in moving
+toward their value, and keep in mind that the veteran gets to determine what is
+helpful or unhelpful. The leader’s job is to help them use skills to do that.
+o Example: a veteran whose value is being friendly has a goal to go to the grocery
+store alone. The veteran does this in a teeth gritting, white knuckle way and
+afterwards feels like it “doesn’t count.” The leader may be tempted to restructure
+that veteran’s cognition to see that it does count; however, the ACT way of Post-
+Exposure review is not to judge goal completion as good, but to lead the veteran
+through a series of questions that help him or her to determine what was helpful
+and what was unhelpful during the experience.
+
+How to conduct the post-exposure review:
+
+
+Let veterans know you will be reviewing homework in a new way this week. Introduce
+rationale by reminding veterans that each week during homework review we have been
+working on being mindful of experiences and willing to acknowledge and share those
+with the group. This week we take these skills a step further and give veterans the tools to
+do this on their own in a way that is helpful in identifying decision points encountered
+during goal progress, identifying where a skill is needed, what skills were helpful or
+unhelpful, and how to use this information during goal progress the next time.
+
+
+49
+
+[PAGE 052]
+
+e Ask for a volunteer to be willing to go through the post-exposure review process with the
+group. Involve the group in identifying decision points, skill used, and opportunities for
+future skill use. It is most helpful if the person had partial completion.
+
+
+e All aspects of the review should be written in the board. It may be a bit messy and that is
+ok.
+
+
+Step One: Praise veteran for being willing to look at their experience and learn from it.
+
+Step Two: Assess whether the veteran selected a clear exposure goal that reflects a top value.
+
+e Were you clear on your goal?
+¢ How is this exercise connected to your value? Did you have link between the exercise and
+your value in mind when you started?
+e Did you have a plan for enacting the exposure goal?
+
+
+Step Three: Have the veteran describe the steps they took toward their goal. Ask them to
+describe their experience in enough detail that an actor in a play or movie could reenact it
+exactly. Have veterans continue until they reach the point where they either completed the
+exposure or changed directions (stopped prior to completion). Write the veteran’s steps in
+sequence on the board. Steps can be thoughts, urges, feelings, or behaviors. Use prompts to illicit
+details about their experience (e.g., What were you thinking? What were you feeling? What was
+happening around you? What urges were you feeling?)
+
+
+The following is an example of a veteran who values his marriage and planned an exposure of
+taking his wife out for dinner:
+1. I decided I'd better get going on this goal thing
+2. I thought about asking my wife which restaurant she wanted to go to
+3. I started to have second thoughts. I thought to myself, “I’m not sure I can do this right
+now.” I started to feel anxious.
+4. I decided I might wait to ask her to go with me until I was sure I wanted to do this
+5. I started feeling ridiculous. I thought “I can’t even ask my wife about going out to eat
+because I can’t handle what she will say if it turns out I can’t do it. I felt like a scared,
+weak child.”
+
+
+Step Four: Use the post-exposure review questions to help the veteran and the group identify
+ACT concepts and skills in the chain of events. Each question refers to a concept or skill that
+may be present in none or several of the steps. Write the concept/skills identified by the
+group/veteran next to the step in which it was present.
+
+
+WILLINGNESS:
+At any step, was the veteran willing to try the exposure regardless of the outcome? This also
+includes willingness to experience painful thoughts and emotions.
+
+
+50
+
+[PAGE 053]
+
+MINDFULNESS:
+At any step, was the veteran mindful of their experience in the moment?
+
+
+EMOTIONS:
+At any step, did the veteran experience painful emotions? Positive emotions?
+
+
+THOUGHTS:
+At any step, did the veteran experience painful thoughts such as labels or judgments? What about
+helpful thoughts?
+
+
+URGES:
+At any step, did the veteran experience urges to do or not do something?
+
+
+FUSION:
+At any step, was the veteran fused with any thoughts about the self or what might happen? (1.e., I
+had the thought “I won’t be able to do this” and I fused with that thought so I believed I couldn’t)
+
+
+DEFUSION:
+At any step, did the veteran use defusion to step back from unhelpful thoughts?
+
+
+VALUES:
+At any step, did the veteran have their value in mind? Where there steps where the value was not
+in mind?
+
+
+OTHER:
+Was there anything else the veteran noticed was helpful or unhelpful to goal progress?
+
+
+Step Six: Ask veteran and group to identify decision points which became barriers and what
+ACT skills might be tried in the future to address those barriers.
+
+
+**Leader note: Be aware also that veterans may realize once they are pursuing a particular
+values based exposure exercise that it actually is not reflective of their real value. For instance,
+the person who imagined himself attending basketball games as reflecting being a good father
+may realize that the goal isn’t worth it because he realizes he is only watching his son play rather
+than spending time with him. This should be reinforced as part of the process of reconnecting
+with one’s values and finding out how those values play out in their own individual life. In this
+case, the leader and group members would help that veteran develop a new goal to work toward
+that more closely aligns with his view of himself as a good father. Validate that PTSD often
+separates veterans from what matters to them and the process of getting back to those things and
+
+
+51
+
+[PAGE 054]
+
+figuring out how they need to look at this point in the veteran’s life is what ACT for PTSD is all
+about.
+
+
+Imagining Next Exposure Goal (10-15 minutes)
+
+
+We use the post-exposure review to think about what we can do the next time we try to do a
+values-based exposure. Now we are going to envision the next goal for this week, using what you
+learned in the post-exposure review to help you be more mindful and problem solve in the
+moment. Have each veteran identify their next exposure (or repeat if they prefer).
+
+Refer to session 6 for detailed script of this exercise. Have veterans close their eyes or
+focus their gaze and spend 5-10 minutes imagining themselves engaging in their
+exposure. Give them time to think about the setting they will be in and walk them
+through the five senses to get a full imaginal experience of engaging in their goal
+behavior. Prompt them to notice the concepts and skills that were discussed in the Post-
+Exposure review: WILLINGNESS, MINDFULNESS, EMOTIONS, THOUGHTS,
+URGES, FUSION, DEFUSION, VALUES.
+Discuss veterans’ experiences. Ask specifically about each concept/skill and have
+veterans share what they noticed. Ask whether veterans have any new ideas about skills
+to use as they approach their goal this week. Highlight that they practiced willingness just
+by imagining.
+
+
+Homework (5 minutes)
+
+
+ph Complete the next in vivo exposure or repeat exposure goal from last week
+Complete the post-exposure review for next session. Detailed instructions are in the
+veteran manual.
+Continue to practice the physicalizing exercise with any trauma related targets that they
+continue to struggle with.
+
+
+52
+
+[PAGE 055]
+
+SESSION 8: THE OBSERVING SELF
+
+
+r N
+The first goal of this session is to solidify understanding of the post-exposure review
+process. Continue to use homework review to solidify recognition and use of ACT
+processes during exposures. The second goal of this session is to introduce the concept
+of the observing self. Veterans have been using the observing self in the past few
+sessions by observing themselves in their decision points and completing post-exposure
+reviews. In today’s session you will help them link those past experiences to the concept
+of observing self and use experiential exercises to help them further grasp the concept.
+
+a 4
+Session Outline:
+Homework Review (30-45 minutes)
+Experiential Exercise: Observing Yourself Across Time (15-20 minutes)
+Introduction to the Observing Self Concept (10-15 minutes)
+Mountain Meditation and Discussion- (15-20 minutes)
+Homework (5 minutes)
+
+
+Session Content:
+
+
+Homework Review (30-45 minutes)
+
+
+e Check in about in vivo exposure progress and assist with any post-exposure reviews as
+needed. You do not need to do one for every veteran but try to complete several so
+veterans can review the process. Select new exposures for homework.
+
+Experiential Exercise: Observing Yourself Across Time (15-20 minutes; adapted from
+Walser & Westrup, 2007)
+
+
+Today we are going to talk about a new concept called the observing self. The observing self is
+really something that has to be experienced before you can grasp it, so rather than explain it to
+you, we are going to start off with an exercise to help you experience it.
+
+SCRIPT: Sit back and find a comfortable position. Spend a moment focusing on your breathing.
+Observe yourself sitting in this room right now, noticing any sensations, thoughts, or sounds.
+Now, think of an experience you had this morning. It doesn’t matter what it was, just go with the
+first thing that pops into your mind. When you have something in mind, raise your index finger
+so I'll know you 've thought of something....Good. Now, thinking of this experience, see ifyou
+can remember what was going on around you at the time. What where you doing? (pause)
+Where were you? (pause) Was anyone else around you or were you alone? Can you remember
+some thoughts you were having? Can you remember what you were feeling?
+
+
+53
+
+[PAGE 056]
+
+Now, I want you to think of something you experienced last week. Perhaps a conversation you
+had or a task you accomplished. Again, it doesn’t matter what it is, just whatever comes to mind.
+Raise your finger and let me know when you have it...Now see ifyou can remember what was
+going on at that time. What were you seeing around you? Can you remember any sounds you
+might have been hearing? Can you remember any thoughts you had at the time? Any emotions?
+Can you see that the person having that experience last week is you...the same “you” that had
+the experience this morning? It is the same person who is having various thoughts and feelings
+right now. There is a you that remembers that event from last week, the same you that
+remembers what happened this morning, the same you that is hearing me say this right now.
+Let’s keep going with this.
+
+
+Leader should continue the above script pulling from various points in life. You may use: a high
+school memory, something from last summer, a childhood experience (vacation, holiday,
+interaction with favorite teacher), or a memory from military training, etc. You may do as many
+or few different memories as you like, tailoring to your group needs and available time.
+
+
+Now let’s shift gears a bit. I want you to think about the various roles you’ve had and currently
+have in your life. For example, think ofyour role as someone 's child or someone’s sibling. Now
+think ofyour role as a parent....as a neighbor...as a friend...as a partner. Think ofyour role as
+a patient...as a citizen...an employee....a veteran. (Pause between these different roles to allow
+time for veterans to formulate the roles in their minds). Think of how varied these roles are, and
+yet it’s the same you, the same continuous you in all of them. There is a you that is aware of
+these roles, and yet, is larger than these roles. (Pause again).
+
+
+Let's move to two more areas that may be a bit more difficult to see. Take a moment to notice
+what it is you are feeling in this moment. See ifyou can describe it to yourself. Also notice that
+you have felt many, many emotions. Notice that your emotions at times have been high and at
+times they have been low. Observe that you have had excitement and joy and sadness and
+anxiety. Notice that within these emotions you have experienced different levels of intensity...
+sometimes a great deal of anxiety, sometimes just a little., sometimes you have been laughing,
+sometimes only smiling. As you notice all of these emotions, notice who is noticing: a you that
+has felt it all. A you that knows that these emotions come and go and come and go again. A you
+that is larger than your emotions.
+
+
+And now, let’s take a look at one last place; your thoughts. Take a moment to notice that
+you are thinking...Notice that the things you think now may not be the things you thought some
+time ago. Your thoughts have grown in complexity. You know things now that you didn’t used to
+know, and you may have forgotten things you once learned. Your mind is full of thoughts,
+shifting, refocusing, learning, and remembering—thoughts are coming and going all the time. As
+you notice your thinking, once again notice who is noticing...there is a you there that
+experiences your thoughts and yet is not your thoughts. A you that is larger than any single
+thought. There is a you that is sitting here now, the same you that had those memories, the same
+
+
+54
+
+[PAGE 057]
+
+you that plays those roles, the same you that is aware ofyour emotions and your thoughts. A you
+that is larger than these things, an observer you—a continuous sense ofyou that stretches across
+all of these experiences and is larger than these experiences.
+
+Discussion:
+
+
+Ask group members to share their experience with the exercise. Were you able to experience the
+observing self? What was it like to realize that continuous person who has always been there?
+How might this impact how you view your trauma? The anxious moments in your life?
+
+
+The Observing Self Concept (10-15 minutes)
+
+
+What you experienced when we did that activity was the observing self. We’ve actually been
+starting to get in touch with this sense of self through group as you use your mindfulness skills
+and as you step back and observe yourself trying to reach your goals. Think back to when we
+have done mindfulness skills, can you remember that there is a “you” who is able to step back
+and do the observing that occurs in mindfulness. That was your observing self. It is important
+because it helps you realize that there is more to you than what you are experiencing in the
+current moment. We can think of there being two different types of ways you view yourself (write
+out definitions):
+
+
+(1) “You in the moment”- This is the “you” that is experiencing whatever is
+happening for you at the present time. It is thinking thoughts, labeling
+yourself, etc. This is the “you” we tend to pay attention to. The problem
+with this sense of “you” is that it is easy to become fused with whatever is
+happening at the moment.
+
+
+(2) “The Observing self”- This is the “you” that is always there and has
+always been there. It transcends your current experience. When you are
+in touch with this “you” you are able to experience that you are not
+defined by your current thoughts, sensations, emotions, images, physical
+body, etc. These things change constantly but they are not the essence of
+who you are. This is important because it helps you step back and see
+your current experience from a more distant perspective (like defusion).
+
+
+Metaphor for the Observing Self (Optional)
+
+
+e Football Field
+1. The “you of the moment”- is like the game that is happening. It’s the players, the
+spectators, the commentators. They are attached to the outcome of the game so
+their emotions are going to change a lot with what is happening.
+
+
+2. The “observing you”- is like the football field. Does the field care who wins?
+Does it care what the spectators or thinking? No, it will continue to be a field no
+matter what. It isn’t influenced by what is happening in the game.
+
+
+55
+
+[PAGE 058]
+
+Mountain Meditation and Discussion (15-20 minutes; Kabat-Zinn, 1994)
+
+
+Let’s do another exercise to help you experience this.
+
+
+Settle into a comfortable position, with your spine straight but relaxed, with your head balanced
+easily on your neck and shoulders, sitting with a sense of dignity and ease. Letting your body
+support the intention to remain wakeful and present. When you are ready, allow your eyes to
+close or find a spot of the floor to focus on. And now, allowing your attention to rest on the
+sensation of the breath as it naturally flows in and out of the body. Just observing your body as
+it breathes. Coming into stillness, sitting with a sense of completeness, with your posture
+reflecting this.
+
+
+Now, when you are ready, bring to mind the image of a mountain. Picture the most beautiful
+mountain you have ever seen or can imagine. Focus on the image or just the feeling of this
+mountain in your mind’s eye, allowing it to come more clearly into view. Notice its overall
+shape: the lofty peak in the sky; the large base rooted on the earth, steep or gently sloping sides.
+Notice how massive it is, how unmoving it is, how beautiful both from afar and up close. Its
+unique shape and form. Perhaps your mountain has snow at the top and trees on the lower
+slopes. Perhaps it has one prominent peak, perhaps a series of peaks and a high plateau.
+However it appears, just sit and breathe with the image of this mountain, observing its qualities.
+
+
+And when you’re ready, see if you can bring the mountain into your body so that your body
+sitting here and the mountain in your mind’s eye become one. So that as you sit here, you
+become the mountain. Your head becomes the lofty peak, your shoulders and arms the sides of
+the mountain, your buttocks and legs the solid base rooted to your cushion or your chair.
+Experience in your body a sense of uplift from the base of the mountain up through your spine.
+With each breath, become more and more of a breathing mountain, unwavering in your stillness,
+completely what you are, beyond words and thought, a centered, rooted, unmoving presence.
+
+
+As the sun travels each day across the sky, and light, shadows, and colors are changing virtually
+moment to moment, the mountain just sits. In the mountain’s stillness, night follows day and day
+follows night, seasons flow into each other, and the weather changes moment by moment, day by
+day. Calmness abiding all change. In summer there is no snow on the mountain except maybe on
+the peaks. In the fall, the mountain may wear a coat of brilliant colors. In winter, a blanket of
+snow or ice. In any season, it may change; it may find itself enshrouded in fog or clouds or
+pelted by sleeting rain. People may come to see the mountain and be disappointed if they can’t
+see it clearly or they may comment on how beautiful it is. And through all this, seen or unseen,
+sun or clouds, in sweltering heat or in freezing cold, the mountain just sits. Solid and
+unwavering. At times visited by violent storms, snow, rain, and winds of unthinkable magnitude;
+through it all the mountain just sits, unmoved by what happens on the surface.
+
+
+As we sit holding this image in our mind, we can embody the same unwavering stillness and
+rootedness in the face of everything that changes in our lives, over seconds, hours, and years. In
+our mediation practice and in our lives, we experience the constantly changing nature of mind
+and body, and all the changes in the outer world.
+
+
+56
+
+[PAGE 059]
+
+We experience our own periods of light and dark. We experience storms of varying intensity and
+violence in the outer world and in our minds. We endure periods of darkness and pain as well as
+moments ofjoy. Even our appearance changes constantly, like the mountain’s, experiencing a
+weathering of its own.
+
+
+By becoming the mountain in our meditation, we can touch these qualities of strength and
+stability, adopting them as our own. We can use its energies to support our efforts to encounter
+each moment with mindfulness. It may help us to see that our thoughts and feelings, our
+preoccupations, our emotional storms and crises, all the things that happen to us are much like
+the weather on the mountain. We tend to take it personally, but like the weather, it is impersonal.
+In holding it in this way, we come to know a deeper silence and wisdom than we may have
+thought possible, right here within the storms. Mountains have this to teach us, if we can come to
+listen.
+
+
+In the last moments of this mediation, continue to sit with this image of the mountain, embodying
+its rootedness, stillness, and majesty.
+
+
+Discussion:
+
+
+e Begin to discuss these questions at the end of the group. Any that are not discussed
+during this session, may be brought up in the next session. Leaders may also consider
+asking veterans to reflect on one or two of the questions as a part of their homework
+assignment.
+1. How does this awareness that there is a “you” that has always existed impact
+how much your trauma defines you?
+
+
+2. Think back to the mountain. When the mountain has a period of really bad storms
+(e.g., wildfires, blizzard), does that change it’s essential being? (e.g., is it not
+still the same mountain?). Even though it had a really terrible season, does
+spring still not come? Does summer not come? Do the seasons cease to come
+and go because there was a bad one? What does this mean for our lives?
+
+
+3. If the mountain knows it is still a mountain regardless of what storm hits it, does it
+feel as threatened by the storm? How does this apply to your PTSD? How does
+this apply to your future?
+
+
+4. Ifyou can keep in mind that constant sense of self and realize that your past and
+present painful experiences don’t define the whole ofyou, how would that impact
+your ability to engage in a valued life?
+
+
+57
+
+[PAGE 060]
+
+Homework (5 minutes)
+
+
+1. Practice the mountain exercise and/or observing yourself across various points in time to
+increase your awareness of your observing self.
+2. Complete your next exposure goal. After you complete it, complete the post-exposure
+review
+
+
+58
+
+[PAGE 061]
+
+SESSION 9: OBSERVING SELF AND OBSERVING THE TRAUMA
+
+
+There are two primary goals of this session. The first is to continue to solidify understanding of
+the observing self. The second is to increase both willingness and ability to experience the
+emotions, thoughts, and physical sensations associated with a specific trauma memory through
+the perspective of the observing self. This is done through the Tin Can Monster exercise. In this
+exercise, veterans are instructed to select one painful trauma memory or thought. They then
+imagine various physical qualities of this memory or thought as the “monster,” which serves as a
+means of defusing from painful trauma content. This exercise also increases willingness to
+approach painful trauma content.
+
+\ y
+
+Session Outline:
+Homework and Observing Self Review (40-45 minutes)
+Tin Can Monster (40-45 minutes)
+Homework (5 minutes)
+
+
+Session Content:
+
+
+Homework and Observing Self Review (40-45 minutes)
+
+
+° Review exposure homework assignments. Complete post-exposure reviews as needed.
+Select this week’s exposures and discuss potential challenges as needed.
++ Review the observing self and their experience of connecting with the observing self
+
+
+Tin Can Monster (40-45 minutes; Adapted from Hayes and Smith, 2005)
+
+
+Discussion:
+
+
+1. Ifwe can see things from the perspective of the observing self, does our experience of
+current PTSD symptoms change? Are they as threatening? As overpowering?
+2. Ifyou know that your PTSD is one part ofyou, would you be more willing to experience
+it for what it is? Would you be willing to try to look at one part ofyour trauma from this
+observing perspective today?
+
+For the rest of this group, we are going to do a long mindfulness exercise that helps you look at
+your trauma from the perspective of this observing self. We are going to take an in depth look at
+the thoughts, emotions, physical sensations, and memories associated with a difficult part ofyour
+trauma. Now we know this might be very overwhelming and you might not feel willing to have
+all parts ofyour experience, so part of this exercise will help you break the trauma down into
+smaller chunks that you can practice being willing to experience. We call this exercise the tincan monster. Facing your trauma is like facing a thirty foot monster composed of tin cans, wire,
+and string. In this huge form, the monster may feel like too much to face. However, if we
+
+59
+
+[PAGE 062]
+
+disassemble the monster into all the separate wires, cans, and strings that he is made of, we can
+deal with these pieces one by one which is much easier than all at the same time. So what we are
+going to do is walk through multiple components ofyour trauma such as thoughts, emotions,
+physical sensations, and memories. We will practice learning how to look at each component
+mindfully and nonjudgmentally, from this observing selfperspective, and see if we can become
+willing (“or drop the rope”) to have each component.
+
+
+For this exercise, we want you to bring to mind another part ofyour PTSD that is painful to you.
+Like the previous two weeks, this can be an emotion, a thought, a memory, or an image. This is
+going to be called your “target” throughout the exercise.” Write this target down in your
+manual. (Stop and ensure everyone has selected an appropriate target item).
+
+
+**Leader note: Be prepared to discuss any reluctance to engage in the tin can monster exercise.
+This exercise may need to be adapted in several ways. First, do not rush through this exercise
+and do not hesitate to pause and help group members clarify areas of unwillingness. Ifthe full
+exercise is not completed, the rest can be assigned as homework. Second, if a veteran is
+unwilling to use their trauma as a target or you feel they are not ready, they may select another
+PTSD related target. For example, a veteran may choose to complete the exercise looking at fear
+of loss of control. Refer to Appendix A for suggestions on how to respond in an ACT-consistent
+manner.
+
+
+SCRIPT: Get comfortable wherever you are seated. Now first notice your breathing and take a
+few nice deep breaths, with the air coming in through your nose and out through your mouth.
+See ifyou can notice those parts ofyour body that come in contact with the place you are sitting.
+Now notice any sounds that are present in or outside the room. Take at least a minute just to get
+centered before moving on.
+
+
+Start out by recalling something that happened last summer. Anything that comes to mind is fine.
+Remember what was happening then. Remember where you were and what was happening. See if
+you can see, hear, and smell, just as you did last summer. Don’t remember the scene as ifyou
+were someone else looking at the scene from the outside. Do it from inside the body of the person
+called “you” who was there, looking out from behind your eyes. Take a few moments to imagine
+this scene.
+
+
+Now notice as you remember the scene that you were there. There was a person behind those
+eyes, just as there is now. And although many things have happened since last summer, notice
+too that there is an essential continuity between the part ofyou that is aware of what you're
+aware of now, and the part ofyou that was aware of what you were aware of back then.
+Remember, we call this person your “observing self.” See whether you can do the rest of this
+exercise from the point of view ofyour “observer self.” You can let the scene you 've called into
+memory go once you step into the observer’s seat.
+
+
+(Bodily Sensations)
+Get in touch with your target. Take a few moments to do this (leader pause). Deliberately become
+aware of the feelings that are attached to your target. Now watch your body and see what it
+
+
+60
+
+[PAGE 063]
+
+does. Just stay in touch with the feelings and watch your body. See ifyou notice any bodily
+sensations arising. Pick one to focus on.
+
+
+Now, focus on that single bodily sensation. If other events crowd in (thoughts, emotions,
+memories, other bodily sensations), let them know that you will get to them later, and shift your
+attention back to this bodily sensation. Notice where the sensation begins and ends. Notice
+exactly where it is in your body. Ifyou could make a sculpture into the shape of this sensation
+and put it into your body, what would it look like?
+
+
+Now see ifyou can completely “drop the rope” with this sensation. Must it be your enemy? Is it
+ok to have it be exactly as is? By ok, I don’t mean “ok” in that ifyou like it, but just “ok in the
+sense that you acknowledge it and allow it to be what it is.”). Ifyou find that there is something
+you are resisting, create an imaginary sculpture that is 100 percent identical to the sensation
+and place it where the sensation used to be, you now have the identical sensation that you
+created. They are identical, but this one you created. See ifyou can allow this sensation to be
+there as it is, instead of running away from it. How would that be? You aren’t promising yourself
+you will always do this, but for just this moment, see whether you can do it.
+
+
+Now, go back to get in touch with your target, and once again watch your body and see what it
+does. See if there are any other bodily sensations that pop up in association with your target. If
+there are, that’s just one more sensation to focus on.
+
+
+Now focus just on that bodily sensation. Notice where the sensation begins and ends. Notice
+exactly where it is in your body. And once again see ifyou can give up any sense of struggle with
+this sensation. Is it ok to have that sensation? Take a few moments and sit with that feeling until
+you sense that you are a little more open to having it in your body. Ifyou find that you are
+talking to yourself about it, that is a thought. We aren’t dealing with thoughts yet. Just come
+back to feeling the sensation and see whether you can renegotiate your relationship with it. Are
+you willing to sense what you are already sensing?
+
+
+Now set that aside and get in touch with your original target. Take about a minute to look for
+other specific bodily sensations. You can repeat the process described above as many times as
+you wish for each different specific bodily sensation. After a while, you can also just go through
+and notice all the little twinges or other reactions that appear, without spending much time on
+each, As each one pops up, notice it and acknowledge it. It would be like waving to one
+acquaintance after another from across the street. Just welcome them and acknowledge them,
+without arguing, agreeing, doing what they say, resisting, defending, or any of the rest.
+Continue doing this for a moment with any sensations that come up (Pause).
+
+
+Take a few moments to sit with that feeling until you sense that you are a little more open to
+having that feeling in your body. Ifyou find that you are talking to yourself about it ‚that is a
+thought. We aren’t dealing with thoughts yet. Just come back to feeling the sensation and seeing
+whether you can renegotiate your relationship with it. Are you willing to sense what you are
+already sensing?
+
+
+61
+
+[PAGE 064]
+
+Ifyou are able to do that before we direct you to something else, see ifyou can do the same set of
+steps with another physical sensation that comes up. If not, keep sitting with this one and see if
+you can be willing to experience it. You aren’t promising yourselfyou will always do this, but for
+just this moment, see whether you can do it.
+
+
+(Emotions)
+Go back and get in touch with your target once again. Take a few moments to do so. Deliberately
+become aware of that feeling. This time, watch for emotions associated with your target. Just
+watch and see what they do. Stay in touch with your feelings and take a few moments to see what
+comes up for you. If several things come up, select one to focus on.
+
+
+Focusing just on this one specific emotion, see ifyou can actually get next to this emotion by
+choice, instead of running away from it. See if it’s okay for you right now to feel this particular
+emotion. The goal here is not to like or dislike the emotion. We aren’t evaluating it. The goal is
+to feel it, as it is, without needless defense. Try not to let it spread out into other areas like
+thoughts, or behavioral urges. Just go into the emotion. You will have a chance to get to others
+later.
+
+
+Is there anything in this emotion that you cannot have in this moment and this moment only? Is
+there anything truly dangerous, harmful, hostile, or bad that requires you to get rid of it, or
+considering it only as an emotion, is this something you can experience? However much you
+have opened up to this specific emotion, see ifyou can open up to it just a little bit more. Again,
+see ifyou can actually get next to this emotion by choice, instead of running away from it. See if
+right now you can stay with this one emotion. Take a few minutes and sit with the emotion until
+you sense that you are a little more open to it.
+
+
+Now set that aside and get in touch with your original target. Take a moment looking for
+another specific emotions. Repeat all of the same steps, seeing ifyou can allow yourself to
+experience that emotion, just for this moment.
+
+
+(Behavioral Urges)
+See ifyou can get in contact with the person behind your eyes, the observer you, the aware
+person you 've been your whole life. As we have been diving into your PTSD experience, that
+sense of self may have slipped away, and doing this exercise effectively requires contact with this
+more transcendent aspect ofyour experience. From that perspective, get in touch with your
+target again. Take your time until you have it.
+
+
+Now, see whether you can sense an urge or pull toward action. What do you want to do when
+you feel this? Don’t actually do it, just notice the pull to engage in this behavior. It’s almost as if
+your muscles are starting to move. It’s kind of like a bodily sensation, but it’s more like the
+beginnings of a behavioral sequence.
+
+
+This time, instead ofjust doing that behavior or trying to suppress it, stay exactly where you are
+and feel what it feels like to feel the pull to behave in this way, without actually behaving in this
+way. It’s like standing on the ledge of a tall bridge over a river and feeling a slight pull to step
+back or to jump. Instead of stepping back or jumping, just feel the pull. Now ask yourself, “Ts
+
+
+62
+
+[PAGE 065]
+
+there anything in this pull that is something I cannot have? Is it fundamentally bad or something
+that will destroy me? Is it something I must get rid of? As before, if other reactions (bodily
+sensations, emotions, thoughts, etc. try to creep in, let them know you will get to them later.
+
+
+Take a few minutes and sit with your behavioral urge until you sense that you are a little more
+open to its pull to act on it, without needing to act on it or make it go away.
+
+
+(Thoughts)
+Now set your behavioral predisposition aside. We are now going to move to thoughts. Thoughts
+are very tricky, so take a moment to gently get in contact with the person behind your eyes, the
+observer you- that you who has always been there. You can’t look at this sense ofyou. Instead
+you are looking at your current experience from the perspective of this bigger you that has
+always been there. Get back in touch with the target you’ve been struggling with and then watch
+which thoughts show up from this place. See ifyou can catch just one, much as you might catch
+a fish. See ifyou can reel it in and focus on it. Now, see ifyou can just think that thought without
+trving to minimize, diminish, or argue with it. It is important that you don’t try to dismiss it,
+because it will demand your attention and agreement ifyou do. See ifyou can really listen to it
+and give it your maximum attention, much as you might listen to a babbling baby: carefully but
+with neither disagreement nor agreement. You are not believing the thought and you are not
+disbelieving it. You are seeing it as a thought. Notice that it is indeed true that your mind thinks
+when coming in contact with your target. Is it ok if that thought is simply a thought?
+
+
+See ifyou can think that thought as a choice. That doesn’t mean you have to believe it. It doesn’t
+mean you disbelieve it. It means allowing your mind to think that thought as a thought on
+purpose. Ask yourself if there is anything in there that is fundamentally bad, hostile, or harmful
+that you cannot have, if this thought is just a thought. When you sense you are more willing to
+think the thought as a thought, set it aside and get in touch with your target again.
+
+
+Once you are experiencing your target, go “thought fishing again.” When you catch the next
+thought associated with your target, focus on it for a minute. See ifyou can defuse from that
+thought by saying “Cool, nice thought. That's a good one.” Notice whether you have seen that
+thought before. Do not do any of this dismissively or in a way that patronizes your mind. It will
+provide you with a sequence of words that you are going to hear and you are going to
+respectfully decline to struggle with these thoughts, either way. You are going to hear them, with
+understanding.
+
+
+If other physiological sensations, emotions, or thoughts try to creep in, let them know you will
+get to them later. Sit with this thought until you feel like you are more willing to have it for this
+moment. Sit with the thought you brought up until you sense that you can just think the thought
+without trying to minimize, diminish, argue with it, or do what it says in order to make it go
+away. Then, set that thought aside. Again, get in touch with the person behind your eyes, your
+observer self. From this perspective, contact the target and place it fully in the center ofyour
+consciousness; again watch quietly for other thoughts that may be associated with it. Repeat the
+above process as many times as you need until you feel you can acknowledge your thoughts in a
+defused in accepting way.
+
+
+63
+
+[PAGE 066]
+
+(Memories)
+We are now going to focus on memories associated with your target. Again, see ifyou can get in
+contact with the person behind your eyes, your observer self, the person you have been your
+whole life. From that perspective, get in touch with your target item. For the last part of this
+exercise, imagine you have all the memories from your life on little snapshots, like index cards
+filed away in a file drawer, all the events ofyour life from your birth until the present moment.
+Get in touch with your target, open the file cabinet, and start gently flipping through your cards
+of memories. Start from the present, and flip back deeper and deeper into your past. Ifyou find
+yourselfpausing at any picture, stop flipping and look at that memory.
+
+Now just notice, from behind the eyes of the person called “you,” your observer self:
+e Who else was there?
+e What were you feeling?
+e What were you thinking?
+e What were you doing?
+e What did you want to do?
+
+
+Now, see ifyou can let go of any struggle that might be associated with your memory. It might be
+again associated with the picture, or an unwillingness to leave the memory. Whatever your
+reactions to the memory, just see ifyou can gently let go ofyour struggle with it and make room
+for all of those reactions. See ifyou can let yourself be willing to have that memory exactly as it
+is. That doesn’t mean you'll like it, but that you are willing to have it.
+
+If there is anything in that memory that you didn't fully process at the time, there will be a sense
+that the work in the memory is incomplete. For example, you may have felt angry in the memory
+but hid it. If so, see ifyou can go into that part of the memory and complete the work you didn’t
+know to do then: feel what you felt, think what you thought, and so on. Your guide here is a
+“reverse compass.” Ifyou sense a part ofyou saying, “Don’t go there,” see if it is possible, in
+fact, to go there. See if it is what it is, not what it says it is.
+
+
+When you have thoroughly remembered your memory and have a sense that you are open to it,
+then put the memory back in the “file drawer.”
+
+
+Notice your breathing and take a few good deep breaths, with the air coming in thorough your
+nose and out ofyour mouth. See ifyou can connect with the fact that you are a whole, complete
+person. This “tin can monster” is inside you, and so it is an illusion that it is bigger than you
+are. Ask yourself: Am I willing to be me, with the history I have, and to go on from here carrying
+all these reactions forward as part of an empowered life?
+
+
+Discussion:
+
+
+e What was this exercise like for you? Were you able to be willing? How did that change
+your experience? Were there points where you were not able to be willing? What
+thoughts were you having then? (Leader should be assessing for any thoughts the veteran
+might be fused with, such as “If I am willing to look at this, I will fall apart”).
+
+
+64
+
+[PAGE 067]
+
+Ifyou found yourself struggling with willingness, what is standing between you and being
+fully willing to have these pieces ofyour trauma, without allowing them to play a
+destructive role in your life?
+
+As you did this exercise, you may have found yourselffeeling frustrated with your history
+and reasoning that you would be better in life without it. Remember as we have
+discussed, that you can’t control the history you have. What you can control is the role it
+plays in your life now.
+
+
+Homework (5 minutes)
+
+— Complete next exposure. Complete post-exposure review if needed.
+NO Continue to practice the tin can monster. Ideally try to do this daily and see if you can
+increase your willingness to experience whatever comes up. You can do this with the
+same target selected today, or with another trauma-related target.
+
+
+65
+
+[PAGE 068]
+
+SESSION 10: REVIEW AND WRAP UP
+
+
+N
+
+The purpose of this session is to review ACT concepts learned throughout the course of
+therapy and discuss changes seen in group members. This session should serve primarily as
+an opportunity to review and reinforce the use of ACT skills, to reinforce progress, and to
+help them identify next steps. There is only a very loose outline for this session.
+Components of group may be presented in any order and leaders may determine how much
+time to focus on various topics depending on their particular group. Otherwise, group leaders
+should use their clinical judgment to determine how to best meet the objectives of the group.
+While not included in this group outline, leaders may also incorporate more skills practice,
+elicitation of how to apply skills to future goals, or have group members provide feedback to
+(or another.
+y
+
+Session Outline:
+Mindfulness Exercise (5-10 minutes)
+Homework Review (variable time)
+Overall ACT Review (variable time)
+Group Discussion (Variable time)
+Final Measures (10 minutes)
+
+
+Session Content:
+
+
+Mindfulness Exercise (Leader?s choice, 5-10 minutes)
+
+
+Refer to previous sessions for mindfulness exercise. You may also consider another
+physicalizing exercise.
+
+
+Homework Review (variable time)
+
+
+° Review exposure exercises. Complete post-exposure review as needed
+° Review experience practicing Tin Can Monster. Possible discussion questions include:
+o Where you able to experience higher willingness?
+o Did anything change when you were willing to experience your target?
+o We talked briefly last week about how the trauma is something that is just one
+piece ofyou. Did anyone struggle with feeling frustrated that the trauma is a
+part of their history? What does getting caught up in that struggle cost you?
+What would it look like to “drop the rope” with the struggle that your history is
+part ofyou?
+
+
+66
+
+[PAGE 069]
+
+Overall ACT Review (variable time)
+
+
+This may be included as a structured review or a review of concepts may be integrated into
+general discussion. The primary goal is to allow time to ensure veterans have a strong enough
+grasp on each topic to be able to continue to apply ACT to their lives. Below is an acronym that
+is in their manual. Their manual also includes a list of self help resources for those who wish to
+continue to work on their own.
+
+
+Six Core Principles of ACT
+
+
+1. Mindfulness
+- Bringing your awareness to the here-and-now with openness
+2. Willingness
+- Making room for feelings, sensations, and urges
+Defusion
+- Recognizing thoughts, images, and memories for what they are — just words and
+pictures. Allowing them to come and go as they please, without struggling with
+them
+Values
+- Clarifying what is most important to you
+Committed Action
+- Taking action and making goals that are in line with your values, no matter how
+many times you might get off track or struggle to succeed
+The Observing Self
+- Remembering that there is a you across time
+
+
+The Common Barriers to Values-Based Living (adapted from Russ Harris,
+www.thehappinesstrap.com)
+
+
+F = Fusion
+E = Exiting the present moment
+A = Avoidance of discomfort
+R = Remoteness from values
+
+
+The Antidote to Barriers:
+
+
+D = Defusion
+A = Acceptance of discomfort
+R = reunite with the present through mindfulness
+E = embracing values
+
+
+67
+
+[PAGE 070]
+
+Group Discussion (Variable time)
+
+
+The session 10 Values Domains worksheet is included in the veteran manual. This may be used
+to provide structure to discussion and wrap up, or may be simply given to veterans to complete
+on their own after group.
+
+
+e Have group members discuss changes made in group over time. Ask veterans what
+changes they have noticed in others
+
+
+e Questions to consider for discussion include the following:
+
+
+o How much influence did your trauma have over your life before you started and
+how much does it have now?
+o How much are you defined by your trauma?
+o How do you want to relate to your trauma differently than you did in the past?
+o What is most important to you and how are you going to pursue that in spite of
+your pain?
+
+
+Final Measures (10 minutes)
+
+
+e Administer PCL-5, PHQ-9 and AAQ
+
+
+68
+
+[PAGE 071]
+
+APPENDIX A: Responding to Challenges in Exposure
+
+
+69
+
+[PAGE 072]
+
+You may encounter resistance when you introduce the concept of in vivo exposures and
+throughout assignment of exposures. When this occurs, resist the pull to argue or “educate.”
+Instead, try to identify the source of resistance in terms of ACT processes. Below are some
+common challenges and tips:
+
+
+e Fusion with thoughts: Veterans may be fused to thoughts that they don’t deserve to
+pursue their values, that this won’t work, or that they will never get better. Leaders
+should seek to identify any thoughts that are serving as barriers to values based
+exposures. Once identified, help veterans identify these thoughts as a product of their
+minds and practice defusion.
+
+
+e Fear of exposures: Veterans may also be fused with specific fears related to exposures
+(e.g., “If I don’t check behind me at the restaurant, someone will attack me.”). Again,
+help veterans identify and defuse from these thoughts. Leaders may also normalize that
+fear may create a pull to avoid and help veterans remember the reasons they are willing to
+experience anxiety.
+
+
+e Lack of willingness: Refer back to early sessions on willingness. Reflect the reasons
+veterans have shared for wanting to change. Highlight what they miss out on by not
+being willing and reflect any pain they have expressed this causing them.
+
+
+e Lack of “wanting”: Review the concept that willingness is a choice and an action, not a
+feeling. You might say something like “When we ask you to consider the exposures you
+are doing each week and the next activity today, you may not always want to or feel like
+it. That isn’t necessary to be willing. The real question is, will I do it regardless of how I
+feel in order to get whatIwant? Remember when you were in your early military
+training? You valued your career and you wanted to do well. But did you always feel
+like you wanted to do your PT? Did you always want to wake up in the morning?
+Probably not, but you chose willingness because it was in service ofyour bigger goal.
+
+
+e Exposure activity not appropriately linked to value: Often veterans will select an
+exercise that is not closely related to a value that holds enough personal importance to
+promote willingness to experience anxiety. Other times, they will have difficulty
+identifying how an exposure activity may help them move towards their personal value.
+In these cases, help them identify how completing the exposure is related to their value.
+For example, if a veteran has identified peace of mind as a value they would like to work
+on, one exposure activity may include reducing checking behind them. You may say
+something like “/ hear you saying that the ability to check behind you at restaurants
+helps you feel more safe. I also hear that you aren't able to be fully at peace when you
+are out with people. I wonder ifyou would have more peace of mind ifyou were able to
+reach the point where you could be ok with not checking?”
+
+
+70
+
+[PAGE 073]
+
+Optional Activities to Facilitate Willingness
+These exercises are not included in group content to allow for them to be flexibly incorporated as
+needed throughout the group.
+
+
+Cards Exercise (a.k.a “Get off your Buts”)
+
+
+This exercise offers veterans a weekly reminder of how their mind develops reasons not
+to engage in valued actions. The goal of the activity 1s to raise awareness of when they
+allow verbal content to alter their behavior, as well as a physical reminder to continue
+valued action in the face of thoughts that might otherwise deter them. Begin by
+reviewing the use of the word “AND” rather than “BUT” and by reviewing the idea that
+“but” is a limiting word. Then, give each veteran a notecard. On one side, ask them to
+write down the value they are working towards and their exposure goal for the week. On
+the other side, have them write “get off your buts” at the top of the card. Below this
+heading, they should then fill in any reasons their mind may give them not to follow
+through with their exposure goal. Have them replace the word but with AND for each
+excuse and encourage them to carry the card as they work on their exposures (e.g., “I
+plan to go to the basketball game AND my mind is going to tell me something bad will
+happen.”)
+
+
+Do something while saying you can’t
+
+
+This exercise also helps veterans realize that their verbal content does not have to direct their
+actions.
+
+
+Pick up the pen exercise; Instruct patients to tell themselves multiple times that they can't
+pick up the pen in front of them while picking it up.
+
+
+“The Mind” One leader or volunteer should serve as ““the mind” and one will serve as the
+doer. The doer will have a task to complete and “the mind” will follow them around
+making statements that would discourage the action. For example, the doer may be asked
+to walk around the room and introduce themselves to other members. Meanwhile the
+mind will follow and make statements such as “nobody wants to talk to you. You are
+making a fool ofyourself. Everyone thinks you are stupid.” Afterwards, discuss how one
+can keep engaging in valued action in the presence of thoughts that would suggest
+otherwise.
+
+
+Urge surfing/Tape on the Nose
+
+
+You may have a strong urge to leave an anxiety provoking situation, but you can acknowledge
+that urge and keep moving forward. Think of a time at home when you had challenging
+experience with a symptom of PTSD (avoidance, fear of certain stimulus or place, security
+concern, inability to trust others), where you tried to do something consistent with your values
+but didn’t. You went with your habit instead.
+
+
+71
+
+[PAGE 074]
+
+Imagine you were back in this moment. What would happen if, instead ofgoing with that urge to
+escape that anxiety, you were willing to sit with it for a while?
+
+
+Willingness is most important, though often most difficult, in a situation where you have strong
+urges about reducing your anxiety or strong emotions.
+
+
+A way to combat urges that we use in ACT in called “urge surfing,” or becoming aware of urges
+but without fighting them. Instead, you "label" the urge for what it is, acknowledge that you are
+having a specific urge, and, at the same time you notice how the intensity of the urge gets
+stronger and then weaker, like waves coming and breaking up in the ocean.
+
+
+°e Give each veteran a piece of tape and ask them to place it on the end of their nose (if any
+resistance, have them place it on their index finger as if taking a fingerprint). Group
+leaders take one also and place on end of your nose. (Be playful with this activity and
+share your own urges or annoyance with the tape)
+
+
+After you place the tape on your nose, begin to notice any urges that may arise about removing
+it. They may come up right away or later on. In the meantime, I will describe this process further
+and we will NOT touch the tape on the ends of our noses.
+
+
+The reason we call this urge surfing is that urges often ebb and flow like the surf on a beach.
+Imagine yourself on a beach, gazing out into the surf. Notice how each wave starts off very
+small, gradually grows larger. It continues to grow larger until it reaches its peak. Then, once
+the wave has peaked, it gradually subsides. Like waves, our urges are a natural phenomenon. If
+we let them play out like nature intended, they will rise and peak and subside on their own.
+
+
+Let’s take a moment to sit quietly and notice our urges. You may notice the urge to remove the
+tape, or you may notice other urges come up. Try and give them a chance to peak, and stay with
+them as they subside.
+
+
+° Give group 1-2 minutes of sitting quietly. Group leader then asks group about their
+experience of urges. This is a good time for leaders to chime in with similar experiences
+and validate that urges are natural. Goal is not to eliminate them but be able to
+acknowledge and experience them.
+
+
++ Emphasize that by telling themselves “I’m having to urge to pull this tape off” creates
+some space between them and the urge. This observation or noticing the urge is
+mindfulness. And just as you can be mindful of the urge you can also be mindful that you
+are tolerating it and not acting upon it. Sometime urges come and go, strengthen and
+weaken and you can tolerate the discomfort that the urg brings and still do what matters.
+
+
+e Discuss how this would come up when they are pursuing exposures. Relate this to
+anxiety and ability to tolerate anxious feelings in order to do what matters.
+
+
+72
+
+[PAGE 075]
+
+APPENDIX B: Measures
+
+
+73
+
+[PAGE 076]
+
+Acceptance and Action Questionnaire (AAQ-II)
+
+Below you will find a table of statements. Please rate how true each statement is for you using
+the scale below.
+
+
+Scale:
+1=Never true
+2=Very seldom true
+3=Seldom true
+4=Sometimes true
+5=Frequently true
+6=Almost always true
+7=Always true
+
+
+Statement 112!3!4|516
+1. It’s ok if Iremember something unpleasant.
+2. My painful experiences and memories make it difficult for me to
+live a life that I would value.
+3. Pm afraid of my feelings.
+. I worry about not being able to control my worries and feelings.
+ny
+. My painful memories prevent me from having a fulfilling life.
+. Lam in control of my life.
+. Emotions cause problems in my life.
+RIAD . It seems like most people are handling their lives better than I am.
+9. Worries get in the way of my success.
+10. My thoughts and feelings do not get in the way of how I want to
+live.
+
+[PAGE 077]
+
+PCL-5
+
+Instructions: Below is a table of problems that people sometimes have in response to a very
+stressful experience. Please read each problem statement and rate how much you have been
+bothered by that problem in the past month on a scale from “not at all” to “extremely.”
+
+In the past month, how much were you bothered by: Not A little Moderately Quite Extremely
+at all bit a bit
+1. Repeated, disturbing, and unwanted memories of the
+stressful experience?
+2. Repeated, disturbing dreams of the stressful
+experience?
+3. Suddenly feeling or acting as if the stressful
+experience were actually happening again (as if you
+were actually back there reliving it?)
+4. Feeling very upset when something reminded you of
+the stressful experience?
+5. Having strong physical reactions when something
+reminded you of the stressful experience (for example,
+heart pounding, trouble breathing, sweating)?
+6. Avoiding memories, thoughts, or feelings related to
+the stressful experience?
+7. Avoiding external reminders of the stressful
+experience (for example, people, places, conversations,
+activities, objects, or situations?)
+8. Trouble remembering important parts of the stressful
+experience?
+9. Having strong negative beliefs about yourself, other
+people, or the world (for example, having thoughts
+such as: I am bad, there is something seriously wrong
+with me, no one can be trusted, the world is completely
+dangerous)?
+10. Blaming yourself or someone else for the stressful
+experience or what happened after it?
+11. Having strong negative feelings such as fear,
+horror, anger, guilt or shame?
+12. Loss of interest in activities that you used to enjoy?
+13. Feeling distant or cut off from other people?
+14. Trouble experiencing positive feelings (for
+example, being unable to feel happiness or have loving
+feelings for people close to you?)
+15. Irritable behavior, angry outbursts, or acting
+ageressively?
+16. Taking too many risks or doing things that could
+cause you harm?
+17. Being “superalert” or watchful or on guard?
+18. Feeling jumpy or easily startled?
+19. Having difficulty concentrating?
+20. Trouble falling or staying asleep?
+
+
+75
+
+[PAGE 078]
+
+PHQ-9
+
+
+Over the last 2 weeks, how often have you been bothered by | Not Several | More than Nearly
+any of the following problems? at all days half the every day
+days
+1. Little interest or pleasure in doing things
+2. Feeling down, depressed, or hopeless
+3. Trouble falling or staying asleep, or sleeping too much
+4. Feeling tired or having little energy
+5. Poor appetite or overeating
+6. Feeling bad about yourself or that you are a failure or have
+let yourself or your family down
+7. Trouble concentrating on things, such as reading the
+newspaper or watching television
+8. Moving or speaking so slowly that other people could have
+noticed? Or the opposite—being so fidgety or restless that you
+have been moving around a lot more than usual
+9. Thoughts that you would be better off dead or hurting
+yourself in some way
+
+
+If you checked off any problems, how difficult have these problems made it for you to do your
+work, take care of things at home, or get along with other people?
+
+
+Not difficult at all Somewhat difficult Very difficult Extremely difficult
+
+
+76
+
+[PAGE 079]
+
+References and Scoring
+
+
+1. Acceptance and Action Questionnaire-II
+
+
+Bond, F.W., Hayes, S.C., Baer, R., Carpenter, K.M., Guenole, N., Orcutt, H.K., Zettle, R.D
+(2011). Preliminary psychometric properties of the Acceptance and Action
+Questionnaire-Il: A revised measure of psychological inflexibility and experiential
+avoidance. Behavior Therapy, 42, 676-688.
+
+
+Scoring:
+Reverse score items 2, 3, 4, 5, 7, 8, and 9. Higher scores indicate higher levels of psychological
+flexibility.
+
+
+2. Patient Health Questionnaire (PHO-9)
+
+
+Kroenke, K., Spitzer R.L., & Williams, J.B. (2001). The PHQ-9: validity of a brief depression
+Severity measure. Journal of General Internal Medicine, 16, 606-613.
+
+
+Items are scored on a scale of 0-3. Sum all items for total score.
+
+
+3. PTSD Checklist for DSM-5 (PCL-5)
+
+
+Weathers, F.W., Litz, B.T., Keane, T.M., Palmieri, P.A., Marx B.P., & Schnurr, P.P. (2013).
+The PTSD Checklist for DSM-5 (PCL-5). Scale available from the National Center for
+PTSD. www.ptsd.va.gov.
+
+
+Items are scored on a scale of 0-4. Sum all items for total score.
+
+
+77
+
+[PAGE 080]
+
+APPENDIX C: Values Card Sort
+(W.R. Miller, J.C’deBaca, D.B. Matthews, & P.L., Wilbourne; available at
+https://casaa.unm.edu/Instruments)
+
+
+78
+
+[PAGE 081]
+
+This page intentionally left blank
+
+
+79
+
+[PAGE 082]
+
+Personal Values IMPORTANT TO ME
+Card Sort
+W.R.Miller / J. C'de Baca/
+D.B. Matthews / P.L. Wilbourne
+
+
+University of New Mexico, 2001
+
+
+VERY IMPORTANT TO ME NOT IMPORTANT TO ME
+
+
+ACCEPTANCE ACCURACY
+to be accepted as | am to be accurate in my opinions and
+beliefs
+1
+
+
+ACHIEVEMENT ADVENTURE
+to have new and exciting experiences
+to have important accomplishments
+
+4
+3
+
+
+Printed on 9/01
+
+[PAGE 083]
+
+ATTRACTIVENESS AUTHORITY
+
+to be physically attractive to be in charge of and responsible for
+others
+O
+6
+
+
+AUTONOMY BEAUTY
+to be self-determined and independent to appreciate beauty around me
+
+7 8
+
+
+CARING CHALLENGE
+to take care of others to be accurate in my opinions and
+beliefs
+9
+10
+
+
+CHANGE COMFORT
+to have a life full of change and variety to have a pleasant and comfortable life
+
+11 12
+
+
+Printed on 9/01
+
+[PAGE 084]
+
+COMMITMENT COMPASSION
+to make enduring, meaningful to feel and act on concern for others
+
+commitments
+14
+13
+
+
+CONTRIBUTION COOPERATION
+to make a lasting contribution in the to work collaboratively with others
+world
+16
+15
+
+
+COURTESY CREATIVITY
+to take care of others to have new and original ideas
+
+17 18
+
+
+DEPENDABILITY DUTY
+to have a life full of change and variety to carry out my duties and obligations
+
+19 20
+
+Printed on 9/01
+
+[PAGE 085]
+
+ECOLOGY EXCITEMENT
+to live in harmony with the environment to have a life full of thrills and stimulation
+
+21 22
+
+
+FAITHFULNESS FAME
+to be loyal and true in relationships to be known and recognized
+
+23 24
+
+
+FAMILY FITNESS
+to have a happy, loving family to be physically fit and strong
+
+25 26
+
+
+FLEXIBILITY FORGIVENESS
+to adjust to new circumstances easily to be forgiving of others
+
+27 28
+
+
+Printed on 9/01
+
+[PAGE 086]
+
+FRIENDSHIP FUN
+to have close, supportive friends to play and have fun
+
+29 30
+
+
+GENEROSITY GENUINENESS
+to give what | have to others to act in a manner that is true to who |
+am
+31
+32
+
+
+GOD’S WILL GROWTH
+to seek and obey the will of God to keep changing and growing
+
+33 34
+
+
+HEALTH HELPFULNESS
+to be physically well and health to be helpful to others
+
+35 36
+
+
+Printed on 9/01
+
+[PAGE 087]
+
+HONESTY HOPE
+to be honest and truthful to maintain a positive and optimistic
+outlook
+37
+38
+
+
+HUMILITY HUMOR
+to be modest and unassuming to see the humorous side of myself and
+the world
+39
+40
+
+
+INDEPENDENCE INDUSTRY
+to be free from dependence on others to work hard and well at my life tasks
+
+41 26
+
+
+INNER PEACE INTIMACY
+to experience personal peace to share my innermost experiences with
+others
+43
+28
+
+
+Printed on 9/01
+
+[PAGE 088]
+
+JUSTICE KNOWLEDGE
+to promote fair and equal treatment for to learn and contribute valuable
+all knowledge
+
+45 46
+
+
+LEISURE LOVED
+to take time to relax and enjoy to be loved by those close to me
+
+47 48
+
+
+LOVING MASTERY
+to give love to others to be competent in my everyday
+activities
+49
+50
+
+
+MINDFULNESS MODERATION
+to live conscious and mindful of the to avoid excesses and find a middle
+present moment ground
+
+91 28
+
+
+Printed on 9/01
+
+[PAGE 089]
+
+MONOGAMY NON-CONFORMITY
+to have one close, loving relationship to question and challenge authority and
+norms
+53
+54
+
+
+NURTURANCE OPENNESS
+to take care of and nurture others to be open to new experiences, ideas
+and options
+55
+56
+
+
+ORDER PASSION
+to have a life that is well-ordered and to have deep feelings about ideas,
+organized activities, or people
+
+57 98
+
+
+PLEASURE POPULARITY
+to feel good to be well-liked by many people
+
+59 60
+
+
+Printed on 9/01
+
+[PAGE 090]
+
+POWER PURPOSE
+to have control over others to have meaning and direction in my life
+
+61 62
+
+
+RATIONALITY REALISM
+to be guided by reason and logic to see and act realistically and
+practically
+63
+64
+
+
+RESPONSIBILITY RISK
+to make and carry out responsible to take risks and chances
+decisions
+66
+65
+
+
+ROMANCE SAFETY
+to have intense, exciting love in my life to be safe and secure
+
+67 68
+
+
+Printed on 9/01
+
+[PAGE 091]
+
+SELF-ACCEPTANCE SELF-CONTROL
+to accept myself as | am to be disciplined in my own actions
+
+69 70
+
+
+SELF-ESTEEM SELF-KNOWLEDGE
+to feel good about myself to have a deep and honest
+understanding of myself
+71
+72
+
+
+SERVICE SEXUALITY
+to be of service to others to have an active and satisfying sex life
+
+73 74
+
+
+SIMPLICITY SOLITUDE
+to live life simply, with minimal needs to have time and space where | can be
+apart from others
+75
+76
+
+
+Printed on 9/01
+
+[PAGE 092]
+
+SPIRITUALITY STABILITY
+to grow and mature spiritually to have a life that stays fairly consistent
+
+77 78
+
+
+TOLERANCE TRADITION
+to accept and respect those who differ to follow respected patterns of the past
+from me
+80
+79
+
+
+VIRTUE WEALTH
+to live a morally pure and excellent life to have plenty of money
+
+81 82
+
+
+WORLD PEACE OTHER VALUE:
+to adjust to new circumstances easily
+
+83
+
+
+Printed on 9/01
+
+[PAGE 093]
+
+OTHER VALUE: OTHER VALUE:
+
+
+OTHER VALUE: OTHER VALUE:
+
+
+OTHER VALUE: OTHER VALUE:
+
+
+OTHER VALUE: OTHER VALUE:
+
+
+Printed on 9/01

@@ -7,6 +7,7 @@ from pathlib import Path
 
 from niros.ctpc_compiler import compile_pattern_from_approved_review
 from niros.human_review_workflow import build_review_id
+from niros.knowledge_domain import ctpc_pattern_relative_path
 from niros.knowledge_factory_pipeline import KnowledgeFactoryPipeline
 from niros.raw_source import RawSourceCorpus
 from niros.therapeutic_extraction import TherapeuticFunctionExtraction
@@ -135,7 +136,11 @@ def test_knowledge_factory_pipeline_end_to_end_offline(tmp_path: Path) -> None:
     assert review_path.exists()
 
     pattern_id = first.canonical_therapeutic_pattern.pattern_id
-    ctpc_path = Path(pipeline.ctpc_compiler.paths.ctpc_dir) / f"{pattern_id}.json"
+    relative = ctpc_pattern_relative_path(
+        first.canonical_therapeutic_pattern.knowledge_domain,
+        pattern_id,
+    )
+    ctpc_path = Path(pipeline.ctpc_compiler.paths.ctpc_dir) / relative
     assert ctpc_path.exists()
 
     expected_pattern = compile_pattern_from_approved_review(first.human_review_record)

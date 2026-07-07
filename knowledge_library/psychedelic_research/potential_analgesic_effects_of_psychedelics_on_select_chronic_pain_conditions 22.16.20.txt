@@ -1,0 +1,1390 @@
+[PAGE 001]
+
+® Check for updates
+
+
+Received: 15 November 2022 Revised: 18 July 2023 Accepted: 2 August 2023
+
+DOI: 10.1002/ejp.2171
+
+
+European Journal of Pain
+ORIGINAL ARTICLE
+
+
+Potential analgesic effects of psychedelics on select chronic
+pain conditions: A survey study
+
+
+Mauro Cavarra'© | Natasha Leigh Mason’ | Kim P.C. Kuypers' | Valerie Bonnelle? |
+Will J. Smith? | Amanda Feilding? | Pamela Kryskow” | Johannes G. Ramaekers'
+
+
+‘Department of Neuropsychology
+and Psychopharmacology, Faculty Abstract
+of Psychology and Neuroscience, Background: Chronic pain is a major cause of suffering and disability and is
+Maastricht University, Maastricht, the
+often associated with psychiatric complications. Current treatments carry the
+Netherlands
+risk of severe side effects and may lead to limited or no relief at all in a relevant
+“The Beckley Foundation, Oxford, UK
+“Department of Family Medicine, portion of this patient population. Preliminary evidence suggests that classical
+University of British Columbia, psychedelics (e.g. LSD and psilocybin) may have analgesic effects in healthy volVancouver, British Columbia, Canada
+unteers, and in certain chronic pain conditions and observational studies reveal
+
+Correspondence that they are used in naturalistic settings as a means to manage pain.
+Mauro Cavarra, Department Methods: In order to gain insight on the effectiveness of such compounds in
+of Neuropsychology and
+chronic pain conditions, we set up a survey addressed to chronic pain patients
+Psychopharmacology, Faculty of
+Psychology and Neuroscience, inquiring about psychedelic use and the relief levels achieved with both convenMaastricht University, Maastricht, the tional treatments, full psychedelic doses and microdoses. We analysed data reNetherlands.
+lated to five conditions selected based on diagnostic homogeneity within each of
+Email: m.cavarra@
+maastrichtuniversity.nl them: fibromyalgia, arthritis, migraine, tension-type headache and sciatica.
+
+Results: Except for sciatica, volunteers reported that psychedelics led to better
+
+pain relief compared to conventional medication in all examined conditions.
+
+More specifically, full doses performed better than conventional medication.
+
+Microdoses led to significantly better relief compared to conventional medication
+
+in migraines and achieved comparable relief in the remaining three categories.
+
+Implications for future research are discussed.
+
+Conclusions: Full doses and microdoses may hold value in the treatment of
+
+some specific chronic pain conditions.
+
+Significance: Psychedelic substances are receiving increasing attention from
+
+the scientific literature because of evidence showing beneficial effects on several
+
+measures related to mental health in clinical samples and healthy volunteers
+
+samples. Previous evidence suggests that people suffering from chronic pain are
+
+using psychedelics to seek relief and the present paper presents the results of a
+
+survey study investigating their use and analgesic effects among individuals suf-
+
+fering from fibromyalgia, arthritis, migraine, tension-type headache and sciatica.
+
+
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2023 The Authors. European Journal of Pain published by John Wiley & Sons Ltd on behalf of European Pain Federation - EFIC ®.
+
+
+Eur
+J Pain. 2024;28:153-165. wileyonlinelibrary.com/journal/ejp 153
+
+[PAGE 002]
+
+CAVARRA ET AL.
+
+“6IZZEST
+
+
+1 | INTRODUCTION used psychedelics report improvements even when using ‘| "7707
+
+
+low, non-hallucinogenic doses (Schindler et al., 2015;
+Improving treatment outcomes for people living with Sewell et al., 2006). Furthermore, a recent randomized
+papeoyumo(
+chronic pain (PLCP) patients represents a pressing chal- controlled trial with healthy volunteers showed that a non- wo
+
+lenge. CP is a leading cause of disability (Burke et al., 2015), hallucinogenic dose of LSD can improve pain tolerance and
+it affects about 20% of the population (Goldberg & ratings of unpleasantness to an extent comparable to oxycoMcGee, 2011), impacts psychological well-being while de- done or morphine (Ramaekers et al., 2021). The responsible
+creasing social functioning (Duefias et al., 2016) and pro- mechanisms are still unclear but a reasonable hypothesis Arerqiour[uo//:sdyy
+
+
+ductivity (Cohen et al., 2021). Furthermore, CP is associated points to the psychedelic-induced activation of serotonin Aayim
+
+
+with the onset or exacerbation of psychiatric symptoms receptors (5-HT,,), which may upregulate genes that prosuch as depression (Cohen et al., 2021), anxiety (Duefias mote neuroplasticity and suppress inflammatory factors 01/1OP/WOI
+
+
+et al., 2016) and substance use problems (Voon et al., 2017). (Castellanos et al., 2020; de Vos et al., 2021). This may help
+
+“TL 17 A(3S/Z001
+Recommended pharmacological therapies include non- to compensate for the malfunction of the descending insteroidal anti-inflammatory drugs (NSAIDs) (Yekkirala hibitory 5-HT pathways, a supposed cause of hyperalgesia
+et al., 2017), opioids, anticonvulsants and antidepressants and allodynia in chronic pain and a contributing factor in ÁSIM
+
+
+(Edinoff et al., 2022). While these have some degree of success increasing inflammatory pain (Castellanos et al., 2020). A surfug
+
+in achieving relief, a significant portion of patients does not recent review focussing on the potential mechanisms supbenefit from them (Johannes et al., 2010). Opioids in partic- porting the pain regulating effects of psychedelics pointed UO AreIqry]
+
+ular cause several unwanted effects, can be highly addictive to the fact that psilocin (an active metabolite of psilocybin)
+(Coussens et al., 2019), are associated with a greater fre- binds to several 5-HT receptors and evidence exists of a po-
+[9ZOZ/L0/L0]
+quency of (serious) adverse events (Els et al., 2017) and may tential role of both 5-HT2A and 5-HT3 in nociception (Zia
+lead to opioid-induced hyperalgesia (i.e. increased sensitivity et al., 2023). Furthermore, the reduction in 5-HT2A recep- 4) 29S
+
+
+to pain) https://www.zotero.org/google-docs/?tmAnSp (Nijs tor number caused by the use of such compounds may also SUID],
+
+et al., 2014). Psychological therapies also seem to contrib- have contributed to decreased signalling in pathways re- PUR
+
+
+ute to better pain management (Hann & McCracken, 2014; sponsible for nociception (Zia et al., 2023). The authors also
+Hoffman et al., 2007). However, the magnitude of their effect add that 5-HT2A agonists may promote the internalization SUOTIPUOD
+
+
+is small to medium compared to no treatment and smaller or of such receptors potentially resulting in less perceived
+non-significant when compared to other interventions, such pain (Zia et al., 2023).
+as active controls (e.g. physical therapy, education, medical To summarize, while classic psychedelics seem to have
+Areigijounuo/ :sdyy)
+regimes), or different forms of ‘treatment as usual’ (Williams potential in the management of CP, their actual effective-
+Á9[IM"
+et al., 2020; Hann & McCracken, 2014). ness and mechanisms are still unclear. To better under-
+Alternative or complementary treatments are often stand the perceived analgesic effects that psychedelics
+sought and classic psychedelic drugs have recently gained have on CP patients who self-medicate, an online survey
+the PLCP's attention as shown by the numerous arti- (Bonnelle et al., 2022) was set up. Results suggested that
+cles, posts and discussions published on online fora (e.g. psychedelic use led to pain relief, that full doses appeared
+Andersson et al., 2017; Soussan & Kjellgren, 2016). Classic to work better than microdoses, and that these changes UO (SUONIPUO9-pue-sul1]/woI
+
+
+psychedelics are a class of psychoactive compounds that were unrelated to the mood improvement that these sub- ÁSTIM
+
+produce profound alterations to perception, cognition and stances typically induce nor to the degree in which par-
+OUT[UGC
+emotion through agonism of serotonergic receptors (de ticipants considered themselves advocates for psychedelic
+Vos et al., 2021). Their use pattern is classically categorized use (Bonnelle et al., 2022). The present paper focuses on
+103 Areiqr
+into full dose use, in which doses large enough to gener- results concerning specific CP conditions selected based
+ate such alterations are taken, and microdosing, in which on homogeneity within each individual survey category: jo sa¡n1
+
+
+doses small enough not to generate perceivable alterations fibromyalgia (FM), arthritis, migraine, tension-type head- “9sn
+
+YO
+of consciousness (microdoses) are taken repeatedly over ache (TTH) and sciatica (See Supplemental material 1 for
+the course of several days or weeks (Kuypers et al., 2019). a description of the conditions). sopoI e
+
+
+Research to test their analgesic effects began before the
+ore
+
+
+war on drugs era (Reiff et al., 2020) and evidence of their
+
+ay} Aq PoU12A03
+efficacy was gathered in neuropathic, ischemic or cancer- 2 | METHODS
+related pain https://www.zotero.org/google-docs/?KCQPdx
+(Grof et al., 1973; Kast & Collins, 1963), life-threatening ill- 2.1 | Participants o[qQvordde
+nesses (Kast, 1967) and phantom limb pain (Fanciullacci
+et al., 1977). More recent retrospective studies have revealed The sample was recruited via an online survey that was DARIO
+
+
+that individuals suffering from cluster headache who have disseminated through the Beckley Foundation website
+SUOWWOJ
+
+
+9SUSIV]
+
+[PAGE 003]
+
+CAVARRA ET AL.
+
+“6IZZESI
+
+
+and social media platforms from August 2020 to July Respondents who indicated no present or past complaints ‘I “707
+
+
+2021 (Bonnelle et al., 2022). The advertisement was ad- were redirected to the survey end page.
+dressed to individuals who had microdosed and had This paper will present the data obtained regard-
+popeojumog
+been or were currently suffering from chronic pain. ing a subset of such complaints (for the full list, refer to wo
+
+Eligible participants were at least 18years of age, have Supplementary material 2). The selection was based on prealready had experience with psychedelics and were suf- sumed diagnostic homogeneity within the indicated catefering or had suffered from CP. Once informed about gory (i.e. while the ‘back pain’ complaint may potentially
+the study, respondents were presented with the consent include very diverse conditions, the ‘migraine’ one may in- Areigijouruo/ ;sdy
+
+
+form. The Ethics Review Committee of Psychology and clude a more homogeneous subsample of patients). Based Agim
+
+
+Neuroscience at Maastricht University (NL) approved the on this criterion, results from the following conditions were
+protocol (ERCPN-226_101_08_2020) and the survey was analysed: FM, arthritis, migraine, TTH and sciatica. OL /lop/mos
+
+
+presented via Qualtrics.
+
+“TL 17 A(3/Z001
+2.6 | Reported effectiveness of
+2.2 | Test battery conventional medication and cannabis AZTIM
+
+
+surfug
+
+The test battery included a questionnaire inquiring about The survey required participants to indicate which
+demographic information, history of psychedelic use, conventional medication they used most often from a UO Areıqr
+
+pain complaints, reported pain relief from conventional predefined list including drugs both acute (i.e. over-themedication and cannabis, and reported pain relief from counter pain relievers/NSAIDS, opioids) and preventive
+[9Z0Z/LO/LO]
+psychedelic use. drugs (i.e. antidepressants, anticonvulsants), as well as
+cannabis which seems to have both prophylactic and L 941 29S
+
+abortive effects (Okusanya etal., 2022). Given that cannabis sus
+
+2.3 | Demographic information is gaining increasing acceptance as an effective pain pue
+
+
+management treatment and the fact that several countries
+Respondents' age group, sex and work status (i.e. full- are now allowing its prescription, it was included in this SUOTIPUOD
+
+
+time, part-time, unemployed, unemployed due to pain, category (Hauser et al., 2018). Participants also rated the
+home duties, on leave due to pain, studying, other) were extent of pain relief they got from such medication on a
+gathered. VAS ranging from 0 (no pain relief) to 10 (complete relief).
+AIBIQIOUI[UO/ :sdyY)
+
+
+AdTIM
+
+
+2.4 | History of psychedelic use 2.7 | Reported effectiveness of
+psychedelics in pain relief
+Participants indicated whether they had experience
+with psychedelics and, if they had, what compound they Respondents reported the degree of relief they obtained
+(SUOHIPUOI-PUB-SULIA)/LIOI
+were most experienced with (LSD/1p-LSD, psilocybin- from microdoses and full doses on a VAS ranging from 0 UO
+
+containing truffles or mushrooms, DMT, ayahuasca, (no pain relief) to 10 (complete relief), whether they used ÁSTIM
+
+5-MeO-DMT, mescaline or other). Finally, they indicated psychedelics to intentionally obtain pain relief and how
+OUTTUGC
+the frequency and duration of their psychedelic use for long the potential benefits lasted on a multiple choice
+both microdoses and full doses. question which presented the following options: benefit
+107 Areiqr
+on dosing day only, on dosing day and the following day,
+on dosing day plus 2-3 days after, on dosing day and for jo sa]n1
+
+
+2.5 | Pain complaints more than 3 days after. “9sn
+
+yO
+
+
+Respondents indicated current or past painful complaints sopoIe
+
+
+requiring pain management interventions. Complaints 2.8 | Mood and expectation
+ose
+
+
+were grouped as follows: musculoskeletal, inflammatory,
+
+ay} Aq PouU12A03
+neuropathic, headache and orofacial, pain caused by Since mood and treatment expectations are considered
+cancer, visceral or other type. Participants could enter important factors influencing pain perception (Hall
+multiple conditions and pain severity was then recorded et al., 2011), the survey required participants to report
+a1qeor]dde
+on a Visual Analogue Scale (VAS) ranging from 0 to 10 whether they experienced changes in mood as a consewhile pain frequency was recorded on a 4-point Likert quence of psychedelic use and whether they used them to JANLOIZ
+
+
+scale ranging from “all the time” to “less than once a week”. intentionally treat pain.
+SUOWWOJ
+
+
+OSUIOTT
+
+[PAGE 004]
+
+CAVARRA ET AL.
+
+‘6 1ZZEST
+
+
+2.9 | Statistical analysis (conventional medication, microdoses and full doses). “| “707
+
+
+Contrasts were carried out via the Wilcoxon signed
+Data were analysed in SPSS (version 26.0.0.0). Frequencies ranks test, and the Bonferroni correction for multiple
+pspeoyumog
+were computed for the following variables: gender, age, comparisons was performed. Effect sizes (Kendall's W wor
+
+work status, number of concurrent pain complaints, most for Friedman's ANOVAs and n? for Kruskall-Wallis)
+often used conventional medication and psychedelic and p-values were reported and the latter tested against
+compound. a Bonferroni-corrected a level. To determine whether
+Pain relief scores after conventional medication, mi- changes in mood were associated with reductions in
+Asti Areigijourfuo/ :sdy
+crodosing and full doses were not normally distributed pain, Pearson's correlation analyses were run between
+according to the Kolmogorov-Smirnov and Shapiro- mood change ratings and relief ratings. To determine
+Wilk tests. The Kruskal-Wallis tests were used to test whether expectations played a role in determining relief 0L/lop/wios
+
+
+for differences in pain relief obtained by the different scores, Mann-Whitney U tests were run comparing the
+classes of conventional medication across conditions. degree of relief obtained by participants who reported
+TLIZAlS/Z00T
+Related samples Friedman's two-way ANOVA was used taking psychedelics to intentionally self-treat pain and
+to compare pain relief scores between treatment types those who did not. AIIM
+
+
+IUHUO
+
+
+UO Areıqr]
+Enrollment | Assessed for eligibility (n= 976)
+Excluded (n= 806)
++ Accessed the survey but provided
+no data (343, 35%)
+'[9707/LO/LO]
+e Did not provide consent (3, 0.003%)
+
+Y 9Y) 998
+¢ Did not use psychedelics (143, 15%)
+e Did not suffer from chronic pain
+SUL
+(159, 16%)
+pue
+* No pain relief data (78, 8%)
+e Not suffering from any of the
+y
+selected CP conditions (80, 8%)
+SUONIPUOD
+Included in the
+sample (n= 170)
+
+
+AreIQouT[UO/ :sdyYy)
+
+AQTIM
+Wilcoxon signed ranks test Friedman’s ANOVA
+
+
+Responded to at least 2 Responded to all relief
+relief ratings: conventional ratings: conventional
+medication, microdosing, A Vv
+medication, microdosing,
+full doses full doses (SUOMIPUO9-PUR-SULIO)/LUO
+
+(n= 170) (n= 56)
+UO
+
+
+ÁSTIM
+
+
+SUUO
+
+\ \
+
+Fibromyalgia (n= 47) | Fibromyalgia (n=19) | 103 ÁJe1qr]
+
+
+Arthritis (n= 67) | Arthritis (n= 21) | Jo sons
+
+
+Migraine (n= 63) | Migraine (n= 21) | ‘asn
+
+yO
+
+Tension-type headache Tension-type headache
+saponıe
+(n= 47) (n= 18)
+ose
+
+Sciatica (n= 65) -Sciatica (n= 21) |
+oy} Aq Pau12A03
+FIGURE 1 Enrolment flowchart detailing how many participants fulfilled inclusion criteria, provided pain relief data and suffered from
+at least one of the selected CP conditions. Friedman's ANOVA was run including participants who provided all three relief measures (i.e.
+conventional medication, microdosing and full doses) while contrasts between each treatment pair were run via Wilcoxon signed ranks test ayqeordde
+
+
+considering the whole responder sample (i.e. including participants who provided relief data for at least two substance categories).
+DANBILO
+
+
+SUOWWO)
+
+
+JSUDOI'T
+
+[PAGE 005]
+
+CAVARRA ET AL.
+
+“6IZZEST
+
+
+3 | RESULTS 3.2.3 | Pain relief with psychedelics ‘I "7707
+
+
+compared to conventional medication
+3.1 | Demographics pspeojumogq
+Psilocybin was the most used psychedelic in this sub- wo
+
+Data on this sample were published in another paper sample (n= 26), followed by LSD (n=15), DMT (n=1)
+(Bonnelle et al., 2022) and are briefly summarized here. and other (n=1). In the other category, one participant
+Out of 976 respondents, 170 completed the survey and met indicated LSD and mescaline (n=1; Figure 2a). Four
+the inclusion criteria (Figure 1). Respondents who did not participants flagged the other category but in the free- Areigipounuoy/:sdy
+
+
+consent to participate, were younger than 18 years of age, text field, they indicated compounds that are not con- Aayım
+
+
+did not provide relief data or were not suffering from one sidered classical psychedelics (MDMA and ketamine
+of the selected CP conditions were excluded. There were (n=1), ketamine (n=2), THC (n=1)) and were there- OT /1OP/WOI
+
+93 females and 70 males (7 preferred not to say). The ma- fore excluded from subsequent analyses investigating
+
+“TL 17 A(3S/Z001
+jority (33%) fell into the 31-40 age range (n= 56), followed relief. Most participants in the FM subsample made alby the 18-30 (n=40; 24%), 41-50 (n=29; 17%), 51-60 ternate use of microdoses and full doses (n = 39; 83%) as
+(n=24; 14%) and finally 61-70 (n=21; 13%). Thirty-five opposed to just microdoses (n=7; 14.9%) or full doses ÁSIM
+
+
+(21%) declared to be unemployed due to pain and 2 (1%) (n=1; 2.1%). surfug
+
+of them being on leave from work because of pain. The A significant effect of treatment type (F,(2) = 19.042,
+average number of concurrent pain complaints was 5 0.88 p<0.001) with a medium effect size (W=0.5) was UO Areıqr]
+
+(SD =4 0.23). found. Pairwise comparisons were conducted includ-
+ing data from participants who completed at least two
+[9ZOZ/L0/L0]
+of the three relief measures (i.e. relief from conven3.2 | Fibromyalgia tional medication, microdosing and full doses) via a 4) 29S
+
+
+Wilcoxon signed ranks test with a Bonferroni-adjusted SUID],
+
+3.2.1 | Demographics a level. Results showed a significantly greater relief PUR
+
+
+from full doses (M=8.25) compared to both convenOf the 170 participants, 47 (18.8%; 34 females and 11 tional medication (M = 5.32; p< 0.001) and microdoses suONIPUo7
+
+
+males, 2 preferred not to say) participants reported to (M=6.51; p<0.001) (Figure 3a). Considering this
+be suffering from FM. The majority (38.3%) fell into the subsample, 68.4% (n=13) of patients reported mak31-40 age range (n=18), followed by the 18-30 (n=12; ing use of psychedelics with the intention of reducing
+Areigijounuo/ :sdyy)
+25.5%), 41-50 (n= 9; 19.1%), 51-60 (n=7; 14.9%) and fi- pain. In terms of benefit duration for full doses, 31.6%
+Á9[IM"
+nally 61-70 (n=1; 2.1%). Seventeen participants (34.7%) (n=6) reported a benefit on the dosing day only, 21.1%
+declared to be unemployed due to pain and 2 (4.1%) (n=4) also on the following day, 21.1% (n=4) on the
+of being on leave from work because of pain. The av- following 2-3 days, and 26.3% (n=5) reported benefits
+erage number of concurrent pain complaints was 8.55 beyond the third day. In terms of benefit duration for
+(SD = 5.18). low doses, 52.6% (n= 10) reported a benefit on the dos-
+ing day only, 31.6% (n=6) also on the following day, UO (SUONIPUO9-pue-sul1]/woI
+
+10.5% (n= 2) on the following 2-3 days and 5.3% (n=1) ÁSTIM
+
+3.2.2 | Pain relief with conventional reported benefits beyond the third day. Pearson cormedication
+OUT[UGC
+relation analyses revealed no significant association
+between pain relief and mood change scores for full
+107 Areiqr
+Regarding the most used conventional medications, five doses (r=0.025; p=0.919) and microdoses (r=0.180,
+participants in this subsample reported the use of over- p=0.461). jo sa¡n1
+
+
+the-counter (OTC)/NSAIDs medication (mean relief=4.4; “9sn
+
+YO
+SD=2.32), 16 reported use of opioids (mean relief= 5.38;
+SD=2.71), 11 of cannabis (mean relief= 6.18; SD=1.4), 3.3 | Arthritis sopoI e
+
+
+10 of other medications (mean relief= 5.3; SD=1.89). The
+ore
+
+
+latter category included amitriptyline (n=1), anticonvul- 3.3.1 | Demographics
+ay} Aq PoU12A03
+sants (n= 3), ketamine (n=2), serotonin-norepinephrine
+reuptake inhibitors (SNRIs) (n=2), codeine/paraceta- Of the 170 participants, 67 (26.8%; 37 females, 29 males,
+mol (n=1), one participant did not specify. Seven par- 1 preferred not to say) participants reported suffering
+O[gedıpdde
+ticipants did not respond. No significant differences were from arthritis. The majority (28.4%) fell into the 31-40
+found in obtained relief between conventional treatments age range (n=19), followed by the 61-70 range (n=15; DARIO
+
+
+(H(3) = 2.66, p=0.447, n° =0.11). 22,4%), 41-50 (n=14; 20.8%), 51-60 (n=12; 17.9%) and
+SUOWWOJ
+
+
+9SUSIV]
+
+[PAGE 006]
+
+CAVARRA ET AL.
+
+“6VIZZESIT
+
+
+‘I ‘pZ07
+Fibromyalgia Arthritis
+40 n = 43
+40 co
+= 64
+
+papeoyumog
+
+30
+oS > 30
+wo
+e
+u =
+= u
+
+E] 20 =
+5 20
+LL.
+LL
+Aresqrsurjuo/ :sdy
+10 10
+AayiM
+
+
+0 . 0 Psilo. LSD Other DMT Ayah. Mesc. 01/1Op/wios
+Psilo. LSD Other DMT
+
+
+1 Migraine a Tension-Type Headache
+Cc a d ;
+
+“TL 17 4!9/Z001
+40 n = 58 40 n = 44
+
+ÁSIM
+
+uy o
+30
+IUJUO
+
+
+UO ÁTe1qr]
+N O N oO
+
+
+Frequency Frequency
+
+10 10
+“[9Z0Z/L0/L0]
+
+
+0 0 r MY) 998
+Psilo. LSD Ayah. Other DMT Psilo. LSD Other Ayah. Mesc.
+SWAT,
+(e) —
+Sciatica PUR
+
+40 n = 64
+SUOIPUOD
+
+30
+
+
+N oO
+
+
+Areigijsu o/ :sdy )
+Frequency
+Á9]LM
+rm o
+
+
+Psilo. LSD DMT Other Ayah. Mesc.
+
+
+FIGURE 2 Frequencies of most used psychedelics in each condition and sample sizes: (a) fibromyalgia, (b) arthritis, (c) migraine,
+y UO (SUOT}IPUOD-pue-sULIO}/WOD
+(d) tension-type headache and (e) sciatica. Psilo. = psilocybin, LSD =lysergic acid diethylamide, Ayah. = ayahuasca, DMT=N,Ndimethyltryptamine, Mesc. = mescaline. Adfı
+
+
+DUUO
+
+
+finally 18-30 (n=7; 10.5%). Sixteen participants (23.9%) relief=6.56; SD=1.71) and four of other medications
+107 AreIQr]
+declared to be unemployed due to pain and 2 (4.1%) (mean relief=5.75; SD=2.5). The latter category inof being on leave from work because of pain. The av- cluded anticonvulsants (n=2), hydroxychloroquine Jo soyns
+
+erage number of concurrent pain complaints was 6.93 (n=1) and SSRIs (n=1). Eleven participants did not re- “9sn
+
+WO
+(SD = 4.95). spond. No significant differences in obtained relief be-
+tween conventional treatments were found (H(3)= 8.08, sapon.e
+
+
+p=0.044, n* =0.098).
+oie
+
+
+3.3.2 | Pain relief with conventional
+ay} Aq pousoaos
+medication
+3.3.3 | Pain relief with psychedelics
+Regarding the most used conventional medications, 14 compared to conventional medication
+a1qeordde
+participants in this subsample reported the use of OTC/
+NSAIDs (mean relief=4.79; SD=2.19), 22 of opioids Psilocybin was the most used psychedelic in this subsam- SANBILO
+
+
+(mean relief=6.14; SD=2.36), 16 of cannabis (mean ple (n=27), followed by LSD (n= 26), other (n=4), DMT
+SUOWWO)
+
+
+ISUSIN]
+
+[PAGE 007]
+
+I
+
+CAVARRA EFT AL. 159
+
+“6IZZES
+
+
+(a) Fibromyalgia (b) Arthritis ‘I ‘pZ07
+
+KKK KKK
+
+
+g' KKK 10 - **
+papeoJumo
+eb)
+= wog
+Bu 8 8 |
+
+© a
+E
+oO 6 _—
+E 6 7.76
+© —_ —— Areigifsumuo/ :sdy
+© 6.51
+Asti
+. 4 4 5.79
+© 5.45
+
+N
+OT/1op/wios
+2 2
+
+
+0 0
+TLIZAS/Z001
+
+
+ÁSTIEM
+(c) Migraine (d) Tension-Type Headache
+KKK KKK [
+suug
+
+
+® — = UO Areıgqı
+E KKK *
+
+
+= 8 j
+Oo I ——
+© a EN aie
+'[9707/L0/LO]
+
+oS 6 6
+© => 7.05 = 6.93 Y 94) 99
+CD
+4 4 SULIO
+
+o 5.25 5.23 PUR
+
+un
+2 2
+SUOTIPUOD
+
+
+0 0
+
+Conv. meds & cannabis Microdoses Full doses Conv. meds € cannabis Microdoses Full doses
+
+
+FIGURE 3 Mean self-rated relief from conventional medication plus cannabis, microdoses and full doses for each condition, sample
+ÁD]LM'ÁTBIQIDUIUO//:SdI1Y)
+sizes and 95% confidence intervals. Statistically significant differences between groups are denoted by ** (<0.005) and * (<0.01). (a)
+fibromyalgia, (b) arthritis, (c) Migraine, (d) tension-type headache.
+
+
+(n= 3), ayahuasca (n= 2) and mescaline (n= 2; Figure 2b). test (Figure 3a) with a Bonferroni-adjusted a level. Results
+(SUONIPUO9-puR-sunIs}/uloy
+In the other category, participants indicated the follow- showed a significantly greater relief from full doses UO
+
+ing substances respectively: LSD and psilocybin (n=3), (M=8.23) compared to both conventional medication Ad]
+
+LSD and mescaline (n=1). Four participants flagged the (M = 5.79; p<0.001) and microdoses (M = 7.76; p <0.001)
+SUUO
+other category but in the free-text field, they indicated (Figure 3b). Considering this subsample, 52.4% (n=11)
+compounds that are not considered classical psychedelics of patients reported making use of psychedelics with the
+103 AreIqrT
+(ketamine (n= 1), methamphetamine (n=1), THC (n=1)) intention of reducing pain. In terms of benefit duration
+and were therefore excluded from subsequent analyses in- for full doses, 33.3% (n=7) reported a benefit on the dos- Jo son.
+
+
+vestigating relief. Most participants in the Arthritis sub- ing day only, 14.3% (n=3) also on the following day, 23.8% ‘asn
+
+VO
+sample made alternate use of microdoses and full doses (n=5) on the following 2-3 days and 28.6% (n= 6) reported
+(n=49; 73.1%) as opposed to only microdoses (n=4; 6%) benefits beyond the third day. In terms of benefit dura- soponIe
+
+
+or only full doses (n= 13; 19.4%). tion for low doses, 33.3% (n=7) reported a benefit on the
+ore
+
+
+A significant effect of Treatment Type (F,(2)
+= 12.873, dosing day only, 33.3% (n=7) also on the following day,
+
+oy} Aq Pou12A03
+p=0.002) with a medium effect size (W=0.31) was found. 9.5% (n=2) on the following 2-3 days and 23.8% (n=5)
+Pairwise comparisons were conducted including data reported benefits beyond the third day. Pearson correlafrom participants who completed at least two of the three tion analyses revealed no significant association between
+a]qeoridde
+relief measures (i.e. relief from conventional medication, relief and mood change scores for full doses (r= —0.083;
+microdosing and full doses) via a Wilcoxon signed ranks p=0.693) and microdoses (r=0.194, p=0.353). SABIO
+
+
+SUOUIVIO)
+
+
+ISUDOI'T
+
+[PAGE 008]
+
+CAVARRA ET AL.
+
+“6IZZEST
+
+
+3.4 | Migraine three relief measures (i.e. relief from conventional medi- ‘| "7707
+
+
+cation, microdosing and full doses) via a Wilcoxon signed
+3.4.1 | Demographics ranks test (Figure 3a) with a Bonferroni-adjusted a level.
+papeoyumo(
+Results showed a significantly greater relief from full wo
+
+Of the 170 participants, 63 (25.2%; 42 females, 19 males, 2 doses (M=8.07) compared to both conventional medipreferred not to say) participants reported suffering from cation (M=5.25; p<0.001) and microdoses (M=7.05;
+migraine. The majority (36.5%) fell into the 31-40 age p<0.001). Microdoses also lead to significantly greater
+range (n= 23), followed by the 18-30 range (n= 16; 25.4%), relief compared to conventional medication (p <0.005) Arerqiour[uo//:sdy y
+
+
+41-50 (n=14; 22.2%), 51-60 (n=5; 7.9%) and finally 18- (Figure 3c). Considering this subsample, 61.9% (n= 13) of Aayim
+
+
+30 (n=5; 7.9%). Eleven participants (17.5%) declared to be patients reported making use of psychedelics with the inunemployed due to pain and 1 (1.6%) of being on leave tention of reducing pain. In terms of benefit duration for 01 /1OP/WOI
+
+from work because of pain. The average number of con- full doses, 19% (n=4) reported a benefit on the dosing day
+only, 19% (n=4) also on the following day, 33.3% (n=7)
+“TL 17 A(3S/Z001
+current pain complaints was 6.63 (SD = 4.87).
+on the following 2-3 days and 28.6% (n=6) reported ben-
+efits beyond the third day. In terms of benefit duration for ÁSIM
+
+
+3.4.2 | Pain relief with conventional low doses, 33.3% (n=7) reported a benefit on the dosing surfug
+
+medication day only, 28.6% (n=6) also on the following day, 33.3%
+(n=7) on the following 2-3 days and 4.8% (n=1) reported UO AreIqry]
+
+Regarding the most used conventional medications, 15 benefits beyond the third day. Pearson correlation analyparticipants in this subsample reported the use of OTC/ ses revealed no significant association between relief and
+[9ZOZ/L0/L0]
+NSAIDs (mean relief=4.13; SD=1.85), 16 of opioids mood change scores for full doses (r=0.041; p=0.859)
+(mean relief=5.50; SD=2.42), 13 of cannabis (mean and microdoses (r= —0.066, p =0.777). 4) 29S
+
+
+relief=6.23; SD=1.96) and nine of other medications SUID],
+
+(mean relief=5.22; SD=2.11). The latter category PUR
+
+
+included anticonvulsants (n=2), triptans (n=4) and 3.5 | Tension-type headache
+kratom (n=1). Two participants did not specify. Ten SUOTIPUOD
+
+
+participants did not respond. No significant differences 3.5.1 | Demographics
+in obtained relief between conventional treatments were
+found (H(3)=6.72, p=0.081, n°=0.063). Of the 170 participants, 47 (18.8%; 31 females, 14 males, 2
+Areigijounuo/ :sdyy)
+preferred not to say) participants reported suffering from
+Á9[IM"
+TTH. The majority (34%) fell into the 31-40 age range
+3.4.3 | Pain relief with psychedelics (n=16), followed by the 41-50 range (n=14; 29.8%), 18compared to conventional medication 30 (n=12; 25.5%), 51-60 (n=3; 6.4%) and finally 61-70
+(n=2; 4.3%). Twelve participants (25.5%) declared to be
+Psilocybin was the most used psychedelic in this subsam- unemployed due to pain. The average number of concurple (n=33), followed by LSD (n=18), ayahuasca (n=3), rent pain complaints was 8.08 (SD = 5.22). UO (SUONIPUO9-pue-sul1]/woI
+
+
+other (n=3) and DMT (n=1). In the other category, ÁSTIM
+
+participants indicated the following substances respec-
+3.5.2 | Pain relief with conventional
+OUT[UGC
+tively: LSD and mescaline (n=1), cannabis and psilocybin
+(n=1), LSD and psilocybin (n= 1; Figure 2c). Two partici- medication
+103 Areiqr
+pants flagged the other category, but in the free-text field
+they indicated compounds that are not considered clas- Regarding the most used conventional medications, 13 jo sa¡n1
+
+
+sical psychedelics [THC (n=1), MDMA and ketamine participants in this subsample reported the use of opi- “9sn
+
+YO
+(n=1)|, and were therefore excluded from subsequent oids (mean relief=5.54; SD=1.81), 11 of OTC/NSAIDs
+analyses investigating relief. Three participants did not (mean relief=4.09; SD=1.7), eight of cannabis (mean sopoI e
+
+
+respond. Most participants in the Migraine subsample relief=6.38; SD=1.51) and seven of other medications
+ore
+
+
+made alternate use of microdoses and full doses (n= 42; (mean relief= 5.14; SD = 2.8). The latter category included
+
+ay} Aq PoU12A03
+66.7%) as opposed to just microdoses (n=15; 23.8%) and anticonvulsants (n=2), SNRIs (n=2), ketamine (n=1),
+full doses (n = 3; 4.8%). kratom (n=1) and benzodiazepines (n=1). Eight partici-
+A significant effect of Treatment Type (F,(2) = 19.973, pants did not specify.
+o[qQvordde
+p<0.001) with a medium effect size (W=0.48) was No significant differences in relief between convenfound. Pairwise comparisons were conducted including tional treatments were found (H(3)=6.950, p=0.074, DARIO
+
+
+data from participants who completed at least two of the 1 = 0.092).
+SUOWWOJ
+
+
+9SUSIV]
+
+[PAGE 009]
+
+CAVARRA ET AL.
+
+“6IZZEST
+
+
+3.5.3 | Pain relief with psychedelics sciatica. The majority (26.2%) fell into the 31-40 age range ‘| "7707
+
+
+compared to conventional medication (n=17), followed by 41-50 (n=16; 24.6%), 18-30 (n=12;
+18.5%), 51-60 (n=12; 18.5%) and finally 61-70 (n=8;
+papeoyumo(
+Psilocybin was the most used psychedelic in this sub- 12.3%). Twenty participants (31.3%) declared to be unem- wo
+
+sample (n= 21), followed by LSD (n= 18), other (n=3), ployed due to pain and 1 (1.6%) of being on leave from
+ayahuasca (n=1) and mescaline (n=1). In the other work because of pain. The average number of concurrent
+category, three participants indicated the following pain complaints was 7.9 (SD = 5.14).
+substances respectively: LSD and psilocybin (n=1), Arerqiour[uo//:sdyy
+
+
+LSD and mescaline (n= 2; Figure 2d). Two participants Aayim
+
+
+flagged the other category, but in the free-text field they 3.6.2 | Pain relief with conventional
+indicated compounds that are not considered classical medication 01/1OP/WOI
+
+
+psychedelics [MDMA and ketamine (n=1), and keta-
+
+“TL 17 A(3S/Z001
+mine (n=1)]|, and were therefore excluded from sub- Regarding the most used conventional medications, 16
+sequent analyses investigating relief. One participant participants in this subsample reported the use of opioids
+did not respond. Most participants in the subsample (mean relief=5.81; SD=2.11), 15 of cannabis (mean ÁSIM
+
+
+made alternate use of microdoses and full doses (n = 37; relief=6.67; SD=1.95), 11 of OTC/NSAIDs (mean surfug
+
+78.7%) as opposed to microdoses (n=
+6; 12.8%) and full relief=4.91; SD=2.26) and 10 of other medications
+doses (n= 3; 6.4%). (mean relief=5.30; SD=2.18). The latter category UO AreIqry]
+
+A significant effect of treatment (F,(2)=13.16, included anticonvulsants (n=5), ketamine (n=2),
+p<0.005) with a small effect size (W=0.13) was found. tricyclic antidepressants (n=1) and SNRIs (n=1). One
+[9ZOZ/L0/L0]
+Pairwise comparisons were conducted including data participant did not specify. Thirteen participants did not
+from participants who completed at least two of the three respond. No significant differences in relief between 4) 29S
+
+
+relief measures (i.e. relief from conventional medica- conventional treatments were found (H(3)=5.795, SUID],
+
+tion, microdosing and full doses) via a Wilcoxon signed p=0.122, n*=0.046). PUR
+
+
+ranks test (Figure 3a) with a Bonferroni-adjusted a level.
+Results showed a significantly greater relief from full SUOTIPUOD
+
+
+doses (M=7.97) compared to conventional medication 3.6.3 | Pain relief with psychedelics
+(M=5.23; p<0.001)—and also revealed a significant compared to conventional medication
+difference in relief obtained with full doses compared
+Areigijounuo/ :sdyy)
+to microdoses (M=6.93; p<0.01) and with microdoses Psilocybin was the most used psychedelic in this sub-
+Á9[IM"
+compared with conventional medication (p<0.01) sample (n= 34), followed by LSD (n=20), DMT (n=4),
+(Figure 3d). Considering this subsample, 66.7% (n=12) other (n=4), ayahuasca (n=1) and mescaline (n=1). In
+of patients reported making use of psychedelics with the other category, four participants indicated the folthe intention of reducing pain. In terms of benefit dura- lowing substances: LSD and psilocybin (n=2), LSD and
+tion for full doses, 22.2% (n=4) reported a benefit on the mescaline (n= 1), and psilocybin and cannabis oil (n= 1;
+dosing day only, 11.1% (n=2) also on the following day, Figure 2e). One participant flagged the other category UO (SUONIPUO9-pue-sul1]/woI
+
+
+33.3% (n=6) on the following 2-3 days and 33.3% (n=6) but indicated compounds that are not considered classi- ÁSTIM
+
+reported benefits beyond the third day. In terms of bene- cal psychedelics (MDMA and ketamine) in the free-text
+OUT[UGC
+fit duration for low doses, 27.8% (n=5) reported a benefit field, so this response was therefore excluded from subon the dosing day only, 27.8% (n=5) also on the follow- sequent analyses investigating relief. One participant
+103 Areiqr
+ing day, 27.8% (n=5) on the following 2-3 days and 16.7% did not respond. Most participants in the subsample
+(n=3) reported benefits beyond the third day. Pearson made alternate use of microdoses and full doses (n= 49; jo sa¡n1
+
+
+correlation analyses revealed no significant association 75.4%) as opposed to just microdoses (n= 10; 15.4%) and “9sn
+
+YO
+between relief and mood change scores for full doses full doses (n=6; 9.2%). While there were differences
+(r=0.105; p=0.677) and microdoses (r= 0.467, p=0.051). in the mean degree of relief obtained with full doses sopoI e
+
+
+(M=8.05), microdoses (M=7.05) and conventional
+ore
+
+
+medication (M=7), analyses did not reveal a significant
+
+ay} Aq PoU12A03
+3.6 | Sciatica main effect of Treatment Type on the degree of relief
+(F.(2)=5.4, p=0.067). Considering this subsample,
+3.6.1 | Demographics 42.9% (n=9) of patients reported making use of psych-
+o[qQvordde
+edelics with the intention of reducing pain. In terms of
+Of the 170 participants, 65 (26%; 36 females, 26 males, 3 benefit duration for full doses, 33.3% (n=7) reported a DARIO
+
+
+preferred not to say) participants reported suffering from benefit on the dosing day only, 9.5% (n=2) also on the
+SUOWWOJ
+
+
+9SUSIV]
+
+[PAGE 010]
+
+CAVARRA ET AL.
+
+“6IZZEST
+
+
+following day, 23.8% (n=5) on the following 2-3 days after psychedelic use (Glynos et al., 2022). This is the first ‘| "7707
+
+
+and 33.3% (n=7) reported benefits beyond the third day. study to report a perceived analgesic effect of psycheIn terms of benefit duration for low doses, 38.1% (n=8) delics on arthritis pain, although their potential value in
+papeoyumo(
+reported a benefit on the dosing day only, 33.3% (n=7) treating autoimmune diseases has already been proposed wo
+
+also on the following day, 9.5% (n=2) on the follow- (Flanagan & Nichols, 2018). According to survey particing 2-3days and 19% (n=4) reported benefits beyond ipants suffering from FM and arthritis, full doses led to
+the third day. Pearson correlation analyses revealed no greater improvements compared to the other conventional
+significant association between relief and mood change treatments and microdoses, which suggests that this use Arerqiour[uo//:sdyy
+
+
+scores for full doses (r= 0.352; p =0.117) and microdoses type may have therapeutic value. This may be especially Aayim
+
+
+(r=—0.039, p=0.867). true if considering that full doses are usually taken spo-
+radically in contrast to most conventional abortive pain 01/1OP/WOI
+
+
+medications such as NSAIDs or opioids and that several
+3.7 | Expectations
+“TL 17 A(3S/Z001
+respondents reported a benefit duration that extended be-
+yond the day of administration of both full doses and miComparisons between individuals who intentionally crodoses. In other words, psychedelics may be useful both ÁSIM
+
+
+took psychedelics to self-treat CP and those who did not to treat pain acutely and to use as a prophylactic agent surfug
+
+report such intention across conditions resulted in a non- as observed in migraine patients (Schindler et al., 2021).
+significant difference in both participants making use of Still, in order to conclude that they have a preventive ef- UO AreIqry]
+
+microdoses (U=882; z=-—0.98, p=0.328) and full doses fect on paroxysmal pain disorders, future research should
+(U=1455; z=—0.98; p=0.325). compare the pain baseline episode frequency with the
+[9ZOZ/L0/L0]
+post-treatment frequency (e.g. number of pain days per
+month). Furthermore, current treatment options often 4) 29S
+
+
+4 | DISCUSSION carry unwanted side effects that range from gastrointes- SUID],
+
+tinal ulcers and higher risk of cardiovascular diseases PUR
+
+
+The aim of the present study was to investigate the per- caused by NSAIDs (Edinoff et al., 2022) to addiction, hyceived analgesic effects that psychedelics may have on peralgesia, constipation, dizziness, drowsiness, fatigue, SUOTIPUOD
+
+
+selected CP conditions—namely FM, arthritis, migraine, hot flushes, diaphoresis, nausea, vomiting and pruritus
+TTH and sciatica—when used in naturalistic settings. caused by opioids (Edinoff et al., 2022).
+This is the first study to investigate the effect of the use Interestingly, participants also reported that microdos-
+Areigijounuo/ :sdyy)
+of both psychedelic microdoses and full doses in specific ing was as effective as (FM, and arthritis) or more effec-
+Á9[IM"
+pain conditions and to compare their effects with those tive (migraine and TTH) than conventional treatments.
+of conventional medications. Findings demonstrated re- It is unclear whether this effect is achieved through a
+duced self-rated pain scores when self-administering common biological (e.g. the anti-inflammatory action,
+psychedelics compared to conventional pharmacological increased neuroplasticity (Castellanos et al., 2020; de Vos
+pain treatments. This was true for all selected pain condi- et al., 2021) causal pathway. Earlier research found that
+tions except for those suffering from sciatica. mood (Griffiths et al., 2016) and expectation (Kirsch, 2018) UO (SUONIPUO9-pue-sul1]/woI
+
+
+Participants suffering from migraine seemed to get may play a role in determining the perceived intensity of ÁSTIM
+
+better relief from microdosing compared to conventional pain. This relationship was not observed in the present
+OUT[UGC
+medication and better relief from full doses compared to study, suggesting that the perceived analgesic effects of
+microdoses. This finding is consistent with an exploratory psychedelics may not be entirely explained by psycholog-
+103 Areiqr
+controlled study which suggested that psilocybin may be ical factors. There may still be other psychological factors
+able to reduce migraine frequency even at sub or mildly that mediate or moderate the relationship (e.g. psycholog- jo sa¡n1
+
+
+hallucinogenic doses (Andersson et al., 2017; Schindler ical flexibility and personality profile). “9sn
+
+YO
+et al., 2021). The same response pattern was observed in Future research should aim at replicating such findparticipants with TTH. ings in a controlled setting and at disentangling the pos- sopoI e
+
+
+Participants suffering from FM and arthritis reported sible causal factors involved while considering the safety,
+ore
+
+
+that full doses led to better relief than both microdoses effects of dose, type of psychedelic, frequency of admin-
+
+ay} Aq PoU12A03
+and conventional medication while no significant differ- istration and potency. Furthermore, new research should
+ence was observed between microdoses and conventional investigate each condition separately and disentangle
+medication. No controlled study has yet investigated the the acute analgesic effects from the preventive effects.
+o[qQvordde
+effect of psychedelics on FM, but the present results are Another interesting way to further the understanding of
+in line with another survey study that found that among the potential effects of serotonergic psychedelics would DARIO
+
+
+12 FM sufferers, 11 reported improvement in symptoms entail to test different conditions that however share the
+SUOWWOJ
+
+
+9SUSIV]
+
+[PAGE 011]
+
+CAVARRA ET AL.
+
+“6PIZZESIT
+
+
+same causal pathways (e.g. nociplastic pain) regardless of psychedelics may have in this area, controlled studies are ‘| "7707
+
+
+the location of pain itself. While the search for better av- needed. Second, while there is consensus around the hyenues to manage CP should still aim at producing greater pothesis that set and setting are important determinants of
+papeoyumo(
+and more stable degrees of relief (Finnerup et al., 2015), the outcomes of psychedelic use (Kettner et al., 2021), the vo
+
+results of the current survey suggest that patients may be survey did not inquire about the context of the adminisable to achieve comparable levels of efficacy through sub- tration nor other potentially relevant individual variables
+stances that carry a potentially better side-effect profile (e.g. personality traits) that may have served as mediators
+(Kuypers, 2020). of the effects. Third, not all pain complaints had the same Arerqiour[uo//:sdy y
+
+
+The effect of psychedelics on pain related to sciatica degree of homogeneity within the same category. As an 91M
+
+
+was Statistically non-significant. This result may indi- example, this survey did not differentiate between differcate that these substances hold promise only for certain ent forms of arthritis (e.g. osteoarthritis vs. rheumatoid ar- O1/10p/uO0
+
+
+kinds of pain conditions, presumably those in which thritis) that have different etiopathogeneses. Fourth, the
+A(3S/Z001
+the inflammatory and/or psychosomatic components survey did not inquire about doses or dosing schedules in
+TLIZ
+play a more prominent role. Also, sciatica is caused by a the case of microdosing, which may limit the generalizwell-understood structural pathology and, as may be the ability of the results. On the other hand, most psychedelic ASTI
+
+
+case with psychedelic-assisted psychotherapy (Cavarra users in naturalistic settings are usually unaware of the surfug
+
+et al., 2022), the greater benefit may be achieved by pair- dose they are taking, therefore subjective effects were
+ing psychedelics with already established treatments preferred as indicators of the dose range. Fifth, the study UO AreIqry]
+
+(e.g. physical therapy). Further research is needed to does not allow to properly distinguish the effects of psychbetter understand the mechanisms that may account for edelics on paroxysmal pain from those of persisting pain,
+[9ZOZ/L0/L0]
+pain relief. two categories of conditions that require different clinical
+In line with Bonnelle et al., 2022, no association be- management. Also, relevant especially for migraine and 4) 29S
+
+
+tween measures of mood and pain relief in both mi- TTH, a measure of the frequency of attacks in the attacks SUID],
+
+crodoses and full doses was found suggesting that the per week or per month timescale was not included. Sixth, PUR
+
+
+perceived analgesic effect of psychedelics may be sup- medications were not presented in separate lists based
+ported by different mechanisms. on them being abortives or preventives, so this may not SUONIPUOJ)
+
+
+The present results are in line with what was suggested appropriately capture the effects of preventives like anby early research in the field (Fanciullacci et al., 1977; tidepressants that are not supposed to bring acute relief
+Grof et al., 1973; Kast, 1967; Kast & Collins, 1963), recent in case of a pain episode. Seventh, albeit participants had
+Areigijounuo/ :sdyy)
+experimental studies on healthy volunteers (Ramaekers the opportunity to enter conventional medications other
+Á9[IM"
+et al., 2021), survey studies focussing on headache dis- than those listed, gabapentinoids were not included in the
+orders (Schindler et al., 2015, 2021), recent reviews medications list. Considering that they are the first-line
+(Castellanos et al., 2020; Elman et al., 2022) and they treatment for sciatica prevention, analyses may not have
+expand on previous reports suggesting that psychedel- been able to capture the comparison of obtained relief beics administered in full doses and microdoses may have tween such drug categories and psychedelics. Finally, the
+the potential to help in the management of CP (Bonnelle sample size for each condition was limited. UO (SUOHIPUOI-PUB-SULIO)/LIOI
+
+
+et al., 2022). ÁSTIM
+
+
+6 | CONCLUSIONS
+SUNUO
+
+
+5 | LIMITATIONS
+103 Areiqr
+In conclusion, the present study suggests that psychThe current study suffers from several limitations. First edelics may hold value in the treatment of certain CP jo sa¡n1
+
+
+of all, this is a naturalistic survey study and as such it pro- conditions. More specifically, participants reported that “9sn
+
+YO
+vides purely retrospective self-ratings from a self-selected full doses seem to achieve better perceived results in pain
+sample of individuals who self-administer psychedelics. relief than microdosing while microdosing's effectiveness soponIe
+
+
+This design carries the risk of obtaining biased data and seems comparable to that of conventional medication ac-
+ore
+
+
+the generalizability of the produced results is only limited. cording to survey participants. Future research should
+
+ay} Aq PoU12A03
+It provides limited information to disentangle the role that focus on building clinical studies that would allow for
+different mechanisms play to achieve these perceived an- controlling doses, dosing schedules and the monitoring
+algesic effects. While subjective reports on pain relief are of both biological and psychological measures to paint a
+ayqeor]dde
+still a valuable source of information given the nature of clearer picture of the causal mechanisms that may lead to
+pain itself, in order to draw conclusions on the effects that analgesic effects. DARIO
+
+
+SUOWWOJ
+
+
+9SUSIV]
+
+[PAGE 012]
+
+CAVARRA ET AL.
+
+“6IZZEST
+
+
+Adverse events associated with medium-and long-term use of
+AUTHOR CONTRIBUTIONS ‘| "7707
+opioids for chronic non-cancer pain: An overview of Cochrane
+AF initiated the study. NLM and VB designed the survey reviews. Cochrane Database of Systematic Reviews, 10, 1-16.
+with input from KPCK and JGR. VB, WJS and MC carried Fanciullacci, M., Bene, E. D., Franchi, G., & Sicuteri, F. (1977). papeoyumo(
+out data analyses. MC wrote the first draft and all authors Phantom limb pain: Sub-hallucinogenic treatment with lyser-
+wo
+
+discussed the results and commented on the manuscript. gic acid diethylamide (LSD-25). Headache: The Journal of Head
+and Face Pain, 17(3), 118-119.
+Finnerup, N. B., Attal, N., Haroutounian, S., McNicol, E., Baron, R.,
+ORCID
+Dworkin, R. H., Gilron, I., Haanpáá, M., Hansson, P., Jensen,
+Mauro Cavarra ® https://orcid.org/0000-0002-5216-3157 Arerqiour[uo//:sdy y
+T. S., Kamerman, P. R., Lund, K., Moore, A., Raja, S. N., Rice,
+Aayim
+A. S. C., Rowbotham, M., Sena, E., Siddall, P., Smith, B. H., &
+REFERENCES Wallace, M. (2015). Pharmacotherapy for neuropathic pain
+Andersson, M., Persson, M., & Kjellgren, A. (2017). Psychoactive sub- in adults: A systematic review and meta-analysis. The Lancet 01 /1OP/WOI
+
+stances as a last resort—A qualitative study of self-treatment of Neurology, 14(2), 162-173.
+migraine and cluster headaches. Harm Reduction Journal, 14, Flanagan, T. W., & Nichols, C. D. (2018). Psychedelics as anti-
+“TL 17 A(3S/Z001
+1-10. inflammatory agents. International Review of Psychiatry, 30(4),
+Bonnelle, V., Smith, W. J., Mason, N. L., Cavarra, M., Kryskow, 363-375.
+ÁSIM
+P., Kuypers, K. P., Ramaekers, J. G., & Feilding, A. (2022). Glynos, N. G., Pierce, J., Davis, A. K., McAfee, J., & Boehnke, K.
+Analgesic potential of macrodoses and microdoses of classical F. (2022). Knowledge, perceptions, and use of psychedelics
+surfug
+
+psychedelics in chronic pain sufferers: A population survey. among individuals with fibromyalgia. Journal of Psychoactive
+British Journal of Pain, 16(6), 619-631. UO AreIqry]
+Drugs, 55, 1-12.
+Burke, A. L., Mathias, J. L., & Denson, L. A. (2015). Psychological Goldberg, D. S., & McGee, S. J. (2011). Pain as a global public health
+functioning of people living with chronic pain: A meta- priority. BMC Public Health, 11(1), 1-5.
+analytic review. British Journal of Clinical Psychology, 54(3), Griffiths, R. R., Johnson, M. W., Carducci, M. A., Umbricht, A.,
+[9ZOZ/L0/L0]
+
+
+4) 29S
+345-360. Richards, W. A., Richards, B. D., Cosimano, M. P., & Klinedinst,
+Castellanos, J. P., Woolley, C., Bruno, K. A., Zeidan, F., Halberstadt, M. A. (2016). Psilocybin produces substantial and sustained
+A., & Furnish, T. (2020). Chronic pain and psychedelics: A re- decreases in depression and anxiety in patients with life-
+SUID],
+
+PUR
+view and proposed mechanism of action. Regional Anesthesia & threatening cancer: A randomized double-blind trial. Journal
+Pain Medicine, 45(7), 486-494. of Psychopharmacology, 30(12), 1181-1197.
+Cavarra, M., Falzone, A., Ramaekers, J. G., Kuypers, K. P., & Mento, Grof, S., Goodman, L. E., Richards, W. A., & Kurland, A. A. (1973). SUOTIPUOD
+
+C. (2022). Psychedelic-assisted psychotherapy—A systematic LSD-assisted psychotherapy in patients with terminal cancer.
+review of associated psychological interventions. Frontiers in International Pharmacopsychiatry, 8(3), 129-144. https://doi.
+Psychology, 2996, 1-21. org/10.1159/000467984
+Cohen, S. P., Vase, L., & Hooten, W. M. (2021). Chronic pain: An up- Hall, A. M., Kamper, S. J., Maher, C. G., Latimer, J., Ferreira, M. L., Areigijounuo/ :sdyy)
+
+date on burden, best practices, and new advances. The Lancet, & Nicholas, M. K. (2011). Symptoms of depression and stress Á9[IM"
+
+397(10289), 2082-2097. mediate the effect of pain on disability. Pain, 152(5), 1044-1051.
+Coussens, N. P., Sittampalam, G. S., Jonson, S. G., Hall, M. D., Gorby, Hann, K. E., & McCracken, L. M. (2014). A systematic review of
+H. E., Tamiz, A. P., McManus, O. B., Felder, C. C., & Rasmussen, randomized controlled trials of acceptance and commitment
+K. (2019). The opioid crisis and the future of addiction and therapy for adults with chronic pain: Outcome domains, design
+pain therapeutics. Journal of Pharmacology and Experimental quality, and efficacy. Journal of Contextual Behavioral Science,
+
+UO (SUONIPUO9-pue-sul1]/woI
+Therapeutics, 371(2), 396-408. 3(4), 217-227.
+De Vos, C. M., Mason, N. L., & Kuypers, K. P. (2021). Psychedelics Hauser, W., Petzke, F., & Fitzcharles, M. A. (2018). Efficacy, tolera-
+ÁSTIM
+and neuroplasticity: A systematic review unraveling the biolog- bility and safety of cannabis-based medicines for chronic pain
+ical underpinnings of psychedelics. Frontiers in Psychiatry, 12, management-an overview of systematic reviews. European OUT[UGC
+
+724606. Journal of Pain, 22(3), 455-470.
+
+103 Areiqr
+Duefias, M., Ojeda, B., Salazar, A., Mico, J. A., & Failde, I. (2016). A Hoffman, B. M., Papas, R. K., Chatkoff, D. K., & Kerns, R. D. (2007).
+review of chronic pain impact on patients, their social environ- Meta-analysis of psychological interventions for chronic low
+ment and the health care system. Journal of Pain Research, 9, back pain. Health Psychology, 26(1), 1-9. jo sa¡n1
+
+457-467. Johannes, C. B., Le, T. K., Zhou, X., Johnston, J. A., & Dworkin, R. H. “9sn
+
+Edinoff, A. N., Fort, J. M., Singh, C., Wagner, S. E., Rodriguez, J. R., (2010). The prevalence of chronic pain in United States adults:
+YO
+
+
+Johnson, C. A., Cornett, E. M., Murnane, K. S., Kaye, A. M., & Results of an internet-based survey. The Journal of Pain, 11(11), sopoI e
+Kaye, A. D. (2022). Alternative options for complex, recurrent 1230-1239. ore
+
+pain states using cannabinoids, psilocybin, and ketamine: A Kast, E. (1967). Attenuation of anticipation: A therapeutic use
+narrative review of clinical evidence. Neurology International, of lysergic acid diethylamide. Psychiatric Quarterly, 41(4),
+14(2), 423-436. 646-657. ay} Aq PoU12A03
+
+Elman, I., Pustilnik, A., & Borsook, D. (2022). Beating pain with Kast, E. C., & Collins, V. J. (1963). Study of lysergic acid diethylamide
+psychedelics: Matter over mind? Neuroscience & Biobehavioral as an analgesic agent. Anesthesia and Analgesia, 43(3), 285-291.
+o[qQvordde
+Reviews, 134, 104482. Kettner, H., Rosas, F. E., Timmermann, C., Kärtner, L., CarhartEls, C., Jackson, T. D., Kunyk, D., Lappi, V. G., Sonnenberg, B., Harris, R. L., & Roseman, L. (2021). Psychedelic communitas: DARIO
+Hagtvedt, R., Sharma, S., Kolahdooz, F., & Straube, S. (2017). Intersubjective experience during psychedelic group sessions
+
+SUOWWOJ
+
+
+9SUSIV]
+
+[PAGE 013]
+
+CAVARRA ET AL.
+
+“6IZZESI
+
+
+predicts enduring changes in psychological wellbeing and so- Soussan, C., & Kjellgren, A. (2016). The users of novel psychoactive
+‘I “707
+cial connectedness. Frontiers in Pharmacology, 234, 234-254. substances: Online survey about their characteristics, attitudes
+Kirsch, I. (2018). Response expectancy and the placebo effect. and motivations. International Journal of Drug Policy, 32, 77-84.
+International Review of Neurobiology, 138, 81-93. Voon, P., Karamouzian, M., & Kerr, T. (2017). Chronic pain and opi- popeojumog
+
+Kuypers, K. P. (2020). The therapeutic potential of microdos- oid misuse: A review of reviews. Substance Abuse Treatment, wo
+ing psychedelics in depression. Therapeutic Advances in Prevention, and Policy, 12(1), 36. https://doi.org/10.1186/s1301
+Psychopharmacology, 10, 1-15. 1-017-0120-7
+
+Kuypers, K. P., Ng, L., Erritzoe, D., Knudsen, G. M., Nichols, C. D., Williams, A. C. D. C., Fisher, E., Hearn, L., & Eccleston, C. (2020).
+Nichols, D. E., Pani, L., Soula, A., & Nutt, D. (2019). Microdosing Psychological therapies for the management of chronic
+Areigijouruo/ ;sdy
+psychedelics: More questions than answers? An overview and pain (excluding headache) in adults (review). Cochrane
+Agim
+suggestions for future research. Journal of Psychopharmacology, Database of Systematic Reviews, 11(11), CD007407. https://doi.
+33(9), 1039-1057. org/10.1002/14651858.CD007407.pub4
+Nijs, J., Malfliet, A., Ickmans, K., Baert, I., & Meeus, M. (2014). Yekkirala, A. S., Roberson, D. P., Bean, B. P., & Woolf, C. J. (2017). OL /lop/mos
+
+
+Treatment of central sensitization in patients with ‘unexplained’ Breaking barriers to novel analgesic drug development. Nature
+Reviews Drug Discovery, 16(8), 545-564.
+“TL 17 A(3/Z001
+chronic pain: An update. Expert Opinion on Pharmacotherapy,
+15(12), 1671-1683. https://doi.org/10.1517/14656566.2014.925446 Zia, F. Z., Baumann, M. H., Belouin, S. J., Dworkin, R. H., Ghauri,
+Okusanya, B. O., Lott, B. E., Ehiri, J., McClelland, J., & Rosales, M. H., Hendricks, P. S., Henningfield, J. E., Lanier, R. K., Ross, AZTIM
+C. (2022). Medical cannabis for the treatment of migraine in S., & Berger, A. (2023). Are psychedelic medicines the reset
+adults: A review of the evidence. Frontiers in Neurology, 13, 1-7. for chronic pain? Preliminary Findings and Research Needs.
+surfug
+
+
+Ramaekers, J. G., Hutten, N., Mason, N. L., Dolder, P., Theunissen, E. Neuropharmacology, 233, 109528. https://doi.org/10.1016/j.
+UO Areıqr
+L., Liechti, M. E., Feilding, A., Holze, F., & Kuypers, K. P. (2021). neuropharm.2023.109528
+A low dose of lysergic acid diethylamide decreases pain per-
+ception in healthy volunteers. Journal of Psychopharmacology,
+[9Z0Z/LO/LO]
+35(4), 398-405. SUPPORTING INFORMATION
+
+L 941 29S
+Reiff, C. M., Richman, E. E., Nemeroff, C. B., Carpenter, L. L., Widge,
+Additional supporting information can be found online
+A. S., Rodriguez, C. I., Kalin, N. H., McDonald, W. M., & the
+in the Supporting Information section at the end of this
+Work Group on Biomarkers and Novel Treatments, a Division
+sus
+
+article. pue
+of the American Psychiatric Association Council of Research.
+(2020). Psychedelics and psychedelic-assisted psychotherapy.
+American Journal of Psychiatry, 177(5), 391-410. SUOTIPUOD
+
+
+Schindler, E. A., Gottschalk, C. H., Weil, M. J., Shapiro, R. E., Wright,
+How to cite this article: Cavarra, M., Mason, N. L.,
+D. A., & Sewell, R. A. (2015). Indoleamine hallucinogens in
+cluster headache: Results of the clusterbusters medication use
+Kuypers, K. P. C., Bonnelle, V., Smith, W. J., Feilding,
+
+survey. Journal of Psychoactive Drugs, 47(5), 372-381. A., Kryskow, P., & Ramaekers, J. G. (2024). Potential AIBIQIOUI[UO/ :sdyY)
+
+Schindler, E. A. D., Sewell, R. A., Gottschalk, C. H., Luddy, C., Flynn, analgesic effects of psychedelics on select chronic AdTIM
+
+L. T., Lindsey, H., Pittman, B. P., Cozzi, N. V., & D'Souza, D. C. pain conditions: A survey study. European Journal of
+(2021). Exploratory controlled study of the migraine-suppressing Pain, 28, 153-165. https://doi.org/10.1002/ejp.2171
+effects of psilocybin. Neurotherapeutics, 18(1), 534-543.
+Sewell, R. A., Halpern, J. H., & Pope, H. G. (2006). Response of cluster
+headache to psilocybin and LSD. Neurology, 66(12), 1920-1922.
+(SUOHIPUOI-PUB-SULIA)/LIOI
+UO
+
+
+ÁSTIM
+
+
+OUTTUGC
+
+
+107 Areiqr
+
+
+jo sa]n1
+
+“9sn
+
+yO
+
+
+sopoIe
+ose
+
+
+ay} Aq PouU12A03
+
+
+a1qeor]dde
+
+
+JANLOIZ
+
+
+SUOWWOJ
+
+
+OSUIOTT

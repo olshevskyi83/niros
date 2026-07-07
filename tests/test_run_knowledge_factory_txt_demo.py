@@ -167,8 +167,9 @@ def test_process_all_groups_usable_segments_into_deterministic_batches() -> None
         "source_maria_sabina_chants_batch_002",
     ]
     assert "source_maria_sabina_chants_segment_003" in groups[0].batch_segment.notes
-    assert groups[0].batch_segment.raw_text.count("\n\n---\n\n") == 0
-    assert groups[1].batch_segment.raw_text.count("\n\n---\n\n") == 1
+    assert "source_maria_sabina_chants_segment_004" in groups[0].batch_segment.notes
+    assert groups[0].batch_segment.raw_text.count("\n\n---\n\n") == 1
+    assert groups[1].batch_segment.raw_text.count("\n\n---\n\n") == 0
 
     second_run = group_segments_into_batches(
         _batch_corpus().segments,

@@ -9,6 +9,7 @@ from niros.ui_human_readable import LANG_EN, LANG_ES, LANG_UK, normalize_languag
 
 WORKSTATION_MODE_GUIDED = "guided_assessment"
 WORKSTATION_MODE_QUICK_DEMO = "quick_demo"
+WORKSTATION_MODE_KNOWLEDGE_FACTORY = "knowledge_factory"
 
 INPUT_MODE_GUIDED = "guided_assessment"
 
@@ -144,6 +145,76 @@ WORKSTATION_UI: dict[str, dict[str, str]] = {
         LANG_EN: "Quick Demo",
         LANG_UK: "Швидке демо",
         LANG_ES: "Quick Demo",
+    },
+    "knowledge_factory": {
+        LANG_EN: "Knowledge Factory",
+        LANG_UK: "Knowledge Factory",
+        LANG_ES: "Knowledge Factory",
+    },
+    "kf_overview": {
+        LANG_EN: "Workspace overview",
+        LANG_UK: "Workspace overview",
+        LANG_ES: "Workspace overview",
+    },
+    "kf_txt_import": {
+        LANG_EN: "TXT import / extraction",
+        LANG_UK: "TXT import / extraction",
+        LANG_ES: "TXT import / extraction",
+    },
+    "kf_review_pending": {
+        LANG_EN: "Review pending",
+        LANG_UK: "Review pending",
+        LANG_ES: "Review pending",
+    },
+    "kf_import_segments": {
+        LANG_EN: "Import TXT / Show Segments",
+        LANG_UK: "Import TXT / Show Segments",
+        LANG_ES: "Import TXT / Show Segments",
+    },
+    "kf_run_extraction": {
+        LANG_EN: "Run OpenAI Extraction",
+        LANG_UK: "Run OpenAI Extraction",
+        LANG_ES: "Run OpenAI Extraction",
+    },
+    "kf_approve": {
+        LANG_EN: "Approve",
+        LANG_UK: "Approve",
+        LANG_ES: "Approve",
+    },
+    "kf_reject": {
+        LANG_EN: "Reject",
+        LANG_UK: "Reject",
+        LANG_ES: "Reject",
+    },
+    "kf_request_changes": {
+        LANG_EN: "Request Changes",
+        LANG_UK: "Request Changes",
+        LANG_ES: "Request Changes",
+    },
+    "kf_step_source": {
+        LANG_EN: "1. Source Import",
+        LANG_UK: "1. Source Import",
+        LANG_ES: "1. Source Import",
+    },
+    "kf_step_extraction": {
+        LANG_EN: "2. Extraction Results",
+        LANG_UK: "2. Extraction Results",
+        LANG_ES: "2. Extraction Results",
+    },
+    "kf_step_review": {
+        LANG_EN: "3. Human Review",
+        LANG_UK: "3. Human Review",
+        LANG_ES: "3. Human Review",
+    },
+    "kf_step_ctpc": {
+        LANG_EN: "4. CTPC Status",
+        LANG_UK: "4. CTPC Status",
+        LANG_ES: "4. CTPC Status",
+    },
+    "kf_approve_compile": {
+        LANG_EN: "Approve and compile to CTPC",
+        LANG_UK: "Approve and compile to CTPC",
+        LANG_ES: "Approve and compile to CTPC",
     },
     "demo_warning": {
         LANG_EN: (

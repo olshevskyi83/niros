@@ -1,0 +1,932 @@
+[PAGE 001]
+
+JOURNAL OF Taylor & Francis
+PSYCHOACTIVE DRUGS Taylor
+
+
+Best: | Journal of Psychoactive Drugs
+
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/ujpd20
+
+
+Shame, Guilt and Psychedelic Experience: Results
+from a Prospective, Longitudinal Survey of Real-World
+Psilocybin Use
+
+
+David S. Mathai, Daniel E. Roberts, Sandeep M. Nayak, Nathan D. Sepeda,
+Amy Lehrner, Matthew W. Johnson, Matthew X. Lowe, Heather Jackson &
+Albert Garcia-Romeu
+
+
+To cite this article: David S. Mathai, Daniel E. Roberts, Sandeep M. Nayak, Nathan D. Sepeda,
+Amy Lehrner, Matthew W.Johnson, Matthew X. Lowe, Heather Jackson & Albert Garcia-
+Romeu (07 Feb 2025): Shame, Guilt and Psychedelic Experience: Results from a Prospective,
+Longitudinal Survey of Real-World Psilocybin Use, Journal of Psychoactive Drugs, DOI:
+10.1080/02791072.2025.2461997
+
+To link to this article: https://doi.org/10.1080/02791072.2025.2461997
+
+
+En Published online: 07 Feb 2025.
+
+
+(9 Submit your article to this journal Y
+SY
+
+
+a View related articles 4
+h
+
+
+® View Crossmark data Z'
+CrossMark
+
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journallnformation?journalCode=ujpd20
+
+[PAGE 002]
+
+JOURNAL OF PSYCHOACTIVE DRUGS (5) Taylor & Francis
+https://doi.org/10.1080/02791072.2025.2461997 Taylor & Francis Group
+
+| ® Check for updates |
+
+
+Shame, Guilt and Psychedelic Experience: Results from a Prospective,
+Longitudinal Survey of Real-World Psilocybin Use
+David S. Mathai MD@?°*, Daniel E. Roberts MD, MSW“, Sandeep M. Nayak MD*, Nathan D. Sepeda BS**,
+Amy Lehrner PhD®, Matthew W. Johnson PhD", Matthew X. Lowe PhD), Heather Jackson AA), and Albert GarciaRomeu PhD*
+
+“Ethical Legal Implications of Psychedelics in Society Program, Center for Medical Ethics and Health Policy, Baylor College of Medicine,
+Houston, TX, USA; "Department of Psychiatry and Behavioral Sciences, Baylor College of Medicine, Houston, TX, USA; “Sattva Medicine,
+Psychiatry, Psychotherapy, and Consulting Practice, Miami, FL, USA; “Center for Psychedelic Medicine, Department of Psychiatry, New York
+University Grossman School of Medicine, New York, NY, USA; “Center for Psychedelic and Consciousness Research, Department of Psychiatry
+and Behavioral Sciences, The Johns Hopkins University School of Medicine, Baltimore, MD, USA; ‘Center for Psychedelic Drug Research and
+Education, College of Social Work, The Ohio State University, Columbus, OH, USA; “Center for Psychedelic Psychotherapy and Trauma
+Research, Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY, USA; "Department of Psychiatry and Behavioral
+Sciences, The Johns Hopkins University School of Medicine, Baltimore, MD, USA; ¡Center of Excellence in Psilocybin Research and Treatment,
+Sheppard Pratt, Towson, MD, USA; JUnlimited Sciences, Colorado Springs, CO, USA
+
+
+ABSTRACT ARTICLE HISTORY
+The classic psychedelic psilocybin has attracted special interest across clinical and non-clinical Received 29 July 2024
+settings as a potential tool for mental health. Despite increasing attention to challenging psyche- Revised 18 November 2024
+delic experiences, few studies have explored the relevance of shame-related processes with Accepted 21 January 2025
+psychedelic use. This prospective, longitudinal study involved sequential, automated, web-based KEYWORDS
+surveys that collected data from 679 adults planning to use psilocybin in naturalistic settings at psychedelics; psilocybin;
+timepoints before and after psilocybin use. State and trait shame and feelings of guilt were shame; challenging
+collected using validated measures and assessed alongside other measurements of psychological experience; emotional
+health. Acute feelings of shame or guilt during psilocybin experiences were commonly reported breakthrough
+(68.2% of users) and difficult to predict. Ratings of participant ability to constructively work through
+these feelings predicted wellbeing 2-4 weeks after psilocybin use. Psilocybin on average produced
+a small but significant decrease in trait shame that was maintained 2-3 months after use (Cohen's
+dz = 0.37). Trait shame increased in a notable minority of participants (29.8%). The activation of self-
+conscious emotions with psychedelics deserves further attention as a challenging experience
+subcategory that may be relevant to psychological outcomes. Such experiences could pose
+a unique and context-dependent learning condition for both therapeutic and detrimental forms
+of shame-related memory reconsolidation.
+
+
+Introduction positive aspects of these journeys (Bremler et al. 2023),
+thereby limiting public understanding of psychedelic
+Classic psychedelics induce profound changes in affect,
+drug effects in their entirety.
+perception, and other subjective processes that indivi-
+A historical review of challenging psychedelic experiduals frequently interpret as meaningful experiences. It
+ences, sometimes referred to colloquially as “bad trips,”
+has been observed since the early era of psychedelic
+suggests that “good” and “bad” drug reactions became
+research in the 1950-1960s, and well before then in the
+increasingly dichotomized in the mid-1960s, shaped by
+ritualized contexts of indigenous cultures, that the sub-
+the American War on Drugs, its depiction of psychedejective quality of these drug journeys can range from
+lics as inherently destructive, and the regulatory agenda
+extremely positive (e.g., “peak”) to psychologically chal-
+of prohibition (Dyck and Elcock 2020). Contributing to
+lenging experiences marked by various forms of emo-
+this divide, certain advocates for psychedelic use protional distress (Johnstad 2021; Labate and Cavnar 2014).
+posed that negative drug experiences might be best
+The trajectory of a single psychedelic experience may also
+understood as a failure of “set and setting” — the largely
+be narratively intricate, during which periods of ease and
+modifiable context (e.g., motivations, physical/social
+struggle can both occur (Belser et al. 2017). However, environment) within which drug use occurred - rather
+modern cultural biases have focused largely on the than something inherent to the drug itself (Lee and
+
+
+CONTACT David S. Mathai © d.s.mathai@gmail.com © Sattva Medicine, Psychiatry, Psychotherapy, and Consulting Practice, 2121 Biscayne Blvd #1255,
+Miami, FL 33137, USA
+© 2025 Taylor & Francis Group, LLC
+
+[PAGE 003]
+
+2 (&) D.S.MATHAIET AL.
+
+
+Shlain 1992). Others focused on characterological vul- request support during psychedelic use, even when it is
+nerability, some even implying a hierarchy of those who available (Modlin et al. 2024).
+could or could not handle the psychedelic experience, as Though the terms are often used interchangeably,
+posed by Ken Kesey’s famous question, “Can you pass guilt is sometimes distinguished from shame as
+the acid test?” (Lucas 2005). a unique self-conscious emotion based upon different
+Such views can stigmatize individuals who have chal- psychological appraisals that can lead to different behalenging experiences with psychedelics, inhibit commu- viors (Candea and Szentagotai-Tatar 2018; Tangney,
+nication about difficult processes, and lead to isolation. Stuewig, and Mashek 2007). Despite this conceptual
+Also lost in these views are more nuanced possibilities: difference, these two states can occur together, and as
+for example, that the course of a drug experience may be such, many scholars have focused on studying both in
+unpredictable, that difficult affective states might be terms of their roles in psychological health.
+typical features of psychedelic use, and that even see- A distinction is also made in the psychological research
+mingly hellish journeys could be seen as constructive by literature between state-shame, which refers to acute,
+users (Gashi, Sandberg, and Pedersen 2021; Lake and context-specific experiences of shame, and trait-shame,
+Lucas 2023). which can be thought of as a more stable construct,
+Individuals may feel ashamed about difficult psy- related to one’s global sense of self and predisposition
+chedelic experiences because of societal pressures, but toward feeling shame. For an in-depth examination of
+it is also possible that psychedelics elicit feelings of these ideas, including theoretical models and synthesis
+shame more directly. One common experience with of the research literature, please see Candea and
+psychedelics involves challenging forms of self- Szentagotai-Tatar (2018).
+realization and the occurrence of painful emotions Of primary interest to the present study is the quanthat accompany this awareness (Johnstad 2021). titative examination of state-shame and guilt as challenFeelings like fear, grief, and isolation have been well ging features of the psychedelic experience that might
+characterized in these and other psychedelic narra- negatively predict well-being. However, there is also
+tives (Barrett et al. 2016; Johnstad 2021), but limited evidence to suggest that psychedelics could have
+research has examined the shame associated with psy- a therapeutic effect on shame (Healy, Lee, and
+chedelic use. D’ Andrea 2021; Lowe et al. 2024; Mehtani et al. 2024).
+In one mixed-methods analysis of 608 individuals Shame that is chronic and internalized may be especially
+reporting extended difficulties attributed to psychedelic representative of the entrenched “canalizations” of
+use, Evans et al. (2023) found that 58% of participants thought and behavior that can occur in response to
+reported struggling with their perception of themselves adversity or distress (Carhart-Harris et al. 2023). Such
+as a result of their drug experiences. In open-ended phenotypes are often resistant to revision, even in the
+narratives, feelings of shame and guilt (e.g., one partici- face of new evidence, but may be sensitive to the plaspant described shame about their identity and guilt ticity-related and belief-updating effects of psychedelic
+about past decisions after prior trauma resurfaced dur- interventions (Carhart-Harris et al. 2023; Mathai, Mora,
+ing psychedelic use) appeared unprompted in 7% of this and Garcia-Romeu 2022). As such, we also planned to
+sample population. These numbers are possibly conser- assess the overall sensitivity of trait-shame to psilocybin.
+vative estimates, given that shame-related feelings are This investigation was part of a larger longitudinal
+often underreported (Turner 2014). It also remains online survey study that was conducted to gather prounclear whether specific demographic or psychological spective data on naturalistic psilocybin use (Nayak et al.
+factors predict shame as a feature of psychedelic use, 2023). Our specific aims were to 1) characterize acute
+and if these experiences reliably influence long-term shame and guilt elicited during psilocybin use and
+outcomes. explore general predictors of these experiences, 2) assess
+Shame is conceptualized as a self-focused emotion acute shame and guilt during psilocybin use as potential
+and has been described as one of the most agonizing, predictors of long-term wellbeing, and 3) examine
+universal, and simultaneously ignored human emotions whether psilocybin use impacts trait shame over time.
+(Dorahy et al. 2017). Furthermore, while the experience
+of shame can promote healthy development, it has also
+been linked to numerous psychological problems and Methods
+harmful behaviors, especially when shame is chronic
+Participants
+and internalized (Lear et al. 2022; Rtisch et al. 2007).
+Feelings of shame can interfere with mental health treat- This study was approved by a Johns Hopkins Medicine
+ment (Viña 2024) and make it difficult for individuals to Institutional Review Board and enrolled English-
+
+[PAGE 004]
+
+JOURNAL OF PSYCHOACTIVE DRUGS (%) 3
+
+
+speaking adults (>18 years old) who were planning to assess the level of psychological surrender or preoccutake psilocybin outside of a clinical research setting. The pation before the session (Russ et al. 2019).
+general survey population and retention across timepoints have been detailed elsewhere (Nayak et al. 2023).
+Measurements 1-3 days after psilocybin use
+Participants completed the following Likert item
+Procedures about the experience: 1) Do you believe the experi-
+ence was ultimately negative or positive? (scored as
+Six sequential web-based surveys were hosted through
+1-7 Likert scale with 1=Extremely positive, 4=
+the Qualtrics XM secure online platform with auto-
+Neither positive nor negative, and 7 = Extremely
+mated reminders that were sent out periodically by
+negative). Participants also completed the 30-item
+e-mail. Recruitment advertisements were shared via
+Mystical Experience Questionnaire (MEQ; total
+online advertisements (e.g., websites such as www.
+scores scaled 0-5, with higher scores indicating
+drugs-forum.com., www.facebook.com., www.reddit.
+greater degree of mystical-type experience) (Barrett,
+com., www.maps.org., www.erowid.org) and word of
+Johnson, and Griffiths 2015), the 26-item Challenging
+mouth. Following an initial informed consent and
+Experience Questionnaire (CEQ; total scores scaled
+demographics survey, participants completed five sur-
+0-1, with higher scores indicating greater degree of
+veys with timing relative to the reference psilocybin
+challenging experience) (Barrett et al. 2016), and the
+experience: 2 weeks before, 1 day before, 1-3 days
+10-item State Shame and Guilt Scale measuring state
+after, 2-4 weeks after, and 2-3 months after. Responses
+shame and guilt (SSGS-Shame/SSGS-Guilt; each subwere collected from July 2020 to July 2022. Items speci-
+scale scored 5-25, with higher scores indicating
+fically related to shame and guilt were approved and
+greater experiences of shame and guilt, respectively)
+added when data collection was already underway, with
+(Held, Owens, and Anderson 2015; Marschall 1997).
+collection for these items starting in December 2020 and
+The SSGS prompt was adapted to ask individuals
+resulting in a smaller sample size than that reported for
+about these feelings specifically during psilocybin
+the primary analysis.
+use. Individuals who reported any experiences of
+shame or guilt during psilocybin use (i.e., SSGSMeasures assessed for this study Shame or SSGS-Guilt > 5) were prompted to respond
+to three additional items: 1) Approximately how long
+Baseline measurements (2 weeks prior to psilocybin
+did these feelings of shame or guilt last? (categorical
+use)
+choices), 2) How personally difficult or challenging
+Participants completed demographic information, the
+were these feelings? (scored as 1-5 Likert scale),
+8-item External and Internal Shame Scale assessing self-
+and 3) Did you find that you were able to work
+reported trait (general) shame (global EISS; scored 0-32,
+through these feelings during the session in
+with higher scores indicating greater trait shame)
+a constructive way? (scored as 1-5 Likert scale). To
+(Ferreira et al. 2022), the 20-item Short State-Trait
+facilitate the present analysis, the final two-item variAnxiety Inventory assessing state (current) and trait
+ables were classified as “shame/guilt difficulty” and
+anxiety (STAI-State/STAI-Trait; each subscale scored
+“shame/guilt processing.”
+10-40, with higher scores indicating greater anxiety)
+(Bergua et al. 2016; Spielberger, Gorsuch, and Lushene
+1970), a modified version of the 20-item Beck Measurements 2-4 weeks after psilocybin use
+Depression Inventory excluding an item on current (primary endpoint)
+suicidality due to lack of ability to respond adequately Participants completed the EISS, and the following
+to imminent risk (BDI-II) (Beck, Steer, and Brown Likert item assessing long-term changes to well-being
+1996), the revised 14-item Adverse Childhood : 1) Do you believe that psilocybin experience and your
+Experience (ACE) scale (Finkelhor et al. 2015), and the contemplation of that experience have led to long-term
+12-item Cognitive Flexibility Scale assessing self- and persisting changes in your current sense of personal
+reported ability to think and behave adaptively (CFS) well-being or life satisfaction? (scored as 1-7 Likert
+(Martin and Rubin 1995). scale). To facilitate the analysis, this Likert variable was
+classified as “wellbeing.”
+Measurements 1 day before psilocybin use
+Participants were asked whether a sitter/guide would be
+Measurements 2-3 months after psilocybin use
+present during psilocybin use and were also adminis-
+Participants completed the EISS again.
+tered the 10-item State of Surrender (SOS) scale to
+
+[PAGE 005]
+
+4 (&) D.S.MATHAIET AL.
+
+
+Analytic plan one-way ANOVA as implemented in GraphPad
+Prism was used for individuals with EISS scores at
+For Aim 1, characterizing the acute shame and guilt
+baseline (TO), 2-4 weeks after psilocybin use (T1),
+elicited by psilocybin use (Aim la) and general predic-
+and 2-3 months after psilocybin use (T2) (n=215 for
+tors of these experiences (Aim 1b), descriptive statistics
+this complete sample). Geisser-Greenhouse correcwere used along with two applied multivariable regres-
+tions were used as sphericity was not assumed, and
+sion models for all individuals with SSGS data (n = 679).
+the Tukey method was used for post-hoc testing of
+Purposeful assessment of bivariate relationships with
+significant comparisons.
+SSGS-Shame or SSGS-Guilt score, respectively, was conducted using least-squares regression and the following
+predictors separately: age, gender; race; education; mar-
+Results
+ital status; religious belief system; baseline EISS; STAIState; STAI-Trait; BDI-II; ACE; CFS; SOS before; and Characterizing experiences of shame/guilt with
+the presence of a sitter during psilocybin use (yes/no). psilocybin (Aim 1a)
+These demographic variables were selected to assess for
+Participant demographics and psilocybin use characterpotential confounders, along with measurements of psy-
+istics relevant to this study are summarized in Table 1.
+chological vulnerability and support during dosing
+Out of 679 participants with SSGS data, 463 individuals
+thought to overlap with trait shame and be relevant to
+(68.2%) reported either shame or guilt during psilocybin
+state shame or guilt with psilocybin. P-values for cate-
+use (i.e., SSGS-Shame or SSGS-Guilt >5), including 378
+gorical variables were calculated using reference values
+individuals reporting experiences of shame (55.7%) and
+based on the most frequent levels for each variable.
+P-values for categorical variables with more than two
+352 individuals reporting experiences of guilt (51.8%).
+For 80 participants (11.8%), a feeling related to shame or
+levels were calculated using the default GraphPad Prism
+guilt was rated at its maximal value. The mean duration
+ANOVA function, an omnibus test performed on the
+of these experiences fell between 10 and 60 minutes
+regression that allows for a single p-value despite multi-
+categorically (range: “<10 min” to “entire session”).
+ple levels. Per Hosmer, Lemeshow, and Sturdivant
+(2013), the final regression models for SSGS-Shame The SGSS had good internal consistency reliability of
+0.73 and 0.90 for the shame and guilt scales, respectively.
+and SSGS-Guilt included covariates with p-value <.2.
+Model results for individual regression parameters
+See Table 2 for SSGS individual item data.
+
+were reported as beta regression coefficients (ß) and
+p-values. Cronbach’s alpha (Cronbach 1951; Revelle
+and Zinbarg 2009) was used to test for internal consis- Predicting experiences of shame/guilt with
+tency reliability of the SSGS shame and guilt subscales. psilocybin (Aim 1b)
+Pearson’s correlation coefficients were conducted post-
+As a way of illustrating the relationships between trait
+hoc to illustrate the relationships between trait shame
+shame and baseline psychometric covariates, Pearson’s
+and other psychometric covariates (i.e., STAI-State,
+correlations indicated that trait shame was significantly
+STAI-Trait, BDI-II, ACE, and CFS), using the Sidák
+correlated with STAI-State (r = 0.56, adjusted p < .001),
+correction for five comparisons.
+STAI-Trait (r = 0.77, adjusted
+p < .001), BDI-II (r = 0.70,
+For Aim 2, assessing acute shame and guilt during
+adjusted
+p < .001), ACE (r= 0.31, adjusted
+p < .001), and
+psilocybin use as potential predictors of long-term well-
+CFS (r= -0.55, adjusted
+p < .001).
+being, multiple linear regression was used to measure
+The final regression for SSGS-Shame included the
+the relationship between wellbeing 2-4 weeks after psi-
+following covariates with p-value <.2: age, race, educalocybin use and the following covariates among indivi-
+tion, marital status, baseline EISS, STAI-State, STAIduals with SSGS data (n = 679): age, acute shame during
+Trait, BDI-II, ACE and CFS. In this model, only age
+psilocybin (SSGS-Shame), acute guilt during psilocybin
+(B = -0.04, p < .001) significantly predicted acute shame
+(SSGS-Guilt), shame/guilt difficulty, shame/guilt pro-
+experiences with psilocybin, wherein younger age precessing, CEQ, and MEQ. The inclusion of age in this
+dicted higher shame scores. The final regression for
+model was informed by findings for Aim 1 and selected
+SSGS-Guilt included the following covariates with
+to account for confounding, along with measurements
+p-value <.2: age, baseline EISS, STAI-State, STAI-Trait,
+of the acute psilocybin experience that were hypothe-
+BDI-II, ACE and CFS. As with shame, only age (ß =
+sized to be relevant to long-term wellbeing.
+0.05, p=.002) significantly predicted acute guilt
+For Aim 3, examining whether psilocybin use
+experiences with psilocybin, wherein younger age preimpacts trait shame over time, a repeated-measures
+dicted higher guilt scores.
+
+[PAGE 006]
+
+JOURNAL OF PSYCHOACTIVE DRUGS (%) 5
+
+
+Table 1. Summary of participant demographics and psilocybin
+use characteristics (n = 679).
+Participant demographics*
+
+Mean age (years, SD) 42.2 (12.6)
+White race (%) 86.2
+Male sex (%) 49.6
+College educated (%) 66.7
+Anxiety disorder, current (%) 35.3
+Mood disorder, current (%) 32.4
+Substance use disorder, current (%) 2.7
+Prior lifetime uses of psilocybin (n, SD) 15.2 (21.7)
+
+Motivation, setting, and type of psilocybin use
+
+Typical motivations for use (non-exclusive)*
+Self-exploration (%) 77.2
+Mental health (%) 71.7
+Therapy (%) 49,3
+
+Typical locations for use?
+Home (%) 69.7
+Outdoors in nature (%) 11.8
+
+Typical accompaniment during use?
+Alone (%) 44.2
+With friends who were also using (9%) 24.6
+With sitter, guide(s), or therapist (%) 21.9
+
+Typical psilocybin mushroom dose initiated during study period?
+Mean dose (grams, SD) 3.4 (6.0)
+
+“Assessed >2 weeks before planned psilocybin use.
+Assessed 1-3 days after psilocybin use.
+
+
+Table 2. State shame and guilt scale (SSGS) individual item data regarding psilocybin experience (n = 679).
+SHAME GUILT
+
+N endorsing (% Mean score if N endorsing (% Mean score if
+SSGS-S Item of total) endorsed SSGS-G Item of total) endorsed
+| felt small 300 (44.2%) 2.87 | felt tension about something | have done 255 (37.6%) 2.98
+| felt like | was a bad person 154 (22.7%) 2.72 | felt remorse, regret 215 (31.7%) 3.01
+| felt worthless, powerless 116 (17.1%) 2.78 | felt like apologizing, confessing 201 (29.6%) 3.14
+| wanted to sink into the floor 104 (15.3%) 2.89 | felt bad about something | have done 198 (29.2%) 2.8
+and disappear
+| felt humiliated, disgraced 78 (11.5%) 2.8 | could not stop thinking about something 116 (17.1%) 2.75
+bad | have done
+
+Individual item scale: 1 = Did not feel this way at all; 5 = Felt this way very strongly.
+For individuals with shame or guilt during psilocybin:
+SSGS-Shame subscale range = 6-25, mean = 8.6, SD = 3.1
+SSGS-Guilt subscale range = 6-25, mean = 10.5, SD = 4.8
+
+
+Relationship between experiences of shame/guilt had the highest scores for MEQ and wellbeing, even
+during psilocybin and wellbeing after 2 to 4 weeks compared to respondents without experiences of
+(Aim 2) shame or guilt during psilocybin use for both MEQ
+(t(415.9)= 10.0, p<.001) and wellbeing (t(443.6)
+Higher MEQ (PB =0.42, p<.001) and shame/guilt
+4.9, p<.001). See Table 3 for these values, which
+processing (ß=0.14, p=.02) during psilocybin
+are also illustrated in Figure 1.
+use — but not acute shame (ß=0.04, p=.15), acute
+guilt (8 =-0.02, p=.24), shame/guilt difficulty (P =
+0.03, p=.65), or CEQ (P=-0.26, p=.59) - signifi- Effect of psilocybin use on trait shame over time
+cantly predicted wellbeing 2-4 weeks later. Mean (Aim 3)
+scores for these and other psychometric data orga-
+For 215 participants with complete EISS data, the
+nized by shame/guilt during psilocybin use (+) and
+repeated measures one-way ANOVA demonstrated
+level of processing (1-5) are indicated in Table 3.
+a significant effect of psilocybin on trait shame [F
+Individuals who were able to work through experi-
+(1.96, 418.4)=18.18, p<.001]. Post-hoc testing
+ences of shame or guilt very constructively (Level 5)
+revealed a significant decrease in the EISS score
+
+[PAGE 007]
+
+6 (&) D.S. MATHAI ET AL.
+
+
+Table 3. Mean scores for shame/guilt sample (n = 679) organized by experience of shame or guilt during psilocybin use (+) and level
+of processing (1-5).
+Timepoint of measurement relative to psilocybin use
+
+>2 weeks 1-3 days
+
+prior 1-3 days prior after 2-4 weeks after
+Level (%)* Age EISS STAI-T BDI ACE CFS SOS MEQ CEQ SS S-G S/G-Difficulty Wellbeing**
+1 (2.8%) 44.1 188 265 228 558 53.2 25.7 168 028 9.26 10.1 2.79 4.62
+2 (3.1%) 38.8 17.0 267 215 589 52.6 274 1.61 0.18 8.62 10.0 2.05 5.00
++shame/ 3 (9.7%) 41.7 152 243 176 5.03 544 28.2 2.09 0.22 848 9.29 2.11 5.48
+guilt
+4 (13.1%) 393 153 23.9 189 458 54.1 27.8 247 020 828 10.2 2.37 5.53
+5 (33.9%) 410 134 213 149 495 58.6 29.2 3.09 0.17 7.66 8.56 1.87 6.01
+shame/guilt N/A (31.8%) 45.8 125 211 145 478 58.3 28.9 199 0.05 5.00 5.00 N/A 5.51
+
+*Level scale: 1 = Not able to work through constructively; 5 = Very able to work through constructively (note level data was missing for 38 individuals with +
+shame/guilt, or 5.6% of total sample); N/A = no processing as no shame or guilt experiences with psilocybin were reported.
+**Wellbeing scale: 4=No change; 5 = Slight positive that | consider desirable; 6 = Moderate positive change that | consider desirable; 7 = Strong positive
+change that | consider desirable.
+Abbreviations: EISS = External and Internal Shame Scale; STAI-T = Short State-Trait Anxiety Inventory (trait); BDI = Beck Depression Inventory-Il; ACE = Adverse
+Childhood Experience scale (expanded); CFS = Cognitive Flexibility Scale; SOS = State of Surrender; MEQ = Mystical Experience Questionnaire; CEQ =
+Challenging Experience Questionnaire; S-S= State Shame and Guilt Scale (shame subscale); S-G=State Shame and Guilt Scale (guilt subscale); S/
+G-Difficulty = shame or guilt difficulty.
+
+
+57 -7
+ma MEQ
+Wellbeing 147
+4-
+
+
+— 6 s
+
+
+ao 37 =
+= ,_ 3
+4
+-5 ©
+13-
+
+1-4
+Y)
+Y
+LL *
+0- 4
+1 2 3 4 5 N/A 12- *
+shame/guilt processing
+
+
+Figure 1. Mean mystical experience questionnaire (MEQ) and
+wellbeing scores by level of shame/guilt processing during
+11 I I I
+psilocybin use. Error bars represent standard error of the mean TO T1 T2
+(SEM). Shame/guilt processing scale: 1=Not able to work
+through constructively; 5 = Very able to work through construc- Timepoint
+tively; N/A=No processing as no shame or guilt experiences
+with psilocybin were reported. MEQ scale: Total scores scaled Figure 2. Mean global external and internal shame scale (Eiss/
+0-5, with higher scores indicating greater degree of mystical- trait shame) scores with psilocybin over time. Error bars repretype experience. Wellbeing scale: 4 = No change; 5 = Slight posi- sent standard error of the mean (SEM). TO =baseline before
+tive that | consider desirable; 6 = Moderate positive change that psilocybin use (open circle); TI =2-4 weeks after psilocybin;
+| consider desirable; 7 = Strong positive change that | consider T2 = 2-3 months after psilocybin (closed circles). *Indicates sigdesirable. Pearson’s correlation coefficients for: MEQ and well- nificant difference from baseline per ANOVA; T1 and T2 were not
+being (r= 0.53, p < .001); shame/guilt processing and MEQ (r= significantly different; Cohen’s d, effect sizes for TO-T1 = 0.31; for
+0.41, p < .001); shame/guilt processing and wellbeing (r= 0.33, TO-T2 = 0.37.
+p<.001).
+
+
+after 2-4 weeks (Cohen’s d, = 0.31; adjusted p<.001) participants (13.5%) and increased in 64 particiand 2-3 months (Cohen's d, = 0.37; adjusted p< .001) pants (29.8%).
+compared with baseline. There was not a significant
+difference in EISS score between the two postpsilocybin follow-up points (adjusted p=.36). These Discussion
+data are presented in Figure 2. On a participant-level,
+With swiftly growing, and often polarized, interest in
+most individuals (56.7%) demonstrated improve-
+outcomes related to psychedelic use, there is an urgent
+ments in EISS score at 2-4 weeks after psilocybin
+need for integrated perspectives that account for both
+use; however, trait shame remained the same in 29
+the psychological risk and reward unique to drugs like
+
+[PAGE 008]
+
+JOURNAL OF PSYCHOACTIVE DRUGS (%) 7
+
+
+psilocybin. Though there has been increased recognition increasing evidence that the intensity of all psychedeof challenging psychedelic experiences in the scientific lic effects, both positive and negative, decreases with
+community (Aday et al. 2020; Barrett et al. 2016; Belser age, perhaps reflecting age-related changes that can
+et al. 2017; Bremler et al. 2023; Carbonaro et al. 2016; affect drug potencies (Aday et al. 2021). While this
+Evans et al. 2023; Gashi, Sandberg, and Pedersen 2021; study was focused on adults, it is worth considering
+Gasser, Kirchner, and Passie 2015; Haijen et al. 2018; the potential for increased neurodevelopmental and
+Johnstad 2021; Lutkajtis and Evans 2023; Nielson et al. psychological risk in adolescent psychedelic users,
+2018; Palmer and Maynard 2022; Roseman et al. 2019; which has been identified as a critical area for further
+Roseman, Nutt, and Carhart-Harris 2017; Simonsson investigation (Bates and Trujillo 2021; Izmi, Carhartet al. 2023; Stauffer et al. 2021; Swift et al. 2017; Wolff Harris, and Kettner 2024). Besides age, no covariates
+et al. 2022), the study of shame and guilt with psyche- predicted state-shame or state-guilt, including even
+delics has progressed minimally. trait shame.
+In this prospective, longitudinal survey study of psi- The trait shame measure used here is an intentionlocybin use in naturalistic settings, we discovered that ally brief instrument, and though it demonstrated
+acute experiences of shame or guilt occurred commonly correlations with other psychometric measures that
+with psilocybin, were generally mild in nature but also are expected to overlap with shame as a stable trait,
+ranged to more severe, and were predicted by younger it may not be a reliable indicator of shame-proneness
+age only. In this sample, approximately two-thirds (Lear et al. 2022). It could be that unmeasured conreported some degree of guilt or shame during psilocy- structs also contribute to drug-induced state experibin use. These findings contrast with theories that psy- ences of shame and guilt, such as recent life events or
+chedelics typically reduce self-focused attention acutely past experiences of humiliation, moral conflict, or
+and that this is a mechanism by which psychedelics early family/relational attachment dynamics.
+exert their lasting effects (Dourron, Strauss, and Alternatively, it is possible that experiences of shame
+Hendricks 2022). and guilt with psilocybin are uniquely difficult to
+For reference, state-shame/guilt scores during psilo- predict.
+cybin use in this sample were higher than mean scores Importantly, the extent to which participants were
+observed for individuals in the absence of shame- able to constructively work through experiences of
+activating paradigms (Dyer et al. 2017) and consistent shame or guilt, rather than the magnitude of these
+with mean scores observed with shame-activating experiences, predicted wellbeing 2-4 weeks after psiloexperimental paradigms not involving psilocybin cybin use. Furthermore, participants who were most
+(Meade, Semenchuk, and Strachan 2020), supporting able to work through these emotions showed higher
+the idea that state-shame/guilt can be activated with mystical experience and wellbeing ratings than those
+psilocybin. While the frequency and intensity of chal- who did not report experiences of shame.
+lenging experiences are expected to be higher in natur- These findings appear to be consistent with
+alistic than clinical research settings (Carbonaro et al. a growing literature on “emotional breakthrough” and
+2016), it is worth considering that for many people “spiritual emergency” with psychedelics, whereby
+feelings of shame and guilt may be inevitable with psi- a sense of release and therapeutic growth are derived
+locybin, given the varieties of stigma, personal expecta- from the process of moving through difficult internal
+tion and self-evaluation that routinely accompany events (Lutkajtis and Evans 2023; Roseman et al. 2019).
+psychedelic use (Amada et al. 2020; Gorman et al. As has been described elsewhere, a certain degree of
+2021; Lucas 2005). This may be especially true for cer- contact with psychologically challenging material may
+tain minoritized groups, who face unique cultural be a prerequisite for experiences of healing with effecstigma around mental illness and drug use that may tive psychedelic therapy, and with effective psychotherinterfere with appropriate mental health treatment apy at large (Modlin et al. 2023; Wolff et al. 2022). From
+(Viña 2024). this perspective, the activation of shame-related experi-
+The inverse relationship between age and experi- ences with psychedelics may pose unique learning conence difficulty in psychedelic users has been docu- ditions for self-acceptance and growth, or alternatively,
+mented across various studies (Aday et al. 2020), ongoing avoidance or reinforcement of negative patand data suggest that shame and guilt also tend to terns of self-judgment that promotes or maintains psybe experienced less in older adults, perhaps due to chopathology (Lepow, Morishita, and Yehuda 2021;
+age-related decreases in arousal to aversive stimuli Wolff et al. 2020). Therefore, it seems special attention
+(Henry et al. 2018), or other maturational changes in should be paid to helping individuals work through
+perspective or self-relationship. There is also these experiences of shame/guilt should they arise
+
+[PAGE 009]
+
+8 ($) D.S.MATHAIET AL.
+
+
+during psychedelic-assisted therapies, as a means of shaming of individuals who have these challenging
+optimizing clinical outcomes. journeys.
+While these findings emphasize the potential value of This study has several important limitations. Briefly,
+facing difficult emotions that can accompany psychede- there was minimal standardization with regard to use of
+lic use, they also show that for a minority of users these psilocybin and concurrent substances: a typical drawexperiences provoke more distress without resolution. back for naturalistic research but perhaps more reflecClinically, this evidence raises questions about optimal tive of real-world psychedelic use and outcomes (Raison
+preparation, methods of support during psychedelic et al. 2022). Furthermore, while shame is often concepuse, and methods of post-dosing integration or psy- tualized as a cross-cultural construct (Sznycer et al.
+chotherapy. It may be that, for those who leave psyche- 2018), the limited representation of non-White and
+delic journeys feeling unresolved, a therapeutic minoritized populations in this self-selected conveniframework in which they can process their experiences ence sample is not generalizable to the larger populaand cultivate self-compassion is necessary to minimize tion. This is a considerable shortcoming of this and
+harm. This framework of understanding psychedelic other studies of psychedelic use, given emerging data
+mechanisms of action is not compatible with viewing that marginalized groups do not experience the same
+the user as a passive recipient of a pharmacological cure. types of benefits as White and employed populations in
+It is, however, conceivable in any given instance that non-clinical, naturalistic samples (Jones and Nock 2022;
+a psychedelic user may not be able to work through Jones et al. 2025; Viña and Stephens 2023). The focus
+a challenging experience, with or without professional here is on shame as a primarily internalized psychologuidance (Wolff et al. 2020). The reasons for “stuckness” gical process that inadequately captures external factors
+in psychotherapy are manifold, including treatment-, that can drive stigma, such as public discourse involving
+therapist- and patient-related factors (Oasi and mental health treatment and social acceptance
+Werbart 2020), and exploration of this is sometimes (Pescosolido et al. 2021). Experiences of shame or guilt
+understood as a necessary endeavor for the therapeutic with psilocybin may also be overestimated here based
+process (Kleiven et al. 2020). on the cutoffs used to group respondents with or with-
+We found that psilocybin on average produces small out these experiences, which required onlya single affirbut enduring decreases in trait shame within the context mative response for any scale item. Indeed, the
+of largely purposeful and intentional use. This finding is difficulties of measuring shame are considerable (Lear
+consistent with clinical trial data on the effects of psilo- et al. 2022), and made more difficult by the high rates of
+cybin-assisted therapy for HIV-related shame (Mehtani variability and dropout seen with this longitudinal
+et al. 2024), prospective data on the benefits of ceremo- survey.
+
+nial ayahuasca use (Lowe et al. 2024) and retrospective Our assessment of successful emotional processing
+data on general psychedelic drug use with therapeutic raises clinically relevant questions for further research,
+intent (Healy, Lee, and D’Andrea 2021), though larger but more robust measurement is needed to unpack the
+effects were observed in those studies. These data also black box of what it means to constructively “work
+align with overall evidence that psychedelic use can be through” shame or guilt. Wellbeing, as it relates to
+associated with changes in presumptively stable, char- such processes, could also be assessed more thoroughly
+acterological domains (Aday et al. 2020; Bouso et al. and for specific domains of benefit. Another direction of
+2018). research would be to replicate these analyses in con-
+Critically, the plasticity-related and belief-updating trolled research settings that foreshadow medical uses of
+effects of psychedelics are expected to be highly context- psychedelics and to verify the specificity and relevance
+dependent, which may explain our mixed findings of these effects in clinical populations, especially those
+involving trait shame on a participant-level. Other data with increased minority representation. The use of quaalso support the potential for mixed effects with psilo- litative or mixed-methods analyses could allow for
+cybin and some individuals experiencing increased improved delineation of shame-related experiences,
+shame, even in clinical trial settings (Mehtani et al. changes and mechanisms of successful resolution seen
+2024). Attention to appropriate therapeutic environ- with psilocybin that were not captured by the data here.
+ments, support and integration are pivotal in this Specific psychedelic drugs may elicit challenging experiregard, but some challenging trips may be just “bad” ences differently (Mathai 2024; Mathai et al. 2023;
+and predictive of negative long-term outcomes (Bremler Zeifman et al. 2023), and this is also worth exploring
+et al. 2023; Evans et al. 2023; Lutkajtis and Evans 2023). for experiences of shame.
+We should work toward minimizing such drug reac- Ultimately, this study adds to an imperative but
+tions but also work to destigmatize and reduce further insufficient literature on psychedelics, psychedelic
+
+[PAGE 010]
+
+JOURNAL OF PSYCHOACTIVE DRUGS @@) 9
+
+
+challenges, and possibilities for healing by centering ORCID
+self-conscious emotions. These findings may be
+David S. Mathai MD (3) http://orcid.org/0000-0001-9972instructive for those who have struggled with shame
+601X
+and guilt during psychedelic use and imagined themselves to be alone. As the psychotherapist Joseph
+Burgo writes, “The road to authentic self-esteem
+Data availability statement
+inevitably passes through the land of shame and
+never entirely leaves it” (Burgo 2018). Psychedelic Access to materials for research purposes may be granted
+use, also, is aptly conveyed as a winding journey, through a data use agreement on a case-by-case basis by
+
+and drugs like psilocybin may help shift encounters contacting the study sponsor, Unlimited Sciences, at
+heather@unlimitedsciences.org.
+with challenging feelings and self-representations into
+opportunities for growth and self-fulfillment. As journeys go, there may be a real sense of uncertainty and
+References
+risk no matter the circumstances; there may be an
+equal need for sustained contact with supporting Aday, J. S., A. K. Davis, C. M. Mitzkovitz, E. K. Bloesch, and
+characters who can be experienced as skilled and C. C. Davoli. 2021. Predicting reactions to psychedelic
+drugs: A systematic review of states and traits related to
+trustworthy. These passages may offer the chance
+acute drug effects. ACS Pharmacology and Translational
+for transformative work to unfold but are not to be
+Science 4 (2):424-35. doi: 10.1021/acsptsci.1c00014.
+taken lightly. Aday, J. S., C. M. Mitzkovitz, E. K. Bloesch, C. C. Davoli, and
+A. K. Davis. 2020. Long-term effects of psychedelic drugs:
+A systematic review. Neuroscience & Biobehavioral Reviews
+
+Acknowledgments 113 (June):179-89. doi: 10.1016/j.neubiorev.2020.03.017.
+Amada, N., T. Lea, C. Letheby, and J. Shane. 2020. Psychedelic
+The authors would like to thank all the study participants and experience and the narrative self: An exploratory qualitative
+support staff at various institutions who made this work study. Journal of Consciousness Studies 27 (9-10):6-33.
+possible. Thank you to Victoria Mora, Gianni Glick, Lauren Barrett, F. S., M. P. Bradstreet, J.-M. S. Leoutsakos,
+Lepow, Ksenia Cassidy, Reed Morrison, Bill Richards, Mary M. W. Johnson, and R. R. Griffiths. 2016. The challenging
+Cosimano, Beverly Bontrager, John Hayes, and Max Wolff for experience questionnaire: Characterization of challenging
+conversations that helped develop the ideas presented here. experiences with Psilocybin Mushrooms. Journal of
+Psychopharmacology (Oxford, England) 30 (12):1279-95.
+doi: 10.1177/0269881116678781.
+Barrett, F. S., M. W. Johnson, and R. R. Griffiths. 2015.
+Disclosure statement Validation of the revised mystical experience questionnaire
+in experimental sessions with psilocybin. Journal of
+DER has received financial compensation as an independent
+Psychopharmacology (Oxford, England) 29 (11):1182-90.
+contractor from Fluence International, Inc. MWJ serves as
+doi: 10.1177/0269881115609019.
+consultant to AJNA Labs, AWAKN Life Sciences, Beckley
+Bates, M. L. S., and K. A. Trujillo. 2021. Use and abuse of
+Psychedelic Ltd., Clarion Clinics, Negev Capital, Otsuka
+dissociative and psychedelic drugs in adolescence.
+Pharmaceutical Development & Commercialization, and
+Pharmacology, Biochemistry, and Behavior 203 (April):173129.
+Reunion Neurosciences. AGR is a paid scientific advisor to
+doi: 10.1016/j.pbb.2021.173129.
+Innerwell, Otsuka Pharmaceutical Development &
+Beck, A., R. Steer, and G. Brown. 1996. Beck depression
+Commercialization Inc., and Psyence Biomed. None of the
+inventory-II. https://psycnet.apa.org/doiLanding?doi=10.
+aforementioned organizations were involved in the design,
+1037%2Ft00742-000.
+execution, interpretation, or communication of findings of
+Belser, A. B., G. Agin-Liebes, T. C. Swift, S. Terrana,
+this publication. The remaining authors declare that the
+N. Devenot, H. L. Friedman, J. Guss, A. Bossis, and
+research was conducted in the absence of any commercial or
+S. Ross. 2017. Patient experiences of psilocybin-assisted
+financial relationships that could be construed as a potential
+psychotherapy: An interpretative phenomenological
+conflict of interest.
+analysis. Journal of Humanistic Psychology 57 (4):354-88.
+doi: 10.1177/0022167817706884.
+Bergua, V., C. Meillon, O. Potvin, K. Ritchie, C. Tzourio,
+J. Bouisson, J.-F. Dartigues, and H. Amieva. 2016. Short
+Funding
+STAI-Y anxiety scales: Validation and normative data for
+This work was supported by Unlimited Sciences. The Johns elderly subjects. Aging & Mental Health 20 (9):987-95. doi:
+Hopkins Center for Psychedelic and Consciousness Research 10.1080/13607863.2015.1051511.
+is funded by philanthropic support from the Steven and Bouso, J. C., R. G. Dos Santos, M. A. Alcázar-Córcoles, and
+Alexandra Cohen Foundation, Tim Ferriss, Matt Mullenweg, J. E. C. Hallak. 2018. Serotonergic psychedelics and personBlake Mycoskie, and Craig Nerenberg. The funders had no ality: A systematic review of contemporary research.
+role in data analysis or the decision to publish the manuscript. Neuroscience & Biobehavioral Reviews 87 (April):118-32.
+doi: 10.1016/j.neubiorev.2018.02.004.
+
+[PAGE 011]
+
+10 (é) D.S.MATHAIET AL.
+
+
+Bremler, R., N. Katati, P. Shergill, D. Erritzoe, and Gashi, L., S. Sandberg, and W. Pedersen. 2021. Making ‘bad
+R. L. Carhart-Harris. 2023. Case analysis of long-term trips’ good: How users of psychedelics narratively trans-
+negative psychological responses to psychedelics. Scientific form challenging trips into valuable experiences.
+Reports 13 (1):15998. doi: 10.1038/s41598-023-41145-x. International Journal of Drug Policy 87 (January):102997.
+Burgo, J. 2018. Shame: Free yourself, find joy, and build true doi: 10.1016/j.drugpo.2020.102997.
+self-esteem. New York, NY, USA: St. Martin’s Essentials. Gasser, P., K. Kirchner, and T. Passie. 2015. LSD-Assisted
+Candea, D.-M., and A. Szentagotai-Tatar. 2018. Shame- psychotherapy for anxiety associated with a life-threatening
+proneness, guilt-proneness and anxiety symptoms: A disease: A qualitative study of acute and sustained subjective
+meta-analysis. Journal of Anxiety Disorders effects. Journal of Psychopharmacology (Oxford, England)
+58 (August):78-106. doi: 10.1016/j.janxdis.2018.07.005. 29 (1):57-68. doi: 10.1177/0269881114555249.
+Carbonaro, T. M., M. P. Bradstreet, F. S. Barrett, Gorman, I., E. M. Nielson, A. Molinar, K. Cassidy, and
+K. A. MacLean, R. Jesse, M. W. Johnson, and J. Sabbagh. 2021. Psychedelic harm reduction and integra-
+R. R. Griffiths. 2016. Survey study of challenging experi- tion: A transtheoretical model for clinical practice.
+ences after ingesting psilocybin mushrooms: Acute and Frontiers in Psychology 12:645246. doi: 10.3389/fpsyg.
+enduring positive and negative consequences. Journal of 2021.645246.
+Psychopharmacology 30 (12):1268-78. doi: 10.1177/ Haijen, E. C. H. M., M. Kaelen, L. Roseman, C. Timmermann,
+0269881116662634.
+H. Kettner, S. Russ, D. Nutt, R. E. Daws,
+Carhart-Harris, R. L., S. Chandaria, D. E. Erritzoe,
+A. D. G. Hampshire, R. Lorenz, et al. 2018. Predicting
+A. Gazzaley, M. Girn, H. Kettner, P. A. M. Mediano,
+responses to psychedelics: A prospective study. Frontiers
+D. J. Nutt, F. E. Rosas, L. Roseman, et al. 2023.
+in Pharmacology 9. https://www.frontiersin.org/articles/10.
+Canalization and plasticity in psychopathology.
+3389/fphar.2018.00897.
+Neuropharmacology, the Neuropharmacology of Social
+Healy, C. J., K. A. Lee, and W. D’Andrea. 2021. Using psy-
+Behavior: From Bench to Bedside 226 (March):109398. doi:
+chedelics with therapeutic intent is associated with lower
+10.1016/j.neuropharm.2022.109398.
+shame and complex trauma symptoms in adults with hisCronbach, L. J. 1951. Coefficient alpha and the internal struc-
+tories of child maltreatment. Chronic Stress (Thousand
+ture of tests. Psychometrika 16 (3):297-334. doi: 10.1007/
+Oaks, Calif) 5:24705470211029881. doi: 10.1177/
+BF02310555.
+24705470211029881.
+Dorahy, M. J., H. McKendry, A. Scott, K. Yogeeswaran,
+Held, P., G. P. Owens, and S. E. Anderson. 2015. The inter-
+A. Martens, and D. Hanna. 2017. Reactive dissociative
+relationships among trauma-related guilt and shame, dis-
+experiences in response to acute increases in shame
+feelings. Behaviour Research and Therapy engagement coping, and PTSD in a sample of
+
+89 (February):75-85. doi: 10.1016/j.brat.2016.11.007. treatment-seeking substance users. Traumatology
+Dourron, H. M., C. Strauss, and P. S. Hendricks. 2022. Self- 21 (4):285-92. doi: 10.1037/trm0000050.
+entropic broadening theory: Toward a new understanding Henry, J. D., W. von Hippel, M. R. Nangle, and M. Waters.
+of self and behavior change informed by psychedelics and 2018. Age and the experience of strong self-conscious
+psychosis. Pharmacological Reviews 74 (4):984-1029. doi: emotion. Aging & Mental Health 22 (4):497-502. doi: 10.
+10.1124/pharmrev.121.000514. 1080/13607863.2016.1268094.
+Dyck, E., and C. Elcock. 2020. Reframing bummer trips: Hosmer, D., S. Lemeshow, and R. X. Sturdivant. 2013. Applied
+Scientific and cultural explanations to adverse reactions to logistic regression. Hoboken, NJ, USA: Wiley.
+psychedelic drug use. The Social History of Alcohol and Izmi, N., R. L. Carhart-Harris, and H. Kettner. 2024.
+Drugs 34 (2):271-96. doi: 10.1086/707512. Psychological effects of psychedelics in adolescents.
+Dyer, K. F. W., M. J. Dorahy, M. Corry, R. Black, L. Matheson, Frontiers in Child and Adolescent Psychiatry 3 (June). doi:
+H. Coles, D. Curran, L. Seager, and W. Middleton. 2017. 10.3389/frcha.2024.1364617.
+Comparing shame in clinical and nonclinical populations: Johnstad, P. G. 2021. Day trip to hell: A mixed methods study
+Preliminary findings. Psychological Trauma: Theory, of challenging psychedelic experiences. Journal of
+Research, Practice, & Policy 9 (2):173-80. doi: 10.1037/ Psychedelic Studies 5 (2):114-27. doi: 10.1556/2054.2021.
+tra0000158. 00155.
+Evans, J., O. C. Robinson, E. K. Argyri, S. Suseelan, Jones, G., M. X. Lowe, S. Nayak, N. Sepeda, H. Kettner,
+A. Murphy-Beiner, R. McAlpine, D. Luke, K. Michelle, R. Carhart-Harris, H. Jackson, and A. Garcia-Romeu.
+E. Prideaux, and A. Mastinu. 2023. Extended difficulties 2025. Examining differences in the effects and contexts of
+following the use of psychedelic drugs: A mixed methods
+naturalistic psilocybin use for white participants vs.
+study. PLoS One 18 (10):e0293349. doi: 10.1371/journal.
+Participants of color: A longitudinal online survey study.
+pone.0293349.
+Journal of Affective Disorders 370 (February):54-61. doi: 10.
+Ferreira, C., M. Moura-Ramos, M. Matos, and A. Galhardo.
+1016/j.jad.2024.10.058.
+2022. A new measure to assess external and internal shame:
+Jones, G. M., and M. K. Nock. 2022. Race and ethnicity
+Development, factor structure and psychometric properties
+moderate the associations between lifetime psychedelic
+of the external and internal shame scale. Current Psychology
+use (MDMA and Psilocybin) and psychological distress
+41 (4):1892-901. doi: 10.1007/s12144-020-00709-0.
+and suicidality. Scientific Reports 12 (1):16976. doi: 10.
+Finkelhor, D., A. Shattuck, H. Turner, and S. Hamby. 2015.
+1038/s41598-022-18645-3.
+A revised inventory of adverse childhood experiences.
+Child Abuse and Neglect 48 (October):13-21. doi: 10.1016/ Kleiven, G. S., A. Hjeltnes, M. Rabu, and C. Moltu. 2020.
+
+j.chiabu.2015.07.011. Opening up: Clients’ inner struggles in the initial phase of
+
+[PAGE 012]
+
+JOURNAL OF PSYCHOACTIVE DRUGS (4) 11
+
+
+therapy. Frontiers in Psychology 11 (December):591146. Modlin, N. L., M. Creed, M. Sarang, C. Maggio, J. J. Rucker,
+doi: 10.3389/fpsyg.2020.591146. and V. Williamson. 2024. Trauma-informed care in psyLabate, B. C., and C. Cavnar. 2014. Ayahuasca Shamanism in chedelic therapy research: A qualitative literature review of
+the Amazon and beyond. Oxford, UK: Oxford University evidence-based psychotherapy interventions in PTSD and
+Press. Psychedelic therapy across conditions. Neuropsychiatric
+Lake, S., and P. Lucas. 2023. The Canadian psychedelic survey: Disease and Treatment 20 (January):109. doi: 10.2147/
+Characteristics, patterns of use, and access in a large sample NDT.S432537.
+of people who use psychedelic drugs. Psychedelic Medicine Modlin, N. L., J. Stubley, C. Maggio, and J. J. Rucker. 2023. On
+1 (2):98-110. doi: 10.1089/psymed.2023.0002. redescribing the indescribable: Trauma, psychoanalysis and
+Lear, M. K., E. B. Lee, S. M. Smith, and J. B. Luoma. 2022. psychedelic therapy. British Journal of Psychotherapy
+A systematic review of self-report measures of generalized 39 (3):551-72. doi: 10.1111/bjp.12852.
+shame. Journal of Clinical Psychology 78 (7):1288-330. doi: Nayak, S. M., H. Jackson, N. D. Sepeda, D. S. Mathai, S. So,
+10.1002/jclp.23311. A. Yaffe, H. Zaki, T. J. Brasher, M. X. Lowe, D. R. P. Jolly,
+Lee, M. A., and B. Shlain. 1992. Acid dreams: The complete et al. 2023. Naturalistic psilocybin use is associated with
+social history of LSD : The CIA, the sixties, and beyond. New persisting improvements in mental health and well-being:
+York, NY, USA: Grove Press. Results from a prospective, longitudinal survey. Frontiers in
+Lepow, L., H. Morishita, and R. Yehuda. 2021. Critical period Psychiatry 14. doi: 10.3389/fpsyt.2023.1199642.
+
+plasticity as a framework for psychedelic-assisted Nielson, E. M., D. G. May, A. A. Forcehimes, and
+
+psychotherapy. Frontiers in Neuroscience 15:15. https:// M. P. Bogenschutz. 2018. The psychedelic debriefing in
+
+www.frontiersin.org/articles/10.3389/fnins.2021.710004 . alcohol dependence treatment: Illustrating key change phe-
+
+Lowe, M. X., H. Kettner, D. R. P. Jolly, R. L. Carhart- nomena through qualitative content analysis of clinical
+sessions. Frontiers in Pharmacology 9 (February):132. doi:
+Harris, and H. Jackson. 2024. Long-term benefits to
+10.3389/fphar.2018.00132.
+psychological health and well-being after ceremonial
+Oasi, O., and A. Werbart. 2020. Editorial: Unsuccessful psy-
+use of ayahuasca in middle eastern and North African
+chotherapies: When and how do treatments fail? Frontiers
+immigrants and refugees. Frontiers in Psychiatry
+in Psychology 11 (December):578997. doi: 10.3389/fpsyg.
+15 (April):1279887. doi: 10.3389/fpsyt.2024.1279887.
+2020.578997.
+Lucas, M. 2005. On not passing the acid test: Bad trips and
+Palmer, M., and O. M. Maynard. 2022. Are you tripping
+initiation. Anthropology of Consciousness 16 (1):25-45. doi:
+comfortably? Investigating the relationship between harm
+10.1525/ac.2005.16.1.25.
+reduction and the psychedelic experience. Harm Reduction
+Lutkajtis, A., and J. Evans. 2023. Psychedelic integration chal-
+Journal 19 (1):81. doi: 10.1186/s12954-022-00662-0.
+lenges: Participant experiences after a psilocybin truffle
+Pescosolido, B. A., A. Halpern-Manners, L. Luo, and B. Perry.
+retreat in the Netherlands. Journal of Psychedelic Studies
+2021. Trends in public stigma of mental illness in the US,
+6 (3):211-21. doi: 10.1556/2054.2022.00232.
+1996-2018. JAMA Network Open 4 (12):e2140202. doi: 10.
+Marschall, D. E. 1997. Effects of induced shame on subsequent
+1001/jamanetworkopen.2021.40202.
+empathy and altruistic behavior. Fairfax, VA, USA: George
+Raison, C. L., R. Jain, A. D. Penn, S. P. Cole, and S. Jain. 2022.
+Mason University.
+Effects of naturalistic psychedelic use on depression, anxiMartin, M., and R. Rubin. 1995. A new measure of cognitive
+ety, and well-being: Associations with patterns of use,
+flexibility. https://journals.sagepub.com/doi/10.2466/pr0.
+reported harms, and transformative mental states.
+1995.76.2.623.
+Frontiers in Psychiatry 13 (March):831092. doi: 10.3389/
+Mathai, D. S. 2024. Learning how to make use of dissociative
+fpsyt.2022.831092.
+therapies. International Review of Psychiatry 1-13, Revelle, W., and R. E. Zinbarg. 2009. Coefficients alpha, beta,
+September. https://www.tandfonline.com/doi/full/10.1080/ omega, and the Glb: Comments on Sijtsma. Psychometrika
+09540261.2024.2406329. 74 (1):145-54. doi: 10.1007/s11336-008-9102-z.
+Mathai, D. S., S. Hilbert, N. D. Sepeda, J. C. Strickland, Roseman, L., E. Haijen, K. Idialu-Ikato, M. Kaelen, R. Watts,
+R. R. Griffiths, and A. Garcia-Romeu. 2023. Double-blind and R. Carhart-Harris. 2019. Emotional breakthrough and
+comparison of the two hallucinogens dextromethorphan and psychedelics: Validation of the emotional breakthrough
+psilocybin: Experience-dependent and enduring psychologi- inventory. Journal of Psychopharmacology 33 (9):1076-87.
+cal effects in healthy volunteers. Psychedelic Medicine doi: 10.1177/0269881119855974.
+1 (4):241-52, August. doi: 10.1089/psymed.2023.0035. Roseman, L., D. J. Nutt, and R. L. Carhart-Harris. 2017.
+Mathai, D. S., V. Mora, and A. Garcia-Romeu. 2022. Toward Quality of acute psychedelic experience predicts therapeu-
+synergies of ketamine and psychotherapy. Frontiers in tic efficacy of psilocybin for treatment-resistant depression.
+Psychology 13:868103. doi: 10.3389/fpsyg.2022.868103. Frontiers in Pharmacology 8:974. doi: 10.3389/fphar.2017.
+Meade, L. B., B. N. Semenchuk, and S. M. Strachan. 2020. Is 00974.
+there positive in the negative? Understanding the role of Riisch, N., K. Lieb, I. Góttler, C. Hermann, E. Schramm,
+guilt and shame in physical activity self-regulation. H. Richter, G. A. Jacob, P. W. Corrigan, and M. Bohus.
+International Journal of Sport and Exercise Psychology 2007. Shame and implicit self-concept in women with bor-
+18 (4):502-18. doi: 10.1080/1612197X.2019.1581826. derline personality disorder. The American Journal of
+Mehtani, N. J., M. O. Johnson, P. S. Hendricks, J. Mitchell, and Psychiatry 164 (3):500-08. doi: 10.1176/ajp.2007.164.3.500.
+B. T. Anderson. 2024. Psilocybin-assisted therapy and Russ, S. L., R. L. Carhart-Harris, G. Maruyama, and
+HIV-Related shame. Scientific Reports 14 (1):17919. doi: M. S. Elliott. 2019. States and traits related to the quality
+10.1038/s41598-024-68908-4. and consequences of psychedelic experiences. Psychology of
+
+[PAGE 013]
+
+12 (S) D.S. MATHAIET AL.
+
+
+Consciousness: Theory, Research, & Practice 6 (1):1-21. doi: Tangney, J. P., J. Stuewig, and D. J. Mashek. 2007. Moral
+10.1037/cns0000169. emotions and moral behavior. Annual Review of
+Simonsson, O., P. S. Hendricks, R. Chambers, W. Osika, and Psychology 58 (1):345-72. doi: 10.1146/annurev.psych.56.
+S. B. Goldberg. 2023. Prevalence and associations of chal- 091103.070145.
+lenging, difficult or distressing experiences using classic Turner, J. E. 2014. Researching state shame with the experi-
+psychedelics. Journal of Affective Disorders ential shame scale. The Journal of Psychology
+326 (April):105-10. doi: 10.1016/j.jad.2023.01.073. 148 (5):577-601. doi: 10.1080/00223980.2013.818927.
+Spielberger, C., R. Gorsuch, and R. Lushene. 1970. Manual for Viña, S. M. 2024. Stigma, psychedelics use, and the risk of
+the state-trait anxiety inventory. https://www.semanticscho reduced formal mental health care. Stigma and Health. doi:
+lar.org/paper/Manual-for-the-State-Trait-Anxiety- 10.1037/sah0000546.
+Inventory-Spielberger-Gorsuch Viña, S. M., and A. L. Stephens. 2023. Psychedelics and work-
+/e6d09d04fc8737094c193da471e2a50a809f77d4 . place harm. Frontiers in Psychiatry 14 (June). doi: 10.3389/
+Stauffer, C. S., B. T. Anderson, K. M. Ortigo, and J. Woolley. fpsyt.2023.1186541.
+2021. Psilocybin-assisted group therapy and attachment: Wolff, M., R. Evens, L. J. Mertens, M. Koslowski, F. Betzler,
+Observed reduction in attachment anxiety and influences G. Gründer, and H. Jungaberle. 2020. Learning to let go: A
+of attachment insecurity on the psilocybin experience. ACS cognitive-behavioral model of how psychedelic therapy
+Pharmacology and Translational Science 4 (2):526-32. doi: promotes acceptance. Frontiers in Psychiatry 11:5. doi: 10.
+10.1021/acsptsci.0c00169. 3389/fpsyt.2020.00005.
+Swift, T. C., A. B. Belser, G. Agin-Liebes, N. Devenot, Wolff, M., L. J. Mertens, M. Walter, S. Enge, and R. Evens.
+S. Terrana, H. L. Friedman, J. Guss, A. P. Bossis, and
+2022. The acceptance/Avoidance-promoting experiences
+S. Ross. 2017. Cancer at the dinner table: Experiences of
+questionnaire (APEQ): A theory-based approach to psy-
+psilocybin-assisted psychotherapy for the treatment of
+chedelic drugs” effects on psychological flexibility. Journal
+cancer-related distress. Journal of Humanistic Psychology
+of Psychopharmacology (Oxford, England) 36 (3):387-408.
+57 (5):488-519. doi: 10.1177/0022167817715966.
+doi: 10.1177/02698811211073758.
+Sznycer, D., D. Xygalatas, E. Agey, S. Alami, X.-F. An,
+K. I. Ananyeva, Q. D. Atkinson, B. R. Broitman,
+Zeifman, R. J., H. Kettner, B. A. Pagni, A. Mallard, D. E. Roberts,
+
+T. J. Conte, C. Flores, et al. 2018. Cross-cultural invariances D. Erritzoe, S. Ross, and R. L. Carhart-Harris. 2023. Co-use of
+
+in the architecture of shame. Proceedings of the National MDMA with Psilocybin/lsd may buffer against challenging
+Academy of Sciences 115 (39):9702-07. doi: 10.1073/pnas. experiences and enhance positive experiences. Scientific
+1805016115. Reports 13 (1):13645. doi: 10.1038/s41598-023-40856-5.

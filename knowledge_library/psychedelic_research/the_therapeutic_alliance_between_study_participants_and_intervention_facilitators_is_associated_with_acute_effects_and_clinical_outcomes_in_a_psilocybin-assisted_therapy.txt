@@ -1,0 +1,403 @@
+[PAGE 001]
+
+The therapeutic alliance between study participants and intervention facil... https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300501
+
+
+The therapeutic alliance between study participants and
+intervention facilitators is associated with acute effects and
+clinical outcomes in a psilocybin-assisted therapy trial for
+major depressive disorder
+Adam W. Levin, Rafaelle Lancelotta, Nathan D. Sepeda, Natalie Gukasyan, Sandeep Nayak, Theodore L. Wagener,
+
+Frederick S. Barrett, Roland R. Griffiths, Alan K. Davis [E]
+
+Published: March 14, 2024 e https://doi.org/10.1371/journal.pone.0300501
+
+
+Abstract
+
+We examined if the therapeutic alliance between study participants and intervention facilitators in a psilocybin-assisted therapy
+(PAT) trial changed over time and whether there were relationships between alliance, acute psilocybin experiences, and depression
+outcomes. In a randomized, waiting list-controlled clinical trial for major depressive disorder in adults (N = 24), participants were
+randomized to an immediate (N = 13) or delayed (N = 11) condition with two oral doses of psilocybin (20mg/70kg and 30mg/70kg).
+Ratings of therapeutic alliance significantly increased from the final preparation session to one-week post-intervention (p = .03, d=
+.43). A stronger total alliance at the final preparation session predicted depression scores at 4 weeks (r= -.65, p = .002), 6 months
+(r= -.47, p = .036), and 12 months (r= -.54, p = .014) post-intervention. A stronger total alliance in the final preparation session was
+correlated with higher peak ratings of mystical experiences (r= .49, p = .027) and psychological insight (r= .52, p = .040), and peak
+ratings of mystical experience and psychological insight were correlated with depression scores at 4 weeks (r= -.45, p = .030 for
+mystical; r= -.75, p< .001 for insight). Stronger total alliance one week after the final psilocybin session predicted depression
+scores at 4 weeks (r= -.85, p <.001), 3 months (r= -.52, p = .010), 6 months (r= -.77, p< .001), and 12 months (r= -.61, p = .001)
+post-intervention. These findings highlight the importance of the therapeutic relationship in PAT. Future research should explore
+therapist and participant characteristics which maximize the therapeutic alliance and evaluate its relationship to treatment
+outcomes.
+
+
+Trial registration: Registration: Clinicaltrials.gov NCT03181529. https://classic.clinicaltrials.gov/ct2/show/NCT03181529.
+
+
+Citation: Levin AW, Lancelotta R, Sepeda ND, Gukasyan N, Nayak S, Wagener TL, et al. (2024) The therapeutic alliance
+between study participants and intervention facilitators is associated with acute effects and clinical outcomes in a psilocybin-
+assisted therapy trial for major depressive disorder. PLoS ONE 19(3): e0300501. https://doi.org/10.1371/
+journal.pone.0300501
+
+
+Editor: Herb Covington, SUNY Empire, UNITED STATES
+
+Received: July 17, 2023; Accepted: February 23, 2024; Published: March 14, 2024
+
+Copyright: © 2024 Levin et al. This is an open access article distributed under the terms of the Creative Commons
+Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author
+and source are credited.
+
+
+Data Availability: Data Availability: All relevant data are available on the Open Science Framework public repository at
+https://osf.io/speqc/?view_only=90add9a193b04fa9ba3c5865c3bc1 5fb Identifier: DOI 10.17605/OSF.IO/SPEQC.
+
+Funding: This study was funded in part by a crowd-sourced funding campaign organized by Tim Ferriss and a grant from the
+Riverstyx Foundation. AKD, NDA, NG, SN, FSB, and RRG are supported by funding from Tim Ferriss, Matt Mullenweg, Craig
+Nerenberg, Blake Mycoskie, the Steven and Alexandra Cohen Foundation. AKD, RL, and AWL are supported by the Center
+for Psychedelic Drug Research and Education in the College of Social Work at Ohio State University, funded by anonymous
+private donors. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the
+manuscript. AKD and RL are board members of Source Research Foundation. AKD is a Lead Trainer at Fluence. FB is a
+scientific advisor for WavePaths, Ltd and Mindstate Design Labs, Inc, and has provided consultation services for Gilgamesh
+Pharmaceuticals, Inc. These organizations were not involved in the design/execution of this study or the interpretation or
+communication of findings.
+
+
+Competing interests: AKD and RL are on the board of Source Research Foundation. RRG is on the board of the Heffter
+Research Institute. This does not alter our adherence to PLOS ONE policies on sharing data and materials.
+
+
+Introduction
+
+Psychedelic-assisted therapy (PAT) is a therapeutic intervention which has shown promise in the treatment of a wide range of
+psychiatric disorders, including depression [1-4], post-traumatic stress disorder (PTSD) [5], addiction [6,7], and end-of-life anxiety
+and depression [8]. Although this approach centers around the administration of a psychedelic drug, it has long been claimed that
+the psychological milieu, as well as the physical environment of the drug administration, referred to as the ‘set’ and ‘setting’
+respectively, are important in determining the quality of the acute psychedelic experience [9-11]. One aspect of the ‘set and setting’,
+
+
+1 of 11 07.07.26, 20:59
+
+[PAGE 002]
+
+The therapeutic alliance between study participants and intervention facil... https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300501
+
+
+emphasized in modern clinical trials, are the hours of preparatory and integrative psychotherapy surrounding the drug
+administration, as well as the supportive, nondirective, therapy during the actual drug session [12-14]. Although some have
+suggested the superiority of specific therapeutic orientations [15], thus far, a range of therapeutic approaches have produced
+comparable outcomes (e.g. cognitive behavioral therapy [16], motivational enhancement therapy [6], acceptance and commitment
+therapy (e.g., Accept-Connect-Embody [2]). This has prompted others to advocate for a ‘common factors’ framework, which
+emphasizes the common elements between therapeutic approaches rather than those associated with any specific orientation [17].
+
+
+One of the most widely investigated of these ‘common factors’ is the therapeutic alliance, broadly defined as the sense of
+collaboration between patient and clinician [18-20]. Decades of research show that a stronger alliance is associated with positive
+treatment outcomes, and this association appears to be robust and consistent across disorders, cultures, and theoretical
+orientations (for recent reviews see: [21,22]). To date, few studies have empirically investigated the effect of the therapeutic alliance
+on outcomes in PAT. Some observational research has suggested that various states and traits traditionally associated with a
+strong alliance, such as acceptance, openness to experience, and a strong intention are associated with better therapeutic
+outcomes [23,24]. However, this evidence is indirect and based on psychedelic use in naturalistic settings where a traditional
+therapeutic alliance may not be established.
+
+In a recent study of PAT, Murphy et al. (2022) [25] found that the strength of the therapeutic alliance predicted depression scores at
+follow-up and that this effect was mediated by the intensity of the acute psychedelic experience. Specifically, they demonstrated
+that a strong therapeutic alliance predicted a positive pre-psychedelic session rapport, which then predicted greater emotional
+breakthrough and mystical-type experiences during the psilocybin session leading to improved therapeutic outcomes [25].
+Importantly, their analysis also demonstrated that a weaker alliance predicted less emotional breakthrough and mystical quality of
+the acute experience.
+
+
+The mystical-type experience, as measured by the Mystical Experience Questionnaire (MEQ), has been, to date, the most
+extensively researched dimension of the acute psychedelic experience and has been correlated with positive therapeutic outcomes
+in multiple clinical trials and across diagnoses [26,27]. However, recent research suggests that psychological insight, especially
+when paired with a mystical experience, might be a more robust predictor of change [28]. Although many psychotherapeutic
+approaches, especially in the psychodynamic tradition, emphasize the emergence of insight in the context of a strong therapeutic
+alliance [20,29,30], this relationship has yet to be empirically investigated in the context of PAT. Additionally, although Murphy et
+al.’s analysis suggests that a weaker alliance might limit therapeutic effectiveness, the causal mechanisms of this are unknown and
+have not been investigated.
+
+
+Therefore, in a replication and extension of Murphy et al. (2022) [25], we analyzed data from a recently published randomized,
+waitlist-controlled clinical trial of psilocybin-assisted therapy for major depressive disorder (MDD) [3] to examine: 1) whether the
+participant-rated therapeutic alliance varies from before to after psilocybin administration sessions, 2) whether the alliance is
+correlated with depression scores following the intervention, 3) whether the therapeutic alliance is correlated with peak mystical-
+type and psychological insight effects of the intervention, and 4) the relationship between ratings of the mystical-type and
+psychological insight effects and post-treatment depression scores.
+
+
+Methods
+
+Study design
+
+
+The primary outcomes from this study have been published and full details, including a study protocol, have been described
+previously [3]. Procedures were approved by The Johns Hopkins University School of Medicine Institutional Review Board
+(IRB00101821). In brief, this study was a randomized waitlist-controlled trial testing the effect of two ascending doses of psilocybin
+in conjunction with approximately 11 hours of psychotherapy in adults with moderate-to-severe MDD. The decision to recruit 24
+participants was made based on the results of a prior study of psilocybin-assisted therapy for cancer patients [8], which showed
+very large effect sizes of this intervention. Therefore, as a preliminary trial we were confident that a sample size of N = 24 would
+provide sufficient power to detect a moderate effect size of pre-psilocybin to post-psilocybin change in depressive symptoms.
+Recruitment occurred between August 2017 to August 2019 and all participants provided written informed consent. Data were
+collected through final 12-month follow-up timepoint in August 2020. Participants in this trial were 21-75 years of age who met
+criteria for a moderate to severe episode of MDD (>17 on the GRID-Hamilton Depression Rating Scale [GRID-HAMD]) and were
+medically stable. Individuals with a first- or second-degree relative with history of psychiatric conditions (e.g., psychotic or bipolar |
+or Il disorder) deemed incompatible with safe exposure to psilocybin were excluded. Participants were also required to refrain from
+using certain medications (e.g., antidepressants) for at least five half-lives before screening and through our primary outcome
+measurement at 4-weeks post psilocybin session two. Following screening and baseline assessments, participants were
+randomized to an immediate or delayed treatment condition.
+
+During the intervention phase of the study, participants were provided with approximately 8 hours of preparatory therapy sessions
+with two intervention facilitators. At least one facilitator had clinical training in mental health at the master’s or doctoral level (e.g.,
+Master of Social Work, Ph.D. in clinical psychology, M.D. specializing in psychiatry). Following preparation sessions, participants
+received two doses (20 mg/70 kg and 30 mg/70 kg) of psilocybin, approximately one-to-two weeks apart. Psilocybin was
+administered under the supervision of both facilitators in a comfortable room following established safety guidelines [12]. On
+psilocybin session days, a nondirective psychotherapeutic approach was employed. The following day and one week after each
+psilocybin session, participants returned for follow-up integrative therapy sessions and assessments. Follow-up assessments,
+including a 1-2 hour meeting with at least one of the therapist facilitators, were also conducted at 1- and 4-weeks, and 3-, 6-, and
+12-months following the second psilocybin session.
+
+
+Measures
+
+
+Therapeutic alliance.
+
+
+The 12-item, participant-rated, Working Alliance Inventory-Short Revised (WAI-SR; [31]) was used to assess the therapeutic
+
+
+2 of 11 07.07.26, 20:59
+
+[PAGE 003]
+
+The therapeutic alliance between study participants and intervention facil... https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300501
+
+
+alliance between intervention facilitators and study participants at the final preparatory session prior to psilocybin administration and
+one week following the first and second psilocybin sessions. The WAI-SR is a shortened version of the 36-item Working Alliance
+Inventory (WAI; [32,33]) which utilizes a three factor model based on the three aspects of the therapeutic alliance as theorized by
+Bordin [18]: The goals of treatment (e.g., *____ and | collaborate on setting goals for my therapy”), the tasks of therapy (e.g., “As a
+result of these sessions | am clearer as to how | might be able to change”), and the bond between therapist and client (e.g., “I
+believe __ likes me”). The 12 items are rated on a five-point Likert scale ranging from Seldom (1) to Always (5). Internal
+consistency reliability, measured with Cronbach’s alpha, was calculated for WAI bond (a = .61, .77, .94), goal (a = .89, .91, .95),
+task (a = .76, .92, .96), and total score (a = .87, .92, .95) at the final preparatory session, 1-week post-psilocybin session 1, and 1-
+week post-psilocybin session 2, respectively.
+
+Depression severity.
+
+
+Depression was measured by blinded clinician rating using the GRID-HAMD [84,35], as previously described [3]. Depression
+severity was assessed at baseline and at 1-, 3-, 6-, and 12-month follow-up timepoints. Inter-rater reliability was 87.5% across all
+follow-ups.
+
+
+Acute psilocybin effects.
+
+
+Measures of acute psilocybin effects that were assessed at the end of the drug administration or the following day have been
+reported previously [3]. Included in this follow-up analysis is the Mystical Experience Questionnaire (MEQ30) [36], which was rated
+on a 6-point scale ranging from 0-5 (none; not at all = 0, so slight cannot decide = 1, slight = 2, moderate = 3, strong [equivalent in
+degree to any other strong experience] = 4, extreme [more than any other time in my life and stronger than 4] = 5). We also
+included a single item measure of psychological insight [37] on which participants rated the degree to which the psilocybin session
+was psychologically insightful on a scale from 1 = “no more than routine, everyday experiences” to 8 = “the single most
+psychologically insightful experience of my life.” The use of a single-item measure, while not ideal, has shown reliability and validity
+in similar psychological interventions [38].
+
+Statistical analyses
+
+
+Data were analyzed from all 24 participants who completed the full intervention. Four participants did not complete the WAI-SR
+during the final preparatory session and those data were therefore excluded. Additionally, four participants did not complete the
+psychological insight item, so those data were excluded for the relevant analyses. First, we explored the distribution of scores for
+each variable and found that several variables violated the assumption of a normal distribution. However, given that Pearson
+correlations and t-tests are robust against violations of the normal distribution assumption [39-41], and given that this study is
+exploratory and hypothesis-generating, we chose to proceed with our analytic plan. Next, we used paired samples ftests to
+compare alliance scores from the final preparatory session to one week following the second psilocybin session. Following this, we
+calculated Pearson’s correlations to examine the relationship between participant ratings of the alliance at the final preparatory
+session and one week following the first and second psilocybin session, and depression scores at 4-week, and 3-, 6-, and 12-
+month follow ups. Then, we calculated Pearson’s correlations between alliance ratings at the final preparatory session and one
+week following the first and second psilocybin session, and measures of peak acute mystical and insight effects across the two
+psilocybin sessions. Finally, we calculated Pearson’s correlations between peak acute effects and depression scores at 4-weeks,
+3-, 6-, and 12-month follow ups. A p-value of .05 was used to determine statistical significance in all analyses, and effect sizes are
+reported for all t-test and correlations. Data analysis was conducted using SPSS, version 28 [42].
+
+
+Results
+
+The sample (n = 20) was comprised of 15 women (75%) and 5 men (25%) and was 90% white, with a mean (SD) age of 37.6 (11.0)
+years. Most participants also reported they were heterosexual (85%), non-Hispanic (100%), had a college degree (90%), were
+never married (55%), and employed (55%). On average, the sample reported it had been 20.7 (SD = 18.5) months since their
+current major depressive episode began, and 19.6 (SD = 11.4) years since their first major depressive episode.
+
+
+As Table 1 shows, participant ratings of the total therapeutic alliance between study participants and intervention facilitators
+increased from the final preparatory session to 1-week post-intervention (p = .027, d = .43). Although each of the subscales
+increased during this time point (p = .620, d= .11 for goal, p = .135, d = .34 for bond), only ratings of task increased significantly (p
+< .001, d=.65).
+
+
+— ee
+G
+
+
+Table 1. Comparisons of therapeutic alliance ratings (via the working alliance inventory- short revised) at intervention time-points.
+https ://doi.org/10.1371/journal.pone.0300501 .t001
+
+
+As Table 2 shows, a stronger total alliance reported at the final preparatory session predicted depression scores at 4 weeks (r=
+-.65, p = .002), 6 months (r= -.47, p = .036), and 12 months (r= -.54, p = .014) post-intervention. A stronger total alliance reported
+1-week following the first psilocybin session was also correlated with decreased depression scores at 4 weeks (r= -.73, p< .001), 3
+months (r= .42, p = .041), 6 months (r= -.71, p< .001) and 12 months (r= -.54, p = .006). A stronger total alliance reported 1-week
+after the second psilocybin session predicted depression scores at 4 weeks (r= -.85, p <.001), 3 months (r= -.52, p = .010), 6
+months (r= -.77, p< .001), and 12 months (r= -.61, p = .001).
+
+
+3 of 11 07.07.26, 20:59
+
+[PAGE 004]
+
+The therapeutic alliance between study participants and intervention facil... https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300501
+
+
+Table 2. Correlation between therapeutic alliance ratings (via the working alliance inventory- short revised) and depression outcomes (GRID-
+HAMD).
+https ://doi.org/10.1371/journal.pone.0300501.t002
+
+
+As Table 3 shows, a stronger total therapeutic alliance reported in the final preparation session was correlated with higher peak
+ratings of mystical-type experiences (r= .49, p = .027) and of psychological insight (r= .52, p = .040). A stronger therapeutic
+alliance reported 1-week following the first psilocybin session was significantly correlated with higher peak ratings of psychological
+insight (r= .75, p < .001) across both psilocybin sessions. Higher peak ratings of psychological insight across both psilocybin
+sessions significantly predicted higher total alliance ratings reported 1-week following the final psilocybin session (r= .83, p< .001),
+and higher peak ratings of mystical-type experiences and psychological insight predicted higher bond ratings reported one week
+following the second psilocybin session (r= .45, p = .029 for mystical-type, r= .81, p< .001 for insights).
+
+
+Table 3. Correlation between therapeutic alliance (via the working alliance inventory- short revised) and peak acute mystical-type and insight
+effects.
+https ://doi.org/10.1371/journal.pone.0300501.t003
+
+
+Arete et € we ks pe ar Y om la a Ta 17 ones fai y El
+
+
+Table 4. Correlation between peak acute mystical-type and insight effects and depression outcomes (GRID-HAMD).
+https://doi.org/10.1371/journal.pone.0300501.t004
+
+
+As Table 4 shows, higher peak ratings of mystical-type experience were correlated with lower depression scores at 4 weeks (r=
+-.45, p = .030), and higher peak ratings of psychological insight were correlated with lower depression scores at 4 weeks (r= -.75, p
+< .001), 3 months (r= -.52, p = .020), 6 months (r= -.82, p< .001), and 12 months (r= -.70, p< .001) post-intervention.
+
+Our analysis revealed similar patterns with regards to the three WAI subscales. Correlations between the task alliance subscale
+and outcomes were most robust, with higher ratings of task alliance at the final preparatory session significantly predicting
+depression scores at 4 weeks (r= -.67, p = .001), 6 months (r= -.54, p = .014) and 12 months (r= -.48, p = .032) post-intervention.
+Further, ratings of task alliance 1-week following the second psilocybin session were strongly correlated with decreased depression
+scores at 4 weeks (r= -.85, p< .001), 3 months (r= -.55, p = .005), 6 months (r= -.77 p <.001), and 12 months (r= -.59, p = .013)
+months. Higher ratings of goal alliance at the final preparatory session predicted outcomes at 4 weeks (r= -.49, p = .028) and 12
+months (r= -.49, p = .029), and ratings of goal alliance 1-week following the second psilocybin session were correlated with
+outcomes at 4 weeks (r= -.69, p< .001) and 6 months (r= -.59, p = .002). A stronger bond reported at the final preparation session
+predicted scores at 4 weeks (r= -.45, p = .044) but did not predict long term depression scores (ps > .05). However, a stronger
+bond reported 1-week after the final psilocybin session predicted depression scores at 4-weeks (r= -.67, p< .001), 3-months (r=
+-.57, p = .004), 6 months (r= -.68, p< .001), and 12 months (r= -.72, p< .001).
+
+With regards to the WAI subscales relationship with acute psilocybin effects, ratings of task alliance at the final preparatory session
+were correlated with higher ratings of both mystical-type experience (r= .58, p = .007) and psychological insight (r= .53, p = .034).
+Further, higher peak ratings of both mystical and psychological insight predicted higher task alliance ratings 1-week following the
+second psilocybin session (r= .44, p = .032 for mystical-type, r = -.83, p < .001 for insight). A stronger bond reported in the final
+preparation session was significantly correlated with higher peak ratings of mystical-type experiences (r= .49, p = .029).
+Additionally, a stronger bond reported one week following the second psilocybin session was significantly correlated with mystical-
+type experiences (r= .45, p = .029) and psychological insight (r= .81, p< .001). Ratings of goal alliance at the final preparatory
+session were not significantly correlated with peak ratings of mystical-type experience (r= .24, ps > .05) or psychological insight (r
+
+
+4 of 11 07.07.26, 20:59
+
+[PAGE 005]
+
+The therapeutic alliance between study participants and intervention facil... https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300501
+
+
+= .36, ps > .05), however, peak ratings of psychological insight predicted goal ratings one week following the second psilocybin
+session (r= .60 p = .006).
+
+
+Discussion
+
+This analysis of a randomized controlled trial of psilocybin-assisted therapy for adults with MDD found that a stronger participant-
+rated therapeutic alliance was correlated with improvements in depression outcomes up to one year later, and that this correlation
+strengthened throughout the course of the study. A stronger alliance in the final preparatory session predicted higher peak ratings
+of mystical-type and psychological insight experiences, and these acute effects were correlated with improvements in depression.
+These results suggest that therapeutic alliance plays an important role in optimizing the acute psychedelic experience towards
+improved outcomes and extend those of Murphy et al. (2022) [25] by employing clinician-rated depression outcomes (vs self-
+report), including acute psychological insight and mystical-type effects (vs emotional breakthrough and mystical-type effects), and
+extending the timeline to 12-months post-intervention (vs 6-weeks).
+
+
+In one sense, these findings place PAT firmly within the bounds of traditional psychotherapies, in which a stronger therapeutic
+alliance is correlated with positive outcomes across modalities and diagnoses [21,22,43,44]. In another sense, the alliance seems
+to have an amplified role in PAT through its interaction with the acute psychedelic experience. Several large meta-analyses of
+traditional therapies have placed the alliance-outcome correlation consistently in the small to medium range [22,45-47], and a
+recent meta-analysis, looking specifically at the alliance-depression outcome correlation, found a small effect [48]. By contrast, our
+analysis showed moderate to large correlations. It is possible that outliers in our sample, or positive expectancy effects, drove these
+correlations [2,49], however, our results suggest other possible explanations. For example, the task alliance subscale is often
+associated with improved outcomes in psychotherapy, but our finding that the bond subscale correlated with outcomes is
+significantly less common [50-55]. If psychedelics are ‘unspecific amplifiers of mental processes’, as some have suggested [56],
+then the participant/facilitator bond itself may be subject to that amplification, leading to larger effects.
+
+This model supports many long-held assumptions, in both the traditional and contemporary use of psychedelics, about the
+importance of the therapist or facilitator in a therapeutic psychedelic experience. Traditional Ayahuasca practitioners undergo
+extensive apprenticeships and are thought to directly affect healing through emotional and spiritual ‘resonance’ during complex
+ceremonies [57]. Modern clinical trials employ a therapeutic dyad with two session facilitators per participant present throughout
+dosing sessions and during extensive preparatory and integrative therapeutic work. Safety guidelines include recommendations for
+ancillary staff given that “all individuals at the study site having contact with the volunteer on or before the session day may
+influence a volunteer’s reaction to a hallucinogen” [11, p.12].
+
+
+Although assumptions about the importance of facilitators through altered states of consciousness are pervasive, they have only
+recently been empirically substantiated. A large survey of ayahuasca users in ceremonial settings showed that ‘adequate
+leadership’ was associated with higher levels of mystical-type experience, and that clear instructions and feelings of social
+adhesion predicted fewer challenging experiences [58]. Other naturalistic survey studies have demonstrated a correlation between
+‘clear intentions’ and mystical-type experiences [23,24], and a recent prospective survey study of participants at psychedelic
+retreats found that rapport with facilitators prior to a group psychedelic session mediated a sense of harmony during the session
+[59]. However, the present study and that of Murphy et al. [25] are the first to demonstrate a correlation between the contemporary
+construct of the therapeutic alliance and the quality of the acute psychedelic experience. Within this construct, it seems plausible
+that the task alliance subscale of the WAI, which was most robustly correlated with outcomes in our analysis, might be analogous to
+the concept of ‘clear intentions’ or ‘adequate leadership’, within the naturalistic models outlined above, while the bond subscale
+may more accurately reflect the rapport or ‘communitas’ [59]. However, further research is needed to elucidate the overlap and
+contrasts between these constructs.
+
+The correlation between the strength of the acute psychedelic experience and clinical outcomes has been well established in the
+modern era of psychedelic research [60] and was further validated in the present study. The most widely used construct of the
+subjective experience (e.g., mystical-type) has been correlated with positive therapeutic outcomes in multiple clinic trials and across
+indications [26,27]. Interestingly, in both ours and Murphy et al.’s (2022) analyses, mystical-type scores were less predictive of
+improvements in depression than were other measures of acute effects. In our analysis, although both peak ratings of
+psychological insight and mystical-type experience correlated with decreases in depression at 4 weeks, only ratings of
+psychological insight correlated with depression scores at long-term follow-up. Similarly, Murphy et al. (2022) found that ratings of
+emotional breakthrough were more predictive of decreases in depression than ratings of the mystical-type experience and that
+emotional breakthrough was more predictive in the first psilocybin session while mystical-type experiences were more predictive in
+the second session.
+
+These findings suggest that the combination of a more psychologically grounded experience with a mystical-type experience might
+be a more robust predictor of long-term therapeutic change than the mystical-type experience alone [28,61,62] and lend support to
+a model in which working through interpersonal content occurs prior to mystical-type breakthroughs [56,62,63]. If future research
+confirms these findings in more diverse samples and in other clinical indications, it suggests that PAT might be best viewed as an
+inter- and intra-personal process, which can be enhanced via a strong alliance between study participants and intervention
+facilitators.
+
+Our findings also strongly suggest that the acute psychedelic experience directly enhances the therapeutic alliance. Psilocybin’s
+ability to enhance emotional empathy [64] and feelings of connectedness [59,65], along with its reduction of subjective and
+neurological responses to social exclusion [66], might explain this phenomenon. These effects not only persist well beyond the
+acute drug effect [67] but may also foster more secure attachment patterns [68]. In our study, stronger alliances one week after the
+second psilocybin session correlated with higher peak ratings of acute effects. Murphy et al., (2022) also found that stronger
+emotional breakthroughs in the first psilocybin session predicted better alliances before the second session. Collectively, these
+results suggests that psilocybin could directly and progressively enhance the therapeutic alliance.
+
+
+The effects of the alliance on depression outcomes increased over the course of the intervention, with the strongest effects
+following the second psilocybin session. In Murphy et al. (2022), ratings of alliance reported prior to the second psilocybin session,
+
+
+5 of 11 07.07.26, 20:59
