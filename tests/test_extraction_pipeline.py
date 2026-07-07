@@ -8,7 +8,7 @@ from niros.extraction_pipeline import (
     merge_pipeline_results,
 )
 from niros.raw_source import RawSource, RawSourceSegment, build_raw_source_corpus
-from niros.therapeutic_extraction import TherapeuticFunctionExtraction
+from niros.therapeutic_extraction import TherapeuticFunctionExtraction, build_extraction_id
 
 
 def _source(source_id: str = "source_001") -> RawSource:
@@ -36,11 +36,20 @@ def _corpus(source_id: str = "source_001", segment_count: int = 2):
 
 
 def _extraction(**overrides) -> TherapeuticFunctionExtraction:
+    source_id = overrides.get("source_id", "source_001")
+    segment_id = overrides.get("segment_id", "segment_001")
+    therapeutic_function = overrides.get("therapeutic_function", "self_compassion")
+    psychological_function = overrides.get("psychological_function", "")
     base = {
-        "extraction_id": "extraction_source_001_segment_001_self_compassion",
-        "source_id": "source_001",
-        "segment_id": "segment_001",
-        "therapeutic_function": "self_compassion",
+        "extraction_id": build_extraction_id(
+            source_id,
+            segment_id,
+            therapeutic_function,
+            psychological_function,
+        ),
+        "source_id": source_id,
+        "segment_id": segment_id,
+        "therapeutic_function": therapeutic_function,
         "evidence_text": "Evidence from the chant segment.",
         "generation_rules": ("Use gentle phrasing.",),
         "voice_rules": ("Keep tempo slow.",),

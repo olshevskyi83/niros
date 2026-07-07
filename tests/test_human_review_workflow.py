@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+from dataclasses import replace
 from pathlib import Path
 
 import pytest
@@ -17,15 +18,25 @@ from niros.human_review_workflow import (
     effective_extraction,
 )
 from niros.knowledge_workspace import ensure_knowledge_workspace
-from niros.therapeutic_extraction import TherapeuticFunctionExtraction
+from niros.therapeutic_extraction import TherapeuticFunctionExtraction, build_extraction_id
 
 
 def _extraction(**overrides) -> TherapeuticFunctionExtraction:
+    source_id = overrides.get("source_id", "source_001")
+    segment_id = overrides.get("segment_id", "source_001_segment_001")
+    therapeutic_function = overrides.get("therapeutic_function", "self_compassion")
+    psychological_function = overrides.get("psychological_function", "")
     base = {
-        "extraction_id": "extraction_source_001_segment_001_self_compassion",
-        "source_id": "source_001",
-        "segment_id": "source_001_segment_001",
-        "therapeutic_function": "self_compassion",
+        "extraction_id": build_extraction_id(
+            source_id,
+            segment_id,
+            therapeutic_function,
+            psychological_function,
+        ),
+        "source_id": source_id,
+        "segment_id": segment_id,
+        "therapeutic_function": therapeutic_function,
+        "psychological_function": psychological_function,
         "evidence_text": "May the heart be softened and fear released.",
         "confidence": 0.85,
         "extractor": "openai",
@@ -119,13 +130,15 @@ def test_edit_extraction_and_approve_edited_version(tmp_path: Path) -> None:
         symbolic_elements=("heart", "water"),
     )
     edited_record = workflow.edit_extraction(pending.review_id, edited)
+    expected_edited = replace(edited, extraction_id=pending.extraction_id)
     approved = workflow.approve(edited_record.review_id, reviewer_id="reviewer_001")
     workflow.save_review(approved)
 
     loaded = workflow.load_review(pending.review_id)
     assert loaded.status == REVIEW_STATUS_APPROVED
-    assert loaded.edited_extraction == edited
-    assert effective_extraction(loaded) == edited
+    assert loaded.review_id == pending.review_id
+    assert loaded.edited_extraction == expected_edited
+    assert effective_extraction(loaded) == expected_edited
 
 
 def test_save_and_load_review_json(tmp_path: Path) -> None:
@@ -136,6 +149,36 @@ def test_save_and_load_review_json(tmp_path: Path) -> None:
     loaded = workflow.load_review(record.review_id)
     assert output_path.exists()
     assert loaded == record
+
+
+def test_edit_extraction_normalizes_extraction_id(tmp_path: Path) -> None:
+    workflow = _workflow(tmp_path)
+    pending = workflow.create_pending_review(_extraction())
+    workflow.save_review(pending)
+
+    edited = _extraction(psychological_function="reduce self-criticism")
+    assert edited.extraction_id != pending.extraction_id
+
+    updated = workflow.edit_extraction(pending.review_id, edited)
+
+    assert updated.review_id == pending.review_id
+    assert updated.edited_extraction is not None
+    assert updated.edited_extraction.extraction_id == pending.extraction_id
+    assert updated.edited_extraction.psychological_function == "reduce self-criticism"
+
+
+def test_edit_extraction_rejects_mismatched_source_or_segment(tmp_path: Path) -> None:
+    workflow = _workflow(tmp_path)
+    pending = workflow.create_pending_review(_extraction())
+    workflow.save_review(pending)
+
+    wrong_source = _extraction(source_id="other_source")
+    with pytest.raises(HumanReviewValidationError, match="source_id must match"):
+        workflow.edit_extraction(pending.review_id, wrong_source)
+
+    wrong_segment = _extraction(segment_id="other_segment")
+    with pytest.raises(HumanReviewValidationError, match="segment_id must match"):
+        workflow.edit_extraction(pending.review_id, wrong_segment)
 
 
 def test_invalid_edited_extraction_fails(tmp_path: Path) -> None:

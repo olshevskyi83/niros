@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-07-07T10:05:56+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_maria_sabina_chants_source_maria_sabina_chants_batch_004_72268052",
+  "original_extraction": {
+    "candidate_targets": [
+      "man of business",
+      "man of recompense",
+      "man born and fallen into the world",
+      "man of cacao",
+      "man of money"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "not a matter of hexing or lies"
+    ],
+    "evidence_text": "Because there are clean flowers where I am going\n\n---\n\nThere is no wind, there is no spit, there is no garbage, there is no\ndust\n\n---\n\nThere is no whirlwind, there is no weakness in the air\n\n---\n\nThat is the work of my saints, that is the work of my saintesses\n\n---\n\nThere is no complaint, there is no evil, there is no disgust, there is no\nanger\n\n---\n\nIt is not a matter of hexing anyone, it is not a matter of lies\n\n---\n\nIt is a matter of life and well-being, of lifting up, of restoring\n\n---\n\nYou are a man of business, a man of recompense, a man born and\nfallen into the world, a man of cacao now, you are a man of\nmoney, a man with a green staff, a staff of clarity, a respectable\nman, an admirable man",
+    "extraction_id": "extraction_source_maria_sabina_chants_source_maria_sabina_chants_batch_004_72268052",
+    "extractor": "openai",
+    "generation_rules": [
+      "affirmations of absence of negativity and presence of positive qualities"
+    ],
+    "pause_rules": [
+      "pauses indicated by '---' separating thematic sections"
+    ],
+    "psychological_function": "removal of negative emotions such as complaint, evil, disgust, anger; fostering clarity and respectability",
+    "repetition_rules": [
+      "repeated negations of negative elements (no wind, no spit, no garbage, etc.)"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_maria_sabina_chants_batch_004",
+    "source_id": "source_maria_sabina_chants",
+    "symbolic_elements": [
+      "clean flowers",
+      "no wind",
+      "no spit",
+      "no garbage",
+      "no dust",
+      "no whirlwind",
+      "no weakness in the air",
+      "saints",
+      "saintesses",
+      "green staff",
+      "staff of clarity"
+    ],
+    "therapeutic_function": "lifting up, restoring, promoting life and well-being",
+    "voice_rules": [
+      "declarative statements emphasizing absence of negative elements and presence of positive attributes"
+    ]
+  },
+  "review_id": "review_extraction_source_maria_sabina_chants_source_maria_sabina_chants_batch_004_72268052",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_maria_sabina_chants_batch_004",
+  "source_id": "source_maria_sabina_chants",
+  "status": "pending",
+  "updated_at": "2026-07-07T10:05:56+00:00"
+}

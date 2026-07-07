@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import hashlib
 import re
 from dataclasses import dataclass, field
 
@@ -13,6 +14,8 @@ PENDING_HUMAN_REVIEW_STATUS = "pending_human_review"
 SOURCE_SEGMENT_EVIDENCE_LEVEL = "source_segment"
 MIN_CONFIDENCE = 0.0
 MAX_CONFIDENCE = 1.0
+EXTRACTION_ID_HASH_LENGTH = 8
+MAX_SAFE_ARTIFACT_ID_LENGTH = 200
 
 
 @dataclass(frozen=True)
@@ -40,12 +43,40 @@ def _normalize_identifier_part(value: str) -> str:
     return re.sub(r"_+", "_", normalized)
 
 
-def build_extraction_id(source_id: str, segment_id: str, therapeutic_function: str) -> str:
-    """Build a deterministic extraction ID from source, segment, and function."""
+def _extraction_id_hash(
+    source_id: str,
+    segment_id: str,
+    therapeutic_function: str,
+    psychological_function: str = "",
+) -> str:
+    payload = "|".join(
+        (
+            source_id.strip(),
+            segment_id.strip(),
+            therapeutic_function.strip(),
+            psychological_function.strip(),
+        )
+    )
+    return hashlib.sha256(payload.encode("utf-8")).hexdigest()[:EXTRACTION_ID_HASH_LENGTH]
+
+
+def build_extraction_id(
+    source_id: str,
+    segment_id: str,
+    therapeutic_function: str,
+    psychological_function: str = "",
+) -> str:
+    """Build a short deterministic extraction ID from source, segment, and functions."""
+    digest = _extraction_id_hash(
+        source_id,
+        segment_id,
+        therapeutic_function,
+        psychological_function,
+    )
     parts = (
         _normalize_identifier_part(source_id),
         _normalize_identifier_part(segment_id),
-        _normalize_identifier_part(therapeutic_function),
+        digest,
     )
     return f"extraction_{'_'.join(parts)}"
 

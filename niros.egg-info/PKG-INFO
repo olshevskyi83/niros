@@ -4,6 +4,7 @@ Version: 0.1.0
 Summary: NIROS Human Understanding Engine
 Requires-Python: >=3.11
 Requires-Dist: pydantic>=2.0
+Requires-Dist: pypdf>=4.0
 Requires-Dist: pyyaml>=6.0
 Requires-Dist: openai>=1.0.0
 Requires-Dist: python-dotenv>=1.0.0

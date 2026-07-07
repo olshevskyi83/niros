@@ -314,11 +314,6 @@ class HumanReviewWorkflow:
         """Attach a validated edited extraction to a review."""
         record = self.load_review(review_id)
         self._require_status(record, (REVIEW_STATUS_PENDING, REVIEW_STATUS_CHANGES_REQUESTED))
-        self._require_valid_extraction(edited_extraction)
-        if edited_extraction.extraction_id != record.extraction_id:
-            raise HumanReviewValidationError(
-                "edited_extraction extraction_id must match review extraction_id"
-            )
         if edited_extraction.source_id != record.source_id:
             raise HumanReviewValidationError(
                 "edited_extraction source_id must match review source_id"
@@ -327,7 +322,11 @@ class HumanReviewWorkflow:
             raise HumanReviewValidationError(
                 "edited_extraction segment_id must match review segment_id"
             )
-        updated = replace(record, edited_extraction=edited_extraction)
+        normalized = edited_extraction
+        if edited_extraction.extraction_id != record.extraction_id:
+            normalized = replace(edited_extraction, extraction_id=record.extraction_id)
+        self._require_valid_extraction(normalized)
+        updated = replace(record, edited_extraction=normalized)
         return self._persist_mutation(updated)
 
     def save_review(self, record: HumanReviewRecord) -> Path:

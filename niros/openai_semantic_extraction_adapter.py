@@ -144,12 +144,18 @@ def parse_therapeutic_extraction_json(
         )
 
     therapeutic_function = str(data.get("therapeutic_function", "")).strip()
+    psychological_function = str(data.get("psychological_function", "")).strip()
     extraction = TherapeuticFunctionExtraction(
-        extraction_id=build_extraction_id(source_id, segment_id, therapeutic_function),
+        extraction_id=build_extraction_id(
+            source_id,
+            segment_id,
+            therapeutic_function,
+            psychological_function,
+        ),
         source_id=source_id,
         segment_id=segment_id,
         therapeutic_function=therapeutic_function,
-        psychological_function=str(data.get("psychological_function", "")).strip(),
+        psychological_function=psychological_function,
         evidence_text=evidence_text.strip(),
         symbolic_elements=_as_string_tuple(data.get("symbolic_elements")),
         candidate_targets=_as_string_tuple(data.get("candidate_targets")),

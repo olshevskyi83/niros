@@ -1,0 +1,60 @@
+{
+  "created_at": "2026-07-07T10:05:47+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_maria_sabina_chants_source_maria_sabina_chants_batch_002_d7d302a5",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals seeking spiritual insight",
+      "individuals seeking emotional calm",
+      "individuals seeking connection with divine or ancestral figures"
+    ],
+    "confidence": 0.8,
+    "contraindications": [],
+    "evidence_text": "I am a woman who looks into the insides of things, says\nI am a woman who investigates, says\n\n---\n\nI am a woman who looks into the insides of things, says\nI am a woman who looks into the insides of things, says\nI am a woman who looks into the insides of things, says\nI am a woman who looks into the insides of things, says\n\n---\n\nIam the woman of the great expanse of the waters, says\nI am the woman of the expanse of the divine sea, says\nBecause I can go up to heaven, says\n\n---\n\nBecause I can go over the great expanse of the waters, says\nBecause I can go over the expanse of the divine sea, says\nCalmly, says\n\n---\n\nSaint, saint, saint, saint, saint, saint, saint, saint, saint, saint, saint,\nsaint, saint, saint, saint, saint, saint, ma ma ma ma ma mama\nwho are in the house of heaven\n\n---\n\nYou my Mother of Mazatlan\nYou my Father of the Sanctuary\nMy Mother of Izcatlan\n\n---\n\nFather Jesus, Jesus, Jesus, Jesus\nYou Mother, Mother, my Mother who art in the house of heaven\nYou Mother who art in the house of heaven\nIn your beautiful world, says\nIn your fresh world, says\nIn your world of clarity, says\nI am going there, says\nI am arriving there, says\nBecause there is the path of the tracks of the palms of my hands\nBecause I have a tongue, because I have a mouth, says\nBecause I have my palms, says\nBecause I have my hands, says\nBecause I have my tongue, says\nBecause I am speaking poorly and humbly, says\nI speak to you, you are the only one, my Mother,\nto whom I can speak with humility, you my Mother\nwho art in the house of heaven, says\nMy Father who art in the house of heaven, says\nI am going there, says\nI am arriving there, says\nI go there showing my Book, says\nI go there demonstrating my tongue and my mouth, says\nI go there pointing to the tracks of the palms of my hands, says\nI am a Saint Peter woman, says\nI am a Saint Peter woman, says\nI am an Ustandi woman, says\nI am a shooting star woman, says",
+    "extraction_id": "extraction_source_maria_sabina_chants_source_maria_sabina_chants_batch_002_d7d302a5",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use first-person declarations of identity and spiritual roles",
+      "Invoke divine or ancestral figures by name and title",
+      "Describe movement over symbolic landscapes (waters, heaven)",
+      "Express humility and reverence in speech"
+    ],
+    "pause_rules": [
+      "Pause after repeated phrases to allow reflection",
+      "Pause between invocations of different divine figures"
+    ],
+    "psychological_function": "Promotes humility, reverence, and a sense of guidance or protection",
+    "repetition_rules": [
+      "Repeat key identity phrases multiple times (e.g., 'I am a woman who looks into the insides of things')",
+      "Repeat sacred words (e.g., 'saint') in extended sequences",
+      "Repeat invocation of divine figures"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_maria_sabina_chants_batch_002",
+    "source_id": "source_maria_sabina_chants",
+    "symbolic_elements": [
+      "woman who looks into the insides of things",
+      "great expanse of the waters",
+      "divine sea",
+      "house of heaven",
+      "Mother of Mazatlan",
+      "Father of the Sanctuary",
+      "Saint Peter woman",
+      "shooting star woman",
+      "tracks of the palms of the hands"
+    ],
+    "therapeutic_function": "Facilitates introspection and spiritual connection through chant and invocation",
+    "voice_rules": [
+      "Use a calm and humble tone",
+      "Repeat key phrases for emphasis",
+      "Invoke sacred names with reverence"
+    ]
+  },
+  "review_id": "review_extraction_source_maria_sabina_chants_source_maria_sabina_chants_batch_002_d7d302a5",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_maria_sabina_chants_batch_002",
+  "source_id": "source_maria_sabina_chants",
+  "status": "pending",
+  "updated_at": "2026-07-07T10:05:47+00:00"
+}

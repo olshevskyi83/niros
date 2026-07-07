@@ -1,0 +1,57 @@
+{
+  "created_at": "2026-07-07T10:05:41+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_maria_sabina_chants_source_maria_sabina_chants_batch_001_48d760c7",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals seeking spiritual cleansing",
+      "participants in healing ceremonies",
+      "those aiming to connect with feminine spiritual archetypes"
+    ],
+    "confidence": 0.8,
+    "contraindications": [],
+    "evidence_text": "Folkways Session recorded the night of July 21-22 1956, by V.P. and R. Gordon\nWasson in the home of Cayetano Garcia of Huautla de Jiménez, Oaxaca (Mushroom\nCeremony of The Mazatec Indians of Mexico, Folkways Records and Service\nCorporation, NYC, U.S.A., FR 8975). Translation from Mazatec into Spanish by\nAlvaro Estrada and Eloina Estrada de Gonzalez. English verson by Henry Munn.\n\n---\n\nIam a woman who shouts, says\nIam a woman who whistles, says\n\n---\n\nI am a woman who plays music, says\nI am a spirit woman, says\n\n---\n\nI am a woman who shouts, says\nAh, our Jesus Christ, says\n\n---\n\nOur shooting star woman, says\nOur shooting star woman, says\nOur whirling woman of colors, says\n\n---\n\nOur undergrowth woman, says\nAh, our Jesus Christ, says\n\n---\n\nI am a lord eagle woman, says\nAh, our Jesus Christ, says\n\n---\n\nOur admirable woman, says\nOur radiant woman, says\n\n---\n\nOur woman bowed down to the ground, says\nAh, our Jesus Christ, says\n\n---\n\nOur whirling woman of colors, says\nOur Jesus Christ, says\n\n---\n\nShe is a well-prepared woman, says\nShe is a clean soul, says\n\n---\n\nShe is a well-prepared soul, says\nShe is a well-prepared soul, says\nShe is a well-prepared soul, says\nShe is a well-prepared soul, says\nAh, Jesus Christ, says\n\n---\n\nAh, it is certain and true [THE EXPRESSION IS HUMMED\nRATHER THAN SPOKEN OUT LOUD]\n\n---\n\nThose that are saints, saints, those that are saintesses, those that\n\n---\n\nare saints, saintess, saint, saintess, they are the ones that are\n\n---\n\nIt’s that I have the same soul, the same heart as the saint,\nas the saintess, says\n\n---\n\nLiving Mother, Mother who sways back and forth, says\nMother of sap, Mother of the dew, says\nMother who gave birth to us, Mother who is present, says\nMother of sap, Mother of breasts, says\n\n---\n\nYou, Mother of sap, Mother of breasts, says\nGreen Mother, Mother of clarity, says\nBudding Mother, Mother of offshoots, says\nGreen Mother, Mother of clarity, says\n\n---\n\nBudding Mother, Mother of offshoots, says\nGreen Mother, Mother of clarity, says",
+    "extraction_id": "extraction_source_maria_sabina_chants_source_maria_sabina_chants_batch_001_48d760c7",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use first-person declarations of identity and spiritual roles",
+      "Invoke sacred figures repeatedly",
+      "Include references to natural and spiritual motherhood"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text; humming indicates a softer, possibly contemplative pause"
+    ],
+    "psychological_function": "Reinforcement of identity and connection with sacred feminine and spiritual figures, fostering a sense of belonging and spiritual alignment",
+    "repetition_rules": [
+      "Repeated phrases emphasizing preparation and sanctity of the soul",
+      "Repetition of titles and symbolic names to reinforce spiritual presence"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_maria_sabina_chants_batch_001",
+    "source_id": "source_maria_sabina_chants",
+    "symbolic_elements": [
+      "woman",
+      "spirit woman",
+      "Jesus Christ",
+      "shooting star woman",
+      "whirling woman of colors",
+      "lord eagle woman",
+      "Mother of sap",
+      "Mother of dew",
+      "Green Mother",
+      "Budding Mother"
+    ],
+    "therapeutic_function": "Invocation of spiritual and healing entities through chant to promote purification and preparation of the soul",
+    "voice_rules": [
+      "Alternation between spoken and hummed expressions",
+      "Use of affirming and declarative statements"
+    ]
+  },
+  "review_id": "review_extraction_source_maria_sabina_chants_source_maria_sabina_chants_batch_001_48d760c7",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_maria_sabina_chants_batch_001",
+  "source_id": "source_maria_sabina_chants",
+  "status": "pending",
+  "updated_at": "2026-07-07T10:05:41+00:00"
+}
