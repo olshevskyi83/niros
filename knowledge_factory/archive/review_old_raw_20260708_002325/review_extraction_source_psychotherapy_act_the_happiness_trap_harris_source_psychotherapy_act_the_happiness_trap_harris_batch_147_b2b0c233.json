@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:50:44+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_147_b2b0c233",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "distraction by negative or irrelevant thoughts",
+      "lack of present-moment awareness",
+      "partial engagement with life and relationships"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text"
+    ],
+    "evidence_text": "Of course, some activities require creative or constructive thinking as part of the process—playing\nchess, for instance, or doing a crossword puzzle. But even then thoughts can pull you away from\nwhat you’re doing. If you’re playing chess and carefully thinking through all your options, that’s\nfine; those thoughts keep you involved in the game. But if you’re giving your attention to thoughts\nlike, ‘I’m going to lose’, ‘She’s so good, she must think I’m a dope’, or ‘I wonder if that new\nSteven Spielberg movie is out yet’, those thoughts will pull you out of the game.\n\n---\n\nNow, obviously there are times when being absorbed in thought is precisely what you should be\ndoing—for example, if you’re dreaming up ideas for a new ad campaign, mentally rehearsing a\nspeech, planning an important project or simply solving a crossword puzzle or philosophising about\nlife. But too much of the time, we’re so absorbed in our thoughts that we aren’t fully engaged in our\nlives and aren’t in touch with the wondrous world around us. And when we’re like this, only half\npresent with friends and family, we’re not even connected with ourselves!\n\n---\n\n‘Connection’ is the process of making full contact with your experience in this moment.\n‘Connection’ means being fully aware of your here-and-now experience and being interested, open\nand receptive to that experience.\n\n---\n\nIn practising connection, we pull ourselves out of the past or the future and bring ourselves back to\nthis moment, right here, right now, with openness, receptiveness and interest. Why do this? For\nthree main reasons:\n\n---\n\n1. This is the only life you’ve got, so make the most of it. If you’re only half present, you’re\nmissing out. It’s like watching your favourite movie with sunglasses on, listening to your\nfavourite music wearing earplugs or eating your favourite food while your mouth’s still numb\nfrom a dentist’s needle. To truly appreciate the richness and fullness of life, you have to be here\nwhile it’s happening!",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_147_b2b0c233",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus attention on current experience with openness and receptiveness",
+      "Recognize and allow thoughts without being pulled away from present activity",
+      "Shift awareness from past or future to the here-and-now"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "psychological_function": "Promoting openness, receptiveness, and interest in here-and-now experience; reducing cognitive fusion with negative or irrelevant thoughts.",
+    "repetition_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_147",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "watching a movie with sunglasses on",
+      "listening to music with earplugs",
+      "eating food with a numb mouth"
+    ],
+    "therapeutic_function": "Enhancing present-moment awareness and full engagement with current experience to reduce distraction by unhelpful thoughts.",
+    "voice_rules": [
+      "Use clear, instructive language emphasizing connection and presence",
+      "Encourage curiosity and interest in moment-to-moment experience"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_147_b2b0c233",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_147",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:44+00:00"
+}

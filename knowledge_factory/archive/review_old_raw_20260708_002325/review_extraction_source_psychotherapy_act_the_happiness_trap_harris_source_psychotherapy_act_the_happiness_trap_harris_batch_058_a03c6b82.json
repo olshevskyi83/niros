@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:45:50+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_058_a03c6b82",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative self-judgments",
+      "recurrent negative thoughts",
+      "self-critical thoughts"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "None explicitly stated in the text"
+    ],
+    "evidence_text": "What did you notice? Most people find that the first thought bothers them but the second thought\n\n---\n\nmakes them grin. Why? Because you don’t take the second thought seriously. But if the words\nfollowing ‘I am...’ are ‘a loser’, ‘a failure’, ‘a fat pig’ or ‘a boring person’, instead of ‘a banana’, we\ntend to attach far more importance to them. And yet, they are all just words. One simple way of\ntaking your thoughts less seriously is to try...\n\n---\n\nThis is a simple and effective defusion technique. When your mind starts coming up with those\nsame old stories, simply thank it. You could say to yourself (silently) things like, ‘Thank you,\nMind! How very informative!’ or ‘Thanks for sharing!’ or ‘Is that right? How fascinating!’ or\nsimply, ‘Thanks, Mind!’\n\n---\n\nWhen thanking your mind, don’t do it sarcastically or aggressively. Do it with warmth and humour,\nand with a genuine appreciation for the amazing ability of your mind to produce a never-ending\nstream of thoughts. (You could also combine this technique with Naming the Story: ‘Ah yes, the\n“I'm a failure” story. Thanks so much, Mind!”)\n\n---\n\nBelow is another technique that will help you take your thoughts less seriously. Read through the\ninstructions first and then give it a go.\n\n---\n\nThis technique is particularly good with recurrent negative self-judgements. Find a thought that\nupsets or bothers you. Focus on the thought for ten seconds, believing it as much as possible. Notice\nhow it affects you.\nix\n\n---\n\nThen pick an animated cartoon character with a humorous voice, such as Mickey Mouse, Bugs\nBunny, Shrek or Homer Simpson. Now bring the troubling thought to mind, but “hear” it in the\ncartoon character’s voice, as if that character were speaking your thoughts out loud. Notice what\nhappens.\nEx\n\n---\n\nNow get the negative thought back in its original form, and again believe it as much as possible.\nNotice how it affects you.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_058_a03c6b82",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify a troubling thought",
+      "Focus on the thought for ten seconds believing it fully",
+      "Apply defusion techniques such as thanking the mind or using a humorous voice",
+      "Compare emotional impact before and after defusion"
+    ],
+    "pause_rules": [
+      "Pause to notice the emotional effect of the thought before and after applying the technique"
+    ],
+    "psychological_function": "Cognitive defusion to decrease attachment and believability of negative thoughts; increase psychological flexibility and humor in relation to self-critical thoughts.",
+    "repetition_rules": [
+      "Repeat the defusion phrases or voice technique as needed when negative thoughts arise"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_058",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "animated cartoon character voices",
+      "naming the story",
+      "thanking the mind"
+    ],
+    "therapeutic_function": "Reduce the impact and seriousness of negative self-judgments by altering the perception and emotional response to thoughts.",
+    "voice_rules": [
+      "Use a humorous, animated cartoon character voice to 'speak' the negative thought",
+      "Express gratitude to the mind with warmth and humor, avoiding sarcasm or aggression"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_058_a03c6b82",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_058",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:50+00:00"
+}

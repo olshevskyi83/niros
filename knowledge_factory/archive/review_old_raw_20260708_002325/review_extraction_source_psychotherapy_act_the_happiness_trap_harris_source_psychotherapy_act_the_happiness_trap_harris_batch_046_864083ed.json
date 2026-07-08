@@ -1,0 +1,47 @@
+{
+  "created_at": "2026-07-07T21:45:11+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_046_864083ed",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Recurring upsetting self-evaluative thoughts",
+      "Negative automatic thoughts",
+      "Self-critical beliefs"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if effective for individuals with severe dissociation or psychosis."
+    ],
+    "evidence_text": "To begin this exercise, first bring to mind an upsetting thought that takes the form ‘I am X’, for\nexample, ‘I am dumb’, ‘I am such a loser’ or ‘I’m so incompetent.’ Preferably pick a thought that\noften recurs and that usually bothers or upsets you when it does. Now hold that thought in your\nmind and believe it as much as you can. Focus on it for several seconds. Notice how it affects you.\nEx\n\n---\n\nNow take that thought and, in front of it, insert this phrase: ‘I’m having the thought that...” Now run\nthat thought again, this time with the phrase attached. Think to yourself, ‘I’m having the thought\nthat Iam X.’ Notice what happens.\nEx\n\n---\n\nDid you do it? Remember, you can’t learn to ride a bike just by reading about it— you actually have\nto get on the bike and pedal. And you won’t get much out of this book if you just read the exercises.\nTo change the way you handle your painful thoughts, you actually have to practise some new skills.\nSo if you haven’t done the exercise, please go back and do it now.\nEx\n\n---\n\nSo what happened? You probably found that inserting the phrase, ‘I’m having the thought that...’\ninstantly gave you some distance from the actual thought itself; it helped you step back and observe\nit. (If you didn’t notice any difference, try it again with another thought.)\n\n---\n\nYou can use this technique with any unpleasant thought. For instance, if your mind says, “Life\nsucks!” then simply acknowledge, ‘I’m having the thought that life sucks!” If your mind says, *I”11\nnever get over this!’ then simply acknowledge, ‘I’m having the thought that I'll never get over this!”\n\n---\n\nIf your mind says, ‘My bum looks huge in this!” then simply acknowledge, “I’m having the thought\nthat my bum looks huge in this!’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_046_864083ed",
+    "extractor": "openai",
+    "generation_rules": [
+      "Insert the phrase 'I’m having the thought that...' before the upsetting thought to reframe it."
+    ],
+    "pause_rules": [
+      "Focus on the thought for several seconds before and after inserting the phrase to notice changes."
+    ],
+    "psychological_function": "Facilitates cognitive defusion by encouraging observation of thoughts without attachment or literal belief.",
+    "repetition_rules": [
+      "Repeat the exercise with different upsetting thoughts to practice distancing skills."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_046",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "The phrase 'I’m having the thought that...' as a linguistic tool to separate self from thought."
+    ],
+    "therapeutic_function": "Creates psychological distance from upsetting thoughts by reframing them as mental events rather than facts.",
+    "voice_rules": [
+      "Use first-person present tense to acknowledge the thought as a mental event."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_046_864083ed",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_046",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:11+00:00"
+}

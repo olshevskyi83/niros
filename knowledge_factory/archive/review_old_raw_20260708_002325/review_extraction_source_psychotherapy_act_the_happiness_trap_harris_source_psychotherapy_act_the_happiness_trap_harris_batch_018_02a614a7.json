@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:43:31+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_018_02a614a7",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thoughts",
+      "memories",
+      "emotions",
+      "urges",
+      "mental images",
+      "physical sensations"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text."
+    ],
+    "evidence_text": "Now, in the material world, control strategies generally work well. If we don’t like something, we\nfigure out how to avoid it or get rid of it, and then we do so. A wolf outside your door? Get rid of it!\nThrow rocks at it, or spears, or shoot it. Snow, rain or hail? Well you can’t get rid of those things,\nbut you can avoid them by hiding in a cave, or building a shelter. Dry, arid ground? You can get rid\nof it by irrigation and fertilisation, or you can avoid it by moving to a better location.\n\n---\n\nBut what about our internal world? I’m talking here about thoughts, memories, emotions, urges,\nmental images and physical sensations. Can we simply avoid or get rid of the ones we don’t like? In\nthe outer world, we can do so fairly easily, so shouldn’t it be the same with our inner world?\n\n---\n\nHere’s a little experiment. As you keep reading this paragraph, try not to think about ice cream.\nDon’t think about the colour or the texture or the taste of it. Don’t think about how it tastes on a hot\nsummer’s day. Don’t think about how good it feels as it melts inside your mouth. Don’t think about\nhow you have to keep licking around the edges to stop it from dripping on your fingers.\n\n---\n\nExactly! You couldn’t stop thinking about ice cream.\n\n---\n\nHere’s another little experiment. Recall something that happened in the past week. Any memory\nwill do, whether it’s a conversation you had, a movie you watched or a meal you ate. Got one?\nGood. Now try to get rid of it. Totally obliterate it from your memory so it can never come back to\nyou, ever again.\n\n---\n\nHow did you go? If you think you succeeded, just check again and see if you can still remember it.\n\n---\n\nNow, tune in to your mouth. Notice how your tongue feels. Run it over your teeth, your gums, your\ncheeks and the roof of your mouth. Now try to get rid of those sensations. Try to turn your mouth\ntotally numb, as if you just had a shot of novocaine from the dentist. Were you able to forget the\nsensations?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_018_02a614a7",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use experiential experiments to reveal the futility of trying to suppress or avoid internal experiences."
+    ],
+    "pause_rules": [
+      "Implied pauses after experiential instructions to allow reflection on the difficulty of suppression."
+    ],
+    "psychological_function": "Facilitates awareness and acceptance of internal experiences by illustrating the ineffectiveness of avoidance and suppression attempts.",
+    "repetition_rules": [
+      "Repeat instructions emphasizing what not to think or feel to highlight the paradox of suppression."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_018",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "ice cream (as a thought to avoid)"
+    ],
+    "therapeutic_function": "Demonstrates the difficulty of controlling or avoiding internal experiences such as thoughts, memories, emotions, urges, mental images, and physical sensations, highlighting the limitations of control strategies in the internal world.",
+    "voice_rules": [
+      "Use direct, instructive language to guide the reader through experiential exercises."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_018_02a614a7",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_018",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:31+00:00"
+}

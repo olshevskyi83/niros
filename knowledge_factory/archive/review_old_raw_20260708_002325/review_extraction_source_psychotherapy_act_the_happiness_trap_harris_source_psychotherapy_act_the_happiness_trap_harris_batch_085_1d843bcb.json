@@ -1,0 +1,61 @@
+{
+  "created_at": "2026-07-07T21:47:26+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_085_1d843bcb",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "distressing mental images",
+      "fear-inducing visualizations",
+      "intrusive memories"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text"
+    ],
+    "evidence_text": "Visualise this image in a variety of different locations. Stay with each scenario for twenty seconds\nbefore shifting to a new one. Visualise your image on the T-shirt of a jogger or a rock star.\nVisualise it painted on a canvas, or on a banner, flying behind an aeroplane. Visualise it as a\nbumper sticker, as a magazine photo, or as a tattoo on someone’s back. Visualise it as a ‘pop-up’ on\na computer screen or as a poster in a teenager’s bedroom. Visualise it as the image on a postage\nstamp or as a drawing in a comic book. Use your imagination with this; the sky’s the limit.\n\n---\n\nIf you’re still fused with the image after all this—that is, if it’s still upsetting you, frightening you\nor taking up all your attention whenever it appears—then I would suggest you practise running\nthrough some or all of the above exercises every single day for at least five minutes. This is what I\nasked Roxy to do, and within a week that image of herself in a wheelchair was no longer bothering\nher. It still appeared from time to time, but it no longer frightened her, and she was able to let it\n\n---\n\ncome and go while she stayed focused on more important things. Paradoxically, the less she tried to\npush this image away, the less often it appeared. This was not the intention, but it’s something that\noften happens as a positive side effect. It makes sense when you think about the rebound effect,\nwhich so often occurs when you try to push thoughts and images away.\n\n---\n\nFor less troublesome images, you can easily adapt other defusion techniques. Instead of ‘I’m having\nthe thought that...’ you can acknowledge, ‘I’m having the image of...”. For example, ‘I’m having the\nimage of screwing up the interview.’ If the image is a memory, you could try, ‘I’m having the\nmemory of...” You could even think, ‘My mind”s showing me a picture of...”",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_085_1d843bcb",
+    "extractor": "openai",
+    "generation_rules": [
+      "Visualize the distressing image in a variety of different locations and contexts",
+      "Stay with each visualization for twenty seconds before shifting to a new one",
+      "Practice the visualization exercises daily for at least five minutes if the image remains distressing"
+    ],
+    "pause_rules": [
+      "Pause for twenty seconds with each visualization before shifting to a new scenario"
+    ],
+    "psychological_function": "Reduces fusion with upsetting images, decreases fear and attentional capture by these images, promotes acceptance and focus on valued activities",
+    "repetition_rules": [
+      "Repeat visualization exercises daily for at least five minutes when images remain upsetting",
+      "Use repeated acknowledgment phrases to defuse from images"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_085",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "image on a T-shirt",
+      "image on a canvas",
+      "image on a banner behind an aeroplane",
+      "bumper sticker",
+      "magazine photo",
+      "tattoo on someone’s back",
+      "pop-up on a computer screen",
+      "poster in a teenager’s bedroom",
+      "image on a postage stamp",
+      "drawing in a comic book"
+    ],
+    "therapeutic_function": "Cognitive defusion through visualization of distressing images in varied contexts to reduce their emotional impact and frequency",
+    "voice_rules": [
+      "Use first-person acknowledgment phrases such as 'I’m having the image of...'",
+      "Use present tense to acknowledge images or memories ('I’m having the memory of...')",
+      "Use neutral descriptive language to label mental content ('My mind’s showing me a picture of...')"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_085_1d843bcb",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_085",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:26+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:49:01+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_115_04bd18f5",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thinking self",
+      "observing self",
+      "emotions (especially 'negative' emotions)"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Potential difficulty or frustration due to the persistent and distracting nature of the thinking self's commentary."
+    ],
+    "evidence_text": "Hopefully, during that exercise you experienced that awareness of the body is very different from\nthinking about it. The thoughts you had while you did the exercise came from your thinking self.\nBut the awareness of your body—the noticing of the different sensations, urges, movements and\npositions—came from your observing self.\n\n---\n\nIf you didn’t experience this distinction, do the above exercise again. And notice that while the\nthinking self is talking away, the observing self is simply paying attention to your body. Notice, too,\nthat there are brief moments (which may last less than a second) when the thinking self shuts up and\nthe observing self can observe without any distraction.\n\n---\n\nOnce you have experienced that distinction, it’s time to move on to...\n\n---\n\nIn practising expansion, we need to sidestep the thinking self—to put aside its unhelpful comments\n—and connect with our emotions through the observing self. This enables us to experience our\nemotions directly, to see them as they actually are, rather than as the thinking self says they are.\nAccording to the thinking self, ‘negative’ emotions are giant, dangerous demons, but the observing\nself reveals them for what they are: relatively small and harmless.\n\n---\n\nSo in practising expansion, the aim is to observe your emotions, not to think about them. There’s\njust one problem: the thinking self never shuts up! (At least, not for more than a few seconds at a\ntime.) This means that while you practise expansion, your thinking self will continually try to\ndistract you. It may pass judgements on your feelings or try to analyse them, or tell you scary\nstories about them or claim that you can’t handle them, or insist that it’s all too hard. Or it may say,\n‘Don’t bother with these exercises; reading about them is enough.’ It may even suggest that you ‘do\nthem later’, knowing full well that you probably won’t.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_115_04bd18f5",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage repeated practice of body awareness exercises to experience the distinction between thinking self and observing self.",
+      "Sidestep or put aside unhelpful comments from the thinking self during expansion practice.",
+      "Focus on observing emotions directly rather than thinking about them."
+    ],
+    "pause_rules": [
+      "Notice brief moments when the thinking self is silent to allow undistracted observation by the observing self."
+    ],
+    "psychological_function": "Promotes awareness and acceptance of emotions by reducing judgmental and analytical interference from the thinking self, allowing emotions to be seen as less threatening.",
+    "repetition_rules": [
+      "If the distinction between thinking self and observing self is not experienced, repeat the exercise.",
+      "Recognize that the thinking self rarely shuts up for more than a few seconds, implying the need for ongoing practice."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_115",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "thinking self",
+      "observing self",
+      "negative emotions as giant, dangerous demons",
+      "observing self revealing emotions as small and harmless"
+    ],
+    "therapeutic_function": "Facilitates differentiation between the observing self and the thinking self to enable direct experience of bodily sensations and emotions without cognitive interference.",
+    "voice_rules": [
+      "Use language that distinguishes the thinking self as talkative and judgmental and the observing self as quiet and attentive.",
+      "Acknowledge the persistent nature of the thinking self's distractions."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_115_04bd18f5",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_115",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:01+00:00"
+}

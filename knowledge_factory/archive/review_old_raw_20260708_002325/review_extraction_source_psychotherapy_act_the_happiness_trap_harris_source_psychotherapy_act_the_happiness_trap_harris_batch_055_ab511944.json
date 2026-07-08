@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:45:41+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_055_ab511944",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "automatic negative self-beliefs",
+      "impostor syndrome",
+      "self-doubt",
+      "overcritical mind"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals with severe psychosis or cognitive impairments affecting reality testing"
+    ],
+    "evidence_text": "Third, one of the core principles of ACT involves learning to pay careful attention to what is\nactually happening, rather than just automatically believing what your mind says. For example, you\nmay have heard of the ‘impostor syndrome’. This is where someone who does his job competently\nand effectively believes that he’s just an impostor; that he doesn’t really know what he’s doing. The\nimpostor thinks of himself as a fraud, a fake, a charlatan, bluffing his way through everything,\nalways on the verge of being ‘found out’. In the impostor syndrome, people are not paying enough\nattention to their direct experience; to the clearly observable facts that they are doing their job\neffectively. Instead they are paying attention to an overcritical mind that says, “You don’t know\nwhat you’re doing. You’re screwing up. Sooner or later everyone will see through you because\nyou're a fake.” High-profile examples of people who have experienced the impostor syndrome,\neven while being phenomenally successful in their careers, include the rock star Robbie Williams\nand the Oscar-winning actress Renée Zellweger.\n\n---\n\nIn my early years as a doctor I used to suffer from it, too. If one of my patients said, ‘Thank you.\nYou're a wonderful doctor”, I used to think, “Yeah, right. You wouldn't say that if you knew what\nPm really like.’ I could never accept such compliments, because I was convinced that deep down I\nwas totally incompetent. In reality I did my job very well, but my mind kept telling me I was\nuseless, and I believed it.\n\n---\n\nWhenever I made a mistake at work, no matter how trivial, two words would automatically blaze\ninto my head: ‘I’m incompetent.’ At first I used to take the words quite seriously. I’d get really\nupset, believing they were the absolute truth. Then I'd start doubting myself and stressing out about\nall the decisions I’d made. Had I misdiagnosed that stomach-ache? Had I prescribed the wrong\nantibiotic? Had I overlooked something serious?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_055_ab511944",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus attention on direct experience and observable facts",
+      "Notice and label automatic negative thoughts without accepting them as truth"
+    ],
+    "pause_rules": [
+      "Pause to allow reflection on the difference between thoughts and reality"
+    ],
+    "psychological_function": "Reducing the impact of overcritical and automatic negative thoughts by focusing on observable facts",
+    "repetition_rules": [
+      "Repeat the contrast between mind’s negative messages and actual observable facts"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_055",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "impostor syndrome",
+      "impostor",
+      "fraud",
+      "fake",
+      "charlatan",
+      "being found out"
+    ],
+    "therapeutic_function": "Learning to pay careful attention to actual experience rather than automatically believing negative self-evaluations",
+    "voice_rules": [
+      "Use examples of common experiences (e.g., impostor syndrome) to illustrate concepts",
+      "Use first-person narrative to normalize experience"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_055_ab511944",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_055",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:41+00:00"
+}

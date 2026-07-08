@@ -1,0 +1,47 @@
+{
+  "created_at": "2026-07-07T21:51:32+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_165_234ffb6d",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "internal experience",
+      "panic attack symptoms",
+      "anxiety-related physiological sensations",
+      "fear of losing control or dying"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "So, ACT is not a religious, mystical or spiritual path, although it may have some parallels. ACT is\nabout creating a meaningful life through accepting our internal experience, staying present and\ntaking action while being guided by our values. And workability is always the deciding factor. So if\nthere’s anything in this book (or any other self-help book) that works toward creating the life you\nwant, then please, make use of it. But don’t believe anything in this or any other book simply\nbecause you read it—your own experience trumps someone else’s advice.\n\n---\n\nAnd that completes this little detour. We’re back on the road and it’s time to continue our journey.\nIn the next chapter we’ll take a closer look at connection and the many surprising ways it can help\nyou overcome life’s obstacles.\n\n---\n\n‘It’s like I’m in a bad dream or losing my mind. Nothing seems real. And I feel like something\nterrible is going to happen. First I go all dizzy and light-headed and I can’t think straight. Then my\nface gets hot and I get these “pins and needles” in my hands and feet. Then my chest goes all tight\nand my heart starts beating like crazy and I’m sure I’m going to faint or have a heart attack. So I go\noutside to get some air. But I can’t seem to breathe properly. It’s like I’m suffocating.’\n\n---\n\nThis is Rachel, the secretary you met in Chapter 11, describing one of her panic attacks. During a\npanic attack, many people experience symptoms such as a racing heart, facial flushing, tightness in\nthe chest, light-headedness, tingling hands and feet, a sense of unreality, fears of fainting or dying\nor going crazy, and a frightening sensation of being unable to breathe.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_165_234ffb6d",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use personal experience as the primary guide rather than external advice",
+      "Focus on what works to create the life you want"
+    ],
+    "pause_rules": [
+      "Not specified in the text"
+    ],
+    "psychological_function": "Acceptance of internal experiences, present-moment awareness, values-guided behavior, and emphasis on workability over belief",
+    "repetition_rules": [
+      "Not specified in the text"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_165",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Creating a meaningful life through acceptance of internal experience, staying present, and taking values-guided action",
+    "voice_rules": [
+      "Non-dogmatic, encouraging personal validation over blind belief"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_165_234ffb6d",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_165",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:32+00:00"
+}

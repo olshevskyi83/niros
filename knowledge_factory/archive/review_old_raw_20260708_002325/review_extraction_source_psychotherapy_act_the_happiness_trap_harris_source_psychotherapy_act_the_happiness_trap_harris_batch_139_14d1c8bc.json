@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:50:15+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_139_14d1c8bc",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "urges",
+      "impulses",
+      "internal experiences",
+      "conflicting desires"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Not explicitly stated in the text."
+    ],
+    "evidence_text": "Of course, it would be different if Lisa truly valued staying at home—-if, for instance, she wanted to\ncatch up on her studies for an important exam. If that were the case, staying home alone would be\ntaking her life in the direction she wants, not away from it, so 1t would make sense to act on the\nurge.\n\n---\n\nSo what do we do if an urge pushes us in one direction and our values pull us in another? We don’t\nwant to struggle with that urge because then it’s hard to focus on effective action. So rather than try\nto resist, control or suppress it, the aim in ACT is to make room for it, to give it enough time and\nspace to expend all its energy —n other words, to practise expansion. And one marvellously useful\ntechnique for this 1s known as “urge surfing”.\n\n---\n\nHave you ever sat on the beach and watched the waves? Just noticed them coming and going? A\nwave starts off small and builds gently. Then gradually it gathers speed and grows bigger. It\ncontinues to grow and move forward until 1t reaches a peak, known as a crest. Then, once the wave\nhas crested, it gradually subsides. The same happens with urges in your body. They start off small\nand then steadily increase in size (usually, that is—sometimes it can happen amazingly fast).\n\n---\n\nWe often get into a struggle with our urges; that’s why people talk of ‘resisting’ them or ‘giving in’\nto them. In urge surfing, though, we aren’t trying to resist or control our urges—we’re just giving\nthem space. If you give an ocean wave enough space, it will reach a crest and then harmlessly\nsubside. But what happens if the wave encounters resistance? Well, ever seen a wave crash onto the\nbeach or smash against the rocks? It’s loud, messy and potentially destructive!",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_139_14d1c8bc",
+    "extractor": "openai",
+    "generation_rules": [
+      "Do not resist, control, or suppress urges; instead, make room for them to expend energy naturally.",
+      "Practice expansion by observing urges as waves that rise, crest, and subside."
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "psychological_function": "Promotes psychological flexibility by encouraging observation and expansion of urges without suppression or control, enabling effective management of conflicting impulses and values.",
+    "repetition_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_139",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "waves",
+      "wave crest",
+      "urge as a wave",
+      "surfing the urge"
+    ],
+    "therapeutic_function": "Facilitates acceptance and non-resistance to urges by allowing them to arise, peak, and subside naturally, thereby reducing struggle and increasing focus on values-based action.",
+    "voice_rules": [
+      "Use a calm, observational tone that encourages noticing urges without judgment."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_139_14d1c8bc",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_139",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:15+00:00"
+}

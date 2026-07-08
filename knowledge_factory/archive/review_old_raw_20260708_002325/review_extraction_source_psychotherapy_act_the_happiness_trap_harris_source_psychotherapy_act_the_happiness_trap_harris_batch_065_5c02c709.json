@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:46:12+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_065_5c02c709",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "uncomfortable thoughts",
+      "uncomfortable feelings",
+      "struggle with present reality"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if acceptance approach is suitable for individuals requiring immediate symptom relief or those with severe dissociation"
+    ],
+    "evidence_text": "The third scenario, peace, represents true acceptance. Notice that in this scenario your country\ndoesn’t have to like the other country, approve of its being there, convert to its religion or learn to\nspeak its language. You simply make peace with them. You acknowledge your differences, you\ngive up trying to change their politics or religion, and you focus your efforts on making your own\ncountry a better place to live in. It’s the same when you truly accept your uncomfortable thoughts\nand feelings. You don’t have to like them, want them or approve of them; you simply make peace\nwith them and let them be. This leaves you free to focus your energy on taking action—action that\nmoves your life forward in a direction you value.\n\n---\n\nAcceptance does not mean ‘putting up with’ or resigning yourself to anything. Acceptance is about\nembracing life, not merely tolerating it. Acceptance literally means ‘taking what is offered’. It\ndoesn’t mean giving up or admitting defeat; it doesn’t mean just gritting your teeth and bearing it. It\nmeans fully opening yourself to your present reality—acknowledging how it is, right here and now,\nand letting go of the struggle with life as it is in this moment.\n\n---\n\nBut what if you want to improve your life and not just accept it as it is? Well, that’s the whole\npurpose of this book. But the most effective way to make changes in your life is to start by fully\naccepting it. Suppose you are walking across ice. In order to safely take the next step, you first need\nto find a firm foothold. If you try moving forward without doing that, then you’re likely to fall flat\non your face.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_065_5c02c709",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage acknowledgment of differences without needing approval or change",
+      "Promote full opening to present reality as it is",
+      "Emphasize acceptance as a prerequisite to effective change"
+    ],
+    "pause_rules": [
+      "Pause after introducing metaphors to allow reflection on acceptance concepts"
+    ],
+    "psychological_function": "Promotes embracing present reality without resistance, reducing internal conflict and fostering psychological flexibility.",
+    "repetition_rules": [
+      "Reiterate that acceptance does not mean liking, wanting, or approving thoughts and feelings",
+      "Repeat that acceptance is not resignation or defeat but embracing life"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_065",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "making peace with another country despite differences",
+      "walking across ice requiring a firm foothold before moving forward"
+    ],
+    "therapeutic_function": "Facilitates true acceptance of uncomfortable thoughts and feelings, enabling individuals to let go of struggle and focus energy on valued actions.",
+    "voice_rules": [
+      "Use metaphorical language to illustrate acceptance (e.g., countries making peace, walking on ice)"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_065_5c02c709",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_065",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:12+00:00"
+}

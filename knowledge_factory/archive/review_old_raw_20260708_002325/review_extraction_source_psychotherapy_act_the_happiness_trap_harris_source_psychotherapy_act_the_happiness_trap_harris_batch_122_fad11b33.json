@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:49:23+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_122_fad11b33",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "uncomfortable feelings",
+      "sadness",
+      "worry",
+      "distress",
+      "stress"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Potential difficulty for individuals with severe trauma or emotional dysregulation who may be overwhelmed by direct exposure to uncomfortable feelings without additional support."
+    ],
+    "evidence_text": "Russ: So the question is, are you willing to make room for it? To let this sadness be there, without\nrunning from it?\n\n---\n\nOf course, that was by no means the end of the process for Donna. But it was a valuable learning\nexperience for her. It was the start of a very different approach to dealing with her emotions: one of\nacceptance rather than resistance or avoidance.\n\n---\n\nSo at last we come to the practical part of this chapter. Now, in order to practise expansion, you'll\nneed to have some uncomfortable feelings to deal with. So bring to mind something that’s currently\na problem, something that worries, disturbs or stresses you—the sort of problem that prompted you\nto pick up this book in the first place. Once you’ve thought of such a problem, focus on it until you\nfeel uncomfortable.\n\n---\n\n“What!” you’re probably yelling. ‘Are you crazy? I don’t want to feel that discomfort!’\n\n---\n\nWell, join the club. I don’t know anyone who wants to feel discomfort. The idea here is to be\nwilling to feel it. Wanting something means you actively like it. Willingness simply means that\nyou’re allowing it.\n\n---\n\nWhy develop willingness? Because throughout your life uncomfortable feelings will arise. If you\nkeep trying to avoid them, you’ll simply create additional ‘dirty discomfort’. By making room for\nyour feelings and willingly feeling them (even though you don’t want to), you’ll change your\nrelationship with them. They’ll become much less threatening and will have much less influence on\nyou. They’ll take up much less time, energy and attention.\n\n---\n\nThe more we turn away from our demons, the harder we try not to look at them, the bigger and\nscarier they seem. Menacing shapes half-glimpsed from the corner of our vision are far more\ndisturbing than the things we can see clearly. That’s why, in horror movies, they always film the\nmonster lurking in darkness; if they brought it out into broad daylight, it wouldn’t be nearly so\nscary.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_122_fad11b33",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage clients to bring to mind current problems that cause discomfort",
+      "Guide clients to focus on these feelings until discomfort is felt",
+      "Promote willingness to feel discomfort without resistance or avoidance"
+    ],
+    "pause_rules": [
+      "Implied pauses after questions and reflective prompts to allow internal processing."
+    ],
+    "psychological_function": "Promotes willingness to experience discomfort rather than avoidance, leading to decreased emotional distress and increased emotional clarity.",
+    "repetition_rules": [
+      "Reinforce the concept of willingness versus wanting, emphasizing allowing feelings without active liking."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_122",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "monsters lurking in darkness representing avoided emotions",
+      "bringing emotions into broad daylight to reduce fear"
+    ],
+    "therapeutic_function": "Facilitates acceptance of uncomfortable emotions to reduce their impact and influence on the individual.",
+    "voice_rules": [
+      "Use a questioning and invitational tone (e.g., 'Are you willing to make room for it?')",
+      "Acknowledge common resistance to discomfort ('What! You’re probably yelling...')",
+      "Normalize discomfort and willingness to experience it"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_122_fad11b33",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_122",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:23+00:00"
+}

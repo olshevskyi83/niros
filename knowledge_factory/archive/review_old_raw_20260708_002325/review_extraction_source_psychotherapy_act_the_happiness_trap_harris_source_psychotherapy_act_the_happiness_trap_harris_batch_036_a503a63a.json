@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-07-07T21:44:30+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_036_a503a63a",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "control strategies that reduce quality of life",
+      "avoidance of unpleasant thoughts and feelings",
+      "motivation behind actions"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not addressing control strategies that are not problematic may overlook subtle issues in some cases"
+    ],
+    "evidence_text": "Of course, if your control strategies have not had significant costs, or if they have brought you\ncloser to the life you want, then they are not problematic and we don’t need to focus on them. In\nACT we are only concerned about the control strategies that put a drag on your quality of life in the\nlong run.\n\n---\n\n“Wait a moment,’ I hear you say. “Why haven’t you talked about things like giving to charity, or\nworking diligently, or caring for your friends? Isn’t giving to others supposed to make people\nhappy?’ Good point. Bear in mind that it’s not just the things you do that matter; it’s also your\nmotivation for doing them. If you’re giving to charity to push away thoughts that you’re selfish, or\nyou’re throwing yourself into work to avoid feelings of inadequacy, or you’re caring for your\nfriends to counteract fears of rejection, then chances are, you won’t get much satisfaction out of\nthose activities. Why not? Because when your primary motivation is the avoidance of unpleasant\nthoughts and feelings, this drains the joy and vitality from what you are doing. For example, recall\nthe last time you ate something rich and tasty to try to stop feeling stressed, or bored, or unhappy.\nChances are, it wasn’t all that satisfying. However, did you ever eat that very same food, not to get\nrid of bad feelings, but purely and simply to enjoy it and appreciate its taste? I bet you found that\nmuch more fulfilling.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_036_a503a63a",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus on control strategies that cause long-term harm rather than those that are neutral or beneficial",
+      "Emphasize intrinsic motivation over avoidance-based motivation"
+    ],
+    "pause_rules": [
+      "Not specified in the text"
+    ],
+    "psychological_function": "Highlighting the impact of motivation on satisfaction derived from actions; differentiating between actions driven by avoidance of negative internal experiences versus actions driven by appreciation and enjoyment.",
+    "repetition_rules": [
+      "Not specified in the text"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_036",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "eating rich and tasty food as an example of motivation affecting satisfaction"
+    ],
+    "therapeutic_function": "Identifying and reducing control strategies that negatively impact long-term quality of life; shifting motivation from avoidance of unpleasant thoughts and feelings to engagement in activities for intrinsic enjoyment and value.",
+    "voice_rules": [
+      "Use a reflective and questioning tone to engage the client’s awareness of their motivations"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_036_a503a63a",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_036",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:30+00:00"
+}

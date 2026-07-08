@@ -1,0 +1,49 @@
+{
+  "created_at": "2026-07-07T21:48:10+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_099_e2d19926",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "bodily sensations",
+      "urges",
+      "cognitive labels",
+      "emotional responses"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text."
+    ],
+    "evidence_text": "In the third phase, our mind starts attaching words, ideas and meanings to the changes happening in\nour body. For example, the mind may give our sensations and urges a label such as ‘frustration’ or\n‘joy’, or ‘feeling lousy’. And what our mind tells us about these sensations has a significant impact\non how we relate to them. For example, imagine two people on a rollercoaster. One of them is\nterrified; the other is exhilarated. Both are experiencing the same physical changes (raised\nadrenaline levels, increased blood pressure), the same physical sensations (churning stomach,\npounding heart), and the same urges (to scream), but their subjective experiences are very different,\ndepending on what their minds tell them. One mind says, ‘This is fun!’, the other mind says, ‘This\nis dangerous!’ Guess who feels exhilarated and who feels frightened. In the same way, one\nperformer’s ‘stage fright’ can be another performer’s ‘adrenaline rush’. Both performers experience\nthe same sensations (racing heart, shaking legs and so on), but their minds interpret those sensations\nvery differently.\n\n---\n\nThe fight-or-flight response is a primitive survival reflex that originates in the midbrain. It has\nevolved on the basis that if something is threatening you, your best chance of survival is either to\nrun away (flight) or to stand your ground and defend yourself (fight). You heart rate speeds up, your\nbody floods with adrenaline, blood shunts to the large muscles of your arms and legs and your\nbreathing increases to give you more oxygen, all of which primes you to flee or else stay and fight.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_099_e2d19926",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use examples contrasting different interpretations of identical physical sensations to illustrate cognitive reappraisal."
+    ],
+    "pause_rules": [
+      "Pause after presenting contrasting examples to allow reflection on differing interpretations."
+    ],
+    "psychological_function": "Labeling and cognitive appraisal of bodily sensations to influence subjective emotional experience.",
+    "repetition_rules": [
+      "Repeat examples of identical physical sensations with differing cognitive labels to reinforce the concept of interpretation affecting experience."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_099",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "rollercoaster",
+      "fight-or-flight response"
+    ],
+    "therapeutic_function": "Reframing bodily sensations by changing the interpretation of physical experiences to alter emotional responses.",
+    "voice_rules": [
+      "Use illustrative, comparative language to highlight differences in subjective experience based on mental interpretation."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_099_e2d19926",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_099",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:10+00:00"
+}

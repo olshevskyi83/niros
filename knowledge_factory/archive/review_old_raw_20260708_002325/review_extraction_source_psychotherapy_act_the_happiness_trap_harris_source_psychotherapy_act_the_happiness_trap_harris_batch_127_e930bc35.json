@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:49:38+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_127_e930bc35",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant feelings",
+      "struggling with emotions",
+      "embarrassing side effects of feelings"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "None explicitly stated in the text."
+    ],
+    "evidence_text": "Of course, once you fully accept your unpleasant feelings and immerse yourself in valued\nactivities, pleasant feelings will often start to emerge. But as I’ve said countless times before, this is\njust a bonus, not the main goal. The main goal is to engage in meaningful activities, no matter how\nyou feel. It is this that, in the long run, makes life fulfilling.\n\n---\n\nQ: I did accept my feelings for a little while, but then I started struggling with them again.\n\n---\n\nA: This is common. We often need to accept, accept, and accept again. The word ‘acceptance’ is\nmisleading, because it seems like a one-off action. In fact, acceptance is an ongoing process. A\nbetter word might be ‘accepting’.\n\n---\n\nQ: What do I do if strong feelings come on when I’m at work, or in some other situation where I\ncan’t just sit down and practise expansion?\n\n---\n\nA: With practice, expansion can happen almost instantly. It takes only a couple of seconds to take a\nslow, deep breath, scan your body and make some room for what you’re feeling. Once you’ve done\nthat, focus your attention on effective action rather than getting caught up in your feelings.\n\n---\n\nA: No, it’s not. But most people find it very helpful. The other two steps, observing and allowing,\nare the only essential aspects of expansion.\n\n---\n\nQ: How can I accept my feelings when they have embarrassing side effects, such as making me\nblush!\n\n---\n\nA: In my days as a family doctor, I hated stitching up wounds on small children. The kids were\nusually terrified and they screamed and bawled as their parents held them down. I felt like such a\nsadist! Often I felt quite anxious and unfortunately my hands would start to shake. Now, obviously\nthis was embarrassing, but if I got upset about it, they just shook all the more.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_127_e930bc35",
+    "extractor": "openai",
+    "generation_rules": [
+      "Acceptance is not a one-time event but a repeated, ongoing process.",
+      "Expansion involves observing and allowing feelings without judgment.",
+      "Focus attention on effective action rather than emotional experience."
+    ],
+    "pause_rules": [
+      "Use brief pauses to allow for slow, deep breaths and body scanning during expansion."
+    ],
+    "psychological_function": "Promotes acceptance as a continuous process, reduces struggle with emotions, and shifts focus from feelings to effective action.",
+    "repetition_rules": [
+      "Encourage repeated acceptance ('accept, accept, and accept again')."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_127",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "acceptance as an ongoing process",
+      "expansion (observing and allowing feelings)"
+    ],
+    "therapeutic_function": "Facilitates ongoing acceptance of unpleasant feelings and engagement in meaningful activities regardless of emotional state.",
+    "voice_rules": [
+      "Use reassuring and normalizing language to validate common experiences of struggling with acceptance.",
+      "Encourage persistence and practice in acceptance."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_127_e930bc35",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_127",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:38+00:00"
+}

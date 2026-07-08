@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-07-07T21:50:54+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_151_8a364fe3",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Distracting thoughts",
+      "Wandering attention",
+      "Painful experiences",
+      "Sensory awareness"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "How did you find that ‘alien’ experience? You’ve been reading this book for quite a while now, and\nuntil now you’ve probably taken all these different aspects of it for granted. And the same is true for\njust about every aspect of our life. Over the next few chapters we’re going to focus on several\ndifferent aspects of connection, particularly how to use it when dealing with painful experiences.\nFor the rest of this chapter, though, we’re simply going to focus on ‘waking up’: on increasing our\nawareness ofthe world around us and refocusing whenever the thinking self distracts us.\n\n---\n\nIn each exercise that follows, you’ll be asked to connect with some experience, such as the sounds\nin your environment or the feelings in your body. When distractions in the form of thoughts and\nfeelings occur:\n\n---\n\n* Let those thoughts and feelings come and go, and stay connected.\n\n---\n\n¢ When your attention wanders (and it will, I promise), the moment you realise it, acknowledge it.\n\n---\n\n« Silently say to yourself, ‘Thanks, Mind.’ Then gently bring your attention back to the exercise.\n\n---\n\nThere are four short exercises, each lasting only 30 seconds, so there’s no excuse for not doing\nthem. It’ll take two minutes to do them all!\n\n---\n\nOnce you’\nve finished reading this paragraph, put the book down and notice your surroundings.\nNotice as much as you can about what you can see, hear, touch, taste and smell. What’s the\ntemperature? Is the air moving or still? What sort of light is there and where is it coming from?\nNotice at least five sounds you can hear, at least five objects you can see and at least five things you\ncan feel against your body (such as the shirt touching your shoulders, the air on your face, your feet\non the floor, your back against the chair). Put the book down now and do this for 30 seconds.\nNotice what happens.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_151_8a364fe3",
+    "extractor": "openai",
+    "generation_rules": [
+      "When attention wanders, acknowledge it silently and gently bring attention back to the exercise"
+    ],
+    "pause_rules": [
+      "Pause to notice surroundings and sensory input for 30 seconds after reading instructions"
+    ],
+    "psychological_function": "Enhance mindfulness by observing sensory experiences and acknowledging wandering attention without judgment",
+    "repetition_rules": [
+      "Practice short exercises repeatedly (four exercises, each 30 seconds) to build skill"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_151",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "‘Thanks, Mind’ phrase as a symbolic acknowledgment of distracting thoughts"
+    ],
+    "therapeutic_function": "Increase awareness of the present moment and refocus attention to reduce distraction by thoughts and feelings",
+    "voice_rules": [
+      "Use a gentle, encouraging internal dialogue ('Thanks, Mind') to acknowledge distractions"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_151_8a364fe3",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_151",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:54+00:00"
+}

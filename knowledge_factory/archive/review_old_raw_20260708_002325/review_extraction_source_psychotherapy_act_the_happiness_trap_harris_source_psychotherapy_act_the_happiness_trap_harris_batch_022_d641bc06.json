@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:43:42+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_022_d641bc06",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative thoughts",
+      "painful feelings",
+      "anxiety",
+      "depression",
+      "self-judgments",
+      "fear of emotional expression"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Potential discomfort or resistance in individuals strongly identified with control myths or who have difficulty tolerating emotional vulnerability."
+    ],
+    "evidence_text": "To make a gross generalisation, men are much worse than women at admitting their deepest\nconcerns because men are taught to be stoic: to bottle up their feelings and hide them. After all, big\nboys don’t cry. In contrast, women learn to share and discuss their feelings from a young age.\nNonetheless, many women are reluctant to tell even their closest friends that they are feeling\ndepressed or anxious or not coping in some way, for fear of being judged weak or silly. Our silence\nabout what we are really feeling and the false front we put on for the people around us simply add\nto the powerful illusion of control.\n\n---\n\nSo the question is: How much have you been influenced by all these control myths? The\nquestionnaire on the following pages will help you find out.\n\n---\n\nCONTROL OF THOUGHTS AND FEELINGS QUESTIONNAIRE\n\n---\n\nThis questionnaire has been adapted from similar ones developed by Steven Hayes, Frank Bond\nand others. When the term ‘negative thoughts and feelings’\n\n---\n\nis used, it refers to a whole range of painful feelings (such as anger, depression and anxiety), and\npainful thoughts (such as bad memories, disturbing images, and harsh self-judgments). For each\npair of statements, please select the one that most accurately fits how you feel. The answer you\nchoose doesn’t have to be absolutely 100 per cent true for you all the time; just pick the answer\nwhich seems to be more representative of your general attitude.\n\n---\n\n1a. I must have good control of my feelings in order to be successful in life.\n\n---\n\n1b. It is unnecessary for me to control my feelings in order to be successful in life.\n\n---\n\n2b. Anxiety is neither good nor bad. It is merely an uncomfortable feeling.\n\n---\n\n3a. Negative thoughts and feelings will harm you if you don’t control or get rid of them.\n\n---\n\n3b. Negative thoughts and feelings won’t harm you, even if they feel unpleasant.\n\n---\n\n4b. I’m not afraid of any feelings, no matter how strong.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_022_d641bc06",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use paired statements to elicit self-reflection on attitudes toward control of feelings and thoughts."
+    ],
+    "pause_rules": [
+      "Pause after questions to allow reflection on personal beliefs about control and feelings."
+    ],
+    "psychological_function": "Facilitates awareness and acceptance of painful thoughts and feelings, reduces fear and avoidance of emotions, and counters the illusion of control over internal experiences.",
+    "repetition_rules": [
+      "Repeated emphasis on the distinction between control and acceptance of feelings."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_022",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "control myths",
+      "illusion of control",
+      "bottling up feelings",
+      "false front"
+    ],
+    "therapeutic_function": "To challenge and reduce the influence of control myths regarding thoughts and feelings, promoting acceptance rather than suppression or avoidance of negative emotions.",
+    "voice_rules": [
+      "Neutral, non-judgmental tone encouraging honest self-assessment."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_022_d641bc06",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_022",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:42+00:00"
+}

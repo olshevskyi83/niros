@@ -15,6 +15,7 @@ from niros.openai_semantic_extraction_adapter import (
     SemanticExtractionInvalidJsonError,
     SemanticExtractionMissingApiKeyError,
     SemanticExtractionValidationError,
+    parse_semantic_extraction_response_json,
     parse_therapeutic_extraction_json,
 )
 from niros.raw_source import RawSource, RawSourceCorpus, RawSourceSegment, build_raw_source_corpus
@@ -62,6 +63,55 @@ def _corpus() -> RawSourceCorpus:
 
 
 def _valid_llm_json(**overrides) -> str:
+    extraction = {
+        "therapeutic_function": "self_compassion",
+        "psychological_function": "reduce self-criticism",
+        "symbolic_elements": ["heart", "water"],
+        "candidate_targets": ["shame"],
+        "generation_rules": ["Use gentle tone."],
+        "voice_rules": ["Slow pace."],
+        "repetition_rules": ["Repeat key phrase."],
+        "pause_rules": ["Pause after invocation."],
+        "contraindications": ["acute crisis"],
+        "confidence": 0.85,
+    }
+    extraction.update(
+        {
+            key: value
+            for key, value in overrides.items()
+            if key
+            not in {
+                "should_extract",
+                "is_relevant",
+                "relevance_score",
+                "knowledge_kind",
+                "reasoning",
+                "evidence_span",
+                "skip_reason",
+                "suggested_mechanisms",
+            }
+        }
+    )
+    payload = {
+        "relevance_decision": {
+            "is_relevant": overrides.get("is_relevant", True),
+            "relevance_score": overrides.get("relevance_score", 0.9),
+            "knowledge_kind": overrides.get("knowledge_kind", "therapeutic_mechanism"),
+            "reasoning": overrides.get(
+                "reasoning",
+                "Chunk explains a therapeutic mechanism with actionable process detail.",
+            ),
+            "evidence_span": overrides.get("evidence_span", "May the heart be softened"),
+            "skip_reason": overrides.get("skip_reason", ""),
+            "suggested_mechanisms": overrides.get("suggested_mechanisms", ["acceptance"]),
+            "should_extract": overrides.get("should_extract", True),
+        },
+        "extraction": None if overrides.get("should_extract") is False else extraction,
+    }
+    return json.dumps(payload)
+
+
+def _legacy_llm_json(**overrides) -> str:
     payload = {
         "therapeutic_function": "self_compassion",
         "psychological_function": "reduce self-criticism",
@@ -82,8 +132,9 @@ def test_successful_extraction_using_fake_openai_response() -> None:
     client = FakeChatCompletionClient(response=_valid_llm_json())
     adapter = OpenAISemanticExtractionAdapter(client=client)
 
-    extraction = adapter.extract_segment(_source(), _segment())
+    extraction = adapter.extract_from_corpus(_corpus(), "source_001_segment_001")
 
+    assert extraction is not None
     assert extraction.source_id == "source_001"
     assert extraction.segment_id == "source_001_segment_001"
     assert extraction.therapeutic_function == "self_compassion"
@@ -122,7 +173,7 @@ def test_validation_error_raises_expected_error() -> None:
     adapter = OpenAISemanticExtractionAdapter(client=client)
 
     with pytest.raises(SemanticExtractionValidationError) as exc_info:
-        adapter.extract_segment(_source(), _segment())
+        adapter.extract_from_corpus(_corpus(), "source_001_segment_001")
 
     message = str(exc_info.value)
     assert "therapeutic_function must not be empty" in message
@@ -180,7 +231,7 @@ def test_missing_api_key_when_real_client_is_used(monkeypatch) -> None:
 
 
 def test_parse_therapeutic_extraction_json_strips_markdown_fence() -> None:
-    payload = _valid_llm_json()
+    payload = _legacy_llm_json()
     raw = f"```json\n{payload}\n```"
     extraction = parse_therapeutic_extraction_json(
         raw,
@@ -189,3 +240,33 @@ def test_parse_therapeutic_extraction_json_strips_markdown_fence() -> None:
         evidence_text="Evidence line.",
     )
     assert extraction.therapeutic_function == "self_compassion"
+
+
+def test_gated_response_with_should_extract_false_returns_no_extraction() -> None:
+    raw = _valid_llm_json(
+        should_extract=False,
+        is_relevant=False,
+        skip_reason="keyword_only",
+        reasoning="Keyword mention without mechanism explanation.",
+    )
+    result = parse_semantic_extraction_response_json(
+        raw,
+        source_id="source_001",
+        segment_id="source_001_segment_001",
+        evidence_text="ACT uses acceptance and values.",
+    )
+    assert result.extraction is None
+    assert result.relevance_decision.should_extract is False
+    assert result.relevance_decision.skip_reason == "keyword_only"
+
+
+def test_gated_response_requires_extraction_when_should_extract_true() -> None:
+    raw = _valid_llm_json(should_extract=True)
+    result = parse_semantic_extraction_response_json(
+        raw,
+        source_id="source_001",
+        segment_id="source_001_segment_001",
+        evidence_text="Evidence line.",
+    )
+    assert result.extraction is not None
+    assert result.relevance_decision.should_extract is True

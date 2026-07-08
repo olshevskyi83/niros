@@ -1,0 +1,47 @@
+{
+  "created_at": "2026-07-07T21:51:35+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_166_631b6bab",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "anxiety",
+      "stress",
+      "anger",
+      "upset feelings",
+      "rapid, shallow breathing (hyperventilation)"
+    ],
+    "confidence": 0.95,
+    "contraindications": [],
+    "evidence_text": "As we discussed in Chapter 11, a major part of the problem here is the struggle switch, which\ncreates anxiety about anxiety. But a not her, really major part of the problem is rapid, shallow\nbreathing, technically known as ‘hyperventilation’. Whenever we feel stressed, upset, angry or\nanxious, our breath rate increases. This is part of the fight-or-flight response, which we covered in\nChapter 10—the increased breath rate gives us increased oxygen in our blood, which helps us\nprepare either to fight or to run away. But this alters the levels of the gases in our bloodstream,\ncreating a chemical imbalance in the body. And this imbalance triggers a whole series of physical\nchanges in the body, including increased heart rate, increased blood pressure and increased muscle\ntension.\n\n---\n\nAnd this is why I ask you to practise slow, deep breathing with every breathing exercise in this\nbook. By breathing slowly when you’re stressed, you will reduce the level of tension in your body.\nThis won’t get rid of or control your unpleasant emotions, but it will help you to handle them more\neffectively. Moreover, as we will explore in this chapter, your breathing can be a powerful aid in\nconnection—an anchor that steadies you in the midst of emotional storms. So slow, deep breathing\nis useful for all of us whenever we’re stressed in any way. But it’s especially important at times\nwhen you feel as if you can’t breathe properly.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_166_631b6bab",
+    "extractor": "openai",
+    "generation_rules": [
+      "Instruct to practice slow, deep breathing exercises regularly, especially during stress or when feeling unable to breathe properly."
+    ],
+    "pause_rules": [
+      "Incorporate pauses to allow for slow inhalation and exhalation during breathing exercises."
+    ],
+    "psychological_function": "Helping individuals handle unpleasant emotions more effectively by using breathing as an anchor to steady emotional responses during stress.",
+    "repetition_rules": [
+      "Encourage consistent practice of slow, deep breathing with every breathing exercise."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_166",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "breathing as an anchor in emotional storms"
+    ],
+    "therapeutic_function": "Practicing slow, deep breathing to reduce physical tension and help manage stress-related symptoms such as increased heart rate, blood pressure, and muscle tension.",
+    "voice_rules": [
+      "Use a calm and steady tone to guide slow, deep breathing exercises."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_166_631b6bab",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_166",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:35+00:00"
+}

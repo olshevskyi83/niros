@@ -1,0 +1,38 @@
+{
+  "created_at": "2026-07-07T21:46:33+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_072_faa460ae",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals struggling with intrusive or uncontrollable thoughts",
+      "people seeking improved mindfulness and presence"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "ACT answers these questions by teaching you to recognise two different parts of yourself: the\n‘thinking self” and the ‘observing self”. The thinking self is the part of you that thinks, plans,\njudges, compares, creates, imagines, visualises, analyses, remembers, day dreams and fantasises. A\nmore common name for it is ‘the mind’. Popular psychological approaches such as positive\nthinking, cognitive therapy, creative visualisation, hypnosis and neuro-linguistic programming all\nfocus on controlling the way your thinking self operates. This is all great in theory and it appeals to\nour commonsense, but as we have seen, the thinking self is just not that easy to control. (Again, it’s\nnot that we have no control—after all, throughout this book we look at many ways to think more\neffectively—it’s just that we have much less control than the ‘experts’ would have us believe.)\n\n---\n\nThe observing self is fundamentally different from the thinking self. The observing self doesn’t\nthink; it is the part of you that is responsible for focus, attention and awareness. While it can\nobserve or pay attention to your thoughts, it can’t produce them. Whereas the thinking self thinks\nabout your experience, the observing self registers your experience directly.\n\n---\n\nFor example, if you are playing baseball, cricket or tennis and you are truly focused, then all your\nattention is riveted on that ball coming towards you. This is your observing self at work. You are\nnot thinking about the ball; you are observing it.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_072_faa460ae",
+    "extractor": "openai",
+    "generation_rules": [],
+    "pause_rules": [],
+    "psychological_function": "Enhancing focus, attention, and awareness by cultivating the observing self, which registers experience directly without producing thoughts.",
+    "repetition_rules": [],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_072",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "thinking self",
+      "observing self",
+      "ball in sports (baseball, cricket, tennis) as focus object"
+    ],
+    "therapeutic_function": "Teaching recognition and differentiation between the 'thinking self' and the 'observing self' to improve awareness and focus.",
+    "voice_rules": []
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_072_faa460ae",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_072",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:33+00:00"
+}

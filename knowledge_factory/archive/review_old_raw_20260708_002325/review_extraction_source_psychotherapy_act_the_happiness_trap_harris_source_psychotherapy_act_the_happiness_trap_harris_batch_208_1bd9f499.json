@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:54:02+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_208_1bd9f499",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing fear of failure",
+      "individuals with avoidance behaviors",
+      "individuals struggling with negative self-beliefs",
+      "individuals uncertain about personal values"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less suitable for individuals with acute distress who cannot tolerate exposure to uncomfortable feelings without additional support."
+    ],
+    "evidence_text": "1. If you could somehow listen in on your own funeral and the people you most care about were\nthere, what sort of things would you love to hear them say about you? What would you like them\nto think about the role you played in their lives?\n\n---\n\n2. If you knew you had only one year left to live, how would you like to be as a person and what\nwould you like to do during that time?\n\n---\n\n3. If you were trapped in a collapsed building and knew you had only a few minutes to live, who\nwould you call on your mobile and what would you say to them? What does your answer reveal\nabout what’s important to you?\n\n---\n\nIf you’re not sure what you want, ask yourself this: If I could have any values I wanted, which ones\nwould I choose?\n\n---\n\nWhatever values you would choose, those already are your values! Why? Because the fact that you\nwould choose them shows you already value them!\n\n---\n\nIf you’ve experienced a lot of failure, frustration or disappointment in your life, then you may be\n\n---\n\nafraid to acknowledge what you really want, for fear 1t will only lead to more of the same. If so,\nremind yourself that the past is the past—it’s over and can’t be changed. But no matter what has\nhappened in the past, you can make changes right now that will allow you to create a new future. So\ndo the exercises, and if uncomfortable feelings arise, breathe into them, make room for them and\nkeep focused on the questions.\n\n---\n\nTHE *PM JUST SETTING MYSELF UP FOR DISAPPOINTMENT’ DEMON\n\n---\n\nThis sneaky critter is usually accompanied by several of its buddies, such as: ‘Ill only fail if I try’,\nor ‘I don’t deserve anything better in life’, or ‘I can’t change.’ Remember, these are nothing more\nthan ‘pop-up’ thoughts. So thank your mind, let them come and go and refocus on answering the\nquestions.\n\n---\n\nTHE ‘I CAN’T BE BOTHERED RIGHT NOW; PLL DO IT LATER’ DEMON",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_208_1bd9f499",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use hypothetical future-oriented questions to elicit values",
+      "Normalize negative thoughts as 'pop-up' mental events",
+      "Encourage breathing into uncomfortable feelings and making room for them",
+      "Refocus attention on values-based questions after distraction by negative thoughts"
+    ],
+    "pause_rules": [
+      "Pause to allow reflection after each values-based question and after acknowledging uncomfortable feelings or negative thoughts."
+    ],
+    "psychological_function": "Encourages self-reflection on personal values and mortality to increase motivation and reduce avoidance; normalizes intrusive negative thoughts as transient mental events; promotes mindfulness and cognitive defusion.",
+    "repetition_rules": [
+      "Repeat values clarification questions and mindfulness instructions to reinforce acceptance and commitment processes."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_208",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "funeral scenario",
+      "collapsed building",
+      "demons representing negative self-talk ('I'm just setting myself up for disappointment', 'I can't be bothered right now')"
+    ],
+    "therapeutic_function": "Facilitates values clarification and acceptance of uncomfortable feelings to promote committed action towards meaningful life goals.",
+    "voice_rules": [
+      "Use compassionate and non-judgmental tone",
+      "Address internal critical thoughts as 'demons' to externalize and reduce their impact",
+      "Encourage self-kindness and acceptance"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_208_1bd9f499",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_208",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:54:02+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:53:23+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_196_8e2db1d6",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing dissatisfaction with current life or work situations",
+      "people struggling to find meaning or motivation",
+      "clients needing clarity between values and goals"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for individuals who have difficulty identifying or connecting with personal values; may not address immediate crisis needs."
+    ],
+    "evidence_text": "At the same time, Fred didn’t give up on his career. While he needed this job in the short term to\npay the bills, he continued to look for work that he genuinely desired. He’d always been an\nexcellent organiser and administrator, with a particular interest in theatrical and musical events, and\nthis was the area he most wanted to work in. Eventually, after many months of applying for all sorts\nof work, Fred found a job as the organiser of a local arts festival. It was a job that fulfilled him, paid\nhim well and allowed him to spend a lot more time with his wife.\n\n---\n\nFred’s story serves as a great example of how we can live by our values even when life treats us\nharshly. It’s also a good example of how we can find fulfilment in any job—even if it’s one we\ndon’t want—by bringing those values into the workplace. That way, even while we search or train\nfor a better job, we can find satisfaction within the one we have.\n\n---\n\nIt’s important to recognise that values are not the same as goals. A value is a direction we desire to\nkeep moving in; an ongoing process that never reaches an end. For example, the desire to be a\nloving and caring partner is a value. It’s ongoing for the rest of your life. The moment you stop\nbeing loving and caring, you are no longer living by that value.\n\n---\n\nA goal is a desired outcome that can be achieved or completed. For example, the desire to get\nmarried is a goal. Once achieved, it’s ‘done’ and can be crossed off the list. Once you’re married\nyou’re married, no matter how loving and kind, or how hard-hearted and uncaring you are to your\npartner.\n\n---\n\nA value is like heading west. No matter how far you travel, there’s always farther west you can go.\n\n---\n\nA goal is like a mountain or river you wish to cross on your westward journey. Once you’ve gone\nover it, it’s a “done deal’.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_196_8e2db1d6",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphors to clarify abstract concepts (e.g., values as directions, goals as obstacles)",
+      "Illustrate with relatable stories (e.g., Fred’s career journey)",
+      "Differentiate values from goals explicitly to prevent confusion"
+    ],
+    "pause_rules": [
+      "Pause after introducing key metaphors and examples to allow reflection."
+    ],
+    "psychological_function": "Supports acceptance and commitment by promoting value-driven action; reduces distress by reframing work and life situations through values; fosters persistence and hope during adversity.",
+    "repetition_rules": [
+      "Reinforce the distinction between values and goals through multiple examples and metaphors."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_196",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "values as a direction (heading west)",
+      "goals as mountains or rivers to cross"
+    ],
+    "therapeutic_function": "Encourages living by personal values to find fulfillment and satisfaction even in undesirable circumstances; distinguishes between ongoing values and achievable goals to guide behavior and motivation.",
+    "voice_rules": [
+      "Use encouraging and validating tone",
+      "Present examples in a narrative form",
+      "Explain concepts clearly and simply"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_196_8e2db1d6",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_196",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:23+00:00"
+}

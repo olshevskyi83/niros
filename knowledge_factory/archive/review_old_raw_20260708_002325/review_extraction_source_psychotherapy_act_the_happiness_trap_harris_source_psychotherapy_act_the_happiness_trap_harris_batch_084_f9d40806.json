@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-07-07T21:47:22+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_084_f9d40806",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant mental images",
+      "distressing memories or thoughts",
+      "emotional reactions to negative self-referential content"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text"
+    ],
+    "evidence_text": "Bring an unpleasant image to mind and notice how it’s affecting you. Now imagine there’s a small\ntelevision screen across the room from you. Place your image on the television screen. Play around\nwith the image: flip it upside down; turn it on its side; spin it around and around; stre-e-e-etch it\nsideways. If it’s a moving ‘video clip’, play it in slow motion. Then play it backwards in slow\nmotion. Then play it forwards at double speed; then reverse it at double speed. Turn the colour\ndown, so it’s all in black-and-white. Turn the colour and brightness up until it’s ridiculously lurid\n(so the people have bright orange skin and the clouds are hot pink). The idea is not to get rid of this\nimage but to see it for what it is: a harmless picture. You may need to do this for anything from ten\nseconds to two minutes, until you really defuse it. If at the end of two minutes it’s still bothering\nyou, then try the next technique.\n\n---\n\nKeeping that image on the television screen, add a humorous subtitle or voice-over to it, such as\n“The Ultimate Disaster! premieres on Channel 4, Friday, 7.30pm’ or ‘Now showing at a movie\ntheatre near you: / Got Rejected By My Lover!” If this image is linked to a story that you’ve already\nnamed, then use that name on the subtitle or voice-over. For example, an image of you failing might\nbe subtitled: ‘The “Failure” Story’. If it’s still bothering you at the end of another 30 seconds, try\nthe next technique.\n\n---\n\nKeeping that image on the television screen, add a musical soundtrack of your choice. Experiment\nwith a few different soundtracks: jazz, hip-hop, classical, rock or your favourite movie themes. If\nthe image is still bothering you, try the next technique.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_084_f9d40806",
+    "extractor": "openai",
+    "generation_rules": [
+      "Place the unpleasant image on an imagined television screen",
+      "Manipulate the image by changing orientation, speed, and color",
+      "Add humorous subtitles or voice-overs related to the image",
+      "Add a musical soundtrack of choice to the image"
+    ],
+    "pause_rules": [
+      "Pause after each manipulation step to assess emotional impact and distress level"
+    ],
+    "psychological_function": "Reduces emotional intensity and distress associated with unpleasant mental images by changing their sensory qualities and contextual framing",
+    "repetition_rules": [
+      "Continue image manipulation for 10 seconds to 2 minutes until defusion occurs",
+      "If distress persists, add subtitles/voice-overs for 30 seconds",
+      "If distress still persists, add musical soundtrack and experiment with different genres"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_084",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "television screen",
+      "image manipulation (flipping, spinning, stretching)",
+      "black-and-white and lurid color adjustments",
+      "humorous subtitles or voice-overs",
+      "musical soundtracks"
+    ],
+    "therapeutic_function": "Defusion from distressing mental images by altering perception and emotional impact through imaginative manipulation",
+    "voice_rules": [
+      "Use humorous or ironic subtitles or voice-overs to reframe the image contextually"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_084_f9d40806",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_084",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:22+00:00"
+}

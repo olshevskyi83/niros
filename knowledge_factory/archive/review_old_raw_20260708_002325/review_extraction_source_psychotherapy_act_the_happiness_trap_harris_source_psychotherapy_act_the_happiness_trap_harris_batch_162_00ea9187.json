@@ -1,0 +1,47 @@
+{
+  "created_at": "2026-07-07T21:51:26+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_162_00ea9187",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "psychological suffering",
+      "universal human suffering",
+      "maladaptive attempts to avoid pain",
+      "lack of clarity in personal values"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "Many of the concepts in ACT closely resemble those from many religions, particularly the idea of\nliving life according to your values. But whereas most religions prescribe a ready-made set of\nvalues for you, ACT asks you to clarify and connect with your own values. Moreover, ACT does\nnot encourage you to adopt any particular belief system. (Thus, my frequent advice throughout this\nbook: ‘Don’t believe something just because I say so—trust your own experience.’) ACT takes the\nview that if your beliefs work to enrich your life, then that’s all that matters.\n\n---\n\nPeople often see similarities between ACT and Buddhism: both emphasise the practice of\nmindfulness; both encourage living by your values; both share the assumption that psychological\nsuffering is a universal human phenomenon, created by the natural processes of the normal human\nmind; and both assume that our commonsense attempts to find happiness and avoid pain frequently\nlead only to more pain. As Steven Hayes puts it: ‘The large overlap between ACT and Buddhism is\nremarkable, considering that the former is based on principles of behaviour therapy and the second\nis embedded in a spiritual and religious tradition that spans thousands of years.’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_162_00ea9187",
+    "extractor": "openai",
+    "generation_rules": [
+      "Do not adopt ready-made values; clarify and connect with personal values; trust personal experience over external authority; practice mindfulness regularly."
+    ],
+    "pause_rules": [],
+    "psychological_function": "Reduce psychological suffering by accepting it as a universal human phenomenon; promote living according to self-chosen values rather than prescribed beliefs; encourage experiential trust over imposed beliefs.",
+    "repetition_rules": [
+      "Frequent advice to 'Don’t believe something just because I say so—trust your own experience.'"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_162",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "values",
+      "mindfulness",
+      "happiness",
+      "pain"
+    ],
+    "therapeutic_function": "Clarify and connect with one's own values to enrich life; practice mindfulness to address psychological suffering; recognize that attempts to find happiness and avoid pain can lead to more pain.",
+    "voice_rules": [
+      "Encourage a non-dogmatic, experiential voice; avoid prescribing beliefs; promote self-trust and personal validation."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_162_00ea9187",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_162",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:26+00:00"
+}

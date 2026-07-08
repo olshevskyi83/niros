@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:46:21+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_068_da1ecc6e",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unwanted or unpleasant thoughts",
+      "struggle with thoughts",
+      "expectation of thought elimination"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text"
+    ],
+    "evidence_text": "But what if you’ve defused a thought and it’s still there? Again, defusion isn’t about getting rid of\nthoughts. It’s about seeing them for what they really are and making peace with them; allowing\nthem to be there without fighting them. Sometimes they will go away with very little fuss, other\ntimes they will hang around for quite a while, and sometimes they’Il go away and then come back\nagain. The point is, once you allow them to be there without a struggle, you can put your energy\nand attention into activities you value. But if you expect that defusing your thoughts will make them\ngo away, you’re setting yourself up for disappointment; you’re falling back into the agenda of\ncontrol—the happiness trap. The aim is to accept your thoughts, not to get rid of them.\n\n---\n\nAnd remember, you don’t have to like a thought in order to accept it. You can accept it purely out\nof pragmatism: the thought is already there whether you like it or not, and struggling with it just\ntakes up your time and energy without any long-term benefit. Acceptance frees up your energy for\nlife-enhancing activities.\n\n---\n\nIt’s okay to want to get rid of an unpleasant thought. In fact, it’s expected, given that that’s what\nyou\nve been trying to do your whole life. But wanting to get rid of something is quite different from\nactively struggling with it. For example, suppose you have an old car that you no longer want. And\nsuppose you won’t have an opportunity to sell it for at least another month. You can want to get rid\nof the car and simultaneously accept that you still have the car. You don’t have to try to smash the\ncar up, make yourself miserable or get drunk every night just because you still have that old car.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_068_da1ecc6e",
+    "extractor": "openai",
+    "generation_rules": [
+      "Emphasize acceptance over control",
+      "Normalize presence of thoughts",
+      "Encourage pragmatic acceptance without liking the thought"
+    ],
+    "pause_rules": [
+      "Pause after explaining acceptance to allow reflection",
+      "Pause after metaphor to enhance understanding"
+    ],
+    "psychological_function": "Promotes acceptance of unwanted thoughts without attempting to control or eliminate them, reducing psychological struggle and freeing energy",
+    "repetition_rules": [
+      "Repeat that acceptance does not require liking the thought",
+      "Reinforce that defusion is not about getting rid of thoughts"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_068",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "old car as metaphor for unwanted thoughts"
+    ],
+    "therapeutic_function": "Defusion and acceptance of thoughts to reduce struggle and increase engagement in valued activities",
+    "voice_rules": [
+      "Use pragmatic and non-judgmental tone",
+      "Normalize common experiences of struggle with thoughts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_068_da1ecc6e",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_068",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:21+00:00"
+}

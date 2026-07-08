@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:51:11+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_157_c83ec41d",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant thoughts",
+      "unpleasant feelings",
+      "judgements",
+      "internal struggle"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text"
+    ],
+    "evidence_text": "For example, in order to maintain good health, you may at some stage need to have an operation,\nundergo some dental treatment, or practise some uncomfortable muscle-stretching routine. And to\nkeep our finances healthy, most of us have to do a certain amount of bookkeeping and keep up with\nour tax returns. If we want to live in a clean house, we may need to do a variety of unpleasant\nchores, and if we want a better job, we may need to attend some highly stressful interviews.\n\n---\n\nSo why is connection helpful in these situations? First, it helps us turn off that struggle switch. The\nmore we struggle against unpleasant situations, the more unpleasant thoughts and feelings we\ngenerate. Naturally, this only makes the situation worse. And second, when we really pay attention\nand we put aside the stories of the thinking self, we discover that these events just aren’t as bad as\nwe expected. You’ve probably already experienced this with expansion: when you observe\nunpleasant feelings with interest and openness, they’re nowhere near as bad as they first seemed.\nDo I detect a note of scepticism? Then let me tell you about...\n\n---\n\nRecently I took my dog for a walk in the park and he rolled around in the carcass of a dead bird. He\nloves to do disgusting things like that. Afterward he stank like ... well, like a rotting carcass, so I\nhad no choice but to bathe him. I had some very important matters to deal with that night and I was\nfrustrated that I had to waste my time on this unpleasant task. My mind was making all sorts of\njudgements: ‘Stupid dog! Why did you have to pick tonight to do something like this? Yuck! That\nsmells disgusting!’ And I was growing increasingly tense and irritable. But as I filled the tub with\nwarm water, I realised what I was doing and I made the conscious choice to respond differently.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_157_c83ec41d",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage conscious choice to respond differently to unpleasant situations",
+      "Promote paying attention with openness and interest to unpleasant feelings",
+      "Put aside stories of the thinking self to reassess events"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "psychological_function": "Facilitates turning off the 'struggle switch' to prevent escalation of unpleasant emotions and promotes openness and interest in experiencing unpleasant feelings, leading to their diminished impact.",
+    "repetition_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_157",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "struggle switch",
+      "stories of the thinking self",
+      "expansion"
+    ],
+    "therapeutic_function": "Helps individuals reduce struggle against unpleasant situations by fostering acceptance and mindful observation, thereby decreasing the intensity of negative thoughts and feelings.",
+    "voice_rules": [
+      "Use a tone that acknowledges skepticism and invites curiosity",
+      "Employ examples from everyday life to illustrate concepts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_157_c83ec41d",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_157",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:11+00:00"
+}

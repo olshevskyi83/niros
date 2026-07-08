@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:50:42+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_146_64c06319",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "excessive rumination on past and future",
+      "judgmental and critical thoughts",
+      "distraction from present-moment activities"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals with severe dissociation or attentional deficits without adaptation"
+    ],
+    "evidence_text": "We say we were ‘lost in thought’, ‘distracted’ or ‘preoccupied’—all terms that mean our attention is\nfixed on the products of our mind instead of on what we are doing right here and now. That is, our\nobserving self is distracted by our thinking self. We call this being ‘absent-minded’, but our mind is\nnot absent at all; it’s our attention that’s busy elsewhere.\n\n---\n\nThe thinking self is rather like a time machine: it continually pulls us into the future and the past.\nWe spend a huge amount of time worrying about, planning for or dreaming of the future, and a\nhuge amount of time rehashing the past. This makes perfect sense in terms of evolution. The ‘don’t\nget killed’ device needs to plan ahead and anticipate problems. It also needs to reflect on the past, to\nlearn from it. But even when our mind is thinking about the here and now, it’s generally being\njudgemental and critical, struggling against reality instead of accepting it. And this constant mental\nactivity is an enormous distraction. For a huge part of every day, the thinking self completely\ndiverts our attention from what we’re doing.\n\n---\n\nSuppose you’re trying to have a conversation with someone and you’re giving most of your\nattention to thoughts like, ‘I’ve got nothing to say’, ‘He thinks I’m boring’, or ‘I’ve got to get my\ntaxes done.’ The more attention you give to those thoughts, the less involved you are in the\nconversation. The same goes for every activity you ever do, whether you’re water-skiing or making\nlove: the more you’re caught up in your thoughts, the less you’re engaged in the activity.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_146_64c06319",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify when attention is fixed on thoughts rather than present activity",
+      "Notice the content of thoughts that distract from engagement",
+      "Recognize the habitual nature of mental time travel"
+    ],
+    "pause_rules": [
+      "Pause to allow recognition of current attentional focus",
+      "Pause to notice the shift from thinking self to observing self"
+    ],
+    "psychological_function": "Differentiation between the observing self and the thinking self; recognizing the habitual mental time travel to past and future; reducing judgmental and critical mental activity.",
+    "repetition_rules": [
+      "Reinforce the concept that attention can be diverted by thoughts repeatedly",
+      "Emphasize the impact of thought distraction on engagement in various activities"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_146",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "thinking self as a time machine",
+      "attention as a resource that can be distracted or focused"
+    ],
+    "therapeutic_function": "Redirecting attention from the products of the mind (thoughts) to present-moment experience to reduce distraction and increase engagement.",
+    "voice_rules": [
+      "Use language that distinguishes between observing self and thinking self",
+      "Describe mental activity as a distraction rather than absence of mind"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_146_64c06319",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_146",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:42+00:00"
+}

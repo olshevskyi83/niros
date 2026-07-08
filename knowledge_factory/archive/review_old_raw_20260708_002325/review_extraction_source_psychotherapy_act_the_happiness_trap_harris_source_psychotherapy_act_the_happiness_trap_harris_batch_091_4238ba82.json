@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:47:49+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_091_4238ba82",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "painful thoughts",
+      "painful emotions",
+      "fear",
+      "thoughts of failure",
+      "self-critical thoughts"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; not explicitly stated in the text."
+    ],
+    "evidence_text": "1. How would I act differently if painful thoughts and feelings were no longer an obstacle?\n\n---\n\n2. What projects or activities would I start (or continue) if my time and energy weren’t consumed\nby troublesome emotions?\n\n---\n\n3. What would I do if fear were no longer an issue?\n\n---\n\n4. What would I attempt if thoughts of failure didn’t deter me?\n\n---\n\nPlease take at least ten minutes to think about these questions. Better yet, write down your answers\nfor future reference.\nER\n\n---\n\nWhen you contemplate these four questions, what trouble some thoughts and images come to mind?\nDo you visualise yourself getting hurt in some way? Does your thinking self tell you, ‘It’s hopeless’\nor ‘It’s too hard’ or that you can’t make these changes because you are too\nweak/inadequate/depressed/anxious/stupid/unlovable?\n\n---\n\nWrite a list of these troublesome thoughts and images, and once you’ve done it, set aside five\nminutes a day to practise defusing them. (And when your mind makes up some excuse for not\npractising, please remember to thank it!) As I’ve said several times before, practice is the key to\nsuccess. The more you can see these thoughts for what they are—nothing more than words and\n\n---\n\npictures—the less influence they will have over your life.\n\n---\n\nDefusion is a big topic, and we’ll be coming back to it at later stages. For now we will focus on\npainful emotions (which most people find the scariest demons of all). In the next chapter we’ll look\nat emotions from a scientific perspective, discover how they are created, and explode a few myths\nabout them. And after that you’ll learn how to fundamentally transform the way you handle them.\n\n---\n\nIf you were trekking through the Alaskan wilderness and you suddenly came face-to-face with a\nhuge grizzly bear, what would you do? Scream? Call for help? Run away? We”ll return to that\nquestion a bit later, after we’ve answered: What are emotions?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_091_4238ba82",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage reflection on hypothetical scenarios where painful thoughts and emotions are not obstacles.",
+      "Instruct to write down troublesome thoughts and images.",
+      "Set aside daily time to practice defusion of thoughts."
+    ],
+    "pause_rules": [
+      "Advise taking at least ten minutes to contemplate questions.",
+      "Set aside five minutes daily for defusion practice."
+    ],
+    "psychological_function": "Promotes awareness and distancing from troublesome thoughts and images, reducing their emotional impact and fostering psychological flexibility.",
+    "repetition_rules": [
+      "Emphasize repeated practice of defusion techniques daily.",
+      "Revisit the topic of defusion in later stages."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_091",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "grizzly bear as metaphor for intense emotions or fear"
+    ],
+    "therapeutic_function": "Facilitates cognitive defusion to reduce the influence of painful thoughts and emotions, enabling engagement in valued activities without avoidance.",
+    "voice_rules": [
+      "Use direct, reflective questioning to engage the individual.",
+      "Use encouraging and normalizing language (e.g., thanking the mind for excuses)."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_091_4238ba82",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_091",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:49+00:00"
+}

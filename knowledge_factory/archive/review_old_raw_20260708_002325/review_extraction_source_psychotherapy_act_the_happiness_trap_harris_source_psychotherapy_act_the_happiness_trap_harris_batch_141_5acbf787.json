@@ -1,0 +1,62 @@
+{
+  "created_at": "2026-07-07T21:50:23+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_141_5acbf787",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "urges that interfere with meaningful living",
+      "unhelpful thoughts",
+      "present-moment awareness",
+      "values clarification",
+      "behavioral engagement"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Uncertain if suitable for individuals who may struggle with intense urges without additional support",
+      "No explicit contraindications mentioned in the text"
+    ],
+    "evidence_text": "SURF means you treat the urge as if it were a wave that you were surfing. Notice where you feel it\nand how intense it is. Keep track of whether it’s growing, cresting or subsiding. You can score it on\na scale of 1 to 10, and watch the numbers increase and decrease as it grows, crests and subsides.\n\n---\n\nDon’t try to rush it. Allow it to rise and fall in its own sweet time.\n\n---\n\nEXPAND means you breathe into the urge and make more room for it. No matter how big this urge\ngets, you are bigger! Allow it to be; don’t get into a fight with it. As long as you keep making room\nfor it, sooner or later this urge will crest and then it will subside.\n\n---\n\nREFOCUS means you unhook yourself from any unhelpful thoughts, and you bring your attention\nback to what’s happening, here and now.\n\n---\n\nVALUES means you take a moment to connect with what’s important in your heart—with who you\nwant to be and what sort of life you want to create. Then you choose an effective action, one that\ntakes your life in a valued direction.\n\n---\n\nENGAGE means you engage fully in whatever valued action you take. You let your thoughts and\nfeelings come and go, and you give your full attention to your actions.\n\n---\n\nWhile I know that OBSERVE can be a wonderfully useful tool, I also know that plenty of readers\nwill find it hard to remember. If this is the case for you, there’s always a simpler acronym you can\nstick to—ACT:\n\n---\n\nWe experience urges all day long, every day of our lives, and most of the time acting appropriately\non them is no big deal. In ACT, we’re concerned only with urges that get in the way of our living a\nmeaningful life. For example, I act on my chocolate urges fairly regularly and it’s not a problem.\nBut if I acted on them all the time, I’d be the size of an elephant and that would not be in line with\nmy values on health. On the other hand, if I never acted on them, I’d be unnecessarily depriving\nmyself of a simple but satisfying pleasure.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_141_5acbf787",
+    "extractor": "openai",
+    "generation_rules": [
+      "Notice and track urge intensity without rushing",
+      "Breathe into urges to expand acceptance",
+      "Unhook attention from unhelpful thoughts to refocus on present",
+      "Connect with personal values before choosing actions",
+      "Engage fully in chosen valued actions despite thoughts and feelings"
+    ],
+    "pause_rules": [
+      "Allow urges to rise and fall in their own time without rushing or forcing change"
+    ],
+    "psychological_function": "Increasing awareness and acceptance of urges, reducing fusion with unhelpful thoughts, enhancing present-moment focus, and promoting values-based behavior.",
+    "repetition_rules": [
+      "Repeatedly monitor urge intensity and its changes",
+      "Consistently practice making room for urges",
+      "Regularly refocus attention on present moment and values"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_141",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "urge as a wave to be surfed",
+      "breathing into the urge to make room",
+      "unhooking from unhelpful thoughts",
+      "connecting with heart values",
+      "engaging fully in valued actions"
+    ],
+    "therapeutic_function": "Managing and reducing the impact of urges that interfere with living a meaningful life by observing, accepting, and choosing valued actions.",
+    "voice_rules": [
+      "Use metaphorical language (e.g., surfing waves) to facilitate experiential understanding",
+      "Encourage gentle, non-judgmental observation",
+      "Promote self-compassion and acceptance"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_141_5acbf787",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_141",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:23+00:00"
+}

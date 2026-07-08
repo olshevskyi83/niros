@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:51:24+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_161_b80adf06",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thoughts",
+      "feelings",
+      "here-and-now experience",
+      "judgements",
+      "complaints",
+      "criticisms"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "None explicitly stated in the text."
+    ],
+    "evidence_text": "When we practise mindfulness, we connect with the world directly through our five senses, rather\nthan being caught up in our thoughts. We let our judgements, complaints, and criticisms come and\ngo, and instead we fully engage in the present moment. When we are mindful of our own thoughts,\nwe can see them for what they are, and let them go. When we are mindful of our feelings, we can\nmake room for them and let them be. And when we are mindful of our here-and-now experience,\nwe are deeply connected with it. Thus defusion, expansion and connection are all mindfulness\nskills.\n\n---\n\nSo ACT is clearly a mindfulness-based therapy, and the purpose of this chapter is to point out the\nsignificant differences between ACT and other mindfulness-based approaches.\n\n---\n\nACT is based firmly in the tradition of behavioural psychology: a branch of science that seeks to\nunderstand, predict and influence human behaviour. A major concept in ACT is the idea of\n‘workability’. (It’s a concept I’ve been referring to throughout this book, but I haven’t given it a\nname until now.) The workability of any given behaviour means how well it works in the long run\ntoward creating a rich and meaningful life. In ACT, we learn mindfulness skills to assist us in\ntaking action to improve our life. We do not practise mindfulness in order to enter some mystical\nstate, or to get in touch with a higher truth. In any given circumstance, if defusion, expansion and\nconnection can help you act effectively, then it makes sense to practise them. Conversely, if they\ndon’t help you, then don’t use them! The bottom line is always the same: does this help me create\nthe life I want?\n\n---\n\nACT Is Not A Religion Or A Spiritual Belief System",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_161_b80adf06",
+    "extractor": "openai",
+    "generation_rules": [
+      "Practice mindfulness by connecting with the world through the five senses rather than being caught up in thoughts.",
+      "Allow judgments, complaints, and criticisms to come and go without engagement.",
+      "Engage fully in the present moment.",
+      "Use mindfulness skills (defusion, expansion, connection) when they help act effectively toward a meaningful life."
+    ],
+    "pause_rules": [],
+    "psychological_function": "Facilitates awareness and acceptance of thoughts and feelings without judgment, enabling individuals to see thoughts for what they are and make room for feelings, thereby enhancing psychological flexibility.",
+    "repetition_rules": [
+      "Reinforce the concept of mindfulness skills (defusion, expansion, connection) as tools for effective action.",
+      "Repeat the focus on present-moment engagement and non-attachment to thoughts and feelings."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_161",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Mindfulness skills (defusion, expansion, connection) assist individuals in taking effective action to improve their lives by fostering present-moment engagement and reducing attachment to thoughts and feelings.",
+    "voice_rules": [
+      "Use clear, direct language emphasizing practical application and behavioral outcomes.",
+      "Avoid mystical or spiritual framing."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_161_b80adf06",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_161",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:24+00:00"
+}

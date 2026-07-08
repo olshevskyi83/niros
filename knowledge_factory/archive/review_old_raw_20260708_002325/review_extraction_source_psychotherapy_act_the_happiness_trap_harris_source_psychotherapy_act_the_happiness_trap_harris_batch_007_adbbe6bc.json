@@ -1,0 +1,66 @@
+{
+  "created_at": "2026-07-07T21:42:54+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_007_adbbe6bc",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "depression",
+      "anxiety",
+      "anorexia nervosa",
+      "overeating",
+      "anger management issues",
+      "divorce",
+      "relationship problems",
+      "sexual problems",
+      "drug addictions",
+      "alcoholism",
+      "low self-esteem",
+      "loneliness",
+      "grief",
+      "gambling",
+      "suicidal ideation",
+      "suicide attempts"
+    ],
+    "confidence": 0.8,
+    "contraindications": [
+      "None explicitly stated in the text."
+    ],
+    "evidence_text": "The psychology and personal development sections of bookstores are growing at a rate never seen\nbefore, and the bookshelves are groaning under the strain. The titles cover depression, anxiety,\nanorexia nervosa, overeating, anger management, divorce, relationship problems, sexual problems,\ndrug addictions, alcoholism, low self-esteem, loneliness, grief, gambling—if you can name it, there\n”s a book on it. Meanwhile, on the television and radio, and in magazines and newspapers, the\n\n---\n\n‘experts’ bombard us daily with advice on how to improve our lives. This is why the numbers of\npsychologists, psychiatrists, marriage and family counsellors, social workers and ‘life coaches’ are\nincreasing with every year. And yet—now, think about this—with all this help and advice and\nworldly wisdom, human misery is not diminishing but growing by leaps and bounds! Isn’t there\nsomething wrong with this picture?\n\n---\n\nThe statistics are staggering: In any given year almost 30 per cent of the adult population will suffer\nfrom a recognised psychiatric disorder. The World Health Organization estimates that depression is\ncurrently the fourth biggest, costliest and most debilitating disease in the world, and by the year\n2020 it will be the second biggest. In any given week, one-tenth of the adult population is suffering\nfrom clinical depression, and one in five people will suffer from it at some point in their lifetime.\nFurthermore, one in four adults, at some stage in their life, will suffer from drug or alcohol\naddiction, which is why there are now over twenty million alcoholics in the United States of\nAmerica alone!\n\n---\n\nBut more startling and more sobering than all those statistics is that almost one in two people will\ngo through a stage in life when they seriously consider suicide and will struggle with it for a period\nof two weeks or more. Scarier still, one in ten people will at some point actually attempt to kill\nthemselves.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_007_adbbe6bc",
+    "extractor": "openai",
+    "generation_rules": [
+      "Present statistical data to illustrate the scope of mental health issues",
+      "Contrast the abundance of advice with the persistence of suffering",
+      "Use rhetorical questions to provoke reflection on current mental health paradigms"
+    ],
+    "pause_rules": [
+      "Use pauses after presenting statistics and rhetorical questions to allow reflection."
+    ],
+    "psychological_function": "Raising awareness of the prevalence and severity of psychiatric disorders and the limitations of existing advice and interventions.",
+    "repetition_rules": [
+      "Repetition of statistical prevalence to emphasize the widespread nature of mental health problems."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_007",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "bookshelves groaning under the strain",
+      "experts bombarding with advice",
+      "statistics as staggering and sobering facts"
+    ],
+    "therapeutic_function": "Highlighting the paradox of increasing psychological help alongside rising human misery to question current approaches to mental health treatment.",
+    "voice_rules": [
+      "Use a critical and reflective tone",
+      "Incorporate authoritative statistics",
+      "Employ rhetorical questioning to engage the reader"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_007_adbbe6bc",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_007",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:42:54+00:00"
+}

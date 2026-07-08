@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:45:14+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_047_309522c1",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative self-judgements",
+      "unhelpful or distressing thoughts"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals with severe dissociation or psychosis due to potential confusion between thoughts and reality."
+    ],
+    "evidence_text": "Using this phrase makes you aware of the process of thinking. This means you’re less likely to take\nyour thoughts literally. Instead, you can step back and see those thoughts for what they are: words\npassing through your head and nothing more. We call this process “cognitive defusion’, or simply\n‘defusion’. Cognitive fusion tells us that thoughts are the truth and very important. Cognitive\ndefusion reminds us that thoughts are just words. In a state of defusion, we recognise:\n\n---\n\n* Thoughts are merely sounds, words, stories or bits of language.\n\n---\n\n¢ Thoughts may or may not be true; we don’t automatically believe them.\n\n---\n\n* Thoughts may or may not be important; we pay attention only if they’re helpful.\n\n---\n\n* Thoughts are definitely not orders; we certainly don’t have to obey them.\n\n---\n\n* Thoughts may or may not be wise; we don’t automatically follow their advice.\n\n---\n\n* Thoughts are never threats; even the most negative of thoughts is not deeply disturbing or\nfrightening.\n\n---\n\nIn ACT we have many different techniques to facilitate defusion. Some of them may seem a bit\ngimmicky at first, but think of them like training wheels on a bicycle: once you can ride the bike,\nyou don’t need them anymore. So try out each technique as we come to it and see which works best\nfor you. Remember as you use the techniques, the aim of defusion is not to get rid of a thought, nor\nto make you like it or want it. The aim is simply to see the thought for what it really is—a string of\nwords—and to let it be there without fighting it.\n\n---\n\nThe technique that follows will call on your musical abilities. But don’t worry, no one will be\nlistening but you.\n\n---\n\nBring to mind a negative self-judgement that commonly bothers you when it comes up, for\nexample, ‘I’m such an idiot.’ Now hold that thought in your mind and really believe it as much as\nyou can for about ten seconds. Notice how 1t affects you.\n2 2s 2",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_047_309522c1",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use phrases that highlight thoughts as passing words rather than truths.",
+      "Encourage stepping back from thoughts to observe them non-judgmentally."
+    ],
+    "pause_rules": [
+      "Include pauses to allow reflection on the impact of holding a thought.",
+      "Pause after presenting each recognition about thoughts to facilitate processing."
+    ],
+    "psychological_function": "Increases awareness of the thinking process, enabling individuals to observe thoughts as mere words rather than truths or commands.",
+    "repetition_rules": [
+      "Repeat the process of observing thoughts as words.",
+      "Reinforce that thoughts do not have to be obeyed or believed."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_047",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "thoughts as words",
+      "training wheels on a bicycle"
+    ],
+    "therapeutic_function": "Facilitates cognitive defusion to reduce literal belief in thoughts and decrease their emotional impact.",
+    "voice_rules": [
+      "Use a calm, non-judgmental tone.",
+      "Encourage self-compassion and curiosity."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_047_309522c1",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_047",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:14+00:00"
+}

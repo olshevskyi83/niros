@@ -1,0 +1,53 @@
+{
+  "ontology_version": "master_ontology_v1",
+  "psilocybin_relevances": [
+    {
+      "relevance_id": "psi_rel_experiential_avoidance",
+      "target_type": "mechanism",
+      "target_id": "experiential_avoidance",
+      "relevance_summary": "Psilocybin-assisted therapy may be relevant to experiential avoidance when supported preparation and session structure allow increased emotional openness, psychological flexibility, and willingness to contact previously avoided internal experiences. Any benefit is context-dependent and not automatic.",
+      "evidence_status": "emerging",
+      "clinical_context_notes": "Relevance depends on preparation, therapist support, set/setting, contraindication screening, and paced titration of distress contact.",
+      "integration_relevance": "Integration may help translate temporary openness into sustained willingness, values-aligned action, and practice contacting avoided experience after the session with adequate support.",
+      "session_risk_notes": "Avoidance may rebound if distress is approached too quickly or if post-session integration lacks structure and support.",
+      "human_review_status": "seed",
+      "source_references": []
+    },
+    {
+      "relevance_id": "psi_rel_depression",
+      "target_type": "problem",
+      "target_id": "depression",
+      "relevance_summary": "Depression is a candidate presenting concern where psilocybin-assisted therapy has been studied as one possible adjunctive pathway depending on mechanism profile, risk, and evidence context.",
+      "evidence_status": "emerging",
+      "clinical_context_notes": "Not all depression presentations are appropriate; screening and psychiatric oversight are required.",
+      "integration_relevance": "Meaning, behavioral activation, and relational support are often central after session.",
+      "session_risk_notes": "Monitor for destabilization, suicidality, and inadequate support systems.",
+      "human_review_status": "seed",
+      "source_references": []
+    },
+    {
+      "relevance_id": "psi_rel_chronic_pain",
+      "target_type": "problem",
+      "target_id": "chronic_pain",
+      "relevance_summary": "Psilocybin-assisted therapy may be relevant to chronic pain primarily through potentially modifiable psychological mechanisms such as pain catastrophizing, emotional avoidance, fear of pain, meaning-making disruption, and stress reactivity. Central sensitization may be an emerging hypothesis area rather than a settled mechanism claim.",
+      "evidence_status": "hypothetical",
+      "clinical_context_notes": "Medical evaluation, pain-specific contraindications, and specialist oversight are required before any protocol consideration. Relevance is context-dependent and should not be read as direct analgesic treatment.",
+      "integration_relevance": "Integration may help explore pacing, movement re-engagement, pain reappraisal, and meaning-focused support after the session with preparation and ongoing care.",
+      "session_risk_notes": "Pain-related fear and catastrophizing may temporarily intensify during altered states without adequate preparation, support, and integration planning.",
+      "human_review_status": "seed",
+      "source_references": []
+    },
+    {
+      "relevance_id": "psi_rel_addictive_relief_cycle",
+      "target_type": "mechanism",
+      "target_id": "addictive_relief_cycle",
+      "relevance_summary": "Some research examines whether psilocybin-assisted therapy can support motivation and psychological flexibility within substance-use treatment contexts.",
+      "evidence_status": "emerging",
+      "clinical_context_notes": "Active dependence, withdrawal risk, and poly-substance use require specialist oversight.",
+      "integration_relevance": "Relapse prevention and support systems are critical after session.",
+      "session_risk_notes": "Use disorder context raises safety and integration burden substantially.",
+      "human_review_status": "seed",
+      "source_references": []
+    }
+  ]
+}

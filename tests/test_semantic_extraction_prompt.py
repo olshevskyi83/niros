@@ -53,10 +53,18 @@ def test_contains_required_extraction_fields() -> None:
         assert field in prompt
 
 
+def test_contains_relevance_decision_fields() -> None:
+    prompt = build_semantic_extraction_prompt(_source(), _segment())
+    assert "relevance_decision" in prompt
+    assert "should_extract" in prompt
+    assert "knowledge_kind" in prompt
+
+
 def test_requests_json() -> None:
     prompt = build_semantic_extraction_prompt(_source(), _segment())
     assert "valid JSON only" in prompt
     assert '"confidence": 0.0' in prompt
+    assert '"extraction":' in prompt
 
 
 def test_deterministic() -> None:
@@ -72,6 +80,13 @@ def test_prompt_contains_do_not_invent() -> None:
     assert "do not invent" in prompt.lower()
 
 
-def test_prompt_contains_therapeutic_function() -> None:
+def test_prompt_contains_ontology_reference() -> None:
     prompt = build_semantic_extraction_prompt(_source(), _segment())
-    assert "therapeutic_function" in prompt
+    assert "Master ontology reference mechanisms" in prompt
+    assert "experiential_avoidance" in prompt
+
+
+def test_prompt_forbids_definitions_and_summaries() -> None:
+    prompt = build_semantic_extraction_prompt(_source(), _segment())
+    assert "definitions without causal process" in prompt
+    assert "chapter summaries" in prompt

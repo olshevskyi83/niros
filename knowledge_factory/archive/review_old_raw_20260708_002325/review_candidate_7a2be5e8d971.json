@@ -1,0 +1,115 @@
+{
+  "consolidated_candidate": {
+    "batch_count": 1,
+    "book_count": 1,
+    "candidate_id": "candidate_96fe21e381ef",
+    "candidate_targets": [
+      "individuals struggling with pursuit of happiness",
+      "people caught in unhelpful beliefs about happiness",
+      "patients with depression, anxiety, chronic pain, drug addiction, schizophrenia",
+      "people seeking stress reduction and behavior change (e.g., quitting smoking)"
+    ],
+    "canonical_name": "Helps individuals recognize and undermine struggle, avoidance, and loss of the present moment to escape the 'happiness trap' and live a rich, full, and meaningful life while effectively handling inevitable pain.",
+    "confidence_summary": "high",
+    "contraindications": [
+      "Not explicitly stated in the text."
+    ],
+    "description": "Therapeutic functions observed: Helps individuals recognize and undermine struggle, avoidance, and loss of the present moment to escape the 'happiness trap' and live a rich, full, and meaningful life while effectively handling inevitable pain.. Psychological functions observed: Reduces unhelpful and inaccurate beliefs about happiness that fuel a vicious cycle of suffering; promotes mindfulness, acceptance, cognitive defusion, and values-based living to release individuals from psychological traps.. Consolidated from 1 extraction(s) across 1 source(s).",
+    "domains": [
+      "psychotherapy"
+    ],
+    "evidence_fragments": [
+      {
+        "confidence": 0.9,
+        "domain": "psychotherapy",
+        "evidence_text": "Happiness is not just a matter of feeling good. If it were, drug abusers would be the happiest people\non the planet. Indeed, feeling good can be a very unhappy pursuit. It is not by accident that drug\nusers call their methods of doing so a ‘fix’—because they are chemically trying to hold something\nin place. Like a butterfly pinned to a table, however, happiness dies unless it is held lightly. Drug\nabusers are not the only ones. In the name of producing an emotional result we call happiness, most\nof us tend to engage in behaviour that is the exact opposite and then feel awful and inadequate with\nthe inevitable result. Until we wise up, we are all generally trying to get a ‘fix’ on happiness.\n\n---\n\nThis book is based on Acceptance and Commitment Therapy (ACT), which is an empirically\nsupported approach that takes a new and unexpected tack in dealing with the issue of happiness and\nlife satisfaction. Instead of teaching new techniques to pursue happiness, ACT teaches ways to\nundermine struggle, avoidance, and loss of the moment. Russ Harris has very carefully and\ncreatively presented this approach in an accessible way. In 33 bite-sized chapters he systematically\nexplores how we get into the ‘Happiness Trap’ and how mindfulness, acceptance, cognitive\ndefusion, and values can release us from it.\n\n---\n\nThe joyful message in these pages is that there is no reason to continue to wait for life to start. That\nwaiting game can end. Now. Like a lion placed in a paper cage, human beings are generally most\ntrapped by the illusions of their own mind. But despite the appearance the cage is not really a\nbarrier that can contain the human spirit. There is another way forward, and with this book Dr\nHarris shines a powerful and loving beacon forward into the night, lighting that path.\n\n---\n\nSteven C. Hayes\nOriginator of ACT\nUniversity of Nevada\n\n---\n\nI JUST WANT TO BE HAPPY\nJust suppose for a moment that almost everything you believed about finding happiness turned out\nto be inaccurate, misleading or false. And suppose that those very beliefs were making you\nmiserable. What if your very efforts to find happiness were actually preventing you from achieving\nit? And what if almost everyone you knew turned out to be in the same boat—including all those\npsychologists, psychiatrists and self-help gurus who claim to have all the answers?\n\n---\n\nI’m not posing these questions just to grab your attention. This book is based on a growing body of\nscientific research that suggests we are all caught in a powerful psychological trap. We lead our\nlives ruled by many unhelpful and inaccurate beliefs about happiness—ideas widely accepted by\nsociety because ‘everyone knows they are true’. On the surface, these beliefs seem to make good\nsense—that’s why you encounter them again and again in nearly every self-help book you ever\nread. But these erroneous beliefs are both the cause of and the fuel for a vicious cycle, in which the\nmore we try to find happiness, the more we suffer. And this psychological trap is so well hidden, we\ndon’t even have a clue that we’re caught and controlled by it.\n\n---\n\nThe good news is there’s hope. You can learn how to recognise the ‘happiness trap’ and, more\nimportantly, you can learn how to climb out of it—and stay out. This book will give you all the\nskills and knowledge you need to do it. It’s based on a revolutionary new development in human\npsychology: a powerful model for change known as Acceptance and Commitment Therapy (ACT).\n\n---\n\nACT (pronounced as the word “act”) was created in the United States of America by psychologist\nSteven Hayes, and was further developed by a number of his colleagues, including Kelly Wilson\nand Kirk Stroshal. ACT has been astoundingly effective in helping patients with a wide range of\nproblems: from depression and anxiety to chronic pain and even drug addiction. For example, in\none remarkable study, psychologists Patty Bach and Steven Hayes used ACT with patients\nsuffering from chronic schizophrenia and found that only four hours of therapy were sufficient to\nreduce hospital readmission rates by half! ACT has also proved highly effective for the less\ndramatic problems that millions of us encounter, such as quitting smoking and reducing stress in the\nworkplace. Unlike the vast majority of other therapies, ACT has a firm basis in scientific research\nand, because of this, it is rapidly growing in popularity among psychologists all around the world.\n\n---\n\nThe aim of ACT is to help you live a rich, full and meaningful life, while effectively handling the\npain that inevitably comes your way. ACT achieves this through the use of six powerful principles,\nwhich are very different from the so-called commonsense strategies suggested in most self-help\nbooks.",
+        "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_002_251a1084",
+        "psychological_function": "Reduces unhelpful and inaccurate beliefs about happiness that fuel a vicious cycle of suffering; promotes mindfulness, acceptance, cognitive defusion, and values-based living to release individuals from psychological traps.",
+        "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_002",
+        "source_family": "act",
+        "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+        "therapeutic_function": "Helps individuals recognize and undermine struggle, avoidance, and loss of the present moment to escape the 'happiness trap' and live a rich, full, and meaningful life while effectively handling inevitable pain."
+      }
+    ],
+    "generation_rules": [
+      "Use empirically supported ACT principles focusing on acceptance, mindfulness, cognitive defusion, and values rather than traditional happiness pursuit techniques."
+    ],
+    "mean_confidence": 0.9,
+    "mention_count": 1,
+    "pause_rules": [
+      "Encourage reflection on common but inaccurate beliefs about happiness and the personal experience of being trapped by these beliefs."
+    ],
+    "psychological_function": "Reduces unhelpful and inaccurate beliefs about happiness that fuel a vicious cycle of suffering; promotes mindfulness, acceptance, cognitive defusion, and values-based living to release individuals from psychological traps.",
+    "repetition_rules": [
+      "Reinforce the concept of the 'happiness trap' and the counterproductive nature of pursuing happiness through struggle and avoidance."
+    ],
+    "segment_ids": [
+      "source_psychotherapy_act_the_happiness_trap_harris_batch_002"
+    ],
+    "source_count": 1,
+    "source_families": [
+      "act"
+    ],
+    "source_ids": [
+      "source_psychotherapy_act_the_happiness_trap_harris"
+    ],
+    "symbolic_elements": [
+      "butterfly pinned to a table",
+      "lion placed in a paper cage",
+      "powerful and loving beacon lighting a path"
+    ],
+    "therapeutic_function": "Helps individuals recognize and undermine struggle, avoidance, and loss of the present moment to escape the 'happiness trap' and live a rich, full, and meaningful life while effectively handling inevitable pain.",
+    "voice_rules": [
+      "Present the approach in an accessible, creative, and systematic manner using bite-sized chapters."
+    ]
+  },
+  "created_at": "2026-07-07T22:13:50+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_candidate_7a2be5e8d971",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals struggling with pursuit of happiness",
+      "people caught in unhelpful beliefs about happiness",
+      "patients with depression, anxiety, chronic pain, drug addiction, schizophrenia",
+      "people seeking stress reduction and behavior change (e.g., quitting smoking)"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text."
+    ],
+    "evidence_text": "[1] source_psychotherapy_act_the_happiness_trap_harris / source_psychotherapy_act_the_happiness_trap_harris_batch_002: Happiness is not just a matter of feeling good. If it were, drug abusers would be the happiest people\non the planet. Indeed, feeling good can be a very unhappy pursuit. It is not by accident that drug\nusers call their methods of doing so a ‘fix’—because they are chemically trying to hold something\nin place. Like a butterfly pinned to a table, however, happiness dies unless it is held lightly. Drug\nabusers are not the only ones. In the name of producing an emotional result we call happiness, most\nof us tend to engage in behaviour that is the exact opposite and then feel awful and inadequate with\nthe inevitable result. Until we wise up, we are all generally trying to get a ‘fix’ on happiness.\n\n---\n\nThis book is based on Acceptance and Commitment Therapy (ACT), which is an empirically\nsupported approach that takes a new and unexpected tack in dealing with the issue of happiness and\nlife satisfaction. Instead of teaching new techniques to pursue happiness, ACT teaches ways to\nundermine struggle, avoidance, and loss of the moment. Russ Harris has very carefully and\nc...",
+    "extraction_id": "extraction_candidate_7a2be5e8d971",
+    "extractor": "knowledge_consolidator",
+    "generation_rules": [
+      "Use empirically supported ACT principles focusing on acceptance, mindfulness, cognitive defusion, and values rather than traditional happiness pursuit techniques."
+    ],
+    "pause_rules": [
+      "Encourage reflection on common but inaccurate beliefs about happiness and the personal experience of being trapped by these beliefs."
+    ],
+    "psychological_function": "Reduces unhelpful and inaccurate beliefs about happiness that fuel a vicious cycle of suffering; promotes mindfulness, acceptance, cognitive defusion, and values-based living to release individuals from psychological traps.",
+    "repetition_rules": [
+      "Reinforce the concept of the 'happiness trap' and the counterproductive nature of pursuing happiness through struggle and avoidance."
+    ],
+    "review_status": "draft",
+    "segment_id": "candidate_96fe21e381ef",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "butterfly pinned to a table",
+      "lion placed in a paper cage",
+      "powerful and loving beacon lighting a path"
+    ],
+    "therapeutic_function": "Helps individuals recognize and undermine struggle, avoidance, and loss of the present moment to escape the 'happiness trap' and live a rich, full, and meaningful life while effectively handling inevitable pain.",
+    "voice_rules": [
+      "Present the approach in an accessible, creative, and systematic manner using bite-sized chapters."
+    ]
+  },
+  "review_id": "review_candidate_7a2be5e8d971",
+  "review_type": "consolidated_candidate",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "candidate_96fe21e381ef",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T22:13:50+00:00"
+}

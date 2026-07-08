@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:46:03+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_062_07897187",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unhelpful thoughts",
+      "fusion with thoughts",
+      "negative self-evaluations",
+      "fear of failure"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Do not use defusion techniques with the expectation to control feelings.",
+      "Recognize that defusion techniques are not foolproof and may not always produce immediate results."
+    ],
+    "evidence_text": "attention on more important things. So when defusion does make you feel better, by all means enjoy\nit. But don’t expect it to. And don’t start using it to try to control how you feel; otherwise, you’re\nstuck right back in the happiness trap.\n\n---\n\n* Remember that you're human, so there will be plenty of times when you forget to use these new\nskills. And that’s okay, because the moment you realise you’\nve been reeled in by unhelpful\nthoughts, you can instantly use one of these techniques to unhook yourself.\n\n---\n\n* Remember that no technique is foolproof. There may be times when you try them and defusion\ndoesn’t happen. If so, simply observe what it’s like to be fused with your thoughts. Merely\nlearning to tell the difference between fusion and defusion is useful in its own right.\n\n---\n\nDefusion is like any other skill: the more you practise, the better you get. So add the Thanking Your\nMind and Silly Voices techniques to your repertoire, and aim to use them between five and ten\ntimes each day.\n\n---\n\nAt this point, don’t expect any dramatic changes in your life. Simply notice what happens as you\nincorporate these practices into your daily routine. And if you’re having any doubts or concerns,\nmake a note of them. In the next chapter we’ll look at common problems people have with defusion\nand, more importantly, we’ll learn how to overcome them.\n\n---\n\n‘Well,’ he said, ‘I had to give this presentation at work in front of about 50 people. My mind kept\ntelling me I was going to screw up and make a fool of myself, so I tried those defusion techniques,\nbut they did nothing.’\n\n---\n\n“You mean, you kept buying into the story that you’d screw up?’\n\n---\n\n‘No, it helped with that—I stopped taking it seriously.’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_062_07897187",
+    "extractor": "openai",
+    "generation_rules": [
+      "Practice defusion techniques multiple times daily (5-10 times) to improve skill.",
+      "Use techniques when noticing fusion with thoughts.",
+      "Accept that techniques may not always produce immediate defusion."
+    ],
+    "pause_rules": [
+      "Pause to notice when fused with thoughts and apply defusion techniques."
+    ],
+    "psychological_function": "Distinguishing between fusion and defusion with thoughts, reducing the seriousness with which negative self-evaluations are taken, and increasing awareness of thought patterns.",
+    "repetition_rules": [
+      "Regular daily practice of defusion techniques to build skill and effectiveness."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_062",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Thanking Your Mind",
+      "Silly Voices"
+    ],
+    "therapeutic_function": "Defusion techniques help individuals unhook from unhelpful thoughts, reducing their impact and preventing attempts to control feelings that lead to the happiness trap.",
+    "voice_rules": [
+      "Use playful or silly voices as part of defusion techniques to reduce seriousness of thoughts."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_062_07897187",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_062",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:03+00:00"
+}

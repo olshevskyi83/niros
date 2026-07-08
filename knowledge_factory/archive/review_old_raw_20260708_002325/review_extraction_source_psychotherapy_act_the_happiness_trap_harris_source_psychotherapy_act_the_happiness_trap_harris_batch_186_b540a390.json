@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:52:52+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_186_b540a390",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "self-image",
+      "self-esteem",
+      "thoughts",
+      "memories",
+      "biased self-narratives"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective or confusing for clients with difficulty abstract thinking or severe dissociation."
+    ],
+    "evidence_text": "Similarly, a documentary about you would not be the same thing as you yourself. Even if that\ndocumentary lasted for a thousand hours and included all sorts of relevant scenes from your life, all\nsorts of interviews with people who know you, and all sorts of fascinating details about your\ninnermost secrets, even then the documentary would not be you.\n\n---\n\nTo really clarify this, think of the person you love most on this planet. Now, which would you\nprefer to spend time with: the actual living person or a documentary about that person?\n\n---\n\nSo, there’s this huge difference between who we are and any documentary that anyone could ever\nmake about us—no matter how ‘truthful’ that documentary may be. And I’ve put ‘truthful’ in\nquotation marks because all documentaries are hopelessly biased in that they only show youa tiny\npart of the big picture. Since the advent of cheap video, the typical hour-long television\ndocumentary is the ‘best’ of literally dozens, if not hundreds of hours of footage. So inevitably it’s\ngoing to be quite biased.\n\n---\n\nAnd the bias of a human film director is nothing compared to the bias of our thinking self. Out of an\n\n---\n\nentire lifetime of experience—literally hundreds of thousands of hours of archival ‘film footage’—\nour thinking self selects a few dramatic memories, edits them together with some related\njudgements and opinions and turns it into a powerful documentary entitled This Is Who I Am! And\nthe problem is, when we watch that documentary we forget that it’s just a heavily edited video.\nInstead, we believe that we are that video! But in the same way that a documentary of Africa is not\nAfrica, a documentary of you is not you.\n\n---\n\nYour self-image, your self-esteem, your ideas about the sort of person you are: all these things are\nnothing more than thoughts and memories. They are not you.\n\n---\n\nRight about now you may ask, ‘But if I’m not my thoughts and memories, then who am I?’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_186_b540a390",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphor of a documentary to illustrate the difference between self and self-concept",
+      "Encourage reflection on preference for actual person versus representation",
+      "Highlight the selective and biased nature of internal narratives"
+    ],
+    "pause_rules": [
+      "Pause after key questions and metaphors to allow client reflection."
+    ],
+    "psychological_function": "Promotes cognitive defusion by illustrating that self-image and self-esteem are constructed thoughts, not the essence of the person.",
+    "repetition_rules": [
+      "Reiterate the distinction between self and thoughts/memories to reinforce cognitive defusion."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_186",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "documentary about a person as a metaphor for self-narrative",
+      "edited film footage representing selective memory and biased thinking"
+    ],
+    "therapeutic_function": "To help clients differentiate between their self-concept (thoughts and memories) and their true self, reducing identification with biased self-narratives.",
+    "voice_rules": [
+      "Use questioning to engage client reflection (e.g., 'which would you prefer?')",
+      "Use analogy and metaphor to simplify complex psychological concepts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_186_b540a390",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_186",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:52+00:00"
+}

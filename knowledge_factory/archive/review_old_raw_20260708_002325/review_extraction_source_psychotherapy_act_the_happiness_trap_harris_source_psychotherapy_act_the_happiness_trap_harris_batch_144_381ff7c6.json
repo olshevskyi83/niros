@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:50:34+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_144_381ff7c6",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unhelpful thoughts",
+      "unpleasant feelings",
+      "obstructive urges and sensations",
+      "cognitive fusion with distressing thoughts"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "None explicitly stated in the text"
+    ],
+    "evidence_text": "5. What sort of relationships would you build and with whom?\n\n---\n\n6. What improvements would you make in your health and fitness?\n\n---\n\nIn reading through your list, you have probably already noticed a variety of unhelpful thoughts and\nunpleasant feelings. If you’re experiencing those right now just by reading these questions, then you\ncan be sure they’re going to confront you later, when we focus on taking action. So take a few\nminutes and write down the answers to these questions (or at least spend a few minutes thinking\n\n---\n\n¢ What demons can you expect to find clambering up on deck as you steer your boat in a valued\ndirection?\n\n---\n\n« What feelings, urges and sensations might possibly act as obstacles?\n\n---\n\n« What thoughts and images might possibly act as obstacles?\n\n---\n\nThe next step is to make some time to practise defusion and/or expansion with these demons. What\nvalued activities can you do in the next few days that will give you a chance to meet these demons,\nsee them for what they are and make peace with them? Set yourself a few goals: specify the time,\nthe place and the activity you’ll do. Then engage yourself fully in that activity.\nAnd if you have trouble with any of this, don’t be discouraged. In the next few chapters you’ll be\nlearning another useful skill that will make a world of difference.\n\n---\n\n“Where are you?’ asked my wife, startling me out of my reverie. We were halfway through a meal\nat a Japanese restaurant and for the past couple of minutes I hadn’t heard a word that she’d been\nsaying. Or to be more accurate, I had heard the words but hadn’t consciously listened to them.\n“Where are you?’ was an appropriate question, because even though I was there physically,\nmentally I was miles away. I’d been completely ‘carried off by thoughts about a troublesome\nfamily matter.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_144_381ff7c6",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify potential internal obstacles before engaging in valued activities",
+      "Set specific goals including time, place, and activity for practicing defusion",
+      "Engage fully in chosen valued activities despite internal obstacles"
+    ],
+    "pause_rules": [
+      "Take a few minutes to write down or think through answers to reflective questions before action"
+    ],
+    "psychological_function": "Identifying and confronting internal obstacles such as difficult thoughts, feelings, urges, and sensations; promoting mindfulness and present-moment awareness; reducing cognitive fusion with distressing thoughts.",
+    "repetition_rules": [
+      "Repeatedly practice defusion and expansion techniques with identified internal obstacles during valued activities"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_144",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "demons clambering up on deck",
+      "steering your boat in a valued direction",
+      "being carried off by thoughts"
+    ],
+    "therapeutic_function": "Facilitating awareness and acceptance of unhelpful thoughts and unpleasant feelings; practicing defusion and expansion to reduce the impact of these internal experiences; encouraging engagement in valued activities despite psychological obstacles.",
+    "voice_rules": [
+      "Use direct questioning to prompt self-reflection",
+      "Employ metaphorical language to externalize internal experiences",
+      "Encourage self-compassion and persistence in practice"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_144_381ff7c6",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_144",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:34+00:00"
+}

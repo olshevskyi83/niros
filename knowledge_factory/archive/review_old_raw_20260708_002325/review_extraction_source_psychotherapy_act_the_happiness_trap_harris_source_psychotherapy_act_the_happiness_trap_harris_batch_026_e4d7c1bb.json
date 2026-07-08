@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:43:58+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_026_e4d7c1bb",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "fear of rejection",
+      "social anxiety",
+      "avoidance behaviors",
+      "substance use for anxiety relief",
+      "emotional eating",
+      "discomfort avoidance in exercise"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text"
+    ],
+    "evidence_text": "Scratching is a good solution for a fleeting itch in normal, healthy skin. But for a persistent itch in\nabnormal skin, scratching is harmful: the ‘solution’ becomes part of the problem. This is commonly\nknown as a ‘vicious cycle’. And in the world of human emotions, vicious cycles are common. Here\nare a few examples:\n\n---\n\n¢ Joseph fears rejection, so he feels overly anxious in social situations. He doesn’t want those\nfeelings of anxiety, so he avoids socialising whenever possible. He doesn’t accept invitations to\nparties. He doesn’t pursue friendships. He lives alone and stays home every night. This means\nthat on the rare occasion when he does socialise, he’s more anxious than ever because he’s so out\nof practice. Furthermore, living alone with no friends or social life just serves to make him feel\ncompletely rejected, which is the very thing he fears!\n\n---\n\n* Yvonne also feels anxious in social situations. She copes with this by drinking heavily. In the\nshort term, alcohol reduces her anxiety. But the next day she feels hung-over and tired and she\noften regrets the money she spent on alcohol or worries about the embarrassing things she did\nwhile under the influence. Sure, she escapes anxiety for a little while, but the price she pays is a\nlot of other unpleasant feelings over the long term. And if she ever finds herself in a social\nsituation where she can’t drink, her anxiety is greater than ever, because she doesn’t have alcohol\nto rely on.\n\n---\n\n* Danielle is overweight and hates it, so she eats some chocolate to cheer herself up. For the\nmoment, she feels better. But then she thinks about all the calories she’s just consumed and how\nthat will add to her weight—and ends up feeling more miserable than ever.\n\n---\n\ne Ahmed is out of shape. He wants to get fit again. He starts working out, but because he’s unfit,\nit’s hard work and it feels uncomfortable. He doesn’t like the discomfort, so he stops working out.\nThen his fitness level slides even lower.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_026_e4d7c1bb",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use real-life examples to illustrate vicious cycles",
+      "Contrast short-term relief with long-term negative consequences"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "psychological_function": "Highlighting how avoidance or short-term coping strategies can exacerbate anxiety, rejection fears, or negative feelings over time",
+    "repetition_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_026",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "itch as a metaphor for emotional discomfort",
+      "vicious cycle as a metaphor for self-perpetuating negative behaviors"
+    ],
+    "therapeutic_function": "Identifying and breaking vicious cycles of behavior that maintain or worsen emotional distress",
+    "voice_rules": [
+      "Use explanatory and illustrative tone",
+      "Present examples in a narrative style"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_026_e4d7c1bb",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_026",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:58+00:00"
+}

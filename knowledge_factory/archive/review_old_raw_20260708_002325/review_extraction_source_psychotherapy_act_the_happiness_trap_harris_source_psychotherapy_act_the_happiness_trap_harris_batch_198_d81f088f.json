@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:53:29+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_198_d81f088f",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing suffering or hardship",
+      "people struggling with motivation",
+      "clients questioning the meaning or purpose of life",
+      "those feeling hopeless or lacking excitement"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertainty about contraindications based on the provided text."
+    ],
+    "evidence_text": "Another of Frankl’s values lay in helping others and so, throughout his time in the camps, he\nconsistently helped other prisoners to cope with their suffering. He listened compassionately to their\nwoes, gave them words of kindness and inspiration and tended to the sick and the dying. Most\nimportantly, he helped people to connect with their own deepest values so they could find a sense of\nmeaning, of purpose. This would then quite literally give them the strength to survive. As the great\nphilosopher Friedrich Nietzsche once said, ‘He who has a why to live for can bear almost any how.’\n\n---\n\nLife involves hard work. All meaningful projects require effort, whether you’re raising kids,\nrenovating your house, learning kung fu or starting your own business. These things are\nchallenging. Unfortunately, all too often, when faced with a challenge we think, ‘It’s too hard’ and\nwe give up or avoid it. That’s where our values come in.\n\n---\n\nConnecting with our values gives us a sense that our hard work is worth the effort. For instance, if\nwe value connecting with nature, this makes it worth the effort to organise a trip to the countryside.\nIf we value being a loving parent, it’s worth taking the time to play with our kids. If we value our\nhealth, we’re willing to exercise on a regular basis despite the inconvenience and exertion. In this\nway, values act as motivators. We may not feel like exercising, but valuing our health can give us\nthe will to ‘just do it!’.\n\n---\n\nThe same principle applies to life in general. Many of my clients ask questions like, “What's the\npoint of life?’, ‘Is this all there is?’, ‘Why don’t I feel excited about anything?’ Others say things\nlike, ‘Maybe the world would be better off without me’, ‘I have nothing to offer’, ‘Sometimes I\nwish I could go to bed and never wake up again.’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_198_d81f088f",
+    "extractor": "openai",
+    "generation_rules": [
+      "Connect therapeutic interventions to clients' personal values to enhance motivation and endurance.",
+      "Use compassionate listening and kindness to support coping with suffering."
+    ],
+    "pause_rules": [
+      "Use pauses to allow reflection on personal values and meaning during therapy sessions."
+    ],
+    "psychological_function": "Facilitating coping with suffering through compassionate listening, providing kindness and inspiration, and fostering a sense of meaning that strengthens willpower and perseverance.",
+    "repetition_rules": [
+      "Reinforce the importance of values repeatedly as motivators for enduring effort and hardship."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_198",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "values as motivators",
+      "‘He who has a why to live for can bear almost any how’ (Nietzsche quote)"
+    ],
+    "therapeutic_function": "Helping individuals connect with their deepest values to find meaning and purpose, thereby increasing their psychological resilience and motivation to endure suffering and challenges.",
+    "voice_rules": [
+      "Adopt a compassionate and inspirational tone.",
+      "Use affirming and encouraging language to reinforce clients' values and purpose."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_198_d81f088f",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_198",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:29+00:00"
+}

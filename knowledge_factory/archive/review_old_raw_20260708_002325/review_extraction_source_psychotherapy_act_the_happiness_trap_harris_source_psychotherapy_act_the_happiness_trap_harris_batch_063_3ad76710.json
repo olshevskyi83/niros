@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:46:06+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_063_3ad76710",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Anxiety related to public speaking",
+      "Unpleasant thoughts",
+      "Negative emotions",
+      "Control strategies for managing internal experiences"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if acceptance strategies are suitable for individuals requiring immediate symptom reduction or those with severe distress who may need different interventions."
+    ],
+    "evidence_text": "‘John,’ I said, ‘I’ve been giving talks in public for over twenty years, and I still feel anxious every\ntime I get up there. I’ve met hundreds of people who speak to audiences as part of their profession,\nand I’ve always asked them, “Do you get anxious when you give a talk?” So far, almost every\nsingle person has said yes. The point is, if you're going to put yourself in any sort of challenging\nsituation, if you’re going to take any significant risk, then anxiety is a normal emotion. It will be\nthere. And defusing negative thoughts is not going to get rid of it.’\n\n---\n\nMany of us, when we first encounter defusion, fall into the same trap as John; we start trying to use\ndefusion as a control strategy. Remember:\n\n---\n\n* A control strategy is any attempt to change, avoid or get rid of unwanted thoughts and feelings.\n\n---\n\n* Control strategies are problematic when they are used excessively or in situations where they\ncan’t work, or when using them reduces our quality of life in the long term.\n\n---\n\nDefusion is the very opposite of a control strategy; it’s an acceptance strategy. In ACT, rather than\nattempting to change, avoid or get rid of unpleasant thoughts and feelings, our aim is to accept\nthem. Acceptance doesn’t mean you have to like your uncomfortable thoughts and feelings; it just\nmeans you stop struggling with them. When you stop wasting your energy on trying to change,\navoid or get rid of them, you can put that energy into something more useful instead. This is best\nexplained with an analogy.\n\n---\n\nImagine you live in a small country that shares a border with a hostile neighbour. There is longstanding tension between the two countries. The neighbouring country has a different religion and a\ndifferent political system, and your country sees it as a major threat. There are three possible\nscenarios for how your country can relate to its neighbour.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_063_3ad76710",
+    "extractor": "openai",
+    "generation_rules": [
+      "Avoid using defusion as a control strategy.",
+      "Emphasize acceptance over avoidance or elimination of thoughts and feelings."
+    ],
+    "pause_rules": [
+      "Pause after explaining the difference between control and acceptance strategies to allow reflection."
+    ],
+    "psychological_function": "Reduces struggle with anxiety and negative thoughts by shifting focus from control to acceptance, allowing energy to be redirected to more useful activities.",
+    "repetition_rules": [
+      "Repeat the distinction between control strategies and acceptance strategies to reinforce understanding."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_063",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Analogy of a small country with a hostile neighbour representing internal conflict and acceptance strategies versus control strategies."
+    ],
+    "therapeutic_function": "Promotes acceptance of unpleasant thoughts and feelings rather than attempting to control or eliminate them.",
+    "voice_rules": [
+      "Use a normalizing and validating tone when discussing anxiety and negative thoughts.",
+      "Use personal experience and common human experiences to build rapport."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_063_3ad76710",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_063",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:06+00:00"
+}

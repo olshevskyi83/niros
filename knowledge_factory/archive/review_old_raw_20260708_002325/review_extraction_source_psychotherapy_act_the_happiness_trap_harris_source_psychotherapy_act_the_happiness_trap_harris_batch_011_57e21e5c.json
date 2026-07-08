@@ -1,0 +1,60 @@
+{
+  "created_at": "2026-07-07T21:43:08+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_011_57e21e5c",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "human mind's evolutionary programming",
+      "pursuit of pleasurable feelings",
+      "comparison and self-criticism tendencies"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May not be suitable for individuals seeking immediate mood elevation rather than conceptual understanding",
+      "Could potentially increase distress if focus on evolutionary suffering is misinterpreted as hopelessness"
+    ],
+    "evidence_text": "Now, for any Stone Age person with ambition, the general rule for success is: the more, the better.\nThe more sophisticated your weapons (and the more of them you have), the more food you can kill.\nThe more plentiful your food stores, the better your chances are for living through times of scarcity.\nThe more substantial your shelter, the safer you are from weather and wild animals. The more\nchildren you have, the better the chance that some of them will survive into adulthood. No surprise\nthen, that our modern mind continually looks for more: more money, more status, more love, more\njob satisfaction, a newer car, a younger-looking body, a younger-looking partner, a bigger house.\nAnd if we succeed, if we actually get more money or a newer car or a better job, then we’re\nsatisfied— for a while. But sooner or later (and usually sooner), we end up wanting more.\n\n---\n\nThus, evolution has shaped our minds so that we are almost inevitably destined to suffer\npsychologically: to compare, evaluate and criticise ourselves; to focus on what we’re lacking; to be\ndissatisfied with what we have; and to imagine all sorts of frightening scenarios, most of which will\nnever happen. No wonder humans find it hard to be happy!\n\n---\n\nWe all want it. We all crave it. We all strive for it. Even the Dalai Lama has said: ‘The very purpose\nof life is to seek happiness.’ But what exactly is this elusive thing we are looking for?\n\n---\n\nThe word ‘happiness’ has two very different meanings. Usually it refers to a feeling: a sense of\npleasure, gladness or gratification. We all enjoy happy feelings, so it’s no surprise that we chase\nthem. However, like all our other feelings, feelings of happiness don’t last. No matter how hard we\ntry to hold on to them, they slip away every time. And as we shall see, a life spent in pursuit of\nthose feelings is, in the main, unsatisfying. In fact, the harder we pursue pleasurable feelings, the\nmore we are likely to suffer from anxiety and depression.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_011_57e21e5c",
+    "extractor": "openai",
+    "generation_rules": [
+      "Explain evolutionary origins of desire for 'more' to contextualize dissatisfaction",
+      "Distinguish between transient feelings of happiness and lasting contentment",
+      "Emphasize the inevitability of psychological suffering due to these tendencies"
+    ],
+    "pause_rules": [
+      "Pause after presenting evolutionary examples to allow reflection",
+      "Pause before introducing the distinction between types of happiness",
+      "Pause after stating the consequences of pursuing pleasurable feelings"
+    ],
+    "psychological_function": "Highlighting the natural human tendency to compare, evaluate, and desire more, which leads to psychological suffering such as anxiety and depression.",
+    "repetition_rules": [
+      "Reiterate the concept that 'more' is never enough",
+      "Repeat the transient nature of pleasurable feelings",
+      "Emphasize the link between pursuit of happiness and psychological suffering"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_011",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Stone Age weapons",
+      "food stores",
+      "shelter",
+      "children",
+      "modern desires (money, status, love, possessions)"
+    ],
+    "therapeutic_function": "To increase awareness of the evolutionary basis of human dissatisfaction and the futility of pursuing transient pleasurable feelings as a path to lasting happiness.",
+    "voice_rules": [
+      "Use explanatory and reflective tone",
+      "Incorporate relatable examples from both ancient and modern contexts",
+      "Include authoritative references (e.g., Dalai Lama quote)"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_011_57e21e5c",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_011",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:08+00:00"
+}

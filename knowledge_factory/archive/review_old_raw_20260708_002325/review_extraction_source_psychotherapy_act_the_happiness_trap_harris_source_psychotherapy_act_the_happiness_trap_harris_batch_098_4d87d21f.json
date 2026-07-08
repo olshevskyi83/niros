@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-07-07T21:48:08+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_098_4d87d21f",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "distressing memory",
+      "painful sensation",
+      "disturbing thought",
+      "sensory events (sight, sound, smell, taste, touch)"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "An emotion is triggered by some sort of significant event. This event may happen inside your body\n(a distressing memory, a painful sensation or a disturbing thought) or it may happen in the world\naround you (something you can see, hear, smell, taste or touch). Your brain notices this event and\nalerts you that it’s important.\n\n---\n\nThe brain starts to evaluate this event: ‘Is it good or bad? Beneficial or harmful?’ At the same time,\nthe brain starts to arouse the body for action: either to approach or to avoid the event. In this phase\nthere is no distinctive ‘feeling’ in the usual sense of the word. If the brain judges the event as\nharmful, the ‘fight-or-flight response’ is triggered, and our body prepares to either attack or escape.\nIf the brain judges the event as potentially helpful, our body prepares to approach and explore it.\nAnd as our body gets ready for action, we experience a variety of sensations and urges.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_098_4d87d21f",
+    "extractor": "openai",
+    "generation_rules": [],
+    "pause_rules": [],
+    "psychological_function": "Helps individuals recognize the evaluative process of the brain in response to events and the associated physiological arousal preparing for approach or avoidance.",
+    "repetition_rules": [],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_098",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Facilitates awareness of emotional triggers and the body's preparatory responses to significant events.",
+    "voice_rules": []
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_098_4d87d21f",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_098",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:08+00:00"
+}

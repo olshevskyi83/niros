@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-07-07T21:51:14+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_158_74c2384a",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "stress",
+      "irritability",
+      "disconnection from experience",
+      "negative automatic thoughts",
+      "avoidance of unpleasant tasks"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals who may become overwhelmed by unpleasant sensory experiences or strong negative emotions without additional support"
+    ],
+    "evidence_text": "The fact was, no one else was going to wash the dog and I didn’t want to leave him smelling like\nthat. (Not that he would have minded.) I knew it would take about half an hour to wash him and dry\nhim, so I figured I had a choice. I could spend that time stressed and irritable, disconnected from my\nexperience, pressuring myself to finish as quickly as possible, while thinking about all the things I\nhad to do afterward. Or I could connect with my experience and make the most of it. Either way, it\nwould still take half an hour.\n\n---\n\nHow do you make the most of washing a dirty dog? By being present and engaging in what is\nhappening without judging it. So as I inhaled that foul odour I made room for my feelings of disgust\nand irritation. I allowed my unhelpful thoughts to come and go and I focused on connecting through\nmy five senses. I noticed the warm water on my hands and the reactions of my dog as I spoke to\nhim gently. I focused with interest and openness on the feel of his wet hair, the smell of the\nshampoo, the changing colour of the water, the sound of splashing, the movement of my arms, the\nmovement of the dog, the movement of the water...\n\n---\n\nAnd Pd be lying if I said I enjoyed it. But the experience was much richer than on previous\n\n---\n\noccasions, when I rushed through it completely disconnected. And as a bonus, it was much less\nstressful for the two of us. However, as always, you should trust your own experience rather than\nwhat I say. Practise connecting with unpleasant, boring or disagreeable tasks and notice what\nhappens. And make sure that they’re tasks you truly value; activities that serve to enhance your life\nin the long term. Following are some exercises to help you connect with the mundane activities in\nlife.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_158_74c2384a",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage noticing sensory details during mundane or unpleasant activities",
+      "Allow unhelpful thoughts to come and go without engagement",
+      "Focus on connecting with present experience rather than rushing or avoiding"
+    ],
+    "pause_rules": [
+      "Pause to notice sensory input and emotional reactions during the activity"
+    ],
+    "psychological_function": "Reduces stress and irritability by shifting focus from negative thoughts and future worries to sensory experience and openness; facilitates emotional regulation through acceptance of unpleasant feelings.",
+    "repetition_rules": [
+      "Practice connecting with unpleasant or boring tasks repeatedly to build mindfulness skills"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_158",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "washing the dog",
+      "foul odour",
+      "warm water",
+      "wet hair",
+      "shampoo smell",
+      "splashing sound",
+      "movement of arms and dog"
+    ],
+    "therapeutic_function": "Promotes mindfulness and acceptance by encouraging present-moment awareness and non-judgmental engagement with unpleasant or mundane tasks.",
+    "voice_rules": [
+      "Use gentle, open, and accepting tone",
+      "Encourage self-trust and personal experience over external advice"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_158_74c2384a",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_158",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:14+00:00"
+}

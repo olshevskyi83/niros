@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:47:07+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_080_c12e22b4",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "distressing mental images",
+      "catastrophic thinking",
+      "anxiety about uncertain future",
+      "ruminative worry"
+    ],
+    "confidence": 0.8,
+    "contraindications": [
+      "Uncertainty about effectiveness in patients with severe cognitive impairment or inability to engage in self-observation"
+    ],
+    "evidence_text": "As for the observing self, we’ve only just begun to scratch the surface. The observing self is a very\npowerful ally in transforming your life and we’ll return to it many times in later chapters.\nMeanwhile, we now come to the final chapter on defusion, in which we learn how to deal with ...\n\n---\n\nRoxy trembled. Her face was pale and drawn, her eyes teary.\n\n---\n\nRoxy was a 32-year-old lawyer, dedicated to her profession. One day at work she noticed a\nweakness and numbness in her left leg, and within a few days she was diagnosed with multiple\nsclerosis or MS. MS is a disease in which the nerves in the body degenerate, creating all sorts of\nphysical problems. In the best-case scenario, you may have one fleeting episode of neurological\ndisturbance from which you fully recover, never to be bothered again. In the worst case, the MS\nsteadily worsens and your nervous system progressively deteriorates, until you are severely\nphysically disabled. Doctors have no way of predicting how it will affect a patient.\n\n---\n\nNot surprisingly, this was extremely distressing news for Roxy: a frightening diagnosis, with no\nway of predicting the outcome. Roxy’s mind had always had a tendency to imagine the worst. This\nis a useful trait for lawyers, because it allows them to anticipate every possible problem in a\ncriminal or civil case. But now this trait became a hindrance as Roxy kept imagining herself in a\nwheelchair, her body horribly deformed, her mouth twisted and drooling. Every time this image\npopped into her head, it terrified her. She tried telling herself all the usual commonsense things:\n‘Don’t worry ... it will probably never happen to you’, ‘Your chances are excellent ... cross that\nbridge if and when you come to it’, “What's the point of worrying about something that may never\nhappen?’ Friends, family and doctors also tried to reassure her with similar advice. But did that get\nrid of this scary image? Not in the least.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_080_c12e22b4",
+    "extractor": "openai",
+    "generation_rules": [
+      "Introduce the concept of the observing self as an ally",
+      "Teach defusion techniques to separate self from distressing thoughts"
+    ],
+    "pause_rules": [
+      "Pause to allow reflection on the observing self and its role in managing thoughts"
+    ],
+    "psychological_function": "Reducing the impact of distressing mental images and catastrophic thinking by observing thoughts without attachment",
+    "repetition_rules": [
+      "Return repeatedly to the concept of the observing self in later chapters to reinforce learning"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_080",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observing self",
+      "scary image of disability"
+    ],
+    "therapeutic_function": "Use of the observing self to transform life and manage distressing thoughts through defusion techniques",
+    "voice_rules": [
+      "Use a calm, supportive, and validating tone when addressing distressing thoughts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_080_c12e22b4",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_080",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:07+00:00"
+}

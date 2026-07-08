@@ -1,0 +1,39 @@
+{
+  "created_at": "2026-07-07T21:42:51+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_006_262e0ad9",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "depression",
+      "anxiety",
+      "chronic pain",
+      "drug addiction",
+      "chronic schizophrenia",
+      "smoking cessation",
+      "workplace stress"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "ACT (pronounced as the word “act”) was created in the United States of America by psychologist\nSteven Hayes, and was further developed by a number of his colleagues, including Kelly Wilson\nand Kirk Stroshal. ACT has been astoundingly effective in helping patients with a wide range of\nproblems: from depression and anxiety to chronic pain and even drug addiction. For example, in\none remarkable study, psychologists Patty Bach and Steven Hayes used ACT with patients\nsuffering from chronic schizophrenia and found that only four hours of therapy were sufficient to\nreduce hospital readmission rates by half! ACT has also proved highly effective for the less\ndramatic problems that millions of us encounter, such as quitting smoking and reducing stress in the\nworkplace. Unlike the vast majority of other therapies, ACT has a firm basis in scientific research\nand, because of this, it is rapidly growing in popularity among psychologists all around the world.\n\n---\n\nThe aim of ACT is to help you live a rich, full and meaningful life, while effectively handling the\npain that inevitably comes your way. ACT achieves this through the use of six powerful principles,\nwhich are very different from the so-called commonsense strategies suggested in most self-help\nbooks.\n\n---\n\nIn the western world we now have a higher standard of living than humans have ever known before.\nWe have better medical treatment, more and better food, better housing conditions, better sanitation,\nmore money, more welfare services and more access to education, justice, travel, entertainment and\ncareer opportunities. Indeed, today’s middle class lives better than did the royalty of not so long\nago, and yet, human misery is everywhere.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_006_262e0ad9",
+    "extractor": "openai",
+    "generation_rules": [],
+    "pause_rules": [],
+    "psychological_function": "Reducing symptoms and improving functioning in conditions such as depression, anxiety, chronic pain, drug addiction, chronic schizophrenia, smoking cessation, and workplace stress.",
+    "repetition_rules": [],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_006",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Helping patients live a rich, full, and meaningful life while effectively handling inevitable pain through six powerful principles.",
+    "voice_rules": []
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_006_262e0ad9",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_006",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:42:51+00:00"
+}

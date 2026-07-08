@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:48:00+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_095_20226162",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "fear",
+      "urge to flee",
+      "automatic reflexes",
+      "behavioral responses"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the source segment."
+    ],
+    "evidence_text": "Now let’s return to the opening scenario of this chapter: you’re trekking through the Alaskan\nwilderness and you meet a grizzly bear. Obviously, you will feel intense fear and undoubtedly\nyou'll feel the urge to turn and run. But if you have read your survival manual, you’ll know that’s\nabout the worst thing you could possibly do. If you turn and run, you will incite the bear’s pursuit\ninstinct. It will chase after you and easily outrun you within seconds. After that, you’re bear fodder.\nNow, although there’s some discussion among the experts about the best response, they tend to\nagree that a good rule is to back away slowly, without any sudden moves or loud noises, and never\nturn your back on the bear.\n\n---\n\nMany people have survived by following this advice. They all felt terrible fear—that much was out\nof their control—but they were able to control how they acted. So here’s the point I’m trying to\nhammer home: although you have don’t have much direct control over your feelings, you can\ndirectly control your actions. This realisation will have important practical applications later\nbecause when it comes to making important changes in your life, it’s far more useful to focus on\n\n---\n\nwhat you can control rather than on what you can’t.\n\n---\n\nOf course, there are some reflex reactions that can’t be controlled. For example, if I go to poke you\nin the eye, your eyelids will instantly close. You can’t control that. Even if I offered you one million\ndollars, you wouldn’t be able to keep your eyelids from closing. But such reflexes are the exception.\nThe vast majority of our actions can be controlled, provided we are consciously aware of them.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_095_20226162",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus on actions within conscious control rather than uncontrollable feelings.",
+      "Recognize and accept reflexive responses as exceptions.",
+      "Apply survival strategies that emphasize controlled behavior."
+    ],
+    "pause_rules": [
+      "Not specified in the source segment."
+    ],
+    "psychological_function": "Facilitating acceptance of intense emotions while encouraging conscious control over actions to improve coping and decision-making.",
+    "repetition_rules": [
+      "Reiterate the distinction between feelings and actions.",
+      "Emphasize the importance of focusing on controllable aspects."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_095",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "grizzly bear encounter",
+      "backing away slowly",
+      "reflex eyelid closure"
+    ],
+    "therapeutic_function": "Enhancing awareness of the distinction between uncontrollable feelings and controllable actions to promote adaptive behavioral responses.",
+    "voice_rules": [
+      "Use direct, instructional tone emphasizing practical application.",
+      "Employ illustrative scenarios to clarify concepts."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_095_20226162",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_095",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:00+00:00"
+}

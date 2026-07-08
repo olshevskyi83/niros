@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:49:04+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_116_d10eadd7",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Intrusive or distressing thoughts",
+      "Emotional physical sensations",
+      "Attention control"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "But none of this needs to be a problem. Just allow those thoughts to be there and let them come and\ngo as they please. Acknowledge their presence, but don’t focus on them. Treat them as if they were\ncars driving past your house—you know they’re there, but you don’t have to peer out the window\neach time one goes by. And if a thought does hook you (in the same way that screeching tyres\nmight distract you), then the moment you realise it, gently refocus your attention on what you are\ndoing.\n\n---\n\nThis is essentially the same defusion skill as you learned in the Ten Deep Breaths technique in\nChapter 7. If you haven’t been regularly practising that exercise, then please, start right now! Read\nthrough the instructions and give it a go. Then practise that exercise at least ten times a day for five\ndays before you read on any further. Remember, there’s no great rush to ‘get through’ this book.\nThink of it like a holiday—you get more out of it if you take your time, rather than trying to see all\nthe sights in one day.\n\n---\n\nSo, when practising expansion, let your thoughts come and go in the background, and keep your\nattention focused on your emotions. And remember:\n\n---\n\n* The essence of an emotion is a set of physical changes in the body.\n\n---\n\n* We primarily notice these changes as physical sensations.\n\n---\n\nExpansion starts with noticing what we’re feeling in our body (body awareness) and observing\nprecisely where those sensations are located; it then progresses to studying those sensations in more\ndetail. This is the first of three basic steps, outlined below.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_116_d10eadd7",
+    "extractor": "openai",
+    "generation_rules": [
+      "Allow thoughts to come and go without focusing on them",
+      "Acknowledge thoughts without engagement",
+      "Gently refocus attention when distracted by thoughts",
+      "Practice defusion exercises regularly (e.g., Ten Deep Breaths technique)",
+      "Observe and locate physical sensations associated with emotions"
+    ],
+    "pause_rules": [
+      "Pause to notice when attention has been hooked by a thought before gently redirecting focus"
+    ],
+    "psychological_function": "Reduces cognitive fusion with distressing thoughts; promotes mindful attention shifting; increases interoceptive awareness of emotions.",
+    "repetition_rules": [
+      "Practice defusion exercise at least ten times a day for five days",
+      "Repeatedly notice and observe bodily sensations related to emotions"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_116",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Thoughts as cars driving past a house",
+      "Screeching tyres as distracting thoughts"
+    ],
+    "therapeutic_function": "Facilitates cognitive defusion by allowing thoughts to be present without engagement; enhances emotional awareness through body sensation observation.",
+    "voice_rules": [
+      "Use gentle, encouraging tone when guiding attention refocus",
+      "Provide reassurance that thoughts are not problems",
+      "Encourage patience and gradual practice"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_116_d10eadd7",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_116",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:04+00:00"
+}

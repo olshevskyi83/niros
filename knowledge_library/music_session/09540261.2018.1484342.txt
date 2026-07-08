@@ -1,0 +1,941 @@
+[PAGE 001]
+
+Taylor & Francis
+& Francis Group
+Taylor
+
+
+International Review of Psychiatry
+
+
+ISSN: 0954-0261 (Print) 1369-1627 (Online) Journal homepage: http://www.tandfonline.com/loi/iirp20
+
+
+Psychedelics and music: neuroscience and
+therapeutic implications
+
+Frederick S. Barrett, Katrin H. Preller & Mendel Kaelen
+
+
+To cite this article: Frederick S. Barrett, Katrin H. Preller & Mendel Kaelen (2018): Psychedelics
+and music: neuroscience and therapeutic implications, International Review of Psychiatry
+
+To link to this article: https://doi.org/10.1080/09540261.2018.1484342
+
+
+ES Published online: 21 Sep 2018.
+
+
+(4 Submit your article to this journal @
+SY
+
+
+O) View Crossmark data Z'
+CrossMark
+
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journallnformation?journalCode=iirp20
+
+[PAGE 002]
+
+INTERNATIONAL REVIEW OF PSYCHIATRY
+Taylor & Francis
+Taylor
+& Francis Group
+https://doi.org/10.1080/09540261.2018.1484342
+
+
+® Check for updates
+REVIEW ARTICLE
+
+
+Psychedelics and music: neuroscience and therapeutic implications
+
+Frederick S. Barrett** @, Katrin H. Preller”“* and Mendel Kaelen***
+“Department of Psychiatry and Behavioral Sciences, Behavioral Pharmacology Research Unit, Johns Hopkins University School of
+Medicine, Baltimore, MD, USA; PNeuropsychopharmacology and Brain Imaging, Department of Psychiatry Psychotherapy and
+Psychosomatics, University Hospital for Psychiatry Zurich, Zurich, Switzerland; “Department of Psychiatry, Yale University School of
+Medicine, New Haven, CT, USA; “Psychedelic Research Group, Department of Medicine, Imperial College London, London, UK;
+“Wavepaths Ltd, London, UK
+
+
+ABSTRACT ARTICLE HISTORY
+
+From the beginning of therapeutic research with psychedelics, music listening has been consist- Received 11 February 2018
+ently used as a method to guide or support therapeutic experiences during the acute effects of Accepted 30 May 2018
+
+psychedelic drugs. Recent findings point to the potential of music to support meaning-making,
+KEYWORDS
+emotionality, and mental imagery after the administration of psychedelics, and suggest that
+Psychedelic; hallucinogen;
+music plays an important role in facilitating positive clinical outcomes of psychedelic therapy.
+LSD; psilocybin; music;
+This review explores the history of, contemporary research on, and future directions regarding music therapy; music;
+the use of music in psychedelic research and therapy, and argues for more detailed and rigor- neuroscience
+ous investigation of the contribution of music to the treatment of psychiatric disorders within
+the novel framework of psychedelic therapy.
+
+
+Introduction psychedelic therapies represent a strong departure
+from the common medical model of chronic, daily
+Classic psychedelic drugs' are being investigated for
+pharmacotherapy and/or counselling as treatment.
+the treatment of psychiatric disorders, such as
+A central principle in psychedelic therapy is that
+addiction (Bogenschutz et al., 2015; Johnson, Garcia-
+the quality of subjective experiences during acute
+Romeu, Cosimano, & Griffiths, 2014), end-of-life
+drug effects predict (Roseman et al., 2018) and medidistress (Griffiths et al., 2016; Grob et al., 2011; Ross
+ate (Griffiths et al., 2016; Ross et al., 2016) clinical
+et al., 2016), and depression (Carhart-Harris et al,
+outcomes. Music listening during acute drug effects
+2016a; Osorio et al., 2015; Sanches et al., 2016).
+has been a consistent feature of both research and
+Although mood and substance use disorders have a
+therapeutic administration of psychedelics, as a
+long time-course and uncertain prognosis when
+method to guide or support experiences (Eisner &
+treated with currently available methods, psychedelic
+therapies are showing great promise. Recent studies Cohen, 1958). Although music delivery during psy-
+
+demonstrate positive behavioural outcomes, including chedelic therapy is not standardized, and methods
+
+clinically relevant reduction in self-report and clin- used to select music for psychedelic therapy are
+
+ician-rated disorder severity (Bogenschutz et al., 2015; largely untested, there may be some consistency in
+
+Carhart-Harris et al., 2016a; Griffiths et al., 2016; the features of music that are used to support
+Osorio et al., 2015; Ross et al., 2016; Sanches et al., therapeutic experiences (Barrett, Robbins, Smooke,
+2016), physiological outcomes, including breath car- Brown, & Griffiths, 2017b). Recent findings point to
+
+bon monoxide and urine cotinine (Johnson et al., the potential of psychedelics to support meaning2014), and, in one case, modulation of potential making (Preller et al., 2017), emotion (Carbonaro,
+neurobiological correlates of mood _ disorders Johnson, Hurwitz, & Griffiths, 2018; Kaelen et al.,
+(Carhart-Harris et al, 2017; Roseman, Nutt, € 2015; Kaelen et al., 2017), and mental imagery (Kaelen
+Carhart-Harris, 2018). Given that only one or a small et al., 2016) during music listening, and suggest that
+number (i.e. 2) of psychedelic therapy sessions can music plays an important role in facilitating positive
+bring acute and sustained symptom improvements, clinical outcomes of psychedelic therapy (Kaelen et al.,
+
+
+CONTACT Frederick S. Barrett, PhD © fbarret2@jhmi.edu © Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of
+Medicine, 5510 Nathan Shock Drive, Baltimore, MD 21224, USA
+*All authors contributed equally to this work.
+© 2018 Institute of Psychiatry and Johns Hopkins University
+
+[PAGE 003]
+
+2 &) F. S. BARRETT ET AL.
+
+
+2018). In this review, we will explore the history of, reliably in young children (Dalla Bella, Peretz,
+contemporary research on, and future directions Rousseau, & Gosselin, 2001; Mote, 2011) and occur
+regarding the use of music in psychedelic research continuously in daily life (Juslin, Liljestrom, Vastfjall,
+and therapy, and argue for more detailed and rigor- Barradas, & Silva, 2008). Across the globe, music is
+ous investigation of the contribution of music to the an important element of diverse aspects of life, rangtreatment of psychiatric disorders within the novel ing from work, entertainment, and social settings to
+framework of psychedelic therapy. medicine and spirituality (Hargreaves & North, 1999;
+Merriam, 1964; Nettl, 1956).
+For the present discussion, the medicinal and spirThe history of music and
+itual usage of music is particularly relevant. Although
+psychedelic therapies
+the use of music may be diverse, traditionally cultures
+Music is ubiquitous in society and throughout known often place a special emphasis on music’s capacity to
+history. The earliest known musical instrument, a facilitate altered states of consciousness, and historicsophisticated bone flute, dates back at least 35 000 ally music-making has been a respected role reserved
+years (Conard, Malina, & Munzel, 2009), but recorded for priests or medicine-men (Nettl, 1956).
+music history begins much more recently (Burkholder, Contemporary research on music listening has begun
+Grout, & Palisca, 2010). The earliest records in to address music’s capacity to engender or support
+music history document the use of music in religious altered states, including emotionally intense peak
+worship, such as plainchant (including Gregorian experiences (Gabrielsson, 2011), absorption (Sandstrom &
+Chant), and later in maintaining local and cultural Russo, 2013), groove and flow states (Csikszentmihalyi,
+histories, as in the medieval troubadours and 1990; Janata, Tomic, & Haberman, 2012), trance (Hove
+trouveres (Burkholder et al., 2010). Theories of the et al., 2016; Rouget, 1985), and states of religious
+origins of music suggest that music evolved to sup- ecstasy (Penman & Becker, 2009).
+port emotional communication (Juslin & Vastfjall, Similar to the use of music, archeology suggests
+2008; Snowdon, Zimmermann, & Altenmuller, 2015), ancient roots for the use of psychedelics. Cave art
+and may even have developed before more formal depicting mushrooms in Algeria (Lajoux, 1964;
+spoken language (Brandt, Slevc, & Gebrian, 2012; Samorini, 1992) and Spain (Akers, Ruiz, Piper, &
+Panksepp, 2009). Theories that associate the co-evo- Ruck, 2011) are dated to be 7000-9000 years old;
+lution of language and music gain traction when we 4000-5600 year old specimens of psychedelic plants
+consider that the preponderance of brain regions and seeds are found across North, Central, and South
+that track syntactic components (Koelsch, 2011) and America (Bruhn, De Smet, El-Seedi, & Beck, 2002; Eltime-varying structures (Janata et al., 2002) in music Seedi, De Smet, Beck, Possnert, & Bruhn, 2005;
+are also brain regions critical for language processing Torres, 1998), and 2000-3000 year old mushroom-
+(Levitin & Menon, 2003; Patel, 2008; Schon shaped stones were uncovered in Guatemala (de
+et al., 2010). Borhegyi, 1963; Guerra-Doce, 2015). Many traditional
+Alternative evolutionary theories focus on social societies preserved their use of psychedelics until
+functions of music or view music as a product of sex- today in a medicinal and spiritual context (Schultes,
+ual selection (Hauser & McDermott, 2003). Although Hofmann, & Ratsch, 2001), and modern research has
+a consensus on biological origins of music is yet to be demonstrated psychedelics can reliably facilitate spiritfound, an increasing number of empirical studies ual-type experiences (Bogenschutz & Johnson, 2016;
+illustrate a diverse significance of music in human Carhart-Harris et al., 2017; Garcia-Romeu, Griffiths, 8
+development and culture. Research with infants indi- Johnson, 2015; Griffiths, Richards, McCann, Jesse,
+cates biological predispositions for melody-perception 2006; Griffiths et al., 2011, 2016; Roseman et al., 2018;
+(Trehub, 2001), which likely serves an important Ross et al., 2016).
+social function (Mehr, Song, & Spelke, 2016), and Traditional medicinal and spiritual practice with
+cross-cultural studies show a universal singing of psychedelics was most likely combined with music
+lullabies by mothers (Trehub & Trainor, 1998). Cross- (Nettl, 1956). Icaros, or ritual songs, are a universal
+cultural studies have also provided evidence that component of traditional ayahuasca ceremonies, and
+emotional content can be universally perceived as being are considered to be necessary to facilitate both physassociated with acoustic properties of music (Fritz ical and spiritual healing (Dobkin de Rios, 1984).
+et al., 2009; Laukka, Eerola, Thingujam, Yamasaki, & Music is also a central component within mushroom
+Beller, 2013). Emotional responses to music occur ceremonies of the Mazatec Indians (Estrada, 1981),
+
+[PAGE 004]
+
+INTERNATIONAL REVIEW OF PSYCHIATRY (%) 3
+
+
+the peyote ceremonies of Native Americans Richards, 1979; Richards, Rhead, DiLeo, Yensen, &
+(Maroukis, 2005), and the ibogaine rituals of Bwiti in Kurland, 1977). Guidelines for the use of music in
+west-central Africa (Fernandez, 1982; Schultes et al., clinical settings were developed (Bonny & Pahnke,
+2001). In Europe’s antiquity, music was also specu- 1972), and clinical opinion suggested the use of spelated to play a critical role in the Rites of Eleusis, cific musical pieces (Eisner, 1997), or styles of music
+which involved imbibing a psychedelic mixture (Bonny & Pahnke, 1972) to support specific phases of
+(Wasson, Hofmann, & Ruck, 1978). psychedelic experience (e.g. ‘onset of effects’, “peak
+The synthesis of LSD (Hofmann, 1983) spurred a intensity of drug action’, and ‘return to normal conlarge wave of psychiatric and neuroscience research sciousness’) (Bonny & Pahnke, 1972). Consequently,
+with psychedelics in the 1950s and 1960s. The thera-
+modern guidelines for safe use of psychedelics in
+peutic potential of psychedelics was heavily explored
+research recommend the use of music listening as a
+(Busch & Johnson, 1950), and music was early on iden-
+critical element of the therapeutic setting (Johnson,
+tified as a factor that can potentiate and influence drug
+Richards, & Griffiths, 2008). The use of music to supexperiences significantly (Eagle, 1972; Eisner & Cohen,
+port specific experiences during psychedelic therapy
+1958; Gaston & Eagle, 1970). Soon, music was recog-
+has been typically framed and characterized in terms
+nized as an important element of the setting to support
+of supporting specific emotional experiences, such as
+the therapeutic process (Chandler & Hartman, 1960;
+peak or mystical experiences” or emotional catharsis
+Eisner, 1997; Eisner & Cohen, 1958; Hoffer, 1965;
+(Bonny & Pahnke, 1972).
+Holzinger, 1964). Emphasis was given to view music as
+a therapeutic aid (Hoffer, 1965), and that, due to music’s
+‘profound’ influence (Bonny & Pahnke, 1972), great Contemporary research on the
+care and responsibility must be practiced in selecting neuropsychobiology of music and
+the music for patient’s individual therapeutic needs psychedelics
+(Bonny & Pahnke, 1972; Hoffer, 1965).
+Music listening has been shown to engage a wide
+Studies reported profound alterations in a patient’s
+perception of and response to music, and suggested range of domain-general brain areas, including those
+
+this underlies the usefulness of music as an adjunct to associated with reward, emotion, and memory proc-
+
+psychedelic therapy. For example, Hoffer essing (Barrett & Janata, 2016; Blood & Zatorre, 2001;
+
+(1965) noted: Salimpoor, Benovoy, Larcher, Dagher, & Zatorre,
+2011; Salimpoor et al., 2013). Brain regions recruited
+Very often, sounds which normally have no
+particular aesthetic appeal, were heard in a most
+during music listening overlap at least partially with
+unusual manner. Subjects who were indifferent to brain regions where activity and connectivity are
+music, were enthralled by it. [...] This property of altered after the administration of psychedelics
+the experience is very useful in bringing out the
+(Carhart-Harris et al., 2012a; Carhart-Harris et al.,
+psychedelic reaction. Carefully selected music can be
+2016b; Preller et al., 2017). Psychedelic drugs have
+very powerful in altering the subject's mood and
+associations. (p. 204) notable effects on auditory perception (Hoffer, 1965;
+Silverman, 1971; Timmermann et al., 2017; Umbricht
+Studies investigating the effect of psychedelics on
+et al., 2003; Weber, 1967). This follows from the
+auditory processing reported altered sensitivity and
+neurobiology of both psychedelic drugs (serotonin
+tolerance to sound after the intake of LSD (Silverman,
+2A, or 5-HT
+,, receptor agonists) and the neurobiol1971), and have shown that, after the administration
+ogy of auditory processing. Brainstem serotonergic
+of psilocybin, participants listening to music described
+neurons have been implicated in selective neuronal
+an intensive, exhilarating sound experience (Weber,
+responses to auditory stimuli (Hall, Rebec, & Hurley,
+1967). One participant reported that she was for the
+2010; Hurley & Pollak, 1999), and 5-HT;ı signaling
+first time able to fully ‘surrender to the music’, while
+at the same time she could not capture the structure has specifically been shown to alter neuronal
+
+of the piece (Weber, 1967). responses to auditory stimuli from the cochlear
+
+Subsequent early research on the therapeutic effects nucleus (Tang & Trussell, 2015), through the pre-cor-
+
+of psychedelics included music listening as a consist- tical primary auditory sensory pathway (Hurley, 2006;
+ent feature during acute drug effects (Grof, 1980; Hurley & Sullivan, 2012), through to the primary
+Grof, Goodman, Richards, & Kurland, 1973; Kurland, auditory cortex (Riga, Bortolozzi, Campa, Artigas, &
+1985; Kurland, Unger, Shaffer, & Savage, 1967; Celada, 2016) and auditory cortical neurons (Luo, Hu,
+Pahnke, Kurland, Goodman, & Richards, 1969; Liu, Guo, & Wang, 2016).
+
+[PAGE 005]
+
+4 (w) F. S. BARRETT ET AL.
+
+
+Investigating the neurobiological mechanisms How do music and psychedelics interact to
+underlying psychedelic-induced alterations in auditory promote healing?
+processing, modern neuroimaging studies reported a
+Music supports emotional experiences
+reduced N1 sensory EEG-ERP, suggesting reduced
+processing of intensity of auditory stimuli under A prime motivation for many people to listen to
+
+psilocybin (Umbricht et al., 2003), and altered audi- music is to modulate emotion (Berlyne, 1971; Schafer,
+
+tory sensitivity measured with MEG under LSD Sedlmeier, Stadtler, & Huron, 2013), and the emo-
+
+(Timmermann et al., 2017). Empirical studies further tion-arousing properties of music arguably comprise
+
+investigated music processing after the administration one important motivation for the application of music
+
+of LSD, while participants underwent functional mag- therapy in the treatment of various psychiatric
+
+netic resonance imaging (Barrett, Preller, Herdener, (Castillo-Pérez, Gómez-Pérez, Velasco, Pérez-Campos, &
+Mayoral, 2010; Erkkila et al., 2011; Zhao, Bai, Bo, &
+Janata, & Vollenweider, 2017a; Kaelen et al., 2016,
+Chi, 2016) and neurological diseases (Fakhoury,
+2017; Preller et al., 2017). These studies revealed that
+Wilhelm, Sobota, £ Kroustos, 2017; Hohmann, Bradt,
+LSD alters the perception of the acoustic properties of
+Stegemann, & Koelsch, 2017; Leubner & Hinterberger,
+music. In particular, LSD increased the BOLD signal
+2017). Emotionally intense ‘chill-inducing’ effects of
+in response to timbral complexity—indicative of the
+music are common (Panksepp, 1995) and empirically
+complexity of the music’s spectral distribution—in
+studied (Grewe, Nagel, Kopiez, & Altenmüller, 2005;
+brain networks associated with music perception and
+Harrison & Loui, 2014; Mori € Iwanaga, 2014;
+emotion, ie. the auditory cortices, inferior frontal
+Salimpoor, Benovoy, Longo, Cooperstock, & Zatorre,
+gyrus (IFG), insula, precuneus, striatum, and the sup-
+2009). However, the mechanisms through which music
+plementary motor area (SMA; Kaelen et al. 2017).
+can modulate emotional experience are many
+Additionally, processing of high timbral complexity was
+and varied.
+associated with increased coupling of the precuneus
+Different classes of determinants, from acoustic
+with the right superior frontal gyrus and decreased cou-
+and musical features of individual stimuli (Coutinho &
+pling of the precuneus with the right IFG and auditory
+Cangelosi, 2009; Hevner, 1937; Leman, Vermeulen,
+cortex after LSD administration (Kaelen et al., 2017).
+De Voogdt, Moelants, & Lesaffre, 2005; Maher, 1980),
+LSD was further shown to influence the neural response
+to personal associations people have made with music
+to the time-varying tonal structure of music—an effect
+(Barrett et al., 2010; Janata, Tomic, & Rakowski,
+that was predominantly attributable to LSD’s agonist
+2007), to more abstract concepts such as preference
+activity on the 5-HT,ı receptor (Barrett et al., 2017a).
+traits and personality (Dollinger, 1993; Rawlings &
+LSD enhanced tonality tracking in areas that respond to
+Ciancarelli, 1997; Rentfrow & Gosling, 2003;
+music and speech, as well as higher cognitive areas such
+Rentfrow, Goldberg, & Levitin, 2011; Zweigenhaft,
+as the superior temporal cortex, the IFG, medial pre-
+2008), have been shown to influence the emotions
+frontal brain regions, the angular gyrus, and the amyg- that are experienced during music listening (see also
+dala (Barrett et al., 2017a). Juslin & Vastfjall, 2008). ‘Liking’, in particular (e.g. a
+Preller et al. (2017) showed enhanced meaningful- person’s affinity for a particular piece of music), is
+ness perceived in music under LSD, associated with shown to influence the emotions experienced with
+greater BOLD activations in regions previously linked music significantly (Juslin, 2013; Juslin & Vastfjall,
+to music-listening, emotion, and autobiographical 2008; North & Hargreaves, 1997), and it may be the
+memory, including the SMA, putamen, insula, and the case that liking moderates the effect of musical feaPCC. Kaelen et al. (2016) demonstrated that an inter- tures and familiarity on music-evoked emotions
+action between LSD and music lead to increased infor- (North & Hargreaves, 1995). Consistent with previous
+mation flow (effective connectivity) from the theoretical perspectives (Berlyne, 1971), liking may act
+parahippocampus towards the visual cortex, and this as an index for the emotional utility of a musical
+effect correlated with enhanced mental visual imagery stimulus, thus functioning as a ‘gatekeeper’ or filter
+and seeing autobiographical scenes (Kaelen et al., 2016). for the subsequent effects of the music on the
+Together, these results indicate that psychedelics signifi- listener's emotional state.
+cantly modulate the brain’s processing of music, and The effects of psychedelics, however, are concepthese effects may explain the altered subjective experi- tualized as a relinquishment of the normal filters the
+ence of music under psychedelics (Barrett et al., 2017a; ‘self’ utilizes to regulate its internal milieu (Barrett &
+Kaelen et al., 2016, 2017; Preller et al., 2017). Griffiths, 2018; Carhart-Harris et al., 2014). Thereby,
+
+[PAGE 006]
+
+INTERNATIONAL REVIEW OF PSYCHIATRY 5
+
+
+psychedelics may diminish the usual regulatory proc- Lebedev et al. (2016) showed that LSD-induced
+esses of music-evoked emotion and allow a fuller increases in entropic brain dynamics were related
+processing of music and the features of the music with subsequent increases in personality trait openthat evoke emotion. Support for this hypothesis can ness, only during the music-listening condition, indibe found in both psychopharmacological and neuroi- cating that music may drive brain dynamics
+maging investigations. In a comparative psycho- important for the occurrence of experiences that
+pharmacology study, volunteers reported far greater have long-lasting beneficial effects (Lebedev
+absorption in music, as well as greater perceived et al., 2016).
+beauty and significance of music, during the acute Finally, music in therapy is effective in reducing
+effects of psilocybin than during placebo or the stress and anxiety (Chanda & Levitin, 2013), and,
+acute effects of dextromethorphan (an NMDA antag- consistent with earlier reports (Bonny & Pahnke,
+onist and dissociative hallucinogen) (Carbonaro 1972), music is reported to provide a sensation of
+et al., 2018). Kaelen et al. (2017) demonstrated an calm, safety, and support for patients in psychedelic
+association between intensified music-evoked emo- therapy (Kaelen et al., 2018). Hence, in addition to
+tion and enhanced BOLD activation to music’s tim- evoking strong emotionality, music may play an
+bral complexity—timbre (tone colour) being important role in reducing emotional arousal too,
+associated with conveying emotional information in helping the patient to find meaningful resolutions to
+music (Eerola, Ferrer, & Alluri, 2012; Hailstone transient psychological struggles that are not uncomet al., 2009). mon in psychedelic therapy (Barrett, Bradstreet,
+Psychedelics indeed have been shown to not only Leoutsakos, Johnson, & Griffiths, 2016; Belser et al.,
+alter the processing of acoustic properties of music, 2017; Swift et al., 2017; Watts, Day, Krzanowski, Nutt, &
+but also the psychological and emotional reaction to Carhart-Harris, 2017).
+it (Kaelen et al., 2015, 2017; Preller et al., 2017).
+Intensification of emotion and mental imagery by
+Music supports autobiographical meaning-making
+music was a primary motivation for the use of music
+in psychedelic therapy in the 1950s and 1960s (Bonny Another potential effect through which psychedelics
+& Pahnke, 1972), and has been most frequently and music interact on the therapeutic process was
+reported by patient’s undergoing psychedelic therapy described by Preller et al. (2017). This study showed
+(Kaelen et al. 2018). To illustrate, one patient from that LSD increases the attribution of personal meanKaelen et al. (2018) reported: ing to music, in particular to music pieces which
+were not particularly meaningful to participants in
+Under the influence of psilocybin the music
+absolutely takes over. Normally when I hear a piece the placebo condition. This effect was associated with
+of sad music, or happy music, I respond through an increased BOLD signal in the cortical midline
+choice, but under psilocybin I felt almost that I had structures, brain areas which are associated with self-
+no choice but to go with the music. (p. 10)
+referential processing (Northoff & Bermpohl, 2004;
+(For more insight in patient’s experiences of music, Preller et al., 2017), and was dependent on 5-HT
+>,
+see Supplementary materials in Kaelen et al., 2018). receptor stimulation (Preller et al., 2017). These brain
+One way the intensifying effects of psychedelics regions have been shown to be clinically relevant in
+on music-evoked emotion may support the therapy psychiatric disorders and might also be involved in
+is by contributing to the occurrence of mystical the therapeutic response to LSD (Moeller &
+experiences during psychedelic therapy sessions Goldstein, 2014; Northoff & Bermpohl, 2004). The
+(Barrett & Griffiths, 2018; Kaelen et al., 2018), which ability of LSD to increase perceived meaningfulness
+have been associated with positive therapeutic out- can contribute to mystical experiences which have
+comes (Barrett & Griffiths, 2018; Johnson & been shown to be related to beneficial therapeutic
+Griffiths, 2017). LSD has been shown to enhance outcome. Furthermore, by altering brain activity in
+emotional features of mystical-experiences (Kaelen regions important for self-referential processing, as
+et al., 2015, 2017), and psilocybin has been shown well as at the same time increasing the meaningfulto enhance absorption in and the beauty and signifi- ness of the environment, patients may become more
+cance of music (Carbonaro et al., 2018), and the accepting and open to changes (Halberstadt, 2017).
+music-experience of patients in psychedelic therapy Therefore, the potential of psychedelics to enhance
+has been associated with the occurrence of mystical- perceived meaningfulness could contribute to benefiexperiences (Kaelen et al, 2018). Furthermore, cial therapeutic outcomes, particularly in disorders
+
+[PAGE 007]
+
+6 >) F. S. BARRETT ET AL.
+
+
+with altered self-referential processing such as depres- findings provide a body of evidence that music can be
+sion (Halberstadt, 2017). a potent medium to modulate emotion and meaning-
+A further study by Kaelen et al. (2016) showed making, to facilitate experiences that have strong
+that LSD and music interact to increase effective con- therapeutic significance.
+nectivity from the parahippocampal cortex to the vis- As the quality of the music experience has been
+ual cortex, and the magnitude of this effect correlated associated with therapy outcomes, and, more specificwith increased visual mental imagery and ratings for ally, a music-experience characterized by personal
+seeing autobiographical scenes from the past (Kaelen ‘resonance’ (Kaelen et al., 2018), the music-selection
+et al., 2016). LSD-induced enhancement of autobio- requires a thoughtful optimization to the individual
+graphical memories, and associated with this the patient. Although tailoring the music to the dynamic
+potential reversal of negative cognitive biases, might needs of the individual patient is standard practice in
+be associated with beneficial therapy outcome MDMA-assisted psychotherapy (Mithoefer, Wagner,
+(Carhart-Harris et al., 2012b; Kraehenmann et al., Mithoefer, Jerome, & Doblin, 2011), most studies
+2015; Vollenweider & Kometer, 2010). Together, these with classic psychedelics have prioritized a standarstudies offer a mechanistic explanation on how LSD dized approach, where all patients listen to the same
+together with music stimulates autobiographically music playlist. Although from a research perspective
+meaningful processes, and suggests that music could this may be desirable, this can jeopardize the therabe a tool to facilitate this process during psyche- peutic experience of some patients significantly
+delic therapy. (Kaelen et al., 2018). Standardization of the process
+that generates patient-specific music, rather than sim-
+ply standardizing the mere presence of the music,
+Implications for psychedelic therapy
+may harmonize research-standards with the humanThe capacity of psychedelic therapy to facilitate acute centred practice inherent in the therapy model, and is
+and sustained therapeutic changes represents a prom- likely to optimize patient-experiences and therising direction in mental healthcare, and a significant apy outcomes.
+deviation from conventional treatments, both in terms
+of administration of the drug and in the underlying
+Limitations
+theoretical frameworks. Hence, an empirical understanding of the different components of this new While we have attempted to present a thorough
+paradigm of therapy is critical to offer evidence-based review of studies that inform our understanding of
+guidelines for researchers and therapists. The present the interaction between music and psychedelic experipaper focuses on music, as this is one dominant com- ences, there are several limitations to our review.
+ponent in the therapeutic model, and this section will First, many of the earlier reports of the relationship
+discuss how the previously reviewed research on psy- between psychedelics and music listening lacked the
+chedelics and music begins to inform an evidence- rigour of modern experimental controls (e.g. reviewed
+based use of music in psychedelic therapies. in Eisner & Cohen, 1958 and Richards, 1979) or were
+Studies reviewed previously indicate an enhanced largely based on observation and clinical opinion (e.g.
+emotional and psychological responsivity to music Bonny & Pahnke, 1972). In addition, many recent
+under psychedelics. While evidence exists for poten- reports, especially those involving clinical outcomes,
+tial therapeutic effects of psychedelic drugs absent of were open-label studies (e.g. Bogenschutz et al., 2015;
+music listening (Sanches et al., 2016), patients often Carhart-Harris et al., 2016a; Johnson et al., 2014;
+emphasize the significant influence of music on their Osório et al., 2015; Sanches et al., 2016). While a
+experience in psychedelic therapy (Belser et al., 2017; number of recent reports did involve placebo or
+Swift et al., 2017; Watts et al., 2017). It has been dem- active control as well as single-blind (e.g. Kaelen
+onstrated that the music-experience during psyche- et al., 2015, 2017) or double-blind randomized condidelic therapy correlates with the occurrence of tions (e.g. Barrett et al., 2017a; Carbonaro et al., 2018;
+mystical experiences and insightfulness during psy- Griffiths et al., 2016; Preller et al., 2017; Ross et al.,
+chedelic therapy, and with reductions in clinical 2016), some of the reports cited in this review
+symptoms 1 week after the session, and that calming involved multiple analyses of data from the same
+effects of music are welcome and potentially beneficial sample (e.g. Barrett et al., 2017a; Carhart-Harris et al.,
+during onset, ascent, and return phases of the psyche- 2016a, 2017; Preller et al., 2017; Roseman et al.,
+delic experience (Kaelen et al., 2018). Together, these 2018). While we have reviewed the nascent literature
+
+[PAGE 008]
+
+INTERNATIONAL REVIEW OF PSYCHIATRY 7
+
+
+on the interaction between music and psychedelic genres may be positioned to test hypotheses regardexperiences, which is growing, the field has yet to ing the effects of and appropriateness of different
+develop a literature sufficient to support a meaningful styles of music in the context of psychedelic therapy.
+systematic review, but we hope that this review will Although individual variation in patients’ musicstimulate further structured research in this field. experience has been related to therapy outcomes,
+there is little experimental insight into how music
+can be adapted to optimize therapy outcomes.
+Future directions
+Studying this is crucial to help define music-selection
+The current state of research regarding psychedelics protocols that are empirical and scalable, which
+and music presents several limitations and necessities must include an accurate mapping of music with its
+for future research. The studies reviewed were the first experience, given the psychological context of
+to assess the combined effects of music and psyche- the patient.
+delics on subjective experience and brain function, and Finally, the subjectiveexperiences of music-listening
+these findings, therefore, implicate the need of their under a psychedelic can be remarkably profound,
+replication and expansion in independent future stud- indicating that their combined study may significantly
+ies. Future studies that enable a better separation advance our understanding of human brain mechabetween music- and drug-conditions are also necessary nisms of music-perception and subjective experiences
+to deepen our understanding of their interactive effects of music, as well as the neural correlates of subjective
+on subjective experience and therapy outcomes. In experiences that are normally difficult to access under
+therapeutic contexts, studies involving one group of experimental conditions (for example, emotionally
+patients undergoing psychedelic therapy with music, intense peak experiences).
+and one group without any music, will be needed to
+reveal both the magnitude and the nature of the thera-
+Conclusion
+peutic effects of music. With respect to the latter, studies on the nature of the therapeutic effects of music Psychedelics and music listening interact to produce
+
+can provide important insights into key therapeutic profound alterations in emotion, mental imagery, and
+
+processes at play, and the different ways these can be personal meaning. Research is beginning to unveil
+
+best supported, with and without music. underlying brain mechanisms, and to support a cen-
+
+Furthermore, studies are needed that compare the tral role of music in psychedelic therapy. Music
+
+relative contribution of music to the therapeutic appears to influence the efficacy of therapy signifi-
+
+experience and outcome to other factors present cantly, through modulating emotion, including the
+
+during therapy sessions, such as interpersonal factors facilitating of mystical experiences, and through sup-
+
+and physical environment. Future studies can help porting autobiographical processes. Acknowledging
+
+us to better understand the interactions between the the significance of music and the importance of rigor-
+
+psychological context of the patient (mood, attitudes, ous future empirical investigations in this young field
+
+expectations, personality-traits) and the patient’s sub- of research is key to improving our understanding of
+
+jective experience of music, both with and without psychedelic therapies, and key to improving the effi-
+
+psychedelics. Future studies must also address how cacy of psychedelic therapies.
+
+music can be tailored to the time-phase within the
+drug-experience, and assess whether any music gen- Disclosure statement
+res, composition features, or acoustic features in par-
+MK is a founder and shareholder in Wavepath Ltd. FSB
+ticular are suitable for the facilitation of therapeutic
+and KHP report no conflicts of interest. The authors alone
+experiences. Related to this, the role of an individu- are responsible for the content and writing of the paper.
+als’ music-listening history and its relationship to the FSB was supported in part by NIH grants R03DA042336
+music-experience under a psychedelic remains to and a grant from the Heffter Research Institute. KHP was
+supported by the SNSF grant P2ZHP1_161626.
+be clarified, and, together with the above, will
+aid the construction of empirical guidelines for
+music-selection and playlist design during psyche- Notes
+delic therapy sessions. The choice of music in the
+1. Classic” psychedelics produce a range of idiosyncratic
+reviewed neuroimaging studies may have signifi-
+and often profound subjective effects via agonist
+cantly influenced their findings, and future studies actions on the serotonin 2A receptor. Examples of
+that use different genres or a multitude of musical classic psychedelics include lysergic acid diethylamide
+
+[PAGE 009]
+
+8 @) F. S. BARRETT ET AL.
+
+
+or LSD, psilocybin, found in hundreds of species of Barrett, F. S., Robbins, H., Smooke, D., Brown, J. L., &
+psychoactive mushrooms, dimethyltryptamine or Griffiths, R. R. (2017b). Qualitative and quantitative fea-
+DMT, found in the Psychotria viridis and Diplopterys tures of music reported to support peak mystical experi-
+cabrerana plants used to brew ayahuasca, and ences during psychedelic therapy sessions. Frontiers in
+mescaline, found in some psychoactive cacti. The term Psychology, 8(1238), 1-12. doi:10.3389/fpsyg.2017.01238
+psychedelic is derived from merging the Greek word Belser, A. B., Agin-Liebes, G., Swift, T. C., Terrana, S.,
+psyche, meaning mind or soul, with delos, meaning to Devenot, N., Friedman, H. L., ... Ross, S. (2017). Patient
+unveil or make visible effects. experiences of psilocybin-assisted psychotherapy: An
+2. Peak experiences with psychedelic drugs were first interpretative phenomenological analysis. Journal of
+defined by Pahnke et al. (Pahnke, 1963; Pahnke et al., Humanistic Psychology, 57(4), 354-388. doi:10.1177/
+1969) as sharing common features with non-drug 0022167817706884
+
+mystical experiences. Peak/mystical experiences are Berlyne, D. E. (1971). Aesthetics and psychobiology. New
+
+characterized by an experience of unity (with one’s York: Appleton-Century-Crofts.
+
+self, one’s surroundings, some or all people, or all that Blood, A. J., & Zatorre, R. J. (2001). Intensely pleasurable
+
+exists), loss of one’s usual sense of space and time, responses to music correlate with activity in brain
+
+deeply felt positive mood, the felt sense that the regions implicated in reward and emotion. Proceedings of
+the National Academy of Sciences of the United States of
+experience involves some fundamental truth (noetic
+America, 98(20), 11818-11823. doi:10.1073/
+quality), difficulty putting the experience into words
+pnas.191355898
+(ineffability), a felt sense of sacredness, transiency, and
+Bogenschutz, M. P., & Johnson, M. W. (2016). Classic hal-
+paradoxicality (simultaneously containing contradictory
+lucinogens in the treatment of addictions. Progress in
+feelings, thoughts, experiences, or characteristics).
+Neuro-Psychopharmacology & Biological Psychiatry, 64,
+250-258. doi:10.1016/j.pnpbp.2015.03.002
+
+ORCID Bogenschutz, M. P., Forcehimes, A. A., Pommy, J. A.,
+Wilcox, C. E., Barbosa, P. C., & Strassman, R. J. (2015).
+Frederick S. Barrett @ http://orcid.org/0000-0001- Psilocybin-assisted treatment for alcohol dependence: A
+7443-3237 proof-of-concept study. Journal of Psychopharmacology
+(Oxford, England), 293), 289-299. doi:10.1177/
+0269881114565144
+Bonny, H. L., & Pahnke, W. N. (1972). The use of music in
+References psychedelic (LSD) psychotherapy. Journal of Music
+Therapy, 92), 87.
+Akers, B. P., Ruiz, J. F., Piper, A., & Ruck, C. A. P. (2011).
+Brandt, A. K., Slevc, R., & Gebrian, M. (2012). Music and
+A prehistoric mural in Spain depicting neurotropic psilo-
+early language acquisition. Frontiers in Psychology,
+cybe mushrooms? Economic Botany, 65(2), 121-128.
+3(327), 1-17. doi:10.3389/fpsyg.2012.00327
+Retrieved from http://www.jstor.org/stable/41242925
+Bruhn, J. G., De Smet, P. A. G. M., El-Seedi, H. R., & Beck,
+doi:10.1007/s12231-011-9152-5
+O. (2002). Mescaline use for 5700 years. Lancet (London,
+Barrett, F. S., & Griffiths, R. R. (2018). Classic hallucino-
+England), 359(9320), 1866. doi:10.1016/S0140-
+gens and mystical experiences: Phenomenology and
+6736(02)08701-9
+neural correlates. Current Topics in Behavioral
+Burkholder, J. P., Grout, D. J., & Palisca, C. V. (2010). Aoe
+Neurosciences, 36, 393-430. doi:10.1007/7854_2017_474
+history of western music (8th ed.). New York: Norton.
+Barrett, F. S., & Janata, P. (2016). Neural responses to nos-
+Busch, A. K., & Johnson, W. C. (1950). L.S.D. 25 as an aid
+talgia-evoking music modeled by elements of dynamic in psychotherapy; preliminary report of a new drug.
+musical structure and individual differences in affective Diseases of the Nervous System, 11(8), 241. Retrieved
+traits. Neuropsychologia, 91, 234-246. doi:S0028- from http://www.ncbi.nlm.nih.gov/pubmed/ 14793387
+3932(16)30303-7 [pii] Carbonaro, T. M., Johnson, M. W., Hurwitz, E., €
+Barrett, F. S., Bradstreet, M. P., Leoutsakos, J. S., Johnson, Griffiths, R. R. (2018). Double-blind comparison of the
+M. W., K Griffiths, R. R. (2016). The challenging experi- two hallucinogens psilocybin and dextromethorphan:
+ence questionnaire: Characterization of challenging expe- Similarities and differences in subjective experiences.
+riences with psilocybin mushrooms. Journal of Psychopharmacology, 235(2), 521-534. doi:10.1007/
+Psychopharmacology, 30(12), 1279-1295. doi:10.1177/ s00213-017-4769-4
+0269881116678781 Carhart-Harris, R. L., Bolstridge, M., Rucker, J., Day,
+Barrett, F. S., Grimm, K. J., Robins, R. W., Wildschut, T., C. M. J., Erritzoe, D., Kaelen, M., ... Nutt, D. J. (2016a).
+Sedikides, C., & Janata, P. (2010). Music-evoked nostal- Psilocybin with psychological support for treatment-
+gia: Affect, memory, and personality. Emotion resistant depression: An open-label feasibility study.
+(Washington, D.C.), 10(3), 390-403. doi:10.1037/ Lancet Psychiatry, 3(7), 619-627. doi:10.1016/S2215-
+a0019006 0366(16)30087-6
+Barrett, F. S., Preller, K. H., Herdener, M., Janata, P., & Carhart-Harris, R. L., Erritzoe, D., Williams, T., Stone,
+Vollenweider, F. X. (2017a). Serotonin 2A receptor sig- J. M., Reed, L. J., Colasanti, A., ... Nutt, D. J. (2012a).
+naling underlies LSD-induced alteration of the neural Neural correlates of the psychedelic state as determined
+response to dynamic changes in music. Cerebral Cortex. by fMRI studies with psilocybin. Proceedings of the
+Advance online publication. doi:10.1093/cercor/bhx257. National Academy of Sciences of the United States of
+
+[PAGE 010]
+
+INTERNATIONAL REVIEW OF PSYCHIATRY (ws) 9
+
+
+America, 109(6), 2138-2143. doi:10.1073/ Eagle, C. T. (1972). Music and LSD: An empirical study.
+pnas.1119598109 Journal of Music Therapy, 9(1), 23-36. doi:10.1093/jmt/9.1.23
+Carhart-Harris, R. L., Leech, R., Hellyer, P. J., Shanahan, Eerola, T., Ferrer, R., & Alluri, V. (2012). Timbre and affect
+M., Feilding, A., Tagliazucchi, E., ... Nutt, D. (2014). dimensions: Evidence from affect and similarity ratings
+The entropic brain: A theory of conscious states and acoustic correlates of isolated instrument sounds.
+informed by neuroimaging research with psychedelic Music Perception: An Interdisciplinary Journal, 30(1), 49.
+drugs. Frontiers in Human Neuroscience, 8(20), 1-22. doi:10.1525/mp.2012.30.1.49
+doi:10.3389/fnhum.2014.00020 Eisner, B. G. (1997). Set, setting, and matrix. Journal of
+Carhart-Harris, R. L., Leech, R., Williams, T. M., Erritzoe, Psychoactive Drugs, 29(2), 213. doi:10.1080/
+D., Abbasi, N., Bargiotas, T., .. Nutt, D. J. (2012b). 02791072.1997.10400190
+Implications for psychedelic-assisted psychotherapy: Eisner, B. G., & Cohen, S. (1958). Psychotherapy with lyser-
+Functional magnetic resonance imaging study with psilo- gic acid diethylamide. The Journal of Nervous and
+cybin. The British Journal of Psychiatry: The Journal of Mental Disease, 127(6), 528-539. doi:10.1097/00005053-
+Mental Science, 200(3), 238-244. doi:10.1192/ 195812000-00006
+bjp.bp.111.103309 El-Seedi, H. R., De Smet, P. A. G .M., Beck, O., Possnert,
+Carhart-Harris, R. L, Muthukumaraswamy, S., Roseman, G., & Bruhn, J. G. (2005). Prehistoric peyote use:
+L., Kaelen, M., Droog, W., Murphy, K., ... Nutt, D. J. Alkaloid analysis and radiocarbon dating of archaeo-
+(2016b). Neural correlates of the LSD experience revealed logical specimens of lophophora from texas. Journal of
+by multimodal neuroimaging. Proceedings of the National Ethnopharmacology, 101(1-3), 238-242. doi:10.1016/
+Academy of Sciences of the United States of America, j.jep.2005.04.022
+113(17), 4853-4858. doi:10.1073/pnas.1518377113 Erkkila, J., Punkanen, M., Fachner, J., Ala-Ruona, E.,
+Carhart-Harris, R. L., Roseman, L., Bolstridge, M., Pontio, I., Tervaniemi, M., Gold, C. (2011).
+Demetriou, L., Pannekoek, J. N., Wall, M. B., ... Nutt, Individual music therapy for depression: Randomised
+D. J. (2017). Psilocybin for treatment-resistant depres- controlled trial. The British Journal of Psychiatry: The
+sion: fMRI-measured brain mechanisms. Scientific Journal of Mental Science, 199(2), 132-139. doi:10.1192/
+Reports, 7(1), 13187. doi:10.1038/s41598-017-13282-7 bjp.bp.110.085431
+Castillo-Pérez, S., Gómez-Pérez, V., Velasco, M. C., Pérez- Estrada, A. (1981). Maria Sabina: Her life and chants. Santa
+Campos, E., & Mayoral, M. (2010). Effects of music ther- Barbara, CA: Ross-Erikson.
+apy on depression compared with psychotherapy. The Fakhoury, N., Wilhelm, N., Sobota, K. F., & Kroustos, K. R.
+Arts in Psychotherapy, 37(5), 387-390. doi:10.1016/ (2017). Impact of music therapy on dementia behaviors:
+j.aip.2010.07.001 A literature review. The Consultant Pharmacist: The
+Chanda, M. L., & Levitin, D. J. (2013). The neurochemistry Journal of the American Society of Consultant
+of music. Trends in Cognitive Sciences, 17(4), 179-193. Pharmacists, 32(10), 623-628. doi:10.4140/
+doi:10.1016/j.tics.2013.02.007 TCP.n.2017.623
+Chandler, A. L., & Hartman, M. A. (1960). Lysergic acid Fernandez, J. W. (1982). Bwiti: An ethnography of the reli-
+diethylamide (LSD-25) as a facilitating agent in psycho- gious imagination in Africa. Princeton, NJ: Princeton
+therapy. A.M.A. Archives of General Psychiatry, 2(3), University Press.
+286-299. doi:10.1001/archpsyc.1960.03590090042008 Fritz, T., Jentschke, S., Gosselin, N., Sammler, D., Peretz, I.,
+Conard, N. J., Malina, M., & Munzel, S. C. (2009). New Turner, R., ... Koelsch, S. (2009). Universal recognition
+flutes document the earliest musical tradition in south- of three basic emotions in music. Current Biology: CB,
+western Germany. Nature, 460(7256), 737-740. 19(7), 573-576. doi:10.1016/j.cub.2009.02.058
+doi:10.1038/nature08169 Gabrielsson, A. (2011). Strong experiences with music: Music
+Coutinho, E., & Cangelosi, A. (2009). The use of spatio- is much more than just music. Oxford: Oxford University
+temporal connectionist models in psychological studies Press.
+of musical emotions. Music Perception: An Interdisciplinary Garcia-Romeu, A., Griffiths, R. R, & Johnson, M. W.
+Journal, 27(1), 1-15. doi:10.1525/mp.2009.27.1.1 (2015). Psilocybin-occasioned mystical experiences in the
+Csikszentmihalyi, M. (1990). Flow: The psychology of opti- treatment of tobacco addiction. Current Drug Abuse
+mal experience. New York: Harper & Row. Reviews, 7, 164.
+Dalla Bella, S., Peretz, I., Rousseau, L., & Gosselin, N. Gaston, E. T., & Eagle, C. T. (1970). The function of music
+(2001). A developmental study of the affective value of in LSD therapy for alcoholic patients. Journal of Music
+tempo and mode in music. Cognition, 80(3), 1. Therapy, 7(1), 3-19. doi:10.1093/jmt/7.1.3
+de Borhegyi, S. F. (1963). Pre-Columbian pottery mush- Grewe, O., Nagel, F., Kopiez, R., & Altenmuller, E. (2005).
+rooms from Mesoamerica. American Antiquity, 28(3), How does music arouse “chills”? Investigating strong
+328-338. doi:10.2307/278276 emotions, combining psychological, physiological, and
+Dobkin de Rios, M. (1984). Visionary vine: Hallucinogenic psychoacoustical methods. Annals of the New York
+healing in the Peruvian amazon. Prospect Heights, IL: Academy of Sciences, 1060, 446-449. doi:10.1196/
+Waveland Press. Retrieved from http://catalog.hathitrust. annals.1360.041
+org/Record/003251178 Griffiths, R. R. Johnson, M. W., Carducci, M. A,,
+Dollinger, S. J. (1993). Research note: Personality and music Umbricht, A., Richards, W. A., Richards, B. D.,
+preference: Extraversion and excitement seeking or open- Klinedinst, M. A. (2016). Psilocybin produces substantial
+ness to experience? Psychology of Music, 21(1), 73-77. and sustained decreases in depression and anxiety in
+doi:10.1177/030573569302100105 patients with life-thretening cancer: A randomized
+
+[PAGE 011]
+
+10 (w) F. S. BARRETT ET AL.
+
+
+double-blind trial. Journal of Psychopharmacology, 30(12), interventions in the treatment of substance use disorders:
+1197. A systematic review. PLoS One, 12(11), e0187363.
+Griffiths, R. R., Johnson, M. W., Richards, W. A., Richards, doi:10.1371/journal.pone.0187363
+B. D., McCann, U., & Jesse, R. (2011). Psilocybin occa- Holzinger, R. (1964). Lsd-25, a tool in psychotherapy. The
+sioned mystical-type experiences: Immediate and persist- Journal of General Psychology, 71(1), 9-20. doi:10.1080/
+ing dose-related effects. Psychopharmacology, 218(4), 00221309.1964.9710285
+649-665. doi:10.1007/s00213-011-2358-5 Hove, M. J., Stelzer, J., Nierhaus, T., Thiel, S. D., Gundlach,
+Griffiths, R. R., Richards, W. A., McCann, U., Jesse, R. C., Margulies, D. S., ... Merker, B. (2016). Brain net-
+(2006). Psilocybin can occasion mystical-type experiences work reconfiguration and perceptual decoupling during
+having substantial and sustained personal meaning and an absorptive state of consciousness. Cerebral Cortex
+spiritual significance. Psychopharmacology, 187(3), 268. (New York, N.Y.: 1991), 26(7), 3116-3124. doi:10.1093/
+doi:10.1007/s00213-006-0457-5 cercor/bhv137
+Grob, C. S., Danforth, A. L., Chopra, G. S., Hagerty, M., Hurley, L. M. (2006). Different serotonin receptor agonists
+McKay, C. R., Halberstadt, A. L., & Greer, G. R. (2011). have distinct effects on sound-evoked responses in infer-
+Pilot study of psilocybin treatment for anxiety in patients ior colliculus. Journal of Neurophysiology, 96(5),
+with advanced-stage cancer. Archives of General 2177-2188. doi:00046.2006 [piil
+Psychiatry, 68(1), 71-78. doi:10.1001/ Hurley, L. M., & Pollak, G. D. (1999). Serotonin differen-
+archgenpsychiatry.2010.116 tially modulates responses to tones and frequency-moduGrof, S. (1980). LSD psychotherapy. Santa Cruz: lated sweeps in the inferior colliculus. The Journal of
+Multidisciplinary Association for Psychedelic Studies. Neuroscience: The Official Journal of the Society for
+Grof, S., Goodman, L. E., Richards, W. A., & Kurland, Neuroscience, 19(18), 8071-8082.
+A. A. (1973). LSD-assisted psychotherapy in patients Hurley, L. M., & Sullivan, M. R. (2012). From behavioral
+with terminal cancer. International Pharmacopsychiatry, context to receptors: Serotonergic modulatory pathways
+8(3), 129-144. doi:10.1159/000467984 in the IC. Frontiers in Neural Circuits, 6, 58. doi:10.3389/
+Guerra-Doce, E. (2015). Psychoactive substances in prehis- fncir.2012.00058
+toric times: Examining the archaeological evidence. Time Janata, P., Birk, J. L., Van, H. J. D., Leman, M., Tillmann,
+and Mind, 8(1), 91-112. doi:10.1080/ B., & Bharucha, J. J. (2002). The cortical topography of
+1751696X.2014.993244 tonal structures underlying western music. Science (New
+Hailstone, J. C., Omar, R., Henley, S. M. D., Frost, C., York, N.Y.), 298(5601), 2167-2170. doi:10.1126/
+Kenward, M. G., £ Warren, J. D. (2009). It's not what science. 1076262
+you play, it's how you play it: Timbre affects perception Janata, P., Tomic, S. T., € Haberman, J. M. (2012).
+of emotion in music. Quarterly Journal of Experimental Sensorimotor coupling in music and the psychology of
+Psychology (2006), 62(11), 2141-2155. doi:10.1080/ the groove. Journal of Experimental Psychology General,
+17470210902765957 141(1), 54-75. doi:10.1037/a0024208
+Halberstadt, A. L. (2017). Hallucinogenic drugs: A new Janata, P., Tomic, S. T., € Rakowski, S. K. (2007).
+study answers old questions about LSD. Current Biology: Characterization of music-evoked autobiographical mem-
+CB, 27(4), R158. doi:10.1016/j.cub.2016.12.058 ories. Memory (Hove, England), 15(8), 845-860.
+Hall, I. C., Rebec, G. V., & Hurley, L. M. (2010). Serotonin doi:783520920 [pii]
+in the inferior colliculus fluctuates with behavioral state Johnson, M. W., & Griffiths, R. R. (2017). Potential thera-
+and environmental stimuli. The Journal of Experimental peutic effects of psilocybin. Neurotherapeutics: The
+Biology, 213(Pt 7), 1009-1017. doi:10.1242/jeb.035956 Journal of the American Society for Experimental
+Hargreaves, D. J., & North, A. C. (1999). The functions of NeuroTherapeutics, 14(3), 734-740. doi:10.1007/s13311-
+music in everyday life: Redefining the social in music 017-0542-y
+psychology. Psychology of Music, 27(1), 71-83. Johnson, M. W., Garcia-Romeu, A., Cosimano, M. P., &
+doi:10.1177/0305735699271007 Griffiths, R. R. (2014). Pilot study of the 5-HT2AR
+Harrison, L., & Loui, P. (2014). Thrills, chills, frissons, and agonist psilocybin in the treatment of tobacco addic-
+skin orgasms: Toward an integrative model of transcend- tion. Journal of Psychopharmacology (Oxford, England),
+ent psychophysiological experiences in music. Frontiers 28(11), 983-992. doi:10.1177/0269881114548296
+in Psychology, 5, 790. doi:10.3389/fpsyg.2014.00790 Johnson, M. W., Richards, W., & Griffiths, R. R. (2008).
+Hauser, M. D., & McDermott, J. (2003). The evolution of Human hallucinogen research: Guidelines for safety.
+the music faculty: A comparative perspective. Nature Journal of Psychopharmacology (Oxford, England), 22(6),
+Neuroscience, 6(7), 663-668. doi:10.1038/nn1080 603-620. doi:10.1177/0269881108093587
+Hevner, K. (1937). The affective value of pitch and tempo Juslin, P. N. (2013). From everyday emotions to aesthetic
+in music. The American Journal of Psychology, 49(4), 621. emotions: Towards a unified theory of musical emotions.
+doi:10.2307/1416385 Physics of Life Reviews, 10(3), 235-266. doi:10.1016/
+Hoffer, A. (1965). D-Lysergic acid diethylamide (LSD): A j.plrev.2013.05.008
+review of its present status. Clinical Pharmacology & Juslin, P. N., & Vastfjall, D. (2008). Emotional responses to
+Therapeutics, 6(2), 183-255. doi:10.1002/cpt196562183 music: The need to consider underlying mechanisms.
+Hofmann, A. (1983). LSD: My problem child. Los Angeles, The Behavioral and Brain Sciences, 31(5), 621.
+CA: J. P. Tarcher. doi:10.1017/S0140525X08005293
+Hohmann, L., Bradt, J., Stegemann, T., & Koelsch, S. Juslin, P. N., Liljestrom, S., Vastfjall, D., Barradas, G., €
+(2017). Effects of music therapy and music-based Silva, A. (2008). An experience sampling study of
+
+[PAGE 012]
+
+INTERNATIONAL REVIEW OF PSYCHIATRY 11
+
+
+emotional reactions to music: Listener, music, and situ- depression. Frontiers in Psychology, 8, 1109. doi:10.3389/
+ation. Emotion (Washington, D.C.), 8(5), 668-683. fpsyg.2017.01109
+doi:10.1037/a0013505 Levitin, D. J., & Menon, V. (2003). Musical structure is
+Kaelen, M., Barrett, F. S., Roseman, L., Lorenz, R., Family, processed in “language” areas of the brain: A possible
+N., Bolstridge, M., ... Carhart-Harris, R. L. (2015). LSD role for Brodmann area 47 in temporal coherence.
+enhances the emotional response to music. Neurolmage, 20(4), 2142-2152. doi:S1053811903004828
+Psychopharmacology, 232(19), 3607-3614. doi:10.1007/ [pii]
+s00213-015-4014-y Luo, B., Hu, L., Liu, C., Guo, Y., & Wang, H. (2016).
+Kaelen, M., Giribaldi, B., Raine, J., Evans, L., Timmerman, Activation of 5-HT2A/C receptor reduces glycine recep-
+C., Rodriguez, N., Carhart-Harris, R. (2018). The tor-mediated currents in cultured auditory cortical neu-
+hidden therapist: Evidence for a central role of music in rons. Amino Acids, 48(2), 349-356. doi:10.1007/s00726-
+psychedelic therapy. Psychopharmacology, 235(2), 015-2086-y
+505-519. doi:10.1007/s00213-017-4820-5 Maher, T. F. (1980). A rigorous test of the proposition that
+Kaelen, M., Lorenz, R., Barrett, F. S., Roseman, L., Orban, musical intervals have different psychological effects. The
+C., Santos-Ribeiro, A., ... Leech, R. (2017). Effects of American Journal of Psychology, 93(2), 309-327.
+LSD on music-evoked brain activity. bioRxiv, Retrieved Maroukis, T. C. (2005). Peyote and the yankton sioux: The
+from https://doi.org/10.1101/153031 life and times of sam necklace. Norman, OK: University
+Kaelen, M., Roseman, L., Kahan, J., Santos-Ribeiro, A., of Oklahoma Press.
+Orban, C., Lorenz, R., ... Carhart-Harris, R. (2016). LSD Mehr, S. A., Song, L. A., & Spelke, E. S. (2016). For 5-
+modulates music-induced imagery via changes in para- month-old infants, melodies are social. Psychological
+hippocampal connectivity. European Neuropsycho- Science, 27(4), 486-501. doi:10.1177/0956797615626691
+pharmacology: The Journal of the European College of Merriam, A. P. (1964). The anthropology of music.
+Neuropsychopharmacology, 26(7), 1099-1109. doi:S0924- Evanston, IL: Northwestern University Press.
+977X(16)30016-5 Mithoefer, M. C., Wagner, M. T., Mithoefer, A. T., Jerome,
+Koelsch, S. (2011). Toward a neural basis of music percep- L, & Doblin, R. (2011). The safety and efficacy of
+tion - A review and updated model. Frontiers in {+/—}3,4-methylenedioxymethamphetamine-assisted psy-
+Psychology, 2(110), 1-20. doi:10.3389/fpsyg.2011.00110 chotherapy in subjects with chronic, treatment-resistant
+Kraehenmann, R., Preller, K. H., Scheidegger, M., Pokorny, posttraumatic stress disorder: The first randomized con-
+T., Bosch, O. G., Seifritz, E., € Vollenweider, F. X. trolled pilot study. Journal of Psychopharmacology
+(2015). Psilocybin-induced decrease in amygdala reactiv- (Oxford, England), 25(4), 439-452. doi:10.1177/
+ity correlates with enhanced positive mood in healthy 0269881110378371
+volunteers. Biological Psychiatry, 78(8), 572-581. Moeller, S. J., & Goldstein, R. Z. (2014). Impaired self-
+doi:10.1016/j.biopsych.2014.04.010 awareness in human addiction: Deficient attribution of
+Kurland, A. A. (1985). LSD in the supportive care of the personal relevance. Trends in Cognitive Sciences, 18(12),
+terminally ill cancer patient. Journal of Psychoactive 635-641. doi:10.1016/j.tics.2014.09.003
+Drugs, 17(4), 279-290. doi:10.1080/02791072.1985. Mori, K, & Iwanaga, M. (2014). Resting physiological
+10524332 arousal is associated with the experience of musicKurland, A. A., Unger, S., Shaffer, J. W., & Savage, C. induced chills. International Journal of Psychophysiology:
+(1967). Psychedelic therapy utilizing LSD in the treat- Official Journal of the International Organization of
+ment of the alcoholic patient: A preliminary report. The Psychophysiology, 93(2), 220-226. doi:10.1016/
+American Journal of Psychiatry, 123(10), 1202-1209. j.ijpsycho.2014.05.001
+doi:10.1176/ajp.123.10.1202 Mote, J. (2011). The effects of tempo and familiarity on
+Lajoux, J. (1964). Leoe meraviglie del tassili N’ajjer. children’s affective interpretation of music. Emotion
+Bergamo: Istituto Italiano d’Arti Grafiche. (Washington, D.C.), 11(3), 618-622. doi:10.1037/
+Laukka, P., Eerola, T., Thingujam, N. S., Yamasaki, T., & a0022573
+Beller, G. (2013). Universal and culture-specific factors in Nettl, B. (1956). Music in primitive culture. Cambridge:
+the recognition and performance of musical affect Harvard University Press.
+expressions. Emotion (Washington, D.C.), 13(3), 434-449. North, A. C., & Hargreaves, D. J. (1995). Subjective com-
+doi:10.1037/a0031388 plexity, familiarity, and liking for popular music.
+Lebedev, A. V., Kaelen, M., Lovden, M., Nilsson, J., Psychomusicology, 14, 77-93.
+Feilding, A., Nutt, D. J., & Carhart-Harris, R. L. (2016). North, A. C., & Hargreaves, D. J. (1997). Liking, arousal
+LSD-induced entropic brain activity predicts subsequent potential, and the emotions expressed by music.
+personality change. Human Brain Mapping, 37(9), Scandinavian Journal of Psychology, 38(1), 45-53.
+3203-3213. doi:10.1002/hbm.23234 Northoff, G., & Bermpohl, F. (2004). Cortical midline strucLeman, M., Vermeulen, V., De Voogdt, L., Moelants, D., & tures and the self. Trends in Cognitive Sciences, 8(3),
+Lesaffre, M. (2005). Prediction of musical affect using a 102-107. doi:10.1016/j.tics.2004.01.004
+combination of acoustic structural cues. Journal of New Osorio, F. D. L., Sanches, R. F., Macedo, L. R., dos Santos,
+Music Research, 34(1), 39-67. doi:10.1080/ R. G., Maia-de-Oliveira, J. P., Wichert-Ana, L.,
+09298210500123978 Hallak, J. E. (2015). Antidepressant effects of a single
+Leubner, D., & Hinterberger, T. (2017). Reviewing the dose of ayahuasca in patients with recurrent depression:
+effectiveness of music interventions in treating A preliminary report. Revista Brasileira De Psiquiatria
+
+[PAGE 013]
+
+12 (5) F. S. BARRETT ET AL.
+
+
+(Sao Paulo, Brazil: 1999), 37(1), 13-20. doi:10.1590/1516- threatening cancer: A randomized controlled trial.
+4446-2014-1496 Journal of Psychopharmacology, 30(12), 1180.
+Pahnke W. N. (1963). Drugs and mysticism: An analysis of Rouget, G. (1985). Music and trance: A theory of the rela-
+the relationship between psychedelic drugs and the mys- tions between music and possession. Chicago: University
+tical consciousness. Cambridge, MA: Harvard University of Chicago Press.
+Press. Salimpoor, V. N., Benovoy, M., Larcher, K., Dagher, A., &
+Pahnke, W. N., Kurland, A. A., Goodman, L. E, & Zatorre, R. J. (2011). Anatomically distinct dopamine
+Richards, W. A. (1969). LSD-assisted psychotherapy with release during anticipation and experience of peak emo-
+terminal cancer patients. Current Psychiatric Therapies, 9, tion to music. Nature Neuroscience, 14(2), 257-262.
+144-152. doi:10.1038/nn.2726
+Panksepp, J. (1995). The emotional sources of “chills” Salimpoor, V. N., Benovoy, M., Longo, G., Cooperstock,
+induced by music. Music Perception: An Interdisciplinary J. R. & Zatorre, R. J. (2009). The rewarding aspects of
+Journal, 13(2), 171-207. doi:10.2307/40285693 music listening are related to degree of emotional
+Panksepp, J. (2009). The emotional antecedents to the evo- arousal. PLoS One, 4(10), e7487. doi:10.1371/
+lution of music and language. Musicae Scientiae, 13(2), journal.pone.0007487
+229-259. doi:10.1177/1029864909013002111 Salimpoor, V. N., van den Bosch, I, Kovacevic, N.,
+Patel, A. D. (2008). Music, language, and the brain. Oxford: McIntosh, A. R., Dagher, A., € Zatorre, R. J. (2013).
+Oxford University Press. Interactions between the nucleus accumbens and audiPenman, J., & Becker, J. (2009). Religious ecstatics, “Deep
+tory cortices predict music reward value. Science (New
+listeners”, and musical emotion. Empirical Musicology
+York, N.Y.), 340(6129), 216-219. doi:10.1126/
+Review, 4, 70.
+science.1231059
+Preller, K. H., Herdener, M., Pokorny, T., Planzer, A.,
+Samorini, G. (1992). The oldest representations of hallu-
+Kraehenmann, R., Stampfli, P., ... Vollenweider, F. X.
+cinogenic mushrooms in the world. Integration, 2/3,
+(2017). The fabric of meaning and subjective effects in
+69-78.
+LSD-induced states depend on serotonin 2A receptor
+Sanches, R. F, de Lima Osorio, F., dos Santos, R. G.,
+activation. Current Biology, 27(3), 451-457. doi:S0960-
+Macedo, L. R. H., Maia-de-Oliveira, J. P., Wichert-Ana, L.,
+9822(16)31510-X
+... Hallak, J. E. C. (2016). Antidepressant effects of a sinRawlings, D., & Ciancarelli, V. (1997). Music preference
+gle dose of ayahuasca in patients with recurrent depression:
+and the five-factor model of the NEO personality inven-
+A SPECT study. Journal of Clinical Psychopharmacology,
+tory. Psychology of Music, 25(2), 120-132. doi:10.1177/
+36(1), 77-81. doi:10.1097/JCP.0000000000000436
+0305735697252003
+Sandstrom, G. M., & Russo, F. A. (2013). Absorption in
+Rentfrow, P. J., & Gosling, S. D. (2003). The do re mi’s of
+music: Development of a scale to identify individuals
+everyday life: The structure and personality correlates of
+with strong emotional responses to music. Psychology of
+music preferences. Journal of Personality and Social
+Music, 41(2), 216. 228. doi:10.1177/0305735611422508
+Psychology, 84(6), 1236-1256. doi:10.1037/0022-
+Schafer, T., Sedlmeier, P., Stadtler, C., & Huron, D. (2013).
+3514.84.6.1236
+The psychological functions of music listening. Frontiers
+Rentfrow, P. J., Goldberg, L. R., & Levitin, D. J. (2011). The
+in Psychology, 4, 511. doi:10.3389/fpsyg.2013.00511
+structure of musical preferences: A five-factor model.
+Schon, D., Gordon, R., Campagne, A., Magne, C., Astésano, C.,
+Journal of Personality and Social Psychology, 100(6),
+Anton, J., & Besson, M. (2010). Similar cerebral networks in
+1139-1157. doi:10.1037/a0022406
+language, music and song perception. NeuroImage, 51(1),
+Richards, W. A. (1979). Psychedelic drug-assisted psycho-
+450-461. doi:10.1016/j.neuroimage.2010.02.023
+therapy with persons suffering from terminal cancer.
+Schultes, R. E., Hofmann, A., & Ratsch, C. (2001). Plants of
+Journal of Altered States of Consciousness, 5(4), 309-319.
+Richards, W. A., Rhead, J. C., DiLeo, F. B., Yensen, R., & the gods: Their sacred, healing, and hallucinogenic powers
+
+Kurland, A. A. (1977). The peak experience variable in (2nd ed.). Rochester, VT: Healing Arts Press.
+
+DPT-assisted psychotherapy with cancer patients. J Silverman, J. (1971). Research with psychedelics. Some bio-
+
+Psychedelic Drugs, 9, 10. psychological concepts and possible clinical applications.
+
+Riga, M. S., Bortolozzi, A., Campa, L., Artigas, F, 8 Archives of General Psychiatry, 25(6), 498-510.
+
+Celada, P. (2016). The serotonergic hallucinogen 5- Snowdon, C. T., Zimmermann, E., & Altenmuller, E. (2015).
+
+methoxy-N,N-dimethyltryptamine disrupts cortical activ- Music evolution and neuroscience. Progress in Brain
+ity in a regionally-selective manner via 5-HT(1A) and 5- Research, 217, 17-34. doi:10.1016/bs.pbr.2014.11.019
+HT(2A) receptors. Neuropharmacology, 101, 370-378. Swift, T. C., Belser, A. B., Agin-Liebes, G., Devenot, N.,
+doi:10.1016/j.neuropharm.2015.10.016 Terrana, S., Friedman, H. L., ... Ross, S. (2017). Cancer
+Roseman, L., Nutt, D. J., & Carhart-Harris, R. L. (2018). at the dinner table: Experiences of psilocybin-assisted
+Quality of acute psychedelic experience predicts thera- psychotherapy for the treatment of cancer-related dis-
+peutic efficacy of psilocybin for treatment-resistant tress. Journal of Humanistic Psychology, 57(5), 488-519.
+depression. Frontiers in Pharmacology, 8, 974. doi:10.1177/0022167817715966
+doi:10.3389/fphar.2017.00974 Tang, Z. Q., & Trussell, L. O. (2015). Serotonergic regulaRoss, S., Bossis, A., Guss, J., Agin-Liebes, G., Malone, T., tion of excitability of principal cells of the dorsal coch-
+Cohen, B., Schmidt, B. L. (2016). Rapid and sus- lear nucleus. The Journal of Neuroscience: The Official
+tained symptom reduction following psilocybin treatment Journal of the Society for Neuroscience, 35(11),
+for anxiety and depression in patients with life- 4540-4551. doi:10.1523/JNEUROSCI.4825-14.2015
+
+[PAGE 014]
+
+INTERNATIONAL REVIEW OF PSYCHIATRY 13
+
+
+Timmermann, C., Spriggs, M. J., Kaelen, M., Leech, R., Vollenweider, F. X., & Kometer, M. (2010). The neurobiol-
+Nutt, D. J., Moran, R. J., ... Muthukumaraswamy, S. D. ogy of psychedelic drugs: Implications for the treatment
+(2017). LSD modulates effective connectivity and of mood disorders. Nature Reviews. Neuroscience, 11(9),
+neural adaptation mechanisms in an auditory oddball 642-651. doi:10.1038/nrn2884
+paradigm. Neuropharmacology. Advance online publica- Wasson, R. G., Hofmann, A., & Ruck, K. A. P. (1978). The
+tion. doi:10.1016/j.neuropharm.2017.10.039. road to Eleusis. Berkeley, CA: North Atlantic Books.
+Torres, C. M. (1998). Psychoactive substances in the Watts, R., Day, C., Krzanowski, J., Nutt, D., & Carhart-
+archaeology of northern Chile and northwest Argentina: Harris, R. (2017). Patients’ accounts of increased
+A comparative review of the evidence. Chungara (Arica), “Connectedness” and “Acceptance” after psilocybin for
+30(1), 49-63. doi:10.4067/S0717-73561998000100004 treatment-resistant depression. Journal of Humanistic
+Trehub, S. E. (2001). Musical predispositions in infancy. Psychology, 57(5), 520-564. doi:10.1177/0022167817709585
+Annals of the New York Academy of Sciences, 930, 1-16. Weber, K. (1967). Alteration of music perception in experiTrehub, S. E., & Trainor, L. J. (1998). Singing to infants: mental psychosis (psilocybin.). Confinia Psychiatrica.
+Lullabies and play songs. Advances in Infancy Research, Borderland of Psychiatry. Grenzgebiete Der Psychiatrie.
+12, 43-77. Les Confins De La Psychiatrie, 10(3), 139-176.
+Umbricht, D., Vollenweider, F. X., Schmid, L., Grúbel, C., Zhao, K., Bai, Z. G., Bo, A., & Chi, I. (2016). A systematic
+Skrabo, A., Huber, T., & Koller, R. (2003). Effects of the 5- review and meta-analysis of music therapy for the
+HT2A agonist psilocybin on mismatch negativity gener- older adults with depression. International Journal of
+ation and AX-continuous performance task: Implications Geriatric Psychiatry, 31(11), 1188-1198. doi:10.1002/
+for the neuropharmacology of cognitive deficits in schizo- gps.4494
+phrenia. Neuropsychopharmacology: Official Publication of Zweigenhaft, R. L. (2008). A do re mi encore. Journal of
+the American College of Neuropsychopharmacology, 28(1), Individual Differences, 29(1), 45-55. doi:10.1027/1614-
+170-181. doi:10.1038/sj.npp.1300005 0001.29.1.45

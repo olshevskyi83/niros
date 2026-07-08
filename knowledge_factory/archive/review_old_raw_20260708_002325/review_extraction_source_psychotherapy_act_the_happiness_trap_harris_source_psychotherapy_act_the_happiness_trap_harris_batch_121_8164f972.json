@@ -1,0 +1,57 @@
+{
+  "created_at": "2026-07-07T21:49:19+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_121_8164f972",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Emotional pain",
+      "Fear of emotional pain",
+      "Avoidance behaviors",
+      "Cognitive fusion with negative thoughts",
+      "Values clarification"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Uncertain—may be less suitable for individuals with severe trauma or dissociation without additional stabilization"
+    ],
+    "evidence_text": "Donna: Okay. PU try. (She takes another long, deep breath. Then 30 seconds of silence.)\n\n---\n\nRuss: Now, as you’re observing it, breathe into it. Let your thoughts come and go. Stay with it.\nStop trying to squeeze it out. Give it some room. You don’t have to like it—just let go of fighting it.\n\n---\n\nRuss: Have you got a sense of that yet? Of allowing it to be there without a struggle?\n\n---\n\nDonna: Yes. It’s weird. It’s sort of ... I don’t know ... calming.\n\n---\n\nRuss: So the pain is still there, but now the struggle switch is OFF?\n\n---\n\nDonna: Yes. It’s weird. It’s like, it still hurts ... but ... I don’t know ... It’s like I’m not frightened by\nit anymore.\n\n---\n\nRuss: Isn’t that interesting? Your mind tells you that you can’t handle it; you’\nll fall to pieces; it’s\ntoo overwhelming. Yet your direct experience shows you that you can make room for it. Which are\nyou going to believe: your mind or your experience?\n\n---\n\nRuss: I’m sure it doesn’t. How could it? The pain you must be feeling, I can only imagine. But this\npain means something, doesn’t it?\n\n---\n\nRuss: Well, if you hadn’t deeply loved your family, you wouldn’t be feeling what you’re feeling.\nThis sadness is directly connected to your love. You can’t have one without the other. Now, let’s\nsuppose I could give you a choice here. (Russ holds out both his hands for Donna to pick from.) If\n\n---\n\nyou pick the left hand, you will get to have meaningful and loving relationships with the people in\nyour life—and you will also get the sadness and loss and grief when those relationships end. If you\npick the right hand, then you will never have to feel this sadness and loss—but you will have to\ngive up any sort of loving or meaningful relationships. Which hand do you pick?\n\n---\n\nDonna: That one. (She picks the left hand: both love and sadness.)\n\n---\n\nRuss: Are you sure? (Donna nods.) Good. Because although this sadness is painful, it’s an\nimportant part of you. It’s directly connected to your ability to love deeply.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_121_8164f972",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage breathing into emotions",
+      "Invite observation without judgment",
+      "Use metaphorical choice to illustrate values and consequences",
+      "Highlight experiential evidence over cognitive beliefs"
+    ],
+    "pause_rules": [
+      "Include extended silence after prompts to allow internal processing (e.g., 30 seconds)"
+    ],
+    "psychological_function": "Allowing emotional pain to be present without resistance; decoupling the experience of pain from fear and avoidance; enhancing mindfulness and present-moment awareness; clarifying the connection between sadness and love; supporting committed action aligned with personal values.",
+    "repetition_rules": [
+      "Repeat invitations to observe and allow emotions",
+      "Reinforce the distinction between pain and struggle",
+      "Reiterate the connection between sadness and love"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_121",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Choosing between two hands representing acceptance of love with sadness versus avoidance of sadness with loss of love"
+    ],
+    "therapeutic_function": "Facilitating acceptance of painful emotions without struggle; reducing fear of emotional pain; promoting experiential awareness over cognitive avoidance; fostering values-based choice despite emotional discomfort.",
+    "voice_rules": [
+      "Use calm, guiding, and validating tone",
+      "Ask reflective questions to promote insight",
+      "Normalize emotional experiences",
+      "Encourage curiosity and openness"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_121_8164f972",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_121",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:19+00:00"
+}

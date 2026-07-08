@@ -6,6 +6,7 @@ import json
 import re
 from dataclasses import dataclass, replace
 from pathlib import Path
+from typing import Any
 
 from niros.ctpc import CanonicalTherapeuticPattern
 from niros.human_review_workflow import (
@@ -13,10 +14,18 @@ from niros.human_review_workflow import (
     REVIEW_STATUS_CHANGES_REQUESTED,
     REVIEW_STATUS_PENDING,
     REVIEW_STATUS_REJECTED,
+    REVIEW_TYPE_CONSOLIDATED,
     HumanReviewError,
     HumanReviewRecord,
     HumanReviewWorkflow,
     deserialize_human_review_record,
+)
+from niros.knowledge_consolidator import (
+    DEFAULT_REVIEW_MODE,
+    REVIEW_MODE_AGGRESSIVE,
+    REVIEW_MODE_CONSERVATIVE,
+    REVIEW_MODE_NORMAL,
+    deserialize_consolidated_candidate,
 )
 from niros.knowledge_domain import (
     KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
@@ -28,6 +37,10 @@ from niros.knowledge_domain import (
     is_tle_runtime_eligible_domain,
     knowledge_domain_label,
     normalize_review_knowledge_domain,
+)
+from niros.knowledge_compiler import (
+    DEFAULT_MAX_BATCHES,
+    DocumentCompileResult,
 )
 from niros.knowledge_factory_pipeline import KnowledgeFactoryPipeline
 from niros.knowledge_library import (
@@ -64,6 +77,21 @@ DEFAULT_SOURCE_TYPE = "text"
 DEFAULT_LANGUAGE = "unknown"
 MIN_MEANINGFUL_CHARS = 40
 BATCH_SEPARATOR = "\n\n---\n\n"
+MAX_BATCHES_UI_OPTIONS: dict[str, int | None] = {
+    "1": 1,
+    "3": 3,
+    "5": 5,
+    "10": 10,
+    "all": None,
+}
+DEFAULT_MAX_BATCHES_UI_OPTION = "3"
+
+REVIEW_MODE_UI_OPTIONS: dict[str, str] = {
+    "Conservative": REVIEW_MODE_CONSERVATIVE,
+    "Normal": REVIEW_MODE_NORMAL,
+    "Aggressive": REVIEW_MODE_AGGRESSIVE,
+}
+DEFAULT_REVIEW_MODE_UI_OPTION = "Conservative"
 
 SCANNED_PDF_GUIDANCE = (
     "Scanned PDFs are not supported. Convert scanned pages to TXT first."
@@ -111,6 +139,13 @@ class ReviewTableItem:
     function_preview: str
     suggested_action: str
     knowledge_domain: str
+    review_type: str = "batch_extraction"
+    canonical_name: str = ""
+    mention_count: int = 0
+    book_count: int = 0
+    source_families: tuple[str, ...] = ()
+    ontology_status: str = ""
+    mechanism_name: str = ""
 
 
 @dataclass(frozen=True)
@@ -154,6 +189,24 @@ class ReviewDetail:
     evidence_text: str
     reviewer_notes: str
     knowledge_domain: str
+    review_type: str = "batch_extraction"
+    canonical_name: str = ""
+    mention_count: int = 0
+    book_count: int = 0
+    batch_count: int = 0
+    source_families: tuple[str, ...] = ()
+    evidence_fragments: tuple[str, ...] = ()
+    relevance_score: float = 0.0
+    knowledge_kind: str = ""
+    gate_reasoning: str = ""
+    why_extracted: str = ""
+    evidence_span: str = ""
+    mechanism_name: str = ""
+    mechanism_description: str = ""
+    why_this_is_a_mechanism: str = ""
+    causal_process: str = ""
+    ontology_status: str = ""
+    ontology_mechanism_id: str = ""
 
 
 @dataclass(frozen=True)
@@ -198,6 +251,39 @@ class KnowledgeLibrarySourceSummary:
 
 
 @dataclass(frozen=True)
+class CompileProgressUISummary:
+    source_id: str
+    source_type: str
+    domain: str
+    knowledge_domain: str
+    status: str
+    total_batches: int
+    processed: int
+    reviews_created: int
+    failed: int
+    skipped: int
+    elapsed_seconds: float
+    raw_corpus_path: str
+    log_path: str
+    live_log_path: str
+    openai_model: str
+    max_batch_chars: int
+    max_batches: int | None
+    raw_extractions: int = 0
+    filtered_extractions: int = 0
+    consolidated_candidates: int = 0
+    auto_approved: int = 0
+    books_processed: int = 0
+    chunks_seen: int = 0
+    chunks_skipped: int = 0
+    chunks_extracted: int = 0
+    skipped_by_reason: tuple[tuple[str, int], ...] = ()
+    low_relevance_count: int = 0
+    medium_relevance_count: int = 0
+    high_relevance_count: int = 0
+
+
+@dataclass(frozen=True)
 class LibraryExtractionResult:
     import_result: ImportTxtResult
     extraction_results: tuple[ExtractionRunResult, ...]
@@ -209,6 +295,13 @@ class ApproveReviewResult:
     review: HumanReviewRecord
     pattern: CanonicalTherapeuticPattern
     ctpc_path: str
+
+
+@dataclass(frozen=True)
+class ArchivePendingReviewsResult:
+    archived_count: int
+    archive_dir: str
+    archived_files: tuple[str, ...]
 
 
 def _normalize_source_id(value: str) -> str:
@@ -444,6 +537,115 @@ def list_incoming_txt_files(workspace_root: str = DEFAULT_KNOWLEDGE_ROOT) -> tup
     return relative_knowledge_library_txt_paths(DEFAULT_KNOWLEDGE_LIBRARY_ROOT)
 
 
+def parse_max_batches_option(option: str) -> int | None:
+    """Return the compiler max_batches value for one UI option label."""
+    return MAX_BATCHES_UI_OPTIONS.get(option, DEFAULT_MAX_BATCHES)
+
+
+def parse_review_mode_option(option: str) -> str:
+    """Return the compiler review_mode value for one UI option label."""
+    return REVIEW_MODE_UI_OPTIONS.get(option, DEFAULT_REVIEW_MODE)
+
+
+def compile_progress_ui_summary(result: DocumentCompileResult) -> CompileProgressUISummary:
+    """Return a UI-friendly compile progress summary from one document result."""
+    return CompileProgressUISummary(
+        source_id=result.source_id,
+        source_type=result.source_type,
+        domain=result.domain,
+        knowledge_domain=result.knowledge_domain,
+        status=result.status,
+        total_batches=result.usable_batch_count,
+        processed=result.batches_processed,
+        reviews_created=result.reviews_created,
+        failed=result.failed_batches,
+        skipped=result.skipped_reviews,
+        elapsed_seconds=result.duration_seconds,
+        raw_corpus_path=result.raw_corpus_path,
+        log_path=result.log_path,
+        live_log_path=result.live_log_path,
+        openai_model=result.openai_model,
+        max_batch_chars=result.max_batch_chars,
+        max_batches=result.max_batches,
+        raw_extractions=result.raw_extractions,
+        filtered_extractions=result.filtered_extractions,
+        consolidated_candidates=result.consolidated_candidates,
+        auto_approved=result.auto_approved,
+        books_processed=result.books_processed,
+        chunks_seen=result.chunks_seen,
+        chunks_skipped=result.chunks_skipped,
+        chunks_extracted=result.chunks_extracted,
+        skipped_by_reason=result.skipped_by_reason,
+        low_relevance_count=result.low_relevance_count,
+        medium_relevance_count=result.medium_relevance_count,
+        high_relevance_count=result.high_relevance_count,
+    )
+
+
+def compile_summary_ui_funnel(
+    summary: Any,
+) -> dict[str, int | str | tuple[tuple[str, int], ...]]:
+    """Return compile funnel counts for the Knowledge Factory UI."""
+    return {
+        "books_processed": summary.books_processed,
+        "batches": summary.chunks_created,
+        "chunks_seen": summary.chunks_seen,
+        "chunks_skipped": summary.chunks_skipped,
+        "chunks_extracted": summary.chunks_extracted,
+        "skipped_by_reason": summary.skipped_by_reason,
+        "low_relevance_count": summary.low_relevance_count,
+        "medium_relevance_count": summary.medium_relevance_count,
+        "high_relevance_count": summary.high_relevance_count,
+        "raw_extractions": summary.raw_extractions,
+        "filtered_extractions": summary.filtered_extractions,
+        "consolidated_candidates": summary.consolidated_candidates,
+        "pending_reviews": summary.pending_reviews,
+        "auto_approved": summary.auto_approved,
+        "archived_reviews": 0,
+    }
+
+
+def archive_pending_reviews_for_ui(
+    workspace_root: str = DEFAULT_KNOWLEDGE_ROOT,
+    *,
+    timestamp: str | None = None,
+) -> ArchivePendingReviewsResult:
+    """Move pending review JSON files into a timestamped archive folder."""
+    from datetime import datetime, timezone
+
+    paths = build_knowledge_workspace_paths(workspace_root)
+    review_dir = Path(paths.review_dir)
+    if not review_dir.exists():
+        return ArchivePendingReviewsResult(0, "", ())
+
+    safe_timestamp = (
+        (timestamp or datetime.now(timezone.utc).replace(microsecond=0).isoformat())
+        .replace(":", "")
+        .replace("+", "")
+        .replace("-", "")
+    )
+    archive_dir = Path(paths.root) / "archive" / f"review_{safe_timestamp}"
+    archive_dir.mkdir(parents=True, exist_ok=True)
+
+    archived_files: list[str] = []
+    for path in sorted(review_dir.glob("*.json")):
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        if payload.get("status") != REVIEW_STATUS_PENDING:
+            continue
+        destination = archive_dir / path.name
+        path.rename(destination)
+        archived_files.append(str(destination))
+
+    return ArchivePendingReviewsResult(
+        archived_count=len(archived_files),
+        archive_dir=str(archive_dir),
+        archived_files=tuple(archived_files),
+    )
+
+
 def knowledge_library_source_to_summary(
     source: KnowledgeLibrarySourceRecord,
 ) -> KnowledgeLibrarySourceSummary:
@@ -537,6 +739,13 @@ def list_extraction_results_for_ui(
     for record in records:
         extraction = _display_extraction(record)
         source = sources_by_id.get(record.source_id)
+        candidate = _consolidated_candidate_for_record(record)
+        preview = (
+            candidate.canonical_name
+            if candidate is not None
+            else extraction.mechanism_name
+            or _truncate_preview(extraction.therapeutic_function)
+        )
         items.append(
             ReviewTableItem(
                 review_id=record.review_id,
@@ -546,7 +755,7 @@ def list_extraction_results_for_ui(
                 segment_id=record.segment_id,
                 status=record.status,
                 confidence=extraction.confidence,
-                function_preview=_truncate_preview(extraction.therapeutic_function),
+                function_preview=preview,
                 suggested_action=suggested_action_for_review(
                     segment_id=record.segment_id,
                     confidence=extraction.confidence,
@@ -555,6 +764,17 @@ def list_extraction_results_for_ui(
                     duplicate_segments=duplicates,
                 ),
                 knowledge_domain=normalize_review_knowledge_domain(record.knowledge_domain),
+                review_type=record.review_type,
+                canonical_name=candidate.canonical_name if candidate is not None else "",
+                mention_count=candidate.mention_count if candidate is not None else 0,
+                book_count=candidate.book_count if candidate is not None else 0,
+                source_families=candidate.source_families if candidate is not None else (),
+                ontology_status=(
+                    candidate.ontology_status
+                    if candidate is not None
+                    else extraction.ontology_status
+                ),
+                mechanism_name=extraction.mechanism_name or extraction.therapeutic_function,
             )
         )
     return tuple(sorted(items, key=lambda item: item.segment_id))
@@ -653,6 +873,12 @@ def base_extraction_for_review(record: HumanReviewRecord) -> TherapeuticFunction
     return record.original_extraction
 
 
+def _consolidated_candidate_for_record(record: HumanReviewRecord):
+    if record.review_type != REVIEW_TYPE_CONSOLIDATED or not record.consolidated_candidate:
+        return None
+    return deserialize_consolidated_candidate(record.consolidated_candidate)
+
+
 def load_review_for_ui(
     review_id: str,
     workspace_root: str = DEFAULT_KNOWLEDGE_ROOT,
@@ -661,10 +887,48 @@ def load_review_for_ui(
     workflow = _workflow(workspace_root)
     record = workflow.load_review(review_id)
     extraction = _display_extraction(record)
+    candidate = _consolidated_candidate_for_record(record)
     filename = f"{record.review_id}.json"
     review_path = Path(workflow.paths.review_dir) / filename
     if review_path.exists():
         filename = review_path.name
+
+    evidence_fragments: tuple[str, ...] = ()
+    canonical_name = ""
+    mention_count = 0
+    book_count = 0
+    batch_count = 0
+    source_families: tuple[str, ...] = ()
+    if candidate is not None:
+        canonical_name = candidate.canonical_name
+        mention_count = candidate.mention_count
+        book_count = candidate.book_count
+        batch_count = candidate.batch_count
+        source_families = candidate.source_families
+        evidence_fragments = tuple(
+            f"{fragment.source_id} / {fragment.segment_id}: {fragment.evidence_text.strip()}"
+            for fragment in candidate.evidence_fragments
+        )
+        ontology_status = candidate.ontology_status
+        causal_process = candidate.causal_process_summary
+        why_this_is_a_mechanism = candidate.why_extraction_summary
+        ontology_mechanism_id = candidate.ontology_mechanism_id
+        mechanism_name = candidate.canonical_name
+        mechanism_description = candidate.description
+    else:
+        ontology_status = extraction.ontology_status
+        causal_process = extraction.causal_process
+        why_this_is_a_mechanism = extraction.why_this_is_a_mechanism
+        ontology_mechanism_id = extraction.ontology_mechanism_id
+        mechanism_name = extraction.mechanism_name
+        mechanism_description = extraction.mechanism_description
+
+    relevance = record.therapeutic_relevance or {}
+    relevance_score = float(relevance.get("relevance_score", 0.0) or 0.0)
+    knowledge_kind = str(relevance.get("knowledge_kind", "") or "")
+    gate_reasoning = str(relevance.get("reasoning", "") or relevance.get("gate_reasoning", "") or "")
+    why_extracted = str(relevance.get("why_extracted", "") or gate_reasoning)
+    evidence_span = str(relevance.get("evidence_span", "") or "")
 
     return ReviewDetail(
         filename=filename,
@@ -685,6 +949,24 @@ def load_review_for_ui(
         evidence_text=extraction.evidence_text,
         reviewer_notes=record.reviewer_notes,
         knowledge_domain=normalize_review_knowledge_domain(record.knowledge_domain),
+        review_type=record.review_type,
+        canonical_name=canonical_name,
+        mention_count=mention_count,
+        book_count=book_count,
+        batch_count=batch_count,
+        source_families=source_families,
+        evidence_fragments=evidence_fragments,
+        relevance_score=relevance_score,
+        knowledge_kind=knowledge_kind,
+        gate_reasoning=gate_reasoning,
+        why_extracted=why_extracted,
+        evidence_span=evidence_span,
+        mechanism_name=mechanism_name,
+        mechanism_description=mechanism_description,
+        why_this_is_a_mechanism=why_this_is_a_mechanism,
+        causal_process=causal_process,
+        ontology_status=ontology_status,
+        ontology_mechanism_id=ontology_mechanism_id,
     )
 
 

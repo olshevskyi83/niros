@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:48:43+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_109_99ed3226",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Negative self-talk",
+      "Cognitive fusion with distressing thoughts",
+      "Resistance to present emotional experience",
+      "Rumination and wishful thinking"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if refusal to engage with thoughts may be difficult or counterproductive for individuals with severe cognitive or emotional impairments."
+    ],
+    "evidence_text": "Variations on this theme include ‘I can’t stand it’, ‘I can’t cope’, ‘It’s too overwhelming’, ‘I can’t\ntake it anymore’, ‘I’m going to have a nervous breakdown’, and so on. Your mind 1s basically\nfeeding you the story that you’re too weak to handle this, and something bad is going to happen if\nyou keep feeling this way. (And is this a helpful story to pay attention to?)\n\n---\n\nThis is a classic! Here your mind picks an argument with reality. The reality is this: the way you are\nfeeling right now is the way you are feeling. But your mind says, ‘Reality is wrong! It’s not\nsupposed to be this way! Stop it! Give me the reality I want!” (And is this effective? Does it change\nanything? Can you ever win an argument with reality?)\n\n---\n\nWishful thinking: one of the mind’s favourite pastimes. (“I wish I felt more confident.’ ‘I wish I\ndidn’t feel so anxious.’) This can keep us wrapped up in second-guessing ourselves for hours,\nimagining how our lives could be so much better if only we felt differently. (And does this help us\n\n---\n\nAnd the list could go on and on. Suffice it to say, the thinking self has lots of ways either to directly\nintensify our bad feelings or else to get us to waste a huge amount of time uselessly brooding on\nthem. So, from now on, intend to catch your mind in the act when it tries to hook you with these\nquestions and comments. Then simply refuse to play the game. Thank your mind for trying to waste\nyour time, and focus instead on some useful or meaningful activity. You may find it helpful to say\nsomething to yourself like, ‘Thanks, Mind, but I’m not playing today.’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_109_99ed3226",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify when the mind is engaging in unhelpful stories or arguments",
+      "Intend to catch the mind in the act of hooking attention",
+      "Respond by refusing to engage and redirecting focus to meaningful activity",
+      "Use self-statements such as 'Thanks, Mind, but I’m not playing today.'"
+    ],
+    "pause_rules": [
+      "Pause to recognize the presence of unhelpful thoughts before choosing not to engage with them."
+    ],
+    "psychological_function": "Increasing awareness of the mind's tendency to intensify negative feelings through argument, wishful thinking, and brooding; promoting acceptance of present emotional experience without resistance.",
+    "repetition_rules": [
+      "Repeatedly notice and refuse to engage with recurring unhelpful thoughts and mental arguments."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_109",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Mind as an argumentative entity",
+      "Mind as a time-waster",
+      "Refusing to play the mind's game"
+    ],
+    "therapeutic_function": "Interrupting unhelpful thought patterns by recognizing and refusing to engage with negative self-talk and mental arguments against reality.",
+    "voice_rules": [
+      "Use a conversational, questioning tone to highlight the futility of arguing with reality",
+      "Use direct address to the mind to personify and externalize unhelpful thoughts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_109_99ed3226",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_109",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:43+00:00"
+}

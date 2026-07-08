@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:46:38+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_073_e893e05c",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "distraction from intrusive thoughts",
+      "impaired task performance due to overthinking",
+      "lack of present-moment awareness"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text."
+    ],
+    "evidence_text": "Now, suppose thoughts start popping into your head like, ‘I hope my grip is correct’, ‘T’d better\nmake this a good hit’ or ‘Wow, that ball is moving fast!” That is your thinking self at work. And of\ncourse, such thoughts can often be distracting. If your observing self pays too much attention to\nthose thoughts, then it is no longer focused on the ball, and your performance will be impaired.\n(How often have you been focused on a task, only to be distracted by a thought such as, ‘I hope I\ndon’t screw this up!”?)\n\n---\n\nOr suppose you’re watching a magnificent sunset. There are moments when all you are doing is\nlooking at it. Your mind is quiet; there are no thoughts running through your head, you’re simply\nregistering the many colours of the spectacle before you. This is your observing self at work:\nobserving, not thinking.\n\n---\n\nThen your thinking self kicks in: “Wow, look at all those colours! This reminds me of that sunset\nwe saw on holiday last year. I wish I had my camera. It’s so beautiful; this looks like something out\nof a movie.’ The more attention your observing self pays to the running commentary of the thinking\nself, the more you lose direct contact with that sunset.\n\n---\n\nAlthough we all understand words such as ‘awareness’, ‘focus’ and ‘attention’, most of us in the\nwestern world have little or no concept of the observing self. As a result, there is no common word\nfor it in the English language. We only have the word ‘mind’, which is generally used to denote\nboth the thinking self and the observing self, without distinguishing between the two. To reduce\nconfusion, whenever I use the word “mind” in this book, I am referring only to the thinking self.\nWhen I use terms like ‘attention’, ‘awareness’, ‘observing’, ‘noticing’ and ‘direct experience’, Pm\nreferring to various aspects of the observing self. As this book progresses, you will learn how to\n\n---\n\ntune in and use this amazingly potent part of you. Let’s begin right now with a simple exercise.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_073_e893e05c",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use terms like 'attention', 'awareness', 'observing', 'noticing', and 'direct experience' to refer to the observing self.",
+      "Use 'mind' to refer only to the thinking self to reduce confusion."
+    ],
+    "pause_rules": [
+      "Encourage moments of quiet observation without thought to enhance awareness of the observing self."
+    ],
+    "psychological_function": "Facilitating mindful attention to present experience by observing without engaging in evaluative or distracting thoughts.",
+    "repetition_rules": [
+      "Reinforce the distinction between observing self and thinking self through repeated examples and contrasts."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_073",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observing self",
+      "thinking self",
+      "sunset",
+      "ball"
+    ],
+    "therapeutic_function": "Enhancing awareness of the distinction between the observing self and the thinking self to improve focus and reduce distraction.",
+    "voice_rules": [
+      "Present the observing self as a distinct, non-judgmental aspect of experience.",
+      "Describe the thinking self as generating distracting or evaluative thoughts."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_073_e893e05c",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_073",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:38+00:00"
+}

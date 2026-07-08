@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-07-07T21:42:39+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_001_d076f762",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "stress",
+      "anxiety",
+      "depression",
+      "negative emotional patterns",
+      "self-defeating habits",
+      "insecurity",
+      "self-doubt"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the source text"
+    ],
+    "evidence_text": "\"This book could save you years of psychological struggle,\nyank you out of negative emotional patterns, and help\npropel you to a much happier, more productive life.”\n—Martha Beck, author of Finding Your Own North Star\n\n---\n\nHow fo Stop Struggling and Start Living\nA guide to ACT: the mindfulness-based\nprogram for reducing stress, overcoming fear,\nand creating a rich and meaningful life\n\n---\n\nRUSS HARRIS Steven Hayes, PhD\nCopyrighted Material\n\n---\n\nre you, like millions of Americans, caught in the happiness trap? Russ\nHarris explains that the way most of us go about trying to find happiness\nends up making us miserable, driving the epidemics of stress, anxiety, and\ndepression. This empowering book presents the insights and techniques of ACT\n(Acceptance and Commitment Therapy], a revolutionary new psychotherapy based\non cutting-edge research in behavioral psychology. By clarifying your values and\ndeveloping mindfulness (a technique for living fully in the present moment), ACT helps\nyou escape the happiness trap and find true satisfaction in life.\n\n---\n\nThe techniques presented in The Happiness Trap will help readers to:\n* Reduce stress and worry\n+ Handle painful feelings and thoughts more effectively\n+ Break self-defeating habits\n+ Overcome insecurity and self-doubt\n+ Create a rich, full, and meaningful life\n\n---\n\n“Carefully and creatively presents techniques that anyone can use to undermine struggle,\navoidance, and loss of the moment. Harris systematically explores how we get into the\n‘happiness trap’ and then shines a powerful beacon showing us another way forward.”\n—Steven Hayes, PhD, author of Get Out of Your Mind and Into Your Life\n\n---\n\n“Eminently practical and readable. This book reveals that when calibrating one’s life\naccording to acceptance and valued action, happiness is a pleasant sideshow in the\nlarger carnival of an engaged and purposeful existence.”\n—Zindel Segal, PhD, author of The Mindful Way through Depression",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_001_d076f762",
+    "extractor": "openai",
+    "generation_rules": [
+      "Clarify values",
+      "Develop mindfulness",
+      "Acceptance and commitment to valued action"
+    ],
+    "pause_rules": [
+      "Not specified in the source text"
+    ],
+    "psychological_function": "Clarify values; develop mindfulness to live fully in the present moment; acceptance and committed action to escape the happiness trap and find true satisfaction",
+    "repetition_rules": [
+      "Not specified in the source text"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_001",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "happiness trap",
+      "beacon showing another way forward",
+      "larger carnival of an engaged and purposeful existence"
+    ],
+    "therapeutic_function": "Reduce stress and worry; handle painful feelings and thoughts more effectively; break self-defeating habits; overcome insecurity and self-doubt; create a rich, full, and meaningful life",
+    "voice_rules": [
+      "Empowering and practical tone",
+      "Systematic exploration of struggle and avoidance"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_001_d076f762",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_001",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:42:39+00:00"
+}

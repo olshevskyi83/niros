@@ -1,0 +1,60 @@
+{
+  "created_at": "2026-07-07T21:44:58+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_042_7ec61011",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thoughts",
+      "mental images",
+      "physical feelings",
+      "language use",
+      "internal experience awareness"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the segment."
+    ],
+    "evidence_text": "Anything that we can sense, feel, think about, observe, imagine or interact with can be symbolised\nby words: time, space, life, death, heaven, hell, people who died thousands of years ago, places that\nnever existed, current events and so on. And if you know what a word refers to, then you know its\nmeaning and you can understand it. But if you don’t know what a word refers to, then you don’t\nunderstand it. For example, ‘axillary hyperhidrosis’ is a medical term that most of us don’t\nunderstand. It means ‘sweaty armpits’. And now that you know what ‘axillary hyperhidrosis’ refers\nto, you understand the words.\n\n---\n\nWe use words in two different settings: in public, when we’re talking, listening or writing; and in\nprivate, when we’re thinking. Words on a page, we call ‘text’; words spoken out loud, we call\n‘speech’; and words inside our head, we call ‘thoughts’.\n\n---\n\nIt’s important not to confuse thoughts with the mental pictures or physical feelings that often\naccompany them. To clarify the difference, here’s a little experiment. Take a few moments to think\nabout what you’re going to fix for breakfast tomorrow morning. Then, as you’re thinking about it,\nclose your eyes and observe your thoughts as they happen. Notice what form they take. Close your\neyes and do this for about half a minute.\n\n---\n\nOkay, what did you notice? You may have noticed ‘pictures’ in your mind; you ‘saw’ yourself\ncooking or eating, as on a television screen. We’ll call these mental pictures ‘images’. Images are\nnot thoughts, although they often occur together. You may also have noticed feelings or sensations",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_042_7ec61011",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use words to symbolize any sensed, felt, thought, observed, imagined, or interacted-with phenomena."
+    ],
+    "pause_rules": [
+      "Not specified in the segment."
+    ],
+    "psychological_function": "Facilitating observation and differentiation of cognitive and sensory phenomena to reduce confusion and promote mindful awareness.",
+    "repetition_rules": [
+      "Not specified in the segment."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_042",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "words",
+      "time",
+      "space",
+      "life",
+      "death",
+      "heaven",
+      "hell",
+      "mental pictures",
+      "images",
+      "thoughts",
+      "feelings",
+      "sensations"
+    ],
+    "therapeutic_function": "Clarifying the distinction between thoughts, mental images, and physical feelings to enhance awareness and understanding of internal experiences.",
+    "voice_rules": [
+      "Distinguish between public speech, written text, and private thoughts when using words."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_042_7ec61011",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_042",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:58+00:00"
+}

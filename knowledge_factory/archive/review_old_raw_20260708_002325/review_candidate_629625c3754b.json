@@ -1,0 +1,131 @@
+{
+  "consolidated_candidate": {
+    "batch_count": 1,
+    "book_count": 1,
+    "candidate_id": "candidate_c4cfeed3360d",
+    "candidate_targets": [
+      "stress",
+      "anxiety",
+      "depression",
+      "negative emotional patterns",
+      "self-defeating habits",
+      "insecurity",
+      "self-doubt"
+    ],
+    "canonical_name": "Reduce stress and worry; handle painful feelings and thoughts more effectively; break self-defeating habits; overcome insecurity and self-doubt; create a rich, full, and meaningful life through mindfulness and acceptance-based techniques.",
+    "confidence_summary": "high",
+    "contraindications": [
+      "Not explicitly stated in the text"
+    ],
+    "description": "Therapeutic functions observed: Reduce stress and worry; handle painful feelings and thoughts more effectively; break self-defeating habits; overcome insecurity and self-doubt; create a rich, full, and meaningful life through mindfulness and acceptance-based techniques.. Psychological functions observed: Clarify personal values; develop mindfulness to live fully in the present moment; escape negative emotional patterns and the 'happiness trap'; promote acceptance and committed action rather than avoidance or control of internal experiences.. Consolidated from 1 extraction(s) across 1 source(s).",
+    "domains": [
+      "psychotherapy"
+    ],
+    "evidence_fragments": [
+      {
+        "confidence": 0.9,
+        "domain": "psychotherapy",
+        "evidence_text": "\"This book could save you years of psychological struggle,\nyank you out of negative emotional patterns, and help\npropel you to a much happier, more productive life.”\n—Martha Beck, author of Finding Your Own North Star\n\n---\n\nHow fo Stop Struggling and Start Living\nA guide to ACT: the mindfulness-based\nprogram for reducing stress, overcoming fear,\nand creating a rich and meaningful life\n\n---\n\nRUSS HARRIS Steven Hayes, PhD\nCopyrighted Material\n\n---\n\nre you, like millions of Americans, caught in the happiness trap? Russ\nHarris explains that the way most of us go about trying to find happiness\nends up making us miserable, driving the epidemics of stress, anxiety, and\ndepression. This empowering book presents the insights and techniques of ACT\n(Acceptance and Commitment Therapy], a revolutionary new psychotherapy based\non cutting-edge research in behavioral psychology. By clarifying your values and\ndeveloping mindfulness (a technique for living fully in the present moment), ACT helps\nyou escape the happiness trap and find true satisfaction in life.\n\n---\n\nThe techniques presented in The Happiness Trap will help readers to:\n* Reduce stress and worry\n+ Handle painful feelings and thoughts more effectively\n+ Break self-defeating habits\n+ Overcome insecurity and self-doubt\n+ Create a rich, full, and meaningful life\n\n---\n\n“Carefully and creatively presents techniques that anyone can use to undermine struggle,\navoidance, and loss of the moment. Harris systematically explores how we get into the\n‘happiness trap’ and then shines a powerful beacon showing us another way forward.”\n—Steven Hayes, PhD, author of Get Out of Your Mind and Into Your Life\n\n---\n\n“Eminently practical and readable. This book reveals that when calibrating one’s life\naccording to acceptance and valued action, happiness is a pleasant sideshow in the\nlarger carnival of an engaged and purposeful existence.”\n—Zindel Segal, PhD, author of The Mindful Way through Depression\n\n---\n\n“An exciting alternative to the usual approach of so many self-help books. Harris\nexplains how we can work with ourselves as we are, rather than aggressively trying\nto alter ourselves. I’m impressed by the simple and effective methods of ACT.”\n—David Richo, PhD, author of The Five Things We Cannot Change\n\n---\n\nRUSS HARRIS is a physician, therapist, and speaker specializing in stress management.\nHe travels nationally and internationally to train individuals and health professionals in\nthe techniques of ACT. Born and educated in England, he now lives in Australia. For\nmore information, visit thehappinesstrap.com.\n\n---\n\nCover design by Jim Zaccaria\n© 2008 Shambhala Publications, Inc. werwthombhala.com\nPrinted in U.S.A.\nISBN 978-1-59030-584-3\n51495\n\n---\n\nTrumpeter 781590130584\nBoston US $14.95 CAN $16.95\nCopyrighted Material\n\n---\n\n‘Trumpeter Books\nAn imprint of Shambhala Publications, Inc\nHorticultural Hall\n300 Massachusetts Avenue\nBoston, Massachusetts 02115\nwww.shambhala.com\n\n---\n\nPublished by arrangement with Exisle Publishing Ltd,\nAuckland, New Zealand\n\n---\n\nThe cases mentioned in this book are all based on real people, but,\nto protect privacy, key identifying details have been changed.\n\n---\n\nAll rights reserved. No part ofthis book may be reproduced in any form\nor by any means, electronic or mechanical, including photocopying,\nrecording, or by any information storage and retrieval system,\nwithout permission in writing from the publisher.\n\n---\n\n© This edition is printed on acid-free paper that meets the American\nNational Standards Institute 239.48 Standard.\n\n---\n\nDistributed in the United States by Random House, Inc.,\nand in Canada by Random House of Canada Ltd\n\n---\n\nInterior design and composition: Greta D. Sibley & Associates\n\n---\n\nLibrary of Congress Cataloging-in-Publication Data\nHarris, Russ, 1966\nThe happiness trap: how to stop struggling and start living/\nRuss Harris; foreword by Steven Hayes.\np.cm.\n\n---\n\nIncludes index.\nISBN 978-1-59030-584-3 (pbk. alk paper)\n1. Happiness. 1. Title.\nBF575.H27H375 2008\n158.1—de22\n2007042105\n\n---\n\nDedication\nTo my mother and father, for four decades of love, support, inspiration and encouragement. And to\nmy wife Carmel, whose love, wisdom, and generosity has enriched my life and opened my heart in\nways I would never have dreamed possible.\n\n---\n\nForeword\nThere is a tremendous irony in happiness. It comes from a root word meaning “by chance” or “an\noccurrence’, which in a positive sense connotes a sense of newness, wonder, and appreciation of\nchance occurrences. The irony is that people not only seek it, they try to hold on to it—especially to\navoid any sense of ‘unhappiness’. Unfortunately, these very control efforts can become heavy,\nplanned, closed, rigid and fixed.",
+        "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_001_89dd8d4b",
+        "psychological_function": "Clarify personal values; develop mindfulness to live fully in the present moment; escape negative emotional patterns and the 'happiness trap'; promote acceptance and committed action rather than avoidance or control of internal experiences.",
+        "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_001",
+        "source_family": "act",
+        "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+        "therapeutic_function": "Reduce stress and worry; handle painful feelings and thoughts more effectively; break self-defeating habits; overcome insecurity and self-doubt; create a rich, full, and meaningful life through mindfulness and acceptance-based techniques."
+      }
+    ],
+    "generation_rules": [
+      "Use mindfulness-based techniques to foster present-moment awareness",
+      "Clarify and commit to personal values",
+      "Undermine struggle and avoidance behaviors",
+      "Work with oneself as one is rather than trying to aggressively alter oneself"
+    ],
+    "mean_confidence": 0.9,
+    "mention_count": 1,
+    "pause_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "psychological_function": "Clarify personal values; develop mindfulness to live fully in the present moment; escape negative emotional patterns and the 'happiness trap'; promote acceptance and committed action rather than avoidance or control of internal experiences.",
+    "repetition_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "segment_ids": [
+      "source_psychotherapy_act_the_happiness_trap_harris_batch_001"
+    ],
+    "source_count": 1,
+    "source_families": [
+      "act"
+    ],
+    "source_ids": [
+      "source_psychotherapy_act_the_happiness_trap_harris"
+    ],
+    "symbolic_elements": [
+      "happiness trap",
+      "beacon showing another way forward",
+      "larger carnival of an engaged and purposeful existence"
+    ],
+    "therapeutic_function": "Reduce stress and worry; handle painful feelings and thoughts more effectively; break self-defeating habits; overcome insecurity and self-doubt; create a rich, full, and meaningful life through mindfulness and acceptance-based techniques.",
+    "voice_rules": [
+      "Empowering and practical tone",
+      "Systematic exploration of problems and solutions",
+      "Creative and careful presentation of techniques"
+    ]
+  },
+  "created_at": "2026-07-07T22:13:50+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_candidate_629625c3754b",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "stress",
+      "anxiety",
+      "depression",
+      "negative emotional patterns",
+      "self-defeating habits",
+      "insecurity",
+      "self-doubt"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text"
+    ],
+    "evidence_text": "[1] source_psychotherapy_act_the_happiness_trap_harris / source_psychotherapy_act_the_happiness_trap_harris_batch_001: \"This book could save you years of psychological struggle,\nyank you out of negative emotional patterns, and help\npropel you to a much happier, more productive life.”\n—Martha Beck, author of Finding Your Own North Star\n\n---\n\nHow fo Stop Struggling and Start Living\nA guide to ACT: the mindfulness-based\nprogram for reducing stress, overcoming fear,\nand creating a rich and meaningful life\n\n---\n\nRUSS HARRIS Steven Hayes, PhD\nCopyrighted Material\n\n---\n\nre you, like millions of Americans, caught in the happiness trap? Russ\nHarris explains that the way most of us go about trying to find happiness\nends up making us miserable, driving the epidemics of stress, anxiety, and\ndepression. This empowering book presents the insights and techniques of ACT\n(Acceptance and Commitment Therapy], a revolutionary new psychotherapy based\non cutting-edge research in behavioral psychology. By clarifying your values and\ndeveloping mindfulness (a technique for living fully in the present moment), ACT helps\nyou escape the happiness trap and find true satisfaction in life.\n\n---\n\nThe technique...",
+    "extraction_id": "extraction_candidate_629625c3754b",
+    "extractor": "knowledge_consolidator",
+    "generation_rules": [
+      "Use mindfulness-based techniques to foster present-moment awareness",
+      "Clarify and commit to personal values",
+      "Undermine struggle and avoidance behaviors",
+      "Work with oneself as one is rather than trying to aggressively alter oneself"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "psychological_function": "Clarify personal values; develop mindfulness to live fully in the present moment; escape negative emotional patterns and the 'happiness trap'; promote acceptance and committed action rather than avoidance or control of internal experiences.",
+    "repetition_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "review_status": "draft",
+    "segment_id": "candidate_c4cfeed3360d",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "happiness trap",
+      "beacon showing another way forward",
+      "larger carnival of an engaged and purposeful existence"
+    ],
+    "therapeutic_function": "Reduce stress and worry; handle painful feelings and thoughts more effectively; break self-defeating habits; overcome insecurity and self-doubt; create a rich, full, and meaningful life through mindfulness and acceptance-based techniques.",
+    "voice_rules": [
+      "Empowering and practical tone",
+      "Systematic exploration of problems and solutions",
+      "Creative and careful presentation of techniques"
+    ]
+  },
+  "review_id": "review_candidate_629625c3754b",
+  "review_type": "consolidated_candidate",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "candidate_c4cfeed3360d",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T22:13:50+00:00"
+}

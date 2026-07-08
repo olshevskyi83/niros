@@ -1,0 +1,57 @@
+{
+  "created_at": "2026-07-07T21:50:31+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_143_7d639825",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant emotions",
+      "unhelpful thoughts",
+      "painful feelings",
+      "fear",
+      "demons (metaphorical for internal struggles)"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for individuals with severe emotional dysregulation or those unable to engage in reflective awareness; no explicit contraindications stated."
+    ],
+    "evidence_text": "So here we are again, back on the boat with all those creepy, scary demons. But hopefully, now\nyou're starting to see them as they really are, starting to make peace with them, so you're free to\nsteer the boat where you want. When you can see that your unpleasant emotions are nothing more\nthan sensations and urges (with words and pictures attached, of course), you are able to relate to\nthem differently. An unpleasant emotion arises and instead of struggling you can let it be and focus\non doing something of greater value.\n\n---\n\nNaturally, at times those demons will steer you off course. (Why ‘naturally’? Because you’re a\nnormal human being, not a saint or a guru.) But here’s the exciting thing: the moment you realise\nyour boat is headed in the wrong direction, you can instantly turn it back around. Instantly! All it\ntakes is awareness.\n\n---\n\nOf course, you may be a long way from shore at the time. And in fact, that very thought is often one\nof the demons: ‘I’m so far away from achieving what I want in my life, what’s the point in even\ntrying?’ But the point is, the instant you turn that boat toward shore, you’re heading in the direction\nthat you want—and that’s so much more rewarding than drifting aimlessly out at sea!\n\n---\n\nIn Chapter 9 you listed some of your main demons in terms of thoughts and images. Now it’s time\nto add emotions, sensations and urges to that list. The first step is to read through the seven\nquestions below, noticing what thoughts and feelings automatically come to mind:\n\n---\n\n1. What are the major changes you’d like to make in your life?\n\n---\n\n2. How would you act differently if painful thoughts and feelings were no longer an obstacle?\n\n---\n\n3. What projects or activities would you start or continue if your time and energy were not\nconsumed by troublesome emotions?\n\n---\n\n4. What would you do if fear were no longer an issue?\n\n---\n\nIf unhelpful thoughts and unpleasant feelings did not deter you:",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_143_7d639825",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphor of steering a boat to illustrate control over emotional responses.",
+      "Encourage awareness as a means to change direction away from unhelpful emotional states.",
+      "List reflective questions to identify personal values and obstacles."
+    ],
+    "pause_rules": [
+      "Imply reflective pauses after questions to allow introspection on personal values and emotional obstacles."
+    ],
+    "psychological_function": "Promotes awareness of emotional experiences without struggle, encourages reorientation towards personal values, and reduces avoidance behaviors driven by negative thoughts and feelings.",
+    "repetition_rules": [
+      "Reinforce the metaphor of the boat and demons to solidify understanding of emotional processes and control."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_143",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "boat",
+      "demons",
+      "steering the boat",
+      "heading toward shore",
+      "drifting aimlessly out at sea"
+    ],
+    "therapeutic_function": "Facilitates acceptance and cognitive defusion of unpleasant emotions by recognizing them as sensations and urges, enabling individuals to focus on valued actions despite emotional discomfort.",
+    "voice_rules": [
+      "Use conversational and hopeful tone.",
+      "Normalize human experience by acknowledging common struggles.",
+      "Use direct address to engage the reader personally."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_143_7d639825",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_143",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:31+00:00"
+}

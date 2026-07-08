@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:47:54+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_093_0cd81fbd",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Physical sensations (raised blood pressure, increased heart rate, sweating)",
+      "Urges (urge to run away, quit)",
+      "Action tendencies (fidgeting, rapid talking, pacing)",
+      "Thoughts and memories linked to emotions"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "* Physical changes such as raised blood pressure, increased heart rate, increased sweating, extra\nblood flow to the legs or a faster rate of breathing.\n\n---\n\n* Sensations such as tightness in the chest, racing heart, churning stomach, trembling legs,\nshaking hands or sweaty palms.\n\n---\n\n* Urges such as an urge to run away or to quit what you’re doing.\n\n---\n\n° Action tendencies such as a tendency to fidget, talk rapidly, or pace up and down. (People often\nnotice this action tendency as an ‘urge’—the urge to fidget etc.)\n\n---\n\nEmotions are closely tied up with thoughts, memories and images. For instance, when you’re\nfeeling afraid, you may have thoughts about what might go wrong, memories of other times you’ve\n\n---\n\nfelt afraid or mental images of anything from a car crash to a heart attack. One particular type of\nthought process is so intimately linked to our emotions that some experts consider it a core\ncomponent. This is the process of “making sense of” or “giving meaning to” our experience. For\nexample, with sadness you have a sense of loss, and with fear you have a sense of danger.\n\n---\n\nThe word ‘emotion’ is derived from the Latin exmovere, meaning to “move out’ or ‘excite’, and\nmany of the names we give to our emotions are derived from ancient words for physical sensations.\nFor example, ‘anguish’, ‘angst’, “anger” and ‘anxiety’ all stem from the Latin angere, which means\n‘to choke’—a reference to the tightness in the throat often associated with such emotions. For the\nsake of clarity, whenever I use the terms “emotions” and ‘feelings’, I am referring primarily to the\nphysical sensations and urges that we experience, rather than to the meanings or thoughts associated\nwith them.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_093_0cd81fbd",
+    "extractor": "openai",
+    "generation_rules": [
+      "Describe physical sensations and urges explicitly",
+      "Connect emotions to associated thoughts, memories, and images",
+      "Clarify distinction between physical sensations and cognitive meanings of emotions"
+    ],
+    "pause_rules": [
+      "Pause after listing physical sensations and urges to allow reflection",
+      "Pause when transitioning from physical descriptions to cognitive explanations"
+    ],
+    "psychological_function": "Linking emotions to thoughts, memories, and mental images; understanding the process of making sense of or giving meaning to emotional experiences.",
+    "repetition_rules": [
+      "Repeat examples of physical sensations and urges to reinforce recognition",
+      "Reiterate the connection between emotions and associated thoughts or images"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_093",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Latin roots of emotion words illustrating physical sensations (e.g., angere meaning 'to choke' linked to tightness in throat)"
+    ],
+    "therapeutic_function": "Identification and awareness of physical sensations, urges, and action tendencies associated with emotions to facilitate emotional recognition and regulation.",
+    "voice_rules": [
+      "Use clear, descriptive language focusing on observable physical and psychological phenomena",
+      "Avoid conflating emotions with their cognitive interpretations"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_093_0cd81fbd",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_093",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:54+00:00"
+}

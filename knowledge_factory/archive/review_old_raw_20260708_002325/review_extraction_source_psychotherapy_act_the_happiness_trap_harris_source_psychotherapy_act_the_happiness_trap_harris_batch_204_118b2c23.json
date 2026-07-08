@@ -1,0 +1,47 @@
+{
+  "created_at": "2026-07-07T21:53:49+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_204_118b2c23",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "workplace behavior",
+      "personal qualities",
+      "relationships with colleagues",
+      "learning and education goals",
+      "recreational activities"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for clients with difficulty in abstract thinking or those experiencing acute distress that impairs reflective capacity."
+    ],
+    "evidence_text": "1. What sort of worker or employer would you like to be?\n\n---\n\n2. What personal qualities would you like to bring to the workplace?\n\n---\n\n3. How would you treat your co-workers/colleagues/employees if you were the ‘ideal you’ in your\nworkplace?\n\n---\n\n4. What sort of relationships do you want to build with your workers/colleagues/employees?\n\n---\n\n5. What sort of ongoing activities do you want to do with your workers/colleagues/employees?\n\n---\n\n6. What would make your work more meaningful (regardless of whether you like it)?\n\n---\n\nSometimes my clients write a long description of the ideal job they want. But in describing your\nideal job, you’re describing a goal. To get to your values around work, you need to ask, “If I did\nhave the job I want, how would I behave differently when I’m at work? What personal qualities\nwould I like to bring to it?’ Naturally, if you don’t like your current job, it makes sense to start\nretraining or looking around for more meaningful or satisfying work. So if you’ve written about the\nsort of work you’d ideally like, great—you can set yourself a goal to go out and find it. In the\nmeantime, you can make the most of whatever job you’re in by bringing your values into the\nworkplace. (Remember Fred, in the last chapter.)\n\n---\n\nValues Domain No.5: Education and Personal Development\n\n---\n\n1. What do you value about learning, education or training?\n\n---\n\n2. What new skills or knowledge would you like to gain?\n\n---\n\n3. What further education or training appeals to you?\n\n---\n\n4. What sort of student/trainee would you like to be?\n\n---\n\n5. What personal qualities would you like to bring to your studies or training?\n\n---\n\n6. What sort of relationships would you like to build with other students/trainees?\n\n---\n\nValues Domain No.6: Recreation, Fun and Leisure\n\n---\n\n1. What sorts of hobbies, sports or leisure activities do you want to participate in?\n\n---\n\n2. On an ongoing basis, how do you wish to relax and unwind?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_204_118b2c23",
+    "extractor": "openai",
+    "generation_rules": [
+      "Ask open-ended questions about ideal self and values in specific life domains to elicit detailed personal descriptions."
+    ],
+    "pause_rules": [
+      "Allow time after each question for client to reflect and respond."
+    ],
+    "psychological_function": "Promotes self-reflection on ideal behaviors, personal qualities, and relationships to enhance meaning and satisfaction in various life domains.",
+    "repetition_rules": [
+      "Repeat similar question structures across different values domains to reinforce reflection on personal qualities and relationships."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_204",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Facilitates identification and clarification of personal values related to work, education, and leisure to guide behavior and goal setting.",
+    "voice_rules": [
+      "Use second-person perspective to engage client in self-exploration."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_204_118b2c23",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_204",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:49+00:00"
+}

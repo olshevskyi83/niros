@@ -18,6 +18,7 @@ from niros.knowledge_workspace import (
 from niros.openai_semantic_extraction_adapter import (
     ChatCompletionClient,
     OpenAISemanticExtractionAdapter,
+    SemanticExtractionResult,
 )
 from niros.pdf_importer import PDFImporter
 from niros.raw_source import RawSourceCorpus
@@ -88,6 +89,14 @@ class KnowledgeFactoryPipeline:
             **kwargs,
         )
 
+    def extract_from_corpus_gated(
+        self,
+        corpus: RawSourceCorpus,
+        segment_id: str,
+    ) -> SemanticExtractionResult:
+        """Build a prompt and extract with a therapeutic relevance decision."""
+        return self.extraction_adapter.extract_from_corpus_gated(corpus, segment_id)
+
     def extract_from_corpus(
         self,
         corpus: RawSourceCorpus,
@@ -111,6 +120,25 @@ class KnowledgeFactoryPipeline:
         return self.review_workflow.create_pending_review(
             extraction,
             knowledge_domain=resolved_domain,
+        )
+
+    def create_pending_consolidated_review(
+        self,
+        candidate: Any,
+        *,
+        knowledge_domain: str | None = None,
+        therapeutic_relevance: dict[str, Any] | None = None,
+    ) -> HumanReviewRecord:
+        """Create a pending human review for one consolidated candidate pattern."""
+        from niros.knowledge_domain import KNOWLEDGE_DOMAIN_UNKNOWN
+
+        resolved_domain = (
+            KNOWLEDGE_DOMAIN_UNKNOWN if knowledge_domain is None else knowledge_domain
+        )
+        return self.review_workflow.create_pending_consolidated_review(
+            candidate,
+            knowledge_domain=resolved_domain,
+            therapeutic_relevance=therapeutic_relevance,
         )
 
     def approve_review(

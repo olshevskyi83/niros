@@ -1,0 +1,61 @@
+{
+  "created_at": "2026-07-07T21:49:16+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_120_38abddc9",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "physical sensations of distress",
+      "urge to avoid or get rid of unpleasant feelings",
+      "self-critical or negative thoughts about sensations"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for clients with severe dissociation or trauma without additional support"
+    ],
+    "evidence_text": "Russ: Well, of course your mind will tell you that you can’t. So thank it again, and let’s give it a go.\n(Donna sighs heavily, then nods her head.) Okay. Now, I want you to scan your body from head to\ntoe and notice what physical sensations you can feel. And as you’re doing that, take a few very\nslow, very deep breaths.\n\n---\n\nDonna: Okay. (She closes her eyes and takes a few slow, deep breaths.)\n\n---\n\nDonna: There’s a big lump, up here, in my throat.\n\n---\n\nDonna: A pressure, here. (She places a hand on her chest.) Like a heavy weight.\n\n---\n\nRuss: Which of those sensations bothers you the most?\n\n---\n\nRuss: Okay. Now, I want you to focus on that sensation and observe it as if you’re a friendly\nscientist, who has never seen anything like this before. Just keep breathing slowly and observe it.\n\n---\n\nRuss: Now, study that sensation carefully; learn as much about it as you can. Where does it start\nand stop? Where are its edges? If you had to draw an outline, what shape would it have?\n\n---\n\nDonna: It’s like a circle, in the centre of my chest.\n\n---\n\nRuss: Okay. So it’s shaped like a rock. And it’s heavy?\n\n---\n\nRuss: Okay. So it’s like a cold, heavy, tingling rock, right in the centre of your chest. Now, I want\nyou to breathe into it. Imagine your breath is flowing into it and around it.\n\n---\n\nDonna: Okay. (She nods her head and takes a long, deep breath.)\n\n---\n\nRuss: And as that happens, it’s as if you are in some sense expanding. You’re opening up and\n\n---\n\nRuss: Okay. Well, acknowledge that urge to get rid of it and just keep going, observing and\nbreathing into it. I’m not asking you to like this feeling, or want it, or approve of it in any way. Just\nsee if you can allow it to be there, without fighting it.\n\n---\n\nRuss: Thank your mind for that thought and come back to observing. Remember, I’m not asking\nyou to think about this sensation; I’m asking you to observe it. You’ve been living with this feeling\nfor six months now. A little bit longer won’t hurt you.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_120_38abddc9",
+    "extractor": "openai",
+    "generation_rules": [
+      "Guide client to scan body and notice sensations",
+      "Encourage slow, deep breathing",
+      "Instruct client to observe sensations as a neutral scientist",
+      "Prompt detailed exploration of sensation's qualities",
+      "Invite breathing into the sensation",
+      "Acknowledge urges to avoid but maintain observation",
+      "Thank mind for thoughts and return focus to observation"
+    ],
+    "pause_rules": [
+      "Allow pauses for client to notice sensations and breathe deeply",
+      "Pause after questions to give time for reflection and response"
+    ],
+    "psychological_function": "Promotes non-reactive observation of bodily sensations, reduces experiential avoidance, and encourages cognitive defusion from distressing thoughts.",
+    "repetition_rules": [
+      "Repeat prompts to observe and breathe into sensations",
+      "Reinforce returning attention to observation after distractions or urges"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_120",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "lump in throat",
+      "heavy weight in chest",
+      "cold, heavy, tingling rock",
+      "breath flowing into and around the sensation",
+      "friendly scientist observing"
+    ],
+    "therapeutic_function": "Facilitates mindful awareness and acceptance of uncomfortable physical sensations without avoidance or judgment.",
+    "voice_rules": [
+      "Use gentle, encouraging, and non-judgmental tone",
+      "Model acceptance and curiosity",
+      "Avoid directive or confrontational language"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_120_38abddc9",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_120",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:16+00:00"
+}

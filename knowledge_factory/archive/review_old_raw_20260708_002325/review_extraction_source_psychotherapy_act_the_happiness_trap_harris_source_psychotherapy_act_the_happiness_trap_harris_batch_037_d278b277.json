@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:44:33+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_037_d278b277",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant thoughts and feelings",
+      "avoidance behaviors",
+      "sense of unworthiness",
+      "need for approval"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective or require adaptation for individuals with limited self-awareness or severe cognitive impairments."
+    ],
+    "evidence_text": "Great advice about how to improve your life comes at you from all directions: find a meaningful\njob, do this great workout, connect with friends and family, get out in nature, take up a hobby, join\na club, contribute to a charity, learn new skills, get involved in your community and so on. And all\nthese activities can be deeply satisfying if you do them because they are genuinely important and\nmeaningful to you. But if these activities are used mainly to dodge unpleasant thoughts and\nfeelings, chances are, they won’t be very rewarding. It’s hard to appreciate life when you’re running\naway from something threatening.\n\n---\n\nRemember Michelle, who seems to have everything she wants in life and yet she’s not happy?\nMichelle’s life is driven by avoiding feelings of unworthiness. She is plagued by thoughts like, ‘I’m\na lousy wife’, “Why am I so inadequate?’ and ‘Nobody likes me’, along with all the accompanying\nfeelings of guilt, anxiety, frustration and disappointment.\n\n---\n\nMichelle works hard to make those thoughts and feelings go away. She pushes herself to excel at\nher job, frequently working late to accommodate others; she dotes on her husband and kids and\ncaters to their every whim; she tries to please everyone in her life, always putting their needs in\nfront of her own. The toll this takes on her is enormous. And does it get rid of those upsetting\nthoughts and feelings? You guessed it. By continually putting herself last and working so hard to\nwin others’ approval, she merely reinforces her sense of unworthiness. She is well and truly stuck in\nthe happiness trap.\n\n---\n\nIncreasing your self-awareness is the first step. Notice all the little things you do each day to dodge,\nchange or blot out unpleasant thoughts and feelings. And when you find yourself using these\ncontrol strategies, notice the consequences.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_037_d278b277",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage noticing daily behaviors aimed at dodging or changing unpleasant internal experiences.",
+      "Focus on observing consequences of control strategies rather than attempting immediate change."
+    ],
+    "pause_rules": [
+      "Pause to allow reflection on personal avoidance behaviors and their outcomes."
+    ],
+    "psychological_function": "Highlight the impact of experiential avoidance on emotional well-being and promote mindful recognition of thoughts and feelings without attempting to change or avoid them.",
+    "repetition_rules": [
+      "Repeat the concept that avoidance strategies often reinforce the very feelings they aim to eliminate."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_037",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "happiness trap",
+      "running away from something threatening"
+    ],
+    "therapeutic_function": "Increase self-awareness of avoidance behaviors and their consequences to reduce reliance on control strategies that reinforce negative self-perceptions.",
+    "voice_rules": [
+      "Use examples and relatable narratives (e.g., Michelle) to illustrate concepts.",
+      "Adopt a non-judgmental, observational tone."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_037_d278b277",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_037",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:33+00:00"
+}

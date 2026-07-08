@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-07-07T21:46:18+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_067_f53a6abf",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant thoughts",
+      "unpleasant feelings",
+      "anxiety",
+      "control strategies"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Using defusion as a method to control or eliminate feelings may lead to frustration"
+    ],
+    "evidence_text": "If your life isn’t working for you, the only sensible thing is to take action to change it. That action\nwill be far more effective when you start from a place of acceptance. All the time and energy that\nyou waste on struggling with thoughts and feelings could be far more usefully invested in taking\naction—the right action. A rich, full and meaningful life comes about through accepting your\nthoughts and feelings instead of fighting them, and taking effective action, guided by your deepest\nvalues.\n\n---\n\nSo what are the costs of non-acceptance? What happens in the long run when you try to avoid or get\nrid of unpleasant thoughts and feelings? Do your control strategies work? Are they giving you the\nlife you want? Acceptance is a powerful alternative to control. You’ve already discovered that\nmany unpleasant thoughts are far less painful when defused, and in later chapters you’ll discover\nsimilar transformations with negative feelings.\n\n---\n\nNow let’s return to John’s comment that ‘defusion doesn’t work’. John was trying to use defusion\nto get rid of his anxiety. No wonder it ‘didn’t work’! Defusion is not some clever way to control\nyour feelings. It’s simply an acceptance technique. True, defusing unhelpful thoughts will often\nreduce feelings of anxiety, but that’s just a beneficial byproduct; a bonus—it’s not the main thing. If\nyou try to use defusion to control anxiety—or any unpleasant feeling, for that matter—sooner or\nlater you’ll end up frustrated.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_067_f53a6abf",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage acceptance rather than control of internal experiences",
+      "Promote taking effective action aligned with personal values",
+      "Use defusion as an acceptance technique, not a control method"
+    ],
+    "pause_rules": [],
+    "psychological_function": "Facilitates defusion from unpleasant thoughts and feelings, reducing their impact without attempting control",
+    "repetition_rules": [
+      "Reinforce the distinction between acceptance and control repeatedly",
+      "Emphasize the benefits of acceptance over struggling with thoughts and feelings"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_067",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Promotes acceptance of thoughts and feelings to reduce struggle and increase effective action guided by values",
+    "voice_rules": [
+      "Use explanatory and corrective tone to clarify misconceptions about defusion",
+      "Encourage reflective questioning about control strategies and their effectiveness"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_067_f53a6abf",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_067",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:18+00:00"
+}

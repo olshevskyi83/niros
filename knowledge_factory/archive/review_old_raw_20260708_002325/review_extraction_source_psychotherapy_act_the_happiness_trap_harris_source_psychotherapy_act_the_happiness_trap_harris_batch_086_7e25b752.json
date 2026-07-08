@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:47:30+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_086_7e25b752",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Troublesome mental images",
+      "Negative memories",
+      "Unpleasant or distressing thoughts"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text."
+    ],
+    "evidence_text": "Instead of Naming the Story, you can Name the Picture. For example, ‘Aha! The “lonely and\nmiserable” picture!” You can even Name the Memory—‘Aha! The “nasty rejection” memory!’ And\nyou can always say, ‘Thanks, Mind!’ for whatever picture it sends you. And here’s one final\ntechnique for troublesome images:\n\n---\n\nThis is most useful with moving images. First convert the image into a short ‘video clip’, then\nvisualise it on a television screen. Now try playing that ‘clip’ in different film genres. For example,\nimagine it as a gangster movie, a Western, a trashy soap opera, a sci-fi thriller, a Disney cartoon or\na musical. Each time you switch genres, change the clothes, sets and acting styles, but don’t try to\nalter what actually happens. Keep the basic story exactly the same. Play it over and over in different\ngenres until you can truly see that this is just a moving picture and nothing more.\n\n---\n\nRemember, defusion is all about acceptance. The idea is not to get rid of these images but to let go\nof struggling with them. Why should you accept them? Because the reality is, for the rest of your\nlife, in one form or another, scary pictures will appear. Remember, your mind evolved from a ‘don’t\nget killed’ device. It saved your ancestors’ hides by sending them warnings: an image of a bear\nsleeping in the back of that cave, or of a hungry sabre-toothed tiger crouched on that rock. So after a\nhundred thousand years of evolution, your mind is not suddenly going to say, ‘Oh, hang on a\nminute. All the wolves and bears have disappeared now—I don’t need to keep sending out these\nwarnings anymore.’ Sorry, but minds don’t work like that.\n\n---\n\nAgain, don’t believe this just because I say so—check your own experience. Despite everything\nyou've tried over the years, isn’t it a fact that your mind still produces unpleasant pictures? So we\nneed to learn how to live with these things—to pay them attention if they’re helpful, or let them\ncome and go if they’re not.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_086_7e25b752",
+    "extractor": "openai",
+    "generation_rules": [
+      "Convert mental images into short video clips",
+      "Visualize clips on a television screen",
+      "Play clips repeatedly in various film genres without changing the story"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "psychological_function": "Reduces emotional impact of negative thoughts/images by externalizing and recontextualizing them as mere 'pictures' or 'videos' that can be observed without attachment.",
+    "repetition_rules": [
+      "Play the mental image repeatedly in different genres until it is perceived as just a moving picture and loses its emotional grip."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_086",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Naming the picture or memory",
+      "Visualizing mental images as video clips",
+      "Playing clips in different film genres",
+      "Television screen visualization"
+    ],
+    "therapeutic_function": "Facilitates cognitive defusion by altering the perception of distressing mental images, promoting acceptance rather than struggle with them.",
+    "voice_rules": [
+      "Use phrases like 'Aha! The \"[description]\" picture!' or 'Thanks, Mind!' to acknowledge mental content without judgment"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_086_7e25b752",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_086",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:30+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-07-07T21:47:11+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_081_b6ed0cb2",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unwanted distressing thoughts",
+      "frightening mental images",
+      "cognitive fusion with thoughts",
+      "avoidance behaviors"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if this approach is suitable for individuals with severe psychosis or those unable to engage in metacognitive reflection."
+    ],
+    "evidence_text": "Roxy found she could sometimes push the image out of her head, but 1t wouldn’t stay away for\nlong, and when it returned it seemed to bother her even more than before. This commonly used, but\nineffective, control strategy is known as ‘thought suppression’. Thought suppression means actively\npushing distressing thoughts or images out of your head. For example, each time an unwanted\nthought or image appears, you might say to yourself, “No, don’t think about it!’ or ‘Stop it!’ or you\nmight just mentally shove it away. Research shows that although this method often gets rid of\ndistressing thoughts or images in the short term, after a while there is a rebound effect: the negative\nthoughts return in greater numbers and intensity than before.\n\n---\n\nMost of us have a tendency to conjure up frightening images of the future. How often have you\n‘seen yourself” failing, being rejected, making a fool of yourself, losing your job, getting sick,\ngrowing old and weak or getting into trouble of some kind? In a state of cognitive fusion, these\nmental pictures seem incredibly real, as if what we’re imagining were actually taking place, here\nand now. Naturally, this can create a lot of fear. To paraphrase Mark Twain, we live through many\nfrightening experiences in our lifetime, and most of them never happen.\n\n---\n\nUnpleasant or unnerving images will pop up again and again whenever we are faced with\nchallenges in life, and we can waste a lot of precious time dwelling on them or trying to get rid of\nthem. Moreover, 1f we completely fuse with these images, they may seem so frightening that they\nscare us away from doing the things we value. For example, many people avoid air travel because\ntheir minds conjure up images of the plane crashing. In cognitive fusion, we:\n\n---\n\n* react to them as if they are actually happening\n\n---\n\n* treat them as if they are an accurate prediction of the future.\n\n---\n\n* recognise that images are nothing more than pictures",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_081_b6ed0cb2",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify and label thought suppression as an ineffective control strategy",
+      "Recognize the rebound effect of suppressed thoughts",
+      "Distinguish mental images from reality",
+      "Highlight the tendency to fuse with thoughts and treat them as accurate predictions"
+    ],
+    "pause_rules": [
+      "Pause after explaining the rebound effect to allow reflection",
+      "Pause when introducing the concept of cognitive fusion to emphasize its impact"
+    ],
+    "psychological_function": "Increase awareness of the nature of thoughts and images as mental events rather than literal truths; decrease fear and avoidance behaviors linked to cognitive fusion with distressing mental images.",
+    "repetition_rules": [
+      "Reinforce the idea that mental images are not accurate predictions",
+      "Repeat the concept that thought suppression leads to rebound effects"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_081",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "mental images",
+      "frightening pictures of the future",
+      "thought suppression as pushing away or shoving thoughts"
+    ],
+    "therapeutic_function": "Reduce distress caused by unwanted thoughts and images by addressing ineffective control strategies such as thought suppression and cognitive fusion.",
+    "voice_rules": [
+      "Use explanatory and clarifying language to describe cognitive fusion and thought suppression",
+      "Use examples to illustrate concepts (e.g., air travel fear)"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_081_b6ed0cb2",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_081",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:11+00:00"
+}

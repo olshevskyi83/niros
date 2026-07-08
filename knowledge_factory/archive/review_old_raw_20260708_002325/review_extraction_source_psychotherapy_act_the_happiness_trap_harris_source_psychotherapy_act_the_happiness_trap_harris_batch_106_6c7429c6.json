@@ -1,0 +1,44 @@
+{
+  "created_at": "2026-07-07T21:48:33+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_106_6c7429c6",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "emotions",
+      "emotional judgments",
+      "family emotional patterns",
+      "emotional control strategies"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "* As you were growing up, what messages were you given about emotions?\n\n---\n\n¢ Which emotions were you told were desirable or undesirable?\n\n---\n\n¢ What were you told about the best way to handle your emotions?\n\n---\n\n¢ What emotions did your family freely express?\n\n---\n\n¢ What emotions did your family suppress or frown on?\n\n---\n\n¢ With what emotions was your family comfortable?\n\n---\n\n¢ With what emotions was your family uncomfortable?\n\n---\n\n¢ How did the adults in your family handle their own ‘negative’ emotions?\n\n---\n\n¢ What emotional control strategies did they use?\n\n---\n\n* How did the adults in your family react to your ‘negative’ emotions?\n\n---\n\n¢ What did you learn from observing all this as you grew up?\n\n---\n\n* Asa result of all this programming, what ideas are you still carrying around today about your\nemotions and how to handle them?\n\n---\n\nOne reason we tend to judge emotions as ‘bad’ or ‘negative’ is because they feel unpleasant; they\ncreate uncomfortable sensations in our bodies. We don’t like those sensations, so we don’t want\nthem. On the other hand, we do like pleasant sensations, so naturally, we want more of them.\n\n---\n\nIf you judge an emotion as ‘good’, you’ll probably try hard to get more of it; and if you judge it as\n‘bad’, you’re apt to try even harder to get rid of it. Thus, judging sets you up for a struggle with\nyour feelings.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_106_6c7429c6",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use reflective questioning to explore personal emotional history and learned beliefs."
+    ],
+    "pause_rules": [
+      "Pause after each question to allow for internal reflection and response."
+    ],
+    "psychological_function": "Promotes recognition of emotional conditioning and challenges the dichotomy of 'good' and 'bad' emotions to foster acceptance.",
+    "repetition_rules": [
+      "Repeat questions about emotions and family emotional responses to deepen insight."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_106",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Facilitates awareness and examination of learned emotional messages and judgments to reduce struggle with emotions.",
+    "voice_rules": [
+      "Use inquisitive and exploratory tone to encourage self-reflection."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_106_6c7429c6",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_106",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:33+00:00"
+}

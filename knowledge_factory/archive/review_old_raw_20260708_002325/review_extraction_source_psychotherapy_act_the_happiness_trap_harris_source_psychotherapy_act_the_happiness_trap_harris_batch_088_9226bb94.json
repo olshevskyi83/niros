@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-07-07T21:47:38+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_088_9226bb94",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "anxiety",
+      "resentment",
+      "miserableness",
+      "loneliness",
+      "fear of distressing thoughts or emotions",
+      "experiential avoidance"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text."
+    ],
+    "evidence_text": "The problem is, eventually you get fed up of being at sea. You get bored and lonely, miserable,\nresentful and anxious. You see plenty of other ships heading into shore, but not yours. ‘What sort of\nlife is this?’ you think. ‘That land over there—that’s where I want to be heading.’ But the demons\ndown below aren’t particularly interested in what you want. They want to stay out at sea and that’s\nfinal! So the moment you start heading for land, they swarm up onto the deck and start threatening\nyou again.\n\n---\n\nThe interesting thing is, although these demons threaten you, they never actually cause you any\nphysical harm. Why not? Because they can’t! All they can do is growl and wave their claws and\nlook terrifying—physically they can’t even touch you. And once you realise this, you’re free. It\nmeans you can take your ship wherever you want—as long as you’re willing to accept the demons’\npresence. All you have to do to reach land is accept that the demons are above deck, accept that\nthey’re doing their level best to scare you, and keep steering the ship toward shore. The demons\nmay howl and protest, but they’re powerless, because their power relies totally on your belief in\ntheir threats.\n\n---\n\nBut if you’re not willing to accept these demons, if you’ve got to keep them below deck at all costs,\nthen your only option is to stay adrift, at sea. Of course, you can try to throw the demons overboard,\nbut while you’re busy doing that no one is steering the ship, so you run the risk of crashing into\nrocks or capsizing. Besides that, it’s a struggle you could never win, because there’s an infinite\nnumber of those demons in the hold.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_088_9226bb94",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphor of ship and demons to illustrate internal struggle and acceptance.",
+      "Emphasize that demons cannot cause physical harm, only psychological threat.",
+      "Highlight that power of demons depends on belief in their threats.",
+      "Encourage acceptance of demons' presence to enable movement toward goals."
+    ],
+    "pause_rules": [
+      "Pause after introducing the metaphor and after key realizations about the demons' powerlessness to allow reflection."
+    ],
+    "psychological_function": "Reduces experiential avoidance by encouraging acknowledgment and acceptance of negative thoughts and emotions without attempting to suppress or eliminate them.",
+    "repetition_rules": [
+      "Reinforce the idea that demons threaten but cannot harm physically and that acceptance allows freedom to act."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_088",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "ship at sea",
+      "demons below deck",
+      "demons on deck",
+      "steering toward shore",
+      "land as a goal or desired state"
+    ],
+    "therapeutic_function": "Facilitates acceptance of distressing internal experiences (demons) to enable continued goal-directed behavior (steering the ship toward shore) despite discomfort.",
+    "voice_rules": [
+      "Use direct, conversational tone addressing the listener's internal experience.",
+      "Employ metaphorical language to externalize internal struggles."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_088_9226bb94",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_088",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:38+00:00"
+}

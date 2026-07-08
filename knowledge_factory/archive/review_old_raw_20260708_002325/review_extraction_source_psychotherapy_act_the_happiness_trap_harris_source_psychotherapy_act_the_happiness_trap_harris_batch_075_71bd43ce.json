@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:46:50+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_075_71bd43ce",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative automatic thoughts",
+      "ruminative thinking",
+      "self-critical inner dialogue"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text"
+    ],
+    "evidence_text": "Our thinking self is a bit like a radio, constantly playing in the background. Most of the time it’s the\nRadio Doom and Gloom Show, broadcasting negative stories 24 hours a day. It reminds us of bad\nthings from the past, it warns us of bad things to come in the future and it gives us regular updates\non everything that’s wrong with us. Once in a while it broadcasts something useful or cheerful, but\nnot too often. So if we’re constantly tuned in to this radio, listening to it intently and, worse,\nbelieving everything we hear, then we have a sure-fire recipe for stress and misery.\n\n---\n\nUnfortunately, there’s no way to switch off this radio. Even Zen masters are unable to achieve such\na feat. Sometimes the radio will stop of its own accord for a few seconds (or even—very rarely—\nfor a few minutes). But we just don’t have the power to make it stop (unless we short-circuit it with\ndrugs, alcohol or brain surgery). In fact, generally speaking, the more we try to make this radio\nstop, the louder it plays.\n\n---\n\nBut there is an alternative approach. Have you ever had a radio playing in the background, but you\nwere so intent on what you were doing that you didn’t really listen to it? You could hear the radio\nplaying, but you weren’t paying attention to it. In practising defusion skills, we are ultimately\naiming to do precisely that with our thoughts. Once we know that thoughts are just bits of language,\nwe can treat them like background noise—we can let them come and go without focusing on them\nand without being bothered by them. This is best exemplified by the Thanking Your Mind\ntechnique (see Chapter 5): an unpleasant thought appears, but instead of focusing on it, you simply\nacknowledge its presence, thank your mind, and return your attention to what you’re doing.\n\n---\n\nSo here’s what we’re aiming for with all these defusion skills:",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_075_71bd43ce",
+    "extractor": "openai",
+    "generation_rules": [
+      "Acknowledge the presence of unpleasant thoughts without focusing on them",
+      "Treat thoughts as transient bits of language",
+      "Return attention to present activity after acknowledging thoughts"
+    ],
+    "pause_rules": [
+      "Allow brief moments where the 'radio' (thoughts) may stop naturally, but do not attempt to force cessation"
+    ],
+    "psychological_function": "Decrease stress and misery by altering the relationship to negative self-talk and intrusive thoughts, promoting non-engagement and acceptance.",
+    "repetition_rules": [
+      "Repeatedly practice defusion skills to habituate non-engagement with negative thoughts"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_075",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "radio broadcasting negative stories",
+      "Radio Doom and Gloom Show",
+      "radio playing in the background",
+      "Thanking Your Mind technique"
+    ],
+    "therapeutic_function": "Reduce the impact of negative automatic thoughts by practicing cognitive defusion, allowing thoughts to be experienced as background noise rather than literal truths.",
+    "voice_rules": [
+      "Use a metaphorical voice likening thoughts to a radio broadcast",
+      "Maintain a neutral, accepting tone towards thoughts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_075_71bd43ce",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_075",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:50+00:00"
+}

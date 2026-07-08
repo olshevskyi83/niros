@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-07-07T21:43:25+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_016_2cee6db5",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative thoughts",
+      "negative images"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "techniques may only provide temporary relief",
+      "negative thoughts tend to return despite efforts",
+      "not effective for long-term elimination of negative thoughts"
+    ],
+    "evidence_text": "The overwhelming majority of self-help programs subscribe to Myth 4. For example, many\napproaches teach you to identify negative thoughts and replace them with more positive ones. Other\napproaches encourage the repetition of positive affirmations such as, ‘Everything that happens is for\nmy highest good and greatest joy’, or ‘I am strong, able and capable at all times’. Still other\napproaches encourage you to visualise what you want, to vividly imagine yourself the way you\nwant to be, living the life you dream of. The basic theme of all these approaches is this: if you\nchallenge your negative thoughts or images and, instead, repeatedly fill your head with positive\nthoughts and images, you will find happiness. If only life were that simple!\n\n---\n\nI’m willing to bet that you’ve already tried countless times to think more positively about things\nand yet those negative thoughts keep coming back again and again. As we saw in the last chapter,\nour minds have evolved over a hundred thousand years to think the way they do, so it’s not likely\nthat a few positive thoughts or affirmations will change them all that much! It’s not that these\ntechniques have no effect; they can often make you feel better temporarily. But they will not get rid\nof negative thoughts over the long term.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_016_2cee6db5",
+    "extractor": "openai",
+    "generation_rules": [
+      "repetition of positive affirmations",
+      "vivid imagination of desired outcomes"
+    ],
+    "pause_rules": [],
+    "psychological_function": "Attempt to replace negative thoughts with positive ones to increase happiness",
+    "repetition_rules": [
+      "repeated filling of mind with positive thoughts and images"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_016",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "positive affirmations",
+      "visualization of desired self and life"
+    ],
+    "therapeutic_function": "Use of positive affirmations and visualization to challenge negative thoughts and promote temporary improvement in mood",
+    "voice_rules": [
+      "affirmations stated in first person, present tense"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_016_2cee6db5",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_016",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:25+00:00"
+}

@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-07-07T21:48:55+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_113_8592d6d2",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "anxiety",
+      "depression",
+      "addiction",
+      "schizophrenia",
+      "emotional tension",
+      "internal struggle"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text."
+    ],
+    "evidence_text": "With expansion, we’re intending the very opposite. Instead of squeezing down, we’re opening up.\nInstead of increasing tension, we’re releasing it. Instead of contracting, we’re expanding.\n\n---\n\nWe also commonly talk about being ‘under pressure’. And then we talk of needing ‘room’ or\n‘breathing space’. It’s exactly the same when it comes to our own feelings: if we feel ‘pressure’\nbuilding, we need to give them space. Fighting or avoiding our feelings does not create room for\nthem—expansion does.\n\n---\n\nWhen you hear the term ‘expanse of water’ or ‘expanse of sky’, what comes to mind? Most people\nimagine a vast, open space. This is what we are aiming for in expansion: to open up to our feelings\nand make plenty of room for them. This will ease the pressure, lighten the tension and free those\nfeelings to move. Sometimes they will move very rapidly; sometimes they will move more slowly.\nBut as long as we make room for them, they will move. And more importantly, expansion frees us\nto invest our energy in creating a better life, rather than wasting it in useless struggles.\n\n---\n\n“Hang on a minute,’ you may say, ‘if I make room for these emotions, they”1l ride roughshod over\nme—I’II lose control!”\n\n---\n\nThough this is a common fear, it isn’t based in fact. Remember, ACT has been proven effective\n\n---\n\nwith a wide range of psychological problems, from anxiety and depression to addiction and even\nschizophrenia. So if your thinking self is telling you scary stories ... simply thank it.\n\n---\n\nThe process of expansion primarily involves the observing self, not the thinking self, so let’s just\ntake a moment to recap their differences.\n\n---\n\nThe thinking self is responsible for thinking, in the broadest sense of the word; it produces all our\nthoughts, judgements, images, fantasies and memories; and is commonly called ‘the mind’.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_113_8592d6d2",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage opening up rather than contracting",
+      "Create mental space for feelings instead of fighting them",
+      "Use imagery of vast open spaces to conceptualize expansion"
+    ],
+    "pause_rules": [
+      "Include moments to reflect on the difference between thinking self and observing self and to notice feelings moving."
+    ],
+    "psychological_function": "Facilitates the observing self to notice and allow feelings without fighting or avoidance, reducing struggle and fear of losing control.",
+    "repetition_rules": [
+      "Reinforce the contrast between contraction and expansion, and the difference between thinking self and observing self."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_113",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "expanse of water",
+      "expanse of sky",
+      "breathing space",
+      "pressure",
+      "room"
+    ],
+    "therapeutic_function": "Expansion involves opening up to feelings, releasing tension, and making room for emotions to move, which eases pressure and frees energy for constructive life actions.",
+    "voice_rules": [
+      "Acknowledge common fears without reinforcing them",
+      "Use a calm, observing perspective distinct from the thinking self",
+      "Thank the thinking self for its input without engaging in its stories"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_113_8592d6d2",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_113",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:55+00:00"
+}

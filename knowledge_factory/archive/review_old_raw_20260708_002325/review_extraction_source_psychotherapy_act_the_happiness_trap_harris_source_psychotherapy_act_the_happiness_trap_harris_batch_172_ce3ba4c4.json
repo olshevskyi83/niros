@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:51:57+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_172_ce3ba4c4",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "fear of rejection or disapproval",
+      "habitual people-pleasing behavior",
+      "anxiety related to assertiveness",
+      "difficulty setting boundaries"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text"
+    ],
+    "evidence_text": "Remember Michelle, whose life revolved around trying to push away deep feelings of\nunworthiness? Her boss frequently asked her to do extra work and she had always stayed late to do\nit, trying to prove that she was worthy. As therapy progressed, Michelle wanted to break this habit,\nbecause she realised it was taking valuable time away from her family. (And also there was no extra\npay for all that extra work!) Saying yes to her boss was a hard habit to break. She’d been doing it\nher entire working life and the thought of saying no brought up all sorts of fears. (“What if he gets\nangry?’ ‘What if he thinks I’m lazy?’) But Michelle was willing to feel that fear in order to take her\nlife in the direction she wanted.\n\n---\n\nWell, the next time her boss made an urgent request only ten minutes before the close of the day,\nMichelle felt an immediate urge to say yes. But this time she didn’t. Instead she took a long, deep\nbreath. Those few seconds were enough for her to collect her wits and say, ‘I’m sorry, I can’t do\nthat now. I have to go home. PII deal with it first thing tomorrow morning.’\n\n---\n\nHer boss looked astounded. Michelle’s anxiety skyrocketed and her mind started telling her all sorts\nof horror stories. But she connected with her breathing, made room for her thoughts and feelings,\nand remained focused on the situation at hand. There was an awkward pause that seemed to last\nseveral hours and then, to Michelle’s astonishment, her boss just smiled and said, ‘That’\nll be fine.’\n\n---\n\nIf you really want to get super-duper, whiz-bang brilliant at connection, put aside ten minutes every\nday to practise Breathing to Connect, as outlined below.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_172_ce3ba4c4",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use mindful breathing to create a pause before responding to requests",
+      "Acknowledge and make room for anxious thoughts and feelings without immediate reaction",
+      "Choose actions aligned with personal values despite fear"
+    ],
+    "pause_rules": [
+      "Introduce a deliberate pause before responding to emotionally charged requests to allow for mindful choice"
+    ],
+    "psychological_function": "Promotes emotional regulation through mindful breathing and cognitive defusion, allowing the individual to observe and make room for anxious thoughts and feelings without being overwhelmed.",
+    "repetition_rules": [
+      "Practice mindful breathing daily to strengthen connection and emotional regulation skills"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_172",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "breathing as a grounding technique",
+      "pause as a moment of choice and self-connection"
+    ],
+    "therapeutic_function": "Facilitates behavior change by increasing awareness and acceptance of difficult emotions, enabling the individual to act in alignment with personal values rather than automatic fear-driven responses.",
+    "voice_rules": [
+      "Encourage self-compassion and acceptance of internal experiences",
+      "Use a calm and grounding tone to guide breathing and reflection"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_172_ce3ba4c4",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_172",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:57+00:00"
+}

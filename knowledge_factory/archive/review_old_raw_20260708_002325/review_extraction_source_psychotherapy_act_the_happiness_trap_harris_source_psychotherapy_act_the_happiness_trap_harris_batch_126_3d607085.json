@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:49:35+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_126_3d607085",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Unpleasant emotions (fear, sadness, anger, frustration, disappointment)",
+      "Experiential avoidance",
+      "Lack of value-driven behavior"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; not specified in the text"
+    ],
+    "evidence_text": "Pleasant feelings such as satisfaction, joy and love are natural byproducts of living by your values.\nBut they aren’t the only ones. Other byproducts include uncomfortable emotions such as fear,\nsadness, anger, frustration and disappointment. You can’t have just the pleasant feelings without all\nthe others. That’s why it’s important to learn how to accept all your feelings—pleasant, neutral and\nunpleasant.\n\n---\n\nQ: Lots of self-help approaches suggest that when we are feeling bad we should try things like\nhaving a hot bath, listening to music, reading a good book, savouring a hot chocolate, getting a\nmassage, walking the dog, playing a sport we love, spending time with friends, and so on. Are you\nsuggesting we shouldn’t try such activities?\n\n---\n\nA: This is similar to a question I answered in Chapter 2. I’m sure you’ve had plenty of great advice\nfrom all sorts of sources about helpful activities to try when you’re feeling ‘bad’. And most of\nthese activities can be deeply satisfying—as long as you genuinely value them; that is, as long as\nyou engage in them out of a sense that they are truly meaningful to you. But if you do these\nactivities mainly to run away from unpleasant feelings, they aren’t likely to be all that rewarding—\nit’s hard to appreciate life when you’re on the run from something threatening.\n\n---\n\nTherefore, in ACT, acceptance always comes first. First you make room for your feelings and\nallow them to be exactly as they are. Then you ask, ‘What can I do right now that is truly\nmeaningful or important?” This is very different from asking, * How canI feel better?” Then, once\nyou’ve identified an activity you truly value, go ahead and take action.\n\n---\n\nYou can remember these three steps with a simple acronym:",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_126_3d607085",
+    "extractor": "openai",
+    "generation_rules": [
+      "First accept feelings as they are",
+      "Then ask what is truly meaningful or important to do now",
+      "Finally, take action on the identified valued activity"
+    ],
+    "pause_rules": [
+      "Pause after acceptance step to allow emotional space before moving to action planning"
+    ],
+    "psychological_function": "Encourages emotional acceptance, reduces experiential avoidance, and enhances value-driven behavior.",
+    "repetition_rules": [
+      "Repeat the three-step process (acceptance, identify values, act) to reinforce learning"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_126",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Acronym representing three steps: acceptance, identifying meaningful action, taking action"
+    ],
+    "therapeutic_function": "Facilitates acceptance of all emotions (pleasant, neutral, unpleasant) and promotes engagement in meaningful activities aligned with personal values.",
+    "voice_rules": [
+      "Use a guiding and validating tone emphasizing acceptance before action",
+      "Distinguish between acting to avoid feelings and acting from values"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_126_3d607085",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_126",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:35+00:00"
+}

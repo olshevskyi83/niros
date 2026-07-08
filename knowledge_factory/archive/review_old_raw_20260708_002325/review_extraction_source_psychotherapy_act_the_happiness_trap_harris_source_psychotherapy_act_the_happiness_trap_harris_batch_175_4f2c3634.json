@@ -1,0 +1,45 @@
+{
+  "created_at": "2026-07-07T21:52:10+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_175_4f2c3634",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unhelpful judgements",
+      "negative self-evaluations",
+      "struggle with feelings or reality"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text."
+    ],
+    "evidence_text": "The thinking self, on the other hand, /oves to judge—that’s what it does all day long, day in and day\nout. Go back a hundred thousand years and this makes good sense. Our ancestors needed to make\njudgements to stay alive: ‘Is that dark shape a boulder or a bear?’ ‘Is this fruit safe to eat or\npoisonous?’ ‘Is that person in the distance friend or foe?’ If our ancestors made the wrong\njudgement, they could end up paying with their lives. So over the course of a hundred thousand\nyears our mind became very good at judging and, as a result, today it never stops. ‘This shouldn’t\nbe happening’, ‘She can’t do that’, “This is bad”, ‘That sucks’, ‘It’s just not fair!’\n\n---\n\nObviously, the ability to judge is vital to our wellbeing. But as we have already seen, many of the\nmind’s judgements are extremely unhelpful. All too often they set us up for a struggle—with\nourselves, our feelings or reality itself. As with any unhelpful thought, the aim in ACT is to let such\njudgements come and go; rather than buying into them, we can simply acknowledge, ‘It’s a\njudgement.’\n\n---\n\nIn using the thinking self to assist in connection, we need to consciously put aside judgemental\nways of talking, and instead use factual descriptions.\n\n---\n\nWhat do I mean by ‘factual descriptions’? Well, here’s an example: ‘Julia Roberts is a film actress.’\nCompare this with a few judgemental descriptions:\n\n---\n\n¢ Julia Roberts is a wonderfully talented actress.\n\n---\n\n* Julia Roberts gets paid too much for what she does.\n\n---\n\nIn the very first statement all you have are non-judgemental facts: she acts in films and she’s\nfemale. In the following three statements you have only judgements: she’s beautiful, she’s talented\nand she gets paid too much. None of these are facts; they’re only opinions.\n\n---\n\nWhen we make negative judgements about our experience, we can easily get into a struggle. But\nwhen we describe our experience in terms of facts, it helps us connect with what is actually\nhappening.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_175_4f2c3634",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use factual, non-judgemental descriptions instead of evaluative or opinion-based statements."
+    ],
+    "pause_rules": [
+      "Not specified in the text."
+    ],
+    "psychological_function": "Facilitates awareness of the mind's habitual judging process; encourages differentiation between judgements and facts; supports acceptance and non-struggle with internal experiences.",
+    "repetition_rules": [
+      "Not specified in the text."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_175",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "To reduce struggle with unhelpful thoughts by recognizing and allowing judgements to come and go without buying into them; to promote connection with reality through factual descriptions rather than judgemental language.",
+    "voice_rules": [
+      "Adopt a neutral, descriptive tone that avoids judgemental language."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_175_4f2c3634",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_175",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:10+00:00"
+}

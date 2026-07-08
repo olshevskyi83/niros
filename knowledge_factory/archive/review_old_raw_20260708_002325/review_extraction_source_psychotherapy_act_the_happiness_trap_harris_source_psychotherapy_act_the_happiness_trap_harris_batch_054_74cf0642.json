@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:45:37+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_054_74cf0642",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "rigid or inflexible beliefs",
+      "unhelpful or maladaptive thoughts",
+      "overattachment to beliefs"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective or confusing for individuals with severe cognitive impairments or those requiring concrete thinking; caution if overemphasis on 'just stories' leads to nihilism or disengagement."
+    ],
+    "evidence_text": "If the answer to any of these questions is yes, then the thought is helpful. If the answer to all of\nthem is no, then it’s probably not helpful.\n\n---\n\nIn Chapter 4, I discussed the concept that thoughts are basically just ‘stories’-—a bunch of words\nstrung together to tell us something. But if thoughts are just stories, then how do we know which\nones to believe? There are three parts to this answer. First, be wary of holding on to any belief too\ntightly. We all have beliefs, but the more tightly we hold on to them, the more inflexible we become\nin our attitudes and behaviours. If you’ve ever tried having an argument with someone who\nabsolutely believes they are right, then you know how pointless it is—they will never see any point\nof view other than their own. We describe them as being inflexible, rigid, narrow-minded, blinkered\nor ‘stuck in their ways’.\n\n---\n\nAlso, if you reflect on your own experience, you’ll recognise that your beliefs change over time;\nthat is, the beliefs that you once held tightly, you may now find laughable. For instance, at some\npoint you probably used to believe in Santa Claus, the Easter bunny, the tooth fairy or dragons,\ngoblins and vampires. And almost everyone changes some of their beliefs about religion, politics,\nmoney, family or health at some point, as they grow older. So by all means, have your beliefs—but\nhold them lightly. Keep in mind that all beliefs are stories, whether or not they’re ‘true’.\n\n---\n\nSecond, if a thought helps you to create a rich, full and meaningful life, then use it. Pay attention to\nit, and use it for guidance and motivation— and at the same time remember that it is still just a\nstory; a bit of human language. So use it, but don’t clutch it too tightly.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_054_74cf0642",
+    "extractor": "openai",
+    "generation_rules": [
+      "Evaluate thoughts by asking if they are helpful; if yes, use them, if no, discard them",
+      "Recognize that all beliefs are stories and subject to change",
+      "Hold beliefs lightly to avoid rigidity"
+    ],
+    "pause_rules": [
+      "Pause after presenting examples of changing beliefs to allow reflection; pause after key points about holding beliefs lightly."
+    ],
+    "psychological_function": "Reduces cognitive rigidity and inflexibility; fosters openness to changing beliefs; supports adaptive thinking and motivation through selective acceptance of helpful thoughts.",
+    "repetition_rules": [
+      "Reinforce the concept that thoughts are stories and beliefs change over time through examples and reminders."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_054",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "thoughts as stories",
+      "beliefs held lightly",
+      "stories of Santa Claus, Easter bunny, tooth fairy, dragons, goblins, vampires"
+    ],
+    "therapeutic_function": "Encourages cognitive flexibility by holding beliefs lightly and recognizing thoughts as stories rather than absolute truths; promotes using helpful thoughts to guide meaningful living without rigid attachment.",
+    "voice_rules": [
+      "Use a guiding and reflective tone to encourage self-examination of beliefs and thoughts",
+      "Avoid authoritative or dogmatic language to prevent reinforcing rigidity"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_054_74cf0642",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_054",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:37+00:00"
+}

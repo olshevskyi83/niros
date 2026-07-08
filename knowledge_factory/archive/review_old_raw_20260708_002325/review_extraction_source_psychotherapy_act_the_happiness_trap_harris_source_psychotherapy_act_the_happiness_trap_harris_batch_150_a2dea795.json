@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:50:52+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_150_a2dea795",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant experiences",
+      "familiar or mundane experiences",
+      "automatic negative reactions"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the segment"
+    ],
+    "evidence_text": "The good news is that the observing self is always present and available. Through it we can connect\nwith the vast length, breadth and depth of human experience, regardless of whether that experience\nis new and exciting or familiar and uncomfortable. The fascinating thing is that when, with an\nattitude of openness and interest, we bring our full attention to an unpleasant experience, the thing\nwe dreaded often seems much less bothersome than before. Likewise, when we truly connect with\neven the most familiar or mundane experience, we often see it in a new and interesting light. To\nexperience this for yourself, try the following exercise.\n\n---\n\nIn this exercise the aim is to take a fresh look at the book in your hands, to see it with ‘new eyes’.\nTherefore, imagine that you’re an alien from another planet and you’ve never seen an object like\nthis before. Pick up the book and feel the weight of it in your hands. Feel the cover against your\npalms. Run your finger down a page and notice the texture. Run your finger down the cover and\nnotice that texture, too. Bring the open book up to your nose and smell the paper. Slowly turn a\npage and listen to the sound it makes. Turn several pages and, along with listening to the sound,\nalso notice how the shadows change as the pages move. Grab about twenty pages between your\nindex finger and thumb, and gently flip them all at once. Notice the feeling, the sound and the\nmovement. Look at the front cover of the book. Notice how the light reflects off the surface. Notice\nthe borders where one colour meets another. Notice the shapes of the spaces between the words.\nThen do the same with the back cover. Pick any page at random and notice the shapes made by the",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_150_a2dea795",
+    "extractor": "openai",
+    "generation_rules": [
+      "Adopt an attitude of openness and interest",
+      "Bring full attention to present experience",
+      "Use imaginative perspective-taking (e.g., alien viewpoint)"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the segment"
+    ],
+    "psychological_function": "Enhances awareness of the observing self, promotes acceptance of experience, and shifts perception of stimuli from bothersome to interesting or neutral.",
+    "repetition_rules": [
+      "Not explicitly stated in the segment"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_150",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observing self",
+      "alien perspective",
+      "book as novel object"
+    ],
+    "therapeutic_function": "Facilitates mindful attention to present experience, reducing distress associated with unpleasant or familiar stimuli by fostering openness and curiosity.",
+    "voice_rules": [
+      "Encourage curiosity and openness",
+      "Guide sensory exploration with descriptive prompts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_150_a2dea795",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_150",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:52+00:00"
+}

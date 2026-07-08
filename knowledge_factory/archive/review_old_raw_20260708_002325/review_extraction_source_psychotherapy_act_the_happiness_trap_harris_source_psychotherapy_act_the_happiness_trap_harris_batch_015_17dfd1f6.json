@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:43:23+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_015_17dfd1f6",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative feelings",
+      "uncomfortable emotions",
+      "belief in controlling thoughts and feelings",
+      "struggle to eliminate negative emotions"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less suitable for individuals requiring immediate emotional relief or those with severe emotional dysregulation who need stabilization before acceptance-based approaches."
+    ],
+    "evidence_text": "We live in a feel-good society, a culture thoroughly obsessed with finding happiness. And what\n\n---\n\ndoes that society tell us to do? To eliminate ‘negative’ feelings and accumulate ‘positive’ ones in\ntheir place. It’s a nice theory and on the surface it seems to make sense. After all, who wants to\nhave unpleasant feelings? But here’s the catch: the things we generally value most in life bring with\nthem a whole range of feelings, both pleasant and unpleasant. For example, in an intimate long-term\nrelationship, although you will experience wonderful feelings such as love and joy, you will also\ninevitably experience disappointment and frustration. There is no such thing as the perfect partner\nand sooner or later conflicts of interest will happen.\n\n---\n\nThe same holds true for just about every meaningful project we embark on. Although they often\nbring feelings of excitement and enthusiasm, they also generally bring stress, fear and anxiety. So if\nyou believe Myth 3, you’re in big trouble, because it’s pretty well impossible to create a better life\nif you’re not prepared to have some uncomfortable feelings. However, in Part 2 of this book, you\nwill learn how to handle such feelings altogether differently, to experience them in such a way that\nthey bother you a whole lot less.\n\n---\n\nMyth No.4: You Should Be Able To Control What You Think And Feel\n\n---\n\nThe fact is, we have much less control over our thoughts and feelings than we would like. It’s not\nthat we have no control; it’s just that we have much less than the ‘experts’ would have us believe.\nHowever, we do have a huge amount of control over our actions. And it’s through taking action that\nwe create a rich, full and meaningful life. (That’s why we say ACT as the word ‘act’, rather than as\nthe initials A.C.T.)",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_015_17dfd1f6",
+    "extractor": "openai",
+    "generation_rules": [
+      "Emphasize acceptance of mixed emotions in valued life domains",
+      "Highlight limited control over thoughts and feelings",
+      "Encourage focus on action rather than emotional control"
+    ],
+    "pause_rules": [
+      "Pause after presenting myths to allow reflection on common misconceptions about emotions and control."
+    ],
+    "psychological_function": "Reducing struggle against negative emotions by reframing them as inevitable and manageable; increasing behavioral control to foster life engagement.",
+    "repetition_rules": [
+      "Reinforce the inevitability of mixed feelings in meaningful life areas and the limited control over internal experiences."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_015",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "feel-good society",
+      "myth of controlling thoughts and feelings"
+    ],
+    "therapeutic_function": "Teaching acceptance of both positive and negative feelings as a natural part of meaningful life experiences; promoting action despite uncomfortable feelings to create a rich and meaningful life.",
+    "voice_rules": [
+      "Use explanatory and corrective tone to challenge common myths about happiness and control",
+      "Adopt an encouraging voice to promote behavioral action"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_015_17dfd1f6",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_015",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:23+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "created_at": "2026-07-07T21:50:29+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_142_115c1369",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "self-defeating urges",
+      "troublesome urges",
+      "thinking self",
+      "fusion with thoughts and feelings"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text; confidence in contraindications is low."
+    ],
+    "evidence_text": "All this means is, there needs to be a balance. Aim to find that balance over time. Don’t put\nridiculous expectations on yourself, deciding that you’re never going to act on self-defeating urges\never again. Of course you will—you’re human. You’ll screw up again and again over the course of\nyour life. But remember: the instant you are aware of what you’re doing, you have a chance to do\nsomething more effective. And over time you’ll get better and better at catching yourself earlier and\nearlier.\n\n---\n\nWhile urge surfing can be very helpful, like any skill, it requires practice. (Look, you had to know\nthat was coming.) The best way to practise is to put yourself in a situation where you’re likely to\nfeel confronted by troublesome urges. But don’t choose just any challenging situation; choose one\nthat moves your life forward in a meaningful way.\n\n---\n\nDuring the next week, pick two or three difficult situations that naturally occur when you take your\nlife in a valued direction. These situations could be anything: getting some exercise, attending a\nclass, asking someone out on a date or attempting something new at work. Once you’re in those\nsituations, notice your urges, surf them and stay fully engaged in what you’re doing.\n\n---\n\nOf course, staying engaged in what you’re doing can be tricky, especially when the thinking self\nstarts mouthing off. That’s why in the following chapters we’re going to look at a process called\n‘connection’, which is all about engaging in and connecting with our experience (rather than getting\ncaught up in our thoughts and feelings).\n\n---\n\nConnection builds on, and overlaps with, expansion and defusion. So if you’re still struggling with\nthoughts and feelings, you’ll find that connection skills will help you.\n\n---\n\nBut before we get to that, we need to pay a very brief visit back to those demons on the boat...",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_142_115c1369",
+    "extractor": "openai",
+    "generation_rules": [
+      "Practice urge surfing in challenging but meaningful situations that advance valued life directions; gradually improve awareness and response to urges over time; engage fully in present activities despite internal experiences."
+    ],
+    "pause_rules": [
+      "Implied pauses when shifting focus from urges to connection with experience; pauses to reflect on awareness moments."
+    ],
+    "psychological_function": "Enhancing awareness of urges and behaviors; promoting acceptance of human imperfection; improving ability to catch oneself earlier in maladaptive patterns; increasing psychological flexibility through connection, expansion, and defusion processes.",
+    "repetition_rules": [
+      "Emphasize repeated practice of urge surfing and catching oneself earlier in maladaptive behaviors."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_142",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "urge surfing",
+      "demons on the boat"
+    ],
+    "therapeutic_function": "Developing skill in urge surfing to manage self-defeating urges and increase effective responses over time; fostering engagement in valued life directions despite challenging urges; building connection with present experience to reduce fusion with thoughts and feelings.",
+    "voice_rules": [
+      "Use a balanced, non-judgmental tone acknowledging human imperfection; encourage gradual progress and self-compassion; prepare for upcoming introduction of connection skills."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_142_115c1369",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_142",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:29+00:00"
+}

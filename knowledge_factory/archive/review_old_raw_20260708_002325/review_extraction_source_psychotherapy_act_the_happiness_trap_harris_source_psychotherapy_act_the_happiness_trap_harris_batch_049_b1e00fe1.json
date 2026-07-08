@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:45:20+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_049_b1e00fe1",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative self-stories",
+      "ruminative thoughts",
+      "cognitive fusion with negative narratives"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; the text does not specify contraindications explicitly"
+    ],
+    "evidence_text": "Most psychological approaches regard negative stories as a major problem and make a big fuss\nabout trying to eliminate them. Such approaches will advise you to try to:\n\n---\n\n¢ make the story more accurate by checking the facts and correcting any errors\n\n---\n\n* get rid of the story by repeatedly telling yourself a better one\n\n---\n\n* argue with the story, and debate whether it’s true or not.\n\n---\n\nBut haven’t you already tried methods like these? The reality is, such control strategies simply will\nnot work in the long run.\n\n---\n\nIn ACT the approach is very different. Negative stories are not seen as a problem in their own right.\nIt’s only when we ‘fuse’ with them, when we react as if they were the truth and give them our full\nattention, that they become problematic.\n\n---\n\nSince childhood you’ve heard, ‘Don’t believe everything you read.” When we read about celebrities\nin the tabloids, we know that many of the stories are false or misleading. Some are exaggerated for\neffect, others are made up entirely. Now some celebrities take this in their stride; they accept it as\npart of being famous and don’t let it get to them. When they notice ridiculous stories about\nthemselves, they just shrug it off. They certainly don’t waste their time reading, analysing and\ndiscussing them! Other celebrities, though, get very upset about these stories. They read them and\ndwell on them, rant and complain, and lodge lawsuits (which are stressful and eat up a lot of time,\nenergy and money).\n\n---\n\nDefusion allows us to be like the first set of celebrities: the stories are there, but we don’t take them\nseriously. We don’t pay them much attention, and we certainly don’t waste our time and energy\ntrying to fight them. In ACT we don’t try to change, avoid or get rid of the story. We know how\nineffective that is. Instead we simply acknowledge: ‘This is a story.’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_049_b1e00fe1",
+    "extractor": "openai",
+    "generation_rules": [
+      "Do not try to change, avoid, or eliminate negative stories",
+      "Acknowledge negative stories as stories without giving them full attention"
+    ],
+    "pause_rules": [
+      "Pause to allow recognition and acceptance of the story as a story without engagement"
+    ],
+    "psychological_function": "Acknowledging negative stories as mere stories rather than truths, reducing emotional reactivity and cognitive fusion",
+    "repetition_rules": [
+      "Repeatedly acknowledge 'This is a story' to reinforce defusion"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_049",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "negative stories",
+      "celebrity tabloid stories",
+      "fusion with stories",
+      "defusion"
+    ],
+    "therapeutic_function": "Defusion from negative stories to reduce their impact and prevent fusion with them",
+    "voice_rules": [
+      "Use a neutral, accepting tone when referring to negative stories",
+      "Avoid argumentative or confrontational language towards the stories"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_049_b1e00fe1",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_049",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:20+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "created_at": "2026-07-07T21:45:30+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_052_0e326e34",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "self-critical thoughts",
+      "demoralising internal dialogue",
+      "unhelpful cognitive patterns"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for individuals with severe depression or cognitive impairments that limit ability to engage in self-reflection or action planning."
+    ],
+    "evidence_text": "Suppose I am making some serious mistakes in my work and my mind tells me, “You are\nincompetent!’ This is not a helpful thought. It doesn’t tell me what I can do to improve the\nsituation; it just belittles me. It doesn’t inspire me to improve; it’s merely demoralising. If I really\nam making mistakes, then putting myself down is quite pointless. Instead, what I need to do is to\ntake action: brush up on my skills or ask for help.\n\n---\n\nOr suppose I’m overweight and my mind says, ‘You’re a lump of lard! Just look at that belly—it’s\ndisgusting!’ This thought is not helpful; it does nothing but blame, disparage and demoralise. It\ndoesn’t inspire me to eat sensibly or exercise more; it just makes me feel lousy.\n\n---\n\nYou can waste a lot of time trying to decide whether your thoughts are actually true; again and\nagain your mind will try to suck you into that debate. But although in some instances this can be\nimportant, the vast majority of the time it is totally irrelevant. What’s more, it wastes a lot of\nenergy.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_052_0e326e34",
+    "extractor": "openai",
+    "generation_rules": [
+      "Generate statements that identify unhelpful thoughts and contrast them with constructive alternatives."
+    ],
+    "pause_rules": [
+      "Pause after presenting unhelpful thoughts to allow reflection before introducing alternative actions."
+    ],
+    "psychological_function": "Disrupts negative self-talk cycles; promotes acceptance of mistakes and redirects energy towards constructive behavior rather than rumination.",
+    "repetition_rules": [
+      "Repeat examples of unhelpful thoughts followed by recommended constructive actions to reinforce the pattern."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_052",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Encourages shifting focus from self-critical thoughts to actionable steps for improvement; reduces engagement with unhelpful, demoralising self-judgments.",
+    "voice_rules": [
+      "Use a direct, explanatory voice that acknowledges common negative thoughts and offers pragmatic responses."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_052_0e326e34",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_052",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:30+00:00"
+}

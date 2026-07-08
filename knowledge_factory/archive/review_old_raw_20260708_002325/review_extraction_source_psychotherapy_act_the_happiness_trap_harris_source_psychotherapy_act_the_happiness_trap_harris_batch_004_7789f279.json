@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:42:47+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_004_7789f279",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "struggle with happiness",
+      "avoidance behaviors",
+      "cognitive fusion with thoughts",
+      "loss of present moment awareness"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text"
+    ],
+    "evidence_text": "This book is based on Acceptance and Commitment Therapy (ACT), which is an empirically\nsupported approach that takes a new and unexpected tack in dealing with the issue of happiness and\nlife satisfaction. Instead of teaching new techniques to pursue happiness, ACT teaches ways to\nundermine struggle, avoidance, and loss of the moment. Russ Harris has very carefully and\ncreatively presented this approach in an accessible way. In 33 bite-sized chapters he systematically\nexplores how we get into the ‘Happiness Trap’ and how mindfulness, acceptance, cognitive\ndefusion, and values can release us from it.\n\n---\n\nThe joyful message in these pages is that there is no reason to continue to wait for life to start. That\nwaiting game can end. Now. Like a lion placed in a paper cage, human beings are generally most\ntrapped by the illusions of their own mind. But despite the appearance the cage is not really a\nbarrier that can contain the human spirit. There is another way forward, and with this book Dr\nHarris shines a powerful and loving beacon forward into the night, lighting that path.\n\n---\n\nSteven C. Hayes\nOriginator of ACT\nUniversity of Nevada\n\n---\n\nI JUST WANT TO BE HAPPY\nJust suppose for a moment that almost everything you believed about finding happiness turned out\nto be inaccurate, misleading or false. And suppose that those very beliefs were making you\nmiserable. What if your very efforts to find happiness were actually preventing you from achieving\nit? And what if almost everyone you knew turned out to be in the same boat—including all those\npsychologists, psychiatrists and self-help gurus who claim to have all the answers?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_004_7789f279",
+    "extractor": "openai",
+    "generation_rules": [
+      "Systematic exploration in bite-sized chapters",
+      "Use of accessible and creative presentation"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "psychological_function": "Releasing individuals from the 'Happiness Trap' by changing their relationship to thoughts and feelings rather than pursuing happiness directly",
+    "repetition_rules": [
+      "Repeated emphasis on undermining struggle and avoidance",
+      "Reiteration of mindfulness, acceptance, cognitive defusion, and values as key processes"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_004",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "lion placed in a paper cage",
+      "cage as illusion of mind",
+      "beacon lighting the path"
+    ],
+    "therapeutic_function": "Undermining struggle, avoidance, and loss of the moment through mindfulness, acceptance, cognitive defusion, and values clarification",
+    "voice_rules": [
+      "Powerful and loving tone",
+      "Encouraging and hopeful messaging"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_004_7789f279",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_004",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:42:47+00:00"
+}

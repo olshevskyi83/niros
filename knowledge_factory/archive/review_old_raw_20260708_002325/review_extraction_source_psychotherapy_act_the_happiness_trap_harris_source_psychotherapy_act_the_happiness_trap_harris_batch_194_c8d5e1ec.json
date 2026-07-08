@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:53:17+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_194_c8d5e1ec",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Individuals struggling with lack of purpose",
+      "People facing adversity or loss",
+      "Those avoiding emotional struggles or fears"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "Fyodor Dostoyevsky once said: “The secret of man’s being is not only to live, but to have\nsomething to live for.’ Have you ever considered this or other questions such as: What's life all\nabout? What are you here for? What makes your life worth living?\n\n---\n\nIt’s amazing how many of us have never deeply considered these questions. We go through life\nfollowing the same routine, day after day. But in order to create a rich, full and meaningful life, we\nneed to stop to reflect on what we’re doing and why we’re doing it. So it’s time now to ask\nyourself:\n\n---\n\n¢ What sort of relationships do you want to build?\n\n---\n\n¢ If you weren’t struggling with your feelings or avoiding your fears, what would you channel\nyour time and energy into doing?\n\n---\n\nDon’t worry if you don’t have all these answers on the tip of your tongue. Over the next few\nchapters we’ll explore them in depth, and your answers will connect you with your values.\n\n---\n\nWe’ve already touched on values several times in this book. Values are:\n\n---\n\n¢ Our heart’s deepest desires: how we want to be, what we want to stand for and how we want to\nrelate to the world around us.\n\n---\n\n* Leading principles that can guide us and motivate us as we move through life.\n\n---\n\nWhen you go through life guided by your values, not only do you gain a sense of vitality and\njoyfulness, but you also experience that life can be rich, full and meaningful, even when bad things\nhappen. Take the case of my good friend Fred.\n\n---\n\nFred had a business venture that went horribly wrong. As a result, he and his wife lost almost\n\n---\n\neverything they owned, including their house. In dire financial straits, they decided to move from\nthe city out to the country, so they could live somewhere decent with affordable rent. There Fred\nfound a job at a local boarding school that catered to foreign school students, mainly teenagers from\nChina and Korea.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_194_c8d5e1ec",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use reflective questions to prompt consideration of life purpose and values",
+      "Introduce values as guiding principles repeatedly",
+      "Provide real-life example to illustrate application of values"
+    ],
+    "pause_rules": [
+      "Pause after reflective questions to allow contemplation",
+      "Pause before introducing values to emphasize importance"
+    ],
+    "psychological_function": "Facilitates self-exploration and identification of core values to guide motivation and behavior.",
+    "repetition_rules": [
+      "Repeat the concept of values as central to meaningful life",
+      "Revisit reflective questions over multiple chapters"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_194",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Values as heart’s deepest desires",
+      "Life as rich, full, and meaningful despite bad events"
+    ],
+    "therapeutic_function": "Encourages reflection on personal values to create a meaningful and fulfilling life despite adversity.",
+    "voice_rules": [
+      "Use an encouraging and exploratory tone",
+      "Normalize uncertainty in answers",
+      "Use direct address to engage reader"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_194_c8d5e1ec",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_194",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:17+00:00"
+}

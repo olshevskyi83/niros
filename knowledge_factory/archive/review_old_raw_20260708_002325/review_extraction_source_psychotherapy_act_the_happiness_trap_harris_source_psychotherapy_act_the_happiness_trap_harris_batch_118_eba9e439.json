@@ -1,0 +1,57 @@
+{
+  "created_at": "2026-07-07T21:49:10+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_118_eba9e439",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "emotional tension",
+      "unwanted or uncomfortable sensations",
+      "urge to fight or push away sensations",
+      "mind’s commentary on sensations"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text; confidence in contraindications is low due to lack of explicit mention."
+    ],
+    "evidence_text": "‘Breathe’ means you breathe into and around the sensation, as if making extra space for it. Begin\nwith a few deep breaths—the slower the better—and make sure you fully empty your lungs before\nbreathing in. Slow, deep breathing is important because it lowers the level of tension in your body.\nIt won’t get rid of your feelings, but it will provide a centre of calm within you. It’s like an anchor\nin the midst of an emotional storm; the anchor won’t get rid of the storm, but it will hold you steady\nuntil it passes. So breathe slowly and deeply, and imagine that you are breathing directly into the\n\n---\n\nsensation. Feel your breath flowing into and around it, as if you are somehow creating extra space\nwithin your body. Loosen up around this sensation. Give it some ‘room to move’.\n\n---\n\n‘Allow’ means you allow the sensation to be there, even though you don’t like it or want it. In other\nwords, you ‘let it be’. When your mind starts commenting on what’s happening, just say, ‘Thanks,\nMind!’ and come back to observing. Of course, you may find this difficult. You may feel a strong\nurge to fight with it or push it away. If so, just acknowledge this urge without giving in to it.\n(Acknowledging is like nodding your head in recognition, as if to say, “There you are; I see you.”)\nOnce you’ve acknowledged that urge, bring your attention back to the sensation itself. Don’t try to\nget rid of the sensation or alter it. If it changes by itself, that’s okay. If it doesn’t change, that’s okay\ntoo. Changing or getting rid of it is not the goal. The goal is to make peace with it; to let it to be\nthere, even if you don’t like it or want it.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_118_eba9e439",
+    "extractor": "openai",
+    "generation_rules": [
+      "Begin with slow, deep breaths ensuring full lung emptying before inhaling",
+      "Imagine breathing directly into and around the sensation",
+      "Loosen up around the sensation and give it space",
+      "Allow the sensation to be present without trying to change or remove it",
+      "Acknowledge urges to resist without acting on them",
+      "Return attention to the sensation when distracted by the mind"
+    ],
+    "pause_rules": [
+      "Pause to fully experience the breath and the sensation, allowing space for them without rushing or forcing change."
+    ],
+    "psychological_function": "Facilitates emotional regulation by creating space for sensations, reducing tension, and promoting acceptance rather than avoidance or resistance.",
+    "repetition_rules": [
+      "Repeatedly bring attention back to the sensation and the breath whenever the mind wanders or urges to resist arise."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_118",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "anchor in the midst of an emotional storm",
+      "breathing into and around the sensation",
+      "giving the sensation room to move",
+      "acknowledging urges as nodding the head in recognition"
+    ],
+    "therapeutic_function": "Provides a calming anchor during emotional distress by using slow, deep breathing and acceptance of sensations without attempting to change them.",
+    "voice_rules": [
+      "Use gentle, accepting language such as 'Thanks, Mind!' when noticing mental commentary",
+      "Encourage a non-judgmental, observational stance towards sensations"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_118_eba9e439",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_118",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:10+00:00"
+}

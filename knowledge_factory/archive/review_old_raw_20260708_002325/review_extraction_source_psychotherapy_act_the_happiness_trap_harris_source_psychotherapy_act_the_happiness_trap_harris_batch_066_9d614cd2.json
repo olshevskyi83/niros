@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-07-07T21:46:15+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_066_9d614cd2",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "acceptance of reality",
+      "anxiety",
+      "guilt",
+      "painful thoughts and feelings",
+      "inaction in face of problems"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Unclear from the text; no explicit contraindications mentioned"
+    ],
+    "evidence_text": "Acceptance is like finding that firm foothold. It’s a realistic appraisal of where your feet are and\nwhat condition the ground is in. It doesn’t mean that you like being in that spot, or that you intend\nto stay there. Once you have a firm foothold, you can take the next step more effectively. The more\nfully you accept the reality of your situation—as it is, here and now—the more effectively you can\ntake action to change it.\n\n---\n\nThe Dalai Lama exemplifies this beautifully. He fully accepts that China has invaded Tibet and that\nhe is forced to live in exile from his own country. He doesn’t waste time and energy in wishful\nthinking, getting outraged or dwelling morosely on what he’s lost. He knows that won’t help. Nor\ndoes he admit defeat or throw the whole issue into the ‘too-hard basket”. Instead he acknowledges\nthat right now this is the way it is and at the same time he does everything in his power to help. He\nactively campaigns all around the world to increase public and political awareness of Tibet’s\npredicament and to raise financial support for its people.\n\n---\n\nIn another example, let’s consider the case of domestic violence. If your partner is physically\nviolent, the first step is to accept the reality of the situation: that you are in danger and you need to\ntake action to protect yourself. The next step is to take action: get some professional help, take legal\n\n---\n\naction and/or leave the relationship. In order to take this action, you will need to accept the anxiety,\nguilt and other painful thoughts and feelings that are likely to rise. So this is what ACT is all about:\nacceptance and action, side by side. The core philosophy of ACT is neatly encapsulated in the\nSerenity Challenge:\n\n---\n\nDevelop the courage to solve those problems that can be solved, the serenity to accept those\nproblems that can’t be solved, and the wisdom to know the difference.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_066_9d614cd2",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage acknowledgment of current reality without judgment",
+      "Support simultaneous acceptance and action",
+      "Promote courage to solve solvable problems",
+      "Promote serenity to accept unsolvable problems",
+      "Encourage wisdom to differentiate between solvable and unsolvable problems"
+    ],
+    "pause_rules": [
+      "Pause after presenting acceptance concepts to allow reflection",
+      "Pause before introducing action steps to emphasize readiness"
+    ],
+    "psychological_function": "Promotes realistic appraisal of current situations, reduces unproductive emotional responses such as wishful thinking, outrage, or moroseness, and supports managing anxiety and painful feelings alongside taking constructive steps.",
+    "repetition_rules": [
+      "Reinforce the link between acceptance and effective action",
+      "Repeat the Serenity Challenge to encapsulate core philosophy"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_066",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "firm foothold",
+      "Serenity Challenge"
+    ],
+    "therapeutic_function": "Facilitates acceptance of present reality to enable effective action and problem solving.",
+    "voice_rules": [
+      "Use examples of real-life acceptance and action (e.g., Dalai Lama, domestic violence case)",
+      "Adopt a compassionate and realistic tone",
+      "Avoid encouraging denial or avoidance"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_066_9d614cd2",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_066",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:15+00:00"
+}

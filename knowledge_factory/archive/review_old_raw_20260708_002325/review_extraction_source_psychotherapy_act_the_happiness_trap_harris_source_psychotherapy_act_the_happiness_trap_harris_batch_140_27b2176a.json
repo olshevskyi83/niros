@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-07-07T21:50:19+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_140_27b2176a",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Addictive urges",
+      "Urges to avoid challenges",
+      "Urges to quit tasks",
+      "Impulsive emotional reactions"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "Urge surfing is a simple but effective technique in which we treat our urges like waves; that is, we\nsurf them until they dissipate. The term was coined back in the 1980s by psychologists Alan Marlatt\nand Judith Gordon, as part of their groundbreaking work with drug addiction. The same principles\nthey used with addictive urges can be applied to any urge we feel: whether it’s an urge to stay in\nbed all day, to quit a course, to avoid some daunting challenge or to yell at someone we care about.\n\n---\n\nTo surf an urge rather than be wiped out by it, all you need to do is pay careful attention and:\n\n---\n\n* Observe where in your body you feel the urge most strongly.\n\n---\n\n¢ Acknowledge, ‘I’m having the urge to ... X, Y, Z.’\n\n---\n\n¢ When your mind starts judging or criticising this urge or telling you other unhelpful stories\n(such as ‘You can’t handle it’), just allow those thoughts to come and go without focusing on\nthem.\n\n---\n\n* Some urges rise and fall rapidly; others linger. Allow your urge to rise and fall in its own sweet\ntime.\n\n---\n\n* You may find it helpful to score the urge on a scale of 1 to 10. For example, ‘I’m having the\nurge to smoke and it’s a 7.’\n\n---\n\n* No matter how huge that urge gets, you have room for it. And eventually it will crest and then it\nwill subside. So observe it, breathe into it and allow it.\n\n---\n\nThat’s the essence of urge surfing, and below is a simple formula you can follow.\n\n---\n\nWhenever you find yourself having troublesome urges, there’s a basic routine you can follow. You\ncan remember it with the acronym OBSERVE:\n\n---\n\nOBSERVE means you observe this urge as if you were a curious scientist. Where do you feel it in\nyour body? What does it feel like? Notice the associated thoughts and images and silently\nacknowledge the urge (e.g. ‘I’m having the urge to run away.”)\n\n---\n\nBREATHE means you take a few slow, deep breaths. Breathe into the urge and make room for it.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_140_27b2176a",
+    "extractor": "openai",
+    "generation_rules": [
+      "Observe the urge in the body",
+      "Acknowledge the urge verbally",
+      "Allow thoughts to come and go without engagement",
+      "Allow the urge to rise and fall naturally",
+      "Score the urge intensity on a scale from 1 to 10",
+      "Breathe slowly and deeply into the urge"
+    ],
+    "pause_rules": [
+      "Pause to notice the urge's intensity and bodily sensations",
+      "Pause to breathe deeply and make room for the urge"
+    ],
+    "psychological_function": "Enhances mindfulness and acceptance of urges, reduces judgmental thoughts, and promotes emotional regulation.",
+    "repetition_rules": [
+      "Repeatedly observe and acknowledge urges each time they arise",
+      "Allow repeated waves of urges to be surfed without reacting"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_140",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Urges are treated like waves to be surfed until they dissipate."
+    ],
+    "therapeutic_function": "To manage and reduce the intensity of urges by observing and allowing them to pass without acting on them.",
+    "voice_rules": [
+      "Use a curious, non-judgmental tone when observing urges",
+      "Silently acknowledge urges with statements like 'I'm having the urge to ...'"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_140_27b2176a",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_140",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:19+00:00"
+}

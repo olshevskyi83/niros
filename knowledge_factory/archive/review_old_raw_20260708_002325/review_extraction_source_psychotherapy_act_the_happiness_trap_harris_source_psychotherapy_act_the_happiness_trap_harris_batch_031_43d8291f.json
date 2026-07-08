@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-07-07T21:44:15+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_031_43d8291f",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "grief",
+      "emotional avoidance",
+      "substance use as coping",
+      "painful feelings such as sadness, anger, fear, loneliness, despair"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the segment"
+    ],
+    "evidence_text": "Unfortunately, many of us refuse to accept grief. We will do anything rather than feel it. We may\nbury ourselves in work, drink heavily, throw ourselves into a new relationship ‘on the rebound’ or\nnumb ourselves with prescribed medications. But no matter how hard we try to push grief away,\ndeep down inside it’s still there. And eventually it will be back.\n\n---\n\nIt’s like holding a football underwater. As long as you keep holding it down, it stays beneath the\nsurface. But eventually your arm gets tired and the moment you release your grip, the ball leaps\nstraight up out of the water.\n\n---\n\nDonna was 25 years of age when her husband and child died in a tragic car crash. Naturally, she felt\nan enormous sense of loss: an explosion of painful feelings, including sadness, anger, fear,\nloneliness and despair. But Donna could not accept those painful feelings and she turned to alcohol\nto push them away. Getting drunk would temporarily soothe her pain, but once she sobered up, her\ngrief returned with a vengeance—and then she’d drink even more to push it away again. By the\ntime Donna came to see me six months later, she was knocking back two bottles of wine a day, as\nwell as some Valium and sleeping tablets. The single biggest factor in her recovery was her\nwillingness to stop running away from her pain. Only when she opened herself to her feelings, and\naccepted them as a natural part of the grieving process, was she able to come to terms with her\nterrible loss. This enabled her to grieve effectively for her loved ones and channel her energy into\nbuilding a new life. (Later in the book, we’ll look at how she accomplished that.)\n\n---\n\nWhen Using Control Stops Us From Doing What We Value",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_031_43d8291f",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage openness to and acceptance of painful emotions rather than avoidance or suppression"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the segment"
+    ],
+    "psychological_function": "Reducing avoidance behaviors and emotional suppression to allow natural processing of grief",
+    "repetition_rules": [
+      "Not explicitly stated in the segment"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_031",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "holding a football underwater as a metaphor for suppressing grief"
+    ],
+    "therapeutic_function": "Facilitating acceptance of painful emotions to enable effective grieving and recovery",
+    "voice_rules": [
+      "Use empathetic and validating tone to normalize grief and emotional pain"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_031_43d8291f",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_031",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:15+00:00"
+}

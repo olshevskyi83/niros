@@ -1,0 +1,43 @@
+{
+  "created_at": "2026-07-07T21:49:45+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_130_5a49170f",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "social anxiety",
+      "worrying",
+      "maladaptive coping behaviors (e.g., heavy drinking, overeating)"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "None explicitly stated in the text"
+    ],
+    "evidence_text": "fingers. Nowadays my hands still get sweaty at times—but not often, because I don’t worry about\nit. Looking back even further on my life, as a medical student I suffered terribly from social\nanxiety, and I drank extremely heavily to try to counteract it. As a consequence, I invariably got\ndrunk and ended up doing stupid or outrageous things, and waking up with a terrible hangover.\nThese days I still get anxious in some social situations, but because I accept the anxiety, it comes\nand it goes, and it doesn’t escalate in a vicious cycle. As a result, I get to enjoy social events\nwithout the unpleasant side effects of too much alcohol (which I now rarely drink).\n\n---\n\nOf course, there are times when I still handle my anxiety poorly, when I completely forget\neverything I’ve written in this book, and I pace up and down the house, worrying uselessly, or I\nwolf down an entire packet of TimTams. But as the years go by I do such things less and less\nfrequently; I get better and better at catching myself and doing something more effective instead.\n\n---\n\nThe same will undoubtedly be true for you. You’ll use these new skills at times and reap the\nrewards. And at other times you’ll forget all about them. Again and again and again throughout\nyour life, you will get caught up in struggling with your feelings. That’s the bad news. The good\nnews is, the very moment you realise this has happened, you can instantly respond far more\neffectively!\n\n---\n\nQ: I don’t really like all this acceptance stuff. Surely there must be easier ways of dealing with\nemotions.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_130_5a49170f",
+    "extractor": "openai",
+    "generation_rules": [
+      "Repeated practice of acceptance skills leads to gradual improvement in handling anxiety and emotional struggles"
+    ],
+    "pause_rules": [],
+    "psychological_function": "Enhancing awareness of emotional states and promoting self-regulation by catching oneself and choosing more effective responses",
+    "repetition_rules": [
+      "Acknowledgement that relapse or forgetting skills will happen repeatedly, but each moment of realization allows for more effective response"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_130",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Acceptance of anxiety to prevent escalation and reduce maladaptive coping behaviors such as excessive alcohol consumption",
+    "voice_rules": [
+      "Encouraging and normalizing the experience of forgetting skills and struggling with feelings repeatedly throughout life"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_130_5a49170f",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_130",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:45+00:00"
+}

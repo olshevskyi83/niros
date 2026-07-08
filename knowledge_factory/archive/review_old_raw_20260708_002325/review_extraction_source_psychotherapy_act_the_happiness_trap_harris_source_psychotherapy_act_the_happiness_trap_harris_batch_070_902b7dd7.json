@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:46:27+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_070_902b7dd7",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative thoughts",
+      "neutral thoughts",
+      "positive thoughts",
+      "cognitive fusion"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "None explicitly stated in the text"
+    ],
+    "evidence_text": "The same applies to neutral thoughts. In this book I mostly talk about negative thoughts, simply\nbecause they’re the ones we most often have problems with. But anything that applies to negative\nthoughts also applies to neutral and positive thoughts. The bottom line is not whether a thought is\npositive or negative, true or false, pleasant or unpleasant, optimistic or pessimistic, but whether it\nhelps you create a fulfilling life.\n\n---\n\nSo should you believe any of your thoughts? Yes, but only if they’re helpful—and hold those\nbeliefs lightly. And even while you’re holding them, know that they are nothing more than\nlanguage.\n\n---\n\nAs time goes on and you work through the rest of this book, you will learn to defuse unhelpful\nthoughts quickly and easily. But it’s important to remember: cognitive fusion is not the enemy.\n\n---\n\nMaking plans for the future, brainstorming solutions for your problems, mentally rehearsing your\nactions, getting lost in a book, engaging in a conversation, reading music, writing a letter, telling\nsomeone you love them: all these activities involve cognitive fusion. So cognitive fusion is not the\nenemy; it’s an essential part of being human.\n\n---\n\nNegative thoughts are not the enemy, either. Because of the way our minds have evolved, many of\nour thoughts are negative to some extent, so if you consider them to be the enemy, you're always\ngoing to be battling with yourself. Thoughts are merely sounds, words, symbols or bits of language,\nso why declare war on them? Our aim here is to increase our self-awareness; to recognise when\nwe’re fusing with our thoughts, and to catch ourselves when it happens. Once we have that\nawareness, we then have a much greater choice as to how we act. If thoughts are helpful, make use\nof them; if they are unhelpful, then defuse them.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_070_902b7dd7",
+    "extractor": "openai",
+    "generation_rules": [
+      "Hold beliefs lightly",
+      "Use thoughts only if they are helpful",
+      "Defuse unhelpful thoughts quickly and easily"
+    ],
+    "pause_rules": [
+      "Pause to increase awareness when noticing cognitive fusion",
+      "Pause to catch oneself when fusing with thoughts"
+    ],
+    "psychological_function": "Recognize and hold thoughts lightly as language rather than absolute truths, reducing struggle with negative or neutral thoughts and enhancing choice in behavior.",
+    "repetition_rules": [
+      "Reinforce that cognitive fusion is not the enemy",
+      "Repeat that thoughts are not inherently good or bad but judged by their helpfulness"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_070",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "thoughts as sounds, words, symbols, or bits of language"
+    ],
+    "therapeutic_function": "Increase self-awareness of cognitive fusion and promote defusion of unhelpful thoughts to enable more flexible and helpful responses.",
+    "voice_rules": [
+      "Present thoughts as language constructs, not absolute truths",
+      "Normalize cognitive fusion as part of human experience"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_070_902b7dd7",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_070",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:27+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:47:51+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_092_2be2748b",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "emotional awareness",
+      "action tendencies",
+      "cognitive flexibility",
+      "emotion regulation"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "None explicitly stated in the text"
+    ],
+    "evidence_text": "Scientists have a hard time reaching any kind of consensus on what emotions actually are, but most\nexperts agree on three things:\n\n---\n\n1. Emotions originate from the middle layer of the brain, known as the ‘midbrain’.\n\n---\n\n2. At the core of any emotion is a complex series of physical changes throughout the body.\n\n---\n\n3. These physical changes prepare us to take action.\n\n---\n\nPhysical changes in the body may include alterations in heart rate, blood pressure, muscle tone,\ncirculation and hormone levels, as well as the activation of different parts of the nervous system.\nWe notice these changes as sensations, such as ‘butterflies’ in the stomach, a ‘lump’ in the throat,\nwatering eyes or clammy hands. We also notice them as urges to act in a particular way, such as to\ncry, laugh or hide.\n\n---\n\nEmotions influence us to act in different ways. For example, under the influence of any strong\nemotion, we commonly make changes to our voice, facial expression, body posture, and behaviour.\nThe likelihood that we will act in a particular way when experiencing a particular emotion is known\nas an ‘action tendency’. But notice the key word here: ‘tendency’. A tendency means we have the\ninclination to do something; it doesn’t mean we have to do it, that we have no choice. It doesn’t\nmean we are forced or compelled to act in a particular way; it just means we tend to act that way.\nSo, for example, if you’re anxious about running late, you may have the tendency to drive above the\nspeed limit, but you can still choose to drive legally and safely if you wish. Or if you’re angry with\nsomeone, you may have a tendency to yell at them, but you can choose to talk calmly if you wish.\n\n---\n\nTo understand what constitutes an emotion, let’s take a look at anxiety. The experience of anxiety\nvaries from person to person (as does any emotion), but it may include some or all of the following:",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_092_2be2748b",
+    "extractor": "openai",
+    "generation_rules": [
+      "Describe emotions as physical changes preparing for action",
+      "Emphasize that action tendencies are inclinations, not compulsions",
+      "Use examples to illustrate choice in emotional responses"
+    ],
+    "pause_rules": [
+      "Pause after explaining key concepts such as 'action tendency' and examples illustrating choice"
+    ],
+    "psychological_function": "Facilitate understanding that emotions involve bodily sensations and action tendencies, but do not compel behavior; support cognitive flexibility in responding to emotions",
+    "repetition_rules": [
+      "Reinforce the concept that emotions prepare for action but do not force behavior"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_092",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "butterflies in the stomach",
+      "lump in the throat",
+      "watering eyes",
+      "clammy hands"
+    ],
+    "therapeutic_function": "Increase awareness of the physical basis of emotions and promote recognition of choice in emotional responses",
+    "voice_rules": [
+      "Use explanatory and non-judgmental tone",
+      "Clarify distinctions between tendencies and compulsions"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_092_2be2748b",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_092",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:51+00:00"
+}

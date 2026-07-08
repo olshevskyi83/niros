@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:47:15+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_082_a8ab5f26",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "painful visual memories",
+      "images related to thoughts",
+      "cognitive fusion with memories"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; not specified in the text"
+    ],
+    "evidence_text": "* pay attention to them only if they are helpful.\n\n---\n\nThe defusion techniques we use with images are very similar to the ones we use with thoughts.\nInitially, we need to focus on these images in order to practise defusing them. But the ultimate aim\nis to be able to let these images come and go without giving them much attention at all. (It’s like\nhaving the television on in the background, without really watching it.)\n\n---\n\nDefusion techniques help us to see these images for what they are: nothing more than colourful\npictures. Once we recognise this, we can let them be there without fighting them, without judging\nthem and without trying to avoid them. In other words, we can accept them. Acceptance means we\nno longer have to fear them. Acceptance means we no longer waste our precious energy on\nstruggling with them. And ultimately, acceptance means we can focus on something more\nconstructive.\n\n---\n\nBefore trying out the following techniques, it’s important to say a few words about painful\nmemories. We store memories with all five senses: sight, sound, smell, taste and touch. The\ntechniques that follow are often helpful with visual memories, that is, memories which have been\nstored primarily as images. In cognitive fusion, we:\n\n---\n\n* react to them as if they are happening here and now\n\n---\n\n* react to them as if they are dangerous or harmful.\n\n---\n\n* recognise these memories are nothing more than pictures\n\n---\n\n* know that they happened in the past and can no longer hurt us\n\n---\n\n* pay attention to them only if they are helpful.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_082_a8ab5f26",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus initially on images to practice defusion",
+      "Allow images to come and go without attention",
+      "Pay attention to images only if helpful"
+    ],
+    "pause_rules": [
+      "Pause to allow recognition of images as harmless",
+      "Pause to facilitate acceptance and refocusing"
+    ],
+    "psychological_function": "Facilitates recognition of images as harmless pictures, reduces fear and judgment, and shifts focus to constructive activities.",
+    "repetition_rules": [
+      "Repeat recognition that memories are pictures",
+      "Reinforce acceptance and non-struggle with images"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_082",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "images as colourful pictures",
+      "television on in the background"
+    ],
+    "therapeutic_function": "Defusion techniques to reduce cognitive fusion with images and thoughts, promoting acceptance and reducing struggle with painful memories.",
+    "voice_rules": [
+      "Use language that encourages acceptance without fighting or judging",
+      "Frame memories as past events that cannot harm now"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_082_a8ab5f26",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_082",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:15+00:00"
+}

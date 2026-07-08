@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+from time import perf_counter
+
 import streamlit as st
 
 from niros.guided_assessment import (
@@ -23,7 +25,15 @@ from niros.guided_assessment import (
 )
 from niros.ctpc_compiler import CTPCCompilationValidationError
 from niros.human_review_workflow import HumanReviewError
-from niros.knowledge_compiler import KnowledgeCompiler
+from niros.knowledge_compiler import (
+    CompileProgressEvent,
+    KnowledgeCompiler,
+    PROGRESS_COMPLETED,
+    PROGRESS_CONSOLIDATED,
+    PROGRESS_CONSOLIDATING,
+    PROGRESS_FAILED,
+    PROGRESS_SAVING_REVIEWS,
+)
 from niros.knowledge_domain import (
     KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
     KNOWLEDGE_DOMAIN_VOCAL_ICARO,
@@ -69,11 +79,19 @@ from niros.ui_human_readable import (
 )
 from niros.ui_knowledge_factory import (
     DEFAULT_UI_MAX_BATCH_CHARS,
+    DEFAULT_MAX_BATCHES_UI_OPTION,
+    DEFAULT_REVIEW_MODE_UI_OPTION,
+    MAX_BATCHES_UI_OPTIONS,
+    REVIEW_MODE_UI_OPTIONS,
     SCANNED_PDF_GUIDANCE,
     assign_review_domain_for_ui,
     approve_review_for_ui,
     base_extraction_for_review,
     build_edited_extraction,
+    compile_progress_ui_summary,
+    compile_summary_ui_funnel,
+    archive_pending_reviews_for_ui,
+    parse_review_mode_option,
     format_multiline_field,
     import_knowledge_source_for_ui,
     list_extraction_results_for_ui,
@@ -81,6 +99,7 @@ from niros.ui_knowledge_factory import (
     list_latest_ctpc_patterns,
     load_review_for_ui,
     load_review_record,
+    parse_max_batches_option,
     parse_multiline_field,
     reject_review_for_ui,
     request_changes_for_ui,
@@ -256,6 +275,8 @@ if "kf_knowledge_domain" not in st.session_state:
     st.session_state.kf_knowledge_domain = KNOWLEDGE_DOMAIN_VOCAL_ICARO
 if "kf_compile_summary" not in st.session_state:
     st.session_state.kf_compile_summary = None
+if "kf_compile_ui_summary" not in st.session_state:
+    st.session_state.kf_compile_ui_summary = None
 
 _KF_DOMAIN_OPTIONS: tuple[tuple[str, str], ...] = (
     (KNOWLEDGE_DOMAIN_VOCAL_ICARO, "Vocal / Icaro"),
@@ -630,7 +651,7 @@ def _render_knowledge_factory(language: str) -> None:
         st.info(st.session_state.kf_message)
 
     st.subheader(workstation_ui_text("knowledge_factory", language))
-    st.caption("Source → Extract → Review → CTPC")
+    st.caption("Source → Extract → Consolidate → Review → CTPC")
 
     st.markdown(f"### {workstation_ui_text('kf_step_source', language)}")
     st.markdown(
@@ -742,8 +763,40 @@ def _render_knowledge_factory(language: str) -> None:
         )
     process_all = st.checkbox(
         "Process all batches",
-        value=True,
+        value=False,
         key="kf_process_all",
+        help="When checked, ignores the max-batches limit and processes every usable batch.",
+    )
+    max_batches_option = st.selectbox(
+        "Max batches to process",
+        options=tuple(MAX_BATCHES_UI_OPTIONS.keys()),
+        index=tuple(MAX_BATCHES_UI_OPTIONS.keys()).index(DEFAULT_MAX_BATCHES_UI_OPTION),
+        key="kf_max_batches_option",
+        disabled=process_all,
+    )
+    force_recompile = st.checkbox(
+        "Force recompile",
+        value=False,
+        key="kf_force_recompile",
+    )
+    review_mode_option = st.selectbox(
+        "Review Mode",
+        options=tuple(REVIEW_MODE_UI_OPTIONS.keys()),
+        index=tuple(REVIEW_MODE_UI_OPTIONS.keys()).index(DEFAULT_REVIEW_MODE_UI_OPTION),
+        key="kf_review_mode_option",
+        help="Conservative: known ACT mechanisms only. Normal: known + strong novel. Aggressive: broader exploration.",
+    )
+    auto_approve = st.checkbox(
+        "Auto approve consolidated candidates",
+        value=False,
+        key="kf_auto_approve",
+        help="Only psychotherapy_tle text candidates meeting safety gates are auto-approved.",
+    )
+    force_single_auto = st.checkbox(
+        "Allow single-evidence auto approve (testing)",
+        value=False,
+        key="kf_force_single_auto_approve",
+        disabled=not auto_approve,
     )
     compile_scope = st.radio(
         "Compile scope",
@@ -785,7 +838,7 @@ def _render_knowledge_factory(language: str) -> None:
     else:
         supported_compile_source = False
 
-    action_cols = st.columns(2)
+    action_cols = st.columns(3)
     if action_cols[0].button(
         "Import / Preview",
         use_container_width=True,
@@ -838,59 +891,195 @@ def _render_knowledge_factory(language: str) -> None:
             "vocal_icaro",
         }:
             st.session_state.kf_message = f"Unsupported knowledge domain: {selected_domain}"
-        elif not process_all:
-            st.session_state.kf_message = (
-                "Single-segment extraction is not enabled in this UI. "
-                "Use process all batches."
-            )
-        elif not has_openai_api_key():
-            st.session_state.kf_message = (
-                f"Missing required environment variable: {OPENAI_KEY_ENV_VAR}. "
-                f"{OPENAI_SETUP_HINT}"
-            )
         else:
             try:
                 compiler = KnowledgeCompiler(workspace_root=workspace_root)
-                progress = st.progress(0, text="Starting Knowledge Compiler...")
-                with st.spinner("Compiling Knowledge Library source material..."):
-                    if compile_scope == "Document":
-                        summary = compiler.compile_document(
-                            selected_source.source_id,
-                            max_batch_chars=int(max_batch_chars),
-                        )
-                    elif compile_scope == "Family":
-                        summary = compiler.compile_family(
-                            selected_domain,
-                            selected_family,
-                            max_batch_chars=int(max_batch_chars),
-                        )
-                    elif compile_scope == "Domain":
-                        summary = compiler.compile_domain(
-                            selected_domain,
-                            max_batch_chars=int(max_batch_chars),
-                        )
+                max_batches = None if process_all else parse_max_batches_option(max_batches_option)
+                progress_started_at = perf_counter()
+                progress_events: list[CompileProgressEvent] = []
+                progress_bar = st.progress(0.0, text="Starting Knowledge Compiler...")
+                status_text = st.empty()
+                metric_cols = st.columns(5)
+                total_metric = metric_cols[0].empty()
+                processed_metric = metric_cols[1].empty()
+                reviews_metric = metric_cols[2].empty()
+                failed_metric = metric_cols[3].empty()
+                elapsed_metric = metric_cols[4].empty()
+                event_log_panel = st.empty()
+
+                def _render_progress(event: CompileProgressEvent) -> None:
+                    progress_events.append(event)
+                    if event.batch_total > 0 and event.batch_index > 0:
+                        pct = min(event.batch_index / event.batch_total, 1.0)
+                    elif event.event in {PROGRESS_COMPLETED, PROGRESS_FAILED}:
+                        pct = 1.0
                     else:
-                        summary = compiler.compile_library(
-                            max_batch_chars=int(max_batch_chars),
-                        )
-                progress.progress(100, text="Knowledge Compiler finished.")
+                        pct = 0.0
+                    status_label = event.message or event.event.replace("_", " ")
+                    progress_bar.progress(
+                        pct,
+                        text=f"Batch {event.batch_index} / {event.batch_total} — {status_label}"
+                        if event.batch_total
+                        else status_label,
+                    )
+                    status_text.markdown(f"**{status_label}**")
+                    total_metric.metric("Total batches", event.batch_total or "—")
+                    processed_metric.metric(
+                        "Processed",
+                        event.reviews_created_so_far
+                        + event.failed_batches_so_far
+                        + event.skipped_reviews_so_far,
+                    )
+                    reviews_metric.metric("Reviews created", event.reviews_created_so_far)
+                    failed_metric.metric("Failed", event.failed_batches_so_far)
+                    elapsed_metric.metric(
+                        "Elapsed (s)",
+                        round(perf_counter() - progress_started_at, 1),
+                    )
+                    event_lines = [
+                        f"{item.timestamp} · {item.event} · {item.message}"
+                        for item in progress_events
+                    ]
+                    event_log_panel.code("\n".join(event_lines[-25:]), language="text")
+
+                compile_kwargs = {
+                    "force": force_recompile,
+                    "max_batch_chars": int(max_batch_chars),
+                    "process_all_batches": process_all,
+                    "max_batches": max_batches,
+                    "progress_callback": _render_progress,
+                    "review_mode": parse_review_mode_option(review_mode_option),
+                    "auto_approve": auto_approve,
+                    "force_allow_single_evidence_auto_approve": force_single_auto,
+                }
+                if compile_scope == "Document":
+                    summary = compiler.compile_document(
+                        selected_source.source_id,
+                        **compile_kwargs,
+                    )
+                elif compile_scope == "Family":
+                    summary = compiler.compile_family(
+                        selected_domain,
+                        selected_family,
+                        **compile_kwargs,
+                    )
+                elif compile_scope == "Domain":
+                    summary = compiler.compile_domain(
+                        selected_domain,
+                        **compile_kwargs,
+                    )
+                else:
+                    summary = compiler.compile_library(**compile_kwargs)
+
                 st.session_state.kf_compile_summary = summary
+                if summary.document_results:
+                    ui_summary = compile_progress_ui_summary(summary.document_results[0])
+                    st.session_state.kf_compile_ui_summary = ui_summary
+                st.session_state.kf_compile_funnel = compile_summary_ui_funnel(summary)
                 st.session_state.kf_message = (
-                    f"Compile finished: {summary.pending_reviews} pending reviews, "
-                    f"{summary.failed_documents} failed documents, "
-                    f"{summary.skipped_documents} skipped."
+                    f"Compile finished: {summary.raw_extractions} raw extractions "
+                    f"({summary.filtered_extractions} filtered) → "
+                    f"{summary.consolidated_candidates} consolidated candidates → "
+                    f"{summary.pending_reviews} pending, {summary.auto_approved} auto-approved."
                 )
-            except ValueError as exc:
+                st.rerun()
+            except (FileNotFoundError, ValueError) as exc:
                 st.session_state.kf_message = str(exc)
 
+    if action_cols[2].button(
+        "Archive pending reviews",
+        use_container_width=True,
+        key="kf_archive_pending_reviews",
+    ):
+        try:
+            archive_result = archive_pending_reviews_for_ui(workspace_root)
+            st.session_state.kf_archived_reviews = (
+                st.session_state.get("kf_archived_reviews", 0) + archive_result.archived_count
+            )
+            st.session_state.kf_message = (
+                f"Archived {archive_result.archived_count} pending review(s) to "
+                f"{archive_result.archive_dir or '—'}."
+            )
+            st.rerun()
+        except OSError as exc:
+            st.session_state.kf_message = str(exc)
+
     compile_summary = st.session_state.kf_compile_summary
+    compile_ui_summary = st.session_state.kf_compile_ui_summary
+    compile_funnel = st.session_state.get("kf_compile_funnel")
+    if compile_funnel is not None:
+        archived_reviews = st.session_state.get("kf_archived_reviews", 0)
+        funnel_cols = st.columns(8)
+        funnel_cols[0].metric("Chunks scanned", compile_funnel["chunks_seen"])
+        funnel_cols[1].metric("Skipped chunks", compile_funnel["chunks_skipped"])
+        funnel_cols[2].metric("Extracted chunks", compile_funnel["chunks_extracted"])
+        funnel_cols[3].metric("Raw extractions", compile_funnel["raw_extractions"])
+        funnel_cols[4].metric("Filtered", compile_funnel["filtered_extractions"])
+        funnel_cols[5].metric("Consolidated", compile_funnel["consolidated_candidates"])
+        funnel_cols[6].metric("Pending reviews", compile_funnel["pending_reviews"])
+        funnel_cols[7].metric("Auto-approved", compile_funnel["auto_approved"])
+        skip_reasons = compile_funnel.get("skipped_by_reason") or ()
+        if skip_reasons:
+            st.markdown("**Skip reasons**")
+            st.dataframe(
+                [
+                    {"reason": reason, "count": count}
+                    for reason, count in skip_reasons
+                ],
+                use_container_width=True,
+                hide_index=True,
+            )
+        relevance_cols = st.columns(3)
+        relevance_cols[0].metric("High relevance", compile_funnel.get("high_relevance_count", 0))
+        relevance_cols[1].metric("Medium relevance", compile_funnel.get("medium_relevance_count", 0))
+        relevance_cols[2].metric("Low relevance", compile_funnel.get("low_relevance_count", 0))
+        if archived_reviews:
+            st.caption(f"Archived reviews this session: {archived_reviews}")
+    if compile_ui_summary is not None:
+        st.success("Compile complete.")
+        st.write(
+            {
+                "source_id": compile_ui_summary.source_id,
+                "source_type": compile_ui_summary.source_type,
+                "domain": compile_ui_summary.domain,
+                "knowledge_domain": compile_ui_summary.knowledge_domain,
+                "status": compile_ui_summary.status,
+                "raw_corpus_path": compile_ui_summary.raw_corpus_path,
+                "log_path": compile_ui_summary.log_path,
+                "live_log_path": compile_ui_summary.live_log_path,
+                "total_batches": compile_ui_summary.total_batches,
+                "processed": compile_ui_summary.processed,
+                "reviews_created": compile_ui_summary.reviews_created,
+                "raw_extractions": compile_ui_summary.raw_extractions,
+                "consolidated_candidates": compile_ui_summary.consolidated_candidates,
+                "books_processed": compile_ui_summary.books_processed,
+                "failed_batches": compile_ui_summary.failed,
+                "skipped_reviews": compile_ui_summary.skipped,
+                "chunks_seen": compile_ui_summary.chunks_seen,
+                "chunks_skipped": compile_ui_summary.chunks_skipped,
+                "chunks_extracted": compile_ui_summary.chunks_extracted,
+                "skipped_by_reason": compile_ui_summary.skipped_by_reason,
+                "max_batch_chars": compile_ui_summary.max_batch_chars,
+                "max_batches": compile_ui_summary.max_batches,
+                "openai_model": compile_ui_summary.openai_model,
+                "elapsed_seconds": compile_ui_summary.elapsed_seconds,
+            }
+        )
+        st.info("Next step: Go to the Review section below to inspect pending reviews.")
     if compile_summary is not None:
         st.write(
             {
                 "scope": compile_summary.scope,
                 "documents_processed": compile_summary.documents_processed,
                 "chunks_created": compile_summary.chunks_created,
+                "chunks_seen": compile_summary.chunks_seen,
+                "chunks_skipped": compile_summary.chunks_skipped,
+                "chunks_extracted": compile_summary.chunks_extracted,
+                "skipped_by_reason": compile_summary.skipped_by_reason,
                 "semantic_extractions": compile_summary.semantic_extractions,
+                "raw_extractions": compile_summary.raw_extractions,
+                "consolidated_candidates": compile_summary.consolidated_candidates,
+                "books_processed": compile_summary.books_processed,
                 "pending_reviews": compile_summary.pending_reviews,
                 "approved_patterns": compile_summary.approved_patterns,
                 "ctpc_generated": compile_summary.ctpc_generated,
@@ -899,6 +1088,59 @@ def _render_knowledge_factory(language: str) -> None:
                 "processing_time_seconds": compile_summary.processing_time_seconds,
             }
         )
+        if compile_summary.document_results:
+            st.dataframe(
+                [
+                    {
+                        "source_id": result.source_id,
+                        "source_type": result.source_type,
+                        "domain": result.domain,
+                        "knowledge_domain": result.knowledge_domain,
+                        "status": result.status,
+                        "raw_corpus_path": result.raw_corpus_path,
+                        "segment_count": result.segment_count,
+                        "usable_batch_count": result.usable_batch_count,
+                        "max_batch_chars": result.max_batch_chars,
+                        "process_all_batches": result.process_all_batches,
+                        "openai_model": result.openai_model,
+                        "extraction_attempted": result.extraction_attempted,
+                        "reviews_created": result.reviews_created,
+                        "raw_extractions": result.raw_extractions,
+                        "consolidated_candidates": result.consolidated_candidates,
+                        "books_processed": result.books_processed,
+                        "failed_batches": result.failed_batches,
+                        "skipped_reviews": result.skipped_reviews,
+                        "batches_processed": result.batches_processed,
+                        "max_batches": result.max_batches,
+                        "log_path": result.log_path,
+                        "live_log_path": result.live_log_path,
+                    }
+                    for result in compile_summary.document_results
+                ],
+                use_container_width=True,
+                hide_index=True,
+            )
+            for result in compile_summary.document_results:
+                if result.failed_batch_errors or result.errors:
+                    with st.expander(
+                        f"Compile errors for {result.source_id}",
+                        expanded=True,
+                    ):
+                        if result.failed_batch_errors:
+                            st.dataframe(
+                                [
+                                    {
+                                        "batch_id": error.batch_id,
+                                        "error_type": error.error_type,
+                                        "error_message": error.message,
+                                    }
+                                    for error in result.failed_batch_errors
+                                ],
+                                use_container_width=True,
+                                hide_index=True,
+                            )
+                        else:
+                            st.write(list(result.errors))
 
     import_result = st.session_state.kf_last_import
     if import_result is not None:
@@ -926,14 +1168,19 @@ def _render_knowledge_factory(language: str) -> None:
         st.dataframe(
             [
                 {
+                    "mechanism": item.canonical_name or item.mechanism_name or item.function_preview,
+                    "ontology_status": item.ontology_status or "—",
                     "source_id": item.source_id,
                     "source_title": item.source_title,
                     "source_family": item.source_family,
                     "segment_id": item.segment_id,
+                    "review_type": item.review_type,
+                    "mentions": item.mention_count,
+                    "books": item.book_count,
+                    "families": ", ".join(item.source_families),
                     "knowledge_domain": item.knowledge_domain,
                     "status": item.status,
                     "confidence": round(item.confidence, 2),
-                    "function_preview": item.function_preview,
                     "suggested_action": item.suggested_action,
                 }
                 for item in table_items
@@ -950,7 +1197,7 @@ def _render_knowledge_factory(language: str) -> None:
                     default_segment_index = index
                     break
         selected_segment = st.selectbox(
-            "Select batch for review",
+            "Select pattern for review",
             options=segment_options,
             index=default_segment_index,
             key="kf_review_segment_select",
@@ -969,17 +1216,60 @@ def _render_knowledge_factory(language: str) -> None:
 
         header_cols = st.columns([3, 1])
         with header_cols[0]:
-            st.markdown(
-                f"**{detail.segment_id}** · confidence **{detail.confidence:.2f}** · "
-                f"status `{detail.status}` · domain `{detail.knowledge_domain}` · "
-                f"action hint `{next((item.suggested_action for item in table_items if item.review_id == selected_review_id), '—')}`"
-            )
+            if detail.review_type == "consolidated_candidate":
+                st.markdown(
+                    f"**Mechanism:** {detail.mechanism_name or detail.canonical_name or detail.therapeutic_function} · "
+                    f"**Ontology status:** `{detail.ontology_status or 'unknown'}` · "
+                    f"evidence **{detail.mention_count}** · books **{detail.book_count}** · "
+                    f"families **{', '.join(detail.source_families) or '—'}** · "
+                    f"status `{detail.status}` · domain `{detail.knowledge_domain}`"
+                )
+            else:
+                st.markdown(
+                    f"**Mechanism:** {detail.mechanism_name or detail.therapeutic_function} · "
+                    f"**Ontology status:** `{detail.ontology_status or 'unknown'}` · "
+                    f"confidence **{detail.confidence:.2f}** · "
+                    f"status `{detail.status}` · domain `{detail.knowledge_domain}` · "
+                    f"action hint `{next((item.suggested_action for item in table_items if item.review_id == selected_review_id), '—')}`"
+                )
         with header_cols[1]:
             st.caption(f"source: `{detail.source_id}`")
 
         evidence_col, fields_col = st.columns([1.1, 1])
         with evidence_col:
-            st.markdown("**Evidence text**")
+            if detail.mechanism_name or detail.mechanism_description:
+                st.markdown("**Mechanism knowledge**")
+                if detail.mechanism_name:
+                    st.markdown(f"**Name:** {detail.mechanism_name}")
+                if detail.mechanism_description:
+                    st.caption(detail.mechanism_description)
+                if detail.ontology_mechanism_id:
+                    st.caption(f"Ontology ID: `{detail.ontology_mechanism_id}`")
+            if detail.why_this_is_a_mechanism or detail.causal_process:
+                st.markdown("**Reason for extraction**")
+                if detail.why_this_is_a_mechanism:
+                    st.info(detail.why_this_is_a_mechanism)
+                if detail.causal_process:
+                    st.markdown("**Causal explanation**")
+                    st.write(detail.causal_process)
+            if detail.why_extracted:
+                st.markdown("**Gate reasoning**")
+                st.info(detail.why_extracted)
+                if detail.knowledge_kind or detail.relevance_score:
+                    st.caption(
+                        f"Relevance: {detail.relevance_score:.2f} · "
+                        f"kind `{detail.knowledge_kind or 'unknown'}`"
+                    )
+                if detail.evidence_span:
+                    st.caption(f"Gate evidence: {detail.evidence_span}")
+            if detail.evidence_fragments:
+                st.markdown("**Evidence fragments**")
+                with st.expander(
+                    f"Found {detail.mention_count} time(s) across {detail.book_count} book(s)",
+                    expanded=True,
+                ):
+                    st.code("\n\n".join(detail.evidence_fragments), language="text")
+            st.markdown("**Evidence summary**")
             st.text_area(
                 "evidence_text",
                 value=detail.evidence_text,

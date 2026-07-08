@@ -1,0 +1,59 @@
+{
+  "created_at": "2026-07-07T21:47:42+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_089_6910cfc5",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative thoughts",
+      "disturbing images",
+      "uncomfortable feelings",
+      "avoidance behavior",
+      "fear of failure",
+      "fear of rejection",
+      "comfort zone"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "No explicit contraindications mentioned in the text."
+    ],
+    "evidence_text": "“But that’s horrible!’ you may well protest. ‘I don’t want to live surrounded by demons!’ Well, I'm\nsorry to be the bearer of bad news, but you already are. And those demons will keep showing up,\nagain and again, as soon as you start to take your life in a valued direction. Why so? Again, it all\nstems back to evolution. Remember, the mind of our ancestors had one overriding imperative:\n‘Don’t get killed!” And an important factor in not getting yourself killed is to get to know your\nenvironment. The better you know the terrain and the local wildlife then, obviously, the safer you\nare; whereas venturing into unknown territory exposes you to all sorts of exotic dangers. So if one\nof our ancestors decided to explore a new area, his mind would go into a state of red alert. ‘Look\nout!’ ‘Be careful!’ ‘Could be a crocodile in that pond or a leopard in the bushes!’ And thanks to\nevolution, our modern minds do the same, only far more extensively.\n\n---\n\nThus, as soon as we start to do something new, our mind will start warning us: ‘You might fail’,\n“You might make a mistake”, “You might get rejected.’ It warns us with negative thoughts, with\ndisturbing images or bad memories, and with uncomfortable feelings and sensations. And all too\n\n---\n\noften we let these warnings stop us from taking our lives in the direction we really want. Rather\nthan sail for shore, we drift at sea. Some people call this ‘staying in your comfort zone’, but that’s\nnot a good name for it because the comfort zone is definitely not comfortable. It should be called\nthe ‘misery zone’ or the ‘missing-out-on-life zone’.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_089_6910cfc5",
+    "extractor": "openai",
+    "generation_rules": [
+      "Warnings arise automatically when starting new or valued actions due to evolutionary survival mechanisms."
+    ],
+    "pause_rules": [
+      "No explicit pause rules indicated in the text."
+    ],
+    "psychological_function": "Highlighting the mind's evolved tendency to generate cautionary signals (negative thoughts, disturbing images, uncomfortable feelings) to protect from danger, which can paradoxically inhibit valued behavior.",
+    "repetition_rules": [
+      "Reinforce the inevitability and naturalness of negative internal experiences when pursuing valued directions."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_089",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "demons",
+      "comfort zone",
+      "misery zone",
+      "missing-out-on-life zone",
+      "red alert",
+      "crocodile in the pond",
+      "leopard in the bushes",
+      "sailing for shore",
+      "drifting at sea"
+    ],
+    "therapeutic_function": "Helping individuals recognize and accept the presence of negative thoughts and feelings as natural evolutionary warnings that arise when pursuing valued life directions, thereby reducing avoidance and promoting committed action.",
+    "voice_rules": [
+      "Use direct, conversational voice that anticipates and addresses common protests or resistance."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_089_6910cfc5",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_089",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:42+00:00"
+}

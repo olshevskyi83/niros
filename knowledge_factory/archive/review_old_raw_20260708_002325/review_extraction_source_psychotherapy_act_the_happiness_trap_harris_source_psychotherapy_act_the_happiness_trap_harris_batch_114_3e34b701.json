@@ -1,0 +1,62 @@
+{
+  "created_at": "2026-07-07T21:48:58+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_114_3e34b701",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "awareness",
+      "attention",
+      "focus",
+      "bodily sensations",
+      "urges",
+      "tension",
+      "discomfort"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Potential discomfort or distress in individuals with trauma related to body awareness or somatic sensations."
+    ],
+    "evidence_text": "The observing self is responsible for awareness, attention and focus; it can observe thoughts,\nimages, memories etc., but cannot produce them; and it has no commonly used word to describe it.\n(The closest term in the English language is ‘awareness’.)\n\n---\n\nThe following exercise will help distinguish these two distinct parts of you and will also give you a\nsense of something called ‘body awareness’ (a key factor in expansion).\n\n---\n\nAs you keep reading, simply notice the following:\n\n---\n\n¢ What is the position of your spine? Is it leaning forward or backward? Where does it curve?\n\n---\n\n* How are you breathing? Shallowly or deeply? Rapidly or slowly?\n\n---\n\n+ As you breathe in, does your tummy move inward or outward?\n\n---\n\n¢ Is your back resting against something? If so, notice that area where your back is in contact with\nthe supporting surface.\n\n---\n\n¢ What can you feel in your neck and shoulders? Any tension or discomfort?\n\n---\n\n¢ What is your body temperature? Hot, cold or comfortable?\n\n---\n\n¢ Which part of you feels the warmest? Which part of you feels the coolest?\n\n---\n\n* How does the inside of your mouth feel: wet, dry, warm, cool? Where is your tongue resting? Is\nit touching your teeth?\n\n---\n\n* Now take twenty seconds to scan your body from head to toe and notice if there’s any stiffness,\ntension, pain or discomfort anywhere.\n\n---\n\n* Take another twenty seconds to scan your body from head to toe and notice if there are any\npleasant or comfortable sensations.\n\n---\n\n¢ Do you feel any urge to change your position even slightly, such as by shifting a leg or an arm\nor even just a finger? If so, notice that urge, but don’t act on it yet; just notice which part of your\nbody you want to move. Then move it and notice how it feels.\n\n---\n\n* Are you noticing any urge to eat, sleep, rest, drink, scratch, stretch or skip this bit and get to the\npoint?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_114_3e34b701",
+    "extractor": "openai",
+    "generation_rules": [
+      "Direct attention sequentially to specific body parts and sensations.",
+      "Encourage noticing urges without immediate action.",
+      "Use sensory descriptive prompts to elicit detailed observation."
+    ],
+    "pause_rules": [
+      "Include timed pauses (e.g., twenty seconds) for body scanning.",
+      "Pause after each prompt to allow observation."
+    ],
+    "psychological_function": "Facilitates the distinction between the observing self and experiential content, promoting non-reactive awareness and attentional focus.",
+    "repetition_rules": [
+      "Repeat body scanning twice to notice discomfort and pleasant sensations.",
+      "Reiterate noticing urges before acting on them."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_114",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observing self",
+      "body awareness",
+      "spine position",
+      "breathing patterns",
+      "body temperature",
+      "urges to move or act"
+    ],
+    "therapeutic_function": "Enhances body awareness and mindfulness by guiding attention to physical sensations and urges without immediate reaction.",
+    "voice_rules": [
+      "Use a calm, neutral, and guiding tone.",
+      "Employ direct and simple instructions.",
+      "Maintain a non-judgmental and observational voice."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_114_3e34b701",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_114",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:58+00:00"
+}

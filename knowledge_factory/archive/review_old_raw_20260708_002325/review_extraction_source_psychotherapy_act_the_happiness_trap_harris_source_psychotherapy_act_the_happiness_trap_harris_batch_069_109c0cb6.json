@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:46:23+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_069_109c0cb6",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative thoughts",
+      "persistent self-critical stories",
+      "unhelpful positive thoughts"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Attempting to defuse thoughts solely to make them disappear may prevent true acceptance."
+    ],
+    "evidence_text": "So if you do find yourself struggling with a negative thought, just notice it. Pretend that you’re a\nscientist observing your own mind; notice the different ways in which you struggle. Do you\nchallenge your thoughts, trying to disprove or invalidate them? Do you judge them as good or bad,\ntrue or false, positive or negative? Do you try to push them away or replace them with ‘better’\n\n---\n\nones? Do you enter into a debate with your mind? Observe your struggle with interest and notice\nwhat it accomplishes.\n\n---\n\nOf course, some stories are more persistent than others: they come back again and again. Remember\nmy ‘I’m incompetent’ story? Pve had that story for as long as I can remember. It visits me much\nless often now, but it still pops in to my mind from time to time. The difference is, now I don’t\nbelieve it. But if a helpful thought shows up like, ‘I just stuffed up; how can I learn from this?’ then\nI certainly do pay attention.\n\n---\n\nIt’s important to let go of any expectation that your stories will go away or show up less frequently.\nAs it happens, very often they will go away. But if you’re defusing them to make them go away,\nthen by definition you’re not truly accepting them. And you know where that leads.\n\n---\n\nBut, I hear you ask, aren’t positive thoughts better than negative thoughts? Not necessarily.\nRemember, the most important question is: ‘Is this thought helpful?’ Suppose an alcoholic brain\nsurgeon thinks to himself, ‘Hey, I’m the greatest brain surgeon in the world. I can do brilliant\nsurgery even if I’ve been drinking.’ It’s a positive thought, but surely not a helpful one. Most\npeople convicted of drink driving have had positive thoughts of a similar nature.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_069_109c0cb6",
+    "extractor": "openai",
+    "generation_rules": [
+      "Notice thoughts without trying to disprove, judge, push away, or replace them.",
+      "Observe the struggle with interest and note its effects.",
+      "Accept that thoughts may persist without needing to make them go away.",
+      "Evaluate thoughts based on helpfulness rather than positivity or negativity."
+    ],
+    "pause_rules": [
+      "Pause to notice and observe thoughts before reacting or engaging with them."
+    ],
+    "psychological_function": "Facilitates awareness of thought patterns and reduces attachment to the literal content of thoughts, enabling differentiation between helpful and unhelpful thoughts.",
+    "repetition_rules": [
+      "Recognize that some thoughts will recur repeatedly over time."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_069",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "scientist observing own mind",
+      "stories as recurring thoughts"
+    ],
+    "therapeutic_function": "Encourages mindful observation and acceptance of thoughts without judgment or attempts to change them, promoting cognitive defusion and reducing struggle with negative thoughts.",
+    "voice_rules": [
+      "Use a curious and non-judgmental tone, as if observing scientifically."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_069_109c0cb6",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_069",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:23+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:48:39+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_108_518e6e4e",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "judging thoughts",
+      "negative self-evaluations",
+      "ruminative questioning",
+      "self-blame",
+      "emotional discomfort"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals with severe cognitive impairments that limit reflective capacity"
+    ],
+    "evidence_text": "Notice that I said the aim is to let go of judging; I didn’t say to stop judging. Your thinking self is\nan expert at judging, and it’ll never stop doing it for long. But you can learn to let go of those\njudgements more and more, simply by defusing them, as in the above examples.\n\n---\n\nBut what if the feeling really is awful? Then we come back to the pragmatic approach: is this\nthought helpful? If you fuse with the thought, ‘This feels awful!’, will that help you deal with your\nemotions or does it simply make you feel worse?\n\n---\n\nJudging is one of the most common ways that our mind adds to our emotional discomfort, however,\nthere are plenty of others. Below is a list of common questions the mind asks, or comments that it\nmakes, which often stir up or intensify unpleasant feelings.\n\n---\n\nThis question sets you up to run through all your problems one by one, seeing 1f you can pinpoint\nwhat caused your feelings. Naturally, this just makes you feel worse, because it creates the illusion\nthat your life is nothing but problems. It also leads to a lot of time lost in unpleasant thoughts. (And\ndoes this process help you in any practical way? Does it help you take action to change your life for\nthe better?)\n\n---\n\nThis question sets you up for self-blame. You rehash all the “bad” things you’ve done, so you can\nfigure out why the universe decided to punish you. As a result, you end up feeling worthless,\nuseless, ‘bad’ or inadequate. (And again, does this help you in any practical way?)\n\n---\n\nThis question leads you to search through your entire life history looking for the reasons why you\nare the way you are. Frequently this leads to feelings of anger, resentment and hopelessness. And it\nvery often ends in blaming your parents. (And does this help you in any practical way?)\n\n---\n\nThis 1s another great question for setting you up to spend hours sifting through all your faults, flaws\nand defects. (And how do you usually feel as a result?)",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_108_518e6e4e",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage noticing judgments without stopping them",
+      "Promote defusion from thoughts",
+      "Use pragmatic questioning about helpfulness of thoughts",
+      "Highlight unhelpfulness of rumination and self-blame"
+    ],
+    "pause_rules": [
+      "Pause after prompting reflection on whether thoughts are helpful",
+      "Allow space for noticing judgments before defusing"
+    ],
+    "psychological_function": "Reduces fusion with negative thoughts and judgments, decreases rumination on problems, self-blame, and past causes of distress, thereby diminishing feelings of worthlessness, anger, resentment, and hopelessness.",
+    "repetition_rules": [
+      "Repeat the process of noticing and defusing judgments",
+      "Reinforce pragmatic questioning about the usefulness of thoughts"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_108",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Facilitates letting go of judgments through cognitive defusion to reduce emotional discomfort and increase pragmatic engagement with thoughts and feelings.",
+    "voice_rules": [
+      "Use a non-judgmental, pragmatic tone",
+      "Invite curiosity about thoughts rather than avoidance or suppression"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_108_518e6e4e",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_108",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:39+00:00"
+}

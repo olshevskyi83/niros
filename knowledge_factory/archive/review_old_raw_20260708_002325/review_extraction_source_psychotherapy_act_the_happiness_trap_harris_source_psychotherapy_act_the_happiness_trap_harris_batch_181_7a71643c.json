@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:52:35+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_181_7a71643c",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals struggling with fragile self-esteem",
+      "people using conditional achievements to validate self-worth",
+      "those experiencing automatic negative self-talk"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May not be suitable for individuals with severe depression or psychosis where negative self-judgments are pervasive and not easily observed; may increase distress if not supported properly."
+    ],
+    "evidence_text": "Now, in trying to raise your self-esteem, you gather as many white pieces together as you can with\nthoughts like, ‘My boss just gave me a pay rise’, ‘I’m going to the gym three times a week’, ‘I’m\nhelping my best friend though a major crisis’, and so on.\n\n---\n\nAs you advance these white pieces across the board, your self-esteem starts to rise. But here’s the\nproblem: there’s a whole army of black pieces waiting to counterattack! And the moment you slip\nup—the moment you stop doing any of those things you’re using to justify ‘I’m a good person’—\nthose black pieces attack and your self-esteem dissolves like a sugar cube in the rain.\n\n---\n\nYou stop exercising for a few days and you get, ‘See? You knew it couldn’t last! You’re so\npathetic!’ You lose your temper with a friend and you get, ‘What sort of lousy friend are you?’ You\nmake a mistake at work and you get, ‘Jeez, what a loser—you can’t even do your job right!’\n\n---\n\nSo then you need to rally some more white pieces. Some people try to do this with positive\naffirmations, repeating over and over things like, ‘I love, cherish and approve of myself”, ‘I am a\nwonderful human being, full of love, strength and courage.’ The problem with such affirmations is\nthat most people don’t really believe what they are saying. It’s a bit like saying, ‘I am Superman’,\nor “I am Wonder Woman.” No matter how often you said that to yourself, you wouldn’t really\nbelieve it, would you?\n\n---\n\nAnother problem is that any positive affirmation you use, regardless of whether it’s ‘true’, naturally\ntends to attract a negative response. (The white pieces always attract the black pieces.) To illustrate\nthis, try the following exercise.\n\n---\n\nIn this exercise, read each sentence slowly and try your very hardest to believe it. As you do so,\nnotice what your thinking self does in reaction; that is, notice what thoughts automatically pop into\nyour head.\n\n---\n\n«Jam a worthwhile, lovable, valuable human being.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_181_7a71643c",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphor of a board game with white and black pieces to represent positive and negative self-evaluations",
+      "Present examples of positive achievements followed by negative self-judgments",
+      "Introduce exercises that encourage noticing automatic negative thoughts in response to positive affirmations"
+    ],
+    "pause_rules": [
+      "Pause after presenting positive affirmations to allow the individual to notice automatic negative thoughts."
+    ],
+    "psychological_function": "To reveal the automatic negative thoughts that counteract attempts to boost self-esteem through achievements or positive affirmations, highlighting the conflict between self-justifying thoughts and self-critical responses.",
+    "repetition_rules": [
+      "Repeat examples of positive achievements followed by negative self-judgments to emphasize the pattern of self-esteem fluctuation."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_181",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "white pieces representing positive achievements or self-justifications",
+      "black pieces representing negative self-judgments or counterattacks"
+    ],
+    "therapeutic_function": "To illustrate the instability of self-esteem based on conditional achievements and to expose the automatic negative self-judgments that undermine positive self-views.",
+    "voice_rules": [
+      "Use a conversational and illustrative tone",
+      "Encourage self-observation and awareness of internal reactions",
+      "Avoid authoritative or prescriptive language"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_181_7a71643c",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_181",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:35+00:00"
+}

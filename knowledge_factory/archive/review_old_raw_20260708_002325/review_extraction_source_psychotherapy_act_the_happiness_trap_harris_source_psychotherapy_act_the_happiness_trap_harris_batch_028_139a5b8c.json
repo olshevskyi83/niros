@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:44:05+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_028_139a5b8c",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative thoughts",
+      "unwanted feelings",
+      "self-perceptions of failure or inadequacy"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Using these methods in situations where they do not work.",
+      "Using these methods when they interfere with engaging in valued activities."
+    ],
+    "evidence_text": "Distraction Arguing |\nYou distract yourself from your thoughts and You argue with your own thoughts to try to |\nfeelings by focusing on something else. For disprove them rationally. For example, if your\nexample, you're feeling bored or anxious, so you mind says, ‘You’re a failure’, you may argue\nsmoke a cigarette or eat some ice cream or go back, ‘Oh, no, I’m not—just look at\nshopping. Or you’re worried about some important everything I’ve achieved in my work.’ Or you\nissue at work, so you spend all night watching may argue against reality, protesting that, ‘It\ntelevision to try to keep your mind off it. shouldn’t be like this!’\n\n---\n\nYou try to take charge of your thoughts and\nYou try to cut off from your thoughts and feelings\nfeelings. For example, you may tell yourself\nby zoning out or making yourself numb, most\nthings like, ‘Snap out of it!’ ‘Stay calm!’ or\ncommonly through the use of medication, drugs or\n‘Cheer up!’ Or you try to replace negative\nalcohol. Some people do their zoning out by\nthoughts with positive ones, or to force\nsleeping excessively or simply ‘staring at the walls’.\nyourself to be happy when you’re not.\n\n---\n\nYou try to bully yourself into feeling\ndifferently. You call yourself names like\n‘loser’ or ‘idiot’. Or you criticise and blame\nyourself: ‘Don’t be so pathetic! You can\nhandle this; why are you being such a\ncoward? You should know better than this.’\n\n---\n\nWhat’s the problem with using methods like these to try to control your thoughts and feelings? The\nanswer is nothing, if:\n\n---\n\n* you use them only in situations where they can work\n\n---\n\n* using them doesn’t stop you from doing the things you value.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_028_139a5b8c",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use distraction by focusing on alternative activities to shift attention from negative internal experiences.",
+      "Argue with negative thoughts to disprove or challenge them rationally.",
+      "Suppress or numb feelings through zoning out, medication, drugs, or excessive sleep.",
+      "Replace negative thoughts with positive ones or force oneself to feel happy.",
+      "Use self-criticism or name-calling to attempt to change feelings."
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "psychological_function": "Reducing awareness or emotional impact of negative thoughts and feelings by diverting attention, rationalizing, numbing, or self-persuasion.",
+    "repetition_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_028",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "distraction",
+      "arguing with thoughts",
+      "zoning out",
+      "self-criticism"
+    ],
+    "therapeutic_function": "Managing and attempting to control or alter unwanted thoughts and feelings through distraction, argumentation, suppression, positive replacement, or self-criticism.",
+    "voice_rules": [
+      "Internal dialogue can be confrontational or self-critical, e.g., calling oneself names or arguing against thoughts."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_028_139a5b8c",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_028",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:05+00:00"
+}

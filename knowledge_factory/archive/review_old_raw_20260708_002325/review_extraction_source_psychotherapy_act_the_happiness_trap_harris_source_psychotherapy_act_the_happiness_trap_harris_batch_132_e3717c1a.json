@@ -1,0 +1,49 @@
+{
+  "created_at": "2026-07-07T21:49:52+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_132_e3717c1a",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant feelings",
+      "bodily sensations causing distress",
+      "thinking self prone to struggle"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "Q: Can the thinking self assist with expansion?\n\n---\n\nA: Yes, it can. Although your thinking self naturally sets you up to struggle, it can also help you\naccept unpleasant feelings. It can help in two ways: acceptance self-talk and acceptance imagery.\n\n---\n\nWhen practising expansion, some people find self-talk very helpful.\n\n---\n\ne ‘I don’t like this feeling, but I have room for it.’\n\n---\n\ne ‘I don’t like it; I don’t want it; I don’t approve of it. But right here and now, I accept it.’\n\n---\n\nTrue acceptance is not a thinking process. It’s an attitude of openness, interest and receptiveness,\nwhich originates with the observing self. Therefore, silently saying things such as the above\nexamples will not make you truly accept (any more than silently saying, ‘I’m happy’ will make you\ntruly happy). But what these words can do is act as a prompt: they can remind us and guide us to\naccept.\n\n---\n\nThis is a variation on the three-step expansion technique. It is often helpful for people who are\ngood at visualising. First scan your body and pick the sensation that bothers you the most. Observe\nit the way a curious scientist might. Now visualise that sensation as an object. What is the size and\nshape of it? Is it liquid, solid or gaseous? Is it transparent or opaque? What colour is it? Does the\ncolour vary? What is its temperature? Is it light, heavy or weightless? How does the surface feel to\nthe touch: rough, smooth, wet, dry, sticky, spiky, hot, cold? Is there any sound associated with it?\nIs there any vibration, pulsation or movement within it? Is its position fixed or shifting?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_132_e3717c1a",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use self-talk phrases that acknowledge dislike but affirm acceptance of feelings",
+      "Visualise the sensation in detailed sensory terms to foster curiosity and observation"
+    ],
+    "pause_rules": [
+      "Not explicitly stated; implied pauses during body scanning and detailed visualisation to observe sensations"
+    ],
+    "psychological_function": "Promotes openness, interest, and receptiveness towards unpleasant sensations by engaging the observing self and using acceptance prompts.",
+    "repetition_rules": [
+      "Not explicitly stated; implied use of repeated self-talk prompts to remind and guide acceptance"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_132",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "visualisation of unpleasant sensation as an object with attributes such as size, shape, colour, temperature, texture, sound, movement"
+    ],
+    "therapeutic_function": "Facilitates acceptance of unpleasant feelings through self-talk and imagery to reduce struggle with negative emotions.",
+    "voice_rules": [
+      "Use silent or internal self-talk as prompts to guide acceptance",
+      "Adopt a curious, non-judgmental observing stance"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_132_e3717c1a",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_132",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:52+00:00"
+}

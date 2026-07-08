@@ -1,0 +1,46 @@
+{
+  "created_at": "2026-07-07T21:51:30+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_164_d1b08490",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "pain",
+      "negativity",
+      "struggle with human nature",
+      "unrealistic expectations of pain-free existence"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Expectations of achieving enlightenment or pain-free existence through ACT"
+    ],
+    "evidence_text": "There are many spiritual or ‘new age’ books about reaching enlightenment, all of which place a\nmajor emphasis on living in the present moment. ACT stays out of this territory altogether. (ACT is\nabout creating a life, not becoming ‘enlightened’.)\n\n---\n\nInterestingly, many of these books directly feed into the happiness trap by promising the reader\nsuch things as a ‘pain-free existence, through living fully in the present’. While many such books\ndo a fine job of teaching mindfulness concepts, any search for a “pain-free existence’ is doomed to\nfailure. The more we try to avoid the basic reality that all human life involves pain, the more we are\nlikely to struggle with that pain when it arises, thereby creating even more suffering. In contrast to\nsuch books, ACT aims to help you create a rich, full and meaningful life while accepting the pain\nthat inevitably comes with living.\n\n---\n\nOne particularly unhelpful idea that commonly occurs in books proposing various paths to\nenlightenment is the utter falsehood that ‘negativity is unnatural’. Evolutionary biology tells us\notherwise. The mind has evolved in such a manner that negativity is not only natural but inevitable.\nTo see it as unnatural just sets you up for a struggle with your own human nature.\n\n---\n\nACT Is Not Based On Just One Person’s Life Experience\n\n---\n\nMany forms of self-help are based on the life experience of one person, who then goes on to write\nbooks and give talks about it. The logic goes: ‘This is how I did it, so it should work for you.’ The\nproblem is that this gives rise to a lot of untried and untested ideas. Just because the author used\ncertain methods to recover from cancer, get over a mental illness or otherwise transform her life,\ndoesn’t mean those methods are going to work for the next person. In contrast, ACT is based on an\ninternational program of scientific research that has repeatedly shown the efficacy of its methods.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_164_d1b08490",
+    "extractor": "openai",
+    "generation_rules": [
+      "Avoid promising a pain-free existence",
+      "Focus on acceptance rather than avoidance of pain"
+    ],
+    "pause_rules": [],
+    "psychological_function": "Reduce struggle with pain by promoting acceptance of pain as a natural and inevitable part of human life; counteract the false belief that negativity is unnatural",
+    "repetition_rules": [
+      "Reinforce acceptance of pain and negativity as natural and inevitable"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_164",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Help individuals create a rich, full, and meaningful life while accepting the pain that inevitably comes with living",
+    "voice_rules": [
+      "Present ACT as distinct from spiritual or new age approaches",
+      "Emphasize scientific research basis over personal anecdote"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_164_d1b08490",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_164",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:30+00:00"
+}

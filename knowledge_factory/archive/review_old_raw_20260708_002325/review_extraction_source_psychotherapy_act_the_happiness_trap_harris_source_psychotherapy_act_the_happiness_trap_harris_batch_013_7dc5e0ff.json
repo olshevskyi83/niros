@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:43:14+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_013_7dc5e0ff",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "painful thoughts and feelings",
+      "unrealistic beliefs about happiness",
+      "life satisfaction and fulfillment"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text."
+    ],
+    "evidence_text": "In Part 2, rather than trying to avoid or eliminate painful thoughts and feelings, you will learn how\nto fundamentally transform your relationship with them. You will learn how to experience painful\nthoughts and feelings in a new way that will lessen their impact, drain away their power, and\ndramatically decrease their influence over your life.\n\n---\n\nFinally, in Part 3, instead of chasing happy thoughts and feelings, you will focus on creating a rich\nand meaningful life. This will give rise to a sense of vitality and fulfilment that is both deeply\nsatisfying and long lasting.\n\n---\n\nThis book is like a trip through a foreign country: much will seem strange and new. Other things\nwill seem familiar yet somehow subtly different. At times you may feel challenged or confronted, at\nother times excited or amused. Take your time on this journey. Instead of rushing ahead, savour it\nfully. Stop when you find something stimulating or unusual. Explore it in depth and learn as much\nas you can. To create a life worth living is a major undertaking, so please take the time to appreciate\nit.\n\n---\n\nWhat's the last line of every fairytale? You got it: *...and they lived happily every after.’ And it’s\nnot just fairytales that have happy endings. How about Hollywood movies? Don’t they nearly\nalways have some sort of feel-good ending where good triumphs over evil, love conquers all, and\nthe hero defeats the bad guy? And doesn’t the same hold true for most popular novels and television\nprograms? We love happy endings because society tells us that’s how life should be: all joy and fun,\nall peace and contentment, living happily ever after. But does that sound realistic? Does it fit in with\nyour experience of life? This is one of four major myths that make up the basic blueprint for the\nhappiness trap. Let’s take a look at these myths, one by one.\n\n---\n\nMyth No.1: Happiness Is The Natural State For All Human Beings",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_013_7dc5e0ff",
+    "extractor": "openai",
+    "generation_rules": [
+      "Do not avoid or eliminate painful thoughts; instead, transform the relationship with them.",
+      "Focus on creating meaningful life rather than chasing happy feelings.",
+      "Take time to explore and savor experiences fully."
+    ],
+    "pause_rules": [
+      "Encourage stopping to savor and explore stimulating or unusual experiences during the therapeutic journey."
+    ],
+    "psychological_function": "Encourage acceptance and new experience of painful internal events; challenge unrealistic societal myths about happiness; promote mindful exploration and savoring of experiences.",
+    "repetition_rules": [
+      "Reinforce the idea of transforming relationship with pain and focusing on meaningful life rather than happiness chasing."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_013",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "trip through a foreign country",
+      "fairytale endings",
+      "Hollywood movies"
+    ],
+    "therapeutic_function": "Transform the relationship with painful thoughts and feelings to lessen their impact and decrease their influence over life; focus on creating a rich and meaningful life to foster vitality and fulfillment.",
+    "voice_rules": [
+      "Use a guiding and exploratory tone, inviting the reader to take their time and reflect.",
+      "Challenge common societal myths gently but directly."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_013_7dc5e0ff",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_013",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:14+00:00"
+}

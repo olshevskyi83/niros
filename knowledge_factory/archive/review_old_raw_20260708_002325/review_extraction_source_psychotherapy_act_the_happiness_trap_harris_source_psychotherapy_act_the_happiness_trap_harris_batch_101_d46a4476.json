@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-07-07T21:48:16+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_101_d46a4476",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "anxiety",
+      "anger about anxiety",
+      "sadness about anxiety",
+      "anxiety about anxiety",
+      "guilt about anxiety",
+      "secondary emotions"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective or confusing for individuals with difficulty understanding metaphors or abstract concepts."
+    ],
+    "evidence_text": "Have you ever seen one of those old movies where the bad guy falls into a pool of quicksand and\nthe more he struggles, the faster it sucks him under? If you should ever fall into quicksand,\nstruggling is the worst thing you can possibly do. What you’re supposed to do is lie back, spread\nyour arms and lie as still as possible, floating on the surface. (Then whistle for your horse to come\nand rescue you!) Acting effectively in this situation is tricky, because every instinct tells you to try\nto escape; but if you don’t stop struggling, pretty soon you’ll sink beneath the surface. Sure, it’s not\nexactly fun to be floating on quicksand, but it beats the hell out of drowning in it!\n\n---\n\nThe same principle applies to difficult feelings: the more we try to fight them, the more they\nsmother us. Now, why should this be? Well, imagine that at the back of your mind is a switch—\nwe'll call it the ‘struggle switch’. When it’s switched on, it means we’re going to struggle against\nany physical or emotional pain that comes our way; whatever discomfort we experience, we’\nll try to\nget rid of it or avoid it.\n\n---\n\nFor instance, suppose the emotion that shows up is anxiety. If our struggle switch is ON, then that\nfeeling is completely unacceptable. So we could end up with anger about our anxiety: ‘How dare\nthey make me feel like this!’ Or sadness about our anxiety: ‘Not again! This is tragic!’ Or anxiety\nabout our anxiety: ‘This can’t be good for me. I wonder what it’s doing to my body.’ Or guilt about\nour anxiety: ‘I shouldn’t let myself get so worked up! I should know better. Once again, I’m acting\nlike a child.” Or maybe even a mixture of all these feelings at once! What all these secondary\nemotions have in common is that they are unpleasant, unhelpful and a drain on our energy and\nvitality. And then we get angry or anxious or depressed about that! Spot the vicious cycle?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_101_d46a4476",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphor of quicksand to illustrate the futility of struggling against emotions.",
+      "Introduce the concept of a 'struggle switch' to explain the tendency to resist discomfort.",
+      "Highlight the vicious cycle of secondary emotions arising from struggling with primary emotions."
+    ],
+    "pause_rules": [
+      "Pause after presenting the quicksand metaphor to allow reflection.",
+      "Pause before introducing the 'struggle switch' to emphasize the shift in explanation."
+    ],
+    "psychological_function": "Reduces emotional reactivity by promoting stillness and acceptance rather than resistance to unpleasant feelings.",
+    "repetition_rules": [
+      "Repeat the concept that struggling increases suffering through multiple examples of secondary emotions.",
+      "Reinforce the metaphor of quicksand to solidify understanding."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_101",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "quicksand",
+      "struggle switch",
+      "floating on the surface",
+      "whistling for rescue"
+    ],
+    "therapeutic_function": "Encourages acceptance and non-struggling with difficult emotions to reduce secondary distress and break the cycle of emotional escalation.",
+    "voice_rules": [
+      "Use conversational and illustrative tone with relatable examples.",
+      "Employ rhetorical questions to engage the listener's reflection."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_101_d46a4476",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_101",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:16+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:43:36+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_020_fc3dad05",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "emotional suppression",
+      "shame about emotional expression",
+      "internalized invalidation of feelings"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May not be suitable for individuals who require more directive emotional regulation strategies or who have difficulty tolerating emotional validation without additional support."
+    ],
+    "evidence_text": "With words such as these, the adults around us sent out the message, again and again, that we ought\nto be able to control our feelings. And certainly it appeared to us as if they controlled theirs. But\nwhat was going on behind closed doors? In all likelihood, many of those adults weren’t coping too\nwell with their own painful feelings. They may have been drinking too much, taking tranquillisers,\ncrying themselves to sleep every night, having affairs, throwing themselves into their work or\nsuffering in silence while slowly developing stomach ulcers. However they were coping, they\nprobably didn’t share those experiences with you.\n\n---\n\nAnd on those rare occasions when you did get to witness their loss of control, they probably never\nsaid anything like, ‘Okay, these tears are because I’m feeling something called sadness. It’s a\nnormal feeling and you can learn how to handle it effectively.’ But then, that’s not too surprising;\nthey couldn’t show you how to handle your emotions because they didn’t know how to handle\ntheirs!\n\n---\n\nThe idea that you should be able to control your feelings was undoubtedly reinforced in your school\nyears. For example, kids who cried at school were probably teased for being ‘cry-babies’ or\n“sissies”—especially if they were boys. Then, as you grew older, you probably heard phrases (or\neven used them yourself) such as, “Get over it!’ ‘Shit happens!” ‘Move on!’ ‘Chill out!” ‘Don’t let it\n\n---\n\nbother you!’ ‘Don’t be such a chicken!’ ‘Snap out of it!’ and so on.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_020_fc3dad05",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use examples of adult emotional struggles to illustrate common difficulties in emotional coping.",
+      "Highlight societal and familial messages that discourage emotional expression."
+    ],
+    "pause_rules": [
+      "Pause after examples of adult coping behaviors to allow reflection on hidden emotional struggles.",
+      "Pause after listing common invalidating phrases to emphasize their impact."
+    ],
+    "psychological_function": "Challenge the belief that one must control or suppress feelings; reduce shame associated with emotional expression; increase awareness of learned emotional invalidation.",
+    "repetition_rules": [
+      "Repeat messages that emotional control is often an unrealistic expectation.",
+      "Reinforce that emotional experiences are normal and shared."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_020",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "tears",
+      "cry-babies",
+      "sissies",
+      "chicken"
+    ],
+    "therapeutic_function": "Normalize and validate emotional experiences by acknowledging that adults often struggle with their own feelings and do not model effective emotional coping.",
+    "voice_rules": [
+      "Use empathetic and validating tone when discussing emotional struggles.",
+      "Avoid judgmental or dismissive language about feelings."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_020_fc3dad05",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_020",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:36+00:00"
+}

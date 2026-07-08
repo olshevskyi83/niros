@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:49:07+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_117_44fe9bd3",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant emotions",
+      "bodily sensations related to emotions",
+      "experiential avoidance"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "May be challenging for individuals with severe trauma or dissociation without additional support",
+      "Struggling individuals may initially find the process difficult due to instinctual resistance"
+    ],
+    "evidence_text": "The three basic steps of expansion are: observe your feelings, breathe into them, and allow them to\ncome and go. Sounds simple doesn’t it? That’s because it is. It’s also effortless. However, that does\nnot mean it’s easy! Remember the quicksand scenario? Lying back and floating on quicksand is\nsimple and effortless, yet it’s far from easy. Why? Because every instinct in your body tells you to\nstruggle. But don’t worry. If you fell into quicksand several times a week, you’d soon be a pro at\nlying back and floating. And the same is true for expansion: the more you practise, the easier it gets.\n\n---\n\nSo let’s take a look at these steps in a bit more detail, and then it’s practice time. Whenever you’re\nstruggling with an unpleasant emotion of any sort, follow these three steps:\n\n---\n\n‘Observe’ means bring your awareness to the sensations in your body. Take a few seconds to scan\nyourself from head to toe. Notice what you’re feeling, and where. As you do this, you will probably\nnotice several uncomfortable sensations. Look for the one that bothers you the most. For example, it\nmay be a lump in your throat, a knot in your stomach, tightness in your chest or a teary feeling in\nyour eyes. (If your entire body feels uncomfortable, then just pick the area that bothers you the\nmost.) Focus your attention on that sensation. Observe it with curiosity, like a scientist who has\ndiscovered some interesting new phenomenon. Observe it carefully. Notice where it starts and\nwhere it ends. If you had to draw a line around this sensation, what would it look like? Is it on the\nsurface of the body or inside you or both? How far inside you does it go? Where is it the most\nintense? Where is it the weakest? How is it different in the centre from around the edges? Is there\nany pulsing or vibration within it? Is it ight or heavy? Still or in motion? Warm or cool?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_117_44fe9bd3",
+    "extractor": "openai",
+    "generation_rules": [
+      "Observe bodily sensations with curiosity",
+      "Breathe into the sensations",
+      "Allow sensations to come and go without struggle"
+    ],
+    "pause_rules": [
+      "Pause to allow scanning of the body from head to toe",
+      "Pause to focus attention on the most bothersome sensation",
+      "Pause to notice detailed qualities of the sensation"
+    ],
+    "psychological_function": "Enhances interoceptive awareness and reduces experiential avoidance by encouraging curiosity and non-struggle with bodily sensations associated with emotions.",
+    "repetition_rules": [
+      "Practice the three steps repeatedly to increase ease and proficiency",
+      "Reinforce the process of observing, breathing, and allowing"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_117",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "quicksand as a metaphor for resisting emotions",
+      "floating as a metaphor for acceptance and non-struggle"
+    ],
+    "therapeutic_function": "Facilitates emotional regulation by increasing awareness and acceptance of unpleasant emotions through mindful observation and allowing feelings to come and go.",
+    "voice_rules": [
+      "Use a calm, curious, and non-judgmental tone",
+      "Encourage gentle and patient self-observation"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_117_44fe9bd3",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_117",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:07+00:00"
+}

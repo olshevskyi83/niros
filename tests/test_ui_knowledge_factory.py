@@ -10,6 +10,7 @@ import niros.ui_knowledge_factory as ui_knowledge_factory
 from niros.human_review_workflow import (
     REVIEW_STATUS_PENDING,
     HumanReviewError,
+    HumanReviewRecord,
     HumanReviewWorkflow,
 )
 from niros.knowledge_domain import (
@@ -20,10 +21,13 @@ from niros.knowledge_domain import (
 from niros.knowledge_library import ensure_knowledge_library
 from niros.knowledge_workspace import ensure_knowledge_workspace
 from niros.therapeutic_extraction import TherapeuticFunctionExtraction, build_extraction_id
+from niros.knowledge_compiler import DocumentCompileResult
 from niros.ui_knowledge_factory import (
     assign_review_domain_for_ui,
     approve_review_for_ui,
     build_batch_groups,
+    compile_progress_ui_summary,
+    compile_summary_ui_funnel,
     count_knowledge_library_sources_by_family,
     filter_usable_segments,
     import_knowledge_source_for_ui,
@@ -34,6 +38,11 @@ from niros.ui_knowledge_factory import (
     list_latest_ctpc_patterns,
     list_tle_eligible_ctpc_patterns,
     list_review_records,
+    parse_max_batches_option,
+    parse_review_mode_option,
+    archive_pending_reviews_for_ui,
+    DEFAULT_REVIEW_MODE_UI_OPTION,
+    REVIEW_MODE_UI_OPTIONS,
     load_review_for_ui,
     parse_multiline_field,
     reject_review_for_ui,
@@ -419,6 +428,49 @@ def test_list_and_load_pending_review_for_ui(tmp_path: Path) -> None:
     assert detail.knowledge_domain == KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE
 
 
+def test_load_review_for_ui_includes_why_extracted(tmp_path: Path) -> None:
+    root = tmp_path / "knowledge_factory"
+    paths = ensure_knowledge_workspace(str(root))
+    workflow = HumanReviewWorkflow(paths=paths)
+    extraction = _extraction()
+    record = workflow.create_pending_review(
+        extraction,
+        knowledge_domain=KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
+    )
+    saved = workflow.load_review(record.review_id)
+    workflow.save_review(
+        HumanReviewRecord(
+            review_id=saved.review_id,
+            extraction_id=saved.extraction_id,
+            source_id=saved.source_id,
+            segment_id=saved.segment_id,
+            status=saved.status,
+            original_extraction=saved.original_extraction,
+            created_at=saved.created_at,
+            updated_at=saved.updated_at,
+            knowledge_domain=saved.knowledge_domain,
+            review_type=saved.review_type,
+            therapeutic_relevance={
+                "relevance_score": 0.88,
+                "knowledge_kind": "therapeutic_mechanism",
+                "gate_reasoning": (
+                    "This chunk explains experiential avoidance as a process where attempts "
+                    "to avoid painful internal experiences reduce short-term distress."
+                ),
+                "why_extracted": (
+                    "This chunk was extracted because it explains experiential avoidance."
+                ),
+                "evidence_span": "When a client tries to avoid painful feelings...",
+            },
+        )
+    )
+    detail = load_review_for_ui(saved.review_id, str(root))
+    assert detail.relevance_score == 0.88
+    assert detail.knowledge_kind == "therapeutic_mechanism"
+    assert "experiential avoidance" in detail.why_extracted
+    assert detail.evidence_span.startswith("When a client")
+
+
 def test_suggested_action_for_review() -> None:
     action = suggested_action_for_review(
         segment_id="batch_001",
@@ -567,3 +619,115 @@ def test_review_can_be_approved_requires_domain(tmp_path: Path) -> None:
 
     assert review_can_be_approved(unknown) is False
     assert review_can_be_approved(assigned) is True
+
+
+def test_parse_max_batches_option() -> None:
+    assert parse_max_batches_option("3") == 3
+    assert parse_max_batches_option("all") is None
+
+
+def test_parse_review_mode_option_defaults_conservative() -> None:
+    assert parse_review_mode_option("Conservative") == "conservative"
+    assert DEFAULT_REVIEW_MODE_UI_OPTION == "Conservative"
+    assert "Conservative" in REVIEW_MODE_UI_OPTIONS
+
+
+def test_archive_pending_reviews_moves_files(tmp_path: Path) -> None:
+    root = tmp_path / "knowledge_factory"
+    paths = ensure_knowledge_workspace(str(root))
+    review_dir = Path(paths.review_dir)
+    pending_path = review_dir / "review_pending_example.json"
+    pending_path.write_text(
+        '{"review_id":"review_pending_example","status":"pending"}',
+        encoding="utf-8",
+    )
+    approved_path = review_dir / "review_approved_example.json"
+    approved_path.write_text(
+        '{"review_id":"review_approved_example","status":"approved"}',
+        encoding="utf-8",
+    )
+
+    result = archive_pending_reviews_for_ui(str(root), timestamp="2026-07-08T12:00:00+00:00")
+
+    assert result.archived_count == 1
+    assert not pending_path.exists()
+    assert approved_path.exists()
+    assert result.archive_dir.endswith("review_20260708T1200000000")
+
+
+def test_compile_summary_ui_funnel() -> None:
+    from niros.knowledge_compiler import CompileSummary
+
+    summary = CompileSummary(
+        scope="document:source_test",
+        chunks_created=241,
+        raw_extractions=1238,
+        filtered_extractions=100,
+        consolidated_candidates=61,
+        pending_reviews=61,
+        auto_approved=5,
+        books_processed=4,
+        chunks_seen=241,
+        chunks_skipped=120,
+        chunks_extracted=121,
+        skipped_by_reason=(("keyword_only", 40), ("front_matter", 80)),
+        high_relevance_count=70,
+        medium_relevance_count=30,
+        low_relevance_count=21,
+    )
+    funnel = compile_summary_ui_funnel(summary)
+
+    assert funnel["books_processed"] == 4
+    assert funnel["batches"] == 241
+    assert funnel["chunks_seen"] == 241
+    assert funnel["chunks_skipped"] == 120
+    assert funnel["chunks_extracted"] == 121
+    assert funnel["skipped_by_reason"] == (("keyword_only", 40), ("front_matter", 80))
+    assert funnel["raw_extractions"] == 1238
+    assert funnel["filtered_extractions"] == 100
+    assert funnel["consolidated_candidates"] == 61
+    assert funnel["pending_reviews"] == 61
+    assert funnel["auto_approved"] == 5
+
+
+def test_compile_progress_ui_summary_includes_counts() -> None:
+    result = DocumentCompileResult(
+        source_id="source_test",
+        relative_path="psychotherapy/act/act.txt",
+        status="partial",
+        source_type="text",
+        domain="psychotherapy",
+        knowledge_domain=KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
+        usable_batch_count=5,
+        batches_processed=3,
+        reviews_created=2,
+        failed_batches=1,
+        skipped_reviews=0,
+        duration_seconds=1.5,
+        raw_corpus_path="/tmp/raw.json",
+        log_path="/tmp/log.json",
+        live_log_path="/tmp/live.jsonl",
+        openai_model="gpt-4.1-mini",
+        max_batch_chars=500,
+        max_batches=3,
+        chunks_seen=5,
+        chunks_skipped=2,
+        chunks_extracted=3,
+        skipped_by_reason=(("keyword_only", 2),),
+        high_relevance_count=2,
+        medium_relevance_count=1,
+        low_relevance_count=0,
+    )
+
+    summary = compile_progress_ui_summary(result)
+
+    assert summary.total_batches == 5
+    assert summary.processed == 3
+    assert summary.chunks_seen == 5
+    assert summary.chunks_skipped == 2
+    assert summary.chunks_extracted == 3
+    assert summary.skipped_by_reason == (("keyword_only", 2),)
+    assert summary.reviews_created == 2
+    assert summary.failed == 1
+    assert summary.skipped == 0
+    assert summary.live_log_path == "/tmp/live.jsonl"

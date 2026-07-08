@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:44:24+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_034_0a7d3921",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "experiential avoidance",
+      "unwanted thoughts",
+      "unpleasant feelings",
+      "depression",
+      "anxiety",
+      "drug and alcohol addiction",
+      "eating disorders"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "None explicitly stated in the text."
+    ],
+    "evidence_text": "3. Many strategies that decrease unpleasant feelings in the short-term actually lower our quality of\nlife over the long term.\n\n---\n\nThese unwanted outcomes lead to more unpleasant feelings, and thus even more attempts to control\nthem. It’s a vicious cycle. Psychologists have a technical term for this inappropriate or excessive\nuse of control strategies: ‘experiential avoidance’. Experiential avoidance means the tendency to\nkeep trying to avoid, change or get rid of your unwanted thoughts and feelings—even when doing\nso is harmful, costly, useless or destructive. Experiential avoidance is a major cause of depression,\nanxiety, drug and alcohol addiction, eating disorders and a vast number of other psychological\nproblems. So here is the happiness trap in a nutshell: to find happiness, we try to avoid or get rid of\nbad feelings—but the harder we try, the more bad feelings we create. It’s important to get a sense of\nthis for yourself, to trust your own experience rather than simply believing what you read. So with\nthis in mind, take a moment to complete the following sentence: The thoughts/feelings I’d most like\nto get rid of are...",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_034_0a7d3921",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage self-reflection by completing the sentence: 'The thoughts/feelings I’d most like to get rid of are...'"
+    ],
+    "pause_rules": [
+      "Include moments for personal reflection after explaining the happiness trap and before the self-reflection exercise."
+    ],
+    "psychological_function": "Highlight the vicious cycle where attempts to avoid unpleasant feelings lead to more unpleasant feelings and psychological problems.",
+    "repetition_rules": [
+      "Emphasize the cycle of avoidance leading to more unpleasant feelings repeatedly to build understanding."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_034",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "happiness trap"
+    ],
+    "therapeutic_function": "Reduce experiential avoidance by increasing awareness of the counterproductive nature of trying to control or avoid unwanted thoughts and feelings.",
+    "voice_rules": [
+      "Use a tone that fosters trust in personal experience over external information."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_034_0a7d3921",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_034",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:24+00:00"
+}

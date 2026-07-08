@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:50:47+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_148_ecf925df",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "psychological presence",
+      "acceptance of internal experience",
+      "effective action",
+      "distraction by thinking self"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals with severe dissociation or trauma where present moment awareness may be destabilizing."
+    ],
+    "evidence_text": "2. As Leo Tolstoy put it, ‘There is only one time that is important: NOW! It is the most important\ntime because it is the only time when we have any power.’ To create a meaningful life, we need\nto take action. And the power to act exists only in this moment. The past has already happened\nand the future doesn’t exist yet, so we can only ever take action here and now.\n\n---\n\n3. ‘Taking action’ doesn’t mean just any old action. It must be effective action; action that helps\nus move in a valued direction. In order to act effectively, we need to be psychologically present.\nWe need to be aware of what is happening, how we are reacting and how we wish to respond.\n\n---\n\nThis means we need to add three extra words to the ‘A’ of ACT:\n\n---\n\nA=Accept your internal experience and be present.\n\n---\n\nConnection is about waking up, noticing what’s happening, engaging with the world and\nappreciating the fullness of every moment of life. You’ve already experienced this many times in\nyour life. Perhaps while on a walk in the countryside you feasted your eyes on the fields, the\nwildlife, the trees and flowers, enjoyed the touch of a balmy summer breeze, and listened to the\nsongbirds. Or during an intimate conversation with the one you love, you hung on their every word,\ngazed into their eyes, and felt the closeness between you. Or while playing with a child or a beloved\npet, you were so involved in the fun of it all, you didn’t have a care in the world.\n\n---\n\nAs these examples suggest, connection often happens spontaneously in novel, intense, stimulating\nor pleasurable situations. Unfortunately, it rarely lasts for long. Sooner or later the thinking self\npipes up and its comments, judgements and stories pull us out of the experience. And as for all\nthose familiar, mundane or unpleasant situations that make up a sizeable part of even the most\nprivileged life, connection is pretty well non-existent at those times.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_148_ecf925df",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus on the present moment as the only time to act.",
+      "Incorporate acceptance of internal experience into action.",
+      "Promote awareness of reactions and desired responses."
+    ],
+    "pause_rules": [
+      "Pause to allow reflection on present moment awareness and acceptance."
+    ],
+    "psychological_function": "Enhances awareness of current experience, reduces distraction by thoughts and judgments, and fosters connection with the present moment.",
+    "repetition_rules": [
+      "Reinforce the importance of 'NOW' and being psychologically present."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_148",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "NOW",
+      "connection",
+      "presence",
+      "valued direction"
+    ],
+    "therapeutic_function": "Encourages psychological presence and acceptance of internal experience to enable effective action in the present moment.",
+    "voice_rules": [
+      "Use direct and present-focused language emphasizing immediacy and power of now."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_148_ecf925df",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_148",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:47+00:00"
+}

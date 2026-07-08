@@ -1,0 +1,1071 @@
+[PAGE 001]
+
+Psychopharmacology
+https://doi.org/10.1007/s00213-017-4820-5
+
+
+ORIGINAL INVESTIGATION
+
+(® CrossMark
+
+The hidden therapist: evidence for a central role of music
+in psychedelic therapy
+
+Mendel Kaelen' - Bruna Giribaldi' - Jordan Raine? - Lisa Evans' - Christopher Timmerman"? - Natalie Rodriguez” -
+Leor Roseman’? - Amanda Feilding* - David Nutt' - Robin Carhart-Harris|
+
+
+Received: 22 June 2017 /Accepted: 21 December 2017
+© The Author(s) 2018
+
+
+Abstract
+Rationale Recent studies have supported the safety and efficacy of psychedelic therapy for mood disorders and addiction. Music
+is considered an important component in the treatment model, but little empirical research has been done to examine the
+magnitude and nature of its therapeutic role.
+Objectives The present study assessed the influence of music on the acute experience and clinical outcomes of psychedelic
+therapy.
+Methods Semi-structured interviews inquired about the different ways in which music influenced the experience of 19 patients
+undergoing psychedelic therapy with psilocybin for treatment-resistant depression. Interpretative phenomenological analysis was
+applied to the interview data to identify salient themes. In addition, ratings were given for each patient for the extent to which they
+expressed “liking,” “resonance” (the music being experienced as “harmonious” with the emotional state of the listener), and
+“openness” (acceptance of the music-evoked experience).
+Results Analyses of the interviews revealed that the music had both “welcome” and “unwelcome” influences on patients’
+subjective experiences. Welcome influences included the evocation of personally meaningful and therapeutically useful emotion
+and mental imagery, a sense of guidance, openness, and the promotion of calm and a sense of safety. Conversely, unwelcome
+influences included the evocation of unpleasant emotion and imagery, a sense of being misguided and resistance. Correlation
+analyses showed that patients’ experience of the music was associated with the occurrence of “mystical experiences” and
+“insightfulness.” Crucially, the nature of the music experience was significantly predictive of reductions in depression 1 week
+after psilocybin, whereas general drug intensity was not.
+Conclusions This study indicates that music plays a central therapeutic function in psychedelic therapy.
+
+
+Keywords Psychedelic therapy - Depression - Psilocybin - Music
+
+
+The original version of this article was revised due to a retrospective Open Introduction
+Access order.
+
+Electronic supplementary material The online version of this article The capacity of psychedelic drugs to facilitate emotional re-
+(https://doi.org/10.1007/s00213-017-4820-5) contains supplementary lease, peak- or mystical experiences, and autobiographical
+material, which is available to authorized users. insight was a primary motivation for their therapeutic use in
+the 1950s and 1960s in the form of “psychedelic therapy”
+><] Mendel Kaelen (Busch and Johnson 1950). Music was introduced within the
+m.kaelen@ imperial.ac.uk therapeutic framework as a way to support patients’ experi-
+ences non-verbally (Bonny and Pahnke 1972; Grof 1980;
+' Psychedelic Research Group, Department of Medicine, Imperial Hoffer 1965) and has thence remained a staple component
+College London, London W12 ONN, UK of the treatment model. Recent clinical trials have rekindled
+* School of Psychology, Sussex University, Brighton BN1 9RH, UK interest in psychedelic therapy (Carhart-Harris and Goodwin
+> Computational, Cognitive and Clinical Neuroscience Laboratory 2017), with positive findings for depression (Carhart-Harris
+(C3NL), Department of Medicine, Imperial College London, et al. 2016a; de Osorio et al. 2015), addiction (Bogenschutz
+London W12 ONN, UK et al. 2015; Johnson et al. 2014, 2016), end-of-life care
+* The Beckley Foundation, Oxford OX3 9S
+Y, UK (Gasser et al. 2014; Griffiths et al. 2016; Grob et al. 2011;
+
+
+Published online: 02 February 2018 A Springer
+
+[PAGE 002]
+
+Psychopharmacology
+
+
+Ross et al. 2016), and post-traumatic stress disorder mystical experiences have been associated with positive therapy
+(Mithoefer et al. 2011, 2013). outcomes to psychedelic therapy (Garcia-Romeu et al. 2014;
+Psychedelic therapy sessions do not adhere to one specific Griffiths et al. 2016; Roseman et al. 2017; Ross et al. 2016).
+psychotherapeutic model; however, music-listening is a consistent feature. In psychedelic therapy sessions, during drug effects,
+patients are encouraged to focus their attention inwards while
+Methods
+lying down in a relaxed position and listening to a carefully
+designed music playlist for the duration of the session. In this
+Approvals
+way, it is believed that music can help facilitate experiences that
+have therapeutic import. Studies have shown that psychedelics
+The National Research Ethics Service London (West London)
+significantly modulate music-evoked emotion (Kaelen et al.
+provided a favourable opinion for this study. The study was
+2015, 2017), music-evoked mental imagery (Kaelen et al.
+sponsored and approved by Imperial College London’s Joint
+2016), and perceived personal meaningfulness of music (Preller
+Research and Compliance Office (JRCO), and the National
+et al. 2017). In addition, patients undergoing psychedelic therapy
+Institute for Health Research Clinical Research Network adopted
+often refer to music as influencing their experience significantly
+the study. The National Institute for Health Research/Wellcome
+(Belser et al. 2017; Swift et al. 2017; Watts et al. 2017). Although
+Trust Imperial Clinical Research Facility provided approval for
+these studies support the hypothesis that the subjective response
+the study site. The study was performed in accordance with the
+to music is intensified under psychedelics, no studies to date have
+ethical standards laid down in the 1964 Declaration of Helsinki.
+focussed on the therapeutic functions of music in the context of
+A Home Office Licence for storing and dispensing Schedule One
+psychedelic therapy. The present study sought to address this
+drugs was obtained.
+knowledge gap by studying the ways music is experienced during psychedelic therapy sessions, and what variables are most
+Participants
+influential in driving positive therapeutic outcomes.
+We conducted interviews with patient’s who underwent psy-
+Nineteenpatients with treatment-resistant major depressive disorchedelic therapy for treatment-resistant depression with psilocy-
+der where included in the study. Inclusion criteria for the study
+bin, 1 week after the second of two treatment sessions. In these
+were moderate to severe major depression, as determined by a
+interviews, we inquired about patients’ experiences with the mu-
+score of 17 or higher on the 21 -item Hamilton Depression Rating
+sic heard during their therapy sessions and the specific different
+scale (HAM-D), with absence of improvements despite at least
+ways in which the music influenced their subjective experiences.
+two different pharmaceutical antidepressant treatments for a minAccording to present theories (Bonny and Pahnke 1972), we
+imum of 6 weeks within the current depressive episode.
+hypothesised that music would promote so-called mystical expe-
+Exclusion criteria included current or previously diagnosed psyriences! (Maclean et al. 2012; Maslow 1964; Stace 1960), which
+chotic disorder, diagnoses of psychotic disorders in immediate
+would subsequently predict long-term therapeutic outcomes.
+family members, history of suicide attempts that required
+Endorsing this view, both music (Gabrielsson and Wik 2003)
+hospitalisation, history of mania, having a blood or needle phoand psychedelics (Griffiths et al. 2006) have separately been
+bia, pregnancy, and current drug or alcohol dependence.
+associated with the facilitation of mystical experiences, and
+
+
+' The term mystical experience is derived from writings on religious mysti- Experiment overview and procedures
+cism and should not be confused with the terms “mystery” or
+“mysteriousness”: Mystical experiences refer in essence to a direct felt expe- This study was part of a larger study assessing safety and efficacy
+rience of “union” and a sense of transcending one’s usual sense of self (Stace
+for using psilocybin to treat depression (Carhart-Harris et al.
+1960). Although we initially considered using the more secular term “peak
+experience” coined by the psychologist Abraham Maslow (Maslow 1964, 2016a). Psilocybin was synthesised and obtained from THC1971), which essentially refers to a comparable and if not identical phenome- Pharm (Frankfurt, Germany) and formulated into 5-mg capsules
+nological state, we have decided after discussion with our reviewers to employ
+of psilocybin, by Guy’s and St. Thomas’ Hospital's Pharmacy
+the term mystical experience. This term is currently the most used in the
+academic field (Garcia-Romeu et al. 2014; Ross et al. 2016; Griffiths et al. Manufacturing Unit (London, UK). Screening consisted of eval2016), and we do not wish to cause any unnecessary confusion over used uating the patient’s current and past physical and mental health.
+terminologies. Mystical experiences are by definition not specific to any reli-
+The 16-item Quick Inventory of Depressive Symptoms (QIDS)
+gion and can occur spontaneously, such as when being deeply moved by a
+work of art, encounters with nature, during sex, or a moment of creative patient-rated scale for the severity of depressive symptoms was
+inspiration, but are frequently reported with psychedelics. In the present study, completed during the screening visit and served as baseline- and
+although we did not employ the Mystical Experience Questionnaire (Maclean
+post-treatment measure. Written informed consent was obtained
+et al. 2012), our use of the term was defined by the items from the Altered State
+of Consciousness Scale(ASC), “experiences of unity,” “spiritual experience,” from patients, and by the end of the screening, eligible patients
+and “blissful state” (Dittrich 1998; Studerus et al. 2010), that loaded on one met with the two therapists that would support them through the
+primary factor using principle component analysis.
+remainder of the trial.
+
+
+Y Springer
+
+[PAGE 003]
+
+Psychopharmacology
+
+
+A subsequent visit functioned as preparation for the session. encouraged to relax on the bed and wear Mindfold eye-shades.
+This included conversations with the therapists about the pa- Two therapists were present on either side of the bed and
+tient’s personal history, expectations for the sessions, and educa- “checked in” with the patient approximately every 30-60 min,
+tion about the effects of psilocybin. The patient also had an to obtain insight into how their subjective experience was
+opportunity to listen to samples of session music while wearing unfolding and to determine whether psychological support might
+eye-shades, as a simulation experience in preparation for their be needed. Calming ambient music was played on entrance, but
+first session. The preparation visit lasted approximately 4 h in the session playlist (see Supplementary material) was started on
+total. Following the preparation session, patients received two ingestion of psilocybin. Patients had the option of listening to the
+different dosages of psilocybin on two separate subsequent oc- music via high quality in-ear headphones (Sennheiser IE 800) or
+casions, each separated by | week. In the first session, all patients via a high fidelity standing stereo speaker (Meridian DSP3200).
+received an oral dose of 10-mg psilocybin. This lower dose was Both headphones and speakers received the same audio signal,
+intended to function like a “taster,” a preparation for the higher which allowed the music be played in synchrony and continudose administered 1 week later. In the second session, all patients ously through both channels. This set-up was considered helpful
+received 25 mg. Prior work demonstrated that high doses of for (1) providing a sense of continuity in case the headphones
+psilocybin are linked with greater positive behaviour changes were abruptly removed or muted, (2) enabling the therapists to
+in healthy volunteers (one month prior sessions), when partici- empathise with the patient’s current state, as well as observe how
+pants received an ascending sequence of doses, compared to they were responding to a particular piece of music, and (3)
+volunteers who received a high dose first (Griffiths et al. 2011). allowing a deeper immersion in the music and depth of sound.
+Each session included only one patient and two therapists and
+took place in a specially designed therapeutic environment. Each
+session started with arrival at the research facility at 9 am, with Music selection
+psilocybin being administered at 10.30 am. The majority of patients were ready to leave the facility approximately 7 h after The central purpose of the use of music in the present theraadministration. Transport from the research facility to home peutic study was consistent with that of early psychedelic
+was organised ahead of the sessions and consisted of being ac- therapy studies, i.e. to facilitate personally meaningful expecompanied by a close friend or relative. Patients also had the riences that can lead to sustained changes in behaviour and
+option of staying overnight in accommodation adjacent to the outlook. In order to achieve this, researchers often emphasised
+research facility, the night before and the night after the session. the importance of adapting the music to individual patient’s
+Clinical improvement was defined as reductions in depression changing therapeutic needs, as their therapeutic experience
+severity, measured via the QIDS, completed by all patients at unfolds dynamically (Bonny and Pahnke 1972; Grof 1980;
+baseline and 1 week after the second and final psilocybin session. Hoffer 1965). For the present study, however, a standardised
+The different aspects of the subjective experience of psilocybin playlist was created to control for music as a potential conwere measured with the 11-dimensional Altered States of founding variable. Therefore, all patients were intended to
+Consciousness Scale (11D-ASC) (Dittrich 1998) at the end the listen to the same music playlist. In one rare case where the
+session. After each session, drug intensity was self-rated on a music selection was strongly disliked by one patient (#6) in
+visual analogue scale (VAS). The question was formulated as the first session (a strong preference was expressed to only
+“How intense were the peak drug effects?”, with the following listen to classical music), a music playlist used by Johns
+anchors on the response scale: “O =no effects,” “100 = most Hopkins University was used for the second session
+imaginable.” The interview assessing the patient’s experience (Richards 2015), which includes music originally suggested
+of the music was always conducted 1 week after the high dose by Bonny and Pahnke (1972).
+(25 mg) session. For a detailed report on the clinical outcomes Several of the musical works originally included in playsee Carhart-Harris et al. (201 6a). lists for psychedelictherapy are very familiar today. Examples
+include “Samuel Barber—Adagio for strings” and
+Therapeutic setting “Beethoven—Piano Concerto 5.” Such high familiarity may
+reduce the opportunity for patients to have a new experience
+In consideration of the importance of the therapy environment with the music, unfettered by prior associations. In addition, a
+(Johnson et al. 2008), all sessions took place in a specially de- strong emphasis on music with “Christian religious” content
+signed therapy room within the Clinical Research Facility at may not be appropriate for individuals that are either nonImperial College London. All unnecessary medical equipment religious or practice a different religion. Therefore, a music
+was either removed or hidden; light quality was adjusted using playlist was designed for the present study, containing prePhilips livingcolors and Imageo lights. Cushions, plants, art dominantly contemporary music such as the ambient, neopaintings, and artefacts were introduced to engender a cosy and classical, contemporary classical, as well as traditional/ethnic
+comfortable climate. After receiving psilocybin, patients were music styles. The intention with this music selection was to
+
+
+Y Springer
+
+[PAGE 004]
+
+Psychopharmacology
+
+
+minimise religious associations and to support mystical expe- music therapy interventions in cancer care settings
+riences within a secular framework. (Pothoulaki et al. 2012).
+
+
+Playlist design
+Interview data analysis: coding
+
+
+Interviews were transcribed verbatim in Microsoft Word and
+The design of the music playlist was informed by Bonny and
+checked for accuracy. A step-by-step coding analysis of the
+Pahnke (1972), William Richards (2015), and the psychedelic
+interview data followed. All coding was done by at least two
+therapist StanislavGrof (1980), who defined different phases
+researchers. This was initially done independently, and at later
+in psychedelic therapy sessions, where each phase is associat-
+staged compared between researchers and integrated in a final
+ed with a distinguishable set of psychological needs the music
+coding for each transcript. All transcripts were first read
+can serve. These phases are, in chronological order: “pre-
+through twice, before carrying out the coding analysis.
+onset,” “onset,” “building towards peak,” “peak,” “re-entry,”
+During the third reading, any phrases considered pertinent in
+and “return.” In the present study, the durations of the phases
+terms of how the music influenced the patients” subjective
+were adjusted to the shorter duration of psilocybin’s effects,
+experience were highlighted and coded into initial interpretacompared with LSD. Furthermore, onset and building towards
+tions in Microsoft Excel.At this stage, sometimes more than
+peak were grouped together as “ascent,” and re-entry was
+one interpretation was assigned when more than one interprenamed “descent.” Music with strong evocative emotional sen-
+tation could be made, and queries about the meaning of what
+timents was only played during peak, on the assumption that
+was being said were recorded in a separate column.
+an important pre-requisite is for the individual to first feel calm
+Keywords, phrases, and initial interpretations from the first
+and safe and that more evocative music would enable an acti-
+four completed transcripts were then comprehensively exvation of autobiographical and therapeutically significant
+plored, leading to the creation of themes in a separate column.
+when played at peak (Bonny and Pahnke 1972). See
+These themes were then used as guidelines for subsequent
+Supplementary material for the full playlist.
+transcripts. As new themes emerged from these subsequent
+transcripts, all data were iteratively scrutinised and the list of
+The semi-structured interview
+themes refined. Throughout the process of analysis, codes
+were examined and discussed among the authors to decide
+The semi-structured interview was always conducted 1 week
+which themes were the most accurate reflections of particiafter the final session, by the same researcher, apart from on
+pants” experiences.
+one occasion, and always in reference to the music experience
+Following further discussion between authors,a final masfor both sessions. The interview consisted of four open ques-
+ter list of themes emerged. The final stage of analysis involved
+tions: (1)“Did the music influence your experience? And if so:
+the organisation of the list of themes into a more concise list of
+in what ways?”, (2)“Can you comment on how the different
+overarchingsuperordinate “clusters” or domains representing
+styles of music influenced your experience? And which music
+the patient experience of musiceach of which contained a
+did you prefer?”, (3)“Were there any aspects in the music that
+number of subsidiary themes. After all transcripts were coded
+influenced your experience in a positive way?”, and (4)“Were
+into themes and clusters,the presence of each unique theme
+there any aspects in the music that influenced your experience
+and cluster across all patients’ responses was calculated. This
+in a negative way?”. Additional questions were sometimes
+lead to a percentage index describing the frequency to which
+asked to clarify patient’s responses if the interviewer felt the
+the themes and clusters were present within the total study
+need to do so (for example “Can you explain what you mean
+population
+with x?” or “Can you tell me more about x?”).
+
+Ratings for music experience
+Theoretical approach of interview data analysis
+Three variables that displayed a notable polarity were identiInterpretative phenomenological analysis (IPA) was chosen to fied from the coding analysis and were hypothesised as preanalyse the interviews (Smith et al. 1997). IPA is an approach dictors for therapy response: (1) “liking,” referring to the deincreasingly used in healthcare research (Biggerstaff and gree to which the music styles and the music quality were
+Thompson 2008; Smith 2011) via which researchers examine liked, (2) “resonance,” referring to the degree to which the
+the meanings particular experiences have for people. It is par- music matched with or was “harmonious” with the intrinsic
+ticularly appropriate for ascertaining the complexity (i.e. the emotional state of the patient, and (3) “openness,” referring to
+quality and phenomenology of experience) of patients’ sub- the degree in which the patient was open to, or accepting of the
+jective experience of music during the therapeutic sessions music-evoked experience. The concept of openness has been
+and has previously been used to investigate the benefits of more generally discussed in prior literature as an important
+
+
+Y Springer
+
+[PAGE 005]
+
+Psychopharmacology
+
+
+psychological variable in psychedelic therapy (Grof 1980; ratings for drug intensity were correlated with each music
+Richards 2015). experience value. The three music experience variables were
+Four researchers that were blind to patient identifiers and correlated with each other to test for their discriminative value.
+treatment outcomes rated these variables independently for all Inter-rating reliability of researcher’s ratings was tested by
+19 patients based on their interview transcripts, to ensure inter- correlating ratings of all researchers with each other. False
+rating reliability. Ratings were done via a VAS, with five an- discovery rate (FDR) control was used to correct for multiple
+chors presented. For liking, the question was formulated as comparisons (Benjamini and Hochberg 1995).
+“To what extent did the patient like or dislike the music?”,
+with the following anchors on the response scale: “0 = strong
+disliking,” “25 = major disliking, some liking,” “50 = mixed Results
+disliking and liking,” “75 = major liking, some disliking,” and
+“100 = major liking.” For resonance, the question was formu- The 19 interview transcriptions were on average 1048 words
+lated as “To what extent was the music experienced by the long each (standard error = 133). Coding analyses identified a
+patient as in resonance with his/her subjective experience?”, total of four separate groups, each including different clusters
+with the following anchors on the response scale: “0 = strong with related themes. These four different groups were (1)
+dissonance,” “25 = major dissonance, some resonance,” “welcome influences,” including all influences of music on
+“SO = mixed resonance and dissonance,” “75 = major reso- subjective experience that were described as welcome,
+nance, some dissonance,” and “100 = strong resonance.” wanted, accepted, or appreciated (see Fig. 1, identified in 18
+And finally, for the third, the question was formulated as out of 19 patients, i.e. 95% of total); (2) “unwelcome
+“To what extent was the patient accepting of or open to the influences,” including all experienced influences of music that
+music-evoked experience?”, with the following anchors on were described as unwelcome, unwanted, rejected, or unapthe response scale: “0 = strong resistance,” “25 = major resis- preciated (see Fig. 1, identified in ten out of 19 patients, 1.e.
+tance, some openness,” “50 = mixed resistance and 53% of total); (3) “appreciated music styles and playlist
+openness,” “75 = major openness, some resistance,” and features,” including all themes related to the liking and appre-
+“100 = strong openness.” ciating of music genres, styles, and playlist design (see Fig. 2,
+identified in all 19 patients, i.e. 100% of total); and (4)
+Correlation analyses “unappreciated music styles and playlist design,” including
+all themes related to the disliking and not appreciating of
+The average of the scores from all researchers was calculated music genres, styles, and playlist design (see Fig. 2, identified
+for each music variable and for each patient. Pearson correla- in 11 out of 19 patients, 1.e. 58% of total). Here, the term
+tion tests were performed between the three music experience “music styles” refers broadly to the instrumentation, compovariables and ratings from the 11D-ASC. To reduce the num- sitional, genre, and acoustic features of the music. The term
+ber of comparisons, a principle component analysis (PCA) “playlist design” refers to all aspects related to the selection
+was performed on the 11 factors of the 11D-ASC. Varimax and structuring of the music into the full music playlist.
+rotation was performed on the first fiveprincipal components The figures displaying the four groups (Figs. 1 and 2) in-
+(PCs) that explained over 95% of the variance (see Fig. 3 for clude the clusters present in more than 30% of the respective
+rotated PCs and their respective loadings). Subsequently, the groupand the themes present in more than 30% of the respecthree music experience variables (liking, resonance, and open- tive cluster. This threshold was chosen for display purposes
+ness) were correlated with these five PCs. To test whether and emphasisesthe most dominant themes. However, all
+music experience and drug intensity are associated differently themes are discussed, and all associated patient quotes are
+with different aspects of subjective experience of psilocybin, presented in separate tables in Supplementary materials
+drug intensity ratings were also correlated with all five PCs. (Tables 1—11). It is important to emphasise that the identifica-
+Pearson correlation tests were applied to test for a relation- tion of a theme in a patient’s experience, and subsequently the
+ship between the music experience variables and reductions in including of that theme in counting its presence in the total
+depressive symptoms 1 week after the last session with 25-mg population, does not enable to make any statements on the
+psilocybin. Reductions in depressive symptoms were defined duration that this theme was present in the patient’s total exas the percentage reduction in scoring on QIDS relative to perience. For example, one patient may have experienced a
+baseline (i.e. ((baseline score — post-treatment-score) / base- sense of irritation in response to one particular song, and thereline score) x — 100).To test for the discriminative value of mu- fore the theme “irritation” under the cluster “intensification”
+sic experience variables in predicting therapy response, com- in the group unwelcomed influences is present. But this does
+pared with mere drug intensity, ratings for drug intensity were not imply that the patient experienced persistent feelings of
+also correlated with reductions in depression. To test for dif- irritation during his or her experience: it may simply refer to
+ferences between music experience and drug intensity effects, one short but memorable moment. In addition, the measure
+
+
+Y Springer
+
+[PAGE 006]
+
+Psychopharmacology
+
+
+Fig.1 Welcome and unwelcome Group Cluster Theme Theme Cluster Group
+influences of the music.
+Welcomed influences are
+displayed on the left in green, and journey
+unwelcomed influences are E
+displayed on the right in red. All
+clusters and themes that are
+defined as an accepted or support
+. 5 11
+welcomed influence of the music
+on subjective experience. The misguldänce
+figure displays cluster present in resonance dissonance \
+more than 30% of all participants \
+and per cluster the themes that din \
+were present in more than 30% of 5 \
+the cluster. The numbers below \
+mental \
+the group-, cluster-, or theme- calming \
+name refers to the total number of 5
+patients that referred to this. The
+size ofthe circle is proportional to general
+the percentage of patients referring to the group, cluster, ortheme N
+therapeutic
+6
+
+
+music facilitates music facilitates )
+openness resistance /
+4 9
+
+
+general
+8 irritation
+4
+
+
+imagination discomfort
+9
+
+
+emotionality emotionality
+15
+
+fear
+3
+
+
+also only allows the capturing of spontaneous mentioning and _ targeting (and biasing) specific facets of the experience. The
+elaborations on the subjective experience of the music in re- only bias present within the interview that is important to
+sponse to the open questions, as opposed to the questions acknowledge was the inquiry of both “positive” and
+
+
+Fig.2 Appreciated and Group Cluster Theme Theme Cluster Group
+unappreciated music styles and
+playlist features. Appreciated
+music styles and features are music music
+displayed on the left, in green, and selection selection
+un-appreciated influences are
+
+
+figure only displays cluster pres- order plas design
+displayed on the right, in red. The music
+
+
+ent in more than 30% of all par- ° preference for e
+ticipants and per cluster the music own Selection le
+themes that were present in more Preece
+than 30% of the cluster. The
+numbers below the group-, cluster-, or theme-name refers to the . #
+total number of patients that re- (nep) cal 4
+ferred to this. The size of the circle
+is proportional to the percentage
+ethnic
+of patients referring to the group, 7
+
+cluster, or theme
+
+vocal
+8
+
+
+Y Springer
+
+[PAGE 007]
+
+Psychopharmacology
+
+
+“negative” influences of the music, leading to the subsequent experienced as “fitting,” “following,” or “matching” present
+“welcome” and “unwelcome” groups. emotional states.
+Finally, five out of 15 of patients (33% of cluster) referred
+to the music as providing a “sense of continuity and
+Welcome influences: intensification
+direction,” this included statements of music providing a
+sense of connection between different parts in the experience,
+The most prominent cluster in the group welcome influences,
+making the experience feel “driven” by the music and
+including 17 out of 19 patients (89% of total), refers to themes
+“flowing” into a certain direction (Fig. 1). See
+that describe an intensification of the subjective experience by
+Table 2(Supplementary materials) for a listing of all themes
+the music. Within this cluster, themes that describe an
+present in the cluster guidance.
+“intensification of emotion” were identified in 15 out of 17
+(82% of cluster), including descriptions of music enhancing or
+Welcome influence of the music: calming
+changing emotions. Importantly, the emotion-evoking effects
+that were welcomed showed diverse emotional valence and
+Ten out of 19 patients (53% of total) described calming effects
+included descriptions of the music facilitating “happiness” or
+of the music. From this cluster, nine out ten(90% of cluster)
+strong “ecstatic” experiences, as well experiences of the mu-
+described “general calming” effects, whereas five out of ten
+sic intensifying “tearfulness.”
+patients (50% of cluster) described the music as providing
+Themes describing an “intensification of imagination”
+“mental calming” effects, including sensations of peacefulwere identified in nine out of 17 (53% of cluster). This includ-
+ness and of the music calming and “slowing the mind.” One
+ed statements of the music-evoking vivid and complex mental
+out of ten (10% of cluster) described that the music helped
+imagery and of the concrete imagery relating to specific char-
+them to feel more physically relaxed. Calming effects of muacteristics of the music, such as ethnic “Indian” style of the
+sic often referred to ambient music by Brian Eno, Harold
+music being associated with “seeing an Indian temple.” Eight
+Budd, and Stars of the lid. See Table 3 (Supplementary mateout of 17 patients (47% of cluster) mentioned a “general
+rials) for a listing of all themes present in the cluster
+intensification” effect of the music, without specifically refer-
+“calming.”
+ring to this being an intensification of emotionality, imagery,
+or others. Other themes, present below 30% in the cluster
+Welcome influences of the music: openness
+intensification, include effects of music on “personal thoughts
+to music-evoked experience
+or memories” (2/17, 12% of cluster), music facilitating a
+“sense of transcendence” (2/17, 12% of cluster), and music
+Seven out of 19 patients (37% of total) made statements about
+enhancing “ego dissolution” (2/17, 12% of cluster) (Fig. 1).
+their own attitude of openness towards the influences of the
+See Table 1 (Supplementary materials) for a listing of all
+music and in addition, about the effects of music on their attithemes present in the cluster intensification.
+tude of openness. From this cluster, six out of seven (86% of
+cluster) referred to the “importance” and the “purpose” of beWelcome influences of the music: guidance ing open to “challenging experience” evoked by the music, and
+that this felt like an important part of the therapeutic process.
+The second most prominent cluster of welcome influences This included statements of accepting being deeply emotionally
+includes themes that depict the music as a source of moved by the music and the music helping to “face” or
+“guidance.” This cluster was mentioned by 15 out of 19 pa- “connect with” the listener’s “unresolved” inner conflicts.
+tients (79% of total). Within this cluster, statements that the Four out of seven (57% of cluster) described that some music
+music provided a “sense of being on a journey” were identi- specifically helped to enhance their attitude of openness, such
+fied in 11 out of 15 (73% of cluster). This included descrip- as statements that “the music opened (him/her) up” or that
+tions of the music being experienced as a “vehicle” that because of the music was “well-chosen,” the listener “felt open
+“transports” or “carries” the listener forward, providing a sen- to it all” (Fig. 1). See Table 4 (Supplementary materials) for a
+sation of “travelling” to different psychological “places.” listing of all themes present in the cluster “openness to music-
+Themes describing the music as a source for psychological evoked experience.”
+“support” were identified in 11 out of 15 (73% of cluster). This
+includes various statements of the music providing a sense of Unwelcome influences of the music: intensification
+“srounding,” “help,” and “reassurance.” Descriptions of the
+music being in tune with, or in resonance with the person’s The most prominent cluster, including five out of ten patients
+intrinsic emotional state, were identified in six out of 15 (40% (50% of cluster), described music to “intensify” emotions they
+of cluster). Rather than describing the music as evoking emo- did not want to feel, such as increased “fearfulness,”
+tion, this theme is defined by statements of the music being “sadness,” or “fear.” In addition, five out of ten (50% of
+
+
+A Springer
+
+[PAGE 008]
+
+Psychopharmacology
+
+
+cluster) made statements about the music creating a sense of Most frequent were positive statements about “ethnic
+“discomfort,” including “unpleasant” or “uncomfortable” ex- music,” present in eight out of 19 patients (42% of
+periences, and four out of ten (40% of cluster) described irri- cluster), such as Indian, “Spanish,” or “African” music
+tation as a consequence of the music. In less than 30% of the styles (e.g. Jon Hassel, Ry Cooder, and Ronu
+cluster, the music was described as bringing mental imagery, majumdar). Positive statements about music with human
+thoughts or memories that were unwelcome, a sense of puz- voice were mentioned by seven out of 19 patients (37%
+zlement, inner conflict, tension, or a “dark atmosphere.” This of cluster). Importantly, this refers to vocal music either
+cluster of unwelcome intensification influences forms a con- without lyrics or music with lyrics in a foreign language
+trast with the cluster of themes describing intensification as a (e.g. The Journey by Ludovico Enaudi and Enya's
+welcomed influence (Fig. 1 and Table 1 (Supplementary ma- sumiregusa). One other music style that was frequently
+terials)). See Table 5 (Supplementary materials) for a listing of appreciated by seven out of 19 (37% of cluster) was
+all themes present in the cluster unwelcomed intensification. neo-classical music (e.g. Max Richter or Olafur
+Arnalds) or classical music (e.g. Henryk Gorecki or
+Unwelcome influences of the music: resistance Arvo Part). Apart from these styles, the appreciated muto music-evoked experience sic styles showed a noticeable diversity. In less than
+30%, positive statements were directed to “music with
+Nine out of 19 patients (47% of total) described feelings of crescendo” (five out of 19, 26% of total), “powerful
+“resistance to the music-evoked experience.” This includes state- music” (four out of 19, 21% of total), and only one
+ments of “not liking” or “not wanting” the subjective effects of to two out of 19 made explicit statements about their
+the music. This cluster of unwelcomed influences contrasts the appreciation for specific instruments, such as violin,
+cluster of themes describing an openness to music-evoked expe- guitar, plano, or “music with a solid drone.” See
+rience, as a welcomed influence (see Table 4 (Supplementary Table 8 (Supplementary materials) for a full listing of
+materials) and Fig. 1). See Table 6 (Supplementary materials) all themes referring to music styles that were explicitly
+for a full list of all themes in the cluster intensification. appreciated.
+
+
+Unwelcome influences of the music: misguidance Appreciated music styles and playlist features: playlist
+design
+Six out of 19 (32% of total) made statements about the music
+providing a sense of “misguidance”; this cluster primarily Seventeen out of 19 patients (89% of total) made stateincludes descriptions of the music being a “mismatch” or ments reflecting appreciation for the design of the playlist
+being incongruent with the unfolding subjective experience. (Fig. 2). Most prominent were positive descriptions of the
+This cluster, named “dissonance,” was present in four out of “music selection,” described by 12 out of 17 patients
+six (67% of cluster) and forms a contrast with the welcome (71% of cluster), including descriptions of the music
+influence resonance, when the music was experienced as har- “working well” or being “well-selected.” Secondly, nine
+monious, or a good match, with the subjective experience. out of 17 patients (53% of cluster) provided positive deOther themes of misguidance, present in less than 30%, in- scriptions on the way the music was structured into the
+clude descriptions of the “music feeling intrusive,” the music full playlist. This theme, named “music order,” is defined
+being “unable to positively influence a challenging by statements of the “structure” and the “ordering” of the
+experience,” the music giving a “sense of being music playlist, “aligned” well with the drug effects. The
+manipulated,” the music giving a “sense of unmet potential,” third most prominent theme, present in six out of 17
+or the music giving a sense of “foreboding,” as if something (35%), corresponds to the “music presence,” meaning
+“bad” was going to happen. This cluster of unwelcome influ- the mere presence of the music itself. This includes deence contrasts the cluster of themes describing a sense of scriptions from the music being present as helpful, to
+“supportive” and “helpful” guidance, as a welcome influence statements that it could not be imaginable doing the ses-
+(see Table 2 (Supplementary materials) and Fig. 1). See sions without it and that the music presence felt
+Table 7 (Supplementary materials) for a full list of all themes “necessary.” Finally, other themes include appreciation
+in the cluster misguidance. for “calming music” to be played mainly during onset,
+ascent, and return phases, whereas more emotive music
+Appreciated music styles and playlist features: music (i.e. “sentimental” or “cinematic” music) to be better restyles served for late in the ascent phase and during peak phase.
+See Table 9 (Supplementary materials) for a full listing of
+All 19 patients referred to some music styles within the all themes describing playlist design features that were
+music playlist that they especially appreciated (Fig. 2). appreciated.
+
+
+Y Springer
+
+[PAGE 009]
+
+Psychopharmacology
+
+
+Unappreciated music styles and playlist features: Experience of unity
+
+music styles Spiritual experience
+
+Blissful state
+
+Eleven out of 19 patients (58% of total) referred to musical Insightfulness
+
+styles that were not appreciated. These responses reflected Disembodiment
+
+different degrees of the individual’s disliking of the music Impaired cognition
+
+and were highly diverse, making no theme present in more Anxiety
+
+than 30% of this cluster (Fig. 2). Some examples of themes in Complex Imagery
+
+this cluster refer to “music with lyrics,”
+99 66.
+“vocal music,” “piano Elementary imagery
+
+music,” “classical or neo-classical music,” and “cheesy Audio/visual synesthesia
+
+music.” Often, vocal music and cheesy music referred to one Meaning
+
+particular song played during the final return phase by Buffy
+Saint Mary, up where we belong. See Table 10
+(Supplementary materials) for a list of all themes present in
+the cluster of un-appreciated music styles.
+
+
+Unappreciated music styles and playlist features: Fig.3 Principle component analysis (PCA) of variables from the 11Dplaylist design ASC. Loadings of the 11 dimensions of the ASC (y-axis), on the first five
+PCs obtained from PCA followed by varimax rotation explained more
+than 95% of the variance. The x-axis shows the ordering of principal
+Six out of 19 patients (32% of total) referred to aspects of the components, with the components ordered by explained variance (from
+playlist design that were not appreciated. In 2 out of 6 (33% of left to right). The colour bar corresponds to the strength of the loading for
+cluster), a clear disliking of the music selection was present, each acoustic feature for that components: warm colours indicatea posi-
+tive loading and cold colours a negative loading
+and a preference for “own music selection” was expressed
+(Fig. 2). See Table 11 for a complete list of all themes present
+in the cluster of un-appreciated playlist design features. as by drug intensity (r=0.65, p=0.002), but not by music
+liking (r=0.44, p=.06). Impaired cognition (r=0.55,p =
+Predictors in music experience for psilocybin 0.01) and audiovisual perception changes (r=0.71, p=
+experience and therapy outcomes 0.0006) were only predicted by drug intensity and not by
+any of the music variables. Anxiety was not predicted by
+PCA reduced the dimensions of the 11-ASC to five factors, any of the variables. All reported significant pvalues refer to
+explaining more than 95% of total variance. These PCs are (1) FDR-adjusted threshold for significance of 0.016. See Fig. 4.
+“mystical experience” (loadings from “experiences of unity,”
+“spiritual experience,” and “blissful state”), (2) “impaired
+Inter-rating reliability and discriminative validity
+cognition” (loadings from “disembodiment,” impaired cogni-
+of musicexperience variables
+tion, and “new meanings”), (3) “audiovisual perception”
+(loadings from “audio/visual synaesthesia” and “elementary
+Pearson correlation tests between the scores of all researchers
+imagery”), (4)” anxiety” (primarily loaded by anxiety), and
+(n=4), who rated the three musicexperience variables (liking,
+(5) “insightfulness” (loadings from insightfulness and
+resonance, and openness), demonstrated good inter-rater reliabil-
+“complex imagery”) (see Fig. 3). Subsequently, music expe-
+ity (average r= 0.6 + 0.1, from total of 18 correlations). Pearson
+rience (liking, resonance, and openness) and drug intensity
+correlation tests between the three music experience variables
+scores were correlated with these five factors and ratings for
+showed significant correlations (r= 0.9, r= 0.96, and r=0.91).
+reductions in depression (1 week after psilocybin, defined by
+Drug intensity did not correlate with any of the music experience
+% reduction in QIDS score).
+variables.
+Reductions in depression 1 week after psilocybin were significantly predicted by the musicexperience variables, liking
+(r= 0.60, p = .006), resonance (7 = 0.59, p = .008), and open- Discussion
+ness (r= 0.57, p= .001), but not by drug intensity (r = 0.004,
+p=0.98). Mystical experience during the psilocybin sessions Via an analysis of patient interviews, this study identified a
+was significantly predicted by music variables, liking (r= number of ways in which music influenced the subjective
+0.61, p=.006), resonance (r= 0.67, p = .002), openness (7 = experiences of patients receiving psilocybin with psychologi0.70, p = .0008), and by drug intensity (r= 0.58, p=0.009). cal support for treatment-resistant depression. The most freInsightfulness was predicted by music variables resonance quently reported themes relate to an intensification of emo-
+(r=0.53, p=.016) and openness (7 = 0.59, p = .007), as well tions and mental imagery by music under psilocybin,
+
+
+a Springer
+
+[PAGE 010]
+
+Psychopharmacology
+
+
+you on a ride here, but I promise I wont abandon you.
+Drug intensity
+It’s just going to be tough, and you know, you're going
+through the grinder here, but you won‘ be left in pieces.-
+” That seemed to be... what the music was saying to me.
+Music liking
+(#14).
+
+
+In contrast to the sense of guidance by the music were descripMusic resonance
+tions of the music providing a sense of misguidance. In these
+situations, the music was most often described as being disso-
+nant with the patient’s emotions and thoughts. One example of
+Music openness
+the experience of misguidance and dissonance can be found in
+the following excerpt:
+
+
+$ The light music at one point took me to a place where I
+
+$e
+> thought I was safe, and it became unsafe, and the music
+> ¿5 was playing a trick with me, you know, sort of giving
+ho
+me a false sense of security. I can remember thinking
+
+Fig.4 Correlations between music experience and therapy experience “this is beautiful music, why am I going to this dark
+and outcomes. Outcomes of Pearson correlation tests of drug intensity place?” It didn’t line up with what had gone on before.
+ratings and music experience variables (on y-axis), with decreased I just felt as I was being manipulated, being duped aldepression (1 week after psilocybin) and the acute psilocybin
+most. The music lured me to this beautiful place, and
+experience (five PCs from ASC) (on x-axis). *=p<0.05 and **=
+p<0.001, after FDR correction for multiple comparisons then things started to become dark even with this beau-
+tiful music still playing. (#16)
+
+
+complementing previous studies that demonstrated modulato- One important observation is that effects of the music
+ry effects of LSD on music-evoked emotion (Kaelen et al. that were welcomed, included emotions such as in2015, 2017) and music-evoked mental imagery (Kaelen creased grieving or tearfulness, and that an attitude
+et al. 2016) in healthy volunteers. By focussing on the phe- of openness towards negative music-evoked emotions
+nomenology of the acute experience, the present study pro- was frequently described as helpful in bringing to exvided new insights into the role and importance of music in pression inner psychological conflicts that might then
+the context of psychedelic therapy. For example, the music be resolved (Watts et al. 2017). These experiences
+appeared to be a significant source of guidance, creating a were grouped under the theme “openness to challengsense of grounding, as well as a sense of carrying the listener ing experience feels therapeutic” and show similarities
+into different psychological places. Specific examples of this with recent qualitative research showing perceived
+can be found in the following two excerpts: therapeutic meaning in transient psychological strug-
+gle during psychedelic therapy (Belser et al. 2017;
+The sad songs would bring painful memories on, more Swift et al. 2017). One example of this attitude of
+happy songs would make me think of a really good openness towards the music can be found in the fol-
+period in my life. Every new song could bring a different lowing excerpt:
+image. (#4)
+I can even view the negative moments as positive in a
+I feel the music in large part drove a lot of the experi- way because they served a purpose. The purpose was to
+ence. Under the influence of psilocybin, the music ab- sort of let me face the darkness, and my demons, I guess.
+solutely takes over. Normally when I hear a piece of sad It was beautiful at times, but also... yeah, the darker
+music, or happy music I respond through choice... but moments really helped to reflect on and connect with
+under psilocybin I felt almost that I had no choice but to your unresolved shadows. (#19)
+go with the music. [...] I did feel I was being held. And
+it did feel like the music opened [me] up to grief, and I Contrasting such an attitude of openness to challenging expe-
+just was very happy for that to happen. It wasn’t partic- rience is an attitude of resistance to the intensification effects
+ularly pleasant in any way, but extraordinarily powerful. of the music. This experience was characterised by not want-
+It took my thinking and my experience to uncomfortable ing the music or its effects and was named “resistance to
+places, but I was kind of reassured in the experience. intensification.” An example of this can be found in the fol-
+There was something there that meant “P'm going to take lowing excerpt:
+
+
+Y Springer
+
+[PAGE 011]
+
+Psychopharmacology
+
+
+I worried that I let [the music] shape this sort of melan- disliked, the music being either resonant or dissonant with
+choly. There was resistance, massively, to everything, the patient’s experience, and the patient being either open or
+every sort of sensory input, I had a fearful response. I resistant to the influence of the music. These variables (liking,
+was afraid to open my eyes, I was afraid to do anything, resonance, and openness) positively predicted the extent to
+I was afraid that this sort of music was the last thing Pd which patients reported having mystical experiences (a factor
+ever hear. (#5) defined as the experience of unity, blissful emotionality, and
+spirituality). In addition, resonance and openness, but not lik-
+ing, predicted the extent to which people reported
+Music styles and playlist design insightfulness (a factor defined by having inventive ideas,
+feelings of profoundness, insights, and the experience of vivid
+The study also shed light on how different musical personal memories or mental images). Drug intensity, on the
+styles and the design of the music playlist were experi- other hand, also correlated with other aspects of the
+enced. The choice of the music and the design of the psilocybinexperience, such as impaired cognition and audiomusic playlist were overall well-appreciated, with the visual perception changes. It must be noted that liking, resomost frequently appreciated musical genres being eth- nance, and openness were highly correlated and thus likely
+nic-, vocal-, and (neo-) classical music. Appreciation represent one construct. The absence of a significant correlawas also expressed for the design of the playlist, in tion between music liking and reported insightfulness may
+particular for the calming (ambient) music, which was therefore be due to a lack of statistical power.
+particularly present during the early (pre-onset and early The selective association of the music experience with
+ascent) and the final (return) phases, and at periods mystical experience and insightfulness, and not with other
+during peak, while more emotionally evocative music subjective experiences, supports the original motivations to
+being reserved for the peak phase. This indirectly sup- include music in psychedelictherapy, i.e. to promote the ocports the therapists’ views that that an optimal playlist currence of therapeutically meaningful experiences. Modern
+design is characterised by a music genre selection that studies have confirmed that psilocybin can reliably facilitate
+is structured to match the different phases of drug ex- mystical experiences (Griffiths et al. 2011, 2016), and these
+perience (Barrett et al. 2017; Bonny and Pahnke 1972; experiences have been associated with sustained positive
+Grof 1980; Richards 2015). changes in behaviour and personality (MacLean et al. 2011)
+Strong disliking of the music selection was rare, but when and with positive therapy outcomes (Garcia-Romeu et al.
+this did occur it proved insightful about the possible functions 2014; Griffiths et al. 2016; Roseman et al. 2017; Ross et al.
+of music selection: Typically, disliking of the music seemed to 2016). Although these studies incorporated music-listening in
+be associated with either a “diminishment” of psilocybin’s combination with psilocybin, this study is the first to demonsubjective effects, accompanied by unpleasant feelings (such strate that the music experience during these sessions relates to
+as discomfort and irritation), and with an attitude of resistance, the occurrence of mystical experiences. A positive relationcharacterised by an attempt to psychologically reject and dis- ship was also found between the music experience and reductance oneself from the music, such as detailed in the following tions in depression 1 week after the psilocybin experience.
+excerpt: Importantly, reductions in depression were not related to the
+intensity of the drug effects. This finding indicates that it is not
+The music blocked my experience and feelings. A sense merely the drug effect in isolation, but an interaction between
+of irritation, frustration, and sense of lowering mood. the drug and the music on subjective experience that promotes
+The majority of the songs were not my kind of music, positive therapeutic outcomes.
+I can’t sit with that music ... I have to leave the room. I
+was sort of feeling bad, because I wanted to work with it. Possible therapeutic mechanisms of music
+I sensed the potential for a really profound experience. I in psychedelic therapy
+couldn’t meet that potential with music that I felt was
+quite mediocre. To me it didn’t feel real, so I felt quite A principal effect of psychedelics is that they temporarily
+torn. (#6) dysregulate brain mechanisms that normally regulate
+emotion(Carhart-Harris et al. 2012a, 2016b;
+Muthukumaraswamy et al. 2013; Tagliazucchi et al. 2016),
+Music experience predicts experience and therapy and this could underlie the enhanced emotional responsiveoutcomes ness to emotionally evocative stimuli reported here as else-
+where (Carhart-Harris et al. 2012b; Kaelen et al. 2015, 2017;
+As outlined above, notable polarities were observed in the Quednow et al. 2012; Vollenweider et al. 2007). The notion
+music experience, such as the music being either liked or that accepting and moving through challenging emotions are
+
+
+Y Springer
+
+[PAGE 012]
+
+Psychopharmacology
+
+
+important for psychotherapeutic change is central to many with the unfolding experience, disliked, and rejected (resispsychotherapeutic models (Greenberg and Pascual-Leone tance), therapeutic outcomes suffered. In contrast, when the
+2006), has empirical support (Whelton 2004), and been noted music was in resonance with the patient's experience, liked,
+by other psychedelic therapy studies (Belser et al. 2017; Swift and accepted (openness), therapeutic outcomes were most
+et al. 2017; Watts et al. 2017). In psychedelic therapy, the positive.
+function of psychedelics may be to ease the relinquishment These music experience variables in this study (resonance,
+of psychological control (i.e. ego dissolution and enhanced liking, and openness) correlated with each other, suggesting
+suggestibility (Carhart-Harris et al. 2014)), thereby allowing that they represent a single construct within the music experia fuller and freer (i.e. less inhibited) expression of emotional- ence that is associated with positive therapy outcomes. Liking
+ity. The enhanced receptivity to music, in turn, may play the of music is usually characterised as a mixture of genre appreimportant function of activating emotionality, thoughts, and ciation and aesthetic judgements (Juslin 2013; Juslin and
+memories that are most personally salient. Thereby, music Västfjäll 2008; Juslin et al. 2016; North and Hargreaves
+can guide the patient’s experience into directions that are most 1997), and music liking may represent a basic pre-requisite
+therapeutically significant. One key difference between psy- for music to evoke personally meaningful emotionality. In
+chedelic therapy and other forms of psychotherapy (and con- addition, some music styles and acoustic properties may be
+ventional pharmacotherapy) may be the capacity of psyche- more suitable for the conscious states induced by psychedelics
+delics and music to rapidly facilitate deeply felt and personally than others. The patient’s attitude, in turn, appears to require a
+meaningful emotionality (Carhart-Harris et al. 2016a; Gasser sufficient degree of openness to the music-evoked experience,
+et al. 2014; Griffiths et al. 2016; Grob et al. 2011; Johnson and this may imply not only a state of surrender but also a proet al. 2014; Ross et al. 2016). active and curious engagement with the therapeutic content
+It is worth considering that these findings show a remark- that emerges.
+able congruency with the theoretical frameworks and patient This hypothetical framework holds that an optimal music
+experiences of “introspective” forms of music therapy, where experience (style liking, music’s resonance, and openness to
+music is utilised as the means to provide an experience that is music) creates an optimal climate for the expression of meanthought to help the listener examine and change his/her rela- ingful therapeutic content, characterised by the sensation of
+tionship with themselves (Abbott 2005; Albornoz 2013; being on a personal journey, with a spontaneous and often
+Summer 1992, 2011). This includes the use of music to evoke intense emergence of personally meaningful imagery,
+intense emotional experiences (Albornoz 2013), as well as a thoughts, and emotionality. This optimal music experience
+way to provide a “holding environment,” which feels “safe construct may be a critical pre-requisite, and when it is not
+and secure” to express and experience new aspects of oneself met adequately, is likely to result in the patient to distance
+(Carroll 2011; Schulberg 1999). Therapeutic effects of music from the music experience (resistance), characterised by feelare widely reported in literature and utilised across different ings of discomfort, and a diminishment of personally meanhealth care disciplines (Finch and Moscovitch 2016; ingful imagery, thoughts, and emotionality (i.e. the absence of
+Mondanaro et al. 2017; Pavlov et al. 2017). The present find- the sense of being on a journey). Given the patient’s experiings therefore engender the view that psychedelic therapy uti- ence is highly individual and dynamic, this finding suggests
+lises therapeutic effects of music that are enhanced via an that the adaptation of the music during psychedelic therapy
+interaction between the drug and the music. sessions may be critical at times, in order to provide adequate
+therapeutic support conditions, or prevent possible counterImplications for the use of music in psychedelic therapeutic experiences: an idea that was often emphasised
+therapy by early pioneers of psychedelic therapy (Bonny and Pahnke
+1972; Grof 1980; Hoffer 1965).
+Due to the prominence of music-listening in psychedelic ther- In this framework, the experience of resistance and dislike
+apy, increasing the knowledge of the appropriate therapeutic by the listener may be regarded as an important indicator for
+use of music in psychedelic therapy is important. This be- the therapist of music’s failure to act therapeutically, and the
+comes particularly critical when psychedelic therapy is imple- type of intervention needed to restore music’s therapeutic
+mented on increasingly larger scales. The therapeutic influ- function may be determined by one central question the therence of music has been referred to as being of “profound apists may need to clarify, 1.e. what is the source of the resissignificance” (Bomny and Pahnke 1972), and several authors tance or dislike? The therapists bear a responsibility to ensure
+emphasised the care needed in selecting appropriate music, the music styles are sufficiently liked, via thoughtful music
+playing this music at the right circumstances, and within a selection, and that resonance is maximised by providing an
+personalised patient-centred format (Grof 1980; Hoffer attunement of the music to the patient’s personal and dynam1965). The present study provides support for these views, ically unfolding experience, via thoughtful playlistdesign and
+by showing that when the music was experienced as dissonant adaptation of the music when needed. However, in addition, it
+
+
+Y Springer
+
+[PAGE 013]
+
+Psychopharmacology
+
+
+may occur that the music-evoked experience is rich with ther- for further research to better understand how music interacts
+apeutically meaningful content, yet the experience may be with certain personality traits and psychological states to inemotionally challenging, resulting in similar expressions of fluence the acute experience and longer-term outcomes of
+resistance. In these scenarios, the therapists may instead need psychedelic therapy.
+to provide adequate therapeutic support for the patient to feel
+safe and motivated to engage in exploring and expressing the Compliance with ethical standards
+present challenging feeling states, of which the meanings may
+Conflict of interest Amanda Feilding is the director of the Beckley
+not always be immediately clear.
+Foundation, one of the sponsors of the study. David Nutt is an advisor
+for the Beckley Foundation.
+Limitations and future directions
+
+Open Access This article is distributed under the terms of theCreative
+This study has a number of limitations. First of all, the data was
+Commons Attribution 4.0 International License (http://
+acquired without a placebocondition, making causal inferences creativecommons.org/licenses/by/4.0/),which permits use, duplication,
+about the nature of the effects problematic. Secondly, the main adaptation, distribution and reproduction inany medium or format, as
+
+body of data used for this study was qualitative in nature. long as you give appropriate credit to the originalauthor(s) and the
+source, provide a link to the Creative Commons license andindicate if
+Therefore, the experiment did not allow studying the magnitude
+changes were made.
+of the observed themes in the music experience. It should therefore be emphasised that the primary objective of this study was to
+provide a patient perspective on the influence of music. We hope
+References
+that this work inspires new hypotheses for future studies, and that
+it assists therapists and researchers in their use of music in psy-
+Abbott E (2005) Client experiences with the music in the bonny method
+chedelic therapy. Examples of future directions include testing of guided imagery and music (BMGIM). Qualitative inquiries in.
+whether maximization of resonance could improve therapy out- Music Ther 2:36-61
+
+comes, and whether the variables liking, resonance, and open- Albornoz Y (2013) Crying in music therapy: an exploratory study.
+Qualitative Inquiries inMusic Therapy 8:31-50
+ness represent one single factor or separate factors when larger
+Barrett FS, Robbins H, Smooke D, Brown JL, Griffiths RR (2017)
+sample sizes and more precise measurements are employed. Qualitative and quantitative features of music reported to support
+A significant body of empirical work is required to advance peak mystical experiences during psychedelic therapy sessions.
+
+the therapeutic use of music in psychedelic therapy. One im- Front Psychol 8. https://doi.org/10.3389/fpsyg.2017.01238
+Belser AB, Agin-Liebes G, Swift TC, Terrana S, Devenot N, Friedman
+portant focus of such work will be the establishing of baseline
+HL, Guss J, Bossis A, Ross S (2017) Patient experiences of
+measures that can reliably predict individual music experi-
+psilocybin-assisted psychotherapy: an interpretative phenomenologences during psychedelic therapy sessions. Such predictive ical analysis. J Humanist Psychol 57(4):354-388. https://doi.org/10.
+measures can range from personality traits (e.g. openness to 1177/0022167817706884
+Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate:
+experience, absorption, or suggestibility) to measures of per-
+apractical and powerful approach to multiple testing. J R Stat Soc
+sonal music preferences. Furthermore, research that focuses
+Ser B Methodol 57:289-300
+on identifying reliable indicators of positive (welcome/sup- Biggerstaff D, Thompson AR (2008) Interpretative phenomenological
+portive) and negative (unwelcome/unsupportive) influences analysis (IPA): a qualitative methodology of choice in healthcare
+
+of music on the therapeutic processes during psychedelic ther- research. Qual Res Psychol 5:214-224
+Bogenschutz, M.P., Forcehimes, A.A., Pommy, J.A., Wilcox, C.E.,
+apy sessions may help therapists adapt music to individual
+Barbosa, P.C.R., and Strassman, R.J. (2015). Psilocybin-assisted
+patients. treatment for alcohol dependence: a proof-of-concept study.J
+Psychopharmacol (Oxf) 269881114565 144
+Bonny HL, Pahnke WN (1972) The use of music in psychedelic (LSD)
+psychotherapy. J Music Ther 9(2):64-87. https://doi.org/10.1093/
+Conclusions
+jmt/9.2.64
+Busch A, Johnson W (1950) L.S.D. 25 as an aid in psychotherapy; preIn patients with treatment-resistant depression treated with liminary report of a new drug. Dis Nerv Syst 11(8):241-243
+psilocybin, music was described as having a substantial influ- Carhart-Harris, R.L., and Goodwin, G.M. (2017). The therapeutic poten-
+tial of psychedelic drugs: past, present, and future.
+ence on their therapeutic experience, and selective correlations
+Neuropsychopharmacology
+between the musicexperience and the occurrence of mystical
+Carhart-Harris RL, Erritzoe D, Williams T, Stone JM, Reed LJ, Colasanti
+experiences and insightfulness during sessions support this. A, Tyacke RJ, Leech R, Malizia AL, Murphy K, Hobden P, Evans J,
+Patients’ experience of the music, but not drug intensity, was Feilding A, Wise RG, Nutt DJ (2012a) Neural correlates of the
+
+predictive of reductions in depression 1 week later, suggesting psychedelic state as determined by fMRI studies with psilocybin.
+Proc Natl Acad Sci 109(6):2138-2143. https://doi.org/10.1073/
+that music plays a central mediating role in psychedelic
+pnas.1119598109
+therapy. These findings motivate greater appreciation of music Carhart-Harris RL, Leech R, Williams TM, Erritzoe D, Abbasi N,
+as a key variable in psychedelic therapy and highlight the need Bargiotas T, Hobden P, Sharp DJ, Evans J, Feilding A, Wise RG,
+
+
+A Springer
+
+[PAGE 014]
+
+Psychopharmacology
+
+
+Nutt DJ (2012b) Implications for psychedelic-assisted psychothera- Hoffer A (1965) D-Lysergic acid diethylamide (LSD): a review of its
+py: functional magnetic resonance imaging study with psilocybin. present status. Clin Pharmacol Ther 6(2):183-255. https://doi.org/
+Br J Psychiatry 200(3):238—244. https://doi.org/10.1192/bjp.bp.111. 10.1002/cpt1 96562183
+103309 Johnson MW, Richards WA, Griffiths RR (2008) Human hallucinogen
+Carhart-Harris RL, Kaelen M, Whalley MG, Bolstridge M, Feilding A, research: guidelines for safety. J Psychopharmacol Oxf Engl 22(6):
+Nutt DJ (2014) LSD enhances suggestibility in healthy volunteers. 603-620. https://doi.org/10.1177/026988 1108093587
+Psychopharmacology 232:785—794 Johnson MW, Garcia-Romeu A, Cosimano MP, Griffiths RR (2014) Pilot
+Carhart-Harris RL, Bolstridge M, Rucker J, Day CMJ, Erritzoe D, Kaelen study of the 5-HT2AR agonist psilocybin in the treatment of tobacco
+M, Bloomfield M, Rickard JA, Forbes B, Feilding A, Taylor D, addiction. J. Psychopharmacol. (Oxf.) 28(11):983-992. https://doi.
+Pilling S, Curran VH, Nutt DJ (2016a) Psilocybin with psycholog- org/10.1177/026988 1114548296
+ical support for treatment-resistant depression: an open-label feasi- Johnson MW, Garcia-Romeu A, Griffiths RR (2016) Long-term follow-
+bility study. Lancet Psychiatry 3(7):619-627. https://doi.org/10. up of psilocybin-facilitated smoking cessation. Am J Drug Alcohol
+1016/S2215-0366(16)30065-7 Abuse 0:1-6
+Carhart-Harris RL, Muthukumaraswamy S, Roseman L, Kaelen M, Juslin PN (2013) From everyday emotions to aesthetic emotions: towards
+Droog W, Murphy K, Tagliazucchi E, Schenberg EE, Nest T, a unified theory of musical emotions. Phys Life Rev 10(3):235-266.
+Orban C, Leech R, Williams LT, Williams TM, Bolstridge M, https://doi.org/10.1016/j.plrev.2013.05.008
+Sessa B, McGonigle J, Sereno MI, Nichols D, Hellyer PJ, Hobden Juslin PN, Västfjäll D (2008) Emotional responses to music: the need to
+P, Evans J, Singh KD, Wise RG, Curran HV, Feilding A, Nutt DJ consider underlying mechanisms. Behav Brain Sci 31:559-575
+(2016b) Neural correlates of the LSD experience revealed by mul- Juslin PN, Sakka LS, Barradas GT, Liljestróm S (2016) No accounting for
+timodal neuroimaging. Proc Natl Acad Sci 113(17):4853-4858. taste? Idiographic models of aesthetic judgment in music. Psychol
+https://doi.org/10.1073/pnas.1518377113 Aesthet Creat Arts 10(2):157-170. https://doi.org/10.1037/
+Carroll, B. (2011). Pellitteri, J. (2009). Emotional processes in music aca0000034
+therapy. Gilsum, NH: Barcelona Publishers. ISBN-10: Kaelen M, Barrett FS, Roseman L, Lorenz R, Family N, Bolstridge M,
+1891278517. E-book. ISBN-13: 9781891278518. $44.00. Music Curran HV, Feilding A, Nutt DJ, Carhart-Harris RL (2015) LSD
+Ther. Perspect29, 158-159 enhances the emotional response to music. Psychopharmacology
+Dittrich A (1998) The standardized psychometric assessment of altered 232(19):3607-3614. https://doi.org/10.1007/s00213-015-4014-y
+states of consciousness (ASCs) in humans. Pharmacopsychiatry Kaelen M, Roseman L, Kahan J, Santos-Ribeiro A, Orban C, Lorenz R,
+31(S 2):80-84. https://doi.org/10.1055/s-2007-979351 Barrett FS, Bolstridge M, Williams T, Williams L et al (2016) LSD
+Finch K, Moscovitch DA (2016) Imagery-based interventions for music modulates music-induced imagery via changes in parahippocampal
+performance anxiety: an integrative review. Med Probl Perform Art connectivity. Eur Neuropsychopharmacol 26(7):1099-1109. https://
+31(4):222—231. https://doi.org/10.21091/mppa.2016.4040 doi.org/10.1016/j.euroneuro.2016.03.018
+Gabrielsson A, Wik SL (2003) Strong experiences related to music: Kaelen M, Lorenz R, Barrett FS, Roseman L, Orban C, Santos-Ribeiro A,
+adescriptive system. Music Sci 7(2):157-217. https://doi.org/10. Wall MB, Feilding A, Nutt D, Muthukumaraswamy S et al (2017)
+1177/102986490300700201 Effects of LSD on music-evoked brain activity. BioRxiv 153031.
+Garcia-Romeu A, Griffiths R, R., and W. Johnson, M. (2014) Psilocybin- https://doi.org/10.1101/153031
+occasioned mystical experiences in the treatment of tobacco addic- MacLean KA, Johnson MW, Griffiths RR (2011) Mystical experiences
+tion. Curr Drug Abuse Rev 7(3):157-164 occasioned by the hallucinogen psilocybin lead to increases in the
+Gasser P, Holstein D, Michel Y, Doblin R, Yazar-Klosinski B, Passie T, personality domain of openness. J. Psychopharmacol. (Oxf.) 25(11):
+Brenneisen R (2014) Safety and efficacy of lysergic acid 1453-1461. https://doi.org/10.1177/0269881111420188
+diethylamide-assisted psychotherapy for anxiety associated with Maclean KA, Leoutsakos J-MS, Johnson MW, Griffiths RR (2012)
+life-threatening diseases. J Nerv Ment Dis 202(7):513-520. https:// Factor analysis of the mystical experience questionnaire: astudy of
+doi.org/10.1097/NMD.0000000000000113 experiences occasioned by the hallucinogen psilocybin. J Sci Study
+Greenberg LS, Pascual-Leone A (2006) Emotion in psychotherapy: a Relig 51(4):721-737. https://doi.org/10.1111/j.1468-5906.2012.
+practice-friendly research review. J Clin Psychol 62(5):611-630. 01685.x
+https://doi.org/10.1002/jelp.20252 Maslow, A.H. (1964). Religions, values, and peak-experiences (Kappa
+Griffiths RR, Richards WA, McCann U, Jesse R (2006) Psilocybin can Delta Pi)
+occasion mystical-type experiences having substantial and sustained Maslow, A.H. (1971). The farther reaches of human nature (the Viking
+personal meaning and spiritual significance. Psychopharmacology Press)
+187(3):268-283. https://doi.org/10.1007/s002 13-006-0457-5 Mithoefer MC, Wagner MT, Mithoefer AT, Jerome L, Doblin R (2011)
+Griffiths R, Johnson M, Richards W, Richards B, McCann U, Jesse The safety and efficacy of + 3,4-methylenedioxymethamphetamine-
+R (2011) Psilocybin occasioned mystical-type experiences: im- assisted psychotherapy in subjects with chronic, treatment-resistant
+mediate and persisting dose-related effects. posttraumatic stress disorder: the first randomized controlled pilot
+Psychopharmacology 218(4):649-665. https://doi.org/10.1007/ study. J Psychopharmacol (Oxf) 25(4):439-452. https://doi.org/10.
+s00213-011-2358-5 1177/0269881110378371
+Griffiths RR, Johnson MW, Carducci MA, Umbricht A, Richards WA, Mithoefer MC, Wagner MT, Mithoefer AT, Jerome L, Martin SF, Yazar-
+Richards BD, Cosimano MP, Klinedinst MA (2016) Psilocybin pro- Klosinski B, Michel Y, Brewerton TD, Doblin R (2013) Durability
+duces substantial and sustained decreases in depression and anxiety of improvement in post-traumatic stress disorder symptoms and ab-
+in patients with life-threatening cancer: a randomized double-blind sence of harmful effects or drug dependency after 3,4-
+trial. J. Psychopharmacol. (Oxf.) 30(12):1181-1197. https://doi.org/ methylenedioxymethamphetamine-assisted psychotherapy: a pro-
+10.1177/0269881116675513 spective long-term follow-up study. J. Psychopharmacol. (Oxf.)
+Grob CS, Danforth AL, Chopra GS, Hagerty M, McKay CR, Halberstadt 27(1):28-39. https://doi.org/10.1177/026988 1112456611
+AL, Greer GR (2011) Pilot study of psilocybin treatment for anxiety Mondanaro JF, Homel P, Lonner B, Shepp J, Lichtensztein M, Loewy JV
+in patients with advanced-stage cancer. Arch Gen Psychiatry 68(1): (2017) Music therapy increases comfort and reduces pain in patients
+71-78. https://doi.org/10.1001/archgenpsychiatry.2010.116 recovering from spine surgery. Am. J. Orthop.Belle Mead NJ 46:
+Grof, S. (1980). LSD psychotherapy E13-E22
+
+
+a Springer
+
+[PAGE 015]
+
+Psychopharmacology
+
+
+Muthukumaraswamy SD, Carhart-Harris RL, Moran RJ, Brookes MJ, threatening cancer: a randomized controlled trial. J.
+Williams TM, Errtizoe D, Sessa B, Papadopoulos A, Bolstridge Psychopharmacol. (Oxf.) 30(12):1165-1180. https://doi.org/10.
+M, Singh KD, Feilding A, Friston KJ, Nutt DJ (2013) Broadband 1177/0269881116675512
+cortical Desynchronization underlies the human psychedelic state. J Schulberg CH (1999) Out of the ashes: transforming despair into hope
+Neurosci 33(38):15171-15183. https://doi.org/10.1523/ with music and imagery. Publishers, Barcelona, pp 7-12
+JNEUROSCI.2063-13.2013 Smith JA (2011) Evaluating the contribution of interpretative phenomeNorth AC, Hargreaves DJ (1997) Liking, arousal potential, and the emo- nological analysis. Health. Psychol Rev 5:9-27
+tions expressed by music. Scand J Psychol 38(1):45-53. https://doi. Smith, J., Osborn, M., and Flowers, P. (1997). Interpretative phenomeno-
+org/10.1111/1467-9450.00008
+logical analysis and health psychology (Routledge)
+de Osorio FL, Sanches RF, Macedo LR, Santos RG, Maia-de-Oliveira JP,
+Stace, W. (1960). Teachings of the mystics (New American Library)
+Wichert-Ana L, Araujo DB, Riba J et al (2015) Antidepressant ef-
+Studerus E, Gamma A, Vollenweider FX (2010) Psychometric evaluation
+fects of a single dose of ayahuasca in patients with recurrent depres-
+of the altered states of consciousness rating scale (OAV). PLoS One
+sion: a preliminary report. Rev Bras Psiquiatr 37:13-20
+5(8):e12412. https://doi.org/10.137 1/journal.pone.0012412
+Pavlov A, Kameg K, Cline TW, Chiapetta L, Stark S, Mitchell AM
+Summer L (1992) Music: the aesthetic elixir. J Association Music
+(2017) Music therapy as a nonpharmacological intervention for anx-
+Imagery:43-54
+iety in patients with a thought disorder. Issues Ment Health Nurs
+Summer L (2011) Client perspectives on the music in guided imagery and
+38(3):285—288. https://doi.org/10.1080/01612840.2016.12645
+16
+music (GIM). Qualitative Inquiries inMusic Therapy 6:34-77
+Pothoulaki M, MacDonald R, Flowers P (2012) An interpretative phe-
+nomenological analysis of an improvisational music therapy pro- Swift TC, Belser AB, Agin-Liebes G, Devenot N, Terrana S, Friedman
+
+gram for cancer patients. J Music Ther 49(1):45-67. https://doi. HL, Guss J, Bossis AP, Ross S (2017) Cancer at the dinner table:
+
+org/10.1093/¡mt/49.1.45 experiences of psilocybin-assisted psychotherapy for the treatment
+
+Preller KH, Herdener M, Pokorny T, Planzer A, Kraehenmann R, of cancer-related distress. J Humanist Psychol 57(5):488-519.
+
+Stámpfli P, Liechti ME, Seifritz E, Vollenweider FX (2017) The https://doi.org/10.1177/0022167817715966
+
+fabric of meaning and subjective effects in LSD-induced states de- Tagliazucchi E, Roseman L, Kaelen M, Orban C, Muthukumaraswamy
+
+pend on serotonin 2A receptor activation. Curr Biol 27(3):451-457. SD, Murphy K, Laufs H, Leech R, McGonigle J, Crossley N,
+
+https://doi.org/10.1016/j.cub.2016.12.030 Bullmore E, Williams T, Bolstridge M, Feilding A, Nutt DJ,
+Quednow BB, Kometer M, Geyer MA, Vollenweider FX (2012) Carhart-Harris R (2016) Increased global functional connectivity
+
+Psilocybin-induced deficits in automatic and controlled inhibition correlates with LSD-induced ego dissolution. Curr Biol 26(8):
+are attenuated by ketanserin in healthy human volunteers. 1043-1050. https://doi.org/10.1016/j.cub.2016.02.010
+
+Neuropsychopharmacology 37(3):630-640. https://doi.org/10. Vollenweider FX, Csomor PA, Knappe B, Geyer MA, Quednow BB
+1038/npp.2011.228 (2007) The effects of the preferential 5-HT2A agonist psilocybin
+Richards, W. (2015). Sacred knowledge: psychedelics and religious ex- on prepulse inhibition of startle in healthy human volunteers depend
+periences (Columbia University Press), DOI: https://doi.org/10. on interstimulus interval. Neuropsychopharmacology 32(9):1876—
+7312/columbia/9780231174060.001.0001 1887. https://doi.org/10.1038/sj.npp.1301324
+Roseman, L., Nutt, D., and Carhart-Harris, R. (2017). Quality of acute Watts R, Day C, Krzanowski J, Nutt D, Carhart-Harris R (2017) Patients’
+psychedelic experience predicts therapeutic efficacy of psilocybin accounts of increased “connectedness” and “acceptance” after psi-
+for treatment-resistant depression. Rev. locybin for treatment-resistant depression. J Humanist Psychol
+Ross S, Bossis A, Guss J, Agin-Liebes G, Malone T, Cohen B, Mennenga 57(5):520-564. https://doi.org/10.1177/0022 167817709585
+SE, Belser A, Kalliontzi K, Babb J, Su Z, Corby P, Schmidt BL Whelton WJ (2004) Emotional processes in psychotherapy: evidence
+(2016) Rapid and sustained symptom reduction following psilocy- across therapeutic modalities. Clin Psychol Psychother 11(1):58-
+bin treatment for anxiety and depression in patients with life- 71. https://doi.org/10.1002/cpp.392
+
+
+a Springer

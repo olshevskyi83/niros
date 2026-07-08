@@ -1,0 +1,111 @@
+{
+  "ontology_version": "master_ontology_v1",
+  "problems": [
+    {
+      "problem_id": "depression",
+      "name": "Depression",
+      "presenting_concern": "Persistent low mood, loss of interest, and reduced engagement with valued life domains.",
+      "associated_mechanism_ids": [
+        "rumination",
+        "experiential_avoidance",
+        "harsh_self_criticism",
+        "loss_of_meaning"
+      ],
+      "human_review_status": "seed",
+      "source_references": [],
+      "runtime_use_notes": "Candidate presenting concern for pattern mapping; not a treatment claim."
+    },
+    {
+      "problem_id": "anxiety",
+      "name": "Anxiety",
+      "presenting_concern": "Persistent worry, threat anticipation, and avoidance of feared internal or external cues.",
+      "associated_mechanism_ids": [
+        "experiential_avoidance",
+        "cognitive_fusion",
+        "control_strategies",
+        "rumination"
+      ],
+      "human_review_status": "seed",
+      "source_references": [],
+      "runtime_use_notes": "Use for mechanism-first interview and session planning context."
+    },
+    {
+      "problem_id": "emotional_avoidance",
+      "name": "Emotional Avoidance",
+      "presenting_concern": "Habitual steering away from feelings, triggers, or situations that may activate distress.",
+      "associated_mechanism_ids": [
+        "experiential_avoidance",
+        "emotional_suppression",
+        "control_strategies"
+      ],
+      "human_review_status": "seed",
+      "source_references": [],
+      "runtime_use_notes": "Cross-cutting maintaining pattern across multiple presenting concerns."
+    },
+    {
+      "problem_id": "shame",
+      "name": "Shame",
+      "presenting_concern": "Painful self-conscious affect tied to perceived defectiveness or social exposure.",
+      "associated_mechanism_ids": [
+        "shame_sensitivity",
+        "harsh_self_criticism",
+        "experiential_avoidance"
+      ],
+      "human_review_status": "seed",
+      "source_references": [],
+      "runtime_use_notes": "Track shame signals separately from guilt or embarrassment when possible."
+    },
+    {
+      "problem_id": "chronic_pain",
+      "name": "Chronic Pain",
+      "presenting_concern": "Persistent pain with functional impairment and threat-oriented interpretation of bodily signals.",
+      "associated_mechanism_ids": [
+        "pain_catastrophizing",
+        "experiential_avoidance",
+        "control_strategies"
+      ],
+      "human_review_status": "seed",
+      "source_references": [],
+      "runtime_use_notes": "Candidate concern where psilocybin-assisted therapy may be studied depending on evidence and risk."
+    },
+    {
+      "problem_id": "substance_dependence",
+      "name": "Substance Dependence",
+      "presenting_concern": "Compulsive substance use maintained by relief, avoidance, and reward-cycle learning.",
+      "associated_mechanism_ids": [
+        "addictive_relief_cycle",
+        "experiential_avoidance",
+        "control_strategies"
+      ],
+      "human_review_status": "seed",
+      "source_references": [],
+      "runtime_use_notes": "Requires careful risk screening and integration planning."
+    },
+    {
+      "problem_id": "grief",
+      "name": "Grief",
+      "presenting_concern": "Painful adaptation to loss with waves of yearning, sadness, and meaning disruption.",
+      "associated_mechanism_ids": [
+        "experiential_avoidance",
+        "loss_of_meaning",
+        "rumination"
+      ],
+      "human_review_status": "seed",
+      "source_references": [],
+      "runtime_use_notes": "Distinguish normative grief process from complicated maintaining loops."
+    },
+    {
+      "problem_id": "rumination",
+      "name": "Rumination",
+      "presenting_concern": "Repetitive, passive, and often unproductive analysis of distress and its causes.",
+      "associated_mechanism_ids": [
+        "rumination",
+        "cognitive_fusion",
+        "harsh_self_criticism"
+      ],
+      "human_review_status": "seed",
+      "source_references": [],
+      "runtime_use_notes": "Presenting concern and maintaining mechanism may co-occur."
+    }
+  ]
+}

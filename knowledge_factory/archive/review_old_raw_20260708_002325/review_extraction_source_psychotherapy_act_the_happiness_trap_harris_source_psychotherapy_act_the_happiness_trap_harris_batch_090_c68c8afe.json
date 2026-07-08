@@ -1,0 +1,60 @@
+{
+  "created_at": "2026-07-07T21:47:45+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_090_c68c8afe",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative thoughts",
+      "negative emotions",
+      "internal fears",
+      "self-doubt",
+      "avoidance behaviors"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; the text does not specify contraindications explicitly."
+    ],
+    "evidence_text": "In later chapters, when we start focusing on your values and on taking action to change your life for\nthe better, these demons are going to challenge you. Depending on the nature of your current\nproblems, you may choose to pursue a new career, start a new relationship, make some new friends,\nimprove your physical fitness, or engage in some challenging project like writing a novel, taking a\ncourse or enrolling in higher education—and what I guarantee you is this: whatever meaningful\nchanges you start to make in your life, those demons will rear their ugly heads and try to discourage\nyou.\n\n---\n\nNow here’s the good news: if you keep steering your ship toward shore (no matter how much the\ndemons threaten you), many of them will realise they’re having no effect and will give up and leave\nyou alone. As for the ones that remain, after a while you’ll get used to them. And if you take a\ngood, long look at them, you’ll realise they’re not nearly as scary as they first appeared. You’ll\nrealise they’ve been using special effects to make themselves look a lot bigger than they really are.\nSure, they’\nll still look ugly—they won't turn into cute, fluffy bunny rabbits—but you’\nll find them\nmuch less frightening. And more importantly, you’ll find that you can let them hang around without\nbeing bothered by them. Furthermore, if you keep sailing towards that shore, you won’t just have\ndemons for company; you’ll soon encounter angels and mermaids and dolphins.\n\n---\n\nSo one of my main aims in this book is to help you see through the special effects of your demons:\nto see them as they really are, so that they no longer intimidate you and no longer dictate where you\nsteer your ship. We’ve already started to do this with thoughts and images, and next we’re going to\ndo it with emotions. But before moving on, take a few moments to think about the changes you’d\nlike to make in your life. Ask yourself:",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_090_c68c8afe",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage identification of personal values and meaningful life changes",
+      "Anticipate internal resistance ('demons') when pursuing change",
+      "Promote persistence despite internal challenges",
+      "Facilitate cognitive defusion by reappraising the nature of internal experiences"
+    ],
+    "pause_rules": [
+      "Encourage reflective pauses to consider desired life changes and internal responses"
+    ],
+    "psychological_function": "Facilitates exposure to feared thoughts and emotions, cognitive defusion by seeing thoughts as less threatening, habituation to distressing internal experiences, and acceptance of ongoing discomfort without avoidance.",
+    "repetition_rules": [
+      "Reinforce the inevitability of internal resistance when making changes",
+      "Repeat the metaphor of steering the ship toward shore despite challenges"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_090",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "demons",
+      "ship steering toward shore",
+      "special effects",
+      "angels",
+      "mermaids",
+      "dolphins"
+    ],
+    "therapeutic_function": "Helping individuals recognize and reduce the intimidating power of negative internal experiences (demons) by persistent engagement with valued life changes, leading to decreased avoidance and increased psychological flexibility.",
+    "voice_rules": [
+      "Use reassuring and motivational tone",
+      "Normalize internal struggles as common and manageable",
+      "Guarantee eventual reduction in the impact of negative internal experiences with persistence"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_090_c68c8afe",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_090",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:45+00:00"
+}

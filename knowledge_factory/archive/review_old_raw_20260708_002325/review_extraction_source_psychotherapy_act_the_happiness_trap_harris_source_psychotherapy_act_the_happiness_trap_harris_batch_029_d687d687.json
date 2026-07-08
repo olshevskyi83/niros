@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:44:08+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_029_d687d687",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "everyday stress",
+      "unpleasant emotions",
+      "anxiety",
+      "anger",
+      "hurt feelings"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Excessive use of control strategies leading to negative health consequences.",
+      "Use of control methods that prevent engagement in valued life activities.",
+      "Applying control strategies in situations where they are ineffective."
+    ],
+    "evidence_text": "If you’re not too distressed or upset—if you’re just dealing with run-of-the-mill, everyday stress—\nthen deliberate attempts to control your thoughts and feelings aren’t likely to be a problem. In some\nsituations distraction can be a good way of dealing with unpleasant emotions. If you’ve just had a\nrow with your partner and you’re feeling hurt and angry, it could be helpful to distract yourself by\ngoing for a walk or burying your head in a book until you calm down. And sometimes zoning out\ncan be beneficial. For example, if you’re stressed and drained after a gruelling day’s work, falling\nasleep on the couch may be just the ticket to help you rejuvenate.\n\n---\n\nHowever, control methods become problematic when:\n\n---\n\n* you use them in situations where they can’t work\n\n---\n\n* using them stops you from doing the things you truly value.\n\n---\n\nTo varying degrees, every one of us uses control strategies. I mean, who wouldn’t prefer to do\nwithout some of the less enjoyable thoughts and feelings that crop up from time to time? And as\nwe’ ve seen, used in moderation, such attempts at control are no big deal. For instance, when I’m\n\n---\n\nfeeling particularly anxious, I sometimes eat a bar of chocolate or some biscuits. This is basically a\nform of distraction; an attempt to avoid some unpleasant feeling by focusing on something else. But\nbecause I don’t do it excessively, it doesn’t create a major problem in my life—I maintain a healthy\nweight, and I don’t give myself diabetes. Now, when I was in my early twenties it was a different\nstory. Back then I ate a truckload of cakes and chocolates to try to avoid my anxiety (on a bad day I\ncould go through five whole packets of TimTams), and as a result I became seriously overweight\nand developed high blood pressure. It was exactly the same control strategy, but when I used it\nexcessively, it clearly had serious consequences.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_029_d687d687",
+    "extractor": "openai",
+    "generation_rules": [
+      "Distraction can be helpful when distress is mild and temporary.",
+      "Control strategies should not be used excessively or in situations where they are ineffective.",
+      "Moderate use of distraction does not interfere with valued activities."
+    ],
+    "pause_rules": [
+      "Pause after explaining when control methods become problematic to emphasize caution."
+    ],
+    "psychological_function": "Temporary relief from distressing thoughts and feelings through shifting attention to alternative activities or stimuli.",
+    "repetition_rules": [
+      "Reinforce the distinction between moderate and excessive use of control strategies."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_029",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Use of distraction and controlled avoidance to manage everyday stress and unpleasant emotions in moderation.",
+    "voice_rules": [
+      "Use a balanced and non-judgmental tone when discussing control strategies.",
+      "Acknowledge common use of control strategies and their potential benefits and risks."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_029_d687d687",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_029",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:08+00:00"
+}

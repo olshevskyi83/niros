@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:44:12+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_030_64069b96",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "anxiety related to exams",
+      "avoidance behaviors",
+      "substance use as coping",
+      "grief from loss"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Overuse of distraction or substance use as coping",
+      "Attempting to control or avoid grief"
+    ],
+    "evidence_text": "If you’re worried about upcoming exams, you may try to distract yourself from the anxiety by\nwatching television. Now, that’s fine if you’re only doing it every now and then, but if you do it too\nmuch, you’ll spend all your evenings watching television and you won’t get any studying done.\nThis, in turn, will create more anxiety as your studies lag further and further behind. Therefore, as a\nmethod for anxiety control, distraction simply can’t work in the long run. And then there’s the\nobvious: dealing with your anxiety in this way prevents you from doing the one thing that would be\ngenuinely helpful—studying.\n\n---\n\nThe same goes for zoning out with alcohol or drugs. Moderate drinking or taking the occasional\ntranquilliser isn’t likely to have serious long-term consequences. But if such control methods\nbecome a crutch, it can easily lead to addiction, which then creates all sorts of complications, giving\nrise to even more painful feelings.\n\n---\n\nNotice that there is considerable overlap between these control strategies. Watching television\ninstead of studying can be not only a distraction but also a hiding/escaping strategy (hiding or\nescaping from your studies). And television can also be used for zoning out: some people may sit in\nfront of the telly for hours on end, watching without any genuine interest.\n\n---\n\nTrying To Use Control In Situations Where It Can’t Work\n\n---\n\nIf you love somebody deeply and you lose that relationship—whether through death, rejection or\nseparation—you will feel pain. That pain is called grief. Grief is a normal emotional reaction to any\nsignificant loss, whether a loved one, a job or a limb. There’s no way to avoid or get rid of 1t—it’s\njust there. And, once accepted, it will pass in its own time.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_030_64069b96",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify and challenge control strategies that are ineffective or harmful in the long term",
+      "Promote acceptance of emotions that cannot be controlled or avoided"
+    ],
+    "pause_rules": [
+      "Pause after explaining the consequences of avoidance to allow reflection",
+      "Pause after normalizing grief to facilitate acceptance"
+    ],
+    "psychological_function": "Encouraging awareness of maladaptive coping mechanisms (distraction, zoning out, substance use) and fostering acceptance of unavoidable emotional pain.",
+    "repetition_rules": [
+      "Reinforce the overlap and ineffectiveness of avoidance strategies through multiple examples"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_030",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "watching television as distraction",
+      "zoning out as escape",
+      "alcohol/drugs as crutches",
+      "grief as normal emotional pain"
+    ],
+    "therapeutic_function": "Highlighting the ineffectiveness of distraction and avoidance strategies for long-term anxiety control; promoting acceptance of normal emotional reactions such as grief.",
+    "voice_rules": [
+      "Use explanatory and cautionary tone when discussing control strategies",
+      "Use normalizing tone when discussing grief and emotional pain"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_030_64069b96",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_030",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:12+00:00"
+}

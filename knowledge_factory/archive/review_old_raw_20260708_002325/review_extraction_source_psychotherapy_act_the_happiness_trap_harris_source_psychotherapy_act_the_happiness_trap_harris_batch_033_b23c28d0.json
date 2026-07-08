@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-07-07T21:44:21+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_033_b23c28d0",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "avoidance behaviors",
+      "ineffective control strategies",
+      "negative thoughts and feelings",
+      "false sense of control"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "We also have more control over our thoughts and feelings when the things that we’re avoiding\naren’t too important. For example, if you’re avoiding cleaning your messy garage or your car, then\nit’s probably fairly easy to take your mind off it. Why? Because in the larger scheme of things, it’s\nsimply not that important. If you don’t do it, the sun will still rise tomorrow and you will continue\nto draw breath. All that will happen is that your garage or car will remain messy. But suppose you\nsuddenly developed a large, suspicious-looking black mole on your arm and you avoid going to the\ndoctor. Would it be easy to take your mind off it? Sure, you could go to a movie, watch television\nor surf the Internet and maybe, for a little while, you could stop thinking about it. But in the long\nterm, you will inevitably start thinking about that mole, because the consequences of not taking\naction are potentially serious.\n\n---\n\nSo, because many of the things we avoid are not that important, and because many of our negative\nthoughts and feelings are not that intense, we find that our control strategies can often make us feel\nbetter—at least for a little while. Unfortunately, though, they can give us a false sense of\nconfidence; that is, we start to believe that we have much more control than we actually do. And\nthis false sense of control is only compounded by the myths we encountered in the last chapter.\n\n---\n\nWhat Has Control Got To Do With The Happiness Trap?\n\n---\n\nThe happiness trap is built through ineffective control strategies. In order to feel happy, we try hard\nto control what we’re feeling. But these control strategies have three significant costs:\n\n---\n\n1. They take up a lot of time and energy and are usually ineffective in the long run.\n\n---\n\n2. We feel silly, defective, or weak-minded because the thoughts/feelings we’re trying to get rid\nof keep coming back.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_033_b23c28d0",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use examples contrasting low-importance and high-importance avoided issues to illustrate control limits",
+      "Explain consequences of avoidance to increase awareness",
+      "Describe costs of control strategies explicitly"
+    ],
+    "pause_rules": [
+      "Pause after presenting examples to allow reflection",
+      "Pause before summarizing costs of control strategies"
+    ],
+    "psychological_function": "Increasing awareness of the futility of avoidance and control attempts, reducing feelings of defectiveness or weakness related to persistent thoughts and feelings.",
+    "repetition_rules": [
+      "Reiterate the ineffectiveness and costs of control strategies",
+      "Repeat the concept of false sense of control and its consequences"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_033",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "messy garage or car",
+      "large suspicious-looking black mole on the arm",
+      "sun rising tomorrow"
+    ],
+    "therapeutic_function": "Highlighting the limitations and costs of ineffective control strategies over thoughts and feelings to reduce false sense of control and promote acceptance.",
+    "voice_rules": [
+      "Use explanatory and illustrative tone",
+      "Employ relatable everyday examples",
+      "Maintain a non-judgmental and informative voice"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_033_b23c28d0",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_033",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:21+00:00"
+}

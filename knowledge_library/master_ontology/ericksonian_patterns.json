@@ -1,0 +1,15 @@
+{
+  "ontology_version": "master_ontology_v1",
+  "ericksonian_patterns": [
+    {
+      "pattern_id": "indirect_suggestion",
+      "name": "Indirect Suggestion",
+      "description": "Language that invites change through implication, metaphor, or permissive framing rather than direct command.",
+      "language_function": "Reduce resistance, bypass rigid cognitive fusion, and open new response possibilities.",
+      "linked_mechanism_ids": ["cognitive_fusion", "control_strategies", "shame_sensitivity"],
+      "linked_process_ids": ["defusion_process", "surrender"],
+      "human_review_status": "seed",
+      "source_references": []
+    }
+  ]
+}

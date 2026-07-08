@@ -1,0 +1,25 @@
+{
+  "ontology_version": "master_ontology_v1",
+  "session_support_patterns": [
+    {
+      "pattern_id": "preparation_safety_frame",
+      "name": "Preparation Safety Frame",
+      "description": "Establish consent, predictability, and co-regulation before deeper experiential work.",
+      "linked_mechanism_ids": ["control_strategies", "shame_sensitivity"],
+      "linked_process_ids": ["acceptance_process", "surrender"],
+      "session_phase": "preparation",
+      "human_review_status": "seed",
+      "source_references": []
+    },
+    {
+      "pattern_id": "integration_values_bridge",
+      "name": "Integration Values Bridge",
+      "description": "Translate session experience into small, values-aligned actions and meaning-linked language after the session.",
+      "linked_mechanism_ids": ["loss_of_meaning", "experiential_avoidance", "rumination"],
+      "linked_process_ids": ["acceptance_process", "emotional_breakthrough"],
+      "session_phase": "integration",
+      "human_review_status": "seed",
+      "source_references": []
+    }
+  ]
+}

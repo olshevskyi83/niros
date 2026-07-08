@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-07-07T21:52:14+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_176_52bb6c69",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thoughts",
+      "images",
+      "feelings",
+      "urges",
+      "judgements",
+      "grief",
+      "craving to drink alcohol"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Uncertain if suitable for individuals with severe dissociation or psychosis due to emphasis on internal experience observation."
+    ],
+    "evidence_text": "Now, you’ve already been doing this to some degree, for example, when you use terms like: ‘I’m\nhaving the thought that...’, ‘I’m getting the image of...’, ‘I’m having the feeling of...’, ‘I’m having\nthe urge to...’, ‘I’m making the judgement that...’\n\n---\n\nThese are all factual descriptions of your current experience. In each case you are simply stating\nwhat is currently happening: that in this moment you’re having a thought, image, feeling, urge or\njudgement. This allows you to stay connected with what is happening, to be present, open and selfaware. We can build on this skill by giving a running commentary.\n\n---\n\nBy ‘running commentary’ I mean an ongoing factual description, not a judgemental one, of what is\ntaking place from moment to moment. Doing this can help us stay present, even in the midst of\npowerful feelings.\n\n---\n\nHere’s how Donna used it with her terrible grief: When a wave of sadness hit her, she would\nsilently say to herself, ‘I’m having that feeling of sadness again. I can feel it in my chest, like a\nheavy weight. I don’t like it, but I know I can make room for it. Taking a few deep breaths, now ...\nbreathing into it ... That’s it ... making room ... letting it be. And now I’m having the urge to drink\nsome wine. I can feel it in my mouth: all dry and parched. And I can feel my hands shaking and my\nlegs getting restless. And now I’m having the image of a bottle of red. And my mind’s telling me to\ngo ahead and have just one glass. And that urge is growing stronger. It’s a 7 out of 10 now. And I’m\nfeeling like I want to cry. And I don’t like it, but I can accept it. Breathing into it ... breathing again\n... making room ... And now that urge to drink is an 8 out of 10. Breathing into it...’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_176_52bb6c69",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use factual, moment-to-moment descriptions of internal experiences without judgment.",
+      "Label experiences with phrases like 'I’m having the thought that...', 'I’m having the feeling of...'.",
+      "Include sensory details and intensity ratings when applicable."
+    ],
+    "pause_rules": [
+      "Incorporate pauses for deep breathing and allowing experiences to be noticed and accepted."
+    ],
+    "psychological_function": "Enhances self-awareness, reduces fusion with thoughts and urges, promotes emotional openness, and supports distress tolerance through mindful observation and acceptance.",
+    "repetition_rules": [
+      "Repeat labeling and acceptance phrases as internal experiences fluctuate in intensity to maintain presence and openness."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_176",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "running commentary",
+      "making room",
+      "breathing into it"
+    ],
+    "therapeutic_function": "Facilitates present-moment awareness and acceptance of internal experiences by labeling thoughts, feelings, urges, and images as they occur, enabling non-judgmental observation and emotional regulation.",
+    "voice_rules": [
+      "Use a calm, factual, and non-judgmental tone.",
+      "Maintain an ongoing, present-focused commentary style."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_176_52bb6c69",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_176",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:14+00:00"
+}

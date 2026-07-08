@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:53:08+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_191_0d3469a6",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "self-judgment",
+      "negative self-evaluation",
+      "emotional pain",
+      "unhelpful thoughts",
+      "physical pain"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text."
+    ],
+    "evidence_text": "Now ask yourself this: That ‘I’—the place from which you observe all these things—is it good or\n\n---\n\nHopefully, you answered ‘just there’ to the last question. The observing self can’t be judged as\ngood or bad, right or wrong, because all it does is observe. If you do ‘the wrong thing’ or a ‘bad\nthing’, the observing self is not in any way responsible; it merely notices what you’ve done and\nhelps make you aware of it (thereby enabling you to learn from it). Moreover, the observing self\nwill never judge you, because judgements are thoughts and the observing self cannot think.\n\n---\n\nThe observing self sees things as they are, without judging, criticising or doing any of the other\nthinking processes that set us up for a struggle with reality. Therefore, it gives acceptance in its\ntruest, purest form.\n\n---\n\nThe observing self can’t be improved on in any way. It is always there, working perfectly and\nseamlessly. All you need do is connect with it.\n\n---\n\nThe observing self can’t be harmed, either. If your body is physically damaged through illness,\naging or injury, the observing self notices that damage. And if pain arises, the observing self notices\nthat pain. And if bad thoughts or memories happen as a result, the observing self notices those, too.\nBut neither the physical damage, nor the painful feelings, nor any of the bad thoughts or memories\ncan harm that part of you that observes them.\n\n---\n\n* The observing self is there from birth to death and is unchanging.\n\n---\n\ne It observes everything you do, but never judges you.\n\n---\n\ne It is always there, even if we forget about it or know nothing of it.\n\n---\n\n* It is not a ‘thing’. It is not made of physical matter.\n\n---\n\n* It cannot be improved on in any way; therefore, it is perfect.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_191_0d3469a6",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage clients to identify and connect with the observing self as a non-judging witness to experience."
+    ],
+    "pause_rules": [
+      "Pause after introducing the concept of the observing self to allow reflection and internalization."
+    ],
+    "psychological_function": "Promotes detachment from self-critical thoughts and judgments, enabling learning from experiences without self-condemnation.",
+    "repetition_rules": [
+      "Reinforce the permanence and perfection of the observing self through repeated reminders."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_191",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observing self",
+      "I as the observer",
+      "non-judgmental awareness"
+    ],
+    "therapeutic_function": "Facilitates non-judgmental awareness and acceptance of thoughts, feelings, and experiences by connecting with the observing self.",
+    "voice_rules": [
+      "Use a calm, neutral, and accepting tone emphasizing observation without judgment."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_191_0d3469a6",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_191",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:08+00:00"
+}

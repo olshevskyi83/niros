@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:48:49+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_111_09c379d6",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant emotions",
+      "unhelpful judgments",
+      "chronic anger",
+      "depression"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "None explicitly stated; caution implied regarding chronic emotional states that may require additional intervention."
+    ],
+    "evidence_text": "You may also have experienced the opposite. You may have heard a lot of great stories about\nsomeone and then finally met them, only to discover they’re not all they’re cracked up to be. In both\ncases the lesson is the same: your own direct experience is more reliable than all the stories you’ve\nbeen told.\n\n---\n\nAnd so it is in learning to handle unpleasant emotions; what you need to do is have a direct\nexperience of them, to connect with them directly via your observing self, rather than automatically\nbelieving the stories of your thinking self. When you do this, you’ll discover that those feelings are\nnowhere near as “bad” as you thought and you’ll realise they can’t possibly hurt you or overwhelm\nyou.\n\n---\n\nOne thing that will help you in this process is more defusion practice. Therefore, you should use the\nfollowing techniques several times a day, whenever you find yourself getting caught up in unhelpful\njudgements. (And as always, don’t have any great expectations—\njust try them and notice what\nhappens.) If you have a judgemental thought such as *X is bad”, then simply acknowledge, ‘I’m\nmaking the judgement “X is bad”.” Alternatively, if you notice an unhelpful judgement, then\nacknowledge its presence, and silently note it as ‘Judging...’\n\n---\n\nSometimes when I tell people that their emotions can’t hurt them, they mention the research which\n\n---\n\nshows that chronic anger and depression can have bad effects on your physical health. However, the\nkey word here is ‘chronic’, which means ongoing, over a long period of time. Painful emotions\nbecome chronic only when you struggle with them. Once you stop struggling, they are free to move\nand they generally do so fairly quickly (although not always). So when you respond to your\nemotions with acceptance, they don’t become chronic, and therefore they don’t hurt you.\nAcceptance breaks the vicious cycle of struggle and frees you to invest your time and energy in lifeenhancing activities.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_111_09c379d6",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use direct experience rather than relying on secondhand stories.",
+      "Practice defusion techniques multiple times daily when noticing unhelpful judgments.",
+      "Acknowledge judgments explicitly (e.g., 'I’m making the judgement \"X is bad\"').",
+      "Respond to emotions with acceptance to prevent chronicity."
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "psychological_function": "Encourages defusion from unhelpful judgments by acknowledging thoughts as mental events rather than truths; supports observing self perspective to diminish emotional overwhelm.",
+    "repetition_rules": [
+      "Repeat defusion practices several times a day as needed."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_111",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observing self",
+      "stories of the thinking self",
+      "judging..."
+    ],
+    "therapeutic_function": "Facilitates direct experiential connection with unpleasant emotions to reduce their perceived threat and impact; promotes acceptance to prevent chronic emotional struggle and associated harm.",
+    "voice_rules": [
+      "Use a non-expectant, invitational tone (e.g., 'just try them and notice what happens').",
+      "Provide reassurance that emotions cannot hurt or overwhelm when accepted."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_111_09c379d6",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_111",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:49+00:00"
+}

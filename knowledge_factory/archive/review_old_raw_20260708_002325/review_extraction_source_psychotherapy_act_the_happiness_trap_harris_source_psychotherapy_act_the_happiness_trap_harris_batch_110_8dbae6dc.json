@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:48:46+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_110_8dbae6dc",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "fusion with negative thoughts about emotions",
+      "avoidance of uncomfortable feelings",
+      "fight-or-flight activation in response to emotions"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for individuals with severe emotional dysregulation who require stabilization before cognitive defusion techniques."
+    ],
+    "evidence_text": "Now you can see how the struggle switch got there. Our thinking self created it by telling us that\nuncomfortable feelings are ‘bad’ or “dangerous”, that we can’t cope with them, that we are defective\nor damaged for having them, that they will take over or overwhelm us, that they are ruining our life\nor that they will hurt us in some way. If we fuse with these stories, the switch goes ON and we\nperceive uncomfortable emotions as a threat. And how does our brain respond to a threat? It\nactivates the fight-or-flight response, which then gives rise to a whole new set of unpleasant\nfeelings!\n\n---\n\nTo draw an analogy, suppose a distant relative shows up on your doorstep. You’ve never met this\nrelative before, but you’ve been told a lot of stories about her. You’ve been told that she’s bad, that\nshe’s dangerous, that no one can stand her, that the only relationships she has are with defective or\ndamaged people, and that she always ends up hurting or damaging those people or taking control of\nthem and ruining their lives.\n\n---\n\nIf you truly believed those stories, what would your attitude be toward this relative? Would you\nwant her in your house? Would you want her anywhere near you?\n\n---\n\nOf course not. You’d do anything you could to get rid of her as fast as possible. But what if all\nthose stories were false or exaggerated? What if this relative were actually an okay person who had\njust been the victim of malicious gossip?\n\n---\n\nThe only way you’d ever find out would be to spend some time with her, put aside all the gossip\nand slander, and check her out for yourself. You’ve probably already experienced something like\nthis in your own life. Perhaps there was once someone at school or at work whom you’d heard a lot\nof bad things about. Then you spent some time with them and discovered they were nowhere near\nas bad as their reputation.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_110_8dbae6dc",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use analogies to externalize and depersonalize internal experiences",
+      "Encourage experiential checking of beliefs rather than accepting stories at face value"
+    ],
+    "pause_rules": [
+      "Pause after posing reflective questions to allow for internal processing and consideration."
+    ],
+    "psychological_function": "Challenges fusion with negative stories about emotions, promoting experiential contact with feelings without judgment or avoidance.",
+    "repetition_rules": [
+      "Reinforce the concept that stories about emotions may be exaggerated or false by revisiting the analogy and examples."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_110",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "struggle switch",
+      "distant relative analogy"
+    ],
+    "therapeutic_function": "Helps individuals recognize and defuse from unhelpful thoughts that label uncomfortable feelings as dangerous or harmful, reducing the activation of the fight-or-flight response and associated distress.",
+    "voice_rules": [
+      "Use conversational and relatable language",
+      "Pose reflective questions to engage curiosity and self-exploration"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_110_8dbae6dc",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_110",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:46+00:00"
+}

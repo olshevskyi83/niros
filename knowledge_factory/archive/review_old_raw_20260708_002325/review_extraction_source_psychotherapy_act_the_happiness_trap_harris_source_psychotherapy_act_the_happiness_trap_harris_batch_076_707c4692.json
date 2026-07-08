@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:46:53+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_076_707c4692",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Unhelpful or distressing thoughts",
+      "Negative self-evaluations",
+      "Cognitive interference during tasks"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the segment"
+    ],
+    "evidence_text": "* If the thinking self is broadcasting something unhelpful, the observing self need not pay\nattention. The observing self can instead focus its attention on what you are doing here and now.\n\n---\n\n¢ If the thinking self is broadcasting something useful or helpful, then the observing self can tune\nin and pay attention.\n\n---\n\nThis is very different from approaches such as positive thinking, which are like airing a second\nradio show, Radio Happy and Cheerful, alongside Radio Doom and Gloom, in the hope of\ndrowning it out. It’s pretty hard to stay focused on what you’re doing when you have two radios\nplaying different tunes in the background.\n\n---\n\nNotice, too, that letting the radio play on without giving it much attention is very different from\nactively trying to ignore it. Have you ever heard a radio playing and tried not to listen to it? What\nhappened? The more you tried not to hear it, the more it bothered you, right?\n\n---\n\nThe ability to let thoughts come and go in the background while you keep your attention on what\nyou are doing is very useful. Suppose you’re in a social situation and your mind is saying, “I’m so\nboring! I have nothing to say. I wish I could go home!’ It’s hard to have a good conversation if\nyou’re giving all your attention to those thoughts. Similarly, suppose you’re learning to drive and\nyour thinking self is saying, ‘I can’t do it. It’s too hard. I’m going to crash!” It’s hard to drive well if\nyour observing self is focused on those thoughts rather than on the road. The following technique\nwill teach you how to let your thoughts ‘pass on by’ while you keep your attention on what you're\ndoing.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_076_707c4692",
+    "extractor": "openai",
+    "generation_rules": [
+      "If the thinking self broadcasts unhelpful content, the observing self does not pay attention and focuses on present activity",
+      "If the thinking self broadcasts helpful content, the observing self tunes in and pays attention"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the segment"
+    ],
+    "psychological_function": "Facilitates cognitive defusion by allowing thoughts to come and go without attachment, reducing their disruptive impact on behavior and emotional state.",
+    "repetition_rules": [
+      "Not explicitly stated in the segment"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_076",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Radio broadcasting metaphor representing the thinking self and observing self",
+      "Two radios playing different tunes symbolizing conflicting thought streams"
+    ],
+    "therapeutic_function": "Enables the individual to focus attention on present activities despite unhelpful or distracting thoughts by observing thoughts without engaging with them.",
+    "voice_rules": [
+      "Observing self acts as a neutral observer, neither suppressing nor amplifying thoughts",
+      "Avoid active ignoring of thoughts to prevent increased distress"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_076_707c4692",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_076",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:53+00:00"
+}

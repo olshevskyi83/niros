@@ -1,0 +1,45 @@
+{
+  "created_at": "2026-07-07T21:53:33+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_199_a46d839b",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Individuals experiencing depression or general dissatisfaction; people struggling with lack of purpose or meaning; those needing to clarify values and life direction"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective or require adaptation for individuals with severe cognitive impairments or acute distress who cannot engage in reflective writing or abstract thinking."
+    ],
+    "evidence_text": "Such thoughts are commonplace not just among the 10 per cent of adults who suffer from\ndepression at any given time, but also among the rest of the population. Values provide a powerful\nantidote: a way to give your life purpose, meaning and passion.\n\n---\n\nHere’s a simple exercise to get you started on clarifying your values. Please take a few minutes to\nwrite out or think about your answers. (You’ll get more out of it if you write!) Imagine that you're\n80 years old and you’re looking back on your life as it is today. Then finish the following sentences:\n\n---\n\n* I spent too little time doing things such as...\n\n---\n\nHow did it go? For many people this simple exercise is quite an eye-opener. It often points to a big\ndifference between what we value doing and what we are actually doing. In the next chapter we’\nll\nexplore your values in more detail. In the meantime, I'll leave you with this oft-quoted extract from\nMan's Search for Meaning:\n\n---\n\nWe who lived in concentration camps can remember the men who walked through the huts\ncomforting others, giving away their last piece of bread. They may have been few in number, but\nthey offer sufficient proof that everything can be taken from a man but one thing: the last of human\nfreedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.\n\n---\n\nDeep down inside, what do you really want? Usually when I ask people this question, people reply\nwith superficial answers like:\n\n---\n\nNow, these may all be truthful answers, but they’re not particularly ‘deep’, reflective or carefully\nconsidered. So in this chapter we will go deeper, to connect with your heart and soul. The pages that\nfollow are a questionnaire—a series of questions inspired by Kelly Wilson’s ‘Valued Living\nQuestionnaire’—to help you find out what you really want!",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_199_a46d839b",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use reflective exercises such as imagining oneself at age 80 looking back on life; prompt completion of sentences about time spent on valued activities; incorporate inspirational quotes to illustrate key concepts; use questionnaires inspired by validated tools like the Valued Living Questionnaire"
+    ],
+    "pause_rules": [
+      "Include pauses after reflective questions and exercises to allow for thoughtful consideration and writing; allow time for emotional processing after inspirational quotes."
+    ],
+    "psychological_function": "Encourages self-reflection and deeper connection with one's heart and soul; challenges superficial responses to uncover authentic desires; supports cognitive reframing of suffering by emphasizing choice and attitude.",
+    "repetition_rules": [
+      "Reinforce the importance of values clarification through repeated exercises and reflection prompts; revisit the concept of choice in attitude multiple times to strengthen internalization."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_199",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Man's Search for Meaning extract about concentration camp survivors choosing their attitude"
+    ],
+    "therapeutic_function": "Clarifying personal values to provide life purpose, meaning, and passion; promoting reflection on meaningful activities versus current behaviors; fostering acceptance of personal freedom to choose attitudes in difficult circumstances.",
+    "voice_rules": [
+      "Encourage a compassionate, non-judgmental tone; invite curiosity and openness; acknowledge commonality of difficult thoughts; emphasize empowerment through choice"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_199_a46d839b",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_199",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:33+00:00"
+}

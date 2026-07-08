@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:53:01+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_189_fd02a2c2",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thoughts",
+      "feelings",
+      "sensations",
+      "actions",
+      "self-awareness"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Clients with severe dissociation or psychosis may find observing self exercises destabilizing."
+    ],
+    "evidence_text": "Whatever you are thinking, whatever you are feeling, whatever you’re sensing, whatever you’re\ndoing, this part of you is always there, observing it. You know what you’re thinking only because\nthis part of you is able to observe your thoughts. You know what you are feeling or sensing only\nbecause this part of you is able to observe your feelings and sensations. You know what you’re\ndoing only because this part of you can observe your actions. Without this observing self, you have\nno capacity for self-awareness.\n\n---\n\nConsider this: Which part of you does not change from the day you are born till the day you die?\nYour thoughts and images change continuously. (How many thoughts have passed through your\nhead in the past five minutes?) Sometimes they’re pleasant, sometimes painful, sometimes helpful,\nsometimes a hindrance. But one thing’s for sure: they keep changing. Now, in a moment I’m going\nto ask you to close your eyes and take twenty seconds to observe your thoughts. When you do this,\nnotice where your thoughts seem to be located in space—above you, in front of you, inside you—\nand notice, too, the form that those thoughts take: are they more like pictures, words or sounds?\nAnd as you observe those thoughts, be aware that you’re observing them. Notice, there are your\nthoughts—and there’s you observing them. (Do this now, for twenty seconds, then open your eyes\nand read on.)\nEr",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_189_fd02a2c2",
+    "extractor": "openai",
+    "generation_rules": [
+      "Guide client to observe thoughts for a fixed duration (e.g., twenty seconds).",
+      "Encourage noticing the form and spatial location of thoughts.",
+      "Emphasize the distinction between observer and observed."
+    ],
+    "pause_rules": [
+      "Include a pause of twenty seconds for the client to observe their thoughts silently."
+    ],
+    "psychological_function": "Facilitates differentiation between the self as observer and transient mental content, promoting psychological flexibility and detachment from changing internal experiences.",
+    "repetition_rules": [
+      "Repeat observation exercises to strengthen awareness of the observing self and transient nature of thoughts."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_189",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observing self",
+      "thoughts as pictures, words, or sounds",
+      "location of thoughts in space"
+    ],
+    "therapeutic_function": "Enhances self-awareness by cultivating the observing self that notices thoughts, feelings, sensations, and actions without attachment.",
+    "voice_rules": [
+      "Use direct, present tense instructions.",
+      "Employ reflective questioning to prompt observation.",
+      "Maintain a calm and neutral tone."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_189_fd02a2c2",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_189",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:01+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "created_at": "2026-07-07T21:46:09+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_064_361f15ce",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unwanted thoughts",
+      "unwanted feelings",
+      "internal struggle",
+      "psychological entrapment",
+      "resentment",
+      "hostility"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text."
+    ],
+    "evidence_text": "The worst-case scenario is war. Your country attacks and the other one retaliates (or vice versa). As\nboth countries get pulled into a major war, the people of both nations suffer. Think of any major\nwar and the huge costs involved in terms of life, money and wellbeing.\n\n---\n\nAnother scenario, better than the first but still far from satisfactory, is a temporary truce. Both\ncountries agree to a cease-fire, but there is no reconciliation. Resentment seethes beneath the\nsurface, and there is the constant underlying threat that war will break out again. Think of India and\nPakistan, with the constant threat of nuclear war, and the intense hostility between Hindus and\nMuslims.\n\n---\n\nThe third possibility is genuine peace. You acknowledge your differences and allow them just to be.\nThis doesn’t get rid of the other country, nor does it mean that you necessarily like it or even want it\nthere. Nor does it mean that you approve of its politics or religion. But because you’re no longer at\nwar, you can now use your money and resources to build up the infrastructure of your own country,\ninstead of squandering them on the battlefield.\n\n---\n\nThe first scenario, war, is like the struggle to get rid of unwanted thoughts and feelings. It’s a battle\nthat can never be won and it consumes a huge amount of time and energy.\n\n---\n\nThe second scenario, a truce, is definitely better, but it’s still a long way from true acceptance. It’s\nmore like a grudging tolerance; there’s no sense of moving forward to a new future. Although there\nis no active warfare, the hostility remains, and you are resigned to the ongoing tension. A grudging\ntolerance of thoughts and feelings is better than an outright struggle, but it leaves you feeling stuck\nand somewhat helpless. It’s a sense more of resignation than of acceptance, of entrapment rather\nthan freedom, of being stuck rather than moving forward.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_064_361f15ce",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphorical scenarios of war, truce, and peace to illustrate psychological processes.",
+      "Contrast struggle, grudging tolerance, and acceptance to highlight therapeutic progress."
+    ],
+    "pause_rules": [
+      "Pause after each scenario to allow reflection on the differences between struggle, tolerance, and acceptance."
+    ],
+    "psychological_function": "Facilitates moving from struggle or grudging tolerance of internal experiences to genuine acceptance, enabling forward movement and reduced psychological entrapment.",
+    "repetition_rules": [
+      "Repeat the metaphorical scenarios to reinforce understanding of different psychological states."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_064",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "war",
+      "truce",
+      "genuine peace",
+      "battlefield",
+      "cease-fire",
+      "resentment",
+      "hostility",
+      "infrastructure building"
+    ],
+    "therapeutic_function": "Promotes acceptance of unwanted thoughts and feelings to reduce struggle and increase psychological freedom.",
+    "voice_rules": [
+      "Use clear, illustrative metaphors to explain complex psychological states.",
+      "Adopt a didactic and explanatory tone."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_064_361f15ce",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_064",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:09+00:00"
+}

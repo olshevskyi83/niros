@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:52:07+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_174_1e373d07",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing distress from intrusive thoughts and feelings",
+      "people prone to self-criticism",
+      "those struggling with mindfulness and acceptance"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals with severe dissociation or trauma without additional support"
+    ],
+    "evidence_text": "important, because otherwise you'll forget to do it at the times you need it most. Especially aim to\npractise it whenever you get caught up in your thoughts and feelings. And as with all the other\nacceptance techniques, don’t try to use this as a control strategy in order to try to feel good.\nBreathing to Connect will often give rise to nice feelings such as calmness or a sense of relief. But\nthose are just pleasant byproducts and you certainly won’t always get them, so don’t come to expect\nthem or try to force them.\n\n---\n\nWhen Breathing to Connect, allow yourself to feel whatever you’re feeling. Make room for those\nfeelings. You don’t have to like them; just let them be.\n\n---\n\nWhat’s The Role Of The Thinking Self In All This?\n\n---\n\nSo far, in learning about connection we’ve focused on the observing self; on paying attention with\nopenness, receptiveness and interest. And we’ve tended to view the thinking self as a hindrance; as\nsomething that disrupts our connection by distracting us with stories. But the thinking self can also\nbe of tremendous help to us— if we use it wisely. And that’s what the next chapter is all about.\n\n---\n\nDo any of the following thoughts sound familiar? “You’re not doing it right. You’re screwing it\nup!’, ‘It’s useless. You may as well just give up now’, ‘This is so boring!’, ‘This is a complete\nwaste of time!’, ‘You blithering idiot! Why aren’t you practising what you read in that book?’,\n“You dumb so-and-so! You completely forgot to try out those new techniques!’\n\n---\n\nAs you work through this book, your thinking self will undoubtedly give you plenty of tonguelashings like these. But remember, it’s not deliberately trying to upset you—it’s just doing the job\nthat it evolved to do.\n\n---\n\nThe observing self, as you know, doesn’t make judgements. It’s like a camera filming a wildlife\ndocumentary. When the lion kills the antelope, the camera doesn’t judge it as good or bad; it simply\nrecords what happens.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_174_1e373d07",
+    "extractor": "openai",
+    "generation_rules": [
+      "Practice acceptance techniques especially when caught up in thoughts and feelings",
+      "Do not use acceptance as a control strategy to feel good",
+      "Allow feelings to be present without needing to like them",
+      "Recognize the thinking self’s critical thoughts as natural and not deliberate harm"
+    ],
+    "pause_rules": [
+      "Pause to allow feelings to be noticed and made room for during breathing exercises"
+    ],
+    "psychological_function": "Encourages openness and receptiveness to present-moment experience; helps differentiate between the observing self and the thinking self; reduces self-critical thoughts by recognizing their evolutionary purpose.",
+    "repetition_rules": [
+      "Regularly practice acceptance techniques",
+      "Repeatedly remind not to expect or force pleasant feelings from breathing exercises"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_174",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observing self as a camera filming a wildlife documentary"
+    ],
+    "therapeutic_function": "Facilitates acceptance of thoughts and feelings without judgment; reduces struggle with internal experiences; promotes mindful awareness through breathing exercises.",
+    "voice_rules": [
+      "Use a non-judgmental, accepting tone",
+      "Normalize self-critical thoughts as evolutionary functions",
+      "Encourage gentle self-observation without judgment"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_174_1e373d07",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_174",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:07+00:00"
+}

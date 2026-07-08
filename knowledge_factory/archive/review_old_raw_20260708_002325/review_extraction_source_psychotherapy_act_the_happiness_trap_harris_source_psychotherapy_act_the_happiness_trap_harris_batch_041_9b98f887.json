@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:44:56+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_041_9b98f887",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "cognitive fusion with thoughts",
+      "automatic emotional and physiological reactions to mental imagery",
+      "awareness of symbolic nature of language"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Potential for distress if mental imagery triggers anxiety or trauma, though not explicitly mentioned."
+    ],
+    "evidence_text": "What happened as you read about that lemon? Perhaps you ‘saw’ its shape and colour. Or maybe\nyou ‘felt’ the texture of the skin. You may have ‘smelled’ the fresh, lemony scent. You may even\nhave found your mouth watering. However, there was no lemon in front of you, only words about a\nlemon. Yet once those words entered your head, you reacted to them almost as you would to a real\nlemon.\n\n---\n\nThe same thing happens when you read a great thriller. All you have in front of you are words. But\nonce those words enter your mind, interesting things start to happen. You may ‘see’ or ‘hear’ the\ncharacters and experience powerful emotions. When those words describe a character in a\ndangerous situation, you react as if someone really were in danger: your muscles tense, your\nheartbeat speeds up, your adrenaline rises. (That’s why they’re called thrillers!) And yet, all you are\ndealing with in reality are little black marks on a page. Fascinating things, words! But what exactly\nare they?\n\n---\n\nHumans rely heavily on words. Other animals use physical gestures and facial expressions and a\nvariety of sounds to communicate—and so do we—but we are the only animal that uses words.\nWords are basically a complex system of symbols. (And a ‘symbol’ means something that stands\nfor or refers to something else.) So, for example, the word ‘dog’ in English refers to a certain type\nof animal. In French, chien refers to the same animal, as does cane in Italian. Three different\nsymbols, all referring to the same thing.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_041_9b98f887",
+    "extractor": "openai",
+    "generation_rules": [
+      "use descriptive language to evoke sensory imagery",
+      "present words that trigger mental simulation of experiences"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "psychological_function": "Illustrates the mind's ability to simulate sensory experiences and emotional reactions through symbolic language, facilitating awareness of cognitive and emotional processes.",
+    "repetition_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_041",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "words as symbols",
+      "the word 'lemon'",
+      "words representing sensory experiences",
+      "words representing characters and situations"
+    ],
+    "therapeutic_function": "Demonstrates how words and mental imagery can evoke real sensory and emotional responses, highlighting the power of language in shaping experience.",
+    "voice_rules": [
+      "use present tense to engage immediate experience",
+      "use direct address to involve the reader's own reactions"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_041_9b98f887",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_041",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:56+00:00"
+}

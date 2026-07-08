@@ -1,0 +1,57 @@
+{
+  "created_at": "2026-07-07T21:43:11+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_012_52c26bb7",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "avoidance of painful emotions",
+      "rigid pursuit of pleasurable feelings",
+      "lack of clarity about personal values",
+      "psychological inflexibility"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals with severe emotional dysregulation without additional support"
+    ],
+    "evidence_text": "The other meaning of happiness is ‘a rich, full and meaningful life’. When we take action on the\nthings that truly matter deep in our hearts, when we move in directions that we consider valuable\nand worthy, when we clarify what we stand for in life and act accordingly, then our lives become\nrich and full and meaningful, and we experience a powerful sense of vitality. This is not some\nfleeting feeling—it is a profound sense of a life well lived. And although such a life will\nundoubtedly give us many pleasurable feelings, it will also give us uncomfortable ones, such as\nsadness, fear and anger. This is only to be expected. If we live a full life, we will feel the full range\nof human emotions.\n\n---\n\nIn this book, as you’ve probably guessed by now, we are far more interested in the second meaning\nof happiness than in the first. Of course, happy feelings are quite pleasant, and we should certainly\nmake the most of them when they present themselves. But if we try to have them all the time, we\nare doomed to failure.\n\n---\n\nThe reality is, life involves pain. There’s no getting away from it. As human beings we are all faced\nwith the fact that sooner or later we will grow infirm, get sick and die. Sooner or later we all will\nlose valued relationships through rejection, separation or death. Sooner or later we all will come\nface-to-face with a crisis, disappointment and failure. This means that in one form or another, we\nare all going to experience painful thoughts and feelings.\n\n---\n\nThe good news is that, although we can’t avoid such pain, we can learn to handle it much better—to\nmake room for it, rise above it and create a life worth living. This book will show you how to do so.\nThere are three parts to this process.\n\n---\n\nIn Part 1 you will learn how you create and get stuck in the happiness trap. This is an essential first\nstep, so please don’t skip it—you can’t escape the trap if you don’t know how it works.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_012_52c26bb7",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify and clarify personal values",
+      "Accept presence of painful emotions without avoidance",
+      "Commit to actions aligned with values despite discomfort"
+    ],
+    "pause_rules": [
+      "Pause after explaining the inevitability of pain to allow reflection",
+      "Pause before introducing the three-part process to prepare for learning"
+    ],
+    "psychological_function": "Encourages experiencing the full range of human emotions; reduces avoidance of discomfort; fosters vitality through meaningful engagement with life.",
+    "repetition_rules": [
+      "Reinforce distinction between fleeting happiness and meaningful life",
+      "Repeat normalization of pain as part of life",
+      "Reiterate importance of values-based action"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_012",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "happiness trap",
+      "rich, full and meaningful life",
+      "full range of human emotions"
+    ],
+    "therapeutic_function": "Facilitates acceptance of painful thoughts and feelings; promotes committed action toward valued life directions; enhances psychological flexibility by clarifying personal values and acting accordingly.",
+    "voice_rules": [
+      "Use explanatory and encouraging tone",
+      "Normalize experience of pain and discomfort",
+      "Emphasize empowerment through choice and action"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_012_52c26bb7",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_012",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:11+00:00"
+}

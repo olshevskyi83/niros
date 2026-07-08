@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:52:43+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_183_48eb04ca",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "self-esteem",
+      "self-judgment",
+      "negative self-thoughts",
+      "struggle with internal experiences"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals requiring high self-esteem for immediate functioning; potential discomfort with detaching from self-judgment."
+    ],
+    "evidence_text": "The battle’s heating up with more and more pieces getting involved. And guess what? While all\nyour attention is on this chess game, it’s pretty hard to connect with anything else. You disconnect\nfrom life and the world around you, totally lost in the struggle with your own opinions.\n\n---\n\nIs this really how you want to spend your days? Fighting your own thoughts? Trying to prove to\nyourself that you’re a good person? Continually having to justify or earn your worthiness?\nWouldn’t you prefer just to step out of the battle?\n\n---\n\nIf your self-esteem is low, you feel miserable; but if it’s high, you’re constantly straining to\nmaintain it. (And there’s always the background worry that it might fall again.) So what would life\nbe like if you were to let go of self-esteem altogether; if you completely let go of judging yourself\nas a person?\n\n---\n\nOf course, your thinking self would still keep making all the usual judgements, but you would see\nthem for what they are—words and pictures—and let them come and go without a struggle. (And if\nyou wanted to use some defusion techniques to help, you could try thanking your mind or\nacknowledging, ‘I’m having the thought that ... I’m not good enough.’ Or you could simply name\nthe ‘not good enough’ story.)\n\n---\n\nHow does this seem to you as a concept? Weird? Wonderful? Wacky? Undoubtedly it raises a few\nquestions, such as:\n\n---\n\nQ: Don’t I need high self-esteem in order to create a rich and meaningful life?\n\n---\n\nA: No, you don’t. All you need to do is connect with your values and act accordingly.\n\n---\n\nQ: Doesn’t high self-esteem make that easier to do?\n\n---\n\nA: Sometimes it does, but all too often it doesn’t.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_183_48eb04ca",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphors (e.g., battle, chess game) to illustrate internal struggle.",
+      "Introduce defusion techniques such as naming thoughts or thanking the mind.",
+      "Encourage questioning of common beliefs about self-esteem."
+    ],
+    "pause_rules": [
+      "Pause after rhetorical questions and key concepts to allow reflection."
+    ],
+    "psychological_function": "Promotes acceptance of thoughts as transient mental events (words and pictures) rather than truths, reducing the impact of self-critical thinking and the need to maintain self-esteem.",
+    "repetition_rules": [
+      "Reinforce the concept of letting go of self-judgment and the transient nature of thoughts through repeated metaphors and examples."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_183",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "battle",
+      "chess game",
+      "struggle with opinions"
+    ],
+    "therapeutic_function": "Facilitates psychological flexibility by encouraging detachment from self-judgments and reducing struggle with negative thoughts through cognitive defusion techniques.",
+    "voice_rules": [
+      "Use a conversational and reflective tone.",
+      "Pose rhetorical questions to engage the client.",
+      "Provide reassuring answers to anticipated doubts."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_183_48eb04ca",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_183",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:43+00:00"
+}

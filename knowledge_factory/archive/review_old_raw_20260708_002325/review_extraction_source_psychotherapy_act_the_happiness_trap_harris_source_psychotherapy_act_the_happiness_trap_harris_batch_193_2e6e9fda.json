@@ -1,0 +1,57 @@
+{
+  "created_at": "2026-07-07T21:53:14+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_193_2e6e9fda",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thoughts",
+      "feelings",
+      "self-narratives",
+      "cognitive fusion",
+      "fear",
+      "unpleasant thoughts and feelings"
+    ],
+    "confidence": 0.95,
+    "contraindications": [],
+    "evidence_text": "Tuning in to your observing self is very simple to do. Choose anything you are aware of: a sight,\nsound, smell, taste, sensation, thought, feeling, movement, body part, material object—literally\nanything. Focus on that thing and observe it as if you were a curious scientist. As you’re observing\nit, notice who’s doing the observing.\n\n---\n\nThat’s all there is to it. In that moment, when you observe the observing, you are the observing self.\nIn that moment, you are awareness of awareness; consciousness of consciousness. Of course, this\nwill only last for a moment or two. Almost instantly your thinking self will start analysing or\ncommenting on what’s happening, or conjuring up a variety of images or memories. And as you get\ncaught up in those cognitions, the observing self is once more obscured.\n\n---\n\nStill, it’s comforting to know that it’s always there and instantly accessible whenever you want it.\nThe reality is, for the rest of your life, you will get caught up in stories about who you are. Because\nof the nature of the mind, this will happen again and again, until the day you die. However,\nhopefully you now have the direct experience that you are not those stories. So the moment you\nrealise what is happening—that you’re fusing with stories or believing that you are the documentary\n—you can instantly step back and observe. Then all you need to do is notice that you’re observing\nand in that moment, there is the real you.\n\n---\n\nThis brings us to the end of Part 2 of this book. Part 3 is about taking action to create the life you\nwant. Inevitably, as you take that action, you will face many fears and encounter many unpleasant\nthoughts and feelings. But more and more, via defusion, expansion and connection, you can learn to\novercome such obstacles. And it helps to know that no matter how daunting they may seem, there’s\nalways a safe place, deep within you, where the essence of who you are cannot be harmed.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_193_2e6e9fda",
+    "extractor": "openai",
+    "generation_rules": [
+      "Choose any present experience (sight, sound, sensation, thought, feeling, etc.) and focus attention on it.",
+      "Observe the chosen experience as if you were a curious scientist.",
+      "Notice who is doing the observing.",
+      "When caught up in thoughts or stories, step back and observe the observing self."
+    ],
+    "pause_rules": [
+      "Allow brief moments of silence or stillness to notice the observing self.",
+      "Pause after guiding attention to the observing self to facilitate direct experience."
+    ],
+    "psychological_function": "Promotes mindfulness and meta-cognition by observing thoughts and feelings without attachment, fostering a sense of self as awareness rather than content of mind.",
+    "repetition_rules": [
+      "Repeatedly return attention to the observing self whenever caught up in thoughts or stories.",
+      "Reinforce the accessibility of the observing self at any moment."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_193",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observing self",
+      "curious scientist",
+      "stories about who you are",
+      "safe place deep within you"
+    ],
+    "therapeutic_function": "Facilitates awareness of the observing self to create psychological distance from thoughts and stories, enabling defusion and reducing fusion with self-narratives.",
+    "voice_rules": [
+      "Use a calm, curious, and non-judgmental tone to guide attention inward.",
+      "Encourage gentle noticing without analysis or judgment."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_193_2e6e9fda",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_193",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:14+00:00"
+}

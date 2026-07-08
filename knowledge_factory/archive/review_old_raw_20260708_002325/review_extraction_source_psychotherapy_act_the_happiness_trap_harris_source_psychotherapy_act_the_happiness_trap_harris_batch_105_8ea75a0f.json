@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-07-07T21:48:30+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_105_8ea75a0f",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unhelpful beliefs about negative emotions",
+      "emotional avoidance",
+      "childhood emotional conditioning"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective or potentially distressing for individuals with traumatic childhood experiences related to emotions without additional support."
+    ],
+    "evidence_text": "You have just read a list of the nine basic human emotions, from which all others are derived by\ncombination. (At least, this is what many scientists believe—it’s still the subject of considerable\ndebate.) Most people tend to automatically judge the first six emotions as “bad” or ‘negative’ and\nthe last three as “good” or ‘positive’. Why is this so? It’s largely because of the stories we believe\nabout emotions.\n\n---\n\nOur thinking self loves to tell us stories, and we know how they affect us when we fuse with them.\nHere are some of the many unhelpful stories that our thinking self may tell us about emotions:\n\n---\n\n* Anger, guilt, shame, fear, sadness, embarrassment and anxiety are ‘negative’ emotions.\n\n---\n\n* Negative emotions are bad, dangerous, irrational and a sign of weakness.\n\n---\n\n* Negative emotions mean I am psychologically defective.\n\n---\n\n* If I don’t control my emotions, something bad will happen.\n\n---\n\n* Negative emotions mean there’s something wrong with my life.\n\n---\n\nYou may agree with some or all of the above, or you may have beliefs that are quite different; it\ndepends largely on your upbringing. If you grew up in a family where ‘positive’ emotions were\nfreely expressed but ‘negative’ emotions were frowned upon, then you quickly learned that the\n“negative” ones were to be avoided. If your family tended to suppress or hide their feelings, then\nyou learned to keep your feelings bottled up. If your parents believed in ‘getting anger off your\nchest’, you may have learned that it’s good to express anger. But if you were frightened by a\nparent’s display of anger, you may have decided that anger is ‘bad’ and should therefore be\nsuppressed or avoided.\n\n---\n\nIt’s a useful exercise to spend some time thinking about your childhood programming regarding\nemotions. This can often give you an insight into how and why you struggle with certain feelings.\nPlease take some time to write some answers (or at least think about them) to the following\nquestions:",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_105_8ea75a0f",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage reflection on personal emotional beliefs and childhood experiences related to emotions."
+    ],
+    "pause_rules": [
+      "Pause to allow time for personal reflection on childhood emotional programming."
+    ],
+    "psychological_function": "Facilitates awareness of learned emotional judgments and childhood programming influencing current emotional responses.",
+    "repetition_rules": [
+      "Repeat common unhelpful stories about emotions to highlight their prevalence and impact."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_105",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "stories about emotions",
+      "negative and positive emotion labels"
+    ],
+    "therapeutic_function": "To identify and challenge unhelpful beliefs and stories about emotions that contribute to emotional avoidance and distress.",
+    "voice_rules": [
+      "Use a reflective and exploratory tone to invite self-examination of emotional beliefs."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_105_8ea75a0f",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_105",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:30+00:00"
+}

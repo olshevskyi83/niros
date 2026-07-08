@@ -1,0 +1,59 @@
+{
+  "created_at": "2026-07-07T21:47:34+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_087_07702ee2",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant images",
+      "unpleasant thoughts",
+      "emotions such as guilt, anger, fear, hopelessness",
+      "memories of failure or hurt",
+      "mental images of poor performance or rejection",
+      "urges to drink, smoke, self-harm, overeat",
+      "unpleasant bodily sensations like chest tightness or stomach knots"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Using acceptance techniques with the aim of eliminating or controlling unpleasant experiences, as this may backfire"
+    ],
+    "evidence_text": "And once again, I have to prepare you. When you practise these techniques your unpleasant images\nwill often disappear, or at least reduce in frequency, and you will often feel much better. But\nremember, these outcomes are merely beneficial byproducts, not the main aim. If you start defusing\nthoughts or images with the aim of getting rid of them, then you’re not truly accepting them.\nRather, you’re trying to use an acceptance strategy as a control strategy—and ultimately, that will\nbackfire. So use the techniques in the way they were intended, and for the right reasons, and they’ll\nhelp keep you free of the happiness trap.\n\n---\n\nImagine you’re steering a ship far out at sea. Below the deck, out of sight, lies a vast horde of\ndemons, all with enormous claws and razor-sharp teeth. These demons have many different forms.\nSome of them are emotions such as guilt, anger, fear or hopelessness. Some are memories of times\nyou've failed, screwed up or been hurt. Others are thoughts like, ‘It’s too hard”, ‘Pll make a fool of\nmyself” or ‘Pll fail.” Some of them are mental images in which you see yourself performing badly\nor getting rejected; others are strong urges to drink too much, smoke, harm yourself or overeat. And\nstill others are unpleasant sensations such as tightness in your chest or a knot in your stomach.\n\n---\n\nNow, as long as you keep that ship drifting out at sea, the demons will stay below. But as soon as\nyou start steering toward land, they clamber up from below deck, flapping their membranous wings,\nbaring their fangs and generally threatening to tear you into little pieces. Not surprisingly, you don’t\nlike that very much, so you cut a deal: ‘If you demons stay out of sight, down below, I'll keep the\nship drifting out at sea.” The demons agree and everything seems okay—for a while.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_087_07702ee2",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use techniques as acceptance strategies, not control strategies",
+      "Avoid aiming to get rid of unpleasant internal experiences",
+      "Apply techniques with the intention of acceptance to prevent backfiring"
+    ],
+    "pause_rules": [
+      "Pause after introducing metaphors to allow reflection",
+      "Pause when explaining the consequences of control strategies to highlight risks"
+    ],
+    "psychological_function": "Promote psychological flexibility by accepting internal experiences rather than engaging in control strategies that backfire; reduce avoidance and experiential suppression.",
+    "repetition_rules": [
+      "Reinforce the distinction between acceptance and control strategies repeatedly",
+      "Emphasize the importance of using techniques for the right reasons"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_087",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "ship steering",
+      "demons below deck representing unpleasant internal experiences",
+      "ship drifting out at sea as avoidance strategy",
+      "demons clambering up when approaching land as emergence of distress when confronting issues"
+    ],
+    "therapeutic_function": "Use acceptance strategies to reduce the impact and frequency of unpleasant thoughts, images, emotions, memories, urges, and sensations without attempting to control or eliminate them.",
+    "voice_rules": [
+      "Prepare the client by setting realistic expectations about outcomes being byproducts, not main aims",
+      "Use metaphorical language to illustrate internal experiences and coping strategies"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_087_07702ee2",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_087",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:34+00:00"
+}

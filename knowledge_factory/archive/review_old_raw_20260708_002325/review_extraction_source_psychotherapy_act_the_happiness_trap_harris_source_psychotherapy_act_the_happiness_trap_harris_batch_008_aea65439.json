@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:42:58+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_008_aea65439",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative thoughts about happiness",
+      "misconceptions about normal emotional states",
+      "fear of negative emotions",
+      "suicidal ideation"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be distressing for individuals currently experiencing suicidal ideation or severe depression due to focus on misery and suicide statistics."
+    ],
+    "evidence_text": "Think about those numbers for a moment. Think of the people in your life: your friends, family and\nco-workers. Consider what those figures imply: that of all the people you know, almost half of them\nwill at some point be so overwhelmed by misery that they seriously contemplate suicide. And one\nin ten will attempt it! In the past two centuries we have doubled the span of the average human life.\nBut have we doubled the richness, the enjoyment, the fulfilment of that life? These statistics give us\nthe answer, loud and clear: happiness is not normal!\n\n---\n\nTo answer this question, we need to take a journey back in time. The modern human mind, with its\namazing ability to analyse, plan, create and communicate, has largely evolved over the last hundred\nthousand years, since our species, Homo sapiens, first appeared on the planet. But our minds did not\nevolve to make us feel good, so we could tell great jokes, write sonnets and say ‘I love you’. Our\nminds evolved to help us survive in a world fraught with danger. Imagine that you’re an early\nhuman hunter-gatherer. What are your essential needs in order to survive and reproduce?\n\n---\n\nThere are four of them: food, water, shelter and sex, but none of these things mean much if you’re\ndead. So the number one priority of the primitive human mind was to look out for anything that\nmight harm you and avoid it! In essence, the primitive mind was a ‘Don’t get killed’ device, and it\nproved enormously useful. The better our ancestors became at anticipating and avoiding danger, the\nlonger they lived and the more children they had.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_008_aea65439",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use factual statistics to highlight prevalence of misery and suicide",
+      "Invoke evolutionary history to contextualize human emotional experience"
+    ],
+    "pause_rules": [
+      "Pause after presenting statistics and before introducing evolutionary concepts to allow reflection."
+    ],
+    "psychological_function": "Promote cognitive defusion by helping individuals recognize that the mind evolved primarily for survival, not for happiness, thereby reducing struggle with negative emotions.",
+    "repetition_rules": [
+      "Reinforce key ideas by restating statistics and evolutionary functions of the mind."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_008",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "primitive mind as a 'Don’t get killed' device",
+      "early human hunter-gatherer needs"
+    ],
+    "therapeutic_function": "Increase awareness of the evolutionary basis of human suffering and challenge the assumption that happiness is the normal state.",
+    "voice_rules": [
+      "Use contemplative prompts ('Think about those numbers for a moment')",
+      "Use direct address to engage the listener ('Imagine that you’re an early human hunter-gatherer')"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_008_aea65439",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_008",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:42:58+00:00"
+}

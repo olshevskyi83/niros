@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:50:49+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_149_9683c490",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "judgmental thoughts",
+      "resistance to reality",
+      "boredom",
+      "distraction",
+      "thinking self dominance"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; not specified in the text."
+    ],
+    "evidence_text": "Connection happens through the observing self. It involves bringing our full attention to what is\nhappening here and now, without getting distracted or influenced by the thinking self. The\nobserving self is by nature non-judgemental. It can’t judge our experience, because judgements are\nthoughts and therefore a product of the thinking self. The observing self doesn’t get into a struggle\nwith reality; it sees things as they are, without resisting. It’s only when we start judging things as\nbad or wrong or unfair that we resist them.\n\n---\n\nOur thinking self tells us that things shouldn’t be as they are, that we shouldn’t be as we are, that\nreality is in the wrong and we are in the right. It tells us that life would be better somewhere else or\nwe would be happier if only we were different. Thus, the thinking self is like a pair of dark goggles\nthat dims and obscures our view of the world, disconnecting us from reality through boredom,\ndistraction or resistance.\n\n---\n\nThe observing self, though, is incapable of boredom. It registers everything it observes with\nopenness and interest. It’s only the thinking self that gets bored, because boredom is basically a\nthought process: a story that life would be more interesting and more fulfilling if we were doing\nsomething else. The thinking self is easily bored because it thinks it already knows it all. It’s been\nthere, done that, seen the show and bought the T-shirt. Whether we’re walking down the street,\ndriving to work, eating a meal, having a chat or taking a shower, the thinking self takes it all for\ngranted. After all, it’s done all this stuff countless times before. So rather than help us connect with\nour present reality, it ‘carries us off to a different time and place. Thus, when the thinking self is\nrunning the show we spend most of our time only half awake, scarcely aware of the richness in the\nworld around us.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_149_9683c490",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus attention on present moment experience without engaging in judgment or thought-based resistance."
+    ],
+    "pause_rules": [
+      "Pause to notice when judgment or resistance arises before re-engaging with present experience."
+    ],
+    "psychological_function": "Separates the observing self from the thinking self to decrease judgment, boredom, distraction, and resistance, promoting openness and acceptance of experience as it is.",
+    "repetition_rules": [
+      "Repeatedly return attention to the observing self when the thinking self distracts or judges."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_149",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "thinking self as dark goggles",
+      "observing self as non-judgmental observer"
+    ],
+    "therapeutic_function": "Facilitates present-moment awareness by cultivating the observing self, which enables non-judgmental attention to current experience and reduces resistance to reality.",
+    "voice_rules": [
+      "Adopt a non-judgmental, open, and curious stance toward experience."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_149_9683c490",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_149",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:49+00:00"
+}

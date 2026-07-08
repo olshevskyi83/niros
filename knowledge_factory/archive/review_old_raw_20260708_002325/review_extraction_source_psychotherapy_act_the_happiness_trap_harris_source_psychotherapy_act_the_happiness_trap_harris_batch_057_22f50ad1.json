@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:45:47+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_057_22f50ad1",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative self-judgment thoughts",
+      "self-critical internal dialogue",
+      "ruminative thinking patterns"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals with severe dissociation or psychosis due to emphasis on observing thoughts without attachment"
+    ],
+    "evidence_text": "In my case, the ‘I’m incompetent’ story was there long before I became a doctor. In many different\naspects of my life, from learning to dance to using a computer, any mistake I’ve made has triggered\nthe same thought: ‘I’m incompetent.’ Of course, it’s not always those exact words. Often it’s\nvariants on the same theme, such as: ‘Idiot!’ or ‘There you go, screwing up again!” or “Can't you do\nanything right?’ But these thoughts are not a problem as long as I see them for what they really are:\njust a few words that popped into my head. Basically, the more tuned in you are to your direct\nexperience of life (rather than to your mind’s running commentary), the more empowered you are to\ntake your life in the direction you truly want. In later chapters you will learn how to develop this\nability.\n\n---\n\nThe mind never stops telling stories—not even when we’re asleep. It is constantly comparing,\njudging, evaluating, criticising, planning, pontificating and fantasising. And many of the stories it\ntells are real attention grabbers. Time and time again we get lost in these stories—a process for\nwhich we have many different expressions. We speak of ‘indulging a thought’, ‘entertaining a\nthought’, ‘struggling with a thought’, ‘flirting with a thought’, ‘buying into a thought’, “being\nwrapped up in thoughts’, ‘lost in thought’ and being ‘carried away by thoughts’ to name but a few.\n\n---\n\nAll these expressions point to how thoughts occupy our time, energy and attention. Most of the time\nwe tend to take our thoughts far too seriously and give them far too much attention. The following\nexercise demonstrates the difference between attaching importance to a thought and not taking a\nthought seriously.\n\n---\n\nBring to mind a thought that normally upsets you; that takes the form ‘I am X’ (for example, ‘I am\ninadequate’). Hold that thought in your mind and notice how it affects you.\n\n---\n\nNow bring to mind the thought, ‘I am a banana!’ Hold it in your mind and notice how it affects you.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_057_22f50ad1",
+    "extractor": "openai",
+    "generation_rules": [
+      "Bring to mind a thought that normally upsets you and notice its effect",
+      "Contrast with a nonsensical thought to observe differential impact"
+    ],
+    "pause_rules": [
+      "Encourage mindful observation and noticing effects of holding different thoughts in mind"
+    ],
+    "psychological_function": "Facilitates cognitive defusion by helping individuals observe their thoughts without attachment or over-identification, thereby decreasing emotional reactivity and rumination.",
+    "repetition_rules": [
+      "Repeated emphasis on the mind’s constant storytelling and the variety of expressions describing being lost in thought"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_057",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "‘I’m incompetent’ story",
+      "thoughts as ‘just a few words’",
+      "mind’s running commentary",
+      "‘I am a banana!’ thought"
+    ],
+    "therapeutic_function": "To increase awareness of the distinction between thoughts and direct experience, reducing the impact of negative self-evaluative thoughts by seeing them as mere words rather than truths.",
+    "voice_rules": [
+      "Use experiential, first-person narrative to illustrate common thought patterns",
+      "Employ direct address to engage reader in exercises"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_057_22f50ad1",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_057",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:47+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:50:12+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_138_2adc9709",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing conflicting urges and values",
+      "people with emotional distress such as anger, guilt, anxiety, sadness, distress, or depression"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text"
+    ],
+    "evidence_text": "angry with your friend, you may have the urge to call her back and yell at her. If you feel guilty,\nyou may have the urge to call back and apologise and change your plans to accommodate her. If\nyou feel anxious, you may have the urge to call someone else and ask for advice. If you feel sad,\nyou may want to cry. If you feel pleased with the way you handled the whole event, and didn’t buy\ninto the guilt trip, you may have the urge to punch the air and shout, ‘Yes!’ If you feel distressed,\nyou may have the urge to stop work and go and get some ice cream instead.\n\n---\n\nWhatever the urge, the first step is to notice it. (It often helps to acknowledge silently, “Pm having\nthe urge to do X.”) The second step is to check in with your values: ‘Will acting on this urge help\nme be the person I want to be? Will it help me take my life in the direction I want?’ If the answer is\nyes, then go ahead and act, using that urge to guide you and give you momentum. But if the answer\nis no, then instead take some action that’s more in line with your values.\n\n---\n\nTo exemplify this, let’s take a look at Lisa, a 21-year-old university student. Lisa values close\nrelationships with her friends, and socialising with them regularly is an important part of her life.\nBut when she feels depressed she has the strong urge to stay at home, all by herself. (This is a very\ncommon urge with depressed moods.) And here we have the setup for a major conflict of interest.\nLisa’s values are pointing her in one direction—socialising—but the urge is pointing her in another\ndirection—staying home alone. Which action is likely to take Lisa’s life in the direction she wants:\nto act on her urge and stay home, or to act in line with her values and go out and meet her friends?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_138_2adc9709",
+    "extractor": "openai",
+    "generation_rules": [
+      "Notice the urge by silently acknowledging it",
+      "Check if acting on the urge aligns with personal values",
+      "If yes, act on the urge",
+      "If no, choose an action aligned with values"
+    ],
+    "pause_rules": [
+      "Pause after noticing the urge to allow for internal acknowledgment and values check"
+    ],
+    "psychological_function": "Recognition and acknowledgment of internal urges; evaluation of urges against personal values; resolution of conflict between urges and values",
+    "repetition_rules": [
+      "Repeated practice of noticing urges and evaluating them against values to build momentum for values-based action"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_138",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "urge to yell",
+      "urge to apologise",
+      "urge to cry",
+      "urge to punch the air",
+      "urge to get ice cream"
+    ],
+    "therapeutic_function": "Increase awareness of urges and promote values-based action to guide behavior",
+    "voice_rules": [
+      "Use internal silent acknowledgment of urges (e.g., 'I'm having the urge to do X')",
+      "Use reflective questioning about values and life direction"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_138_2adc9709",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_138",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:12+00:00"
+}

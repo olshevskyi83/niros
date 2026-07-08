@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:43:01+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_009_15c9eba8",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "worry about future events",
+      "fear of rejection",
+      "social comparison",
+      "anxiety about safety and belonging"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May not address acute clinical anxiety without additional interventions"
+    ],
+    "evidence_text": "With each generation the human mind became increasingly skilled at predicting and avoiding\ndanger. And now, after a hundred thousand years of evolution, the modern mind is still constantly\non the lookout for trouble. It assesses and judges almost everything we encounter: Is this good or\nbad? Safe or dangerous? Harmful or helpful? These days, though, it’s not sabre-toothed cats or 200\nkilogram wolves that our mind warns us about. Instead it’s losing our job, being rejected, getting a\nspeeding ticket, not being able to pay the bills, embarrassing ourselves in public, upsetting our\nloved ones, getting cancer, or any of a million and one other common worries. As a result we spend\na lot of time worrying about things that, more often than not, never happen.\n\n---\n\nAnother essential for the survival of any early human is to belong to a group. If your clan boots you\nout, it won’t be long before the wolves find you. So how does the mind protect you from rejection\nby the group? By comparing you with other members of the clan: Am I fitting in? Am I doing the\nright thing? Am I contributing enough? Am I as good as the others? Am I doing anything that might\nget me rejected?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_009_15c9eba8",
+    "extractor": "openai",
+    "generation_rules": [
+      "Describe evolutionary development of threat detection",
+      "Explain modern manifestations of ancient survival mechanisms"
+    ],
+    "pause_rules": [
+      "Pause after listing examples of worries to allow reflection"
+    ],
+    "psychological_function": "Highlights the mind's role in threat detection and social belonging as mechanisms driving anxiety and self-evaluation.",
+    "repetition_rules": [
+      "Repeat examples of modern worries to illustrate persistent threat assessment"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_009",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "sabre-toothed cats",
+      "wolves",
+      "clan",
+      "group rejection"
+    ],
+    "therapeutic_function": "Helps individuals recognize and understand the evolutionary basis of their worry and social comparison tendencies.",
+    "voice_rules": [
+      "Use explanatory and reflective tone to connect past and present mental functions"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_009_15c9eba8",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_009",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:01+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "created_at": "2026-07-07T21:51:28+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_163_4980f1d9",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "human behaviour",
+      "functioning of the human mind",
+      "language and cognition"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "Given these parallels, it’s important to emphasise that ACT is not in any sense a religious or\nspiritual tradition, nor was it consciously influenced by Buddhism. Unlike Buddhism, it prescribes\nno formal meditation or prayer practices, has no rituals, chants, prayers or symbols, has no\nprescribed set of approved values, and no supernatural or religious beliefs of any sort. ACT is\nfirmly based on the latest cutting-edge research into human behaviour, particularly on recent\ndiscoveries about the functioning of the human mind. Steven Hayes and his team were behind much\nof this ground breaking research. Over twenty years ago Hayes proposed are volutionary new\ntheory of human language and cognition, known as Relational Frame Theory. Since then, a vast\namount of research has gone into investigating this theory, and the data coming through\nincreasingly support it. (This in itself makes ACT unique. No other western psychotherapy has ever\nbeen developed along with its own basic research program into human language and cognition. If\nyou’d like to know more about Relational Frame Theory, visit the website\nwww.contextualpsychology.org/rft.)\n\n---\n\nMany of the exercises in ACT have a meditative feel to them and some bear strong similarities to\nformal mindfulness meditation practices (especially the ones that involve focusing on the breath).\nBut as psychologist Kelly Wilson says, ‘If you want to learn to meditate, go see a guru.’\n\n---\n\nACT is not about meditation. There’s no special way to sit, no secret mantra, no prayer beads,\nincense sticks or candles. ACT is about the practical application of mindfulness skills for the\nexpress purpose of making important life changes. And that’s it. (Having said that, a daily\nmindfulness meditation practice can be very helpful in developing the skills in this book. If you’re\ninterested, read Jon Kabat-Zinn’s excellent book, Wherever You Go, There You Are: Mindfulness\nMeditation in Everyday Life.)",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_163_4980f1d9",
+    "extractor": "openai",
+    "generation_rules": [
+      "Exercises with a meditative feel focusing on breath and mindfulness skills"
+    ],
+    "pause_rules": [],
+    "psychological_function": "Enhancement of awareness and cognitive flexibility through exercises resembling mindfulness meditation",
+    "repetition_rules": [],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_163",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Practical application of mindfulness skills to facilitate important life changes",
+    "voice_rules": [
+      "Clear distinction from religious or spiritual traditions; emphasis on research-based approach"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_163_4980f1d9",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_163",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:28+00:00"
+}

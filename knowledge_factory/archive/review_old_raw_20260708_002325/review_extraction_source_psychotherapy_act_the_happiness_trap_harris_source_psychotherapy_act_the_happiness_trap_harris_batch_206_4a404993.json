@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:53:55+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_206_4a404993",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "uncomfortable thoughts and feelings",
+      "self-critical thoughts",
+      "disconnection from values",
+      "rumination on past behavior"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals with severe cognitive impairments or those unable to engage in reflective exercises; may be less effective if individual is unable to tolerate discomfort or self-compassion prompts."
+    ],
+    "evidence_text": "Did you have trouble with these exercises? Did uncomfortable thoughts and feelings show up?\nOften when we connect with our values, we realise that we’ve been neglecting them for a long time\nand this can be very painful. But remember, this is not an excuse to beat yourself up! (“What a\nhypocrite I am! I say I value doing all these different things, yet I’m not doing any of them! I’m\npathetic!”) All of us lose touch with our values from time to time. Dwelling on those times is\npointless because there’s nothing we can do to change the past. What’s important is to connect with\nour values here and now and to use them to guide and motivate our current actions. So if your mind\ndoes start beating up on you, simply thank it.\n\n---\n\nYou may have found that you skipped parts of this chapter or avoided the exercises because you\nfused with unhelpful thoughts like, ‘I don’t know if these are my real values’ or ‘I’m setting myself\nup for disappointment.’ If this is the case, read through the next chapter. Once you’ve done that,\ncome back and work through this chapter again. If, on the other hand, you’ve completed this\nchapter to your satisfaction, then you can skip the next one and go straight to Chapter 27.\n\n---\n\nNow it’s time to look back over your answers and reflect on them.\n\n---\n\n* Which of the above values are the most important to me?\n\n---\n\n¢ Which of them amI actively living by, right now?\n\n---\n\n¢ Which are the most important to start working on right away?\n\n---\n\nWrite your answers down and hold on to them. You’ll need them for the next few chapters.\n\n---\n\nUsually when we talk about relationships, we are referring to relationships between people.\nHowever, the questions in this chapter refer to many different sorts of relationships, such as:",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_206_4a404993",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage noticing and accepting uncomfortable thoughts without self-judgment",
+      "Guide reflection on personal values and current alignment with them",
+      "Prompt writing down and reviewing values to maintain focus"
+    ],
+    "pause_rules": [
+      "Pause after questions prompting reflection on values",
+      "Allow time for writing down answers and internal processing"
+    ],
+    "psychological_function": "Promotes cognitive defusion from unhelpful thoughts; supports self-compassion; enhances motivation through value clarification and reflection.",
+    "repetition_rules": [
+      "Repeat encouragement to connect with values here and now",
+      "Reinforce the idea that past cannot be changed and dwelling is pointless"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_206",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "mind beating up on you",
+      "thank it"
+    ],
+    "therapeutic_function": "Facilitates acceptance of uncomfortable thoughts and feelings; encourages reconnecting with personal values to guide current actions; reduces self-criticism and rumination on past neglect of values.",
+    "voice_rules": [
+      "Use compassionate and non-judgmental tone",
+      "Normalize common experiences of value neglect and self-criticism",
+      "Encourage gentle self-reminder strategies (e.g., thanking the mind)"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_206_4a404993",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_206",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:55+00:00"
+}

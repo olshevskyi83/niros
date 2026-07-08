@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:44:27+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_035_0a40f08a",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant thoughts",
+      "unpleasant feelings",
+      "control and avoidance strategies",
+      "beliefs about emotional control"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May induce distress or confusion in clients unprepared for challenging entrenched beliefs",
+      "Not suitable for clients requiring immediate symptom relief"
+    ],
+    "evidence_text": "Once you’ve got your answer, take a few minutes to write a list of every single thing you’ve tried in\norder to avoid, change or get rid of these unpleasant thoughts or feelings. Try to remember every\nsingle strategy you have ever used, whether deliberately or by default. Don’t try to edit or\ntroubleshoot your answers. The goal is to come up with as many examples as possible, such as\navoiding situations where the feeling occurs, using drugs or alcohol, taking prescription\nmedications, criticising or chastising yourself, going into denial, blaming others, using visualisation\nor self-hypnosis, reading self-help books, seeing a therapist, using positive affirmations,\nprocrastination, praying, talking it through with friends, writing in your diary, smoking cigarettes,\neating more, eating less, sleeping more, sleeping less, putting off important changes or decisions,\nthrowing yourself into work/socialising/hobbies/exercise, or telling yourself ‘It will pass.”\n\n---\n\nOnce you’ve done that, go through your list and for each item, ask yourself:\n\n---\n\n1. Did it get rid of my painful thoughts and feelings in the long term?\n\n---\n\n2. What did it cost me in time, energy, money and health and vitality?\n\n---\n\n3. Did it bring me closer to a rich, full and meaningful life?\n\n---\n\nYou probably discovered four things while doing this exercise:\n\n---\n\n1. You’ve put a lot of time and effort into trying to change, get rid of or escape from unpleasant\nthoughts and feelings.\n\n---\n\n2. Most of the control strategies you’\nve tried have not lessened your painful thoughts and feelings\nin the long term.\n\n---\n\n3. Many of these control strategies have taken a toll.\n\n---\n\n4. Many of these control strategies have actually taken you further away from the life you would\nideally like to have.\n\n---\n\nFeeling a bit dazed, confused or disturbed? If so ... good! This is a major shift in your reality, one\nthat challenges many deeply entrenched beliefs. Strong reactions are quite normal.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_035_0a40f08a",
+    "extractor": "openai",
+    "generation_rules": [
+      "Generate exhaustive list of all attempted control strategies without editing or filtering",
+      "Evaluate each strategy by asking about long-term effectiveness, cost, and impact on meaningful life"
+    ],
+    "pause_rules": [
+      "Include pauses after listing strategies and after each evaluative question to allow reflection"
+    ],
+    "psychological_function": "Facilitate cognitive defusion by identifying and evaluating past attempts to control or avoid painful thoughts and feelings; induce a shift in perspective regarding the utility and cost of these strategies.",
+    "repetition_rules": [
+      "Encourage repeated self-questioning for each control strategy to deepen insight"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_035",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "list of control strategies",
+      "questions evaluating effectiveness and cost",
+      "feeling dazed or disturbed as a sign of cognitive shift"
+    ],
+    "therapeutic_function": "Increase awareness of ineffective control strategies for unpleasant thoughts and feelings; promote acceptance of internal experiences rather than avoidance or suppression.",
+    "voice_rules": [
+      "Use a reflective and non-judgmental tone",
+      "Normalize strong emotional reactions as part of the process"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_035_0a40f08a",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_035",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:27+00:00"
+}

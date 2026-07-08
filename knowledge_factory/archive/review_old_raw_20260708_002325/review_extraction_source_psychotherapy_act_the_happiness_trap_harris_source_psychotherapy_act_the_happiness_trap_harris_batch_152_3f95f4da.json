@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:50:57+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_152_3f95f4da",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "attention regulation",
+      "mindfulness",
+      "sensory awareness",
+      "cognitive distraction"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "As you’re reading this paragraph, connect with your body. Notice where your legs and arms are and\nthe position of your spine. Inwardly scan your body from head to toe; notice what you can feel in\nyour head, chest, arms, abdomen, legs. Put the book down, close your eyes and do this for 30\nseconds. Notice what happens.\n\n---\n\nAs you're reading this, connect with your breathing. Notice the rise and fall of your rib cage and the\nair moving in and out of your nostrils. Follow the air in through your nose. Notice how your lungs\nexpand. Feel your abdomen push outward. Follow the air back out, as the lungs deflate. Put the\nbook down, close your eyes and do this for 30 seconds. Notice what happens.\n\n---\n\nIn this exercise, just focus on the sounds you can hear. Notice the sounds coming from you (from\nyour breath and your movements), the sounds coming from the room and the sounds coming from\noutside the room. Put the book down now, close your eyes and do this for 30 seconds. Notice what\nhappens.\nxx\n\n---\n\n1. That you are always in the midst of a sensory feast; you just don’t usually realise it.\n\n---\n\n2. That it’s very easy to get distracted by thoughts and feelings.\n\n---\n\nTo improve your ability to stay present and notice what is happening a round you, practise the\nfollowing two exercises on a daily basıs.\n\n---\n\nThis is a simple exercise to centre yourself and connect with your environment. Practise it a few\ntimes every day, especially whenever you find yourself getting caught up in your thoughts and\nfeelings. You’ll find that it brings you back to the here and now.\n\n---\n\n2. Look around and notice five objects you can see.\n\n---\n\n3. Listen carefully and notice five sounds you can hear.\n\n---\n\nYou can develop this skill further by going for a daily walk and spending the whole time noticing\nwhat you can see, hear, smell and physically feel (and refocusing whenever you realise you’\nve been\n‘disconnected’).",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_152_3f95f4da",
+    "extractor": "openai",
+    "generation_rules": [
+      "Instruct to connect with body sensations by scanning from head to toe",
+      "Instruct to focus on breathing sensations including rib cage movement and air flow",
+      "Instruct to focus on ambient and self-generated sounds",
+      "Encourage noticing multiple sensory inputs (sight, sound, smell, touch) during daily activities",
+      "Encourage putting down reading material and closing eyes for 30 seconds during exercises"
+    ],
+    "pause_rules": [
+      "Pause for 30 seconds with eyes closed during each sensory exercise",
+      "Pause after instructions to allow noticing of sensations"
+    ],
+    "psychological_function": "Reduce distraction by thoughts and feelings; improve ability to stay present",
+    "repetition_rules": [
+      "Practice exercises multiple times daily",
+      "Repeat sensory noticing exercises especially when distracted by thoughts and feelings",
+      "Daily walking practice focusing on sensory inputs with refocusing as needed"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_152",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Enhance present-moment awareness through sensory grounding exercises",
+    "voice_rules": [
+      "Use direct, present tense instructions",
+      "Use gentle prompts to notice and observe sensations without judgment",
+      "Encourage inward focus and sensory connection"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_152_3f95f4da",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_152",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:57+00:00"
+}

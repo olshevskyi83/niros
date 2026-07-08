@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:47:57+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_094_527be30b",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing anxiety",
+      "people with emotional reactivity",
+      "those seeking behavioral control"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text."
+    ],
+    "evidence_text": "The answer to this is, quite simply, no! Our emotions definitely do not control our behaviour. For\nexample, you can feel angry but act calmly. You may have the tendency to shout, grimace, clench\nyour fists or lash out physically or verbally, but you don’t have to. You can, if you choose, speak\nslowly and calmly, maintain a look of serenity on your face, and hold your body in an open, relaxed\nposture.\n\n---\n\nI’m sure that at some point in your life you have felt afraid, yet you persisted in the face of that fear\neven though you felt like running away. In other words, you had a tendency to run, but you chose\nnot to. We all have experienced this, for instance, when sitting for an exam, asking someone for a\ndate, going for a job interview, speaking before a group or partaking in a dangerous sport.\n\n---\n\nYou already know that whenever I give a speech in public I experience anxiety. And yet, when I\nreveal this to my audience (as I usually do), they are always amazed. ‘But you look so calm and\nconfident,’ they say. That’s because even though I’m feeling anxious (racing heart, churning\nstomach, sweaty palms), I am not acting anxious. Anxiety typically gives us the tendency to fidget,\nbreathe rapidly or talk fast; yet I do the very opposite of these things. I consciously choose to talk\nslowly, breathe slowly and move slowly. The same is true for virtually all public speakers: even\nafter years of experience, they still commonly feel anxious, but you’d never know it, because they\nact calm.\n\n---\n\nThink of the poker player who keeps his face deadpan even when he’s feeling intense emotions.\nThink of the professional actor who can bring to life all the facial expressions, physical gestures and\nvocal changes of sheer panic, even though the actor himself may be feeling quite calm. (Method\nactors, obviously, are a different story.) Think of the times you’ve ‘put on a happy face’ even\nthough you were feeling terrible. In all these cases, the actions are distinct from the emotions.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_094_527be30b",
+    "extractor": "openai",
+    "generation_rules": [
+      "Choose actions that are opposite to emotional tendencies (e.g., speak slowly when anxious).",
+      "Maintain calm and open body posture despite emotional arousal."
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "psychological_function": "Enhancing awareness of the distinction between emotions and actions; fostering self-regulation and behavioral flexibility.",
+    "repetition_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_094",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "poker player with deadpan face",
+      "professional actor displaying emotions",
+      "putting on a happy face"
+    ],
+    "therapeutic_function": "Demonstrating that emotions do not have to control behavior; promoting conscious choice in actions despite emotional states.",
+    "voice_rules": [
+      "Speak slowly and calmly even when feeling anxious."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_094_527be30b",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_094",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:57+00:00"
+}

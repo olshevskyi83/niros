@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:51:46+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_169_bbfdd485",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing stress or disconnection",
+      "people with difficulty staying present",
+      "those prone to automatic or autopilot behavior"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "Take six slow, deep breaths. For the first three breaths, focus on your chest and abdomen; connect\nwith your breathing. For the next three breaths, expand your focus, so that as well as being aware of\nyour beathing, you’re also connecting fully with your environment; that is, while noticing your\nbreathing, also notice what you can see, hear, touch, taste and smell. Ready? Put the book down and\ngive it a go.\nEr\n\n---\n\nWhat did you notice? Most people report that they feel far more “‘present-—more connected with\nwhere they are and what they’re doing. Now, here’s another variation on the exercise. Again, read\nthe instructions first before trying it.\n\n---\n\nThis time take nine slow, deep breaths. For the first three breaths, focus on your breathing. For the\nnext three breaths, focus on your breathing and also notice what thoughts are running through your\n\n---\n\nmind. (Whatever they are, just let them be.) For the final three breaths, focus on your breathing and\nalso scan your body and notice what you can feel. (Whatever you feel, just make room for it.) Okay.\nPut the book down and give it a go.\nrer\n\n---\n\nThis variation on the exercise gives you a rapid way to increase self-awareness, accept what you’re\nfeeling and thinking, and gather your wits so you’re not on autopilot.\n\n---\n\nNow, here’s one more variation, which requires twelve breaths. This is the most important of all\nthese breathing exercises, so don’t skip it.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_169_bbfdd485",
+    "extractor": "openai",
+    "generation_rules": [
+      "Begin with a set number of slow, deep breaths",
+      "Gradually expand focus from breathing to environment, thoughts, and bodily sensations",
+      "Encourage non-judgmental observation and acceptance of internal experiences"
+    ],
+    "pause_rules": [
+      "Include natural pauses between instructions to allow practice",
+      "Encourage slow, deep breathing to create space for observation"
+    ],
+    "psychological_function": "Promote mindfulness, self-awareness, emotional acceptance, and grounding in the present experience.",
+    "repetition_rules": [
+      "Use sets of breaths divided into stages (e.g., first three breaths focus on breathing, next three on environment/thoughts/body) to scaffold awareness"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_169",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "breathing as a connection to self and environment"
+    ],
+    "therapeutic_function": "Increase present-moment awareness and self-connection through focused breathing and sensory observation; enhance acceptance of thoughts and bodily sensations; reduce automatic, autopilot behavior.",
+    "voice_rules": [
+      "Use calm, guiding, and encouraging tone",
+      "Provide clear step-by-step instructions",
+      "Invite experiential engagement by prompting to put the book down and practice"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_169_bbfdd485",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_169",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:46+00:00"
+}

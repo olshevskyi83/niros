@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:52:22+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_178_9fcfa72e",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "self-critical thoughts",
+      "low self-esteem",
+      "feelings of inadequacy",
+      "negative self-evaluation"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May not be suitable for individuals with severe depression or psychosis without additional support"
+    ],
+    "evidence_text": "* I’m boring/dull/predictable/serious/unmotivated/ignorant/uneducated.\n\n---\n\ne | have no passion/commitment/direction/purpose/inspiration.\n\n---\n\nAnd those are just a few of the responses. The range is almost infinite. Everyone has their own\npersonal dislikes, but all the answers point to the same basic theme: ‘I’m not good enough as I am.\nThere is something wrong or lacking in me.’ It’s a message our minds send us again and again.\n\n---\n\nNo matter how hard we try or how much we achieve, our thinking self can always find something to\ndislike: some way in which we are lacking, deficient, not good enough. And this is hardly surprising\nwhen we remember the evolution of the human mind. The ‘Don’t get killed!’ device of our\nancestors helped them survive by constantly comparing them to other members of our society, to\nensure that they didn’t get rejected by the clan; constantly drawing attention to their weaknesses, so\nthey could improve on them and thereby contribute more to the clan (which also made rejection less\nlikely).\n\n---\n\nThe question is, what effect does this have on you over the years, living with a mind that\ncontinually points out your deficiencies? Does it make you feel good about yourself? Does it\ncultivate a deep sense of self-worth or self-acceptance?\n\n---\n\nObviously not. The thinking self’s tendency to point out the ways in which we are not good enough\neventually leads us to feel as if we a re unsuccessful, inadequate, unworthy, unlikable, unlovable,\nincompetent, inferior, unintelligent, unattractive or whatever your own version of not good enough\n\n---\n\nhappens to be. We have a common term for this: ‘low self-esteem’.\n\n---\n\nSusie, a physiotherapist, age 23, says: ‘I feel so lonely. I think if I could just feel better about\nmyself, Pd socialise more. But I’m always so down on myself. I need more self-esteem.’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_178_9fcfa72e",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify and acknowledge automatic negative self-statements",
+      "Understand the evolutionary origin of self-critical thoughts",
+      "Recognize the impact of these thoughts on self-worth"
+    ],
+    "pause_rules": [
+      "Pause after presenting examples of negative self-statements to allow reflection",
+      "Pause when introducing the evolutionary explanation to facilitate understanding"
+    ],
+    "psychological_function": "Increasing awareness of the mind's automatic negative self-evaluations and their impact on self-worth and self-acceptance.",
+    "repetition_rules": [
+      "Repeat the theme that the mind continually points out deficiencies",
+      "Reinforce the message that these thoughts are common and evolutionarily based"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_178",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "‘Don’t get killed!’ device of our ancestors",
+      "mind as a ‘thinking self’ that points out deficiencies"
+    ],
+    "therapeutic_function": "Addressing and reducing self-critical thoughts that lead to low self-esteem by recognizing the evolutionary basis of the mind's tendency to highlight deficiencies.",
+    "voice_rules": [
+      "Use a reflective and explanatory tone to normalize self-critical thoughts",
+      "Avoid judgmental or confrontational language"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_178_9fcfa72e",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_178",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:22+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "created_at": "2026-07-07T21:42:49+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_005_8fd736ed",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unhelpful and inaccurate beliefs about happiness",
+      "psychological trap controlling behavior"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "I’m not posing these questions just to grab your attention. This book is based on a growing body of\nscientific research that suggests we are all caught in a powerful psychological trap. We lead our\nlives ruled by many unhelpful and inaccurate beliefs about happiness—ideas widely accepted by\nsociety because ‘everyone knows they are true’. On the surface, these beliefs seem to make good\nsense—that’s why you encounter them again and again in nearly every self-help book you ever\nread. But these erroneous beliefs are both the cause of and the fuel for a vicious cycle, in which the\nmore we try to find happiness, the more we suffer. And this psychological trap is so well hidden, we\ndon’t even have a clue that we’re caught and controlled by it.\n\n---\n\nThe good news is there’s hope. You can learn how to recognise the ‘happiness trap’ and, more\nimportantly, you can learn how to climb out of it—and stay out. This book will give you all the\nskills and knowledge you need to do it. It’s based on a revolutionary new development in human\npsychology: a powerful model for change known as Acceptance and Commitment Therapy (ACT).",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_005_8fd736ed",
+    "extractor": "openai",
+    "generation_rules": [
+      "Provide skills and knowledge to recognize and climb out of the happiness trap"
+    ],
+    "pause_rules": [],
+    "psychological_function": "Identifying and disrupting a vicious cycle where attempts to find happiness increase suffering",
+    "repetition_rules": [
+      "Highlight the commonality and persistence of erroneous beliefs about happiness"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_005",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "happiness trap",
+      "vicious cycle"
+    ],
+    "therapeutic_function": "Helping individuals recognize and escape the psychological trap of pursuing happiness based on unhelpful and inaccurate beliefs",
+    "voice_rules": [
+      "Use a reassuring and hopeful tone emphasizing scientific research and new psychological models"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_005_8fd736ed",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_005",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:42:49+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "created_at": "2026-07-07T21:49:41+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_128_54fdafa3",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "anxiety",
+      "nervousness",
+      "physical symptoms of strong emotions (e.g., shaking, blushing, sweating, stomach cramps)"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertainty about effectiveness if physical symptoms indicate a medical emergency or require medical intervention."
+    ],
+    "evidence_text": "I didn’t like my shaking hands, but I couldn’t control them. It’s just what my hands do when I get\nreally nervous. (That’s why I never became a bomb disposal expert!) So in these situations, the\nonly sensible option was acceptance. I would say to the parents, ‘WhenI start stitching in a\nmoment, you may notice my hands shaking a little. You don’t need to worry. It always happens\nwhen I stitch up young kids. It won’t stop me from doing a good job.’ Then, as I became involved\nin the stitching, my hands would gradually become steady. (Not always, mind you, but mostly. And\neven on those few occasions when they kept shaking, it was much easier to deal with once I'd\naccepted it.)\n\n---\n\nOur bodies can do all sorts of awkward things when we have strong feelings. We may start to\nblush, twitch, shake, sweat, develop stomach cramps, lose an erection, fail to reach an orgasm or\neven faint or vomit. Keep in mind that these reactions are often a result of the struggle switch being\nON. With the switch ON, emotions are amplified (e.g. we get anxiety about our anxiety) and\ntherefore the physical reactions in our body are greater. With the switch OFF, our emotions are\nsmaller and change more rapidly, thereby causing less intense physical reactions. You’re much\nbetter off if you accept these reactions than if you struggle with them. If you struggle, your feelings\nwill intensify and your bodily reactions will worsen. However, often when we accept these\nreactions, they improve.\n\n---\n\nRemember, too, we’re always talking about a twofold process: acceptance and action. So accepting\nthese bodily reactions is the first step. Then, if something effective can be done about them, by all\nmeans do so. And if there is no effective remedy, acceptance is your best option.\n\n---\n\nQ: I’m starting to have my doubts about you. You sound like an anxious bundle of nerves.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_128_54fdafa3",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage verbal acknowledgment and normalization of bodily reactions before engaging in anxiety-provoking tasks.",
+      "Promote acceptance as the first step before taking effective action if available."
+    ],
+    "pause_rules": [
+      "Pause to allow acknowledgment of bodily sensations and acceptance before proceeding with action."
+    ],
+    "psychological_function": "Reduces anxiety about anxiety by switching off the struggle response, thereby decreasing emotional intensity and physical symptoms.",
+    "repetition_rules": [
+      "Repeat acceptance messages to reinforce the normalcy and manageability of symptoms."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_128",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "struggle switch ON/OFF as a metaphor for emotional amplification and regulation"
+    ],
+    "therapeutic_function": "Promotes acceptance of involuntary bodily reactions to reduce struggle and emotional amplification, facilitating improved emotional regulation and functional action despite discomfort.",
+    "voice_rules": [
+      "Use reassuring and normalizing language to reduce worry about symptoms.",
+      "Adopt a calm and accepting tone when discussing bodily reactions."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_128_54fdafa3",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_128",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:41+00:00"
+}

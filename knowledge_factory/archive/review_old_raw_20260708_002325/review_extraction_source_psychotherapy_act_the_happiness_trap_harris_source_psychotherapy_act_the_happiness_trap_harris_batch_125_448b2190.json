@@ -1,0 +1,59 @@
+{
+  "created_at": "2026-07-07T21:49:32+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_125_448b2190",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant feelings",
+      "emotional struggle",
+      "experiential avoidance",
+      "lack of value-driven action"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Expectations of immediate emotional relief",
+      "Struggle against or avoidance of unpleasant feelings"
+    ],
+    "evidence_text": "A: No, no, no! When we practise expansion, unpleasant feelings often disperse rapidly. But (as\nwith defusion techniques) this is merely a bonus, not the main intention. The aim with expansion is\nsimply to make room for your feelings, to feel whatever you are feeling without a struggle. Often\nthose feelings will move very rapidly, but sometimes they won’t. So if you're expecting to ‘feel\ngood’, then sooner or later you’ll get disappointed and end up struggling again.\n\n---\n\nQ: The feelings disappeared at first, but then they came back again.\n\n---\n\nA: Many uncomfortable feelings will surface repeatedly. If someone you love has died, then waves\nof sadness may keep washing over you for many weeks or months. And if you’ve been diagnosed\nwith cancer or some other serious illness, waves of fear will surge up again and again. As the\nsaying goes, ‘You can’t stop the waves, but you can learn to surf.’\n\n---\n\nQ: I made room for my feelings, but they didn’t change.\n\n---\n\nA: Sometimes feelings change quickly and sometimes they don’t. You need to accept that they will\nchange in their own good time, not according to your schedule.\n\n---\n\nA: Having accepted your emotions, choose an area of your life that is important to you and take\neffective action in line with your values.\n\n---\n\nQ: Why do you keep coming back to actions and values?\n\n---\n\nA: Actions are important because, unlike your thoughts and feelings, you can have direct control\nover them. Values are important because they can guide you and motivate you through situations\nwhere your feelings might lead you off course. Acting in accordance with your own deepest values\nis inherently satisfying and fulfilling—even though it often forces you to face your fears.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_125_448b2190",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage making room for feelings without trying to change them immediately",
+      "Normalize the recurrence of uncomfortable feelings",
+      "Emphasize acceptance of feelings changing in their own time",
+      "Shift focus from controlling feelings to taking effective action aligned with values"
+    ],
+    "pause_rules": [
+      "Allow space for acknowledging feelings without rushing to change them",
+      "Pause to reflect on values before encouraging action"
+    ],
+    "psychological_function": "Promotes emotional acceptance, reduces experiential avoidance, and enhances motivation through alignment with personal values.",
+    "repetition_rules": [
+      "Repeat the concept that feelings may return repeatedly",
+      "Reinforce that acceptance is the main goal, not feeling good",
+      "Return to the importance of values and actions throughout the dialogue"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_125",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "waves of sadness",
+      "waves of fear",
+      "learning to surf the waves"
+    ],
+    "therapeutic_function": "Facilitates acceptance of unpleasant feelings without struggle and encourages value-driven action despite emotional discomfort.",
+    "voice_rules": [
+      "Use reassuring and normalizing language",
+      "Avoid promising immediate emotional relief",
+      "Highlight the importance of values and actions over feelings"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_125_448b2190",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_125",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:32+00:00"
+}

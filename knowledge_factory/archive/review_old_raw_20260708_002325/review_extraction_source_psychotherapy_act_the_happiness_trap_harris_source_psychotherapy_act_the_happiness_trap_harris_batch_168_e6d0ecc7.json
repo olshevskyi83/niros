@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:51:42+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_168_e6d0ecc7",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals with shallow, rapid breathing habits",
+      "individuals experiencing stress or difficulty staying present"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Potential dizziness or discomfort in individuals unaccustomed to deep breathing; caution advised but not a reason to stop practice"
+    ],
+    "evidence_text": "In a moment I’m going to ask you to take six slow, deep breaths and empty your lungs as much as\npossible. Once you’ve emptied your lungs, don’t force the in-breath, otherwise you will over-inflate\nthem. (You’ll know if this happens, because your chest will feel uncomfortably full.) After a full\nout-breath, just breathe in gently and your lungs will fill comfortably by themselves. As you breathe\nin you should notice your tummy pushing outward. (This tells you that you’re using your\ndiaphragm. The diaphragm helps the lungs to inflate by “pushing down’ your stomach, to make\nmore room in the chest.) As you breathe, connect with the movements of your chest and stomach.\nNotice what you can feel as they rise and fall. Okay, now put the book down and take six slow,\ndeep breaths.\nrer\n\n---\n\nWhat did you notice? Probably one of the following:\n\n---\n\n6. a sense of dizziness, discomfort or difficulty because it felt strange or hard to breathe in this\nmanner.\n\n---\n\nHopefully, you experienced one or more of the first five reactions. But if you experienced the last\none, don’t be concerned. The more you’re in the habit of shallow, rapid breathing, the stranger or\nmore difficult this exercise will seem. And if you’re an especially rapid breather, it may at first give\nyou a feeling of dizziness or discomfort. If this is true for you, then it’s all the more important for\nyou to practise. If you practise taking ten to twenty deep breaths in this manner, every hour or two\nthroughout the day, then within about a week 1t”11 feel much more natural and comfortable.\n\n---\n\nTuning in to your breathing like this can help you ‘step out of the rat race’ for a few moments; to\nslow down, let go and collect yourself. More importantly, 1t can help you connect with what's\nhappening here and now. To demonstrate this, I’m going to ask you to do the exercise again, but\nwith a twist. First read the instructions.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_168_e6d0ecc7",
+    "extractor": "openai",
+    "generation_rules": [
+      "Instruct to take six slow, deep breaths",
+      "Emphasize emptying lungs fully before gentle inhalation",
+      "Encourage noticing chest and stomach movements during breathing"
+    ],
+    "pause_rules": [
+      "Pause after instructions to allow for slow, deep breaths",
+      "Pause to notice bodily sensations during breathing"
+    ],
+    "psychological_function": "Facilitates stepping out of habitual stress responses, slowing down mental activity, and enhancing connection with the present moment",
+    "repetition_rules": [
+      "Practice taking ten to twenty deep breaths every hour or two throughout the day"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_168",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "breathing as a means to 'step out of the rat race'"
+    ],
+    "therapeutic_function": "Regulation of breathing to promote relaxation and present-moment awareness",
+    "voice_rules": [
+      "Use calm, guiding tone to direct breathing",
+      "Provide reassurance about possible discomfort or dizziness"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_168_e6d0ecc7",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_168",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:42+00:00"
+}

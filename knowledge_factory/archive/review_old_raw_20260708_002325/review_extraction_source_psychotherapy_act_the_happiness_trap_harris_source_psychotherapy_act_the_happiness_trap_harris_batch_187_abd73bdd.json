@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:52:55+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_187_abd73bdd",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thinking self",
+      "observing self",
+      "self-identity",
+      "consciousness"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Potential confusion or distress in individuals with difficulties in self-awareness or dissociation"
+    ],
+    "evidence_text": "These immortal words by the French philosopher René Descartes have had a major influence on\nwestern civilisation. In the western world, we believe that the thinking self is the pinnacle of human\ndevelopment. ‘Develop your mind,’ we are told. ‘Learn to think for yourself.’ Lateral thinking,\nrational thinking, logical thinking, positive thinking, analytical thinking and optimistic thinking are\nall widely encouraged. And let’s face it: thinking skills are really important in solving many\nproblems in life. Indeed, Part 3 of this book places a major emphasis on effective thinking. But\nthere’s more to human consciousness than just the thinking self—we also have the observing self.\n\n---\n\n‘I think, therefore I am,’ said Descartes. In other words, the mere fact that I have thoughts proves\nthat I exist. But this begs the question: Who is there to observe those thoughts? * 7am,’ you may\nsay. But then, who, precisely, is this ‘I’?\n\n---\n\nFeeling a little confused? Good—that’s the perfect state to start from. We’re embarking on another\nmajor paradigm shift and strong reactions are expected. The following exercise is derived from\nsimilar ones devised by Hank Robb, Steven Hayes and Roberto Assagioli. It consists of a series of\nshort paragraphs, each ending in a question. As you read each question, I want you to observe your\nimmediate reaction: the thoughts and feelings that instantly spring to mind.\n\n---\n\nAs you read, observe what you are doing. Notice that you are involved in the act of reading. Be\naware of your eyes moving across the page. Observe your eyes moving from word to word in this\nsentence. Now ask yourself, who is doing the observing?\nrer",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_187_abd73bdd",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use short paragraphs ending with reflective questions",
+      "Encourage noticing immediate thoughts and feelings",
+      "Guide attention to present moment sensory and cognitive experience"
+    ],
+    "pause_rules": [
+      "Implied pauses after questions to allow reflection and observation"
+    ],
+    "psychological_function": "Promotes meta-cognition and experiential recognition of consciousness beyond thoughts",
+    "repetition_rules": [
+      "Repeatedly prompt observation of ongoing mental and sensory processes"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_187",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "‘I think, therefore I am’",
+      "observing self",
+      "thinking self"
+    ],
+    "therapeutic_function": "Facilitates self-observation and awareness of the observing self distinct from the thinking self",
+    "voice_rules": [
+      "Use direct address to reader",
+      "Pose open-ended questions",
+      "Normalize confusion as a starting point"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_187_abd73bdd",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_187",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:55+00:00"
+}

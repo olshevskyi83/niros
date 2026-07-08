@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:51:50+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_170_377d6c05",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "stress",
+      "ruminative or intrusive thoughts",
+      "emotional overwhelm",
+      "lack of present-moment awareness"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "Take twelve slow, deep breaths. For the first three breaths, focus on your breathing. For the next\nthree breaths, notice your breathing and also notice what thoughts are running through your mind.\n(Whatever they are, just let them be.) For the next three breaths, notice your breathing and also scan\nyour body and notice what you feel. (Whatever you feel, just make room for it.) For the final three\nbreaths, as well as connecting with your breathing, connect with your environment. Notice what\nyou can see, hear, taste, touch and smell, as well as staying aware of your breathing. Ready? Put the\nbook down now and give it a go.\nEx\n\n---\n\nThe idea of Breathing to Connect is to increase self-awareness, accept what you’re thinking and\nfeeling, and connect with where you are and what you’re doing. Once you’ve done this, you’re in\nthe best psychological space to take effective—that is, life-enhancing— action, if that should seem\nlike the thing to do right then.\n\n---\n\nBreathing to Connect doesn’t have to be exactly twelve breaths; you can shorten or lengthen the\nexercise as you like. So from now on, instead of the Ten Deep Breaths technique (from Chapter 7),\nstart Breathing to Connect throughout the day. Practise it at traffic lights, while waiting in line,\nbefore you get out of bed in the morning, during your lunchbreak, while your computer is booting\nup, while you’re waiting for your husband to get ready to go out.\n\n---\n\nTry longer and shorter versions of the exercise. At traffic lights you might have time for only three\nor four slow, deep breaths. In a slow-moving grocery line, you may have time for 30 or more. You\ndon’t have to keep an exact count or follow the order precisely as described above.\n\n---\n\nIn particular, start Breathing to Connect whenever you’re stressed or whenever you realise you’re\nall caught up in thoughts and feelings. In the midst of a tense situation, even one deep breath can\ngive you precious seconds to collect your wits.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_170_377d6c05",
+    "extractor": "openai",
+    "generation_rules": [
+      "Begin with focusing solely on breathing for initial breaths",
+      "Gradually incorporate noticing thoughts, bodily sensations, and environment",
+      "Allow flexibility in breath count and sequence based on context and time availability"
+    ],
+    "pause_rules": [
+      "Intersperse slow, deep breaths with mindful observation",
+      "Use even a single deep breath in tense situations to create a pause for regaining composure"
+    ],
+    "psychological_function": "Facilitate mindfulness by focusing attention sequentially on breathing, thoughts, bodily sensations, and sensory environment, promoting psychological presence and stress reduction.",
+    "repetition_rules": [
+      "Practice multiple times daily, especially during stress or when caught up in thoughts and feelings",
+      "No strict count required; adapt breath number to situation"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_170",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "breathing as a means to connect with self and environment"
+    ],
+    "therapeutic_function": "Increase self-awareness, acceptance of thoughts and feelings, and connection with the present environment to enable effective, life-enhancing action.",
+    "voice_rules": [
+      "Use gentle, guiding instructions encouraging non-judgmental observation ('just let them be', 'just make room for it')",
+      "Encourage self-directed practice throughout daily activities"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_170_377d6c05",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_170",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:50+00:00"
+}

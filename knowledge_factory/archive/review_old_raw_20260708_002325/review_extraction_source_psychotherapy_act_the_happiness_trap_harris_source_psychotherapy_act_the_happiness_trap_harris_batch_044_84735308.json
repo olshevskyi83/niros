@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:45:04+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_044_84735308",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "cognitive fusion",
+      "over-identification with thoughts",
+      "automatic thought processes"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for individuals with difficulty distinguishing reality from imagination or with severe psychosis."
+    ],
+    "evidence_text": "Imagine that a police officer catches an armed bank robber in a dramatic shoot-out. The next day we\nread about it in the newspapers. One particular newspaper may give a totally accurate account of\nwhat happened. It may have all the facts correct: the name of the police officer, the location of the\nbank, maybe even the precise number of shots fired. Another newspaper may give a less accurate\naccount of what happened. It may exaggerate some of the details for the sake of drama or just get\nthe facts wrong. But whether the story is totally accurate or false and misleading, it’s still just a\nstory. And when we read that story, we aren’t actually present at the event. There is no shooting\nactually taking place before our eyes; all we have in front of us are words. The only people who can\ntruly experience this event are those who are present when it happens: the ‘eyewitnesses’. Only an\neyewitness actually hears the sound of the shots or sees the officer tackle the robber. No matter how\nmuch detail there is in the description, the story is not the event (and vice versa).\n\n---\n\nOf course, we know that newspaper stories are biased. They don’t give us the absolute truth; they\ngive us an angle on what happened, which reflects the editorial viewpoint and attitude of the\nnewspaper. (And let’s face it, some newspapers are far more sensationalistic than others.) We also\nknow that at any point we wish, we can stop reading. If we’re not getting anything useful out of the\nstory, we can put down the newspaper and walk outside.\n\n---\n\nNow, this may be obvious when it comes to stories in newspapers, but it’s not nearly so obvious\nwhen it comes to the stories in our minds. All too often we react to our thoughts as if they are the\nabsolute truth, or as if we must give them all our attention. The psychological jargon for this\nreaction is ‘cognitive fusion’.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_044_84735308",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphorical storytelling to illustrate the difference between thoughts and reality."
+    ],
+    "pause_rules": [
+      "Pause after presenting the metaphor to allow processing and reflection."
+    ],
+    "psychological_function": "Promotes cognitive defusion by illustrating that thoughts are like stories or narratives rather than direct experiences or facts.",
+    "repetition_rules": [
+      "Reinforce the distinction between thoughts and events through repeated examples and analogies."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_044",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "newspaper stories",
+      "eyewitnesses",
+      "shooting event",
+      "editorial viewpoint"
+    ],
+    "therapeutic_function": "To help individuals recognize that their thoughts are not absolute truths but mental events that can be observed and distanced from, reducing cognitive fusion.",
+    "voice_rules": [
+      "Use a neutral, explanatory tone to encourage reflection without judgment."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_044_84735308",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_044",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:04+00:00"
+}

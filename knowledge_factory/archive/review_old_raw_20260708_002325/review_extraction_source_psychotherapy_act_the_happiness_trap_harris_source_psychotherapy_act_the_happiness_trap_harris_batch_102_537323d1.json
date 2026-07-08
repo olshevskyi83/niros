@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:48:19+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_102_537323d1",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "anxiety",
+      "anger",
+      "depression",
+      "guilt",
+      "emotional discomfort"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the segment."
+    ],
+    "evidence_text": "Now imagine what happens if our struggle switch is OFF. In this case, whatever emotion shows up,\nno matter how unpleasant, we don’t struggle with it. Thus, when anxiety shows up, it’s not a\nproblem. Sure, it’s an unpleasant feeling and we don’t like it, but it’s nothing terrible. With the\nstruggle switch OFF, our anxiety levels are free to rise and fall as the situation dictates. Sometimes\nthey'll be high, sometimes low, and sometimes there will be no anxiety at all. But more\nimportantly, we’re not wasting our time and energy struggling with it.\n\n---\n\nWithout struggle, what we get is a natural level of physical and emotional discomfort, depending on\nwho we are and the situation we’re in. In ACT, we call this ‘clean discomfort’. There’s no avoiding\n“clean discomfort’; life serves it up to all of us in one way or another. But once we start struggling\nwith it, our discomfort levels increase rapidly. And all that additional suffering, we call ‘dirty\ndiscomfort’.\n\n---\n\nOur struggle switch is like an emotional amplifier—switch it ON and we can have anger about our\nanxiety, anxiety about our anger, depression about our depression, or guilt about our guilt. We\ncould even have guilt about our anger about our anxiety—and then depression about that!",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_102_537323d1",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage imagining the struggle switch being OFF to reduce emotional struggle.",
+      "Distinguish between 'clean discomfort' and 'dirty discomfort' to reframe emotional experience."
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the segment."
+    ],
+    "psychological_function": "Facilitating acceptance of unpleasant emotions ('clean discomfort') and preventing escalation into compounded emotional suffering ('dirty discomfort').",
+    "repetition_rules": [
+      "Not explicitly stated in the segment."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_102",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "struggle switch",
+      "emotional amplifier"
+    ],
+    "therapeutic_function": "Reducing suffering by turning off the struggle with unpleasant emotions, allowing natural emotional fluctuations without additional distress.",
+    "voice_rules": [
+      "Use metaphorical language such as 'struggle switch' and 'emotional amplifier' to illustrate emotional processes."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_102_537323d1",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_102",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:19+00:00"
+}

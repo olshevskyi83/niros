@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:43:18+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_014_2f811a6d",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Individuals experiencing depression",
+      "Individuals experiencing suicidal ideation",
+      "Individuals with psychiatric disorders",
+      "Individuals suffering from loneliness, low self-esteem, chronic anger, lack of meaning or purpose"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals who may require immediate clinical intervention for severe psychiatric disorders; the text does not specify contraindications explicitly."
+    ],
+    "evidence_text": "Our culture insists that humans are naturally happy. But the statistics quoted in the introduction\nclearly disprove this. Remember, one in ten adults will attempt suicide, and one in five will suffer\nfrom depression. What’s more, the statistical probability that you will suffer from a psychiatric\ndisorder at some stage in your life is almost 30 per cent! Not exactly great odds, are they?\n\n---\n\nAnd when you add in all the misery caused by problems that are not classified as psychiatric\ndisorders—loneliness, divorce, sexual difficulties, work stress, midlife crisis, relationship issues,\ndomestic violence, social isolation, bullying, prejudice, low self-esteem, chronic anger and lack of\nmeaning or purpose in life—you start to get some idea of just how rare true happiness really is.\nUnfortunately, many people walk around with the belief that everyone else is happy except for\nthem. And—you guessed it—this belief creates even more unhappiness.\n\n---\n\nMyth No.2: If You’re Not Happy, You’re Defective\n\n---\n\nFollowing logically from Myth 1, western society assumes that mental suffering is abnormal. It is\nseen as a weakness or illness, a product of a mind that is somehow faulty or defective. This means\nthat when we do inevitably experience painful thoughts and feelings, we often criticise ourselves for\nbeing weak or stupid. Health professionals contribute to this process by readily slapping on labels\nsuch as, “You’re depressed’, and these labels merely confirm how defective we are.\n\n---\n\nAcceptance and Commitment Therapy is based on a dramatically different assumption. ACT\nproposes that the normal thinking processes of a healthy human mind will naturally lead to\npsychological suffering. You’re not defective—your mind’s just doing its job; the thing it evolved\nto do. Fortunately, ACT can teach you how to adapt to this in such a way that your life will be\npowerfully transformed.\n\n---\n\nMyth No.3: To Create A Better Life, We Must Get Rid Of Negative Feelings",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_014_2f811a6d",
+    "extractor": "openai",
+    "generation_rules": [
+      "Present statistical evidence to challenge cultural myths about happiness",
+      "Label common cultural beliefs as myths to be deconstructed",
+      "Reframe mental suffering as a natural function of the mind rather than a defect"
+    ],
+    "pause_rules": [
+      "Pause after presenting each myth to allow reflection on the cultural assumptions being challenged."
+    ],
+    "psychological_function": "Reduce self-criticism and stigma associated with painful thoughts and feelings by reframing them as normal and expected mental processes.",
+    "repetition_rules": [
+      "Repeat the identification and deconstruction of cultural myths to reinforce new understanding of mental suffering."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_014",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Myth No.1: Humans are naturally happy",
+      "Myth No.2: If you’re not happy, you’re defective",
+      "Myth No.3: To create a better life, we must get rid of negative feelings"
+    ],
+    "therapeutic_function": "Teach adaptation to normal psychological suffering by changing the understanding of mental suffering from a defect to a natural function of the mind.",
+    "voice_rules": [
+      "Use authoritative and factual tone when presenting statistics",
+      "Use corrective and reframing tone when addressing myths",
+      "Use hopeful and empowering tone when introducing ACT principles"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_014_2f811a6d",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_014",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:18+00:00"
+}

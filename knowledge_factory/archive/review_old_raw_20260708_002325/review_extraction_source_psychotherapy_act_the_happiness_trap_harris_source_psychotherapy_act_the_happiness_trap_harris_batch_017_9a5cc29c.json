@@ -1,0 +1,49 @@
+{
+  "created_at": "2026-07-07T21:43:28+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_017_9a5cc29c",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative feelings such as anger, fear, sadness, insecurity, guilt",
+      "myths about emotional control",
+      "feelings of inadequacy related to failed control attempts"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "The same holds true for ‘negative’ feelings such as anger, fear, sadness, insecurity and guilt. There\nare multitudes of psychological strategies to ‘get rid of such feelings. But you’ve undoubtedly\ndiscovered that even if they go away, after a while they’re back. And then they go away again. And\nthen they come back again. And so on and so on. The likelihood is, if you’re like most other\nhumans on the planet, you’ve already spent a lot of time and effort trying to have ‘good’ feelings\ninstead of ‘bad’ ones—and you’ve probably found that as long as you’re not too distressed, you\ncan, to some degree, pull it off. But you’ve probably also discovered that as your level of distress\nincreases, your ability to control your feelings progressively lessens. Sadly, Myth 4 is so widely\nbelieved that we tend to feel inadequate when our attempts to control our thoughts and feelings fail.\n\n---\n\nThese four powerful myths provide the basic blueprint for the happiness trap. They set us up for a\nstruggle we can never win: the struggle against our own human nature. It is this struggle that builds\nthe trap. In the next chapter we will look at this struggle in detail, but first let’s consider why these\nmyths are so entrenched in our culture.\n\n---\n\nThe human mind has given us an enormous advantage as a species. It enables us to make plans,\ninvent things, coordinate actions, analyse problems, share knowledge, learn from our experiences\nand imagine new futures. The clothes on your body, the shoes on your feet, the watch on your wrist,\nthe chair beneath you, the roof over your head, the book in your hands—none of these things would\nexist but for the ingenuity of the human mind. The mind enables us to shape the world around us\nand conform it to our wishes, to provide ourselves with warmth, shelter, food, water, protection,\nsanitation and medicine. Not surprisingly, this amazing ability to control our environment gives us\nhigh expectations of control in other arenas as well.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_017_9a5cc29c",
+    "extractor": "openai",
+    "generation_rules": [
+      "Present myths about emotional control as widely held but misleading beliefs",
+      "Highlight the natural recurrence of emotions despite attempts to control them"
+    ],
+    "pause_rules": [
+      "Pause after describing the cycle of emotions to allow reflection on the inevitability of emotional fluctuations"
+    ],
+    "psychological_function": "To increase awareness of the cyclical nature of emotions and the limitations of emotional control, thereby reducing feelings of inadequacy.",
+    "repetition_rules": [
+      "Emphasize the recurring cycle of emotions coming and going to illustrate the futility of control attempts"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_017",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "happiness trap",
+      "struggle against human nature"
+    ],
+    "therapeutic_function": "To reduce the struggle against natural human emotions by challenging myths about controlling feelings and thoughts.",
+    "voice_rules": [
+      "Use explanatory and validating tone to normalize emotional experiences and struggles"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_017_9a5cc29c",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_017",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:28+00:00"
+}

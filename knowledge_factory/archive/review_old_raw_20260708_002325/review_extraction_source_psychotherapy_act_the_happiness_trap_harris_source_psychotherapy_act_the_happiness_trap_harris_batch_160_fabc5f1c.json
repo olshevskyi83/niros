@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:51:21+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_160_fabc5f1c",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "avoidance of discomfort",
+      "experiential avoidance",
+      "lack of present-moment awareness",
+      "fear of rejection",
+      "resistance to life changes"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; not explicitly stated in the text"
+    ],
+    "evidence_text": "Practising connection is like building your muscles. The more you practise, the more strength you\nhave to change your life. Many people fail to make important changes—changes that could\nsignificantly enhance their lives—because they’re unwilling to accept the discomfort that\naccompanies change. For example, you may avoid changing to a more meaningful career because\nyou don’t want the discomfort of starting from scratch. Or you may avoid asking someone on a date\nbecause you don’t want to risk rejection. The more you learn to connect, defuse and expand, the less\npower you will give such discomfort to act as an obstacle. So aim once a day to connect with both a\npleasant, valued action and an uncomfortable one. In the long run, the rewards will be well worth it.\n\n---\n\nIt’s time for us to take a little detour. In this chapter, we’re going to look at the similarities and\ndifferences between ACT and other approaches to human suffering. But first we need to introduce\nand define a new word: ‘mindfulness’. It’s a slightly confusing word because it has nothing to do\nwith having ‘a full mind’. Different books will give you different definitions of ‘mindfulness’,\ndepending on their content. A spiritual or religious book will define it very differently to a book on\nsports psychology or effective leadership. So here’s my definition: ‘mindfulness’ means\nconsciously bringing awareness to your here-and-now experience, with openness, receptiveness and\ninterest.\n\n---\n\nThis definition tells us several things. Firstly, mindfulness is a conscious process; something we do\ndeliberately. Secondly, it’s not a thinking process; it’s about awareness. Thirdly, it’s about bringing\nour awareness to the present moment; in other words, paying attention to what’s happening here\nand now. Fourthly, it’s about doing this with a particular attitude: one of openness, interest and\nreceptiveness to our experience, rather than one of struggle, judgement and avoidance.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_160_fabc5f1c",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage daily practice of connecting with both valued and uncomfortable experiences",
+      "Define mindfulness as conscious, present-moment awareness with openness and receptiveness"
+    ],
+    "pause_rules": [
+      "Allow space for reflection on discomfort and connection experiences",
+      "Pause to emphasize the attitude of openness and receptiveness in mindfulness"
+    ],
+    "psychological_function": "Increasing tolerance of discomfort; reducing experiential avoidance; enhancing conscious awareness of present experience; fostering openness and acceptance.",
+    "repetition_rules": [
+      "Reinforce the practice of connecting with discomfort and valued actions daily",
+      "Repeat the definition and components of mindfulness to build understanding"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_160",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "building muscles as a metaphor for practising connection",
+      "discomfort as an obstacle to change"
+    ],
+    "therapeutic_function": "Practising connection to increase psychological flexibility and reduce avoidance of discomfort associated with meaningful life changes; cultivating mindfulness to enhance present-moment awareness with openness and receptiveness.",
+    "voice_rules": [
+      "Use clear, deliberate language emphasizing conscious choice and openness",
+      "Avoid judgmental or struggle-oriented tone"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_160_fabc5f1c",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_160",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:21+00:00"
+}

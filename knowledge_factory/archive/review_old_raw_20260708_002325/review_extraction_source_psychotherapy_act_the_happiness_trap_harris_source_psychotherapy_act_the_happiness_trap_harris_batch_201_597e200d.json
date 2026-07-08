@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:53:40+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_201_597e200d",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals struggling to identify core values",
+      "individuals conflating feelings with values",
+      "clients seeking to improve relational behaviors"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for individuals unwilling or unable to engage in introspection or writing; may cause frustration if client fixates on feelings rather than values"
+    ],
+    "evidence_text": "Finally, it’s preferable that you actually write down your answers. Writing concentrates your\nthinking and helps you to consciously remember what you answer. (If, however, you’re not willing\n\n---\n\nto write, then at least think long and hard about your answers.)\n\n---\n\nAs you work through this questionnaire, it’s important to keep in mind that feelings are not values.\nIf you say, ‘I want to feel confident’, or ‘I want to feel happy’, those are goals, not values. Why?\nBecause a feeling of confidence or a feeling of happiness can be achieved, done and completed. A\nfeeling is not an ongoing process; it’s a transient event, like a television program. Once you’ve\nwatched the program: goal accomplished. Likewise, once you’ve had a feeling of happiness: goal\naccomplished. So if in your answers to these questions, you keep writing about how you want to\nfeel, then you need to ask yourself: ‘If I did feel this way, what would I do differently? How would\nI act differently? How would I behave differently in my relationships with others?’ Your answers\nthen reveal your underlying values. Okay, enough talk. Now it’s time for the questionnaire.\n\n---\n\n1. What sort of brother/sister, son/daughter, father/mother (or other relative) do you want to be?\n\n---\n\n2. What personal qualities would you like to bring to these relationships?\n\n---\n\n3. How would you treat others if you were the “ideal you’ in these relationships?\n\n---\n\n4. What sort of ongoing activities do you want to do with your relatives?\n\n---\n\n5. What sort of relationships do you want to build?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_201_597e200d",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage writing down answers to concentrate thinking and aid memory",
+      "Prompt reflection on how feeling states translate into actions and behaviors",
+      "Use questions focused on ideal relational roles and qualities"
+    ],
+    "pause_rules": [
+      "Allow time for deep reflection especially when considering how feelings translate into behaviors"
+    ],
+    "psychological_function": "Enhances self-awareness by distinguishing between temporary emotional states and enduring values; encourages intentional behavior aligned with values.",
+    "repetition_rules": [
+      "Reinforce distinction between feelings and values through repeated questioning and examples"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_201",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "feelings as transient events (like a television program)"
+    ],
+    "therapeutic_function": "Facilitates clarification of personal values distinct from transient feelings; promotes conscious reflection on desired behaviors and relationships.",
+    "voice_rules": [
+      "Use direct, instructive tone",
+      "Employ clarifying explanations distinguishing feelings from values",
+      "Adopt an encouraging and reflective style"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_201_597e200d",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_201",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:40+00:00"
+}

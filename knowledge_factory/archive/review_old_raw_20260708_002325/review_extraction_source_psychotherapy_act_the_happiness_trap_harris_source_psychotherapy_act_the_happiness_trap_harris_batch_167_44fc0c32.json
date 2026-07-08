@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:51:38+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_167_44fc0c32",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "stress",
+      "difficulty breathing due to rapid shallow breaths",
+      "emotional avoidance through control strategies"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "None explicitly stated; caution against using breathing as a control strategy to avoid reinforcing emotional avoidance."
+    ],
+    "evidence_text": "If you’re so stressed that you feel unable to breathe properly—as though you’re not getting enough\noxygen, or you need some fresh air, or you somehow just can’t open up your lungs—then the\nproblem is probably this: you ’re breathing so fast that you 're not giving your lungs a chance to\nempty! If you don’t empty your lungs, then you can’t breathe in properly, because you're trying to\nsuck air into a space that’s already mostly full. So the first thing you need to do is breathe out —\nfully and completely exhale, emptying your lungs as much as is physically possible. Once they’re\nempty, you can take a full breath in. And the slower you can take these breaths, the better, because\nyou’re helping to rebalance the gases in your bloodstream.\n\n---\n\nThe one thing to be wary of is trying to use your breathing as a control strategy; that is, as a way to\nget rid of unpleasant emotions or create feelings of relaxation. As with all the other acceptance\ntechniques in this book, relaxation will often arise as a byproduct—but don’t expect it or strive for\nit, or you’\nll fall right back into the whole vicious cycle of control.\n\n---\n\nBreathing is wonderful. Not only does it keep you alive, it reminds you that you’re alive. How do\nyou feel on a crisp, clear morning when you stop and take a breath of fresh air? How do you feel\nwhen you breathe a deep sigh of relief after some stressful event? Your breathing never stops until\nthe day you die and that makes it a perfect aid to help you stay connected.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_167_44fc0c32",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage full and complete exhalation before inhalation",
+      "Advocate slower breathing to aid physiological rebalancing",
+      "Discourage using breathing to control or eliminate emotions"
+    ],
+    "pause_rules": [
+      "Imply natural pauses after full exhalation to allow lung emptying",
+      "Encourage mindful awareness of breath cycles without forcing"
+    ],
+    "psychological_function": "Promotes acceptance of present experience without using breathing as a control strategy to eliminate unpleasant emotions, thereby preventing a vicious cycle of control.",
+    "repetition_rules": [
+      "Reinforce the importance of full exhalation and slow inhalation",
+      "Repeat the caution against using breathing as a control mechanism"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_167",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "breathing as a reminder of being alive",
+      "breath of fresh air symbolizing clarity and connection",
+      "deep sigh of relief representing release of stress"
+    ],
+    "therapeutic_function": "Facilitates proper breathing by encouraging full exhalation to allow complete inhalation, helping to rebalance gases in the bloodstream and reduce stress.",
+    "voice_rules": [
+      "Use a guiding and accepting tone that normalizes breathing and its natural function",
+      "Avoid authoritative or prescriptive commands that imply control over emotions"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_167_44fc0c32",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_167",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:38+00:00"
+}

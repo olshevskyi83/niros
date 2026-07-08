@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:48:06+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_097_92fd4166",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing fear-based avoidance",
+      "people struggling with emotional awareness or expression",
+      "those who believe they have 'no feelings'"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective or misunderstood in individuals with literal trauma-induced paralysis or dissociative disorders where emotional disconnection is severe."
+    ],
+    "evidence_text": "What about those cases where people get paralysed by fear? It’s true that in very rare instances,\nwhen people find themselves in a genuinely life-threatening situation, they may become temporarily\n‘paralysed’ by fear, rather like a rabbit frozen in the headlights. But 99.9 per cent of the time when\nwe talk about being ‘paralysed by fear’, it isn’t the literal truth. It’s just a metaphor; a colourful turn\nof phrase. The person is not truly physically incapable of taking action; he or she is simply choosing\nnot to.\n\n---\n\nEmotions are like the weather—they’re always present and constantly changing. They continually\nebb and flow, from mild to intense, pleasant to unpleasant, predictable to utterly unexpected. A\n‘mood’ refers to the general tone of emotion across a period of time. A ‘feeling’ refers to a discrete\nepisode of emotion with distinctive, recognisable characteristics. In our weather analogy, a ‘bad\nmood’ is akin to an overcast day, whereas a feeling of anger or anxiety is akin to a storm. We’re\nalways experiencing emotion of some sort, just as there is always weather of some sort—although\nsometimes it isn’t strong enough or distinct enough for us to describe it easily, or perhaps even to\nnotice it. At such times, if someone asks us how we’re feeling, we might say ‘fine’ or ‘I’m not\nfeeling anything in particular.’\n\n---\n\nSome people are very much ‘in touch’ with their emotions while others are, to varying degrees,\n‘disconnected’ from them. Likewise, some people are very good at talking about their feelings,\nwhile others have great difficulty doing so and may be limited to simple expressions such as ‘I feel\ngood’, ‘I feel bad’, or ‘I feel funny.” Although we may say someone has ‘no feelings”, the truth is,\nsuch people don’t exist. Everyone has emotions and feelings, regardless of whether they are ‘in\n\n---\n\ntouch’ with them or able to express them in words.\n\n---\n\nThere are three phases in the creation of an emotion.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_097_92fd4166",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphorical language to reframe emotional experiences",
+      "Differentiate between moods and discrete feelings using analogies",
+      "Clarify common misconceptions about emotional paralysis and emotional absence"
+    ],
+    "pause_rules": [
+      "Pause after introducing metaphors to allow reflection; pause after clarifying misconceptions to emphasize understanding."
+    ],
+    "psychological_function": "Facilitates emotional awareness and acceptance by comparing emotions to weather patterns, emphasizing that emotions are always present and fluctuate in intensity and quality; challenges misconceptions about emotional paralysis and emotional absence.",
+    "repetition_rules": [
+      "Reinforce the metaphor of emotions as weather and the idea that emotional paralysis is usually a choice rather than a literal state."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_097",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "fear paralysis as a metaphor",
+      "emotions as weather",
+      "bad mood as overcast day",
+      "anger or anxiety as storm"
+    ],
+    "therapeutic_function": "To help individuals recognize that being 'paralysed by fear' is often a metaphorical choice rather than a literal incapacity, and to normalize the presence and variability of emotions as natural and ever-changing phenomena.",
+    "voice_rules": [
+      "Use explanatory and normalizing tone",
+      "Employ vivid, relatable metaphors",
+      "Maintain a non-judgmental and inclusive voice"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_097_92fd4166",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_097",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:06+00:00"
+}

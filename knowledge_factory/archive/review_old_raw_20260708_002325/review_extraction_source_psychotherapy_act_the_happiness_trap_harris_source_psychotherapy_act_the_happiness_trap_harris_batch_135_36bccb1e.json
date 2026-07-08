@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:50:02+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_135_36bccb1e",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "urges to eat",
+      "urges to drink",
+      "urges to smoke",
+      "urges to yell",
+      "urges to run away",
+      "anxiety-related urges"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text."
+    ],
+    "evidence_text": "These sensations are all rather vague. Notice my use of terms such as ‘tension’, ‘restlessness’ and\n‘fidgety’. These are hard sensations to describe because, primarily, they are impulses to take action.\nStill, we’ve all experienced just such sensations. And a key skill in dealing with urges is learning to\nbe aware of them: to notice where they are happening and what they feel like. (Yes, this is more\nabout body awareness!)\n\n---\n\nSo the next time you feel an urge to eat, drink, smoke, yell or run away, take a moment to scan your\nbody from head to toe and notice where you feel it. If you pay close attention, you’\nll detect a variety\nof vague sensations. For example, if you focus in on ‘restless legs”, you’ll notice that some of the\nmuscles feel tense or springy as they contract in readiness to move. You may also notice feelings of\nwarmth or tingling, caused by increased blood flow and altered electrical activity in the nerves.\n\n---\n\nIt takes a little practice (that word again!) to get really good at tuning in to your urges, but as you\ndo, you’ll find that they have two main components:\n\n---\n\n1. Vague sensations that tell you your body is preparing for action.\n\n---\n\n2. Associated thoughts and images about the sort of action you want to take.\n\n---\n\nSo, returning to my urge for chocolate, those sensations in my mouth, stomach and legs will be\naccompanied by thoughts and images about eating chocolate. Likewise, if you’re feeling anxious in\n\n---\n\na social situation, you may have ‘restless’ sensations in your legs, coupled with thoughts or images\nabout leaving early.\n\n---\n\nYou can deal with an urge in one of two ways: act upon it or not act upon it.\n\n---\n\nTherefore, once you are aware of a strong urge, you need to ask yourself: If I act on this urge, will I\nbe acting like the person I want to be? Will it help take my life in the direction I want to go?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_135_36bccb1e",
+    "extractor": "openai",
+    "generation_rules": [
+      "Practice scanning the body from head to toe to notice vague sensations associated with urges.",
+      "Identify both physical sensations and associated thoughts/images related to the urge.",
+      "Reflect on whether acting on the urge aligns with personal values and desired life direction."
+    ],
+    "pause_rules": [
+      "Pause to scan the body and notice sensations before deciding how to respond to an urge."
+    ],
+    "psychological_function": "Enhance mindfulness of urges by recognizing their physical and cognitive components, enabling reflective choice rather than automatic action.",
+    "repetition_rules": [
+      "Repeated practice is necessary to improve skill in tuning into urges and bodily sensations."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_135",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "urge as bodily sensations",
+      "urge as impulses to take action"
+    ],
+    "therapeutic_function": "Increase awareness of bodily sensations associated with urges to improve impulse control and decision-making.",
+    "voice_rules": [
+      "Use descriptive terms such as 'tension', 'restlessness', and 'fidgety' to label sensations.",
+      "Encourage a non-judgmental, observational tone when noticing urges."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_135_36bccb1e",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_135",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:02+00:00"
+}

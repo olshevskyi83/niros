@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:53:26+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_197_b4fd801f",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing suffering or adversity",
+      "those struggling with loss of purpose or will to live"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for individuals unable to identify any personal values or connections"
+    ],
+    "evidence_text": "If you want a better job, that’s a goal. Once you’ve got it: goal achieved. But if you want to apply\nyourself fully at work, to be attentive to detail, supportive to your colleagues and engaged in what\nyou're doing, those are values.\n\n---\n\nAuschwitz was the most notorious of the Nazi death camps. We can scarcely begin to imagine what\ntook place there: the horrific abuse and torture, the extremes of human degradation, the countless\ndeaths through disease, violence, starvation and the infamous mass gas chambers. Viktor Frankl\nwas a Jewish psychiatrist who survived years of unspeakable horror in Auschwitz and other camps,\nwhich he described in gruesome detail in his awe-inspiring book Man’s Search for Meaning.\n\n---\n\nOne of the most fascinating revelations in this book is that, contrary to what you would expect, the\npeople who survived longest in the death camps were often not the physically fittest and strongest,\nbut rather, those who were most connected with a purpose in life. If prisoners could connect with\nsomething they valued, such as a loving relationship with their children or an important book they\nwished to write, that connection gave them something to live for; something that made it\nworthwhile to endure all that suffering. Those who could not connect with a deeper value soon lost\nthe will to live—and thus, their lives.\n\n---\n\nFrankl’s own sense of purpose came from several sources. For example, he deeply valued his loving\nrelationship with his wife and was determined to survive so he could one day see her again. Many a\ntime during strenuous work shifts in the snow, with his feet in agony from frostbite and his body\nracked with pain from brutal beatings, he would conjure up a mental image of his wife and think\nabout how much he loved her. That sense of connection was enough to keep him going.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_197_b4fd801f",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify and clarify personal values distinct from goals",
+      "Encourage mental visualization of valued relationships or purposes"
+    ],
+    "pause_rules": [
+      "Pause after introducing key concepts such as values versus goals",
+      "Pause to allow reflection on personal meaningful connections"
+    ],
+    "psychological_function": "Supporting survival and endurance through meaningful engagement with valued relationships or goals",
+    "repetition_rules": [
+      "Reinforce distinction between goals and values",
+      "Repeat connection between values and survival or endurance"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_197",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "mental image of loved ones",
+      "connection to deeper values"
+    ],
+    "therapeutic_function": "Enhancing connection to personal values to foster resilience and purpose in life",
+    "voice_rules": [
+      "Use empathetic and hopeful tone when discussing values and purpose",
+      "Present examples of resilience grounded in values"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_197_b4fd801f",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_197",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:26+00:00"
+}

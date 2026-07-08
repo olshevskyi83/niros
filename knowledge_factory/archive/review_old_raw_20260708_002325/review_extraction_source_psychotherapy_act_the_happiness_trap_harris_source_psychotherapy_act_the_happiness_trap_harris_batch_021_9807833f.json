@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:43:38+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_021_9807833f",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing hidden emotional distress",
+      "people fearing disapproval or rejection for expressing vulnerability",
+      "new mothers with self-doubt and anxiety"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Clients who are not ready to disclose personal feelings may experience discomfort or increased anxiety."
+    ],
+    "evidence_text": "The implication of all these phrases is that you should be able to turn your feelings on and off at\nwill, like flicking a switch. And why is this myth so compelling? Because the people around us\nseem, on the surface, to be happy. They seem to be in control of their thoughts and feelings. But\n‘seem’ is the key word here. The fact is that most people are not open or honest about the struggle\nthey go through with their own thoughts and feelings. They ‘put on a brave face’ and ‘keep a stiff\nupper lip’. They are like the proverbial clown crying on the inside; the bright face paint and chirpy\nantics are all we see. It’s common in therapy to hear clients say things like, ‘If my\nfriends/family/colleagues could hear me now, they’d never believe it. Everyone thinks I’m so\nstrong/confident/happy/independent...’\n\n---\n\nPenny, a 30-year-old receptionist, came to see me six months after the birth of her first child. She\nwas feeling tired and anxious and full of self-doubt about her mothering skills. At times she felt\nincompetent or inadequate and just wanted to run away from all the responsibility. At other times\nshe felt exhausted and miserable and wondered if having a child had been a huge mistake. On top of\nthat, she felt guilty for even having such thoughts! Although Penny attended regular mothers’ group\nmeetings, she kept her problems a secret. The other mothers all seemed so confident, she feared that\nif she told them how she was feeling, they would look down on her. When Penny eventually\nplucked up the courage to share her experiences with the other women, her admission broke a\nconspiracy of silence. The other mothers had all been feeling the same way to one degree or\nanother, but they’d all been putting on the same act of bravado, hiding their true feelings for fear of\ndisapproval or rejection. There was a huge sense of relief and bonding as these women opened up\nand got honest with one another.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_021_9807833f",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage clients to recognize the myth of controlling feelings at will.",
+      "Promote sharing of authentic emotional experiences within supportive groups."
+    ],
+    "pause_rules": [
+      "Allow space after disclosures to facilitate processing and group bonding."
+    ],
+    "psychological_function": "Breaking the 'conspiracy of silence' by encouraging sharing of true feelings, leading to relief and bonding among individuals.",
+    "repetition_rules": [
+      "Reinforce the idea that many people hide their true feelings despite appearing happy or confident."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_021",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "flicking a switch",
+      "put on a brave face",
+      "keep a stiff upper lip",
+      "clown crying on the inside",
+      "bright face paint and chirpy antics"
+    ],
+    "therapeutic_function": "Facilitating openness and honesty about internal emotional struggles to reduce feelings of isolation and shame.",
+    "voice_rules": [
+      "Use empathetic and validating language to normalize emotional struggles.",
+      "Highlight commonality of hidden feelings among peers."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_021_9807833f",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_021",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:38+00:00"
+}

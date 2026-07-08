@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:45:44+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_056_6b6300b7",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative automatic thoughts",
+      "self-critical thoughts",
+      "unhelpful or harsh internal dialogue"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text"
+    ],
+    "evidence_text": "Sometimes I would argue with the thought. I’d point out that everyone makes mistakes, including\ndoctors, and that none of the mistakes I made was ever serious, and that overall I did my job very\nwell. At other times I would run through lists of all the things I did well, and remind myself of all\nthe positive feedback Id had from my patients and work colleagues. Or I’d repeat positive\naffirmations that I was, indeed, highly competent. But none of that got rid of the negative thought or\nstopped it from bothering me.\n\n---\n\nThese days the same two words still often pop up when I make a mistake, but the difference is now\nthey don’t bother me—because I don’t take them seriously. I know that those words are just an\nautomatic response, like the way your eyes shut whenever you sneeze. The fact is, we don’t choose\nmost of the thoughts in our head. We do choose a small number of them, when we’re actively\nplanning or mentally rehearsing or being creative, but most of the thoughts in our head just ‘show\nup’ of their own accord. We have many thousands of useless or unhelpful thoughts every day. And\nno matter how harsh, cruel, silly, vindictive, critical, frightening or downright weird they may be,\nwe can’t prevent them from popping up. But just because they appear doesn’t mean we have to take\nthem seriously.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_056_6b6300b7",
+    "extractor": "openai",
+    "generation_rules": [
+      "Thoughts arise automatically without conscious choice",
+      "Most thoughts are unhelpful or useless",
+      "We can choose how to respond to thoughts"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "psychological_function": "Promoting cognitive defusion by recognizing thoughts as automatic mental events that do not need to be taken seriously or acted upon.",
+    "repetition_rules": [
+      "Repetition of positive affirmations and lists of positive feedback is acknowledged but noted as insufficient to eliminate negative thoughts"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_056",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "automatic response compared to eyes shutting when sneezing"
+    ],
+    "therapeutic_function": "Reducing the impact of negative automatic thoughts by altering the individual's relationship to those thoughts rather than trying to eliminate them.",
+    "voice_rules": [
+      "Use a neutral, observational tone when describing thoughts",
+      "Avoid engaging in argument with negative thoughts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_056_6b6300b7",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_056",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:44+00:00"
+}

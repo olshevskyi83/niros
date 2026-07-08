@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:53:36+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_200_1dd23a53",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals struggling with value judgment",
+      "individuals with rigid or self-critical thinking about values",
+      "individuals facing difficulty in goal setting due to unclear values"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for individuals requiring concrete goal-oriented interventions without emphasis on values; caution if client is unable to engage in abstract or imaginative thinking."
+    ],
+    "evidence_text": "Although many of us have similar values, no two people are exactly the same and this is not some\ntest to see 1f you have the ‘right’ ones. There is no right or wrong, no good or bad, when it comes to\nvalues. What you value is what you value, full stop! There’s no need to justify or defend your\nvalues any more than there is a need to justify or defend your favourite flavour of ice cream. My\nfavourite ice cream is maple walnut. Why? I don’t know. My taste buds just prefer it. Do I have to\njustify it? If someone else prefers vanilla, does that mean their tastebuds are ‘right’ and mine are\n‘wrong’? Obviously not! And it’s exactly the same with values. Someone else may have different\nvalues from yours, but that doesn’t mean that theirs are better or worse—it just means they value\ndifferent things.\n\n---\n\nIn the last chapter we spoke about the difference between values and goals. The aim of this chapter\nis to consider what you want in life in terms of general directions, not in terms of specific goals.\nWe'll look at setting goals later, once you know what your values are.\n\n---\n\nThere may be some sections in this chapter that seem unimportant to you. If so, that’s fine—not\neveryone values the same things, so just move on to the next section. Also, there may be\nconsiderable overlap. For example, if you value being helpful, supportive and caring, that may\nshow up in several different domains, such as friendship, family and parenting.\n\n---\n\nAs you keep reading, it’s important not to get side-tracked by your mind—by stories about what is\nrealistic or what you (or others) believe you deserve. In answering these questions, you’re daring to\ndream; looking at possibilities, not absolute certainties. So answer as if there were no obstacles in\nyour way; nothing to stop you from making the changes you want.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_200_1dd23a53",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage non-judgmental identification of values",
+      "Separate values exploration from goal setting",
+      "Invite imaginative, obstacle-free consideration of life directions"
+    ],
+    "pause_rules": [
+      "Allow reflective pauses after discussing values to enable personal contemplation without rushing."
+    ],
+    "psychological_function": "Reduces self-criticism and judgment related to personal values; supports cognitive flexibility by distinguishing values from goals; counters limiting beliefs about what is realistic or deserved.",
+    "repetition_rules": [
+      "Reinforce the message that values are personal and not subject to right or wrong repeatedly to reduce judgment."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_200",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "ice cream flavors as metaphor for personal values"
+    ],
+    "therapeutic_function": "Facilitates acceptance of personal values without judgment or comparison; encourages exploration of values as a foundation for goal setting; promotes openness to possibilities beyond perceived obstacles.",
+    "voice_rules": [
+      "Use accepting and non-judgmental tone",
+      "Normalize diversity in values",
+      "Encourage openness and curiosity"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_200_1dd23a53",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_200",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:36+00:00"
+}

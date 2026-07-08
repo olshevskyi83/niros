@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-07-07T21:52:46+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_184_37daa126",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "high self-esteem maintenance",
+      "negative self-judgements",
+      "self-worth justification",
+      "self-criticism",
+      "experiential avoidance"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; the text does not specify contraindications explicitly."
+    ],
+    "evidence_text": "A: Because continually trying to maintain that high self-esteem can actually pull you away from\nwhat you value. Remember Michelle, working late at the office to improve her sense of worthiness,\nbut missing out on spending time with her family? High self-esteem may give you some pleasant\nfeelings in the short term, but in the long run, trying to maintain it will probably exhaust you.\nBecause of the way the human mind has evolved, the ‘not good enough’ story will always return in\none form or another. Do you want to spend the rest of your life battling it? Why bother when you\ncan have a fulfilling life without exerting all that effort?\n\n---\n\nQ: But aren’t people with high self-esteem happier?\n\n---\n\nA: Not necessarily. Having high self-esteem can create all sorts of problems for people. It can\neasily lead to arrogance, righteousness, selfishness, egotism, narcissism or a false sense of\nsuperiority. The sort of happiness we’re talking about in this book—leading a rich, full and\nmeaningful life—doesn’t depend on self-esteem in the slightest.\n\n---\n\nQ: So what are you suggesting as an alternative?\n\n---\n\nA: Don’t try to prove yourself. Don’t try to think of yourself as a ‘good person’.\n\n---\n\nDon’t try to justify your self-worth. Whatever judgements your thinking self makes of you, just see\n\n---\n\nAnd at the same time take action in line with your values. Enhance your life by acting on what is\nmeaningful. And when you slip up and stray off course from those values—which I guarantee you\nwill do over and over again—then don’t buy into all those harsh self-judgements. Let those\nnegative judgements come and go. Instead, accept that it has happened and that there’s no going\nback. Then connect with where you are and what you’re doing; choose a valued direction and take\naction.\n\n---\n\nIf you step out of the battle to win self-esteem, then what you are left with 1s...",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_184_37daa126",
+    "extractor": "openai",
+    "generation_rules": [
+      "Do not try to prove or justify self-worth",
+      "Observe self-judgements without buying into them",
+      "Accept mistakes without harsh self-judgement",
+      "Connect with present moment and current actions",
+      "Choose valued directions and take committed action"
+    ],
+    "pause_rules": [
+      "Pause after key reflective questions (e.g., 'Do you want to spend the rest of your life battling it?')",
+      "Pause after statements emphasizing acceptance and value-driven action"
+    ],
+    "psychological_function": "Facilitating acceptance of internal experiences (e.g., negative self-judgements), decreasing experiential avoidance, and fostering value-driven behavior to enhance life meaning and reduce exhaustion from self-esteem maintenance.",
+    "repetition_rules": [
+      "Reinforce the inevitability of negative self-judgements returning",
+      "Repeat the importance of acting in line with values despite setbacks"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_184",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "‘not good enough’ story",
+      "battle to win self-esteem"
+    ],
+    "therapeutic_function": "Reducing the struggle to maintain high self-esteem by promoting acceptance of negative self-judgements and encouraging committed action aligned with personal values.",
+    "voice_rules": [
+      "Use direct, conversational tone addressing the client personally",
+      "Use examples (e.g., Michelle) to illustrate points",
+      "Use rhetorical questions to engage reflection"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_184_37daa126",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_184",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:46+00:00"
+}

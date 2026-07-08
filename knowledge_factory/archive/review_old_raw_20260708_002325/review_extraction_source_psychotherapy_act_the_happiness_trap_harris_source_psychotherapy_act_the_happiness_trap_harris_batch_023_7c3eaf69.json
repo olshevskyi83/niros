@@ -1,0 +1,57 @@
+{
+  "created_at": "2026-07-07T21:43:47+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_023_7c3eaf69",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative thoughts",
+      "negative feelings",
+      "doubts",
+      "anxiety",
+      "beliefs about emotional control"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Potential difficulty for individuals who require immediate symptom reduction or have severe distress that impairs functioning",
+      "May be less suitable for those who interpret acceptance as resignation or lack of motivation"
+    ],
+    "evidence_text": "5a. In order for me to do something important, I have to get rid of all my doubts.\n\n---\n\n5b. I can do something important, even when doubts are present.\n\n---\n\n6a. When negative thoughts and feelings arise, it’s important to reduce or get rid of them as fast as\npossible.\n\n---\n\n6b. Trying to reduce or get rid of negative thoughts and feelings frequently causes problems. If I\nsimply allow them to be, then they will change as a natural part of living.\n\n---\n\n7a. The best method of managing negative thoughts and feelings is to analyse them; then utilise\nthat knowledge to get rid of them.\n\n---\n\n7b. The best method of managing negative thoughts and feelings is to acknowledge their presence\nand let them be, without having to analyse or judge them.\n\n---\n\n8a. I will become ‘happy’ and ‘healthy’ by improving my ability to avoid, reduce or get rid of\nnegative thoughts and feelings.\n\n---\n\n8b. I will become ‘happy’ and ‘healthy’ by allowing negative thoughts and feelings to come and go\nof their own accord, and learning to live effectively when they are present.\n\n---\n\n9a. If I can’t suppress or get rid of a negative emotional reaction, it’s a sign of personal failure or\nweakness.\n\n---\n\n9b. The need to control or get rid of a negative emotional reaction is a problem in itself.\n\n---\n\n10a. Having negative thoughts and feelings is an indication that I’m psychologically unhealthy or\n‘I’ve got problems”.\n\n---\n\n10b. Having negative thoughts and feelings means I’m a normal human being.\n\n---\n\n11a. People who are in control of their lives can generally control how they feel.\n\n---\n\n11b. People who are in control of their lives do not need to try to control their feelings.\n\n---\n\n12a. It is not okay to feel anxious and I try hard to avoid it.\n\n---\n\n12b. I don’t like anxiety, but it’s okay to feel it.\n\n---\n\n13a. Negative thoughts and feelings are a sign that there is something wrong with my life.\n\n---\n\n13b. Negative thoughts and feelings are an inevitable part of life for everyone.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_023_7c3eaf69",
+    "extractor": "openai",
+    "generation_rules": [
+      "Contrast between control/elimination versus acceptance of internal experiences",
+      "Reframing negative internal experiences as normal and non-pathological",
+      "Encouragement to allow experiences to be present without judgment or analysis"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "psychological_function": "Challenges maladaptive beliefs about the necessity of controlling or eliminating negative internal experiences and normalizes the presence of such experiences as part of being human.",
+    "repetition_rules": [
+      "Repetition of paired statements contrasting control versus acceptance to reinforce therapeutic perspective"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_023",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "negative thoughts and feelings",
+      "doubts",
+      "anxiety",
+      "control",
+      "acceptance"
+    ],
+    "therapeutic_function": "Facilitates acceptance of negative thoughts and feelings rather than attempting to control, reduce, or eliminate them, promoting psychological flexibility and effective living despite their presence.",
+    "voice_rules": [
+      "Use of paired contrasting statements (e.g., 5a vs 5b) to highlight alternative perspectives",
+      "Non-judgmental and validating tone towards negative experiences"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_023_7c3eaf69",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_023",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:47+00:00"
+}

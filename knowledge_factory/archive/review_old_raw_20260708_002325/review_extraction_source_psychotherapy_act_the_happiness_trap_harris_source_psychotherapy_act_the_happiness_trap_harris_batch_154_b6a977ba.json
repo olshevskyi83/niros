@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-07-07T21:51:03+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_154_b6a977ba",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative self-talk",
+      "internal critical narrative",
+      "feelings of loneliness",
+      "disconnection from present moment and social environment"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "When Soula turned 33, her best friend organised a surprise birthday party in a local cafe. At first\nSoula was delighted, thrilled that all her closest friends and family had come together in her honour.\nBut as the evening wore on she began to feel sad and lonely. When she looked around the room, her\nthinking self started telling her the ‘single and lonely’ story. ‘Look at all your friends. They’re all in\nlong-term relationships, or married and having kids, and you haven’t even got a boyfriend! You’re\n33 now, for heaven’s sake! Time’s running out ... Soon you’ll be too old to have kids ... Just look at\nthem all, having so much fun ... It’s easy to have fun when you’ve got someone to share your life\nwith. They don’t know what it’s like to go back to an empty apartment night after night, all by\nyourself ... What's the point of celebrating your birthday? All you have to look forward to is being\nold, lonely and miserable ... or else marrying someone completely unsuitable out of sheer\ndesperation, which isn’t any better.’\n\n---\n\nOn and on it went, Radio Doom and Gloom, broadcasting at full volume. And the more Soula tuned\nin to it, the more she lost track of the party going on all around her. She hardly tasted the food,\nhardly heard the conversation; she became increasingly disconnected from the warmth, joy and love\nthat surrounded her.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_154_b6a977ba",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphorical language to represent negative thoughts as a radio broadcast"
+    ],
+    "pause_rules": [
+      "No explicit pause rules indicated in the text"
+    ],
+    "psychological_function": "Demonstrating how internal narratives contribute to feelings of loneliness and sadness despite external positive circumstances",
+    "repetition_rules": [
+      "Repetitive negative thoughts reinforcing feelings of despair and isolation"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_154",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Radio Doom and Gloom broadcasting at full volume"
+    ],
+    "therapeutic_function": "Highlighting the impact of negative self-talk on emotional experience and social disconnection",
+    "voice_rules": [
+      "Internal critical voice characterized by judgmental and catastrophic statements"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_154_b6a977ba",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_154",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:03+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:42:44+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_003_50518c89",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals struggling with emotional rigidity",
+      "people attempting to control or fix their emotional states",
+      "those experiencing dissatisfaction despite pursuit of happiness"
+    ],
+    "confidence": 0.8,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "Includes index.\nISBN 978-1-59030-584-3 (pbk. alk paper)\n1. Happiness. 1. Title.\nBF575.H27H375 2008\n158.1—de22\n2007042105\n\n---\n\nDedication\nTo my mother and father, for four decades of love, support, inspiration and encouragement. And to\nmy wife Carmel, whose love, wisdom, and generosity has enriched my life and opened my heart in\nways I would never have dreamed possible.\n\n---\n\nForeword\nThere is a tremendous irony in happiness. It comes from a root word meaning “by chance” or “an\noccurrence’, which in a positive sense connotes a sense of newness, wonder, and appreciation of\nchance occurrences. The irony is that people not only seek it, they try to hold on to it—especially to\navoid any sense of ‘unhappiness’. Unfortunately, these very control efforts can become heavy,\nplanned, closed, rigid and fixed.\n\n---\n\nHappiness is not just a matter of feeling good. If it were, drug abusers would be the happiest people\non the planet. Indeed, feeling good can be a very unhappy pursuit. It is not by accident that drug\nusers call their methods of doing so a ‘fix’—because they are chemically trying to hold something\nin place. Like a butterfly pinned to a table, however, happiness dies unless it is held lightly. Drug\nabusers are not the only ones. In the name of producing an emotional result we call happiness, most\nof us tend to engage in behaviour that is the exact opposite and then feel awful and inadequate with\nthe inevitable result. Until we wise up, we are all generally trying to get a ‘fix’ on happiness.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_003_50518c89",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphors to illustrate psychological concepts",
+      "Contrast rigid control with light acceptance",
+      "Emphasize the transient nature of emotional states"
+    ],
+    "pause_rules": [
+      "Pause after presenting the irony to allow reflection"
+    ],
+    "psychological_function": "Highlighting the paradox of seeking to control happiness leading to increased unhappiness; promoting psychological flexibility",
+    "repetition_rules": [
+      "Reiterate the concept of 'fixing' happiness to emphasize its futility"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_003",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "butterfly pinned to a table as a metaphor for holding happiness too tightly"
+    ],
+    "therapeutic_function": "Encouraging acceptance of happiness as a transient experience rather than a fixed state; reducing rigid control efforts over emotional states",
+    "voice_rules": [
+      "Use an explanatory and reflective tone",
+      "Incorporate irony to highlight paradoxes"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_003_50518c89",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_003",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:42:44+00:00"
+}

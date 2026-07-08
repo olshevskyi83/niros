@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:46:57+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_077_c09b2a6f",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Distracting or intrusive thoughts",
+      "Loss of attentional focus",
+      "Cognitive fusion with thoughts"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text."
+    ],
+    "evidence_text": "Take ten deep breaths, as slowly as possible. (You may prefer to do this with your eyes closed.)\nNow focus on the rise and fall of your rib cage, and the air moving in and out of your lungs. Notice\nthe sensations as the air flows in: your chest rising, your shoulders lifting, your lungs expanding.\nNotice what you feel as the air flows out: your chest falling, your shoulders dropping, the breath\nleaving your nostrils. Focus on completely emptying your lungs. Push out every last bit of air,\nfeeling your lungs deflate, and pause for a moment before breathing in again. As you breathe in,\nnotice how your tummy gently pushes outward.\n\n---\n\nNow let any thoughts and images come and go in the background, as if they were cars passing by\noutside your house. When a new thought or image appears, briefly acknowledge its presence, as if\nyou were nodding at a passing motorist. As you do this, keep your attention on the breath, following\nthe air, as it flows in and out of your lungs. You may find it helpful to silently say to yourself,\n“Thinking”, whenever a thought or image appears. Many people find this helps them to\nacknowledge and let go of the thought. Give it a go and if it’s helpful, keep doing it.\n\n---\n\nFrom time to time a thought will capture your attention; it will “hook you’ and ‘carry you away”, so\nthat you lose track of the exercise. The moment you realise you’ve been hooked, take a second to\nnotice what distracted you; then gently ‘unhook’ yourself and refocus on your breathing.\n\n---\n\nNow read through the instructions once more, then put the book down and give this a go.\nrer\n\n---\n\nHow did you go? Most people get hooked up and carried away by their thoughts several times\nduring that exercise. This is how thoughts typically affect us: they reel us in, pulling our attention\naway from what we’re doing. (So although we may say that our mind wanders, this is not accurate.\nIn reality, it’s our attention that wanders.)",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_077_c09b2a6f",
+    "extractor": "openai",
+    "generation_rules": [
+      "Instruct to take slow, deep breaths focusing on physical sensations of breathing",
+      "Encourage noticing thoughts without engagement",
+      "Use metaphor of passing cars to externalize thoughts",
+      "Prompt silent labeling of thoughts with the word 'Thinking'",
+      "Guide to notice when attention is hooked and gently return focus to breath"
+    ],
+    "pause_rules": [
+      "Pause briefly after fully exhaling before inhaling again to enhance bodily awareness."
+    ],
+    "psychological_function": "Promotes recognition and detachment from intrusive or distracting thoughts, enhancing attentional control and acceptance.",
+    "repetition_rules": [
+      "Repeat the instruction to acknowledge thoughts and return focus to breath whenever attention is lost."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_077",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Thoughts and images as cars passing by outside a house",
+      "Acknowledging thoughts as nodding at passing motorists"
+    ],
+    "therapeutic_function": "Facilitates mindful awareness of breathing to anchor attention and reduce distraction by thoughts.",
+    "voice_rules": [
+      "Use gentle, guiding, and non-judgmental tone",
+      "Encourage self-compassion and patience during lapses in attention"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_077_c09b2a6f",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_077",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:57+00:00"
+}

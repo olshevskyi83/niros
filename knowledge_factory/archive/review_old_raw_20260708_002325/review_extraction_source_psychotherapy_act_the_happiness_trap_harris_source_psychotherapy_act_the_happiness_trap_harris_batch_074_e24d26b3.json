@@ -1,0 +1,49 @@
+{
+  "created_at": "2026-07-07T21:46:45+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_074_e24d26b3",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "intrusive or distressing thoughts",
+      "ruminative thinking patterns",
+      "fusion with thoughts"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text."
+    ],
+    "evidence_text": "Close your eyes for one minute and simply notice what your mind does. Stay on the lookout for any\nthoughts or images, as if you were a wildlife photographer waiting for an exotic animal to emerge\nfrom the undergrowth. If no thoughts or images appear, keep watching; sooner or later they will\nshow themselves—I guarantee it. Notice where those thoughts or images seem to be located: in\nfront of you, above you, behind you, to one side of you, or within you? Once you’ve done this for a\nminute, open your eyes again.\n\n---\n\nThat’s all there is to it. So read through these instructions once again; then put down the book and\ngive it a go.\nEx\n\n---\n\nWhat you experienced were two distinct processes going on. First there was the process of thinking\n—in other words, some thoughts or images appeared. Then there was the process of observing; that\nis, you were able to notice or observe those thoughts and images. It’s important to experience the\ndistinction between thinking and observing, because as the book goes on, we’ll be using each\nprocess in different ways. So just try the above exercise once more. Close your eyes for about a\nminute, notice what thoughts or images appear, and notice where they seem to be located.\nx\n\n---\n\nHopefully, this little exercise gave you a sense of distance between you and your thoughts: thoughts\nand images appeared, then disappeared again, and you were able to notice them come and go.\nAnother way of putting this is that your thinking self produced some thoughts, and your observing\nself observed them.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_074_e24d26b3",
+    "extractor": "openai",
+    "generation_rules": [
+      "Instruct to close eyes for one minute and notice arising thoughts or images without engagement.",
+      "Encourage noticing the spatial location of thoughts or images.",
+      "Repeat the exercise to reinforce the distinction between thinking and observing."
+    ],
+    "pause_rules": [
+      "Include a one-minute pause with eyes closed to allow observation of thoughts and images."
+    ],
+    "psychological_function": "Enhances mindfulness by cultivating the ability to notice thoughts and images as transient mental events separate from the self.",
+    "repetition_rules": [
+      "Repeat the noticing exercise multiple times to deepen experiential understanding."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_074",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "wildlife photographer waiting for an exotic animal to emerge from the undergrowth"
+    ],
+    "therapeutic_function": "Facilitates experiential awareness of the distinction between thinking and observing processes to create psychological distance from thoughts.",
+    "voice_rules": [
+      "Use a calm, guiding voice that encourages gentle observation without judgment."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_074_e24d26b3",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_074",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:45+00:00"
+}

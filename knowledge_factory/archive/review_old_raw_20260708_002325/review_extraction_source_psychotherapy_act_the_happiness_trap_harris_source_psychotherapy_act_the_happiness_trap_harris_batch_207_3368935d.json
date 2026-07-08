@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:53:58+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_207_3368935d",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing value confusion",
+      "people struggling with self-doubt about their goals",
+      "those seeking meaningful and fulfilling life direction"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text"
+    ],
+    "evidence_text": "Our lives revolve around relationships —with ourselves, others and everything we encounter in the\nworld around us. The more you act in line with your values, the better will be the quality of those\nrelationships and therefore the more enjoyable and rewarding your life will be.\n\n---\n\nIn the next few chapters we’re going to look at how you can use your values to set purposeful goals,\ncreate meaning and find fulfilment. In the meantime, reflect further on this chapter. Discuss your\nvalues with friends or loved ones. Write about those values in more detail. And look for\nopportunities to act on them in daily life.\n\n---\n\nThe demons are getting restless. They know what you’re up to: you’re plotting a new course,\nplanning to steer that boat toward land. Naturally, they want to stop you. As you worked through\nthose exercises in the last chapter, a number of different demons may have challenged you. Here are\na few of the more common ones.\n\n---\n\nTHE ‘I DON’T KNOW IF THESE ARE MY REAL VALUES’ DEMON\n\n---\n\nThis is a very sneaky demon. It seeks to undermine your confidence by having you doubt your\nanswers. The way to deal with it is to answer these questions:\n\n---\n\n1. Ifa miracle could happen so that you automatically had the full approval of everyone who\nmatters to you (and therefore you weren’t trying to please or impress anyone), then what sort of\nthings would you do with your life and what sort of person would you try to be?\n\n---\n\n2. If you weren’t guided by other people’s judgements and opinions, what would you do\ndifferently in your life?\n\n---\n\nThe questions above are to help you clarify what you really want, so that you are living by your\nown values and not someone else’s. The next three questions ask you to think about your death, as a\nway of clarifying what’s important in life:",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_207_3368935d",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use reflective questioning to clarify values",
+      "Encourage discussion and writing about values",
+      "Promote acting in line with clarified values in daily life"
+    ],
+    "pause_rules": [
+      "Pause for reflection after value clarification questions and exercises"
+    ],
+    "psychological_function": "Reducing self-doubt and increasing self-acceptance by distinguishing personal values from external judgments",
+    "repetition_rules": [
+      "Revisit and reflect on values regularly through discussion and writing exercises"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_207",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "demons representing internal doubts and challenges",
+      "steering a boat toward land as a metaphor for life direction"
+    ],
+    "therapeutic_function": "Clarifying personal values to guide purposeful action and improve relationship quality",
+    "voice_rules": [
+      "Use metaphorical language to personify internal challenges (e.g., demons)",
+      "Adopt an encouraging and guiding tone"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_207_3368935d",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_207",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:58+00:00"
+}

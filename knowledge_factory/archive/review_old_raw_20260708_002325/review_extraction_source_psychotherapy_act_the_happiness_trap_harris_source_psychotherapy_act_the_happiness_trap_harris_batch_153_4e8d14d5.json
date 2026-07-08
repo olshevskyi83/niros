@@ -1,0 +1,60 @@
+{
+  "created_at": "2026-07-07T21:51:00+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_153_4e8d14d5",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "distracting thoughts",
+      "wandering attention",
+      "automatic pilot behavior",
+      "lack of present-moment awareness"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Not specified in the text; confidence in contraindications is low."
+    ],
+    "evidence_text": "Pick an activity that’s part of your daily morning routine, such as brushing your teeth, combing\nyour hair or taking a shower. Totally focus on what you are doing, using all your five senses. For\nexample, when you’re in the shower notice the different sounds of the water: as it sprays out of the\nnozzle, as it hits your body, as it gurgles down the drain. Notice the temperature of the water and\nthe feel of it in your hair. Notice the sensations of the water running down your back and legs.\nNotice the smell of the soap and the shampoo and how they feel against your skin. Notice the visual\npatterns of the water on the walls or curtain. Notice the clouds of steam billowing upward. Notice\nthe movements of your arms as you scrub or shampoo.\n\n---\n\nWhen thoughts and feelings arise, acknowledge them, let them be and refocus on the shower. As\nsoon as you realise that your attention has wandered off, thank your mind and refocus on the\nshower.\n\n---\n\nFor starters, practise connecting with one part of your morning routine each day. Then, as your\nability improves, extend it to other parts.\n\n---\n\nIn the next three chapters we’\nll see how connection skills help us deal with painful life experiences.\nIn the meantime, practise seeing the world through new eyes. And whenever you realise that the\ntime machine has carried you off, bring yourself back to the here and now.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_153_4e8d14d5",
+    "extractor": "openai",
+    "generation_rules": [
+      "Select a daily morning routine activity",
+      "Focus fully on sensory experiences using all five senses",
+      "Acknowledge arising thoughts and feelings without judgment",
+      "Thank the mind when attention wanders and refocus on the activity",
+      "Gradually extend practice to other parts of the routine"
+    ],
+    "pause_rules": [
+      "Pause to notice when attention has wandered and to acknowledge thoughts before refocusing on the sensory experience."
+    ],
+    "psychological_function": "Facilitates attention regulation by acknowledging distracting thoughts and gently redirecting focus back to the present sensory experience.",
+    "repetition_rules": [
+      "Practice daily with one part of the morning routine initially, then progressively include more parts as ability improves."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_153",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "shower",
+      "water sounds",
+      "temperature",
+      "sensations on skin",
+      "smell of soap and shampoo",
+      "visual patterns of water and steam",
+      "movements of arms"
+    ],
+    "therapeutic_function": "Enhances present-moment awareness and mindfulness through focused sensory engagement with routine activities.",
+    "voice_rules": [
+      "Use gentle, non-judgmental language",
+      "Encourage curiosity and acceptance of thoughts",
+      "Prompt awareness of sensory details"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_153_4e8d14d5",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_153",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:00+00:00"
+}

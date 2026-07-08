@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:45:17+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_048_5ad91f8d",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative self-evaluative thoughts",
+      "automatic negative thoughts",
+      "self-critical narratives"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text"
+    ],
+    "evidence_text": "Now imagine taking that same thought and singing it to yourself to the tune of ‘Happy Birthday’.\nSing it silently inside your head. Notice what happens.\nEr\n\n---\n\nNow go back to the thought in its original form. Once again, hold it in your mind and believe it as\nmuch as you can, for about ten seconds. Notice how it affects you.\n3K 2K\n\n---\n\nNow imagine taking that thought and singing it to the tune of ‘Jingle Bells’. Sing it silently inside\nyour head. Notice what happens.\n3 2\n\n---\n\nAfter doing this exercise, you probably found that by now you’re just not taking that thought quite\nso seriously; you’re just not buying into it as much. Notice that you haven’t challenged the thought\nat all. You haven’t tried to get rid of it, debated whether it’s true or false, or tried to replace it with a\npositive thought. So what has happened? Basically, you have ‘defused’ it. By taking the thought\nand putting it to music, you have realised that it is just made up of words, like the lyrics of a song.\n\n---\n\nThe mind loves telling stories; in fact, it never stops. All day, every day, it tells you stories about\nwho you are, what you’re like, what you should be doing with your life, what other people think of\nyou, what’s wrong with the world, what will happen in the future, what went wrong in the past, and\nso on. It’s like a radio that never stops broadcasting.\n\n---\n\nUnfortunately, a lot of these stories are really negative—stories such as, ‘I’m not good enough’,\n‘I’m stupid’, ‘I’m so fat’, ‘I hate my thighs’, ‘My life is terrible’, “There”s no hope for the future”,\n‘Nobody likes me”, “This relationship is doomed’, ‘I can’t cope’, “I will never be happy’, and so on.\n\n---\n\nThere’s nothing abnormal in this. As mentioned earlier, research shows that about 80 per cent of\nour thoughts have some degree of negative content. But you can see how these stories, if taken as\nthe absolute truth, can readily feed into anxiety, depression, anger, low self-esteem, self-doubt and\ninsecurity.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_048_5ad91f8d",
+    "extractor": "openai",
+    "generation_rules": [
+      "Take a negative thought and silently sing it to a familiar tune",
+      "Hold the original thought and notice its impact",
+      "Compare the emotional response between the original thought and the sung version"
+    ],
+    "pause_rules": [
+      "Pause after holding the original thought for about ten seconds to notice its effect"
+    ],
+    "psychological_function": "Reducing the impact and seriousness of negative self-referential thoughts by changing their context and perception",
+    "repetition_rules": [
+      "Repeat the exercise with different tunes to observe changes in believability and emotional impact"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_048",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "singing negative thoughts to familiar tunes ('Happy Birthday', 'Jingle Bells')",
+      "mind as a radio broadcasting stories"
+    ],
+    "therapeutic_function": "Defusion of negative thoughts by altering their form and reducing their believability without challenging their content",
+    "voice_rules": [
+      "Silent internal singing of the thought to a familiar tune"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_048_5ad91f8d",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_048",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:17+00:00"
+}

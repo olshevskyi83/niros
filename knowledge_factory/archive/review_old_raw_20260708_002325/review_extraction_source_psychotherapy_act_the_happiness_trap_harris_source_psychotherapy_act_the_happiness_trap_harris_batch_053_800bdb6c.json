@@ -1,0 +1,49 @@
+{
+  "created_at": "2026-07-07T21:45:33+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_053_800bdb6c",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "self-critical thoughts",
+      "negative thoughts",
+      "unhelpful thoughts",
+      "thoughts that lower motivation"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if this approach is suitable for individuals who may find questioning thoughts distressing or who require different therapeutic methods"
+    ],
+    "evidence_text": "The more pragmatic approach is to ask, ‘Is this thought helpful? Does it help me take action to\ncreate the life I want?” If it is helpful, then pay attention. If it’s not, then defuse it. But, I hear you\nask, what if that negative thought actually is helpful? What if telling myself, ‘I’m fat’ actually\nprompts me to lose some weight? Well if a negative thought does actually motivate you, then by all\nmeans make use of it. But almost always, self-critical thoughts of this nature do not motivate you to\ntake effective action. Usually such thoughts, if taken literally, just make you feel guilty, ashamed,\ndepressed, frustrated or anxious. And usually people with weight problems react to these unpleasant\nemotions by eating more, in a futile attempt to feel better! In ACT we place great emphasis on\ntaking effective action to improve your quality of life. In later chapters we’\nll look at how to do this.\nFor now, suffice to say, thoughts that criticise you, insult you, judge you, put you down or blame\nyou are likely to lower your motivation rather than increase it. So when troublesome thoughts pop\ninto your head, it may be useful to ask yourself one or more of the following questions:\n\n---\n\n* Is this an old thought? Have I heard this one before? Do I gain anything useful from listening to\nit again?\n\n---\n\n* Does this thought help me take effective action to improve my life?\n\n---\n\nAt this point you may be wondering, how can you tell whether a thought is helpful or not? If you’re\nnot sure, you can ask yourself:\n\n---\n\n* Does it help me to build the sort of relationships I'd like?\n\n---\n\n* Does it help me to connect with what I truly value?\n\n---\n\n* Does it help me to make the most of my life as it is in this moment?\n\n---\n\n* Does it help me to take effective action to change my life for the better?\n\n---\n\n* Does it help me, in the long term, to create a rich, full and meaningful life?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_053_800bdb6c",
+    "extractor": "openai",
+    "generation_rules": [
+      "Ask if the thought is helpful in taking effective action",
+      "Assess if the thought supports building relationships, connecting with values, or improving life",
+      "Defuse thoughts that do not help in creating a meaningful life"
+    ],
+    "pause_rules": [
+      "Pause to reflect on whether a thought helps in taking effective action or improving life before engaging with it"
+    ],
+    "psychological_function": "Reduces the impact of negative self-critical thoughts that cause guilt, shame, depression, frustration, or anxiety; increases motivation by focusing on thoughts that support valued actions.",
+    "repetition_rules": [
+      "Recognize repeated or old thoughts and evaluate their usefulness before attending to them"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_053",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Helps individuals evaluate the usefulness of their thoughts to promote effective action and improve quality of life by defusing unhelpful self-critical thoughts.",
+    "voice_rules": [
+      "Use pragmatic, questioning voice to evaluate thoughts",
+      "Encourage self-inquiry about the usefulness of thoughts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_053_800bdb6c",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_053",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:33+00:00"
+}

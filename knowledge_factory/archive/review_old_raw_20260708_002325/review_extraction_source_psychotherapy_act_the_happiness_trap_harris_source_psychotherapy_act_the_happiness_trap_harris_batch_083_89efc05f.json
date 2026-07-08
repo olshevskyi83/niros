@@ -1,0 +1,46 @@
+{
+  "created_at": "2026-07-07T21:47:18+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_083_89efc05f",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant memories such as failure, rejection, humiliation, embarrassment",
+      "traumatic memories such as rape, torture, child abuse, domestic violence"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Do not use defusion techniques alone for deeply distressing traumatic memories; seek appropriately trained therapist"
+    ],
+    "evidence_text": "However when working with memories, you need to be careful. While the techniques in this chapter\nare helpful for coming to terms with many unpleasant memories, such as times you have failed,\nscrewed up, been rejected, humiliated or embarrassed, they may not be appropriate for more\ntraumatic memories. If you are deeply distressed by traumatic memories of rape, torture, child\nabuse, domestic violence or other serious incidents, I don’t recommend you use these methods by\nyourself. Instead, you should learn how to defuse such memories with an appropriately trained\ntherapist.\n\n---\n\nNo technique known to humanity is 100 per cent reliable and defusion techniques are no exception.\nIf you find that a particular technique doesn’t work, just notice what it’s like to be fused and move\non to a different one. For each technique first read through the instructions, then bring to mind a\ntroublesome image that tends to recur. If it’s a moving image, condense it into a ten-second ‘video\nclip’. Next put the book down and try the technique. If any technique seems inappropriate, don’t do\nit.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_083_89efc05f",
+    "extractor": "openai",
+    "generation_rules": [
+      "Read instructions before applying technique",
+      "Bring to mind a troublesome image",
+      "Condense moving images into a ten-second video clip",
+      "Put the book down before trying the technique",
+      "If a technique seems inappropriate, do not do it",
+      "If a technique does not work, notice fusion and try a different technique"
+    ],
+    "pause_rules": [],
+    "psychological_function": "Reducing fusion with distressing memories to decrease emotional distress",
+    "repetition_rules": [],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_083",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "troublesome image",
+      "ten-second video clip"
+    ],
+    "therapeutic_function": "Defusion from unpleasant or traumatic memories",
+    "voice_rules": []
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_083_89efc05f",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_083",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:18+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:47:00+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_078_b64f2532",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "intrusive or unwanted thoughts",
+      "ruminative thinking",
+      "cognitive fusion"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "None explicitly stated in the text"
+    ],
+    "evidence_text": "By regularly practising this technique, you will learn three important skills:\n\n---\n\n1. How to let thoughts come and go without focusing on them.\n\n---\n\n2. How to recognise when you’ve been hooked by your thoughts.\n\n---\n\n3. How to gently unhook yourself from thoughts and refocus your attention.\n\n---\n\nWhen practising this technique, notice the distinction between your thinking self and your\nobserving self. (The observing self focuses on the breath, while the thinking self chatters away in\nthe background.) Notice also that this is an acceptance strategy, not a control strategy. We aren’t\ntrying to change, avoid or get rid of unwanted thoughts; we’re simply allowing them to be there, to\ncome and go as they please.\n\n---\n\nFortunately, this is an easy technique to practise, because you can do it anytime, anywhere.\nTherefore aim to practise this exercise throughout the day while you’re stuck at traffic lights,\nwaiting in line at a store, while you’re on hold on the telephone, waiting for someone to get ready,\nduring television commercial breaks, when you’re having your morning tea or coffee, and in bed\nlast thing at night or before you get up. Basically, try it anytime you have a moment to spare. (If\nyou don’t have time for the full ten breaths, even three or four can be useful.) In particular, try it\nanytime you realise that you’re all caught up in your thoughts.\n\n---\n\nRemember when you’re doing this technique, it doesn’t matter how many times you get hooked.\nEach time you notice it and unhook yourself, you’re getting more proficient at a valuable skill.\n\n---\n\nWhen doing this technique, let go of any expectations; simply notice what effect it has when you do\nit. Many people find it quite relaxing, but please don’t regard it as a relaxation technique. When\nrelaxation occurs, remember, it’s merely a beneficial byproduct, not the main aim. (Obviously,\nenjoy it when it does occur, but don’t come to expect it, or sooner or later you’re bound to be\ndisappointed.)",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_078_b64f2532",
+    "extractor": "openai",
+    "generation_rules": [
+      "Practice anytime and anywhere when a moment is available",
+      "Use brief sessions (3-10 breaths) if time is limited",
+      "Notice when hooked by thoughts and gently unhook"
+    ],
+    "pause_rules": [
+      "Pause to notice the breath and the distinction between observing and thinking self",
+      "Allow thoughts to come and go without interference"
+    ],
+    "psychological_function": "Promotes acceptance of thoughts without trying to control or avoid them, enhancing mindfulness and self-observation.",
+    "repetition_rules": [
+      "Repeatedly notice when hooked by thoughts and unhook",
+      "Each instance of unhooking increases proficiency"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_078",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "distinction between thinking self and observing self",
+      "breath as focus of observing self"
+    ],
+    "therapeutic_function": "Teaching skills to observe thoughts without attachment, recognize when one is caught up in thoughts, and gently disengage from them to refocus attention.",
+    "voice_rules": [
+      "Use an accepting, non-judgmental tone",
+      "Avoid framing the technique as a relaxation method",
+      "Encourage letting go of expectations"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_078_b64f2532",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_078",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:00+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "created_at": "2026-07-07T21:43:52+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_024_7d6d0801",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "control issues",
+      "avoidance of unpleasant thoughts and feelings",
+      "anxiety",
+      "depression"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "14a. I have to feel good before I can do something that’s important and challenging.\n\n---\n\n14b. I can do something that’s important and challenging even if I’m feeling anxious or depressed.\n\n---\n\n15a. I try to suppress thoughts and feelings that I don’t like by just not thinking about them.\n\n---\n\n15b. I don’t try to suppress thoughts and feelings that I don’t like. I just let them come and go of\ntheir own accord.\n\n---\n\nTo score your test, count the number of times you selected option ‘a’ or *b”. (Please keep a record\nof your score. At the end of this book, I’Il ask you to come back and do this test again.)\n\n---\n\nThe more times you selected option ‘a’, the greater the likelihood that control issues are creating\nsignificant suffering in your life. How so? Well, that’s the subject of the next chapter.\n\n---\n\nMichelle has tears streaming down her eyes. ‘What’s wrong with me?’ she asks. ‘I have a great\nhusband, great kids, a great job. I’m fit; I’m healthy. We have a lovely house. We’re well off. We\nlive in a beautiful area. So why aren’t I happy?’\n\n---\n\nIt’s a good question. Michelle seems to have everything she wants in life, so what’s going wrong?\nWe’ll come back to Michelle later in this chapter, but for now let’s take a look at what's happening\nin your life.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_024_7d6d0801",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use dichotomous statements contrasting control versus acceptance of thoughts and feelings."
+    ],
+    "pause_rules": [],
+    "psychological_function": "Reduces suffering caused by control issues and avoidance of unpleasant thoughts and feelings.",
+    "repetition_rules": [
+      "Repeat the test at the end of the book to assess changes over time."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_024",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Encourages acceptance of difficult emotions and promotes engagement in meaningful activities despite negative feelings.",
+    "voice_rules": [
+      "Use direct, reflective questioning to prompt self-assessment."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_024_7d6d0801",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_024",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:52+00:00"
+}

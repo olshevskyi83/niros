@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:44:36+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_038_3428cae1",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "painful thoughts",
+      "unpleasant thoughts",
+      "unhelpful thoughts",
+      "self-limiting beliefs",
+      "harsh self-criticisms"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "Keep a journal, or spend a few minutes each day reflecting on this. The faster you can recognise\nwhen you’re stuck in the trap, the faster you can lift yourself out of it. Does this mean you just have\nto put up with bad feelings and resign yourself to a life of pain and misery? Not at all. In Part 2 of\nthis book you will learn a radically different way of handling unwelcome thoughts and feelings.\nYou'll discover how to take away their power so they can’t hurt you, how to rise above them\ninstead of getting crushed by them. You’ll learn how to let them go rather than struggle with them.\nAnd you will learn how to see them in a new light, so they cease to be the frightening phantoms of\nold.\n\n---\n\nBut don’t rush. Before reading on, take a few days. Notice your attempts at control and how they\n\n---\n\nare working for you. Learn to see the trap for what it is. And look forward to the changes soon to\ncome.\n\n---\n\nAcceptance and Commitment Therapy is based upon six core principles which work together to\nhelp you achieve two main goals: a) to effectively handle painful thoughts and feelings, and b) to\ncreate a rich, full and meaningful life. Part 2 of this book is mainly concerned with the first of these\ngoals: transforming your inner psychological world. Part 3 of the book is mainly concerned with the\nsecond goal: creating a life worth living. As we progress through the book, we will work through\nthese six core principles, one by one, but first let’s take a very brief look at all of them.\n\n---\n\nDefusion means relating to your thoughts in a new way, so they have much less impact and\ninfluence over you. As you learn to defuse painful and unpleasant thoughts, they will lose their\nability to frighten, disturb or depress you. And as you learn to defuse unhelpful thoughts, such as\nself-limiting beliefs and harsh self-criticisms, they will have much less influence over your\nbehaviour.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_038_3428cae1",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage daily reflection or journaling to increase awareness of being stuck in the trap.",
+      "Teach defusion techniques to relate differently to thoughts.",
+      "Promote acceptance rather than struggle with unwanted thoughts and feelings."
+    ],
+    "pause_rules": [
+      "Advise taking a few days before progressing to new material to notice attempts at control and their effects."
+    ],
+    "psychological_function": "Transforming the inner psychological world by reducing the power of negative thoughts and feelings, enabling individuals to rise above them, let them go, and see them in a new light.",
+    "repetition_rules": [
+      "Reinforce recognition of the trap and attempts at control through repeated reflection.",
+      "Repeatedly practice defusion to reduce thought impact."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_038",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "trap",
+      "phantoms of old"
+    ],
+    "therapeutic_function": "Helping individuals recognize when they are stuck in unhelpful thought patterns and teaching them to defuse painful, unpleasant, and unhelpful thoughts to reduce their impact and influence.",
+    "voice_rules": [
+      "Use a guiding and encouraging tone that normalizes struggle and promotes gradual learning.",
+      "Avoid rushing the process; encourage pacing and patience."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_038_3428cae1",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_038",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:36+00:00"
+}

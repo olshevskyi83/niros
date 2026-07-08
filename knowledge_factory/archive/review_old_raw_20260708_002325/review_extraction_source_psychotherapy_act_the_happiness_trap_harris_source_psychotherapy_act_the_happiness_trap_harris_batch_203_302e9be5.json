@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:53:46+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_203_302e9be5",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals struggling with relationship control issues",
+      "people seeking to clarify personal values in relationships",
+      "clients aiming to improve interpersonal behavior"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective or potentially frustrating for individuals with severe control issues or those unable to accept personal responsibility; caution with clients who may misinterpret focus on self as blame."
+    ],
+    "evidence_text": "5. What sort of ongoing activities do you want to do with your partner?\n\n---\n\nYoull notice that these are virtually identical to the first set of questions. Again, they’re all about\nhow you want to be, not about how you want your partner to be. Why? Because in any relationship,\nyou only have control over one person and that’s you. How your partner behaves is up to your\n\n---\n\npartner. Of course, it is in your control to request changes from your partner and to set boundaries\non what you will and won’t accept. And as I said, this will be far more effective if you’re behaving\nas the ‘ideal you’. These same principles apply to all the relationships you have with friends,\nfamily, colleagues, employees and anyone you'll ever meet! Remember the golden rule: treat\nothers as you’d like them to treat you.\n\n---\n\nSometimes, as a response to the above questions, my clients jot downa long list of the qualities\nthey’re looking for in a partner. But in describing the sort of partner you want, you’re describing a\ngoal. To get to your values in this domain, you need to ask, “If I did find the partner I want, how\nwould I like to be in that relationship? What personal qualities would I like to bring to it?’ (Of\ncourse, it can be very useful to think about the sort of partner you’d like—but that’s not what this\nexercise is about.)\n\n---\n\n2. If you could be the ‘ideal you’, how would you behave toward your friends?\n\n---\n\n3. What personal qualities would you like to bring to these friendships?\n\n---\n\n4. What sort of friendships do you want to build?\n\n---\n\n5. What sort of ongoing activities do you want to do with your friends?\n\n---\n\nOnce again, these questions focus on what’s in your control: how you behave as a friend. If you’ve\nwritten about the sort of friends you’d like, that’s useful. You can set yourself a goal to go out and\nmeet people like that. But to clarify your values on friendship, you need to ask yourself, ‘What sort\nof friend would I like to be?’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_203_302e9be5",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus questions on how the individual wants to be in relationships, not on how others should be",
+      "Encourage reflection on personal qualities to bring to relationships",
+      "Promote setting boundaries based on one’s own behavior as the ideal self"
+    ],
+    "pause_rules": [
+      "Allow reflective pauses after questions to enable introspection on personal values and behaviors."
+    ],
+    "psychological_function": "Facilitates acceptance of personal responsibility and control, reduces frustration from trying to change others, and supports development of ideal self-concept in social contexts.",
+    "repetition_rules": [
+      "Repeat focus on self-behavior and personal qualities across different relationship contexts to reinforce internal locus of control."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_203",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "‘ideal you’ concept",
+      "golden rule: treat others as you’d like them to treat you"
+    ],
+    "therapeutic_function": "Encourages individuals to focus on their own behavior and personal qualities in relationships rather than attempting to control others, promoting self-awareness and value clarification.",
+    "voice_rules": [
+      "Use direct, reflective questioning",
+      "Maintain a supportive and non-judgmental tone",
+      "Emphasize personal agency and control"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_203_302e9be5",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_203",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:46+00:00"
+}

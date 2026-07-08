@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:53:43+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_202_3fdc8232",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing interpersonal conflict",
+      "people struggling with relationship boundaries",
+      "those seeking to improve intimate relationships"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "May be less effective or require caution in cases of severe abuse where immediate safety interventions are necessary."
+    ],
+    "evidence_text": "Notice that these questions are all about you: how you would like to be and what you would like to\ncontribute to these relationships. Why? Because the only aspect of a relationship you have control\nover is the way you behave. You have no control over what the other person thinks, feels or\nbehaves. Sure, you can influence them, but you can’t control them. And what's the best way to\ninfluence them? With your actions, of course! And those actions will be most effective when\nthey’re aligned with your values.\n\n---\n\nFor example, if a relative is treating you poorly, you have every right to request that they change\ntheir behaviour. But they are far more likely to go along with your request if you are being the\n‘ideal you’: loving, supportive, accepting, caring and helpful. If you’re all caught up in anger,\nbitterness or resentment, don’t expect much of a positive response from the other person.\n\n---\n\nOn the same note, if you’re being true to your values and yet your relative continues to treat you\npoorly, then it makes sense to spend less time with them. After all, you have values about looking\nafter your own health and wellbeing—and those need to be considered too. It may even be the case\nthat you need to stop seeing this relative altogether if they’re continually hostile or abusive.\nRemember: being helpful, loving and supportive doesn’t mean subjecting yourself to abuse. At the\nsame time, the last of the questions above is important to consider, because even if your\nrelationships have been bad in the past, you can start building better ones right now.\n\n---\n\nValues Domain No.2: Marriage and Other Intimate Relationships\n\n---\n\n1. What sort of partner would you like to be in an intimate relationship?\n\n---\n\n2. What personal qualities would you like to develop within this relationship?\n\n---\n\n3. How would you treat your partner if you were the ‘ideal you’ in this relationship?\n\n---\n\n4. What sort of relationship do you want to build?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_202_3fdc8232",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus on self-behavior rather than others' reactions",
+      "Align actions with personal values",
+      "Encourage setting boundaries when others behave poorly"
+    ],
+    "pause_rules": [
+      "Allow reflection after questions about ideal self and values",
+      "Pause to consider emotional responses to relationship scenarios"
+    ],
+    "psychological_function": "Enhances self-awareness and acceptance of control over one's own actions while reducing attempts to control others; encourages emotional regulation and value-consistent behavior.",
+    "repetition_rules": [
+      "Reinforce the distinction between control over self versus others",
+      "Repeat the importance of acting in accordance with values"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_202",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "'ideal you' as a model for behavior",
+      "values as guiding principles for actions"
+    ],
+    "therapeutic_function": "Promotes behavior change aligned with personal values to improve relationships and personal wellbeing.",
+    "voice_rules": [
+      "Use direct, empowering language emphasizing personal agency",
+      "Adopt a compassionate and non-judgmental tone"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_202_3fdc8232",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_202",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:43+00:00"
+}

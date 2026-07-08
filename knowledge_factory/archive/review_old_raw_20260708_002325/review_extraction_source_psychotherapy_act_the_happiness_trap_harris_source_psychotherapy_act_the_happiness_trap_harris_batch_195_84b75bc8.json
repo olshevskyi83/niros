@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:53:19+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_195_84b75bc8",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing loss and low mood",
+      "people in low-paying or unsatisfying jobs",
+      "those struggling with feelings of helplessness"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text"
+    ],
+    "evidence_text": "This job was totally unrelated to Fred’s business experience. His duties involved maintaining order\nand security in the boarding house, ensuring that the kids did their homework and making sure they\nwent to bed at the right time. He would also sleep in the boarding house overnight and prepare the\nchildren for school the next morning.\n\n---\n\nMany people in Fred’s shoes would have been deeply depressed. After all, he’d lost his business,\nhis house and a huge amount of money, and now he was stuck in a low-paying job that kept him\naway from his wife five nights a week!\n\n---\n\nBut Fred realised he had two choices: he could dwell on his losses, beat himself up and make\nhimself miserable, or he could make the most of it.\n\n---\n\nFred had always valued coaching, mentoring and supporting others and now he decided to bring\nthese values into the workplace. So he began to teach the children useful skills, such as how to iron\ntheir clothes and cook simple meals. He also organised the school’s first-ever talent contest and\nhelped the kids film a humorous documentary about student life. On top of this, he became the\nstudents’ unofficial counsellor. Many of them came to him for help and advice in dealing with their\nvarious troubles: relationship difficulties, family issues, problems with studies and so on. None of\nthese things were part of Fred’s job description and he didn’t get any extra pay for doing them; he\ndid them purely and simply because he valued giving and caring. And as a result, what could have\nbeen a mundane job became work that was meaningful and satisfying.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_195_84b75bc8",
+    "extractor": "openai",
+    "generation_rules": [
+      "choose to focus on values and meaningful actions rather than losses",
+      "engage in activities that support and mentor others without expectation of reward"
+    ],
+    "pause_rules": [
+      "Not specified in the text"
+    ],
+    "psychological_function": "Promotes resilience, purpose, and positive engagement despite adverse life events",
+    "repetition_rules": [
+      "Not specified in the text"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_195",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "teaching useful skills",
+      "organising talent contest",
+      "filming humorous documentary",
+      "unofficial counselling"
+    ],
+    "therapeutic_function": "Reframing negative circumstances into meaningful and satisfying activities through values-based action and helping others",
+    "voice_rules": [
+      "first-person reflective narrative",
+      "emphasis on choice and agency"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_195_84b75bc8",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_195",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:19+00:00"
+}

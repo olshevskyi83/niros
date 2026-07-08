@@ -1,0 +1,43 @@
+{
+  "created_at": "2026-07-07T21:48:23+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_103_697e8429",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "uncomfortable feelings",
+      "emotional distress",
+      "addictive behaviors",
+      "avoidance strategies",
+      "panic disorder symptoms"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "But it doesn’t stop there. With our struggle switch ON, we are completely unwilling to accept the\npresence of these uncomfortable feelings, which means, not only do we get emotionally distressed\nby them, we also do whatever we can to get rid of them, or distract ourselves from them. For some\npeople, this means turning to drugs or alcohol, which then leads to addictions, relationship issues\nand a whole host of other messy problems. Others may turn to food as a distraction, which can then\nlead to obesity or eating disorders. Humans find an almost infinite number of ways to try to avoid or\nget rid of unpleasant feelings: from smoking and sex, to shopping and surfing the Internet. As we\nsaw earlier, most of these control strategies are no big deal, as long as they’re used in moderation,\nbut any of them is problematic if used excessively. For example, Pve had clients who developed\nhuge credit card debts from excessive shopping, and others who destroyed their relationships by\n\n---\n\nmaking unreasonable sexual demands. All these secondary problems, and the painful feelings\nassociated with them, fall under the heading ‘dirty discomfort’.\n\n---\n\n* We don’t waste time and energy fighting or avoiding them.\n\n---\n\n* We don’t generate all that ‘dirty discomfort’.\n\n---\n\n* We waste a huge amount of time and energy struggling with them.\n\n---\n\n* We create a lot of painful and unhelpful ‘dirty discomfort’.\n\n---\n\nTake the case of Rachel, a 43-year-old legal secretary. Rachel suffers from panic disorder, a\ncondition characterised by sudden episodes of overwhelming fear: so-called panic attacks. During a\npanic attack the sufferer has an intense feeling of impending doom, associated with distressing\nsensations such as breathlessness, chest pain, a thumping heart, choking, dizziness, tingling in the\nhands and feet, hot and cold flushes, sweating, faintness and trembling. This is a common disorder,\naffecting up to 3 per cent of the population in any given year.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_103_697e8429",
+    "extractor": "openai",
+    "generation_rules": [
+      "Do not waste time and energy fighting or avoiding uncomfortable feelings.",
+      "Avoid generating additional painful and unhelpful discomfort through struggle."
+    ],
+    "pause_rules": [],
+    "psychological_function": "Encouraging acceptance of unpleasant feelings to prevent escalation into additional painful and unhelpful discomfort.",
+    "repetition_rules": [],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_103",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "struggle switch",
+      "dirty discomfort"
+    ],
+    "therapeutic_function": "Reducing struggle with and avoidance of uncomfortable feelings to decrease emotional distress and secondary problems.",
+    "voice_rules": []
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_103_697e8429",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_103",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:23+00:00"
+}

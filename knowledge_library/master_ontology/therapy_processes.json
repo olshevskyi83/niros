@@ -1,0 +1,55 @@
+{
+  "ontology_version": "master_ontology_v1",
+  "therapy_processes": [
+    {
+      "process_id": "acceptance_process",
+      "name": "Acceptance Process",
+      "description": "Increasing willingness to contact unwanted internal experience without immediate control or escape.",
+      "target_mechanism_ids": [
+        "experiential_avoidance",
+        "control_strategies",
+        "pain_catastrophizing",
+        "addictive_relief_cycle"
+      ],
+      "change_logic": "Short-term distress may rise while long-term flexibility and valued action increase.",
+      "human_review_status": "seed",
+      "source_references": []
+    },
+    {
+      "process_id": "defusion_process",
+      "name": "Defusion Process",
+      "description": "Changing the relationship to thoughts so they can be observed without literal obedience.",
+      "target_mechanism_ids": ["cognitive_fusion", "rumination"],
+      "change_logic": "Thoughts lose behavioral command value while choice and perspective return.",
+      "human_review_status": "seed",
+      "source_references": []
+    },
+    {
+      "process_id": "surrender",
+      "name": "Surrender",
+      "description": "Allowing experience to unfold with reduced struggle rather than forcing immediate control or resolution.",
+      "target_mechanism_ids": ["experiential_avoidance", "control_strategies", "loss_of_meaning"],
+      "change_logic": "Reduced struggle can open contact with emotion, meaning, and present-moment awareness.",
+      "human_review_status": "seed",
+      "source_references": []
+    },
+    {
+      "process_id": "emotional_breakthrough",
+      "name": "Emotional Breakthrough",
+      "description": "A shift from suppression or avoidance into direct, supported contact with previously blocked emotion.",
+      "target_mechanism_ids": ["emotional_suppression", "shame_sensitivity", "loss_of_meaning"],
+      "change_logic": "Blocked affect becomes accessible within safety, often enabling integration and meaning repair.",
+      "human_review_status": "seed",
+      "source_references": []
+    },
+    {
+      "process_id": "self_compassion_process",
+      "name": "Self-Compassion Process",
+      "description": "Replacing punitive self-evaluation with warmth, common humanity, and balanced support.",
+      "target_mechanism_ids": ["harsh_self_criticism", "shame_sensitivity"],
+      "change_logic": "Threat-based self-relation softens, reducing shame maintenance and behavioral rigidity.",
+      "human_review_status": "seed",
+      "source_references": []
+    }
+  ]
+}

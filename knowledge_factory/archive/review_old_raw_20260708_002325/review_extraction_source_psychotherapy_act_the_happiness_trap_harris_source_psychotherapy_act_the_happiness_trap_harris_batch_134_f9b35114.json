@@ -1,0 +1,47 @@
+{
+  "created_at": "2026-07-07T21:49:59+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_134_f9b35114",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "emotions",
+      "urges",
+      "bodily sensations",
+      "control strategies",
+      "addictive behaviors",
+      "eating disorders"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "Emotions prime your body to take action; that is, every emotion gives you the impulse to act in a\ncertain way. We call that impulse an ‘urge’. In anger, we may feel the urge to shout, smash\nsomething (or someone), or just prove ‘I’m right, damn it!’ In sadness, the urge may make us want\nto lie down, cry, curl up into a ball or have someone cuddle us. In fear, the urge may be to run away\nand hide, stay really quiet, pace up and down or talk too fast.\n\n---\n\nAnd we experience all kinds of urges besides those mainly associated with emotions. We feel the\nurge to eat, drink, sleep, have sex or get some exercise. Addictions typically give rise to extremely\npowerful urges: to gamble, get high or get drunk. Eating disorders come with their own powerful\nurges, too: to eat, starve or induce vomiting.\n\n---\n\nAnd this one’s a little less obvious: when uncomfortable emotions arise we often feel strong urges\nto use control strategies. For example, whenever I’m anxious, I get a strong craving for chocolate or\nI want to go to the movies. In someone else, anxiety might trigger an urge to have a double scotch,\nsmoke a cigarette or go for a run.\n\n---\n\nYou may not be aware of it, but your urges affect certain parts of your body far more than others—\nit all depends on which part of your body is preparing for action. If you pay attention to your body,\nyou can feel these ‘preparations’ taking place. For example, when I have the urge to eat chocolate, I\nnotice it first inside my mouth. First I feel my mouth watering, then my tongue gets fidgety and\nstarts licking my lips. Then a vague tension starts in my jaws, as if they want to chew on something.\nThen, as the urge grows stronger, I may feel a sensation in my stomach—a sort of low-grade\nrumbling. As the urge grows stronger still, I may notice a restlessness in my legs: an impulse to get\nup and move (to wherever I can fin some chocolate).",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_134_f9b35114",
+    "extractor": "openai",
+    "generation_rules": [
+      "Describe urges as impulses to act in specific ways linked to emotions or behaviors.",
+      "Map bodily sensations to specific urges to increase somatic awareness."
+    ],
+    "pause_rules": [
+      "Encourage pausing to notice bodily sensations as urges arise."
+    ],
+    "psychological_function": "Identification and differentiation of urges linked to emotions and behaviors, promoting insight into automatic action tendencies and control strategies.",
+    "repetition_rules": [
+      "Repeat examples of urges associated with different emotions and behaviors to reinforce understanding."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_134",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Increase awareness of bodily sensations associated with emotional and non-emotional urges to facilitate mindful recognition and response to impulses.",
+    "voice_rules": [
+      "Use direct, explanatory voice to describe the relationship between emotions, urges, and bodily sensations."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_134_f9b35114",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_134",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:59+00:00"
+}

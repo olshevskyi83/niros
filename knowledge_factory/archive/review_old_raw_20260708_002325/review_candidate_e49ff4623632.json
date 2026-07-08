@@ -1,0 +1,133 @@
+{
+  "consolidated_candidate": {
+    "batch_count": 1,
+    "book_count": 1,
+    "candidate_id": "candidate_b330d72eebb5",
+    "candidate_targets": [
+      "depression",
+      "anxiety",
+      "worry",
+      "human misery",
+      "suicidal ideation",
+      "addiction",
+      "low self-esteem"
+    ],
+    "canonical_name": "Highlighting the discrepancy between improved living conditions and persistent human misery to question common assumptions about happiness and mental health; encouraging awareness of the evolutionary basis of the mind's focus on threat detection and survival rather than happiness.",
+    "confidence_summary": "high",
+    "contraindications": [
+      "May not be suitable for individuals in acute crisis without additional support",
+      "Not a substitute for direct clinical intervention in severe psychiatric conditions"
+    ],
+    "description": "Therapeutic functions observed: Highlighting the discrepancy between improved living conditions and persistent human misery to question common assumptions about happiness and mental health; encouraging awareness of the evolutionary basis of the mind's focus on threat detection and survival rather than happiness.. Psychological functions observed: Promoting cognitive defusion by recognizing that the mind's constant threat assessment is an evolved survival mechanism, not a reliable indicator of current danger; fostering acceptance of negative thoughts and feelings as natural rather than pathological.. Consolidated from 1 extraction(s) across 1 source(s).",
+    "domains": [
+      "psychotherapy"
+    ],
+    "evidence_fragments": [
+      {
+        "confidence": 0.9,
+        "domain": "psychotherapy",
+        "evidence_text": "In the western world we now have a higher standard of living than humans have ever known before.\nWe have better medical treatment, more and better food, better housing conditions, better sanitation,\nmore money, more welfare services and more access to education, justice, travel, entertainment and\ncareer opportunities. Indeed, today’s middle class lives better than did the royalty of not so long\nago, and yet, human misery is everywhere.\n\n---\n\nThe psychology and personal development sections of bookstores are growing at a rate never seen\nbefore, and the bookshelves are groaning under the strain. The titles cover depression, anxiety,\nanorexia nervosa, overeating, anger management, divorce, relationship problems, sexual problems,\ndrug addictions, alcoholism, low self-esteem, loneliness, grief, gambling—if you can name it, there\n”s a book on it. Meanwhile, on the television and radio, and in magazines and newspapers, the\n\n---\n\n‘experts’ bombard us daily with advice on how to improve our lives. This is why the numbers of\npsychologists, psychiatrists, marriage and family counsellors, social workers and ‘life coaches’ are\nincreasing with every year. And yet—now, think about this—with all this help and advice and\nworldly wisdom, human misery is not diminishing but growing by leaps and bounds! Isn’t there\nsomething wrong with this picture?\n\n---\n\nThe statistics are staggering: In any given year almost 30 per cent of the adult population will suffer\nfrom a recognised psychiatric disorder. The World Health Organization estimates that depression is\ncurrently the fourth biggest, costliest and most debilitating disease in the world, and by the year\n2020 it will be the second biggest. In any given week, one-tenth of the adult population is suffering\nfrom clinical depression, and one in five people will suffer from it at some point in their lifetime.\nFurthermore, one in four adults, at some stage in their life, will suffer from drug or alcohol\naddiction, which is why there are now over twenty million alcoholics in the United States of\nAmerica alone!\n\n---\n\nBut more startling and more sobering than all those statistics is that almost one in two people will\ngo through a stage in life when they seriously consider suicide and will struggle with it for a period\nof two weeks or more. Scarier still, one in ten people will at some point actually attempt to kill\nthemselves.\n\n---\n\nThink about those numbers for a moment. Think of the people in your life: your friends, family and\nco-workers. Consider what those figures imply: that of all the people you know, almost half of them\nwill at some point be so overwhelmed by misery that they seriously contemplate suicide. And one\nin ten will attempt it! In the past two centuries we have doubled the span of the average human life.\nBut have we doubled the richness, the enjoyment, the fulfilment of that life? These statistics give us\nthe answer, loud and clear: happiness is not normal!\n\n---\n\nTo answer this question, we need to take a journey back in time. The modern human mind, with its\namazing ability to analyse, plan, create and communicate, has largely evolved over the last hundred\nthousand years, since our species, Homo sapiens, first appeared on the planet. But our minds did not\nevolve to make us feel good, so we could tell great jokes, write sonnets and say ‘I love you’. Our\nminds evolved to help us survive in a world fraught with danger. Imagine that you’re an early\nhuman hunter-gatherer. What are your essential needs in order to survive and reproduce?\n\n---\n\nThere are four of them: food, water, shelter and sex, but none of these things mean much if you’re\ndead. So the number one priority of the primitive human mind was to look out for anything that\nmight harm you and avoid it! In essence, the primitive mind was a ‘Don’t get killed’ device, and it\nproved enormously useful. The better our ancestors became at anticipating and avoiding danger, the\nlonger they lived and the more children they had.\n\n---\n\nWith each generation the human mind became increasingly skilled at predicting and avoiding\ndanger. And now, after a hundred thousand years of evolution, the modern mind is still constantly\non the lookout for trouble. It assesses and judges almost everything we encounter: Is this good or\nbad? Safe or dangerous? Harmful or helpful? These days, though, it’s not sabre-toothed cats or 200\nkilogram wolves that our mind warns us about. Instead it’s losing our job, being rejected, getting a\nspeeding ticket, not being able to pay the bills, embarrassing ourselves in public, upsetting our\nloved ones, getting cancer, or any of a million and one other common worries. As a result we spend\na lot of time worrying about things that, more often than not, never happen.",
+        "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_003_9dca4001",
+        "psychological_function": "Promoting cognitive defusion by recognizing that the mind's constant threat assessment is an evolved survival mechanism, not a reliable indicator of current danger; fostering acceptance of negative thoughts and feelings as natural rather than pathological.",
+        "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_003",
+        "source_family": "act",
+        "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+        "therapeutic_function": "Highlighting the discrepancy between improved living conditions and persistent human misery to question common assumptions about happiness and mental health; encouraging awareness of the evolutionary basis of the mind's focus on threat detection and survival rather than happiness."
+      }
+    ],
+    "generation_rules": [
+      "Use statistical evidence to challenge assumptions about happiness and mental health",
+      "Explain evolutionary origins of the mind’s threat detection system",
+      "Contrast modern worries with ancestral survival threats"
+    ],
+    "mean_confidence": 0.9,
+    "mention_count": 1,
+    "pause_rules": [
+      "Pause after presenting shocking statistics to allow reflection",
+      "Pause before posing rhetorical questions to engage the listener"
+    ],
+    "psychological_function": "Promoting cognitive defusion by recognizing that the mind's constant threat assessment is an evolved survival mechanism, not a reliable indicator of current danger; fostering acceptance of negative thoughts and feelings as natural rather than pathological.",
+    "repetition_rules": [
+      "Repeat statistical data to emphasize prevalence of mental health issues",
+      "Reiterate the contrast between improved living standards and persistent misery"
+    ],
+    "segment_ids": [
+      "source_psychotherapy_act_the_happiness_trap_harris_batch_003"
+    ],
+    "source_count": 1,
+    "source_families": [
+      "act"
+    ],
+    "source_ids": [
+      "source_psychotherapy_act_the_happiness_trap_harris"
+    ],
+    "symbolic_elements": [
+      "primitive mind as a 'Don’t get killed' device",
+      "modern mind on lookout for trouble"
+    ],
+    "therapeutic_function": "Highlighting the discrepancy between improved living conditions and persistent human misery to question common assumptions about happiness and mental health; encouraging awareness of the evolutionary basis of the mind's focus on threat detection and survival rather than happiness.",
+    "voice_rules": [
+      "Use questioning tone to provoke reflection",
+      "Present factual statistics to build credibility",
+      "Adopt explanatory and educational style"
+    ]
+  },
+  "created_at": "2026-07-07T22:13:50+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_candidate_e49ff4623632",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "depression",
+      "anxiety",
+      "worry",
+      "human misery",
+      "suicidal ideation",
+      "addiction",
+      "low self-esteem"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May not be suitable for individuals in acute crisis without additional support",
+      "Not a substitute for direct clinical intervention in severe psychiatric conditions"
+    ],
+    "evidence_text": "[1] source_psychotherapy_act_the_happiness_trap_harris / source_psychotherapy_act_the_happiness_trap_harris_batch_003: In the western world we now have a higher standard of living than humans have ever known before.\nWe have better medical treatment, more and better food, better housing conditions, better sanitation,\nmore money, more welfare services and more access to education, justice, travel, entertainment and\ncareer opportunities. Indeed, today’s middle class lives better than did the royalty of not so long\nago, and yet, human misery is everywhere.\n\n---\n\nThe psychology and personal development sections of bookstores are growing at a rate never seen\nbefore, and the bookshelves are groaning under the strain. The titles cover depression, anxiety,\nanorexia nervosa, overeating, anger management, divorce, relationship problems, sexual problems,\ndrug addictions, alcoholism, low self-esteem, loneliness, grief, gambling—if you can name it, there\n”s a book on it. Meanwhile, on the television and radio, and in magazines and newspapers, the\n\n---\n\n‘experts’ bombard us daily with advice on how to improve our lives. This is why the numbers of\npsychologists, psychiatrists, marriage and fami...",
+    "extraction_id": "extraction_candidate_e49ff4623632",
+    "extractor": "knowledge_consolidator",
+    "generation_rules": [
+      "Use statistical evidence to challenge assumptions about happiness and mental health",
+      "Explain evolutionary origins of the mind’s threat detection system",
+      "Contrast modern worries with ancestral survival threats"
+    ],
+    "pause_rules": [
+      "Pause after presenting shocking statistics to allow reflection",
+      "Pause before posing rhetorical questions to engage the listener"
+    ],
+    "psychological_function": "Promoting cognitive defusion by recognizing that the mind's constant threat assessment is an evolved survival mechanism, not a reliable indicator of current danger; fostering acceptance of negative thoughts and feelings as natural rather than pathological.",
+    "repetition_rules": [
+      "Repeat statistical data to emphasize prevalence of mental health issues",
+      "Reiterate the contrast between improved living standards and persistent misery"
+    ],
+    "review_status": "draft",
+    "segment_id": "candidate_b330d72eebb5",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "primitive mind as a 'Don’t get killed' device",
+      "modern mind on lookout for trouble"
+    ],
+    "therapeutic_function": "Highlighting the discrepancy between improved living conditions and persistent human misery to question common assumptions about happiness and mental health; encouraging awareness of the evolutionary basis of the mind's focus on threat detection and survival rather than happiness.",
+    "voice_rules": [
+      "Use questioning tone to provoke reflection",
+      "Present factual statistics to build credibility",
+      "Adopt explanatory and educational style"
+    ]
+  },
+  "review_id": "review_candidate_e49ff4623632",
+  "review_type": "consolidated_candidate",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "candidate_b330d72eebb5",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T22:13:50+00:00"
+}

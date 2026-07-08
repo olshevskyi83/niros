@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:48:27+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_104_b5679f46",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "intense dislike of anxiety",
+      "avoidance behaviors",
+      "fear of anxiety sensations",
+      "panic attacks"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text; confidence low regarding contraindications."
+    ],
+    "evidence_text": "Rachel’s major problem is actually her intense dislike of anxiety. She thinks anxiety is something\nterrible and dangerous, and she will do anything possible to avoid it. This means that as soon as she\nfeels any sensation that remotely resembles anxiety, such as a racing heart or tightness in the chest,\nthat sensation will itself trigger further anxiety. Then, as her anxiety level rises, those unwanted\nsensations grow even stronger. This in turn triggers even more anxiety, until soon she is in a state of\nfull-blown panic.\n\n---\n\nRachel’s world is steadily shrinking. She now avoids drinking coffee, reading thrillers, watching\nscary movies or doing any physical exercise. Why? Because all these things make her heart beat\nfaster, which can then set off the whole vicious cycle. She also refuses to ride in elevators or\naeroplanes, drive on busy roads, visit crowded shopping centres or attend large social gatherings\nbecause she fears she might feel anxious in those situations, and that might lead her to have a panic\nattack, which is something she wants to avoid at any cost!\n\n---\n\nRachel’s case is an extreme example, but to a lesser extent we all do the same thing. All of us, at\ntimes, avoid challenges in order to escape the stress or anxiety that goes with them. And as I’ve said\nbefore, in moderation this is not a problem. But the more habitual that avoidance becomes, the more\nwe Start to suffer in the long run.\n\n---\n\n“Yes, that all makes sense,” I hear you say, “but how can I stop struggling with difficult feelings\nwhen they feel so bad?’ The answer is by using a simple technique called ‘expansion’. But before\nwe come to that, there’s an interesting bit of history we need to explore.\n\n---\n\nAs you read through the emotions listed below just notice, without thinking too hard about it, which\nones you automatically judge as ‘good’ or ‘positive’, and which you automatically judge as “bad” or\n“negative”:",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_104_b5679f46",
+    "extractor": "openai",
+    "generation_rules": [
+      "Introduce awareness of automatic judgments about emotions",
+      "Use expansion technique to change relationship with difficult feelings"
+    ],
+    "pause_rules": [
+      "Pause to allow reflection on automatic emotional judgments"
+    ],
+    "psychological_function": "Interrupt the vicious cycle of anxiety escalation triggered by fear and avoidance of anxiety sensations; promote acceptance of difficult feelings rather than struggle or avoidance.",
+    "repetition_rules": [
+      "Highlight the pattern of avoidance and escalation repeatedly to build insight"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_104",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "vicious cycle of anxiety",
+      "shrinking world due to avoidance"
+    ],
+    "therapeutic_function": "Reduce avoidance of anxiety-provoking sensations and situations by changing the relationship to anxiety through acceptance and expansion techniques.",
+    "voice_rules": [
+      "Use explanatory and validating tone",
+      "Encourage noticing without judgment"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_104_b5679f46",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_104",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:27+00:00"
+}

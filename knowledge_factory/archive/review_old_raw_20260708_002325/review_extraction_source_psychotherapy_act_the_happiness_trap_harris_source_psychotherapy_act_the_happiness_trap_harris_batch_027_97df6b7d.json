@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:44:01+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_027_97df6b7d",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant feelings",
+      "unwanted thoughts",
+      "control strategies",
+      "avoidance behaviors"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the segment"
+    ],
+    "evidence_text": "* There’s a lot of built-up tension between Andrew and his wife, Sylvana. Sylvana is angry at\nAndrew because he works long hours and doesn’t spend enough time with her. Andrew doesn’t\nlike those feelings of tension in the house, so in order to avoid them, he starts working longer\nhours. But the more hours he works, the more dissatisfied Sylvana gets—and the tension in their\nrelationship steadily increases.\n\n---\n\nYou can see that these are all examples of trying to get rid of, avoid or escape from unpleasant\nfeelings. We call these ‘control strategies’ because they are attempts to directly control how you\nfeel. The table on the following page shows some of the most common control strategies. I’ve\norganised them into two main categories: fight strategies and flight strategies. Fight strategies\ninvolve fighting with or trying to dominate your unwanted thoughts and feelings. Flight strategies\ninvolve running away or hiding from those unwelcome thoughts and feelings. (Table 2.1)\n\n---\n\nHiding/Escaping Suppression a|\nYou hide away or escape from situations or\nYou try to directly suppress unwanted\nactivities that might bring up uncomfortable\nthoughts and feelings. You forcefully push\nthoughts or feelings. For example, you drop out of a\nunwanted thoughts from your mind, or you\ncourse or avoid going to a social function, in order\npush your feelings ‘deep down inside’.\nto prevent feelings of anxiety.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_027_97df6b7d",
+    "extractor": "openai",
+    "generation_rules": [
+      "Organize control strategies into fight and flight categories",
+      "Use examples to illustrate suppression and avoidance"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the segment"
+    ],
+    "psychological_function": "Highlighting the tendency to use fight or flight strategies to manage unwanted thoughts and feelings",
+    "repetition_rules": [
+      "Not explicitly stated in the segment"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_027",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "tension between Andrew and Sylvana",
+      "working longer hours as avoidance",
+      "fight strategies",
+      "flight strategies",
+      "suppression of thoughts and feelings"
+    ],
+    "therapeutic_function": "Identifying and addressing control strategies aimed at avoiding or escaping unpleasant feelings",
+    "voice_rules": [
+      "Descriptive and explanatory tone",
+      "Use of examples to clarify concepts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_027_97df6b7d",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_027",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:01+00:00"
+}

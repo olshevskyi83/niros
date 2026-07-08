@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:53:11+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_192_559578e7",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative self-judgements",
+      "self-limiting beliefs",
+      "transient thoughts",
+      "emotional reactions"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text."
+    ],
+    "evidence_text": "When you take a look at that summary, you can see why people draw parallels between ACT and\nreligion. But ACT places no religious or spiritual beliefs or expectations on this observing self. You\nare free to conceptualise it as you wish and call it what you will.\n\n---\n\nPersonally, I think of the observing self as being like the sky, while thoughts, sensations and images\nare like the weather. The weather constantly changes throughout the day. And whatever it is, the\nsky always has room for it. No matter how bad the weather, no matter how violent the\nthunderstorm, no matter how severe the sun, the sky cannot be damaged in any way. Even\nhurricanes and tsunamis, which may wreak death and destruction on the land, are unable to hurt the\nsky. And, of course, as time passes, the weather will change again and again, while the sky remains\nas pure and clear as ever. (This metaphor—comparing human consciousness to the expansiveness of\nthe sky—is actually thousands of years old and can be found in many ancient spiritual/religious\n\n---\n\nIn normal, everyday life, all we get are ‘glimpses’ of the observing self because most of the time it’s\nobscured by a constant flow of thoughts. Again, this is like the sky, which may at times be\ncompletely obscured by clouds. But even when we can’t see the sky, we know it’s there; and if we\nrise up high enough above those clouds, we will always find it.\n\n---\n\nSimilarly, when we rise above our thoughts, we ‘find’ the observing self: a perspective from which\nwe can observe our negative self-judgements or self-limiting beliefs without being hurt by them.\nFrom the perspective of the observing self, you can look at that ‘documentary’ about who you are\nand see it for what it is: a collection of words and pictures compiled by the thinking self. The\nthinking self tells you that the documentary is you. But all you need to do is step back and observe\nit and notice who is doing the observing, and in that moment, there is the ‘real you’!",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_192_559578e7",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage conceptualizing the observing self freely without religious or spiritual constraints",
+      "Use metaphor of sky and weather to illustrate the observing self and transient mental events",
+      "Guide clients to 'rise above' thoughts to access the observing self"
+    ],
+    "pause_rules": [
+      "Introduce pauses when guiding clients to 'rise above' thoughts to facilitate experiential noticing of the observing self."
+    ],
+    "psychological_function": "Promotes awareness of the observing self as distinct from transient thoughts, sensations, and images, enabling non-reactive observation and reducing identification with negative mental content.",
+    "repetition_rules": [
+      "Reinforce the distinction between the observing self and transient mental content through repeated metaphors and examples."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_192",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observing self as the sky",
+      "thoughts, sensations, and images as weather",
+      "weather changes while sky remains unchanged",
+      "clouds obscuring the sky but sky remains present"
+    ],
+    "therapeutic_function": "Facilitates psychological distancing from negative self-judgements and self-limiting beliefs by cultivating an observing self perspective.",
+    "voice_rules": [
+      "Use metaphorical and descriptive language to evoke imagery of sky and weather",
+      "Adopt a neutral, non-judgmental tone emphasizing freedom of conceptualization"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_192_559578e7",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_192",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:11+00:00"
+}

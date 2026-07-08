@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:43:33+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_019_f9da4123",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "anxiety",
+      "fear",
+      "thought suppression",
+      "emotional control beliefs"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "may increase distress in individuals with trauma related to threat or anxiety",
+      "may be challenging for individuals with severe anxiety or PTSD"
+    ],
+    "evidence_text": "Now consider this hypothetical scenario for a moment. Suppose someone put a loaded gun to your\nhead and told you that you must not feel afraid; that if you should feel even the slightest trace of\nanxiety, they will shoot you. Could you stop yourself feeling anxious in this situation, even though\nyour life depended on it? (Sure you could try to act calm, but could you truly feel it?)\n\n---\n\nOkay, one last experiment. Stare at the star below then see if you can stop yourself from thinking\nfor 60 seconds. That’s all you have to do. For 60 seconds, prevent any thoughts whatsoever from\ncoming into your mind—especially any thoughts about the star! (Figure 1)\n\n---\n\nHopefully by now you’re getting the point that thoughts, feelings, physical sensations and memories\nare just not that easy to control. It’s not that you have no control over these things; it’s just that you\nhave much less control than you thought. Let’s face it, if these things were that easy to control,\nwouldn’t we all just live in perpetual bliss? Of course, there are a few self-help gurus who claim to\nlive in such a state all the time. Such people often get really rich, their books sell by the million and\nthey attract huge followings of people desperate for “the answer’. My guess is that many readers of\nthis book will have already gone down that path and been sadly disappointed.\n\n---\n\nFrom a young age, we are taught that we should be able to control our feelings. When you were\ngrowing up, you probably heard a number of expressions like, ‘Don’t cry, or Pll give you\nsomething to cry about’, ‘Don’t be so gloomy; look on the bright side’, “Take that frown off your\nface”, “You're a big boy now. Big boys don’t cry”, ‘Stop feeling sorry for yourself”, ‘Don’t worry,\nthere’s no need to be frightened.’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_019_f9da4123",
+    "extractor": "openai",
+    "generation_rules": [
+      "use hypothetical scenarios to illustrate uncontrollability of emotions",
+      "use direct experiential exercises to demonstrate thought suppression difficulty"
+    ],
+    "pause_rules": [
+      "pause after hypothetical scenario to allow reflection",
+      "pause after thought suppression instruction to allow experience"
+    ],
+    "psychological_function": "Increase awareness of the natural occurrence and uncontrollability of anxiety, thoughts, and feelings",
+    "repetition_rules": [
+      "reiterate the difficulty of controlling internal experiences",
+      "repeat common cultural messages about emotional control"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_019",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "loaded gun to the head",
+      "staring at a star",
+      "thought suppression experiment"
+    ],
+    "therapeutic_function": "Demonstrate the difficulty of controlling thoughts and feelings to reduce unrealistic expectations about emotional control",
+    "voice_rules": [
+      "conversational and questioning tone",
+      "use of rhetorical questions to engage reflection"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_019_f9da4123",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_019",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:33+00:00"
+}

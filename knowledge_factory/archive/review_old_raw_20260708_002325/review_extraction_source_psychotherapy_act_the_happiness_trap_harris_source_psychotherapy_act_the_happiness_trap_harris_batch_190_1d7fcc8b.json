@@ -1,0 +1,57 @@
+{
+  "created_at": "2026-07-07T21:53:04+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_190_1d7fcc8b",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thoughts",
+      "feelings",
+      "sensations",
+      "body awareness",
+      "self-concept"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; potential discomfort in clients with trauma or dissociation when focusing on body or internal states."
+    ],
+    "evidence_text": "Your feelings and sensations, like your thoughts and images, change continuously. Sometimes you\nfeel sad, sometimes you feel happy. Sometimes calm, sometimes angry. Sometimes healthy,\nsometimes sick. Sometime energised, sometimes tired. (How many different sensations and\nemotions have you experienced in the past 24 hours?) Now, in a moment, I’m going to ask you to\nclose your eyes and take twenty seconds to observe your feelings and sensations. And as you\nobserve those feelings, be aware that you’re observing them. Notice, there are your sensations—\nand\nthere’s you observing them. (Do this now, for twenty seconds, then open your eyes and read on.)\nEr\n\n---\n\nYour body changes continuously. The body you have now is not the one you had as a baby, as a\nchild or as a teenager. You may have had bits cut out of it or bits put into it. You have scars,\nwrinkles and moles that certainly weren’t there ten years ago. You generate a whole new skin every\nsix weeks. And your liver replaces every single cell over a period of three months. In fact, over the\npast seven years, every single cell in your body has been replaced by new ones. Now, in a moment\nI’m going to ask you to close your eyes and take twenty seconds to observe your body. When you\ndo this, notice how you can instantly observe any part of your body you wish— your toes, ears,\nelbows or knees. And as you observe your body, be aware that you’re observing it. Notice, there are\nall the different parts of your body—and there’s you observing them. (Do this now, for twenty\nseconds, then open your eyes and read on.)\nRER\n\n---\n\nSo the roles you play and your thoughts, images, feelings, sensations and physical body all change\ncontinuously throughout your life. However, the ‘I’ that observes thoughts and images doesn’t\nchange. The ‘I’ that observes feelings and sensations doesn’t change. The ‘I’ that observes your\nbody doesn’t change.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_190_1d7fcc8b",
+    "extractor": "openai",
+    "generation_rules": [
+      "Guide client to close eyes and observe feelings and sensations for twenty seconds.",
+      "Guide client to close eyes and observe body parts for twenty seconds.",
+      "Encourage noticing the distinction between observed experiences and the observer self."
+    ],
+    "pause_rules": [
+      "Pause for twenty seconds during each observation exercise to allow experiential noticing."
+    ],
+    "psychological_function": "Promotes differentiation between the observing self ('I') and changing internal experiences, supporting psychological flexibility and self-as-context.",
+    "repetition_rules": [
+      "Repeat observation exercises twice (feelings/sensations and body).",
+      "Repeat the distinction between observer and observed experiences."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_190",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observer self",
+      "changing sensations",
+      "changing body",
+      "continuous change"
+    ],
+    "therapeutic_function": "Facilitates mindfulness and self-observation to increase awareness of transient nature of thoughts, feelings, sensations, and body states.",
+    "voice_rules": [
+      "Use present tense to emphasize immediacy of observation.",
+      "Use direct instructions to close eyes and observe.",
+      "Use reflective questioning to engage awareness."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_190_1d7fcc8b",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_190",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:04+00:00"
+}

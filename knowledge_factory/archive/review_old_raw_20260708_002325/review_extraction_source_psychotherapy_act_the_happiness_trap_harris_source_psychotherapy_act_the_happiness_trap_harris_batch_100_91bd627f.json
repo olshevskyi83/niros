@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:48:12+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_100_91bd627f",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "automatic threat perception",
+      "emotional reactivity",
+      "cognitive fusion with feelings",
+      "preference for positive feelings"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for individuals with impaired threat perception or severe anxiety disorders without additional support"
+    ],
+    "evidence_text": "So whenever we perceive a threat, the fight-or-flight response immediately activates. In prehistoric\ntimes, this response was lifesaving. When a woolly mammoth charged you, if you couldn’t escape,\nyour only hope was to kill it or at least fight it off. However, in this modern age, most of us rarely\nfind ourselves in life-threatening predicaments, and the fight-or-flight response is often triggered in\nsituations where it is of little or no use to us.\n\n---\n\nOnce again, evolution is the culprit here. Our mind, trying to make sure we don’t get killed, sees\npotential danger almost everywhere: in a moody spouse, a controlling boss, a parking ticket, a new\njob, a traffic jam, a long line at the bank, a big mortgage, an unflattering reflection in the mirror—\nyou name it. The threat may even come from the mind itself, in the form of a disturbing thought or\nimage. Obviously, none of these things are actually life-threatening, but our brain and body react as\nif they were.\n\n---\n\nIf our brain judges an event as harmful, the fight-or-flight response is triggered and it rapidly\nevolves into an unpleasant feeling such as fear, anger, shock, disgust or guilt. If our brain judges the\nevent as ‘good’ or beneficial, we rapidly develop a pleasant feeling such as calm, curiosity or\nhappiness. The former feelings, we tend to describe as ‘negative’. The latter feelings, we tend to\ndescribe as “positive”. But actually, they’re neither positive nor negative—they’ re all simply\nfeelings.\n\n---\n\n‘Well,’ you may be saying, ‘they may be simply feelings, but I much prefer the positive ones to the\nnegative ones.’ Of course you do; so does everybody—it’s human nature. But unfortunately, this\npreference often becomes so important to us that it leads to serious problems, contributing to\nsomething I call the ‘struggle switch’. Care to find out more? Then keep reading.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_100_91bd627f",
+    "extractor": "openai",
+    "generation_rules": [
+      "Explain evolutionary origins of fight-or-flight response",
+      "Illustrate mismatch between ancient survival mechanisms and modern stressors",
+      "Reframe feelings as neutral rather than positive or negative"
+    ],
+    "pause_rules": [
+      "Pause after introducing the concept of the 'struggle switch' to invite reflection"
+    ],
+    "psychological_function": "To help individuals recognize that feelings are neutral experiences rather than inherently positive or negative, reducing attachment to preferred emotional states.",
+    "repetition_rules": [
+      "Reiterate the neutrality of feelings",
+      "Repeat examples of modern non-life-threatening triggers"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_100",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "fight-or-flight response",
+      "woolly mammoth",
+      "struggle switch"
+    ],
+    "therapeutic_function": "To increase awareness of the automatic fight-or-flight response and its maladaptive activation in modern non-life-threatening situations.",
+    "voice_rules": [
+      "Use conversational and engaging tone",
+      "Anticipate reader objections or thoughts",
+      "Invite curiosity and continued reading"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_100_91bd627f",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_100",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:12+00:00"
+}

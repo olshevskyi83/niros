@@ -1,0 +1,47 @@
+{
+  "created_at": "2026-07-07T21:45:55+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_060_35b3a5f4",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative self-critical thoughts",
+      "obsessive thoughts about death or serious issues"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not defusing thoughts that are helpful and motivate effective action, even if they are serious or true"
+    ],
+    "evidence_text": "Jana was an avid fan of the comedy troupe Monty Python, and the character she picked was from\ntheir film The Life of Brian. In the film, Brian’s mother, played by the male actor Terry Jones, is\nalways criticising Brian in a ridiculously high-pitched, screeching voice. When Jana ‘heard’ her\nnegative thoughts in the voice of Brian’s mother, she couldn’t take them seriously. The thoughts did\nnot immediately disappear, but they quickly lost their power over her, and this contributed\nsignificantly to lifting her depression.\n\n---\n\nBut what if a thought is both true and serious? For instance, if you are dying from cancer and have\nthe thought: ‘Pll be dead soon.”\n\n---\n\nFrom an ACT perspective, we are far more interested in whether a thought is helpful than whether\nit’s true or false, serious or ridiculous, negative or positive, optimistic or pessimistic. The bottom\nline is always the same: does this thought help you make the most out of life? Now, if you only\nhave a few months to live, it’s really important to reflect on how you want to spend them. What\nloose ends do you need to tie up? What do you want to do, and whom do you want to see before\nyou die? So a thought like, ‘I’Il be dead soon’ could be helpful if it motivates you to reflect and take\neffective action. If that’s the case, you wouldn’t try to defuse such a thought. You would pay\nattention to it and use it to help you do what you need to do. But suppose that thought becomes an\nobsession and you keep playing it over and over in your head. Would it be helpful to spend your\nlast weeks of life thinking all day long, ‘I'll be dead soon’, giving all your attention to that thought\ninstead of to the loved ones around you?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_060_35b3a5f4",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use a ridiculous or exaggerated voice to represent negative thoughts to reduce their impact",
+      "Evaluate thoughts based on their helpfulness for life engagement rather than truth or seriousness"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "psychological_function": "Defusion of negative thoughts through altering their auditory representation; shifting focus from truthfulness to usefulness of thoughts; encouraging mindful reflection and value-based action.",
+    "repetition_rules": [
+      "Discourage obsessive repetition of distressing thoughts that do not promote helpful action"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_060",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Brian’s mother’s high-pitched, screeching voice from Monty Python’s The Life of Brian"
+    ],
+    "therapeutic_function": "Reducing the power of negative thoughts by changing their perceived voice and seriousness; promoting acceptance and functional use of thoughts based on their helpfulness rather than truth value.",
+    "voice_rules": [
+      "Adopt a high-pitched, screeching, or otherwise exaggerated voice to represent negative thoughts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_060_35b3a5f4",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_060",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:55+00:00"
+}

@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-07-07T21:44:18+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_032_82fda33b",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "avoidance of unpleasant feelings",
+      "fear of failure",
+      "maladaptive control strategies",
+      "emotional intensity",
+      "valued life activities"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not effective for individuals unable to identify or connect with personal values",
+      "May be less effective when emotional intensity is overwhelming and immediate regulation is required"
+    ],
+    "evidence_text": "What do you cherish most in life? Health? Work? Family? Friends? Religion? Sport? Nature? It’s\nno surprise that life is richer and more fulfilling when we actively invest our time and energy in the\nthings that are most important or meaningful to us. Yet all too often our attempts to avoid\nunpleasant feelings get in the way of doing what we truly value.\n\n---\n\nFor example, suppose you are a professional actor and you love your work. Then one day, quite out\nof the blue, you develop an intense fear of failure just as you are due to appear onstage. So you\nrefuse to go on (a malady commonly known as ‘stage fright’). Refusing to go onstage may well\nreduce your fear temporarily, but it also stops you from doing something you truly value.\n\n---\n\nOr suppose you’\nve just gone through a divorce. Sadness, fear and anger are all natural reactions, but\nyou don’t want to have these unpleasant feelings. So you try to lift your mood by eating junk food,\ngetting drunk or chain-smoking cigarettes. But what does this do to your health? I’ve never met\nanyone who didn’t value their health, and yet many people use control strategies that actively\ndamage their physical bodies.\n\n---\n\nThe degree of control we have over our thoughts and feelings depends largely on how intense they\nare—the less intense the feelings, the more we can control them. For instance, if we’re just dealing\nwith the typical everyday stresses, a simple relaxation technique can make us feel calmer right\naway. However, the more troubling our thoughts and feelings are, the less effective our attempts at\ncontrol will be. If you’re terrified, no relaxation technique known to humanity will calm you.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_032_82fda33b",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use examples contrasting valued activities with avoidance due to unpleasant feelings",
+      "Illustrate the relationship between emotional intensity and control efficacy",
+      "Emphasize naturalness of unpleasant emotions and their interference with valued actions"
+    ],
+    "pause_rules": [
+      "Pause after questions to allow reflection on personal values",
+      "Pause after examples to emphasize the consequences of avoidance and control strategies"
+    ],
+    "psychological_function": "Highlighting the impact of emotional intensity on the ability to control thoughts and feelings; illustrating the limitations of control strategies in managing intense emotions; fostering awareness of maladaptive coping mechanisms that conflict with personal values.",
+    "repetition_rules": [
+      "Reinforce the contrast between temporary relief from avoidance and long-term interference with values",
+      "Repeat the idea that intense emotions reduce control effectiveness"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_032",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "stage fright as fear of failure",
+      "divorce as a trigger for sadness, fear, and anger",
+      "junk food, alcohol, and cigarettes as mood-lifting but harmful control strategies"
+    ],
+    "therapeutic_function": "Encouraging engagement with personally valued life domains despite unpleasant feelings; reducing avoidance behaviors that interfere with valued actions; promoting acceptance of natural emotional reactions rather than control or suppression.",
+    "voice_rules": [
+      "Use direct questioning to engage reflection on personal values",
+      "Employ illustrative examples to demonstrate concepts",
+      "Maintain an explanatory and empathetic tone"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_032_82fda33b",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_032",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:44:18+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "created_at": "2026-07-07T21:45:52+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_059_8a42e4a7",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative self-critical thoughts",
+      "distressing internal dialogue",
+      "recurrent negative thoughts related to self-worth"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text."
+    ],
+    "evidence_text": "Next pick a different cartoon character or a character from a movie or television show. Consider\nfantasy characters such as Darth Vader, Yoda, Gollum or someone from your favourite sitcom, or\nactors with distinctive voices, such as Arnold Schwarzenegger or Eddie Murphy. Once again bring\nthe distressing thought to mind and ‘hear’ it in that voice. Notice what happens.\nEx\n\n---\n\nAfter doing this exercise and then repeating it, you’ve probably found that you’re not taking that\nnegative thought quite so seriously. You may even have found yourself grinning or chuckling.\nNotice that you haven’t tried to change the thought, get rid of it, argue with it, push it away, debate\nwhether it’s true or false, replace it with a more positive thought or distract yourself from it in any\nway. You have merely seen it for what it is: a bit of language. By taking that segment of language\nand hearing it in a different voice, you become aware that it is nothing more thana string of words\n—and thus, it loses its impact. (This may remind you of a rhyme we learned as children: ‘Sticks and\nstones may break my bones, but words can never hurt me.’ Unfortunately, as children we couldn’t\nput this into practice all that well, because no one ever taught us defusion skills.)\n\n---\n\nA client of mine—we’ll call her Jana—who suffered from depression, found this method extremely\nhelpful. She had grown up with a verbally abusive mother who constantly criticised and insulted\n\n---\n\nher. The insults that had once come from her mother had now turned into recurrent negative\nthoughts: You” re fat’, “You’re ugly’, *You”re stupid’, “You’ll never amount to anything ... nobody\nlikes you.” When these thoughts came to mind during our sessions, Jana would often start crying.\nShe had spent many years (and thousands of dollars) in therapy, trying to get rid of these thoughts,\nall to no avail.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_059_8a42e4a7",
+    "extractor": "openai",
+    "generation_rules": [
+      "Select a different cartoon or fantasy character or a distinctive actor voice to re-voice the negative thought."
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "psychological_function": "Promotes cognitive defusion by helping individuals see negative thoughts as mere language rather than truths, decreasing their believability and emotional charge.",
+    "repetition_rules": [
+      "Repeat the exercise multiple times to reduce the seriousness and emotional impact of the negative thought."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_059",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "cartoon character voices",
+      "distinctive actor voices",
+      "negative thoughts as language strings"
+    ],
+    "therapeutic_function": "Reduces the emotional impact of negative thoughts by altering the way they are perceived through voice transformation and defusion techniques.",
+    "voice_rules": [
+      "Mentally 'hear' the distressing thought in the chosen character's or actor's voice."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_059_8a42e4a7",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_059",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:52+00:00"
+}

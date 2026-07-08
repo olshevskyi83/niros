@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:52:02+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_173_83cc653a",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "attention wandering",
+      "emotional distress",
+      "rumination",
+      "crisis situations",
+      "lack of present-moment awareness"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the text; confidence in contraindications is low."
+    ],
+    "evidence_text": "Sit or lie comfortably with your eyes closed. For the first six minutes connect with your breathing.\nNotice the gentle rise and fall of your rib cage and follow the air as it flows in and out of your\nlungs. Let any thoughts and feelings come and go, and each time you notice that your attention has\nwandered, gently refocus. (You'll need to do this again and again ... and again.) For the next three\nminutes expand your awareness, so that you’re aware of your body and your feelings as well as\nyour breathing. For the final minute open your eyes and connect with the room around you, as well\nas with your body, your feelings and your breathing.\n\n---\n\nFor the first week do this exercise ten minutes a day, then gradually increase the duration by two or\nthree minutes per week, until you can do it for twenty minutes at a time. This is a very powerful\nmindfulness technique and regular practice will bring noticeable physical and psychological\nbenefits. (This is another exercise which I have recorded on CD. For details, go to the resources\nsection at the end of this book.)\n\n---\n\nNo matter how bad the situation you’re in, no matter how much pain you may be suffering, start by\ntaking a few deep breaths. If you’re breathing, you know you’re alive. And as long as you’re alive,\nthere’s hope. Taking a few breaths in the midst of a crisis gives you valuable time to get present, to\nnotice what’s happening and how you’re responding and to think about what effective action you\ncan take. Sometimes there is no immediate action to take. In this case, being present and accepting\nwhat you are feeling is the most effective action.\n\n---\n\nIf you use Breathing to Connect at every opportunity, it will start to become second nature. That’s",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_173_83cc653a",
+    "extractor": "openai",
+    "generation_rules": [
+      "Begin with 6 minutes focusing on breath sensations; then 3 minutes expanding awareness to body and feelings; final 1 minute opening eyes and connecting with surroundings; gradually increase practice duration from 10 to 20 minutes daily."
+    ],
+    "pause_rules": [
+      "Pause to notice breath and bodily sensations; allow thoughts and feelings to come and go without engagement; take deep breaths during crisis to create space for presence and acceptance."
+    ],
+    "psychological_function": "Enhances attention regulation by repeatedly refocusing on the breath; promotes emotional acceptance; facilitates grounding in the present moment during distress.",
+    "repetition_rules": [
+      "Repeatedly notice when attention wanders and gently bring it back to the breath; practice daily, increasing duration gradually."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_173",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "breathing as a sign of life and hope",
+      "breath as an anchor to the present moment"
+    ],
+    "therapeutic_function": "Mindfulness practice to increase present-moment awareness and acceptance of thoughts and feelings, reduce distress, and improve psychological and physical well-being.",
+    "voice_rules": [
+      "Gentle, encouraging tone emphasizing patience and kindness when attention wanders; instructions to 'gently refocus' repeatedly."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_173_83cc653a",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_173",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:02+00:00"
+}

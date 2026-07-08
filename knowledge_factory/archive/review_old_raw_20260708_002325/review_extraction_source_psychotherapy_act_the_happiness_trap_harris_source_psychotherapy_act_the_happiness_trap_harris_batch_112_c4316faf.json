@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:48:51+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_112_c4316faf",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant feelings",
+      "grief",
+      "pain of loss",
+      "avoidance behaviors",
+      "substance use (alcohol and Valium)"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals unable to tolerate direct engagement with painful emotions without additional support."
+    ],
+    "evidence_text": "And guess what? In the next chapter you’\nII learn how to do this.\n\n---\n\nHow would you feel if the two people you loved most in the world suddenly died? Hard to imagine,\nisn’t it? Even to think about such things feels pretty uncomfortable.\n\n---\n\nEarlier I mentioned Donna, whose husband and only child both died in a car crash. Most of us can’t\neven begin to imagine her pain, but we can certainly understand her desire to avoid feeling it. When\nDonna came to see me six months after the accident, she was trying to avoid her pain by any means\npossible. This included drinking two bottles of wine each day, as well as taking a lot of Valium. Yet\nher pain was only increasing. Her ‘clean discomfort’ (the natural pain of loss and grief) was\ncompounded bya lot of ‘dirty discomfort’ (all the additional suffering caused by her alcohol and\ndrug problems). Learning the skill of ‘expansion’ was an essential part of her recovery from this\ntrauma.\n\n---\n\nSo why the term ‘expansion’? Well consider some of the words we commonly use to describe\nfeeling bad; words such as ‘tension’, ‘stress’ and ‘strain’. If you look up these terms in a dictionary,\nyou’ll find they are all interlinked:\n\n---\n\n* Tension is a state of being stretched or strained.\n\n---\n\n* Strain is to stretch beyond the proper point or limit.\n\n---\n\nAll these words imply that our feelings are too big: they are pulling us apart and stretching us\nbeyond our limits. Contrast these terms with ‘expand’: to increase in extent, size, volume, scope; to\nspread, unfold or develop.\n\n---\n\nBasically, expansion means making room for our feelings. If we give unpleasant feelings enough\nspace, they no longer stretch us or strain us. Typically, when unpleasant emotions arise, we ‘tense\nup’; that is, our muscles tighten and contract. It’s as if we were trying to squeeze these feelings out,\nto push them out of our body by sheer brute force.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_112_c4316faf",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphors related to physical stretching and expansion to conceptualize emotional experiences."
+    ],
+    "pause_rules": [
+      "Pause after introducing key metaphors (e.g., tension, strain, expansion) to allow reflection."
+    ],
+    "psychological_function": "Facilitating acceptance of natural pain and grief by increasing psychological flexibility and reducing tension and strain associated with unpleasant emotions.",
+    "repetition_rules": [
+      "Reinforce the contrast between tension/strain and expansion to deepen understanding."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_112",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "expansion",
+      "tension",
+      "strain",
+      "clean discomfort",
+      "dirty discomfort"
+    ],
+    "therapeutic_function": "Teaching the skill of 'expansion' to make room for unpleasant feelings, reducing the additional suffering caused by avoidance behaviors such as substance use.",
+    "voice_rules": [
+      "Use empathetic and explanatory tone to normalize discomfort and introduce expansion as a skill."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_112_c4316faf",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_112",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:51+00:00"
+}

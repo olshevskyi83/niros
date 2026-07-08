@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-07-07T21:42:41+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_002_20e26c40",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals",
+      "health professionals"
+    ],
+    "confidence": 0.7,
+    "contraindications": [],
+    "evidence_text": "“An exciting alternative to the usual approach of so many self-help books. Harris\nexplains how we can work with ourselves as we are, rather than aggressively trying\nto alter ourselves. I’m impressed by the simple and effective methods of ACT.”\n—David Richo, PhD, author of The Five Things We Cannot Change\n\n---\n\nRUSS HARRIS is a physician, therapist, and speaker specializing in stress management.\nHe travels nationally and internationally to train individuals and health professionals in\nthe techniques of ACT. Born and educated in England, he now lives in Australia. For\nmore information, visit thehappinesstrap.com.\n\n---\n\nCover design by Jim Zaccaria\n© 2008 Shambhala Publications, Inc. werwthombhala.com\nPrinted in U.S.A.\nISBN 978-1-59030-584-3\n51495\n\n---\n\nTrumpeter 781590130584\nBoston US $14.95 CAN $16.95\nCopyrighted Material\n\n---\n\n‘Trumpeter Books\nAn imprint of Shambhala Publications, Inc\nHorticultural Hall\n300 Massachusetts Avenue\nBoston, Massachusetts 02115\nwww.shambhala.com\n\n---\n\nPublished by arrangement with Exisle Publishing Ltd,\nAuckland, New Zealand\n\n---\n\nThe cases mentioned in this book are all based on real people, but,\nto protect privacy, key identifying details have been changed.\n\n---\n\nAll rights reserved. No part ofthis book may be reproduced in any form\nor by any means, electronic or mechanical, including photocopying,\nrecording, or by any information storage and retrieval system,\nwithout permission in writing from the publisher.\n\n---\n\n© This edition is printed on acid-free paper that meets the American\nNational Standards Institute 239.48 Standard.\n\n---\n\nDistributed in the United States by Random House, Inc.,\nand in Canada by Random House of Canada Ltd\n\n---\n\nInterior design and composition: Greta D. Sibley & Associates\n\n---\n\nLibrary of Congress Cataloging-in-Publication Data\nHarris, Russ, 1966\nThe happiness trap: how to stop struggling and start living/\nRuss Harris; foreword by Steven Hayes.\np.cm.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_002_20e26c40",
+    "extractor": "openai",
+    "generation_rules": [
+      "use simple and effective methods of ACT"
+    ],
+    "pause_rules": [],
+    "psychological_function": "stress management",
+    "repetition_rules": [],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_002",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "work with ourselves as we are rather than aggressively trying to alter ourselves",
+    "voice_rules": []
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_002_20e26c40",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_002",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:42:41+00:00"
+}

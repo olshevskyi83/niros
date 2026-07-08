@@ -1,0 +1,57 @@
+{
+  "created_at": "2026-07-07T21:52:58+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_188_064eb061",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thoughts",
+      "feelings",
+      "sensations",
+      "confusion",
+      "irritation",
+      "blankness",
+      "self-concept"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Clients with severe dissociation or psychosis may find the exercise confusing or destabilizing."
+    ],
+    "evidence_text": "What was your reaction to that last question? It was probably a thought like, “Me!” or ‘I am!’\nAlternatively, rather than a coherent thought, you may have observed a feeling of confusion or\nirritation, or a sense of ‘going blank’. Whatever it was that you observed— whether a thought,\nfeeling, confusion or blankness—ask yourself: Who was doing the observing?\nrer\n\n---\n\nNow, whatever reaction you are having at this time, just observe it. If it’s the same thought, ‘Me’ or\n‘I am’, just observe that thought. If it’s a feeling of irritation or confusion, just observe that feeling.\nIf it’s a thought like, “Where is he going with this?” or ‘I don’t understand”, just observe it. And as\nyou observe, ask yourself, who is doing the observing?\nrer\n\n---\n\nNow, observe the position that you’re sitting in right now. Observe what sensations you can feel in\nyour legs and in your feet. Wiggle your toes and observe what it feels like. Now ask yourself, who\nis doing the observing?\nEX\n\n---\n\nYour answer to each of the above questions was probably either ‘Me’ or ‘I am.’\n\n---\n\nSo now let me ask you: that ‘me’ or ‘I’ who’s doing all this observing—is it a thought or image or\nsensation? Or is it a place from which you observe thoughts, images and sensations?\n\n---\n\nHopefully, in the above exercise you experienced that no matter what thoughts, images or\nsensations came up, there was a part of you that was separate from them; a part that was able to\n‘step back’ and observe them. That part of you is what I’ve been calling the observing self. It’s the\nplace from which you observe thoughts, feelings, sensations, memories, images, urges, sights,\nsounds, smells and tastes.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_188_064eb061",
+    "extractor": "openai",
+    "generation_rules": [
+      "Prompt client to notice and observe current internal experiences without judgment.",
+      "Encourage repeated questioning of 'Who is doing the observing?' to deepen awareness."
+    ],
+    "pause_rules": [
+      "Include pauses after each question to allow time for internal observation and reflection."
+    ],
+    "psychological_function": "Enhances metacognitive awareness and promotes psychological flexibility by recognizing a separate observing self.",
+    "repetition_rules": [
+      "Repeat the question 'Who is doing the observing?' after each observation to reinforce the distinction between self and experience."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_188",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "observing self",
+      "thoughts",
+      "feelings",
+      "sensations",
+      "place of observation"
+    ],
+    "therapeutic_function": "Facilitates development of self-observation and mindfulness by distinguishing the observing self from thoughts, feelings, and sensations.",
+    "voice_rules": [
+      "Use direct, reflective questioning to guide client introspection.",
+      "Maintain a calm and neutral tone to facilitate observation."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_188_064eb061",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_188",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:58+00:00"
+}

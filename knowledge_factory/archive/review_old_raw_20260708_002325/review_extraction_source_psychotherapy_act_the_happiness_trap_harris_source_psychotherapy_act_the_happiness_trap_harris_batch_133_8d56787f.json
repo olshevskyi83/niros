@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:49:55+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_133_8d56787f",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant sensations",
+      "strong and mild feelings",
+      "urges"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Focusing excessively on feelings in everyday life may create problems by distracting from valued activities; acceptance practice should be balanced with maintaining focus on valued actions."
+    ],
+    "evidence_text": "Take a few slow, deep breaths. Breathe into and around this object. Make some room for it. Allow\nthis object to be there, to stay right where it is. Let go of trying to push it out. You don’t have to\nlike it; just let it be. Don’t try to get rid of the object and don’t try to alter it. If it changes by itself,\nthat’s okay. If it doesn’t change, that’s okay, too. The aim is to accept it, not get rid of it.\n\n---\n\nRepeat this with as many other sensations as you need to, until you have a sense of no longer\nstruggling with these feelings.\n\n---\n\nA: Expansion is a very powerful acceptance skill, and obviously the more you practise, the better\nyou get. So try it out with different feelings—both strong ones and mild ones. Use every\nopportunity. For example, if you’re stuck in traffic, caught in a slow-moving line or waiting for a\nfriend who’s running late, use that time to practise expansion. Notice what you’re feeling in that\nmoment: is it boredom, anxiety, irritation? Whatever it is, observe, breathe and allow—and if you\nwish, visualise. At least then you’ll be using your time constructively to develop a new skill,\ninstead of merely struggling with your feelings.\n\n---\n\nQ: Isn’t it unhealthy to keep focusing on unpleasant feelings?\n\n---\n\nA: I ask you to focus on unpleasant feelings only so you can develop better acceptance skills. In\neveryday life, focusing too much on your feelings will just create problems; it will distract your\nattention from more important things. The ultimate aim of all this practice is:\n\n---\n\ne to be aware of your feelings but not preoccupied with them\n\n---\n\n* to accept them fully and allow them to come and go\n\n---\n\n¢ otherwise, to keep your focus on doing what you value.\n\n---\n\nQ: So far we’ve focused only on dealing with sensations. How do I deal with urges?\n\n---\n\nA: Through using a simple technique known as ‘urge surfing’. And yes, you guessed it: that’s what\nthe next chapter is all about.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_133_8d56787f",
+    "extractor": "openai",
+    "generation_rules": [
+      "Practice slow, deep breathing focused on sensations",
+      "Allow sensations to be present without pushing them away",
+      "Repeat the process with various feelings until struggle decreases",
+      "Use everyday situations as opportunities to practice acceptance skills"
+    ],
+    "pause_rules": [
+      "Pause to breathe slowly and deeply while focusing on the sensation; allow time for the sensation to be observed and accepted."
+    ],
+    "psychological_function": "Reduce struggle with unpleasant feelings by fostering awareness, acceptance, and non-preoccupation with emotions.",
+    "repetition_rules": [
+      "Repeat the acceptance practice with multiple sensations and feelings until a sense of no longer struggling is achieved."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_133",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "breathing into and around an object",
+      "making room for the object",
+      "urge surfing (mentioned as next technique)"
+    ],
+    "therapeutic_function": "Develop acceptance skills by allowing unpleasant sensations to be present without trying to change or avoid them.",
+    "voice_rules": [
+      "Use a calm, instructive tone guiding the individual to observe and allow feelings without judgment or resistance"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_133_8d56787f",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_133",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:55+00:00"
+}

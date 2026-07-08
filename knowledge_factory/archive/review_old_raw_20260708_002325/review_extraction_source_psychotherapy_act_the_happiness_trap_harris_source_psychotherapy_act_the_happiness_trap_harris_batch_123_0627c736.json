@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:49:26+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_123_0627c736",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Emotional discomfort",
+      "Avoidance behaviors",
+      "Psychological inflexibility"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Avoid exposing oneself to discomfort without a clear valued purpose",
+      "Avoid wallowing in feelings aimlessly without therapeutic intent"
+    ],
+    "evidence_text": "“But isn’t this all a bit masochistic?’ you may ask.\n\n---\n\nWell, if you were feeling pain just for the sake of it, then yes, that would be masochism. And\ncertainly in some types of therapy, people are encouraged to wallow in their feelings for no obvious\nbenefit (at least, that I can see). This is not the case in ACT. We don’t advocate exposing yourself to\ndiscomfort unless it is in the service of something important.\n\n---\n\nSuppose you get mild arthritis in your left ankle, so that from time to time it swells up and aches.\nAnd suppose your doctor offers to amputate your leg. There’s no way you’d consent to that for\n\n---\n\nsomething so minor, is there? But suppose you developed bone cancer in that leg, and amputation\nbecame your only chance of survival. Then you would certainly do it. You would accept the\ndiscomfort of amputation because it’s in the service of something important: your life!\nIt’s the same with emotional discomfort. There’s no point in wallowing aimlessly in it.\n\n---\n\nIn ACT, accepting discomfort has only one purpose: to help you take your life forward in a\nmeaningful direction. Thus, in bringing up discomfort to practise expansion, you are learning a\nvaluable skill for transforming your life.\n\n---\n\nSo enough of the talk, already! It’s time to do something useful. Read through the detailed\ninstructions in section “STEP 2: BREATHE” and “STEP 3: ALLOW” once again, then bring up\nsome emotional discomfort as suggested above. Next practise the three steps of expansion: observe,\nbreathe and allow. (This technique is one of several which I have recorded on CD, because many\npeople find it’s easier when a voice guides them through the process. You can find more details in\nthe resources section at the end of this book.) When practising this technique, it’s important to have\nno expectations. Instead, simply notice what happens, and if you have any problems, don’t be\nconcerned; in the next chapter you’ll learn how to resolve them.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_123_0627c736",
+    "extractor": "openai",
+    "generation_rules": [
+      "Bring up emotional discomfort intentionally in service of valued life directions",
+      "Practice the three steps of expansion: observe, breathe, allow",
+      "Have no expectations and simply notice what happens"
+    ],
+    "pause_rules": [
+      "Pause to observe and breathe during the expansion steps",
+      "Allow space for noticing without rushing"
+    ],
+    "psychological_function": "Developing skills to observe, breathe through, and allow emotional discomfort without avoidance or resistance, thereby reducing suffering and promoting value-driven action.",
+    "repetition_rules": [
+      "Repeat the practice of bringing up discomfort and applying the three steps regularly to build skill"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_123",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Emotional discomfort as a necessary sacrifice for meaningful living (analogous to amputation for survival)"
+    ],
+    "therapeutic_function": "Accepting and allowing emotional discomfort to facilitate meaningful life changes and psychological flexibility.",
+    "voice_rules": [
+      "Use guided voice recordings to lead through the process",
+      "Voice should guide through observe, breathe, and allow steps"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_123_0627c736",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_123",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:26+00:00"
+}

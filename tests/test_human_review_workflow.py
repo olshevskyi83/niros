@@ -71,6 +71,52 @@ def _create_pending(
     )
 
 
+def test_create_pending_consolidated_review_and_approve(tmp_path: Path) -> None:
+    from niros.knowledge_consolidator import (
+        ConsolidationSourceContext,
+        KnowledgeConsolidator,
+    )
+    from niros.ctpc_compiler import CTPCCompiler
+
+    workflow = _workflow(tmp_path)
+    extractions = (
+        _extraction(
+            source_id="book_a",
+            segment_id="book_a_batch_001",
+            therapeutic_function="accept emotions",
+        ),
+        _extraction(
+            source_id="book_b",
+            segment_id="book_b_batch_002",
+            therapeutic_function="allow emotions",
+        ),
+    )
+    candidate = KnowledgeConsolidator().consolidate(
+        extractions,
+        source_contexts={
+            "book_a": ConsolidationSourceContext("book_a", "act", "psychotherapy"),
+            "book_b": ConsolidationSourceContext("book_b", "cft", "psychotherapy"),
+        },
+    ).candidates[0]
+    pending = workflow.create_pending_consolidated_review(
+        candidate,
+        knowledge_domain=KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
+    )
+    approved = workflow.approve(pending.review_id, reviewer_id="reviewer_1")
+    pattern = CTPCCompiler(paths=workflow.paths).compile_review(approved)
+
+    assert pending.review_type == "consolidated_candidate"
+    assert pending.consolidated_candidate is not None
+    assert pending.review_id.startswith("review_candidate_")
+    assert len(pending.review_id) < 64
+    assert approved.original_extraction.generation_rules
+    assert approved.original_extraction.voice_rules
+    assert approved.status == REVIEW_STATUS_APPROVED
+    assert pattern.therapeutic_function
+    assert pattern.generation_rules
+    assert pattern.voice_rules
+
+
 def test_create_pending_review_from_extraction(tmp_path: Path) -> None:
     workflow = _workflow(tmp_path)
     record = workflow.create_pending_review(

@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:49:30+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_124_fa78c5e9",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "Unpleasant sensations",
+      "Distracting thoughts",
+      "Cognitive fusion",
+      "Attention wandering"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Trying to make room for too many sensations at once may be overwhelming"
+    ],
+    "evidence_text": "I said it before and I'll say it again: to practise expansion may be simple, but it sure isn’t easy. But\nthen again, what meaningful challenge is? Raising kids, keeping fit, nurturing a relationship,\ndeveloping a career, creating a work of art, caring for the environment: all these meaningful\nchallenges involve some difficulty. So why should practising expansion be any different? Like any\nnew skill, expansion is difficult to begin with, but as you continue to practise, it gets easier. Below\nyou'll find answers to common concerns and problems about expansion.\n\n---\n\nQ: I tried to make room for the feeling, but it was too overwhelming. What should I do?\n\n---\n\nA: You’re probably trying to do too much at once. Just pick one troublesome sensation and keep\nyour focus on it. Aim to accept just that one sensation, even if it takes you several minutes. Once\nyou’ve done that, go ahead and pick another one.\n\n---\n\nA: Yes, sometimes it is hard—at first. But like any skill, it gets easier with practice. Try to keep\nyour focus on one sensation at a time. If your attention wanders to another sensation, then as soon\nas you realise it, bring your focus back to the first sensation.\n\n---\n\nA: Yes, this is the basic nature of the thinking self. It distracts you again and again, pulling you out\nof your experience. So when it starts chattering, just say, ‘Thanks, Mind!’ or silently say to\nyourself, ‘Thinking!’, then gently return your attention to the sensation. And whenever you notice\nthat your attention has wandered, take a second to note what distracted you (a memory, a thought,\nan image); then gently refocus. Each time you do this, you are learning two valuable skills: first, to\nnotice when you’re all caught up in your thoughts (cognitive fusion); and second, to refocus your\nattention after it has wandered.\n\n---\n\nQ: That was fantastic. The moment I made room for my unpleasant feelings, they disappeared. Is\nthis what I can expect every time?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_124_fa78c5e9",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus on one troublesome sensation at a time",
+      "Accept the sensation even if it takes several minutes",
+      "When attention wanders, note the distraction and gently refocus"
+    ],
+    "pause_rules": [
+      "Take a moment to note what distracted attention before gently returning focus to the sensation"
+    ],
+    "psychological_function": "Developing awareness of cognitive fusion, enhancing attentional control, reducing avoidance of unpleasant feelings, and increasing acceptance of internal experiences.",
+    "repetition_rules": [
+      "Repeat the process of noticing distraction and refocusing attention each time it occurs"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_124",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Saying 'Thanks, Mind!' or 'Thinking!' to acknowledge distracting thoughts"
+    ],
+    "therapeutic_function": "Practising expansion to accept and make room for unpleasant sensations, improving ability to focus on one sensation at a time, and learning to gently refocus attention when distracted by thoughts.",
+    "voice_rules": [
+      "Use gentle, encouraging language",
+      "Use phrases like 'Thanks, Mind!' or 'Thinking!' to acknowledge thoughts without judgment"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_124_fa78c5e9",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_124",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:30+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:52:49+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_185_6273fd9b",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative self-thoughts",
+      "self-judgment",
+      "cognitive fusion"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be confusing or overwhelming for individuals with difficulty in abstract thinking or severe cognitive impairments."
+    ],
+    "evidence_text": "Self-acceptance means being okay with who you are, recognising that you are neither the black\npieces nor the white pieces in a chess game. Rather, you are the board. The board is in intimate\ncontact with the pieces but is not caught up in the fray.\n\n---\n\n‘Whoa!’ you might say. “That all sounds a bit “out there”. What do you mean, I’m the board, not\nthe pieces?’\n\n---\n\nWhat I mean is, those pieces on the board are just cognitions—nothing more than thoughts, images\nand memories. Are you a thought? For example, are you the words ‘I’m not good enough’? Are you\nan image, nothing more than a picture in your own head? Are you a memory, merely a record of\nsomething that happened in the past?\n\n---\n\nIf these questions are making your head spin, don’t worry; you’re not the only one. So let’s put\nthem aside for a moment and consider the following scenario.\n\n---\n\nHave you ever watched a documentary on Africa? What did you see? Lots of crocodiles, lions,\nantelopes, gorillas and giraffes? Tribal dances? Military conflict? Political upheaval? Colourful\nmarketplaces? Amazing mountains? Beautiful, placid villages in the country side? Poverty-stricken\nshantytowns? Starving children? You can learn a lot from watching a documentary, but one thing is\nfor sure: a documentary about Africa is not Africa itself.\n\n---\n\nA documentary can give you impressions of Africa. It can certainly show you some dramatic sights\nand sounds, but it wouldn't even come close to the actual experience of travelling there in the flesh.\nNo matter how brilliantly filmed, no matter how “authentic” it is, a documentary about Africa is not\nthe same thing as Africa itself.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_185_6273fd9b",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphors to illustrate the distinction between self and thoughts.",
+      "Pose reflective questions to challenge identification with thoughts."
+    ],
+    "pause_rules": [
+      "Pause after posing reflective questions to allow processing."
+    ],
+    "psychological_function": "Facilitates cognitive defusion by helping individuals observe thoughts as separate from the self, reducing identification with negative cognitions.",
+    "repetition_rules": [
+      "Reiterate the distinction between self and thoughts through multiple metaphors."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_185",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "chess board",
+      "chess pieces",
+      "documentary about Africa",
+      "Africa itself"
+    ],
+    "therapeutic_function": "Promotes self-acceptance by encouraging differentiation between the self and transient thoughts, images, and memories.",
+    "voice_rules": [
+      "Conversational and questioning tone to engage curiosity and reflection."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_185_6273fd9b",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_185",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:49+00:00"
+}

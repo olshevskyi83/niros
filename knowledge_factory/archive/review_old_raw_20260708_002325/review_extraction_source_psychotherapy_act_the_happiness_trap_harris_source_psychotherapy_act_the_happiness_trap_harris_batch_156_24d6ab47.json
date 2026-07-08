@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-07-07T21:51:08+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_156_24d6ab47",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing depression",
+      "individuals with anhedonia",
+      "individuals avoiding unpleasant feelings"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals unable to engage in mindful awareness or with severe cognitive impairments."
+    ],
+    "evidence_text": "It’s no surprise, then, that a common symptom of depression is anhedonia, which is the inability to\ntake pleasure in previously enjoyable activities—after all, it’s hard to enjoy what you’re doing if\nyou’re not connected with it. But the reverse is also true: the more connected you are with a\npleasurable activity, the more fulfilling it will be. Thus, connection is an important skill for getting\nthe most out of life.\n\n---\n\nTo appreciate connection, practise it with at least one pleasant activity each day. Make sure it’s a\nvalues-driven activity, not an avoidance-driven activity—that is, it’s something you’re doing\nbecause it’s important or meaningful, or a genuinely valued part of your life, and not just an attempt\n\n---\n\nto avoid ‘bad feelings’. The activity doesn’t have to be anything mind-blowing. It can be something\nas simple as eating lunch, stroking the cat, walking the dog, listening to the birds, cuddling your\nkids, drinking a can of Coke, sitting in the sunshine, listening to a favourite piece of music or\nchatting with a friend.\n\n---\n\nNow, as you do this activity, imagine that this is the first time you’ve ever done it. Really pay\nattention to what you can see, hear, smell, touch and taste. Savour every moment. And the moment\nyou realise you’ve disconnected, thank your mind and refocus on what you’re doing.\n\n---\n\nThen at the end of the day, reflect on what it was like to be fully present .\n\n---\n\nIf it’s hard to connect fully with pleasant events, then it’s natural that we should so easily\ndisconnect from the unpleasant ones. Whenever we encounter an unpleasant event, we naturally try\nour best to get rid of it or avoid it. But what if getting rid of it isn’t our best option? What if this\nunpleasant situation is necessary for us to improve our quality of life?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_156_24d6ab47",
+    "extractor": "openai",
+    "generation_rules": [
+      "Select at least one values-driven pleasant activity daily",
+      "Engage fully with sensory experience as if for the first time",
+      "Acknowledge and thank the mind upon disconnection and refocus attention",
+      "Reflect daily on experience of being fully present"
+    ],
+    "pause_rules": [
+      "Pause to savor sensory details during activities",
+      "Pause to reflect at the end of the day on presence"
+    ],
+    "psychological_function": "Promote mindful awareness and acceptance of experiences, reducing avoidance of unpleasant feelings and increasing engagement with valued activities.",
+    "repetition_rules": [
+      "Repeat mindful engagement with pleasant activities daily",
+      "Repeat noticing disconnection and refocusing during activities"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_156",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "pleasant activity",
+      "connection",
+      "disconnection",
+      "mind thanking and refocusing"
+    ],
+    "therapeutic_function": "Enhance connection with present moment pleasurable activities to increase fulfillment and counteract anhedonia.",
+    "voice_rules": [
+      "Encourage gentle, non-judgmental self-awareness",
+      "Use invitational and experiential language"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_156_24d6ab47",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_156",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:08+00:00"
+}

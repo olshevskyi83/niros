@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:51:53+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_171_0e068e90",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "anxiety",
+      "suicidal ideation",
+      "sadness",
+      "urge to drink alcohol"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "None explicitly stated in the text"
+    ],
+    "evidence_text": "If T am with a client who tells me that he intends to go and kill himself, I naturally feel a surge of\nanxiety. Now, it won’t help my client if I get carried away by my thoughts and feelings. So I\nimmediately take one slow, deep breath and during those few seconds I make room for my anxiety,\nallow my thoughts to fade into the background and focus my attention firmly on my client. And\nuntil the crisis is resolved, I keep breathing slowly and deeply, allowing my thoughts and feelings to\ncome and go as I remain fully connected with what I’m doing. In this way my breathing acts as an\nanchor. It doesn’t get rid of my anxiety, but it stops me from getting carried away. It’s like a\nconstant, soothing presence in the background, while my attention is focused on taking effective\naction.\n\n---\n\nRemember Donna, whose husband and child died in a car crash? For many months afterward,\nfeelings of sadness would suddenly surge within her, out of the blue. Donna found that even one\ndeep breath could give her a foothold to stop that wave of sadness from sweeping her away. She\ncould then breathe into the sadness, make room for it and reconnect with her experience here and\n\n---\n\nnow. Often this sadness triggered a strong urge to drink alcohol. And here again, even one deep\nbreath made a difference. It gave her a few precious seconds to realise what was happening. Then\nshe could make a conscious choice as to whether or not she would act on that urge.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_171_0e068e90",
+    "extractor": "openai",
+    "generation_rules": [
+      "Take one slow, deep breath immediately when overwhelmed by anxiety or emotional surge",
+      "Focus attention firmly on the present client or experience",
+      "Allow thoughts and feelings to come and go without getting carried away",
+      "Breathe slowly and deeply continuously until crisis is resolved"
+    ],
+    "pause_rules": [
+      "Use the few seconds during deep breaths to create mental space and allow thoughts to fade into the background"
+    ],
+    "psychological_function": "Facilitates emotional regulation by creating space for difficult emotions, allowing thoughts and feelings to fade into the background while maintaining connection to the present moment and conscious choice.",
+    "repetition_rules": [
+      "Repeat slow, deep breaths as needed to maintain grounding and emotional regulation"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_171",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "breathing as an anchor",
+      "breathing as a soothing presence"
+    ],
+    "therapeutic_function": "Using slow, deep breathing as an anchor to manage anxiety and emotional surges, enabling presence and effective action without being overwhelmed by thoughts and feelings.",
+    "voice_rules": [
+      "Maintain a calm and steady tone to support grounding and presence"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_171_0e068e90",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_171",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:53+00:00"
+}

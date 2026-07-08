@@ -1,0 +1,47 @@
+{
+  "created_at": "2026-07-07T21:52:26+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_179_3e44ce2e",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "low self-esteem",
+      "negative self-judgments",
+      "difficulty asserting self-worth"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Clients who may interpret the separation of self and thoughts as invalidation of their feelings."
+    ],
+    "evidence_text": "Antonio, a gardener, age 35, says: ‘I always undercharge for my services and it makes me really\nangry with myself. But I find it so hard to ask for more. I just have no self-esteem.’\n\n---\n\nLow self-esteem is an epidemic. As the two examples above illustrate, it gets blamed for almost\neverything from lack of a social life to the inability to ask for adequate payment. Clients frequently\ntell me they want to get rid of it or, alternatively, to boost it, so that it’s “high”. And I always ask\nthem this question: ‘What does “self-esteem” actually mean?’ Over the years I’ve had an\nastonishing variety of answers, many of them exceedingly complex. But actually the answer is very\nsimple: self-esteem is an opinion that you hold about what sort of person you are. High self-esteem\nis a positive opinion; low self-esteem is a negative one.\n\n---\n\nSo there you have it. Self-esteem is a bunch of thoughts about what sort of person you are. And\nhere’s the key thing: self-esteem is not a fact; it’s just an opinion. That's right, it’s not the truth; it’s\njust an opinion—nothing more than a highly subjective judgement, made by your thinking self.\n‘Fair enough,’ you might say, ‘but isn’t it important to have a good opinion of yourself?’",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_179_3e44ce2e",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use questions to explore the meaning of self-esteem.",
+      "Clarify that self-esteem is an opinion, not a fact."
+    ],
+    "pause_rules": [
+      "Pause after posing reflective questions to allow client contemplation."
+    ],
+    "psychological_function": "Facilitates cognitive defusion by separating the self from negative thoughts about self-worth, promoting acceptance of thoughts as opinions rather than truths.",
+    "repetition_rules": [
+      "Repeat the distinction between opinion and fact regarding self-esteem to reinforce understanding."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_179",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "To help clients recognize that self-esteem is a subjective opinion rather than an objective fact, thereby reducing the impact of negative self-judgments.",
+    "voice_rules": [
+      "Adopt a curious and non-judgmental tone when discussing self-esteem.",
+      "Use client examples to illustrate points."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_179_3e44ce2e",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_179",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:26+00:00"
+}

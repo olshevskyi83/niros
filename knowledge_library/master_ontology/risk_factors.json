@@ -1,0 +1,25 @@
+{
+  "ontology_version": "master_ontology_v1",
+  "risk_factors": [
+    {
+      "risk_id": "active_psychosis_risk",
+      "name": "Active Psychosis Risk",
+      "description": "Current or recent psychotic symptoms or strong vulnerability to psychosis in unsupported contexts.",
+      "linked_mechanism_ids": ["cognitive_fusion", "control_strategies"],
+      "linked_problem_ids": ["anxiety", "depression"],
+      "contraindication_notes": "May be contraindicated for unsupervised or high-intensity psychedelic protocols pending specialist review.",
+      "human_review_status": "seed",
+      "source_references": []
+    },
+    {
+      "risk_id": "unmanaged_suicidality",
+      "name": "Unmanaged Suicidality",
+      "description": "Active suicidal intent or inadequate safety planning and support.",
+      "linked_mechanism_ids": ["harsh_self_criticism", "loss_of_meaning", "rumination"],
+      "linked_problem_ids": ["depression", "grief"],
+      "contraindication_notes": "Requires escalation and stabilization before deeper experiential work.",
+      "human_review_status": "seed",
+      "source_references": []
+    }
+  ]
+}

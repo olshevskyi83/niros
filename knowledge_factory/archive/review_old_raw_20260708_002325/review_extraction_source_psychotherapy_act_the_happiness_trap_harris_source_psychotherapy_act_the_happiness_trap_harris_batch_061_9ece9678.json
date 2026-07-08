@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:45:59+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_061_9ece9678",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "intrusive thoughts",
+      "distressing or oppressive thoughts",
+      "thoughts that consume attention and prevent connection with loved ones"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "If the Silly Voices technique feels like trivialising serious issues to the individual, it should not be used."
+    ],
+    "evidence_text": "Now, for some people the Silly Voices technique may seem inappropriate for a thought like this,\nbecause it might seem to be trivialising something quite serious. If that’s how it feels to you, don’t\nuse it. But it’s important to note that defusion is not about trivialising or making fun of genuine\nproblems in your life. Defusion is aimed at freeing us from oppression by our minds; freeing up our\ntime, energy and attention so we can invest it in meaningful activities rather than dwelling uselessly\non our thoughts. So if ‘Pll be dead soon’ keeps showing up and taking up all your attention, thus\npreventing you from connecting with your loved ones, then you could defuse it in a number of\ndifferent ways. You could acknowledge, ‘Aha! Here’s the “imminent death” story’ or “Pm having\nthe thought that Pl be dead soon’ or you could simply say, “Thanks, Mind!”\n\n---\n\nAnd don’t think you are going to have to spend the rest of your life thanking your mind or hearing\nyour thoughts in ditties and silly voices. These methods are merely stepping stones. Down the line\nyou can expect to defuse your thoughts instantly, without the need for such contrived techniques\n(although there will always be times when it’s useful to pull them out of your psychological\ntoolkit).\n\n---\n\nWhen practising defusion, it’s important to keep the following things in mind:\n\n---\n\n* The aim of defusion is not to get rid of unpleasant thoughts, but rather to see them for what they\nare —just words—and to let go of struggling with them. At times they will go away and at times\nthey won’t. If you start expecting them to go, you are setting yourself up for disappointment or\nfrustration.\n\n---\n\n¢ Don't expect these techniques to make you feel good. Often when you defuse a troublesome\nthought, you will feel better. But this is just a beneficial byproduct, not the main goal.\n\n---\n\nThe main goal of defusion is to free you from the tyranny of your mind, so you can focus your",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_061_9ece9678",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use defusion techniques as stepping stones, progressing towards instant defusion without contrived methods over time",
+      "Do not expect thoughts to disappear; focus on changing the relationship with thoughts"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text."
+    ],
+    "psychological_function": "Seeing thoughts as just words and letting go of struggling with them, thereby reducing the emotional and cognitive fusion with unpleasant thoughts without necessarily eliminating them.",
+    "repetition_rules": [
+      "Repeatedly acknowledge or label thoughts (e.g., 'Here’s the “imminent death” story') or thank the mind to create distance."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_061",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Silly Voices",
+      "thanking the mind",
+      "acknowledging thoughts as stories or mental events"
+    ],
+    "therapeutic_function": "Defusion techniques aim to free individuals from the oppression of their minds by reducing the impact of intrusive or distressing thoughts, allowing them to invest time, energy, and attention in meaningful activities rather than dwelling on those thoughts.",
+    "voice_rules": [
+      "Use silly or contrived voices temporarily to create psychological distance from thoughts; these are tools rather than permanent practices."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_061_9ece9678",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_061",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:59+00:00"
+}

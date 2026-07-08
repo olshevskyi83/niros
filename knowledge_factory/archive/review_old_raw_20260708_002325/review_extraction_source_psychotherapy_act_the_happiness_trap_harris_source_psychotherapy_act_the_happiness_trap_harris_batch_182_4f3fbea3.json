@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:52:39+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_182_4f3fbea3",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "self-esteem",
+      "negative self-thoughts",
+      "positive self-affirmations",
+      "cognitive fusion"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Potential distress in individuals with severe self-criticism or low self-esteem due to exposure to harsh negative self-statements."
+    ],
+    "evidence_text": "* lam a worthwhile, lovable, valuable, wonderful human being.\n\n---\n\nWhat happened as you tried to believe those thoughts? For most people, the more positive the\nthought, the harder it is to believe and the more resistance there is from negative thoughts such as,\n“Yeah, right!’, ‘Who are you kidding?’, ‘Stop talking rubbish!’, “You wish!’, ‘What a joke!’\n\n---\n\nA few people do actually manage to fuse with the above affirmations and therefore feel wonderful\n—for a moment. But that feeling won’t last very long. Pretty soon the black pieces will attack again.\n\n---\n\nNow, Pd like you to do the same exercise with one more sentence: ‘I am a useless, worthless,\nunlovable piece of human garbage.’\n\n---\n\nWhat happened this time? Most people produce a positive thought in their own defence, something\nlike, ‘Hang on a minute, I’m not that bad!’ or ‘No way, I don’t believe that.’\n\n---\n\nAnd again, a tiny number of people totally fuse with the thought and, as a result, feel lousy.\n\n---\n\nThe reality is, we can find an infinite number of good and bad stories to tell about ourselves and as\nlong as we’re invested in self-esteem, we’re going to waste a lot of time in this chess game fighting\nan endless battle against our own limitless supply of negative thoughts.\n\n---\n\nLet’s suppose a black piece appears saying, ‘How could you be such a bloody idiot?’ and you rally\n\n---\n\nthe white pieces for help: ‘Of course you’re not an idiot. You just made a mistake, that’s all. You’re\nhuman.’ But another black piece appears saying, ‘Who are you kidding? Just look at how you\nstuffed it up last time!’ And you counterattack with another white piece: ‘Yeah, but this time it’s\ndifferent; I’ve learned my lesson.’ Another black piece says: ‘Oh, you think so? You’re such a\nmoron, you'll never get it right!”",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_182_4f3fbea3",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use contrasting self-statements to evoke awareness of internal dialogue and resistance.",
+      "Present opposing thoughts as a dynamic interaction (black and white pieces) to externalize internal conflict."
+    ],
+    "pause_rules": [
+      "Pause after presenting each self-statement to allow reflection on emotional and cognitive reactions."
+    ],
+    "psychological_function": "To increase awareness of the automatic resistance and defense mechanisms triggered by self-related thoughts, and to illustrate the internal conflict between self-affirmation and self-criticism.",
+    "repetition_rules": [
+      "Repeat the exercise with both positive and negative self-statements to demonstrate symmetry in fusion and resistance.",
+      "Reiterate the pattern of internal conflict to emphasize its ongoing nature."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_182",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "black pieces",
+      "white pieces",
+      "chess game"
+    ],
+    "therapeutic_function": "To observe and reduce fusion with both positive and negative self-evaluative thoughts, highlighting the transient nature of emotional responses to these thoughts and the futility of battling an endless stream of self-judgments.",
+    "voice_rules": [
+      "Use direct, conversational questioning to elicit personal reflection on thought processes.",
+      "Incorporate common internal critical voices to normalize negative self-talk."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_182_4f3fbea3",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_182",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:39+00:00"
+}

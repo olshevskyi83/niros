@@ -1,0 +1,47 @@
+{
+  "created_at": "2026-07-07T21:46:31+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_071_adf0f8bf",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unhelpful thoughts",
+      "mind wandering",
+      "mental distraction"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "Keep in mind that the defusion techniques we’ve covered so far are like those inflatable armbands\nyoung children use in swimming pools: once you can swim, you don’t need them anymore. The\nidea is that later on, as you incorporate the other ideas within this book, you can defuse your\nthoughts without giving them too much attention; you can be thoroughly engaged in your work, a\nconversation, or any other meaningful activity, and when an unhelpful thought pops into your head\nyou can instantly see it for what it is, and let it come and go without it distracting you.\n\n---\n\nThis will be much clearer after the next chapter, in which we explore an immensely powerful aspect\nof human consciousness, a resource within us that has been so overlooked by western society that\nthere isn’t even a common word for it in the English language.\n\n---\n\nBut don’t turn the page straightaway. Why not wait a few days before reading on, and in the\nmeantime practise your defusion skills? And if your mind says, ‘It’s all too hard; I can’t be\nbothered’, simply thank it.\n\n---\n\nHave you ever noticed some strange or disturbing thought pop into your head and wondered,\n“Where did that come from?’ Have you ever been chided for not paying attention and said, ‘Sorry, I\nwas somewhere else’? Do you ever suddenly realise that your mind has ‘wandered’?\n\n---\n\nIf we look more closely at these expressions, we can see that they point to something rather curious.\nWhere did that thought come from? And where did it go? And if you were ‘somewhere else’, then\nwhere were you? And how did you get back from there?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_071_adf0f8bf",
+    "extractor": "openai",
+    "generation_rules": [
+      "Practice defusion skills regularly before progressing to new material",
+      "Acknowledge resistant thoughts with acceptance (e.g., thanking the mind)"
+    ],
+    "pause_rules": [
+      "Suggest pausing before moving on to new chapters to consolidate skills"
+    ],
+    "psychological_function": "Enhances awareness of the transient nature of thoughts and promotes mental presence by recognizing when the mind wanders and returning focus.",
+    "repetition_rules": [
+      "Encourage repeated practice of defusion techniques over several days"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_071",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "inflatable armbands as a metaphor for defusion techniques"
+    ],
+    "therapeutic_function": "Defusion techniques help individuals observe unhelpful thoughts without giving them undue attention, allowing engagement in meaningful activities without distraction.",
+    "voice_rules": [
+      "Use a guiding and encouraging tone",
+      "Address internal resistance with gentle acceptance"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_071_adf0f8bf",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_071",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:46:31+00:00"
+}

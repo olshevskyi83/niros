@@ -26,6 +26,12 @@ class TherapeuticFunctionExtraction:
     therapeutic_function: str
     psychological_function: str = ""
     evidence_text: str = ""
+    mechanism_name: str = ""
+    mechanism_description: str = ""
+    why_this_is_a_mechanism: str = ""
+    causal_process: str = ""
+    ontology_status: str = ""
+    ontology_mechanism_id: str = ""
     symbolic_elements: tuple[str, ...] = field(default_factory=tuple)
     generation_rules: tuple[str, ...] = field(default_factory=tuple)
     voice_rules: tuple[str, ...] = field(default_factory=tuple)

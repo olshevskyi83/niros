@@ -1,0 +1,1489 @@
+[PAGE 001]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+Effects of LSD on music-evoked brain activity
+Mendel Kaelen!*, Romy Lorenz23*, Frederick Barrett*, Leor Roseman"?, Csaba Orban?”,
+Andre Santos-Ribeiro!, Matthew B Wall’, Amanda Feilding?, David Nutt’, Suresh
+Muthukumaraswamy’, Robin Carhart-Harris?, Robert Leech?
+
+1Centre for Neuropsychopharmacology, Department of Medicine, Imperial College London, London W12 ONN,
+UK
+2Computational, Cognitive and Clinical Neuroscience Laboratory (C3NL), Department of Medicine, Imperial
+College London, London W12 ONN, UK
+3Department of Bioengineering, Imperial College London, SW7 2AZ, UK
+4Behavioral Pharmacology Research Unit, John Hopkins School of Medicine, Baltimore, USA
+5Imanova Centre for Imaging Sciences, Hammersmith Hospital, London W12, UK
+6The Beckley Foundation, Oxford OX3 9SY, UK
+7Schools of Pharmacy and Psychology, University of Auckland, Auckland 1142, New Zealand
+
+* These authors contributed equally to the work.
+
+
+Correspondence: m.kaelen@imperial.ac.uk
+
+[PAGE 002]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+Abstract
+
+Music is a highly dynamic stimulus, and consists of distinct acoustic features, such as pitch, rhythm and timbre.
+Neuroimaging studies highlight a hierarchy of brain networks involved in music perception. Psychedelic drugs
+such as lysergic acid diethylamide (LSD) temporary disintegrate the normal hierarchy of brain functioning, and
+produce profound subjective effects, including enhanced music-evoked emotion. The primary objective of this
+study was to investigate the acute effects of LSD on music-evoked brain-activity under naturalistic music
+listening conditions. 16 healthy participants were enrolled in magnetic resonance imaging (fMRI) while
+listening to a 7-minute music piece under eyes-closed conditions on two separate visits (LSD (75 mcg) and
+placebo). Dynamic time courses for acoustic features were extracted from the music excerpts, and were
+entered into subject-level fMRI analyses as regressors of interest. Differences between conditions were
+assessed at group level subsequently, and were related to changes in music-evoked emotions via correlation
+analyses. Psycho-physiological interactions (PPIs) were carried out to further interrogate underlying music-
+specific changes in functional connectivity under LSD. Results showed pronounced cortical and subcortical
+changes in music-evoked brain activity under LSD. Most notable changes in brain activity and connectivity
+were associated with the component timbral complexity, representing the complexity of the music’s spectral
+distribution, and these occurred in brain networks previously identified for music-perception and music-
+evoked emotion, and showed an association with enhanced music-evoked feelings of wonder under LSD. The
+findings shed light on how the brain processes music under LSD, and provide a neurobiological basis for the
+usefulness of music in psychedelic therapy.
+
+
+1. Introduction
+
+The capacity of music to elicit emotions has been utilised by humans across cultures for
+millennia (Morley, 2013; Nettl, Bruno, 1956). Music is a highly dynamic and multi-
+dimensional stimulus, consisting of distinct acoustic features, such as pitch, loudness,
+tempo, rhythm and timbre. Within the field of cognitive neuroscience, the study of music
+has provided valuable insights into the functional organization of the human brain due to
+music’s recruitment of large-scale brain networks involved in attention (Janata, 2005),
+working memory (Kumar et al., 2016; Zatorre et al., 1994), episodic memory (Janata, 2009;
+Watanabe et al., 2008), motor function (Zatorre et al., 2007) and emotion (Koelsch, 2014;
+Trost et al., 2012). As such, neuroimaging studies with music highlight a hierarchy of
+processes involved in music perception: ascending from the cochlear, the auditory system
+analyses increasingly complex acoustic features which are subsequently integrated via
+multi-modal and higher-order cortical regions that facilitate associations with mental
+representations, memories and emotions (Kumar et al., 2007; Stewart et al., 2008). While
+the majority of neuroimaging studies have used controlled auditory experiments to study
+acoustic features in isolation, recent studies advocate the use of more naturalistic
+paradigms in which participants listen to real, extended pieces of music to increase the
+ecological validity and obtain a more comprehensive description of the brain mechanisms
+involved in processing naturalistic stimuli (Alluri et al., 2012; Burunat et al., 2016).
+
+
+Advances in understanding the human brain can be made not only by studying its normal
+functioning, but also by experimentally perturbing it. For the study of music, perturbations
+that may be of particular significance are the effects of classic psychedelic drugs such as
+lysergic acid diethylamide (LSD) and psilocybin (i.e. psychedelics). Psychedelics activate the
+serotonin 2A receptor (Glennon et al., 1984; Titeler et al., 1988; Vollenweider et al., 1998),
+and produce an altered state of consciousness that is characterised by marked reductions in
+functional coupling within high-level brain networks (Carhart-Harris et al., 2012, 2016a;
+
+[PAGE 003]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+Palhano-Fontes et al., 2015), but simultaneous increased cross-talk between low-level areas
+(Tagliazucchi et al., 2014, 2016). This network “collapse” is thought to be a core mechanism
+underlying their subjective effects, that include a dissolving of the usual sense of self-hood,
+increased emotionality and vivid mental imagery (Carhart-Harris et al., 2014; Lebedev et al.,
+2015) and a profoundly altered subjective experience of music (Kaelen et al., 2015).
+
+
+Studying psychedelics and music in combination may therefore represent a unique
+Opportunity to improve our understanding of changes in the brain’s processing of complex
+naturalistic stimuli, accompanying the changes in functional brain hierarchies that are
+reported under psychedelics, and to investigate how these changes are related to reported
+changes in the subjective experience of music. In addition, increasing numbers of studies
+assess the therapeutic potential of these subjective effects within “psychedelic therapy” - a
+therapeutic approach that is characterised by lengthy periods of introspective music-
+listening during drug effects (Carhart-Harris et al., 2016b; Gasser et al., 2014; Griffiths et al.,
+2016; Grob CS et al., 2011; Johnson et al., 2014; Ross et al., 2016). Despite the prominence
+of music in psychedelic therapy, the effects of psychedelics on the subjective experience of
+music have only been empirically investigated recently (Kaelen et al., 2015, 2016). Studying
+how psychedelics and music work together in the brain, may therefore also be important to
+advance our understanding of the use of music in psychedelic therapy.
+
+
+The primary objective of this study was to investigate the acute effects of the classic
+psychedelic LSD on music-evoked brain activity under naturalistic music listening conditions.
+In addition, music can reliably evoke emotions (Trost et al., 2012), and psychedelic drugs are
+shown to reliably facilitate emotionally intense “peak-experiences”! under music-listening
+conditions (Griffiths et al., 2011, 2006). Hence, the secondary objective of the study was to
+investigate the neural correlates of “peak” emotions such as feelings of wonder and
+transcendence evoked by music under LSD. These objectives were studied as part of a larger
+project examining the effects of LSD on brain activity in healthy volunteers using multimodal
+neuroimaging (reported elsewhere (Carhart-Harris et al., 2016a; Lebedev et al., 2016;
+Tagliazucchi et al., 2016)).
+
+
+2. Materials and Methods
+
+2.1 Ethical approvals
+
+The study received approvals by the National Research Ethics Service (NRES) committee
+London — West London and was conducted in accordance with the revised declaration of
+Helsinki (2000), the International Committee on Harmonisation Good Clinical Practice
+guidelines and National Health Service (NHS) Research Governance Framework. Imperial
+
+
+1 The term peak experience was firstly coined by the psychologist Abraham Maslow (Maslow, 1964,
+1971). Peak-experiences are characterized by a transcending of the usual sense of self, and are typically
+accompanied by feelings of wonder, bliss, union and awe. Peak experiences have also been referred to as
+mystical-type of spiritual experiences, and can occur under natural conditions such as when being deeply moved
+by a work of art or a moment of creative inspiration but are frequently reported with psychedelics (Garcia-
+Romeu et al., 2014; Griffiths et al., 2016; Ross et al., 2016)
+
+[PAGE 004]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+College London sponsored the study, which was conducted under a Home Office license for
+research with schedule | drugs.
+
+
+2.2 Participants
+
+
+Twenty participants (16 males and 4 females) were recruited for the study after successful
+screening and written informed consent. Screening consisted of physical and mental health
+assessments. Physical health assessments included electrocardiogram (ECG), routine blood
+tests, disclosure of full medical history and urine test for recent drug use and pregnancy.
+Mental health assessment consisted of psychiatrics interview. All participants provided full
+disclosure of their drug use history. Exclusion criteria included: being younger than 21 years
+of age, having a personal history of diagnosed psychiatric illness, having an immediate
+family history of a psychotic disorder, having used illicit drugs within 6 weeks of the first
+scanning day, having experienced a persistent adverse reaction to a psychedelic drug,
+pregnancy, problematic alcohol-use (i.e. > 40 units consumed per week), and having a
+medical condition rendering them unsuitable for the study. All participants were required to
+have at least one previous experience with a classic psychedelic drug (e.g. LSD, mescaline,
+psilocybin or dimethyltryptamine (DMT)). One participant did not complete the MRI scans
+due to anxiety and three participants were excluded from analyses due to technical
+problems with the sound delivery. This resulted in the data of 16 participants (13 males, 3
+female) being included in the data-analysis; with preserved counterbalanced experimental
+design.
+
+
+2.3 Stimuli
+
+Two excerpts (A and B) from two songs by ambient artist Robert Rich were selected for the
+study. The stimuli were both 7.3 min long and were balanced in their acoustic properties,
+and rich in timbre, but not in rhythm (see Appendix: Table 1 and Figure 1). Pre-study
+assessments in a separate group confirmed balance for their emotional potency. To reduce
+interference of fMRI scanning noise with the music experience, volume-maximization and
+broadband compression was carried out using Ableton live 9 software. Each participant
+listened to both stimuli, in a balanced order across conditions.
+
+
+2.4 Experiment overview and procedures
+
+All participants attended two study days that were separated by at least 14 days. LSD was
+received on one of the study days, and placebo (saline) on the other. The condition-order
+was balanced across participants, and participants, but not the researchers, were blind to
+the condition-order.
+
+All participants received 75 ug of LSD intravenously via a 10ml solution infused over a two-
+minute period via an inserted cannula. Administration was always followed by an
+acclimatization period of approximately 60 min, in which participants were encouraged to
+relax. Drug effects were noticed between 5 to 15 min post-dosing, approached maximum
+
+[PAGE 005]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+intensity between 60 to 90 min post-dosing, and maintained peak intensity for
+approximately four hours post-dosing. Blood-Oxygen-Level Dependent (BOLD) MRI scanning
+was performed during peak drug intensity, starting approximately 120 minutes post-dosing,
+and lasted for approximately 60 minutes. Once the subjective effects of LSD had sufficiently
+subsided, the study psychiatrist assessed the participant’s suitability for discharge.
+
+Each fMRI scanning session involved three eyes-closed resting state scans, each lasting
+seven minutes and twenty seconds. The music-listening scan (220 TRs, 7.3 min) always
+occurred after the first resting state (no music) scan and before a final resting-state scan (no
+music). Prior to each scan, participants were instructed via a display screen to close their
+eyes and relax. The music itself was triggered by the first TR, and listened to via MR
+compatible headphones (MR Confon). Music volume was adjusted to a personal level that
+was “loud, but not unpleasant” and maintained for both conditions.
+
+
+2.5 Qualitative measurements
+
+The intensity of different types of music-evoked emotion was assessed via the 25-item
+Geneva emotional music scale (GEMS)(Zentner et al., 2008), and was administered under
+placebo and under LSD immediately after fMRI scanning was completed. The GEMS assesses
+music-evoked or directly “personally felt” emotion, and not the perception of musical
+emotion in the music. For example: a piece of music may sound sad to the listener, but the
+listener may not necessarily feel sad him or herself in response to this music. The GEMS is
+designed to assess the latter. The 25 items of the GEMS were averaged into nine distinct
+factors of emotions: wonder, transcendence, power, tenderness, nostalgia, peacefulness,
+joyful activation, sadness, and tension. A paired t-test was performed to compare ratings
+between conditions (LSD versus placebo) for each emotion. Non-parametric permutation
+testing (10,000 permutations, two-tailed) was carried out to correct for multiple
+comparisons.
+
+
+2.6 Acoustic feature extraction
+
+Acoustic features from excerpt A and B were extracted separately using the Music
+Information Retrieval (MIR) toolbox (version 1.6.1), implemented in MATLAB (Lartillot and
+Toiviainen, 2007). Selection of acoustic features was based on Alluri et al (2012, 2013), who
+identified 25 features that broadly capture the dynamics of the timbral, tonal and rhythmic
+properties present in the music stimuli (Alluri et al., 2012, 2013). Following Alluri et al, from
+the original 25 features, we excluded fluctuation entropy and fluctuation centroid because
+they have not been studied in the literature and did not carry any valid perceptual meaning
+(Alluri et al. 2012, Alluri 2016 personal communication). The 23 acoustic features used in our
+analyses were categorized into short-term features and long-term features (for an overview
+see Table 1). The short-term features were extracted with a sliding window of 25 ms, with
+50% overlap between each segment while for the computation of the long-term features a
+longer sliding window of 3 s was employed, with 33% overlap between each segment
+(following the approach in Alluri et al. 2012, 2013). Subsequently, principle component
+analysis (PCA) on the acoustic features (combined for excerpt A and B) was performed to (1)
+
+[PAGE 006]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+identify acoustic properties that are present in both excerpts and (2) to reduce the number
+of regressors entered into the general linear model (GLM) for fMRI analyses. To prepare the
+acoustic features for the PCA, we first resampled short and long-term features to the same
+sampling rate of 1 s. We then rescaled (between O and 1) the acoustic features. The
+resulting timecourses for excerpt A and B were then concatenated, to undergo the PCA. We
+performed varimax rotation on the first eight principal components (PCs) that explained
+over 90% of the variance (see Fig. 1 for rotated PCs and their respective loadings).
+
+In order to validate that the first eight PCs explained the two excerpts equally well (i.e., that
+PCs were not driven by either one excerpt or the other), we correlated (Pearson r) each of
+the 23 predicted timeseries (by multiplying the eight rotated PC loadings with the 23 PC
+timecourses) with the corresponding acoustic features for the two excerpts separately.
+Across all 23 acoustic features, we found a mean + std r of 0.9098 + 0.0919 for excerpt A
+and 0.8835 + 0.1037 for excerpt B (for correlation values per acoustic feature, see Appendix
+Fig. 1). As the difference in variance explained between the two excerpts was negligible, we
+used the timecourses of the first eight rotated components for our subsequent analyses.
+
+Next, we split the timecourses of the rotated PCs to obtain timeseries corresponding to
+excerpt A and B, respectively. Those were then convolved with a double-gamma
+hemodynamic response function (HRF) to account for the hemodynamic delay, down-
+sampled to 2 s, to match the sampling rate of the fMRI data and high-pass filtered at the
+cut-off frequency of 0.01 Hz (same as fMRI data). The first 10 seconds (5 TRs) of each
+excerpt’s timeseries were excluded for subsequent analysis in order to avoid any artefacts
+caused by the convolution operation. The timeseries were then entered as regressors of
+interest into subject-level GLMs of the fMRI analysis.
+
+
+Table 1. Acoustic features from the Music Information Retrieval toolbox that were used in the analysis.
+
+
+Short-term features
+
+Zero crossing rate, spectral centroid, high energy—low energy ratio, spectral spread, spectral roll-off, spectral
+entropy, spectral flatness (Wiener entropy), roughness, RMS energy, spectral flux, and Sub-Band Flux (10
+coefficients).
+
+
+Long-term features
+Pulse clarity, fluctuation centroid, fluctuation entropy, mode and key clarity.
+
+
+2.7 MRI scanning
+
+
+Neuroimaging was performed on a 3T GE HDx system. An initial 3D FSPGR anatomical scan
+was obtained in an axial orientation, with field of view = 256x 256x 192 and matrix = 256 x
+256x 192 to yield 1-mm isotropic voxel resolution (TR/TE = 7.9/3.0 ms; inversion time = 450
+ms; flip angle = 20°). This was used for registration and segmentation of functional images.
+Functional images were acquired using a gradient echo planar imaging sequence, TR/TE =
+2000/35ms, field-of-view = 220mm, 64 x 64 acquisition matrix, parallel acceleration factor =
+2, 90° flip angle. 35 oblique axial slices were acquired in an interleaved fashion, each 3.4mm
+thick with zero slice gap (3.4mm isotropic voxels). The precise length of each of the BOLD
+scans was 7 minutes and 20 seconds.
+
+[PAGE 007]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+2.8 fMRI pre-processing
+
+The fMRI pre-processing pipeline was assembled from four complementary imaging
+software packages. Specifically, FMRIB Software Library (FSL) (Smith et al., 2004), AFNI (Cox,
+1996), Freesurfer (Dale et al., 1999) and Advanced Normalization Tools (ANTS) (Avants et al.,
+2009) were used. The following pre-processing stages were performed: 1) de-spiking
+(3dDespike, AFNI); 2) motion correction (3dvolreg, AFNI) by registering each volume to the
+volume most similar, in the least squares sense, to all others (in-house code); 3) brain
+extraction (BET, FSL); 4) rigid body registration to anatomical scans (eleven subjects with
+FSL’s BBR, one subject with Freesurfer’s bbregister and four subjects manually); 5) non-
+linear registration to 2mm MNI brain (Symmetric Normalization (SyN), ANTS); 6) scrubbing
+(Power et al., 2012) - using a framewise displacement (FD) threshold of 1.0 mm; 7) spatial
+smoothing (FWHM) of 5mm (3dBlurinMask, AFNI) and high-pass filtering at a cut-off
+frequency of 0.01 Hz to remove baseline signal drifts. In addition, nine nuisance regressors
+were obtained: six were motion-related (3 translations, 3 rotations) and three were
+anatomically-related (not smoothed). Specifically, the anatomical nuisance regressors were:
+I) ventricles (Freesurfer, eroded in 2mm space), Il) draining veins (DV) (FSL’s CSF minus
+Freesurfer’s Ventricles, eroded in 1mm space) and Ill) white matter (WM) (FSL’s WM minus
+Freesurfer’s subcortical grey matter (GM) structures, eroded in 2mm space). In order to cut
+the fMRI data and nuisance regressors to the same length as the PC timecourses, we
+removed the first 5 TRs.
+
+
+2.9 fMRI data analysis
+
+We applied a standard analysis pipeline from FSL FEAT GLM to determine the effect of PC
+timecourses on BOLD activation. All eight PC timecourses were entered as regressors of
+interest into subject-level GLMs in addition to their temporal derivatives and all nine
+nuisance regressors (resulting in 27 regressors in total). We then analysed the fMRI data
+with respect to eight contrasts (one contrast for each PC). The resulting individual subject-
+level contrasts were then entered into a group averaged higher-level (mixed-effects) cluster-
+corrected FEAT analysis (FLAME 1+2) to obtain the paired t-test contrasts of LSD > Placebo
+and Placebo < LSD. In order to model out any potential effect of the order in which subjects
+listened to the different music excerpts under the different conditions, respectively, we
+included an interaction term in the higher-level FEAT as a regressor of no interest. We
+repeated the higher-level analysis without the interaction term and obtained qualitatively
+similar results (not reported). All final group-level images were thresholded using a cluster
+correction threshold of Z > 2.3 and a cluster significance threshold of p = 0.05. Group-level
+images were visualized on an average surface brain using MRIcron(Rorden et al., 2007).
+
+
+2.10 ROI selection and extraction for correlation with individual variability in reported
+music-evoked peak emotions
+
+Region of interest (ROI) analysis was constrained to the group-level contrast LSD>Placebo
+for timbral complexity (i.e., PC3, see Results). ROI selection was based on previous literature
+
+[PAGE 008]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+and encompassed structures that have been commonly identified for music-evoked emotion
+(striatum, precuneus and insula) (Koelsch, 2014; Trost et al., 2012), auditory perception
+(planum temporale and IFG) (Alluri et al., 2012, 2013; Griffiths and Warren, 2002; Zatorre
+and Salimpoor, 2013) and the subjective effects of psychedelics (precuneus and insula)
+(Carhart-Harris et al., 2016a; Muthukumaraswamy et al., 2013a; Tagliazucchi et al., 2016).
+ROIs were created by first selecting corresponding binarized structural areas from the
+Harvard-Oxford atlas (using a probability threshold of 10%) and then multiplying these with
+the group-level results to guarantee anatomical and functional specificity of the ROIs. Note
+that only the largest consecutive cluster of voxels was considered within each ROI. This
+procedure led to nine ROls: right planum temporale, left planum temporale, right precunes,
+right putamen, left putamen, right caudate, left caudate, right inferior frontal gyrus and
+right anterior insula. The mean parameter estimates within each ROI were extracted for
+each participant, and Spearman’s rank correlation tests were used to relate the changes in
+parameter estimates (LSD > Placebo) with changes in GEMS-ratings for music-evoked
+emotions for the factors wonder and transcendence (LSD > Placebo). Non-parametric
+permutation testing (10,000 permutations, one-tailed) was carried out to correct for
+multiple comparisons (9 ROIs x 2 GEMS scales).
+
+
+2.11 Psychophysiological interaction analysis
+
+In order to assess timbral-specific changes in functional connectivity for the brain regions
+that showed a significant relationship with music-evoked feelings of wonder (i.e., precuneus
+and right inferior frontal gyrus, see Results), we conducted two separate
+psychophysiological interaction (PPI) analyses. For this, we first extracted subject-specific
+timecourses from those ROls and then applied the standard FSL FEAT GLM analysis pipeline.
+In addition to regressors that were included in the initial fMRI analysis (eight PC
+timecourses, their temporal derivatives and nine nuisance regressors), we included the ROI
+timecourse (physiological regressor) and the PPI regressor that consisted of the element-
+wise multiplication of the physiological regressor with the timecourse encoding timbral
+complexity (psychological regressor, i.e. PC 3). The resulting individual subject-level
+contrasts were then entered into the same higher-level (mixed-effect) cluster-corrected
+FEAT analysis as described above (with an interaction term to model out the effect of
+“group”, see fMRI analysis section).
+
+
+3. Results
+
+3.1 Acoustic feature extraction
+
+The first eight principal components that together explained more than 90% of the variance,
+showed consistency with the components identified in other musical genres using the same
+method (tango, classic and pop (Alluri et al., 2012, 2013; Burunat et al., 2016)), supporting
+their reliability for representing fundamental acoustic properties in music. Importantly,
+perceptual validation and labelling for similar components has been demonstrated (Alluri et
+al., 2012). In the present study, we therefore adopted a comparable labelling for the
+identified principle components (PCs) (Fig. 1). In fact, when quantitatively comparing our
+and Alluri et al.’s PCs, we find medium to very high correlations (Pearson r) for fullness (r =
+
+[PAGE 009]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+0.37), brightness (r =.96), timbral complexity (r = .91), key clarity (r = .96) and pulse clarity (r
+= .96).
+
+
+Z7CR -
+Mich E Spectral Centroid
+3 Shectral Spread
+i ne ow Energy
+
+
+Spectral oll-off
+Spectral Entropy
+Flatness
+Roughness
+RMS Eneray
+Spectral Flux
+TVYSIIL AJA IDO
+Sub-Band No.1 Flux
+3511d
+Sub-Band No.2 Flux -
+Sub-Band No.3 Flux
+
+Id WO3
+Sub-Band No.4 Flux
+£ONWaans
+Sub-Band No.5 Flux SSINTINa
+Sub-Band No.6 Flux SSINLHOIYE LLIYW1D
+Sub-Band No.7 Flux ALIYV19
+Sub- Band No.8boat: F HLONIYLS
+ALIXI
+Sub-Band No.10 Flux
+Pulse Clarity
+Mode -
+Key Clarity
+
+1 2 3 4 5 6 7 8
+Principal Components
+
+Figure 1. Principle Component Analysis (PCA) of acoustic features. Loadings of the acoustic features on the
+first 8 PCs obtained from PCA followed by varimax rotation explained more than 90% of the variance. The x-
+axis shows the ordering of principal components, with the components ordered by explained variance. The
+colour bar corresponds to the strength of the loading for each acoustic feature for that components: warm
+colours indicates a positive loading, and cold colours a negative loading.
+
+
+3.2 Effects of LSD on music-evoked brain activity
+
+Following pre-processing (see Methods), the time courses of the first eight PCs were
+entered into subject-level fMRI analyses as regressors of interests. Resulting individual
+subject-level contrasts were then entered into high-level analyses to obtain paired t-test
+contrasts of LSD > Placebo and Placebo < LSD.
+
+These analyses revealed altered BOLD responses under LSD for different acoustic
+components and within distinct cortical and sub-cortical areas. For the component
+brightness, decreases under LSD were observed in the left lateral occipital cortex (Fig. 2A).
+For fullness, LSD increased activation in the bilateral thalamus, and decreased activation in
+the occipital cortex and right middle and inferior frontal gyrus (IFG) (Fig. 2B). For timbral
+complexity widespread increases under LSD were found in cortical and subcortical networks,
+including auditory and auditory association cortices such as Heschl’s Gyrus, superior
+temporal gyrus (STG), and planum temporale as well as higher-level heteromodal cortices
+such as the precuneus, the right insula and the right IFG, bilateral striatum, as well as the
+occipital cortex and the supplementary motor cortex (see Supplementary Table 3 for a
+complete list). Increased BOLD activations to timbral complexity appeared more evident for
+left auditory cortices and more extensive in the right IFG and right anterior insula, although
+this was not directly compared (Fig. 2C). For the component Subband 3, LSD significantly
+increased activation in occipital cortices while decreasing activation in the cerebellum (Fig.
+
+[PAGE 010]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+2D). For key clarity, significant increases under LSD were observed in the right lateral
+occipital cortex, and decreases were found in the left striatum (Fig. 2E). For the component
+Subband 2, LSD-related increases were observed in the right lateral occipital cortex (Fig. 2F).
+
+A) Brightness
+
+
+Figure 2. Brain regions showing altered BOLD response to the acoustic features under LSD. Increases
+(LSD>placebo) are displayed in yellow, and decreases (placebo>LSD) are displayed in blue. Cluster-correction
+was applied to all images with a threshold of Z > 2.3. Significant effects were observed in: A) brightness, with
+decreases in the occipital cortex, in B) fullness, with decreases in occipital cortex and right inferior frontal gyrus
+(IFG) and increases in bilateral thalamus, in C) timbral complexity, with increases in bilateral striatum, occipital
+cortex, supplementary motor cortex, auditory cortices, right insula and right IFG, in D) subband 3, with
+decreases in the cerebellum, and increases in the occipital cortice, in E) key clarity, with decreases in the left
+striatum and the right lateral occipital cortex, and finally, in F) subband 2, with increases in the right occipital
+cortex.
+
+[PAGE 011]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+3.3 Effects of LSD on music-evoked emotion
+
+Alongside investigating changes in music-evoked brain activity under LSD, our study also
+assessed the effects of LSD on music-evoked emotions. We measured nine different music-
+evoked emotions using the Geneva Emotional Music Scale (GEMS) that was completed by
+each participant after listening to music in each condition(Zentner et al., 2008). Paired t-
+tests on the GEMS scales revealed that, compared to placebo, music-evoked emotions were
+significantly higher under LSD for wonder (t(1s)=4.47, p=.002), transcendence (ti1s)=4.17,
+p=.004), power (t(15,=3.82, p=.008), tenderness (ti1s=3.78, p=.008), nostalgia (t(13)=3.94,
+p=.006), peacefulness (t(1s,=4.45, p=.003), and joyful activation (t(ıs)=4.86, p=.001), but not
+for sadness (t(15,=1.93, p=.25) or tension (ti1s)=1.42, p=.63) (Fig. 3). P-values reported here
+are corrected for multiple comparisons using two-sided permutation testing with a set to
+.05. These results replicate our previous work (Kaelen et al., 2015) demonstrating an
+intensified emotional experience with music under LSD.
+
+
+strongly felt - . . . . .
+
+
+1 ' . . « Placebo
+
+moderatelyfelt} > * | . ” bo
+
+
+not felt at all
+
+
+Figure 3. The average scores (thick line) + standard deviation (error bars) for each condition, including
+individual values (dots) for each participant, for nine factors of music-evoked emotions assessed with the 25-
+item Geneva Emotional Music Scale (GEMS). Blue = placebo and red = LSD. Asterisks on the x-axis by the factor
+labels indicate a statistically significant difference for this emotion between condition (p<0.05) after multiple
+comparison correction.
+
+[PAGE 012]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+3.4 Correlation analyses between music-evoked brain activity and peak emotions
+
+Having established that psychedelics intensify the emotional experience of music and alter
+the music-evoked BOLD response, we subsequently explored interactions between peak
+emotions (as captured by the GEMS scales wonder and transcendence) and associated
+increases in music-evoked brain activity. We conducted correlation analyses (Spearman’s
+rank) between changes in music-evoked peak emotions (LSD > Placebo) and music-evoked
+BOLD activity (LSD > Placebo) for nine ROls. This correlation analysis was constrained to the
+contrast for timbral complexity (i.e., PC3) as related BOLD changes were most pronounced
+and occurred in brain networks commonly identified for music perception and emotion
+(Alluri et al., 2012; Koelsch, 2014). ROI selection was based on previous literature and
+encompassed structures that have been commonly identified for music-evoked emotion
+(striatum, precuneus and insula)(Koelsch, 2014; Trost et al., 2012), auditory perception
+(planum temporale and IFG) (Alluri et al., 2012, 2013; Griffiths and Warren, 2002; Zatorre
+and Salimpoor, 2013) and regions previously associated with the subjective effects of
+psychedelics (precuneus and insula) (Carhart-Harris et al., 2016a; Muthukumaraswamy et
+al., 2013a; Tagliazucchi et al., 2016). We found significant positive correlations between
+changes in music-evoked feelings of wonder and music-evoked BOLD activation to timbral
+complexity within the precuneus (r = 0.67, p = .034) as well as within the right inferior
+frontal gyrus (r = 0.65, p = .045) (Fig. 4). In addition, we found trend-level positive
+correlations between changes in feelings of transcendence and the right inferior frontal
+gyrus (r = 0.61, p = .066). P-values reported were corrected for multiple comparisons using
+one-sided permutation testing with a set to .05.
+
+
+Table 2. MNI coordinates for the centres of gravity of ROIs
+
+
+Region Coordinates (X,Y Z) # voxels
+
+R Planum Temporale 54.8 -22.6 | 11 290
+
+L Planum Temporale -48.8 | -33 15.2 658
+
+Precuneus 14.6 -62.6 19 414
+
+R Putamen 22.8 10.2 -0.4 308
+
+L Putamen -25.6 | 1.4 3.8 364
+
+Right Caudate 15.2 14 8 158
+
+Left Caudate -14.2 | 17.8 3.4 76
+
+Right IFG (Broca area) 58.8 9.8 14.6 60
+
+Right Anterior Insula 31.2 13.8 9 48
+
+[PAGE 013]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+A)
+A Planum Temporale
+
+
+L Planum Temporale
+
+Precuneus
+
+
+R Putamen
+
+
+L Putamen
+
+A Caudate
+
+
+L Caudate
+
+RIFG (Broca area)
+
+R Anterior Insula
+
+
+Wonder Transcendence precuneus right IFG
+
+
+C) Precuneus activation D) Right IFG activation
+5 versus wonder 81 versus wonder
+
+
+o an a +
+
+4 wonder
+awonder
+
+
+0
+2 r=0.67 r=0.65
+p = .034 p=.045
+01 Y ' 11) ' ' ’
+50 50@ 100 150 200 250 -100 -50 30 50 100 150 200
+. —— e —>
+2 e A activation Ze A activation
+
+
+4 A
+
+
+Figure 4. The correlation analysis comparing subjective experience with BOLD activity. A) Correlation matrix
+of parameter estimates with music-evoked peak emotions: wonder and transcendence. Asterisks indicate a
+statistically significant correlation (p < 0.05) after multiple comparison correction. B) Location of masks for the
+precuneus and right inferior frontal gyrus (right IFG). C) Correlation plot showing a positive correlation
+between changes in parameter estimates in the precuneus and increases in music-evoked emotions of wonder
+under LSD (r = 0.67, p = .034). D) Correlation plot showing a positive correlation between changes in
+parameter estimates in the right IFG and increases in music-evoked emotions of wonder under LSD (r = 0.65, p
+= .045).
+
+
+3.5 Effects of psychedelics and music on functional connectivity
+
+The relationship between feelings of wonder and music-evoked activation to timbral
+complexity in the precuneus and the right IFG informed subsequent PPI analyses with the
+aim of gaining insight into underlying music-specific changes in functional connectivity
+under LSD. Two separate PPI analyses were conducted, using either the precuneus or right
+IFG as a seed ROI, in order to identify brain areas for which the activation time course during
+the LSD condition was more or less coupled with the seed regions depending on the level of
+timbral complexity in the music. Under LSD, we found significantly increased coupling of the
+precuneus with the right superior frontal gyrus (SFG) for passages when the music exhibited
+
+[PAGE 014]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+high timbral complexity (See fig. 5A). In addition, we found significantly decreased coupling
+of the precuneus with the right IFG as well as the right auditory cortex under LSD when
+timbral complexity in the music increased (See fig. 5B). No significant timbral-specific
+changes in functional connectivity were found for the right IFG as seed.
+
+
+B) Altered timbral-specific functional connectivity
+of the precuneus under LSD
+
+1.5- * Placebo ° LSD
+
+
+1 0. .*
+
+
+0.5. e. YY :
+m baja?
+2 vs
+00 A ha * = F 1 +
+“iu p
+
+[vw * y
+
+0.5. .
+
+
+1 o right SFG right auditory cortex
+£ FG
+
+
+Figure 5. Brain regions showing altered timbral-specific functional connectivity under LSD. A). Group level
+results from the PPI analysis using the right precuneus ROI (displayed in red). Increased coupling (LSD>placebo)
+with the precuneus was observed in the right superior frontal gyrus (right SFG) (displayed in hot/orange), and
+decreased coupling (placebo>LSD) with the precuneus was observed in the right auditory cortex and right
+inferior frontal gyrus (right IFG) (displayed in blue). Z < 2.3. B) Connectivity values of each individual participant
+and for each condition (Blue = placebo, red = LSD) for the precuneus with the right SFG (left), and for the
+precuneus with the right IFG and auditory cortex (right).
+
+
+3.6 Effect of head motion
+
+In order to investigate potentially confounding effects of motion on our results, we
+investigated frame-wise displacement (FD) between the drug and placebo condition as well
+as conducted correlation analyses between changes in FD (LSD>placebo) and extracted
+parameter estimates from the nine ROIs. The mean + std FD for placebo and LSD was 0.091
++ 0.037 and 0.174 +0.1, respectively, which was found to be statistically significant using a
+paired t-test (t(1s) = -3.28, p=0.005). However, we did not find any significant correlations
+(Spearman's rank) between changes in FD (LSD>Placebo) and changes in music-evoked
+BOLD activity for the contrast timbral complexity (LSD > Placebo) in any of the nine ROls:
+right planum temporale (r=0.04, p=0.88), left planum temporale (r=-0.01, p=0.97),
+precuneus (r=0.02, p=0.93), right putamen (r=-0.29, p=0.27), left putamen (r=-0.21, p=0.42),
+right caudate (r=-0.2, p=0.45), left caudate (r=-0.28, p=0.3), right IFG (r=0.29, p=0.27) and
+right insula (r=0.28, p=0.28). We therefore concluded that the effect of motion for our
+results seem negligible. P-values reported here are uncorrected for multiple comparisons.
+
+[PAGE 015]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+4. Discussion
+
+This study investigated the effects of the classic psychedelic drug LSD on music-evoked brain
+activity and emotion under naturalistic listening conditions. Widespread BOLD activity
+changes under LSD in cortical and subcortical areas were associated with distinct acoustic
+features in the music. The BOLD signal increases observed under LSD to the component
+timbral complexity are particularly noteworthy, as the regions lie within brain networks
+commonly identified for music-perception and music-evoked emotion. These include
+bilateral auditory cortices, right inferior frontal gyrus (IFG), right insula, precuneus, bilateral
+striatum and supplementary motor area (SMA). Music-evoked emotions were rated higher
+under LSD, and increased feelings of wonder correlated with increased BOLD activation to
+timbral complexity in the right precuneus and in the right IFG. The functional connectivity
+analysis revealed decoupling under LSD of the right precuneus with a network that includes
+auditory cortices and the right IFG with increased timbral complexity, as well as increased
+coupling under LSD of the precuneus with the superior frontal gyrus (SFG).
+
+
+4.1 Timbral complexity and the auditory-IFG network
+
+Timbral complexity corresponds to the complexity in the shape and the spread of the
+music’s spectral envelope. Spectral properties are thought to be processed by the planum
+temporale (Kumar et al., 2007), a central “computational hub” of the auditory cortex that
+segregates incoming spectral signals into distinct spectrotemporal patterns (Griffiths and
+Warren, 2002). Subsequent information exchange with higher cortical regions such as the
+IFG, is thought to facilitate the linking of the perceived spectrotemporal patterns with
+learned representations and associations (Hackett, 2011; Zatorre and Salimpoor, 2013). The
+auditory cortex and IFG are anatomically (Plakke and Romanski, 2014) and functionally
+(Tomasi and Volkow, 2012) well-connected, and considered an important pathway for the
+perception of auditory objects (Griffiths and Warren, 2004; Zatorre and Salimpoor, 2013),
+musical melody (Zatorre et al., 1994), musical harmony (Opitz et al., 2002; Schónwiesner et
+al., 2007), musical syntax (Koelsch et al., 2002), and the encoding of musical expectation
+(Osnes et al., 2012; Zatorre, 2015) as well as musical imagination (Herholz et al., 2012).
+Damage and abnormal functioning in the auditory-IFG network has been linked to impaired
+music perception (Hyde et al., 2007, 2011; Leveque et al., 2016) and auditory hallucinations
+(Looijestijn et al., 2013). Therefore, the marked BOLD signal changes under LSD to timbral
+complexity within this network suggests how LSD may modulate the brain’s processing of
+timbral and spectrotemporal information in music.
+
+Apart from a key role in music perception, converging evidence describes the IFG’s
+involvement in the evaluation of emotional valence in acoustic information. Happy
+emotional vocalisations produce increased IFG activity compared to angry vocalisations
+(Frúhholz et al., 2016; Schirmer and Kotz, 2006; Wiethoff et al., 2008) - an effect that has
+been observed as early in development as 7-months old (Grossmann et al., 2010). The brain
+has been shown to more closely track the time-varying tonal structure of music in the IFG
+during the experience of music-evoked nostalgia than during the experience of music that
+does not evoke nostalgia (Barrett and Janata, 2016). Brain damage and experimentally
+disrupting brain activity in the IFG, by using transcranial magnetic stimulation (TMS), is
+linked with impairments in identifying emotional valence in voice (Hoekert et al., 2010).
+
+[PAGE 016]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+However, the IFG is associated with emotionally salient information from different sensory
+modalities (Lee and Siegle, 2012), and has been more generally conceptualised as being part
+of a cognitive control network (Irlbacher et al., 2014; Marklund and Persson, 2012) that is
+associated with the allocation of attentional resources for emotionally salient information
+(Vuilleumier, 2005). Paying attention to the emotional valence of visual (Critchley et al.,
+2000; Schindler and Kissler, 2016) and auditory (Bach et al., 2008) stimuli is associated with
+increases in IFG activity, and emotionally salient information can produce marked
+attentional biases (Vuilleumier, 2005). Increased right IFG activation to music’s timbral
+complexity under LSD, and the positive correlation of this increase with music-evoked
+emotion, may therefore indicate increased allocation of attentional resources for emotional
+information conveyed via music’s timbre that is processed within the auditory-IFG circuitry.
+
+The view that the auditory-IFG network may play a role in LSD’s effects on musical
+information processing receives further support from the functional connectivity analyses.
+The PPI analysis revealed significant decoupling of the right precuneus with the right
+auditory cortex and the right IFG under LSD, in interaction with timbral complexity. The
+precuneus is a highly connected hub region that plays an important role in self-referential
+cognition (Buckner et al., 2008; Cavanna and Trimble, 2006) and emotion-regulation
+(Cavanna and Trimble, 2006; Schilbach et al., 2012), and shows desynchronized activity
+under psychedelics (Carhart-Harris et al., 2016a; Muthukumaraswamy et al., 2013a; Riba et
+al., 2002). This disorganising effect of psychedelics on precuneus activity has been
+associated with “ego-dissolution”, characterised by increased emotional lability (Carhart-
+Harris et al., 2016a; Lebedev et al., 2015; Tagliazucchi et al., 2014, 2016). Although the
+precuneus is activated by music-evoked emotion (Baumgartner et al., 2006; Koelsch, 2014;
+Trost et al., 2012), the region shows poor anatomical (Cavanna and Trimble, 2006) and
+resting state functional connectivity (Tomasi and Volkow, 2012) with auditory regions. The
+precuneus is, however, well-connected with frontal regions such as the IFG and SFG (Zhang
+and Li, 2012), and this circuit is thought to provide top-down guidance (Cavanna and
+Trimble, 2006). As such, decreased precuneus-auditory/IFG coupling under LSD may reflect
+a reduced regulatory influence of the precuneus over emotion processing within the IFG,
+and this in turn may facilitate an intensified emotional response to music.
+
+
+4.2 Timbral complexity and the limbic system
+
+LSD produced marked increases in BOLD activation to timbral complexity in the striatum and
+in the insula; regions that have both been consistently associated with music-evoked
+emotion. The striatum has been implicated in brain mechanisms underlying music-evoked
+pleasure (Blood and Zatorre, 2001; Salimpoor et al., 2011), likely via the encoding of
+auditory expectation and reward in interaction with auditory cortices (Salimpoor et al.,
+2013, 2015). The insula is a high-level hub region that is thought to facilitate emotional
+awareness (Craig, 2009), the attribution of emotional meaning to music, sound and human
+voice (Frúhholz et al., 2016; Koelsch, 2014; McGettigan et al., 2013; Petrini et al., 2011; Trost
+et al., 2012), and the subjective effects of classic psychedelics(Carhart-Harris et al., 2016a;
+Lebedev et al., 2015; Tagliazucchi et al., 2014, 2016). Interestingly, the present study did not
+find a relationship between music-evoked emotion and the striatum. One implication of this
+could be that the striatum is predominantly concerned with the processing of “simple”
+
+[PAGE 017]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+affect states characterised by reward and pleasure, whereas more complex emotional
+states, such as feelings of wonder, may require more complex cognition, and thus more
+complex cortical mechanisms. The selective positive correlation between increased feelings
+of wonder and BOLD signal changes in higher-level brain regions such the IFG and precuneus
+support this idea.
+
+Taken together, these observations suggest that LSD alters the dynamic interplay between
+the analysis of “low-level” spectral properties in the music, and the subsequent “high-level”
+regulation and processing of the emotional associations. The precuneus, the IFG and the
+insula may play a particularly important role in facilitating music-evoked peak emotion, due
+to their involvement in processing of emotional awareness (Craig, 2009) and “complex”
+music-evoked emotion (Frúhholz et al., 2016; Koelsch, 2014; McGettigan et al., 2013; Petrini
+et al., 2011; Trost et al., 2012). A disintegration or weakening of the mechanisms that
+normally regulate emotion (Lebedev et al., 2015; Tagliazucchi et al., 2016), may be one
+mechanism underlying the strong emotional experiences associated with music under
+psychedelics.
+
+
+4.3 Possible brain mechanisms
+
+Classic psychedelics such as LSD stimulate serotonin 2A receptors (Kometer et al., 2013; Riga
+et al., 2016; Titeler et al., 1988), which are primarily expressed on deep layer V pyramidal
+cells (Celada et al., 2013). Upon activation of serotonin 2A receptors, the cell’s membranes
+depolarize, reducing the neuron’s threshold for firing (Andrade, 2011). Over-activation of
+the serotonin 2A receptor underlies desynchronised activity within high-level brain
+networks (Muthukumaraswamy et al., 2013b), leading to impaired top-down control and an
+increased information exchange between brain modules that are usually more strictly
+functionally segregated (Carhart-Harris et al., 2016a; Tagliazucchi et al., 2016). Deep layer V
+pyramidal cells are believed to encode learned mental representations or “predictions” that
+are matched with incoming sensory stimuli in a top-down fashion (Bastos et al., 2012), anda
+disruption of this process via over-activation of the serotonin 2A receptor system by
+psychedelics is believed to produce disorganised or “entropic” activation of these mental
+representations (Carhart-Harris et al., 2014).
+
+The high density of serotonin 2A receptors within the precuneus, insula and the planum
+temporale (Erritzoe et al., 2009; Ettrup et al., 2014) suggests that psychedelics can alter
+auditory information processing at different stages of the processing hierarchy. Since the
+planum temporale is functionally specialised for processing distinct spectrotemporal
+patterns (Griffiths and Warren, 2002), the particularly pronounced BOLD increases under
+LSD for “timbral complexity” in this region may reflect an increased activation of intrinsic
+deep-pyramidal neurons that encode predictions for music’s spectral properties. In addition,
+altered planum temporale activity may also be driven by increased input from top-down
+projecting deep layer V pyramidal cells from the IFG and insula. In turn, decoupling of the
+auditory/IFG circuitry with the precuneus could indicate an unregulated (“entropic”)
+activation of emotional associations attributed to the music by this circuit (Frühholz et al.,
+2016; Koelsch, 2014; McGettigan et al., 2013; Petrini et al., 2011; Trost et al., 2012), hence
+yielding an intensified emotional response to music.
+
+[PAGE 018]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+4.4 The significance of timbre
+
+This discussion leads to the question of why LSD produced especially prominent modulation
+of neural processing of music’s timbral complexity. Timbre-perception is present in early
+infancy (Dalla Bella et al., 2001), and the infants’ ability to memorise and recognize their
+mother’s voice as early as two days after birth has been argued to be due to the infant’s
+innate tuning to timbral properties common to speech and music (Tsang and Trainor, 2002).
+Timbre is shown to convey emotion cross-culturally (Egermann et al., 2015), independently
+of other acoustic features (Hailstone et al., 2009). Timbre has been conceptualised to
+function as an interface, that connects distinctive spectral features within a sound with
+meaningful emotional associations (Hailstone et al., 2009). The findings of this study suggest
+that LSD may target this interface, thereby “tuning” the brain to acoustic properties that
+communicate emotionally significant information. The resulting heightened responsiveness
+for music’s “non-verbal language” may be at the core of the intensifying effects of LSD for
+music-evoked emotion.
+
+
+4.5 Effects of LSD on the brain’s processing of other acoustic features
+
+The previous discussion centred around the changes observed for timbral-complexity,
+because these changes were most pronounced and appeared to be localised to networks
+commonly associated with music-perception and music-evoked emotion. However, several
+other findings must be highlighted. Increased thalamus and decreased IFG activation was
+observed under LSD in response to “fullness”, i.e., the loudness of the sound. Loudness
+reflects a less complex acoustic property (the amplitude of the signal), and has previously
+been associated with a preferential activation of lower auditory regions (Reiterer et al.,
+2007). Significant BOLD signal changes were also observed in occipital cortices for various
+acoustic features. Since the serotonin 2A receptor is densely expressed in the visual cortex
+and LSD produces significant alterations in the intrinsic functional organisation of the visual
+cortex (Roseman et al., 2016), these occipital changes could reflect effects of LSD on music-
+induced mental imagery, such as reported elsewhere (Kaelen et al., 2016).
+
+
+4.6 Therapeutic implications
+
+Music listening is considered an important component of psychedelic-assisted
+psychotherapy for the treatment of depression (Carhart-Harris et al., 2016b), addiction
+(Bogenschutz et al., 2015; Johnson et al., 2014) and end-of-life care (Gasser et al., 2014;
+Griffiths et al., 2016; Grob CS et al., 2011; Ross et al., 2016). The present study supports the
+usefulness of music in facilitating emotions associated with peak-experiences, which are
+associated with positive therapy outcomes (Garcia-Romeu et al., 2014; Griffiths et al., 2016;
+Ross et al., 2016), and is the first to ground this framework into a neurobiological basis. The
+findings also suggest that knowledge of the ways musicians utilise timbre to convey emotion
+may be a particularly fruitful avenue to empirically inform the design of playlists for
+psychedelic-assisted psychotherapy.
+
+[PAGE 019]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+4.7 Study limitations
+
+The study focused on LSD’s effects on the neurophysiological processing of acoustic
+properties in music, but did not include perceptual measures for these features. Future
+studies may address questions such as whether features are perceived differently, whether
+certain acoustic features are experienced differently than others and whether perceptual
+changes reflect real acoustic details that have been previously unnoticed. Studies assessing
+these issues will be particularly important for our understanding of how psychedelics alter
+the subjective experience of music, and more broadly, salient sensory information.
+
+Another study limitation was that only a single musical genre was used. The music used was
+rich in timbre and pitch variation, but low in tempo. The music choice may therefore have
+resulted in restricted description of LSD’s effect on timbral features in music, since it could
+be hypothesised that other brain networks will be engaged when more rhythmic and
+arousing music is used. However, the component for which LSD showed most pronounced
+neurophysiological changes (i.e. “timbral complexity”), was not the component that
+explained most of the variance within the music (i.e., the third component), supporting the
+validity of the method in identifying brain changes to distinct and diverse musical dynamics
+within a naturalist music listening experience.
+
+
+5. Conclusion
+
+The present study revealed altered brain activity and connectivity to acoustic features in
+music under LSD. Most pronounced changes in brain activity and connectivity were
+associated with the component timbral complexity, representing the complexity of the
+music’s spectral distribution, and these occurred in brain networks previously identified for
+music-perception and music-evoked emotion, and showed an association with enhanced
+music-evoked feelings of wonder under LSD. The findings are the first to shed light on how
+the brain processes music under LSD, and provide a new perspective on brain processes
+underlying music perception and peak emotion under naturalistic listening conditions.
+
+
+Acknowledgements
+
+This research received financial and intellectual support from the Beckley Foundation (Grant
+number: P41825) and was conducted as part of a wider Beckley-Imperial research
+programme. The researchers would like to thank supporters of the Walacea.com crowd-
+funding campaign who played a crucial role in securing funds to complete the study.
+
+[PAGE 020]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+References
+
+Alluri, V., Toiviainen, P., Jääskeläinen, I.P., Glerean, E., Sams, M., and Brattico, E. (2012). Large-scale brain
+networks emerge from dynamic processing of musical timbre, key and rhythm. Neurolmage 59, 3677-3689.
+
+
+Alluri, V., Toiviainen, P., Lund, T.E., Wallentin, M., Vuust, P., Nandi, A.K., Ristaniemi, T., and Brattico, E. (2013).
+From Vivaldi to Beatles and back: Predicting lateralized brain responses to music. Neurolmage 83, 627-636.
+
+
+Andrade, R. (2011). Serotonergic regulation of neuronal excitability in the prefrontal cortex.
+Neuropharmacology 61, 382-386.
+
+
+Bach, D.R., Grandjean, D., Sander, D., Herdener, M., Strik, W.K., and Seifritz, E. (2008). The effect of appraisal
+level on processing of emotional prosody in meaningless speech. Neurolmage 42, 919-927.
+
+
+Barrett, F.S., and Janata, P. (2016). Neural responses to nostalgia-evoking music modeled by elements of
+dynamic musical structure and individual differences in affective traits. Neuropsychologia 91, 234—246.
+
+
+Bastos, A.M., Usrey, W.M., Adams, R.A., Mangun, G.R., Fries, P., and Friston, K.J. (2012). Canonical
+Microcircuits for Predictive Coding. Neuron 76, 695-711.
+
+
+Baumgartner, T., Lutz, K., Schmidt, C.F., and Jancke, L. (2006). The emotional power of music: How music
+enhances the feeling of affective pictures. Brain Res. 1075, 151-164.
+
+
+Blood, A.J., and Zatorre, R.J. (2001). Intensely pleasurable responses to music correlate with activity in brain
+regions implicated in reward and emotion. Proc. Natl. Acad. Sci. 98, 11818-11823.
+
+
+Bogenschutz, M.P., Forcehimes, A.A., Pommy, J.A., Wilcox, C.E., Barbosa, P.C.R., and Strassman, R.J. (2015).
+Psilocybin-assisted treatment for alcohol dependence: A proof-of-concept study. J. Psychopharmacol. (Oxf.)
+269881114565144.
+
+
+Buckner, R.L., Andrews-Hanna, J.R., and Schacter, D.L. (2008). The Brain’s Default Network. Ann. N. Y. Acad.
+Sci. 1124, 1-38.
+
+
+Burunat, I., Toiviainen, P., Alluri, V., Bogert, B., Ristaniemi, T., Sams, M., and Brattico, E. (2016). The reliability
+of continuous brain responses during naturalistic listening to music. Neurolmage 124, Part A, 224-231.
+
+
+Carhart-Harris, R.L., Erritzoe, D., Williams, T., Stone, J.M., Reed, L.J., Colasanti, A., Tyacke, R.J., Leech, R.,
+Malizia, A.L., Murphy, K., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI
+studies with psilocybin. Proc. Natl. Acad. Sci. 109, 2138-2143.
+
+
+Carhart-Harris, R.L., Leech, R., Hellyer, P.J., Shanahan, M., Feilding, A., Tagliazucchi, E., Chialvo, D.R., and Nutt,
+D. (2014). The entropic brain: A theory of conscious states informed by neuroimaging research with
+psychedelic drugs. Front. Hum. Neurosci. 8.
+
+
+Carhart-Harris, R.L., Muthukumaraswamy, S., Roseman, L., Kaelen, M., Droog, W., Murphy, K., Tagliazucchi, E.,
+Schenberg, E.E., Nest, T., Orban, C., et al. (2016a). Neural correlates of the LSD experience revealed by
+multimodal neuroimaging. Proc. Natl. Acad. Sci. 201518377.
+
+
+Carhart-Harris, R.L., Bolstridge, M., Rucker, J., Day, C.M.J., Erritzoe, D., Kaelen, M., Bloomfield, M., Rickard, J.A.,
+Forbes, B., Feilding, A., et al. (2016b). Psilocybin with psychological support for treatment-resistant depression:
+an open-label feasibility study. Lancet Psychiatry 3, 619-627.
+
+
+Cavanna, A.E., and Trimble, M.R. (2006). The precuneus: a review of its functional anatomy and behavioural
+correlates. Brain 129, 564-583.
+
+
+Celada, P., Puig, M.V., and Artigas, F. (2013). Serotonin modulation of cortical neurons and networks. Front.
+Integr. Neurosci. 7.
+
+[PAGE 021]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+Craig, A.D. (2009). How do you feel — now? The anterior insula and human awareness. Nat. Rev. Neurosci. 10,
+59-70.
+
+
+Critchley, H., Daly, E., Phillips, M., Brammer, M., Bullmore, E., Williams, S., Van Amelsvoort, T., Robertson, D.,
+David, A., and Murphy, D. (2000). Explicit and implicit neural mechanisms for processing of social information
+from facial expressions: a functional magnetic resonance imaging study. Hum. Brain Mapp. 9, 93-105.
+
+
+Dalla Bella, S., Peretz, I., Rousseau, L., and Gosselin, N. (2001). A developmental study of the affective value of
+tempo and mode in music. Cognition 80, B1-B10.
+
+
+Egermann, H., Fernando, N., Chuen, L., and McAdams, S. (2015). Music induces universal emotion-related
+psychophysiological responses: comparing Canadian listeners to Congolese Pygmies. Emot. Sci. 5, 1341.
+
+
+Erritzoe, D., Frokjaer, V.G., Haugbol, S., Marner, L., Svarer, C., Holst, K., Baaré, W.F.C., Rasmussen, P.M.,
+Madsen, J., Paulson, O.B., et al. (2009). Brain serotonin 2A receptor binding: Relations to body mass index,
+tobacco and alcohol use. Neurolmage 46, 23-30.
+
+
+Ettrup, A., da Cunha-Bang, S., McMahon, B., Lehel, S., Dyssegaard, A., Skibsted, A.W., Jórgensen, L.M., Hansen,
+M., Baandrup, A.O., Bache, S., et al. (2014). Serotonin 2A receptor agonist binding in the human brain with
+[11C]Cimbi-36. J. Cereb. Blood Flow Metab. 34, 1188-1196.
+
+
+Frúhholz, S., Trost, W., and Kotz, S.A. (2016). The sound of emotions—Towards a unifying neural network
+perspective of affective sound processing. Neurosci. Biobehav. Rev. 68, 96-110.
+
+
+Garcia-Romeu, A., R. Griffiths, R., and W. Johnson, M. (2014). Psilocybin-Occasioned Mystical Experiences in
+the Treatment of Tobacco Addiction. Curr. Drug Abuse Rev. 7, 157-164.
+
+
+Gasser, P., Kirchner, K., and Passie, T. (2014). LSD-assisted psychotherapy for anxiety associated with a life-
+threatening disease: A qualitative study of acute and sustained subjective effects. J. Psychopharmacol. (Oxf.)
+269881114555249.
+
+
+Glennon, R.A., Titeler, M., and McKenney, J.D. (1984). Evidence for 5-HT2 involvement in the mechanism of
+action of hallucinogenic agents. Life Sci. 35, 2505-2511.
+
+
+Griffiths, T.D., and Warren, J.D. (2002). The planum temporale as a computational hub. Trends Neurosci. 25,
+348-353.
+
+
+Griffiths, T.D., and Warren, J.D. (2004). What is an auditory object? Nat. Rev. Neurosci. 5, 887-892.
+
+
+Griffiths, R., Johnson, M., Richards, W., Richards, B., McCann, U., and Jesse, R. (2011). Psilocybin occasioned
+mystical-type experiences: immediate and persisting dose-related effects. Psychopharmacology (Berl.) 218,
+649-665.
+
+
+Griffiths, R.R., Richards, W.A., McCann, U., and Jesse, R. (2006). Psilocybin can occasion mystical-type
+experiences having substantial and sustained personal meaning and spiritual significance.
+Psychopharmacology (Berl.) 187, 268-283.
+
+
+Griffiths, R.R., Johnson, M.W., Carducci, M.A., Umbricht, A., Richards, W.A., Richards, B.D., Cosimano, M.P.,
+and Klinedinst, M.A. (2016). Psilocybin produces substantial and sustained decreases in depression and anxiety
+in patients with life-threatening cancer: A randomized double-blind trial. J. Psychopharmacol. (Oxf.) 30, 1181-
+1197.
+
+
+Grob CS, Danforth AL, Chopra GS, and et al (2011). Pllot study of psilocybin treatment for anxiety in patients
+with advanced-stage cancer. Arch. Gen. Psychiatry 68, 71-78.
+
+
+Grossmann, T., Oberecker, R., Koch, S.P., and Friederici, A.D. (2010). The Developmental Origins of Voice
+Processing in the Human Brain. Neuron 65, 852-858.
+
+[PAGE 022]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+Hackett, T.A. (2011). Information flow in the auditory cortical network. Hear. Res. 271, 133-146.
+
+
+Hailstone, J.C., Omar, R., Henley, S.M.D., Frost, C., Kenward, M.G., and Warren, J.D. (2009). It’s not what you
+play, it’s how you play it: Timbre affects perception of emotion in music. Q. J. Exp. Psychol. 62, 2141-2155.
+
+
+Herholz, S.C., Halpern, A.R., and Zatorre, R.J. (2012). Neuronal Correlates of Perception, Imagery, and Memory
+for Familiar Tunes. J. Cogn. Neurosci. 24, 1382-1397.
+
+
+Hoekert, M., Vingerhoets, G., and Aleman, A. (2010). Results of a pilot study on the involvement of bilateral
+inferior frontal gyri in emotional prosody perception: an rTMS study. BMC Neurosci. 11, 93.
+
+
+Hyde, K.L., Lerch, J.P., Zatorre, R.J., Griffiths, T.D., Evans, A.C., and Peretz, |. (2007). Cortical Thickness in
+Congenital Amusia: When Less Is Better Than More. J. Neurosci. 27, 13028-13032.
+
+
+Hyde, K.L., Zatorre, R.J., and Peretz, |. (2011). Functional MRI Evidence of an Abnormal Neural Network for
+Pitch Processing in Congenital Amusia. Cereb. Cortex 21, 292-299.
+
+
+Irlbacher, K., Kraft, A., Kehrer, S., and Brandt, S.A. (2014). Mechanisms and neuronal networks involved in
+reactive and proactive cognitive control of interference in working memory. Neurosci. Biobehav. Rev. 46, Part
+1, 58-70.
+
+
+Janata, P. (2005). Brain Networks That Track Musical Structure. Ann. N. Y. Acad. Sci. 1060, 111-124.
+
+
+Janata, P. (2009). The Neural Architecture of Music-Evoked Autobiographical Memories. Cereb. Cortex bhp008.
+
+
+Johnson, M.W., Garcia-Romeu, A., Cosimano, M.P., and Griffiths, R.R. (2014). Pilot study of the 5-HT2AR
+agonist psilocybin in the treatment of tobacco addiction. J. Psychopharmacol. (Oxf.) 28, 983-992.
+
+
+Kaelen, M., Barrett, F.S., Roseman, L., Lorenz, R., Family, N., Bolstridge, M., Curran, H.V., Feilding, A., Nutt, D.J.,
+and Carhart-Harris, R.L. (2015). LSD enhances the emotional response to music. Psychopharmacology (Berl.).
+
+
+Kaelen, M., Roseman, L., Kahan, J., Santos-Ribeiro, A., Orban, C., Lorenz, R., Barrett, F.S., Bolstridge, M.,
+Williams, T., Williams, L., et al. (2016). LSD modulates music-induced imagery via changes in parahippocampal
+connectivity. Eur. Neuropsychopharmacol.
+
+
+Koelsch, S. (2014). Brain correlates of music-evoked emotions. Nat. Rev. Neurosci. 15, 170-180.
+
+
+Koelsch, S., Gunter, T.C., v. Cramon, D.Y., Zysset, S., Lohmann, G., and Friederici, A.D. (2002). Bach Speaks: A
+Cortical “Language-Network” Serves the Processing of Music. Neurolmage 17, 956-966.
+
+
+Kometer, M., Schmidt, A., Jancke, L., and Vollenweider, F.X. (2013). Activation of Serotonin 2A Receptors
+Underlies the Psilocybin-Induced Effects on a Oscillations, N170 Visual-Evoked Potentials, and Visual
+Hallucinations. J. Neurosci. 33, 10544-10551.
+
+
+Kumar, S., Stephan, K.E., Warren, J.D., Friston, K.J., and Griffiths, T.D. (2007). Hierarchical Processing of
+Auditory Objects in Humans. PLOS Comput Biol 3, e100.
+
+
+Kumar, S., Joseph, S., Gander, P.E., Barascud, N., Halpern, A.R., and Griffiths, T.D. (2016). A Brain System for
+Auditory Working Memory. J. Neurosci. 36, 4492-4505.
+
+
+Lartillot, O., and Toiviainen, P. (2007). A Matlab toolbox for musical feature extraction from audio. In
+International Conference on Digital Audio Effects, pp. 237-244.
+
+
+Lebedev, A. v., Kaelen, M., Lóvdén, M., Nilsson, J., Feilding, A., Nutt, D. j., and Carhart-Harris, R. |. (2016). LSD-
+induced entropic brain activity predicts subsequent personality change. Hum. Brain Mapp. 37, 3203-3213.
+
+[PAGE 023]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+Lebedev, A.V., Lóvdén, M., Rosenthal, G., Feilding, A., Nutt, D.J., and Carhart-Harris, R.L. (2015). Finding the self
+by losing the self: Neural correlates of ego-dissolution under psilocybin. Hum. Brain Mapp. 36, 3137-3153.
+
+
+Lee, K.H., and Siegle, G.J. (2012). Common and distinct brain networks underlying explicit emotional
+evaluation: a meta-analytic study. Soc. Cogn. Affect. Neurosci. 7, 521-534.
+
+
+Leveque, Y., Fauvel, B., Groussard, M., Caclin, A., Albouy, P., Platel, H., and Tillmann, B. (2016). Altered intrinsic
+connectivity of the auditory cortex in congenital amusia. J. Neurophysiol. jn.00663.2015.
+
+
+Looijestijn, J., Diederen, K.M.J., Goekoop, R., Sommer, I.E.C., Daalman, K., Kahn, R.S., Hoek, H.W., and Blom,
+J.D. (2013). The auditory dorsal stream plays a crucial role in projecting hallucinated voices into external space.
+Schizophr. Res. 146, 314-319.
+
+
+Marklund, P., and Persson, J. (2012). Context-dependent switching between proactive and reactive working
+memory control mechanisms in the right inferior frontal gyrus. Neurolmage 63, 1552-1560.
+
+
+Maslow, A.H. (1964). Religions, Values, and Peak-Experiences (Kappa Delta Pi).
+
+
+Maslow, A.H. (1971). The Farther Reaches of Human Nature (The Viking Press).
+
+
+McGettigan, C., Eisner, F., Agnew, Z.K., Manly, T., Wisbey, D., and Scott, S.K. (2013). T’ain’t What You Say, It’s
+the Way That You Say It—Left Insula and Inferior Frontal Cortex Work in Interaction with Superior Temporal
+Regions to Control the Performance of Vocal Impersonations. J. Cogn. Neurosci. 25, 1875-1886.
+
+
+Morley, |. (2013). The Prehistory of Music: Human Evolution, Archaeology, and the Origins of Musicality (OUP
+Oxford).
+
+
+Muthukumaraswamy, S.D., Carhart-Harris, R.L., Moran, R.J., Brookes, M.J., Williams, T.M., Errtizoe, D., Sessa,
+B., Papadopoulos, A., Bolstridge, M., Singh, K.D., et al. (2013a). Broadband Cortical Desynchronization
+Underlies the Human Psychedelic State. J. Neurosci. 33, 15171-15183.
+
+
+Muthukumaraswamy, S.D., Carhart-Harris, R.L., Moran, R.J., Brookes, M.J., Williams, T.M., Errtizoe, D., Sessa,
+B., Papadopoulos, A., Bolstridge, M., Singh, K.D., et al. (2013b). Broadband Cortical Desynchronization
+Underlies the Human Psychedelic State. J. Neurosci. 33, 15171-15183.
+
+
+Nettl, Bruno (1956). Music in Primitive Culture (Harvard University Press).
+
+
+Opitz, B., Rinne, T., Mecklinger, A., von Cramon, D.Y., and Schróger, E. (2002). Differential Contribution of
+Frontal and Temporal Cortices to Auditory Change Detection: fMRI and ERP Results. Neurolmage 15, 167-174.
+
+
+Osnes, B., Hugdahl, K., Hjelmervik, H., and Specht, K. (2012). Stimulus expectancy modulates inferior frontal
+gyrus and premotor cortex activity in auditory perception. Brain Lang. 121, 65-69.
+
+
+Palhano-Fontes, F., Andrade, K.C., Tofoli, L.F., Santos, A.C., Crippa, J.A.S., Hallak, J.E.C., Ribeiro, S., and de
+Araujo, D.B. (2015). The Psychedelic State Induced by Ayahuasca Modulates the Activity and Connectivity of
+the Default Mode Network. PLoS ONE 10, e0118143.
+
+
+Petrini, K., Crabbe, F., Sheridan, C., and Pollick, F.E. (2011). The Music of Your Emotions: Neural Substrates
+Involved in Detection of Emotional Correspondence between Auditory and Visual Music Actions. PLoS ONE 6,
+e19165.
+
+
+Plakke, B., and Romanski, L.M. (2014). Auditory connections and functions of prefrontal cortex. Front.
+Neurosci. 8.
+
+
+Reiterer, S., Erb, M., Grodd, W., and Wildgruber, D. (2007). Cerebral Processing of Timbre and Loudness: fMRI
+Evidence for a Contribution of Broca’s Area to Basic Auditory Discrimination. Brain Imaging Behav. 2, 1-10.
+
+[PAGE 024]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+Riba, J., Anderer, P., Morte, A., Urbano, G., Jané, F., Saletu, B., and Barbanoj, M.J. (2002). Topographic
+pharmaco-EEG mapping of the effects of the South American psychoactive beverage ayahuasca in healthy
+volunteers. Br. J. Clin. Pharmacol. 53, 613-628.
+
+
+Riga, M.S., Bortolozzi, A., Campa, L., Artigas, F., and Celada, P. (2016). The serotonergic hallucinogen 5-
+methoxy-N,N-dimethyltryptamine disrupts cortical activity in a regionally-selective manner via 5-HT1A and 5-
+HT2A receptors. Neuropharmacology 101, 370-378.
+
+
+Rorden, C., Karnath, H.-O., and Bonilha, L. (2007). Improving Lesion-Symptom Mapping. J. Cogn. Neurosci. 19,
+1081-1088.
+
+
+Roseman, L., Sereno, M.l., Leech, R., Kaelen, M., Orban, C., McGonigle, J., Feilding, A., Nutt, D.J., and Carhart-
+Harris, R.L. (2016). LSD alters eyes-closed functional connectivity within the early visual cortex in a retinotopic
+fashion. Hum. Brain Mapp. 37, 3031-3040.
+
+
+Ross, S., Bossis, A., Guss, J., Agin-Liebes, G., Malone, T., Cohen, B., Mennenga, S.E., Belser, A., Kalliontzi, K.,
+Babb, J., et al. (2016). Rapid and sustained symptom reduction following psilocybin treatment for anxiety and
+depression in patients with life-threatening cancer: a randomized controlled trial. J. Psychopharmacol. (Oxf.)
+30, 1165-1180.
+
+
+Salimpoor, V.N., Benovoy, M., Larcher, K., Dagher, A., and Zatorre, R.J. (2011). Anatomically distinct dopamine
+release during anticipation and experience of peak emotion to music. Nat. Neurosci. 14, 257-262.
+
+
+Salimpoor, V.N., Bosch, I. van den, Kovacevic, N., McIntosh, A.R., Dagher, A., and Zatorre, R.J. (2013).
+Interactions Between the Nucleus Accumbens and Auditory Cortices Predict Music Reward Value. Science 340,
+216-219.
+
+
+Salimpoor, V.N., Zald, D.H., Zatorre, R.J., Dagher, A., and Mcintosh, A.R. (2015). Predictions and the brain: how
+musical sounds become rewarding. Trends Cogn. Sci. 19, 86-91.
+
+
+Schilbach, L., Bzdok, D., Timmermans, B., Fox, P.T., Laird, A.R., Vogeley, K., and Eickhoff, S.B. (2012).
+Introspective Minds : Using ALE Meta-Analyses to Study Commonalities in the Neural Correlates of Emotional
+Processing, Social &amp; Unconstrained Cognition. PLOS ONE 7, e30920.
+
+
+Schindler, S., and Kissler, J. (2016). Selective visual attention to emotional words: Early parallel frontal and
+visual activations followed by interactive effects in visual cortex. Hum. Brain Mapp. 37, 3575-3587.
+
+
+Schirmer, A., and
+
+
+z, S.A. (2006). Beyond the right hemisphere: brain mechanisms mediating vocal emotional processing. Trends
+Cogn. Sci. 10, 24-30.
+
+
+Schönwiesner, M., Novitski, N., Pakarinen, S., Carlson, S., Tervaniemi, M., and Näätänen, R. (2007). Heschl’s
+Gyrus, Posterior Superior Temporal Gyrus, and Mid-Ventrolateral Prefrontal Cortex Have Different Roles in the
+Detection of Acoustic Changes. J. Neurophysiol. 97, 2075-2082.
+
+
+Stewart, L., Overath, T., Warren, J.D., Foxton, J.M., and Griffiths, T.D. (2008). fMRI Evidence for a Cortical
+Hierarchy of Pitch Pattern Processing. PLOS ONE 3, e1470.
+
+
+Tagliazucchi, E., Carhart-Harris, R., Leech, R., Nutt, D., and Chialvo, D.R. (2014). Enhanced repertoire of brain
+dynamical states during the psychedelic experience. Hum. Brain Mapp. 35, 5442-5456.
+
+
+Tagliazucchi, E., Roseman, L., Kaelen, M., Orban, C., Muthukumaraswamy, S.D., Murphy, K., Laufs, H., Leech, R.,
+McGonigle, J., Crossley, N., et al. (2016). Increased Global Functional Connectivity Correlates with LSD-Induced
+Ego Dissolution. Curr. Biol. 26, 1043-1050.
+
+[PAGE 025]
+
+bioRxiv preprint doi: https://doi.org/10.1101/153031; this version posted June 25, 2017. The copyright holder for this preprint (which was
+not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made
+available under aCC-BY-NC-ND 4.0 International license.
+
+
+Titeler, M., Lyon, R.A., and Glennon, R.A. (1988). Radioligand binding evidence implicates the brain 5-HT2
+receptor as a site of action for LSD and phenylisopropylamine hallucinogens. Psychopharmacology (Berl.) 94,
+213-216.
+
+
+Tomasi, D., and Volkow, N.D. (2012). Resting functional connectivity of language networks: characterization
+and reproducibility. Mol. Psychiatry 17, 841-854.
+
+
+Trost, W., Ethofer, T., Zentner, M., and Vuilleumier, P. (2012). Mapping Aesthetic Musical Emotions in the
+Brain. Cereb. Cortex 22, 2769-2783.
+
+
+Tsang, C.D., and Trainor, L.J. (2002). Spectral slope discrimination in infancy: Sensitivity to socially important
+timbres. Infant Behav. Dev. 25, 183-194.
+
+
+Vollenweider, F.X., Vollenweider-Scherpenhuyzen, M.F.l., Babler, A., Vogel, H., and Hell, D. (1998). Psilocybin
+induces schizophrenia-like psychosis in humans via a serotonin-2 agonist action. [Miscellaneous Article].
+Neuroreport 9, 3897-3902.
+
+
+Vuilleumier, P. (2005). How brains beware: neural mechanisms of emotional attention. Trends Cogn. Sci. 9,
+585-594.
+
+
+Watanabe, T., Yagishita, S., and Kikyo, H. (2008). Memory of music: Roles of right hippocampus and left inferior
+frontal gyrus. Neurolmage 39, 483-491.
+
+
+Wiethoff, S., Wildgruber, D., Kreifelts, B., Becker, H., Herbert, C., Grodd, W., and Ethofer, T. (2008). Cerebral
+processing of emotional prosody—influence of acoustic parameters and arousal. Neurolmage 39, 885-893.
+
+
+Zatorre, R.J. (2015). Musical pleasure and reward: mechanisms and dysfunction. Ann. N. Y. Acad. Sci. 1337,
+202-211.
+
+
+Zatorre, R.J., and Salimpoor, V.N. (2013). From perception to pleasure: Music and its neural substrates. Proc.
+Natl. Acad. Sci. 110, 10430-10437.
+
+
+Zatorre, R.J., Evans, A.C., and Meyer, E. (1994). Neural mechanisms underlying melodic perception and
+memory for pitch. J. Neurosci. 14, 1908-1919.
+
+
+Zatorre, R.J., Chen, J.L., and Penhune, V.B. (2007). When the brain plays music: auditory-motor interactions in
+music perception and production. Nat. Rev. Neurosci. 8, 547-558.
+
+
+Zentner, M., Grandjean, D., and Scherer, K.R. (2008). Emotions evoked by the sound of music:
+Characterization, classification, and measurement. Emotion 8, 494-521.
+
+
+Zhang, S., and Li, C.R. (2012). Functional connectivity mapping of the human precuneus by resting state fMRI.
+Neurolmage 59, 3548-3562.

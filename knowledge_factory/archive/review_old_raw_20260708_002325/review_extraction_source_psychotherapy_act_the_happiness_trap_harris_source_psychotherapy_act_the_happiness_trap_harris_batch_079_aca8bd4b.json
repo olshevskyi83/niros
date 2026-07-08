@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:47:04+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_079_aca8bd4b",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thoughts",
+      "unpleasant mental stories",
+      "attention",
+      "mind wandering"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "If silently saying 'Thinking' is not helpful, discontinue its use"
+    ],
+    "evidence_text": "I’ve designed the above brief exercises for busy people who say they ‘don’t have enough time in the\nday’ to do formal defusion practice. However, “not enough time” is just another story. So here”s a\nchallenge for you: if you really want to get good at this, then as well as doing all those brief\nexercises, put aside five minutes twice a day to practise focusing on your breath. For example, you\nmay do five minutes first thing in the morning and five minutes during your lunchbreak. During\nthese times, keep your attention totally on your breath, while letting your thoughts come and go in\nthe background; and each time you notice your attention has wandered, gently bring 1t back. Also, 1f\nyou haven't already tried it, then try silently saying to yourself, “Thinking”, whenever a thought or\nimage appears. Some people find this very helpful as a way of acknowledging the thinking process\nwithout getting caught up in it. (However, if you don’t find it helpful, then don’t bother with it.)\n\n---\n\nDefusion skills are essential for escaping the happiness trap. If you can see your thoughts for what\nthey are—just words—and let them come and go without focusing on them, then you can put your\ntime and energy into more important things, such as taking action to create the life you want. Your\nmind will never stop telling you unpleasant stories (at least, not for long)—that’s just what minds\ndo. So let’s be realistic. The fact is, you will get hooked up and reeled in by these stories again and\nagain.\n\n---\n\nThe good news is, you can make dramatic improvements. You can learn to get hooked much less\noften. You can learn to recognise much faster when you have been hooked, and you can learn to get\nmuch better at unhooking yourself! All these abilities will help to keep you out of the happiness\ntrap.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_079_aca8bd4b",
+    "extractor": "openai",
+    "generation_rules": [
+      "Practice brief defusion exercises regularly",
+      "Set aside two five-minute periods daily to focus on breath",
+      "Gently bring attention back when it wanders",
+      "Optionally use the word 'Thinking' silently when thoughts arise"
+    ],
+    "pause_rules": [
+      "Pause to notice the presence of thoughts without engaging",
+      "Pause briefly when attention shifts before redirecting focus"
+    ],
+    "psychological_function": "Enhancing awareness of the thinking process, increasing ability to notice when attention has wandered, and improving capacity to gently redirect focus back to the present moment.",
+    "repetition_rules": [
+      "Repeatedly notice when attention has wandered and bring it back to breath",
+      "Silently label thoughts as 'Thinking' each time they appear (optional)"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_079",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "silently saying 'Thinking' to acknowledge thoughts without engagement"
+    ],
+    "therapeutic_function": "Developing defusion skills to observe thoughts as mere words and reduce attachment to them, thereby escaping the happiness trap and enabling focus on meaningful actions.",
+    "voice_rules": [
+      "Use gentle, non-judgmental tone when redirecting attention",
+      "Encourage self-compassion when noticing mind wandering"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_079_aca8bd4b",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_079",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:47:04+00:00"
+}

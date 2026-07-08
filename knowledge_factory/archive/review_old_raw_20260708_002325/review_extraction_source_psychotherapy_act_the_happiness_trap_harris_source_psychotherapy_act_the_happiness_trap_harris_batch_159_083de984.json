@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:51:17+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_159_083de984",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "avoidance behavior",
+      "task procrastination",
+      "negative emotional reactions to chores",
+      "distracting thoughts"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for individuals with severe attention deficits or acute distress during task engagement."
+    ],
+    "evidence_text": "Pick a chore that you don’t like but that you know is helpful in the long run. It could be ironing\nclothes, washing dishes, vacuuming, cleaning out the car, cooking a healthy meal, putting the\ngarbage out, bathing the kids, polishing your shoes, tidying the garage—any task that you’d just as\nsoon avoid doing. Then each time you do it, practise connection. Have no expectations; just notice\nwhat happens. For example, if you’re ironing clothes, notice the colour and shape of the clothing.\nNotice the patterns made by the creases and shadows. Notice how the patterns change as the creases\ndisappear. Notice the hiss of the steam, the creak of the ironing board, the faint whispery sound of\nthe iron moving over the material. Notice the grip of your hand on the iron and the movement of\nyour arm and your shoulder.\n\n---\n\nIf boredom or frustration arises, make room for it and refocus on what you’re doing. When thoughts\narise, let them be and go back to focusing on what you’re doing. The moment you realise that your\nattention has wandered (and it will, repeatedly), gently thank your mind, briefly note what\ndistracted you and bring your attention back to what you’re doing.\n\n---\n\nPick a task you’ve been putting off for a while. Set aside twenty minutes to make a start on it.\nDuring that time, focus completely on the experience. Connect with it fully, through the five senses,\nwhile making room for your feelings and defusing your thoughts. After twenty minutes, feel free\neither to stop or to continue. Do this for twenty minutes every day, until your task is completed.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_159_083de984",
+    "extractor": "openai",
+    "generation_rules": [
+      "Select a disliked but helpful chore or task.",
+      "Practice mindful connection to sensory experiences during the task.",
+      "Allow negative feelings to arise without resistance.",
+      "Notice and acknowledge wandering thoughts without engagement.",
+      "Return attention gently to the task.",
+      "Commit to at least twenty minutes daily until task completion."
+    ],
+    "pause_rules": [
+      "Pause briefly to notice arising boredom or frustration and then refocus.",
+      "Pause to acknowledge wandering thoughts before returning attention."
+    ],
+    "psychological_function": "Promotes present-moment focus, acceptance of negative emotions (boredom, frustration), cognitive defusion from distracting thoughts, and sustained attention.",
+    "repetition_rules": [
+      "Repeat the mindful practice each time the task is performed.",
+      "Practice daily for twenty minutes until task completion."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_159",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Enhances mindful awareness and acceptance during unpleasant but necessary tasks to reduce avoidance and increase task completion.",
+    "voice_rules": [
+      "Use gentle, non-judgmental language when noting distractions and emotions.",
+      "Encourage self-compassion when attention wanders."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_159_083de984",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_159",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:17+00:00"
+}

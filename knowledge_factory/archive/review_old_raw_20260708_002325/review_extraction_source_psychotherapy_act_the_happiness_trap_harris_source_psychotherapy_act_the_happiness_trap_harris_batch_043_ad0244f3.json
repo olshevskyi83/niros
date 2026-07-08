@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:45:02+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_043_ad0244f3",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thoughts",
+      "internal verbalizations",
+      "sensations",
+      "images"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not specified in the segment"
+    ],
+    "evidence_text": "in your body, almost as if you were actually preparing or eating breakfast. These, too, are not\nthoughts; they are sensations. You also probably noticed some words passing through your head,\nalmost like a talking voice. Those words may have described what you intend to eat: ‘I'll have toast\nwith peanut butter.’ Or they may have said something like, ‘I don’t know what I’Il have.’ These\nwords in our heads are what we call ‘thoughts’. Therefore:\n\n---\n\nIt’s important to remember this distinction, because we deal with these internal experiences in\ndifferent ways. We’ll be focusing on images and sensations later in the book. For now, we’re going\nto look at thoughts.\n\n---\n\nHumans rely a lot on their thoughts. Thoughts tell us about our life and how to live it. They tell us\nhow we are and how we should be, what to do and what to avoid. And yet, they are nothing more\nthan words—which is why, in ACT, we often refer to thoughts as stories. Sometimes they are true\nstories (called ‘facts’) and sometimes they are false. But most of our thoughts are neither true nor\nfalse. Most of them are either stories about how we see life (called ‘opinions’, ‘attitudes’,\n‘judgements’, ‘ideals’, ‘beliefs’, ‘theories’ and ‘morals’) or about what we want to do with it (called\n“plans”, “strategies”, “goals”, ‘wishes’ and ‘values’). In ACT, our main interest in a thought is not\nwhether it’s true or false, but whether it’s helpful; that is, does it help us create the life we want?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_043_ad0244f3",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus on the helpfulness of thoughts instead of their truth or falsity",
+      "Recognize internal verbalizations as thoughts",
+      "Distinguish thoughts from sensations and images"
+    ],
+    "pause_rules": [
+      "Not specified in the segment"
+    ],
+    "psychological_function": "Facilitating cognitive defusion by recognizing thoughts as stories (words in the head) rather than facts, thereby reducing literal belief in thoughts and promoting flexible thinking.",
+    "repetition_rules": [
+      "Not specified in the segment"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_043",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "thoughts as stories",
+      "words in the head",
+      "internal experiences"
+    ],
+    "therapeutic_function": "Distinguishing between thoughts and sensations to alter the relationship with internal experiences and focus on the helpfulness of thoughts rather than their truth value.",
+    "voice_rules": [
+      "Internal words may appear as a talking voice describing intentions or uncertainty"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_043_ad0244f3",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_043",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:02+00:00"
+}

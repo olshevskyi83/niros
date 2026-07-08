@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-07T21:52:30+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_180_1601ac72",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "self-esteem",
+      "self-judgment",
+      "negative and positive thoughts",
+      "cognitive fusion with self-evaluations"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain; no explicit contraindications mentioned in the text"
+    ],
+    "evidence_text": "Well, not necessarily. First let’s consider what an opinion is: it’s a story, nothing more than words.\nSecond, it’s a judgement, not a factual description. (Remember, Julia Roberts is a film\nactress=factual description; Julia Roberts is a very talented actress=opinion/judgement.) So selfesteem is basically a judgement that our thinking self makes about us as a person. Now, suppose we\ndecide that we want ‘high’ self-esteem. How do we go about getting it? What we tend to do is a\nwhole lot of reasoning, justifying and negotiating until—maybe—we eventually convince our\nthinking self to declare that we’re a ‘good person’. For example, we may put forward the argument:\n‘I’m doing well at my job; I’m exercising regularly; I’m eating healthily; I spend lots of quality\ntime with my family; my friends like me; I help people out when they’re in trouble; so basically,\nthat means I’m a good person.’\n\n---\n\nAnd if we can really believe that last bit, about being a ‘good person’, then we have ‘high’ selfesteem. The problem is, with this approach you constantly have to prove that you’re a good person.\nYou constantly have to justify this good opinion. You constantly have to challenge those ‘not good\nenough’ stories. And all that takes a lot of time and effort. In fact, it’s rather like playing a neverending game of chess.\n\n---\n\nImagine a game of chess in which the pieces are your own thoughts and feelings. On one side of the\nboard we have the black pieces: all your ‘bad’ thoughts and feelings; and on the other side we have\nthe white pieces: all your ‘good’ thoughts and feelings. And there’s an ongoing battle between\nthem: the white pieces attacking the black pieces and vice versa. We spend a huge chunk of our life\ncaught up in this game. But it’s a war that will never end because there are an infinite number of\npieces on both sides. No matter how many pieces get knocked off, they are always replaced by\nothers.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_180_1601ac72",
+    "extractor": "openai",
+    "generation_rules": [
+      "Present opinions as stories and judgments, not facts",
+      "Use metaphor of an endless chess game to illustrate the futility of constant self-justification"
+    ],
+    "pause_rules": [
+      "Pause after introducing the chess metaphor to allow reflection on the endless nature of self-judgment"
+    ],
+    "psychological_function": "Facilitates cognitive defusion by helping individuals see opinions and self-esteem judgments as stories or mental events rather than absolute truths.",
+    "repetition_rules": [
+      "Emphasize the ongoing, never-ending nature of the internal battle between good and bad thoughts"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_180",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "game of chess representing the ongoing battle between 'good' and 'bad' thoughts and feelings",
+      "black and white chess pieces symbolizing negative and positive thoughts respectively"
+    ],
+    "therapeutic_function": "To reduce the effort and distress involved in maintaining self-esteem by recognizing it as a judgment rather than a fact, thereby decreasing the need to constantly justify and prove one's worth.",
+    "voice_rules": [
+      "Use explanatory and reflective tone to encourage insight into the nature of self-esteem and thoughts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_180_1601ac72",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_180",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:30+00:00"
+}

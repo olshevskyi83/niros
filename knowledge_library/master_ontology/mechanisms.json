@@ -1,0 +1,270 @@
+{
+  "ontology_version": "master_ontology_v1",
+  "mechanisms": [
+    {
+      "mechanism_id": "experiential_avoidance",
+      "name": "Experiential Avoidance",
+      "definition": "Attempts to alter, escape, or suppress unwanted internal experiences even when doing so increases long-term suffering.",
+      "how_it_forms": "Often develops through learning that distress can be reduced quickly by escape, distraction, or control.",
+      "maintaining_logic": "Short-term relief reinforces avoidance while valued action, exposure, and emotional processing are narrowed over time.",
+      "client_signals": [
+        "I change the subject when feelings rise.",
+        "I stay busy so I do not have to feel.",
+        "I leave situations when emotion starts."
+      ],
+      "associated_problem_ids": [
+        "depression",
+        "anxiety",
+        "emotional_avoidance",
+        "chronic_pain",
+        "substance_dependence",
+        "grief"
+      ],
+      "therapeutic_responses": [
+        "acceptance",
+        "exposure",
+        "values-based action",
+        "mindful contact with experience"
+      ],
+      "relevant_therapy_models": ["ACT", "CBT", "MI"],
+      "therapy_process_ids": ["acceptance_process", "surrender"],
+      "session_risk_notes": "Avoidance may spike when distress is approached too quickly without safety.",
+      "integration_relevance": "Integration often requires practicing willingness after session openness.",
+      "evidence_status": "established",
+      "source_references": [],
+      "human_review_status": "seed"
+    },
+    {
+      "mechanism_id": "cognitive_fusion",
+      "name": "Cognitive Fusion",
+      "definition": "Excessive entanglement with thoughts such that thoughts are treated as literal commands or facts.",
+      "how_it_forms": "Language and threat-learning can teach the mind to treat thoughts as reality rather than mental events.",
+      "maintaining_logic": "Fused thoughts drive rigid behavior, rumination, and avoidance of disconfirming experience.",
+      "client_signals": [
+        "My mind says I cannot handle this and I believe it.",
+        "I get stuck in my thoughts.",
+        "I argue with myself for hours."
+      ],
+      "associated_problem_ids": ["anxiety", "rumination", "depression"],
+      "therapeutic_responses": [
+        "defusion",
+        "perspective-taking",
+        "behavioral experiments"
+      ],
+      "relevant_therapy_models": ["ACT", "CBT"],
+      "therapy_process_ids": ["defusion_process"],
+      "session_risk_notes": "High fusion can amplify panic during destabilizing experiences.",
+      "integration_relevance": "Post-session work may focus on observing thoughts without obedience.",
+      "evidence_status": "established",
+      "source_references": [],
+      "human_review_status": "seed"
+    },
+    {
+      "mechanism_id": "shame_sensitivity",
+      "name": "Shame Sensitivity",
+      "definition": "Heightened threat response to perceived exposure, defectiveness, or social rejection.",
+      "how_it_forms": "Often shaped by early invalidation, criticism, trauma, or repeated social threat.",
+      "maintaining_logic": "Concealment and withdrawal reduce immediate shame but reinforce isolation and self-alienation.",
+      "client_signals": [
+        "I hide parts of myself.",
+        "I feel defective when seen.",
+        "I withdraw after feeling exposed."
+      ],
+      "associated_problem_ids": ["shame", "depression"],
+      "therapeutic_responses": [
+        "compassion-focused work",
+        "exposure with safety",
+        "self-as-context",
+        "relationship repair"
+      ],
+      "relevant_therapy_models": ["CFT", "ACT", "schema"],
+      "therapy_process_ids": ["self_compassion_process"],
+      "session_risk_notes": "Shame can intensify if the person feels judged or exposed without consent.",
+      "integration_relevance": "Integration may require shame-aware support and paced disclosure.",
+      "evidence_status": "emerging",
+      "source_references": [],
+      "human_review_status": "seed"
+    },
+    {
+      "mechanism_id": "harsh_self_criticism",
+      "name": "Harsh Self-Criticism",
+      "definition": "Persistent hostile or punitive self-evaluation that functions as threat and behavioral control.",
+      "how_it_forms": "May develop through critical caregiving, bullying, perfectionistic environments, or trauma.",
+      "maintaining_logic": "Self-attack is maintained when it is experienced as necessary for improvement or safety.",
+      "client_signals": [
+        "I speak to myself in a way I would never speak to a friend.",
+        "Nothing I do is good enough.",
+        "I punish myself when I fail."
+      ],
+      "associated_problem_ids": ["depression", "shame", "rumination"],
+      "therapeutic_responses": [
+        "self-compassion",
+        "defusion from critic voice",
+        "values-aligned action"
+      ],
+      "relevant_therapy_models": ["CFT", "ACT"],
+      "therapy_process_ids": ["self_compassion_process"],
+      "session_risk_notes": "Self-criticism may spike after difficult session content.",
+      "integration_relevance": "Integration support often includes compassionate self-talk practice.",
+      "evidence_status": "established",
+      "source_references": [],
+      "human_review_status": "seed"
+    },
+    {
+      "mechanism_id": "rumination",
+      "name": "Rumination",
+      "definition": "Repetitive, passive analysis of distress, causes, and consequences without effective problem solving.",
+      "how_it_forms": "Can develop when reflection is modeled as the primary coping strategy for uncertainty or threat.",
+      "maintaining_logic": "Rumination feels productive but maintains low mood, helplessness, and cognitive fusion.",
+      "client_signals": [
+        "I replay conversations over and over.",
+        "I analyze why I feel this way but get nowhere.",
+        "I cannot switch my mind off."
+      ],
+      "associated_problem_ids": ["depression", "anxiety", "grief", "rumination"],
+      "therapeutic_responses": [
+        "behavioral activation",
+        "defusion",
+        "attention training",
+        "problem-solving when appropriate"
+      ],
+      "relevant_therapy_models": ["CBT", "ACT", "MBCT"],
+      "therapy_process_ids": ["defusion_process"],
+      "session_risk_notes": "Post-session rumination can amplify distress if integration is unstructured.",
+      "integration_relevance": "Integration plans may include action-first experiments instead of analysis loops.",
+      "evidence_status": "established",
+      "source_references": [],
+      "human_review_status": "seed"
+    },
+    {
+      "mechanism_id": "addictive_relief_cycle",
+      "name": "Addictive Relief Cycle",
+      "definition": "A learned loop where substance or behavior use provides rapid relief from distress and is reinforced over time.",
+      "how_it_forms": "Negative reinforcement and cue learning link distress, craving, use, and temporary relief.",
+      "maintaining_logic": "Relief is immediate while withdrawal, shame, and functional costs accumulate later.",
+      "client_signals": [
+        "I use when I cannot tolerate how I feel.",
+        "I promise to stop and then relapse under stress.",
+        "Craving hits when I am alone or ashamed."
+      ],
+      "associated_problem_ids": ["substance_dependence"],
+      "therapeutic_responses": [
+        "urge surfing",
+        "motivational interviewing",
+        "values-based change",
+        "relapse prevention"
+      ],
+      "relevant_therapy_models": ["MI", "ACT", "CBT"],
+      "therapy_process_ids": ["acceptance_process"],
+      "session_risk_notes": "Requires careful screening for active dependence and medical risk.",
+      "integration_relevance": "Integration must address triggers, support systems, and relapse planning.",
+      "evidence_status": "emerging",
+      "source_references": [],
+      "human_review_status": "seed"
+    },
+    {
+      "mechanism_id": "pain_catastrophizing",
+      "name": "Pain Catastrophizing",
+      "definition": "Threat-oriented interpretation of pain involving magnification, helplessness, and rumination about pain.",
+      "how_it_forms": "Often develops through repeated pain episodes, fear learning, and invalidation of bodily experience.",
+      "maintaining_logic": "Catastrophic appraisals increase vigilance, avoidance, and disability even when tissue injury is stable.",
+      "client_signals": [
+        "I worry the pain will never stop.",
+        "I think the worst when pain increases.",
+        "I avoid movement because I fear damage."
+      ],
+      "associated_problem_ids": ["chronic_pain"],
+      "therapeutic_responses": [
+        "pain re-appraisal",
+        "graded activity",
+        "acceptance",
+        "mind-body pacing"
+      ],
+      "relevant_therapy_models": ["CBT", "ACT"],
+      "therapy_process_ids": ["acceptance_process"],
+      "session_risk_notes": "Medical assessment and pacing are required before behavioral activation.",
+      "integration_relevance": "Integration may include gentle re-engagement with movement and meaning.",
+      "evidence_status": "established",
+      "source_references": [],
+      "human_review_status": "seed"
+    },
+    {
+      "mechanism_id": "emotional_suppression",
+      "name": "Emotional Suppression",
+      "definition": "Active inhibition of emotional expression or experience while outward behavior may appear controlled.",
+      "how_it_forms": "Often learned when emotional expression was punished, shamed, or unsafe.",
+      "maintaining_logic": "Suppression reduces visible distress short-term but increases physiological load and relational disconnection.",
+      "client_signals": [
+        "I shut down when feelings come up.",
+        "People say I seem fine but I feel numb inside.",
+        "I push feelings away until I explode."
+      ],
+      "associated_problem_ids": ["emotional_avoidance", "shame"],
+      "therapeutic_responses": [
+        "emotion labeling",
+        "acceptance",
+        "safe exposure",
+        "interoceptive awareness"
+      ],
+      "relevant_therapy_models": ["ACT", "emotion-focused", "somatic"],
+      "therapy_process_ids": ["emotional_breakthrough"],
+      "session_risk_notes": "Suppressed affect may surface abruptly during deep session work.",
+      "integration_relevance": "Integration often requires titrated emotional contact and co-regulation.",
+      "evidence_status": "emerging",
+      "source_references": [],
+      "human_review_status": "seed"
+    },
+    {
+      "mechanism_id": "control_strategies",
+      "name": "Control Strategies",
+      "definition": "Persistent attempts to regulate internal experience through certainty, checking, reassurance, or rigid rules.",
+      "how_it_forms": "Develops when unpredictability or threat has been reduced through control in the past.",
+      "maintaining_logic": "Control reduces immediate uncertainty but narrows flexibility and increases dependence on safety behaviors.",
+      "client_signals": [
+        "I need to know what will happen.",
+        "I repeat rituals until it feels safe.",
+        "I seek reassurance when anxiety rises."
+      ],
+      "associated_problem_ids": ["anxiety", "chronic_pain", "substance_dependence"],
+      "therapeutic_responses": [
+        "exposure",
+        "acceptance",
+        "values action",
+        "uncertainty tolerance"
+      ],
+      "relevant_therapy_models": ["ACT", "CBT", "ERP"],
+      "therapy_process_ids": ["acceptance_process"],
+      "session_risk_notes": "Control strategies may intensify when session structure feels unpredictable.",
+      "integration_relevance": "Integration may practice flexible response to uncertainty.",
+      "evidence_status": "established",
+      "source_references": [],
+      "human_review_status": "seed"
+    },
+    {
+      "mechanism_id": "loss_of_meaning",
+      "name": "Loss of Meaning",
+      "definition": "Reduced sense of purpose, coherence, or value-laden direction in life.",
+      "how_it_forms": "May follow loss, trauma, burnout, chronic stress, or prolonged disconnection from values.",
+      "maintaining_logic": "Without meaning anchors, avoidance and rumination fill the space and further reduce engagement.",
+      "client_signals": [
+        "Nothing feels worthwhile.",
+        "I am just going through the motions.",
+        "I do not know who I am anymore."
+      ],
+      "associated_problem_ids": ["depression", "grief"],
+      "therapeutic_responses": [
+        "values clarification",
+        "meaning reconstruction",
+        "committed action",
+        "existential exploration"
+      ],
+      "relevant_therapy_models": ["ACT", "logotherapy", "narrative"],
+      "therapy_process_ids": ["surrender", "emotional_breakthrough"],
+      "session_risk_notes": "Existential distress requires careful pacing and safety planning.",
+      "integration_relevance": "Integration often focuses on small values-aligned actions.",
+      "evidence_status": "hypothetical",
+      "source_references": [],
+      "human_review_status": "seed"
+    }
+  ]
+}

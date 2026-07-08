@@ -1,0 +1,41 @@
+{
+  "created_at": "2026-07-07T21:50:05+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_136_afd69494",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "urge to apologise",
+      "urge to act spitefully",
+      "urge to decline social invitations",
+      "feelings of guilt",
+      "feelings of resentment",
+      "value-consistent behavior"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "If the answer to either of these questions is yes, then it makes sense to act on that urge. For instance,\nif you’ve been nasty to someone and you’re feeling guilty about it, you may have an urge to\napologise. If this is consistent with who you want to be and what you want to stand for, then it’s\nsensible to go ahead and apologise.\n\n---\n\nOn the other hand, let’s suppose you’ve been mean to someone and you’re still feeling a lot of\nresentment toward them. In this case, rather than the urge to apologise, you may feel the urge to\nwrite them a nasty letter or say spiteful things about them to others. If this isn’t consistent with who\nyou want to be or how you want to live your life, then it’s sensible not to act on it.\n\n---\n\nNow, let’s imagine a third scenario. You’re working or studying late to meet an important deadline\nwhen a friend calls and asks you to go for a drink. You turn down the offer because you need to get\nmore work done. Your friend gets upset and tries to lay a guilt trip on you, telling you that she’s\nlonely and miserable and has no one else to go with. You tell her she can come and have a drink at\nyour place, after you’ve done a few more hours of work. She’s upset and hangs up on you.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_136_afd69494",
+    "extractor": "openai",
+    "generation_rules": [
+      "If an urge aligns with personal values and desired self-image, act on it",
+      "If an urge conflicts with personal values and desired self-image, do not act on it"
+    ],
+    "pause_rules": [],
+    "psychological_function": "Promoting value-consistent behavior and self-alignment; managing conflicting emotions such as guilt and resentment; enhancing decision-making based on personal values",
+    "repetition_rules": [],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_136",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Guiding individuals to act in ways consistent with their values by evaluating urges and deciding whether to act on them",
+    "voice_rules": []
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_136_afd69494",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_136",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:05+00:00"
+}

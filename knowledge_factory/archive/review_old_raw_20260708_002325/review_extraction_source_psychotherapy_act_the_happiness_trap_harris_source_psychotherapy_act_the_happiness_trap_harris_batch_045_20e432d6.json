@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-07-07T21:45:08+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_045_20e432d6",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "thoughts",
+      "cognitive fusion",
+      "self-critical beliefs"
+    ],
+    "confidence": 0.9,
+    "contraindications": [],
+    "evidence_text": "‘Cognition’ is the technical term for a product of the mind, such as a thought, image or memory.\n‘Fusion’ means a blending or melding together. “Cognitive fusion’ means that the thought and the\nthing it refers to—the story and the event—become blended. Thus, we react to words about a lemon\n\n---\n\nas if a lemon is actually present; we react to words in a crime novel as if someone really is about to\nbe murdered; we react to words like ‘I’m useless’ as if we actually are useless; and we react to\nwords like ‘I’m going to fail’ as if failure is a foregone conclusion. In a state of cognitive fusion, it\nseems as if:\n\n---\n\n¢ Thoughts are reality—as if what we’re thinking were actually happening.\n\n---\n\n* Thoughts are the truth—we completely believe them.\n\n---\n\n¢ Thoughts are important—we take them seriously and give them our full attention.\n\n---\n\n¢ Thoughts are orders—we automatically obey them.\n\n---\n\n* Thoughts are wise—we assume they know best and we follow their advice.\n\n---\n\n* Thoughts can be threats —some thoughts can be deeply disturbing or frightening.\n\n---\n\nRemember Michelle, who is plagued by thoughts such as, ‘I’m hopeless’, ‘I’m a lousy mother’ and\n“Nobody likes me”? In her state of cognitive fusion, those thoughts seemed to be the gospel truth.\nAs a result, she felt terrible. ‘That’s not surprising’, you might think. “With thoughts like that,\nanyone would feel upset.’ Certainly that’s what Michelle believed— at first. But she soon\ndiscovered that she could instantly reduce the impact of such unpleasant thoughts by applying the\nsimple technique described below. Read through the instructions first, then give it a go.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_045_20e432d6",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify when thoughts are being fused with reality",
+      "Apply a technique to reduce the impact of unpleasant thoughts"
+    ],
+    "pause_rules": [
+      "Pause after explaining the concept of cognitive fusion to allow reflection"
+    ],
+    "psychological_function": "Helping individuals recognize that thoughts are not necessarily reality, truth, or commands to obey",
+    "repetition_rules": [
+      "Repeat the recognition that thoughts are not facts or commands"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_045",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "lemon",
+      "crime novel",
+      "thoughts such as 'I’m useless', 'I’m going to fail', 'I’m hopeless', 'I’m a lousy mother', 'Nobody likes me'"
+    ],
+    "therapeutic_function": "Reducing the impact of unpleasant thoughts by addressing cognitive fusion",
+    "voice_rules": [
+      "Use explanatory and illustrative language to clarify cognitive fusion"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_045_20e432d6",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_045",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:08+00:00"
+}

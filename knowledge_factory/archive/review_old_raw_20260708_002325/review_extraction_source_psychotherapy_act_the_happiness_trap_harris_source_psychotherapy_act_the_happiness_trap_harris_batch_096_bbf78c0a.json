@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:48:03+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_096_bbf78c0a",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing intense emotions leading to regrettable behaviors",
+      "people with habitual destructive responses to emotions",
+      "those who believe emotions uncontrollably dictate behavior"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for individuals with impaired emotional regulation or severe mental health conditions where behavioral control is compromised"
+    ],
+    "evidence_text": "The idea that emotions control your actions is a very powerful illusion. Psychologist Hank Robb\ncompares this illusion to that of a sunset. When we watch a sunset, the sun appears to be sinking\nbelow the horizon. But in fact, the sun is not moving at all. It’s the earth that’s moving, rotating on\nits axis so that we’re actually moving away from the sun. And even though we’ve all learned this at\nschool, it’s so easy to forget! When you’re watching that sunset, it’s almost impossible to believe\nthat the sun is stationary and that it’s actually the ground you’re standing on that is moving.\n\n---\n\nWhen we’re feeling strong emotions we may do all sorts of things we later regret. We may smash\nthings, shout, abuse people, drink excessively or engage in any number of destructive behaviours.\nAnd it seems as if the emotion were causing us to do this. But actually, it’s not. We’re only acting\nthis way because we’ve developed bad habits. But if we consciously bring our awareness to how we\nare feeling, and consciously observe how we’re behaving, then no matter how intense our emotions\nare, we can still control our actions. Even when you’re furious or terrified, you can stand up or sit\ndown, close your mouth, drink a glass of water, answer the telephone, go to the toilet or scratch\nyour head. You can’t stop yourself from feeling angry or afraid, but you certainly can control how\nyou behave.\n\n---\n\nThe problem is, our society perpetuates the myth that emotions control our behaviour. For example,\nwe talk about being ‘driven by fear’, ‘seized by anger’ or ‘overwhelmed by guilt’. We justify our\nbehaviour by saying things like, ‘I was so angry, I couldn’t help it!’ or ‘I was too depressed to do\nanything.’ And we use expressions like, ‘My fear got the better of me’ or ‘My anger took over.’ So\nwhen we grow up hearing people talk this way, we readily come to believe that our emotions\ncontrol us—and it’s a powerful illusion to shake.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_096_bbf78c0a",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphor (sunset) to illustrate cognitive illusion",
+      "Encourage conscious observation of feelings and behaviors",
+      "Highlight distinction between feeling emotions and acting on them"
+    ],
+    "pause_rules": [
+      "Pause after presenting the sunset metaphor to allow reflection",
+      "Pause after listing examples of controllable behaviors to emphasize choice"
+    ],
+    "psychological_function": "Disrupts the illusion that emotions directly control actions; encourages recognition of habitual behavior patterns and the possibility of choice in response to emotions.",
+    "repetition_rules": [
+      "Reinforce the idea that emotions do not cause behavior",
+      "Repeat examples of controllable actions despite strong emotions"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_096",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "sunset illusion illustrating the misconception of emotional control"
+    ],
+    "therapeutic_function": "To increase conscious awareness of emotions and promote behavioral control despite emotional intensity.",
+    "voice_rules": [
+      "Use authoritative and explanatory tone",
+      "Incorporate relatable examples of emotional reactions and behaviors",
+      "Challenge common societal beliefs about emotions controlling behavior"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_096_bbf78c0a",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_096",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:03+00:00"
+}

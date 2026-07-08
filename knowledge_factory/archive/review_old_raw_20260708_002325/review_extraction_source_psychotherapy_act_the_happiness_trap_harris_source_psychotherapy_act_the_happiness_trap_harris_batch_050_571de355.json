@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-07-07T21:45:23+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_050_571de355",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "negative self-evaluative thoughts",
+      "self-critical internal narratives",
+      "ruminative negative beliefs"
+    ],
+    "confidence": 0.95,
+    "contraindications": [],
+    "evidence_text": "Identify your mind’s favourite stories, then give them names, such as the ‘loser!’ story, or the ‘my\nlife sucks!’ story, or the ‘I can’t do it!’ story. Often there will be several variations on a theme. For\nexample, the ‘nobody likes me’ story may show up as ‘I’m boring’, the ‘I’m undesirable’ story as\n‘I’m fat’, and the ‘I’m inadequate’ story as ‘I’m stupid”. When your stories show up, acknowledge\nthem by name. For example, you could say to yourself, ‘Ah yes. I recognise this. That old favourite,\nthe “I’m a failure” story.’ Or ‘Aha! Here comes the “I can’t cope” story.” Once you've\nacknowledged a story, that’s it—yjust let it be. You don’t have to challenge it or push it away, nor do\nyou have to give it much attention. Simply let it come and go as it pleases, while you channel your\nenergy into doing something you value.\n\n---\n\nMichelle, whom we met earlier, identified three major stories: the ‘I’m worthless’ story, the “Pm a\nbad mother’ story, and the ‘I’m unlovable’ story. Acknowledging her thoughts by these names\nmade her far less likely to get caught up in them. But Michelle’s handsdown favourite technique\nwas Musical Thoughts. Whenever she caught herself buying into the ‘I’m so pathetic’ story, she\nwould put the words to music and watch them lose all their power. And she didn’t just stick to\n‘Happy Birthday’ and ‘Jingle Bells’. She experimented with a wide variety of tunes, from\nBeethoven’s Fifth Symphony to the Beatles’ ‘Penny Lane’. After a week of practising this\ntechnique repeatedly throughout the day, she found she was taking those thoughts a lot less\nseriously (even without the music). They hadn’t gone away, but they bothered her much less.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_050_571de355",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify recurring negative thoughts and assign them distinct names.",
+      "Acknowledge the presence of these named stories without attempting to change or suppress them."
+    ],
+    "pause_rules": [
+      "Allow thoughts to come and go without interruption or engagement after acknowledgment."
+    ],
+    "psychological_function": "Facilitates cognitive defusion by externalizing negative thoughts as named stories and diminishing their emotional power through techniques like musicalization.",
+    "repetition_rules": [
+      "Repeatedly practice acknowledging and naming negative stories whenever they arise.",
+      "Use musicalization of negative thoughts repeatedly throughout the day to reduce their power."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_050",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "naming negative thoughts as 'stories'",
+      "musicalizing negative thoughts"
+    ],
+    "therapeutic_function": "Helps individuals recognize and detach from negative self-stories by naming and acknowledging them without engaging or challenging, thereby reducing their impact and allowing focus on valued actions.",
+    "voice_rules": [
+      "Use a neutral, recognizing tone when naming and acknowledging thoughts (e.g., 'Ah yes. I recognize this. That old favorite, the “I’m a failure” story.')"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_050_571de355",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_050",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:23+00:00"
+}

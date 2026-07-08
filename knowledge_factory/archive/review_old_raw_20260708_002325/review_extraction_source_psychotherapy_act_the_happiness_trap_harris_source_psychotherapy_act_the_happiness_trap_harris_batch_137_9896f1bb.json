@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:50:09+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_137_9896f1bb",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "emotional reactions",
+      "learning history",
+      "physical state",
+      "self-judgment",
+      "internal and external expectations about emotions"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "May be less effective for individuals requiring concrete strategies for emotion regulation beyond acceptance.",
+      "Not suitable for those needing immediate symptom relief rather than conceptual understanding."
+    ],
+    "evidence_text": "Different people will have very different emotional reactions to this situation. The emotional\nreaction you have will depend on your ‘learning history’; that is, everything you’ve ever learned,\ndirectly or indirectly, that relates to this event. This includes everything you’ve picked up from\nbooks, teachers, parents, television, movies, songs, video games, friends, family, co-workers and\nyour own direct experiences of handling relationships, social etiquette, communication, negotiation\nand so on, plus every thing you’ve ever learned about how to relate to your own thoughts and\nfeelings. This means that your emotional reaction in a given situation has been shaped by literally\nmillions of learning experiences throughout your life. (Thus, it’s far too simplistic to say that your\nemotion is because of a certain thought, the way your parents treated you, or the chemical balance\nin your brain.)\n\n---\n\nThere’s no right or wrong to how you should feel in any given situation. Your mind may tell you\nthat you should feel this or that way, but that’s just your mind ‘mouthing off”. And other people\nmay tell you how you should feel, but that’s just other people mouthing off. The reality is simply\nthis: how you feel is how you feel. (And what do you get when you argue with reality?) The\nemotions you feel in any given situation are determined by three things:\n\n---\n\n1. The state of your physical body, including the structure and functioning of your brain and\nnervous system, your current state of health and wellbeing and the emotional state you were in\nright before the situation happened.\n\n---\n\n2. Your learning history; that is everything you’ve ever learned in your life, directly or indirectly,\nthat relates even remotely to the situation.\n\n---\n\nKnowing this, it’s quite natural that in the scenario above, different people will have different\nemotional reactions. Those emotional reactions will in turn give rise to different urges. If you feel",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_137_9896f1bb",
+    "extractor": "openai",
+    "generation_rules": [
+      "Emphasize that emotions are shaped by a lifetime of learning and current physical state.",
+      "Highlight that there is no right or wrong way to feel.",
+      "Encourage acceptance of emotions as they are without argument."
+    ],
+    "pause_rules": [
+      "Pause after explaining the components influencing emotions to allow reflection.",
+      "Pause before introducing the idea that arguing with reality is futile."
+    ],
+    "psychological_function": "Promotes awareness of the influence of learning history and physical state on emotions, reducing self-judgment and external pressure about how one 'should' feel.",
+    "repetition_rules": [
+      "Repeat the concept that emotions are influenced by multiple factors including learning history and physical state.",
+      "Reinforce that emotional reactions vary naturally between individuals."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_137",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [],
+    "therapeutic_function": "Facilitates acceptance of emotional experiences by normalizing variability in emotional reactions and discouraging argument with reality.",
+    "voice_rules": [
+      "Use a non-judgmental, validating tone.",
+      "Present information as factual and normalizing.",
+      "Use metaphorical language sparingly, focusing on direct explanation."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_137_9896f1bb",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_137",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:09+00:00"
+}

@@ -1,0 +1,5 @@
+{
+  "ontology_version": "master_ontology_v1",
+  "ontology_is_complete": false,
+  "description": "Incremental seed ontology. Coverage is intentionally incomplete; unknown mechanisms are valid candidates for future review."
+}

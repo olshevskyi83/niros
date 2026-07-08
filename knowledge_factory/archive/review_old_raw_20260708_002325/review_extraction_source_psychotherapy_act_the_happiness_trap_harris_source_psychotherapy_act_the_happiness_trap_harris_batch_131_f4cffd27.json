@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-07-07T21:49:49+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_131_f4cffd27",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "clients with history of unsuccessful control strategies",
+      "clients disconnected from bodily emotional sensations",
+      "clients experiencing emotional numbness"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Uncertain if suitable for clients unable to engage in body awareness exercises or those with severe dissociation"
+    ],
+    "evidence_text": "A: You need to trust your own experience on this. ACT works particularly well with clients who\nhave tried many different types of therapy or personal development programs. That’s because these\npeople have experienced for themselves that control strategies are not effective in the long run. So\nyou may need to go and try some of the more popular approaches—hypnosis, visualisation,\naffirmations, positive thinking and so on—and discover for yourself that they really are not\neffective in the long term. Perhaps only then will you be fully ready to take on this approach. But\nbefore you go off and do that, reflect back to Chapter 2. Consider again all the ways you’ve tried to\ncontrol ‘negative’ thoughts and feelings and ask yourself, did those methods work in the long term?\nAnd did they bring you closer to the life you want?\n\n---\n\nA: Yes. But most of us have no problem with neutral or pleasant emotions. We only tend to\nstruggle with the uncomfortable ones.\n\n---\n\nQ: I don’t feel my emotions in my body. They’re all in my head.\n\n---\n\nA: Sometimes it seems as though you don’t feel emotions in your body, but everybody does. If you\ncan’t readily feel them, it suggests you’re very disconnected from your body. If this is the case,\npractise the Body Awareness exercise (see Chapter 13). Practise it for three or four minutes, twice\na day, especially when you’re feeling upset or stressed. Before long you’ll be able to locate your\nfeelings in your body. There are usually some key areas where we feel most intensely. Common\nones include the forehead, temples, jaw, neck, shoulders, throat, chest and abdomen.\n\n---\n\nQ: But I don’t feel anything when I’m deeply upset; I just go numb.\n\n---\n\nA: Then practise accepting your numbness. Find the part of your body that feels the most numb,\nand practise expansion around that. You’ll usually find that as you make room for that numbness\nother uncomfortable feelings will arise. Then you can practise expansion around those.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_131_f4cffd27",
+    "extractor": "openai",
+    "generation_rules": [
+      "Encourage clients to reflect on past ineffective control strategies",
+      "Guide clients to practice body awareness exercises twice daily",
+      "Instruct clients to accept numbness and practice expansion around it to allow emergence of other feelings"
+    ],
+    "pause_rules": [
+      "Pause to allow clients to reflect on their experiences with control strategies",
+      "Pause during body awareness exercises to notice sensations"
+    ],
+    "psychological_function": "Facilitates experiential learning that control strategies for negative thoughts and feelings are ineffective long-term; promotes mindfulness and acceptance of numbness and discomfort.",
+    "repetition_rules": [
+      "Repeat body awareness practice regularly (3-4 minutes, twice daily)",
+      "Reinforce reflection on past control attempts and their outcomes"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_131",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "body as a site of emotional experience",
+      "expansion around numbness"
+    ],
+    "therapeutic_function": "Encourages acceptance of uncomfortable emotions and body awareness to reduce disconnection from feelings and improve emotional processing.",
+    "voice_rules": [
+      "Use a trusting and validating tone",
+      "Encourage self-trust and experiential discovery",
+      "Normalize struggles with uncomfortable emotions"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_131_f4cffd27",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_131",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:49+00:00"
+}

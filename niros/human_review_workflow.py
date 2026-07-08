@@ -26,6 +26,9 @@ REVIEW_STATUS_APPROVED = "approved"
 REVIEW_STATUS_REJECTED = "rejected"
 REVIEW_STATUS_CHANGES_REQUESTED = "changes_requested"
 
+REVIEW_TYPE_BATCH = "batch_extraction"
+REVIEW_TYPE_CONSOLIDATED = "consolidated_candidate"
+
 _EXTRACTION_TUPLE_FIELDS = (
     "symbolic_elements",
     "candidate_targets",
@@ -67,6 +70,9 @@ class HumanReviewRecord:
     created_at: str = ""
     updated_at: str = ""
     knowledge_domain: str = KNOWLEDGE_DOMAIN_UNKNOWN
+    review_type: str = REVIEW_TYPE_BATCH
+    consolidated_candidate: dict[str, Any] | None = None
+    therapeutic_relevance: dict[str, Any] | None = None
 
 
 def build_review_id(extraction_id: str) -> str:
@@ -87,6 +93,12 @@ def serialize_extraction(extraction: TherapeuticFunctionExtraction) -> dict[str,
         "therapeutic_function": extraction.therapeutic_function,
         "psychological_function": extraction.psychological_function,
         "evidence_text": extraction.evidence_text,
+        "mechanism_name": extraction.mechanism_name,
+        "mechanism_description": extraction.mechanism_description,
+        "why_this_is_a_mechanism": extraction.why_this_is_a_mechanism,
+        "causal_process": extraction.causal_process,
+        "ontology_status": extraction.ontology_status,
+        "ontology_mechanism_id": extraction.ontology_mechanism_id,
         "symbolic_elements": list(extraction.symbolic_elements),
         "generation_rules": list(extraction.generation_rules),
         "voice_rules": list(extraction.voice_rules),
@@ -124,11 +136,16 @@ def serialize_human_review_record(record: HumanReviewRecord) -> dict[str, Any]:
         "created_at": record.created_at,
         "updated_at": record.updated_at,
         "knowledge_domain": record.knowledge_domain,
+        "review_type": record.review_type,
     }
     if record.edited_extraction is not None:
         payload["edited_extraction"] = serialize_extraction(record.edited_extraction)
     else:
         payload["edited_extraction"] = None
+    if record.consolidated_candidate is not None:
+        payload["consolidated_candidate"] = record.consolidated_candidate
+    if record.therapeutic_relevance is not None:
+        payload["therapeutic_relevance"] = record.therapeutic_relevance
     return payload
 
 
@@ -151,6 +168,9 @@ def deserialize_human_review_record(data: dict[str, Any]) -> HumanReviewRecord:
         created_at=data.get("created_at", ""),
         updated_at=data.get("updated_at", ""),
         knowledge_domain=normalize_review_knowledge_domain(data.get("knowledge_domain")),
+        review_type=data.get("review_type", REVIEW_TYPE_BATCH),
+        consolidated_candidate=data.get("consolidated_candidate"),
+        therapeutic_relevance=data.get("therapeutic_relevance"),
     )
 
 
@@ -260,6 +280,46 @@ class HumanReviewWorkflow:
             status=REVIEW_STATUS_PENDING,
             original_extraction=extraction,
             knowledge_domain=normalize_review_knowledge_domain(knowledge_domain),
+            review_type=REVIEW_TYPE_BATCH,
+        )
+        return self._persist_mutation(record, created=True)
+
+    def create_pending_consolidated_review(
+        self,
+        candidate: Any,
+        *,
+        knowledge_domain: str = KNOWLEDGE_DOMAIN_UNKNOWN,
+        therapeutic_relevance: dict[str, Any] | None = None,
+    ) -> HumanReviewRecord:
+        """Create a pending human review for one consolidated candidate pattern."""
+        from niros.knowledge_consolidator import (
+            ConsolidatedCandidatePattern,
+            build_consolidated_review_id,
+            build_representative_extraction,
+            serialize_consolidated_candidate,
+        )
+
+        if not isinstance(candidate, ConsolidatedCandidatePattern):
+            raise HumanReviewValidationError(
+                "candidate must be a ConsolidatedCandidatePattern"
+            )
+        resolved_domain = normalize_review_knowledge_domain(knowledge_domain)
+        extraction = build_representative_extraction(
+            candidate,
+            knowledge_domain=resolved_domain,
+        )
+        self._require_valid_extraction(extraction)
+        record = HumanReviewRecord(
+            review_id=build_consolidated_review_id(candidate.candidate_id),
+            extraction_id=extraction.extraction_id,
+            source_id=extraction.source_id,
+            segment_id=candidate.candidate_id,
+            status=REVIEW_STATUS_PENDING,
+            original_extraction=extraction,
+            knowledge_domain=resolved_domain,
+            review_type=REVIEW_TYPE_CONSOLIDATED,
+            consolidated_candidate=serialize_consolidated_candidate(candidate),
+            therapeutic_relevance=therapeutic_relevance,
         )
         return self._persist_mutation(record, created=True)
 

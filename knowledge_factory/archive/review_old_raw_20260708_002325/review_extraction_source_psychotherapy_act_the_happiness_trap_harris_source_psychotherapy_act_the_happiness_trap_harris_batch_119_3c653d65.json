@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:49:13+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_119_3c653d65",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "distressing sensations",
+      "negative thoughts",
+      "emotional struggle",
+      "internal resistance to feelings"
+    ],
+    "confidence": 0.95,
+    "contraindications": [
+      "Not explicitly stated in the text; confidence in contraindications is low"
+    ],
+    "evidence_text": "You may need to focus on this sensation for anywhere from a few seconds to a few minutes, until\nyou completely give up the struggle with it. Be patient; take as long as you need. You’re learning a\nvaluable skill. Once you’ve done this, scan your body again and see if there’s another sensation\nthat’s bothering you. If so, repeat the procedure with this one, too. You can do this with as many\ndifferent sensations as necessary. Keep going until you have a sense of no longer struggling with\nyour feelings. As you practise this technique one of two things will happen: either your feelings will\nchange or they won’t. It doesn’t matter either way, because this technique is not about changing\nyour feelings—it’s about accepting them.\n\n---\n\nTo give you a better idea of how expansion works, I’ve included a transcript of a session I did with\nDonna. This transcript is from our fourth session, by which time Donna was already well-practised\nat defusion skills. As this session begins, Donna is sitting opposite me with tears welling up in her\neyes.\n\n---\n\nRuss: You look very upset. What are you feeling right now?\n\n---\n\nRuss: So you’re having the thought that you can’t take it anymore?\n\n---\n\nRuss: Well, thank your mind for that one. (Donna smiles through her tears.) Anything else your\nmind is telling you right now?\n\n---\n\nRuss: Your mind doesn’t have much confidence in you, does it?\n\n---\n\nRuss: Okay. Well, thank it again for its valuable contributions. (Donna smiles again.) Now,\nremember that struggle switch I was talking about? How when it’s ON it amplifies your emotions\nand makes them into a big, dirty mess?\n\n---\n\nRuss: Well, what we’re going to do now is turn that switch OFF. I’m going to ask you to sit with\nyour emotions and experience them fully, without struggling.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_119_3c653d65",
+    "extractor": "openai",
+    "generation_rules": [
+      "Focus attention on a sensation until the struggle with it is given up",
+      "Repeat the process with other sensations as needed",
+      "Accept feelings regardless of whether they change"
+    ],
+    "pause_rules": [
+      "Allow as much time as needed (seconds to minutes) to focus on sensations and give up struggle"
+    ],
+    "psychological_function": "Reduces emotional amplification caused by internal struggle; promotes defusion from distressing thoughts and feelings; enhances emotional regulation through acceptance.",
+    "repetition_rules": [
+      "Repeat the acceptance procedure with multiple sensations until no struggle remains"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_119",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "struggle switch (ON/OFF) representing amplification or reduction of emotional struggle"
+    ],
+    "therapeutic_function": "Facilitates acceptance of difficult emotions by encouraging patients to fully experience sensations without struggling or attempting to change them.",
+    "voice_rules": [
+      "Use validating and gentle language",
+      "Acknowledge and thank the mind for its contributions",
+      "Use metaphorical language (e.g., struggle switch) to illustrate concepts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_119_3c653d65",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_119",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:13+00:00"
+}

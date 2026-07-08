@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:49:43+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_129_b4b11011",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "anxiety",
+      "fear of anxiety symptoms",
+      "self-judgment",
+      "avoidance of difficult emotions"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text"
+    ],
+    "evidence_text": "A: In ACT, we place great emphasis on being ‘up front’. ACT therapists don’t go around\npretending to be enlightened beings or to ‘have it all together’. We freely admit we’re human, and\nwe fall into the same traps as everyone else. In fact, we often say to our clients something like this:\n‘I don’t want you to put me on some kind of pedestal, to think I’ve got my life completely in order.\nIt’s more as if you’re climbing your mountain over there and I’m climbing my mountain over here.\nAnd it’s not as if ve reached the top and I’m havinga rest. It’s just that from where I am on my\nmountain, I can see obstacles on your mountain that you can’t see. So I can point those out to you\nand maybe show you some alternative routes around them’.\n\n---\n\nSo yes, you’re absolutely right. I do experience a fair amount of anxiety in my life. But these days I\ngenerally handle it well. For example, when I am speaking publicly I fully accept my anxiety\nwithout a struggle. (I’m no keener than the next guy to experience such feelings, but I’m\ncompletely willing to have them in order to do something I value.) Just before I start speaking, my\nanxiety skyrockets. Then, as I become increasingly involved in my talk, one of two things happens:\neither 1t goes down or it doesn’t. Usually, it goes down fairly quickly, but even if it doesn’t, it’s not\na problem, because nowI fully accept it.\n\n---\n\nWhen I look back on my life, I can see how acceptance has dramatically reduced my anxiety levels.\nAs a junior doctor, I was often in a state of anxiety and as a consequence my hands were often\nsweaty. I then became increasingly anxious about my sweaty hands—and guess what happened?\nThat’s right. They became worse and worse until I developed a blistering sweat rash between my",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_129_b4b11011",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphors to illustrate shared human experience and perspective-taking",
+      "Normalize therapist's own struggles to reduce client idealization",
+      "Encourage acceptance rather than control or avoidance of anxiety"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "psychological_function": "Encourages openness about human imperfection and normalizes experiencing anxiety; reduces struggle against anxiety by fostering acceptance",
+    "repetition_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_129",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "climbing a mountain as a metaphor for personal challenges and progress"
+    ],
+    "therapeutic_function": "Promotes acceptance of anxiety and difficult emotions to reduce their impact and improve functioning",
+    "voice_rules": [
+      "Use honest, upfront, and non-idealized therapist voice",
+      "Model acceptance of anxiety openly and without judgment"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_129_b4b11011",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_129",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:49:43+00:00"
+}

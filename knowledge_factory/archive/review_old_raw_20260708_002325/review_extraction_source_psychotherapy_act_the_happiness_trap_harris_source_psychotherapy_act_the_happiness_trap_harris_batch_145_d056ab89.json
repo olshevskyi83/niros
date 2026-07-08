@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:50:39+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_145_d056ab89",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "mind-wandering",
+      "automatic thinking",
+      "lack of mindfulness",
+      "distraction from present moment"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "None explicitly stated in the text"
+    ],
+    "evidence_text": "We’ve all had this happen to us. We’re in a conversation, nodding and listening, but we’re not\npaying a bit of attention, because we’re ‘off in our heads’ thinking about what we’ve got to do later,\nor dwelling on something that happened earlier. Often we can get away with this ‘fake listening’,\nbut sometimes, to our great embarrassment, we get caught. When someone asks, ‘Are you\nlistening?’ we may try to bluff it out, saying, “Yes, of course.’ Or we may sheepishly confess, ‘No.\nSorry, I was thinking about something else.’\n\n---\n\nThe thinking self is constantly generating thoughts—after all, that’s its job. But all too often those\nthoughts distract us from where we are and what we’re doing in the moment. Ever been for a drive\nin a car and reached your destination with no real memory of the journey? Or thought you knew\nwhere you were going but ended up driving to the wrong place? That’s because your attention\nwasn’t on the road; it was on the activity of your thinking self (daydreaming, planning, worrying,\nproblem-solving, remembering, fantasising and all the rest). And this is how we habitually go\nthrough most of our lives.\n\n---\n\nTake eating, for example. When we’re eating food we rarely, if ever, give it our full attention.\nWe’re usually talking to someone, reading, watching television or even working at our desk. How\noften have you eaten a meal and focused on it completely, to the exclusion of all else? For most of\nus it’s a rare occurrence.\n\n---\n\nHave you ever been asked, ‘What did you do today?’ and not been able to remember? Do you ever\nfind yourself snacking on something without even realising it? Or read an entire page of a book and\nrealise you haven’t taken in a single word?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_145_d056ab89",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify moments of inattention or mind-wandering",
+      "Bring attention back to current sensory experience"
+    ],
+    "pause_rules": [
+      "Imply natural pauses to notice when attention drifts and to reorient to the present"
+    ],
+    "psychological_function": "Reduce distraction caused by habitual thinking and mind-wandering",
+    "repetition_rules": [
+      "Highlight common everyday examples repeatedly to reinforce awareness of habitual distraction"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_145",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "fake listening",
+      "driving without memory of journey",
+      "eating without attention"
+    ],
+    "therapeutic_function": "Increase present-moment awareness and attention to current experience",
+    "voice_rules": [
+      "Use conversational and relatable examples to illustrate inattention"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_145_d056ab89",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_145",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:50:39+00:00"
+}

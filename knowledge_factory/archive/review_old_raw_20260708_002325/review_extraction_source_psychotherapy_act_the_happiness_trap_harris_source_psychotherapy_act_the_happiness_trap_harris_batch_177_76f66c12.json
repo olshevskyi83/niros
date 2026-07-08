@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-07-07T21:52:19+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_177_76f66c12",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "grief",
+      "urges to engage in maladaptive behavior (e.g., drinking)",
+      "negative self-judgments",
+      "distressing thoughts and feelings"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Running commentary may not be helpful for all individuals; discontinue if unhelpful"
+    ],
+    "evidence_text": "Sometimes Donna would do this on and off for anywhere from a couple of minutes to the better part\nof an hour, depending on how powerful her feelings of grief were and how quickly they shifted.\nThis helped her stay present so she could then choose to focus on a valued activity, instead of\ndrinking. Sometimes she even added that choice into the commentary: “Now, what do I value doing\nat this moment? Well, I was just about to cook something healthy for dinner. Is this something I\nvalue? Yes, it is. So let’s focus on chopping up these potatoes.’\n\n---\n\nOnce Donna had chosen a valued activity, she would then connect with it fully, through all of her\nfive senses. For example, she carefully observed the appearance and texture of the potatoes, the\nsounds of peeling and slicing, the feeling of the knife cutting and chopping, and the movements in\nher arms, hands and neck.\n\n---\n\nOver time, as her grieving process continued, these feelings and urges troubled her less and less.\nAnd as she got better at expansion, defusion and connection, she needed the thinking self less and\nless to assist her.\n\n---\n\nSome people find running commentary extremely helpful; others don’t. So why not give it a go and\nsee how it works? As always, if it’s helpful, make use of it. And if it isn’t, don’t!\n\n---\n\nWe’ll return to connection later in the book, when we use it in taking action. But now it’s time for\nsomething completely different.\n\n---\n\nWhat do you most dislike about yourself? I've asked this question of hundreds and hundreds of\npeople, either individually or in groups, and here are some of their most common responses:\n\n---\n\n* I’m too shy/fearful/anxious/needy/fragile/passive/guilty.\n\n---\n\n¢ I’m stupid/silly/disorganised/a time waster.\n\n---\n\n* I’m selfish/critical/arrogant/vain/egotistical/materialistic.\n\n---\n\n¢ I’m judgemental/angry/greedy/aggressive/obnoxious/jealous.\n\n---\n\n* I’m too obsessive/controlling/fastidious/perfectionist.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_177_76f66c12",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use on/off engagement with present-moment awareness depending on intensity and duration of feelings",
+      "Incorporate running commentary if helpful",
+      "Focus fully on chosen valued activity through all five senses"
+    ],
+    "pause_rules": [
+      "Pause or discontinue running commentary if it is not helpful to the individual"
+    ],
+    "psychological_function": "Promotes mindfulness and present-moment awareness; supports cognitive defusion from distressing thoughts and feelings; encourages engagement with sensory experience to enhance connection with valued activities.",
+    "repetition_rules": [
+      "Repeat present-moment engagement and defusion practices as needed over time to reduce distress and reliance on thinking self"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_177",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "valued activity (e.g., cooking healthy dinner)",
+      "sensory engagement with potatoes (appearance, texture, sound, feeling, movement)"
+    ],
+    "therapeutic_function": "Helps individuals stay present and choose valued activities over maladaptive behaviors; facilitates grief processing and reduces distress over time through expansion, defusion, and connection techniques.",
+    "voice_rules": [
+      "Use self-directed questioning to identify valued activities (e.g., 'What do I value doing at this moment?')",
+      "Allow flexibility in use of internal commentary based on individual preference"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_177_76f66c12",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_177",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:52:19+00:00"
+}

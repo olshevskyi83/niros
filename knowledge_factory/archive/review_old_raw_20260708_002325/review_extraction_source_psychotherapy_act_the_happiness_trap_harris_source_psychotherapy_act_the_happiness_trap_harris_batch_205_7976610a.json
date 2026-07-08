@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-07T21:53:52+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_205_7976610a",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "engagement in fun activities",
+      "spiritual practices",
+      "community involvement",
+      "connection with nature",
+      "physical health behaviors"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "None explicitly stated in the text"
+    ],
+    "evidence_text": "3. On an ongoing basis, how do you wish to have fun?\n\n---\n\n5. What sorts of new activities would you like to try?\n\n---\n\n6. What old activities would you like to take up again or do more of?\n\n---\n\n2. What spiritual activities would you like to do on an ongoing basis?\n\n---\n\nThe word ‘spirituality’ has different meanings for different people. It may mean getting out into\nnature, dancing, meditating, practising yoga or participating in an organised religion. Whatever it\nmeans to you is fine.\n\n---\n\n1. How would you like to contribute to your community (for instance, through volunteering,\nrecycling or helping an elderly neighbour)?\n\n---\n\n2. What interest groups, charities or political parties would you like to support or become actively\ninvolved in?\n\n---\n\n1. What aspects of nature would you like to connect with?\n\n---\n\n2. What environments would you like to spend more time in?\n\n---\n\n3. How would you like to care for, change or contribute to the variety of environments around you\n—in nature, at work and at home?\n\n---\n\n4. What activities would you like to do that get you out into nature?\n\n---\n\n5. What activities would you like to do that alter your environment at home or at work in creative,\nhelpful or pleasing ways?\n\n---\n\n2. What sort of physical health do you want to build?\n\n---\n\n3. What sort of ongoing activities do you want to do in terms of connecting with and taking care of\nyour body?\n\n---\n\n4. How do you want to look after your health with regard to sleep, diet, exercise, smoking, alcohol?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_205_7976610a",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use open-ended questions to explore desired activities and values",
+      "Allow individual definitions of spirituality",
+      "Encourage identification of specific behaviors to increase or resume"
+    ],
+    "pause_rules": [
+      "Allow time for reflection after each question to facilitate thoughtful responses"
+    ],
+    "psychological_function": "Encouraging values clarification and commitment to personally significant behaviors",
+    "repetition_rules": [
+      "Repeat question formats to cover different life domains (fun, spirituality, community, nature, health)"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_205",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "spirituality",
+      "nature",
+      "community contribution",
+      "physical health"
+    ],
+    "therapeutic_function": "Facilitating engagement in meaningful activities to enhance well-being and life satisfaction",
+    "voice_rules": [
+      "Use inclusive and non-judgmental language",
+      "Normalize diverse meanings of spirituality and activities"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_205_7976610a",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_205",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:53:52+00:00"
+}

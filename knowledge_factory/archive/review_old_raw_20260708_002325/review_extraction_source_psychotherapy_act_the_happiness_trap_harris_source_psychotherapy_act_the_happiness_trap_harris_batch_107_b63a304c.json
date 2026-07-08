@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-07-07T21:48:36+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_107_b63a304c",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "judgments about feelings",
+      "unhelpful thoughts about emotions",
+      "fusion with negative evaluations of emotions"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text"
+    ],
+    "evidence_text": "In ACT we encourage you to let go of judging your feelings altogether and to see them for what\nthey are: a stream of constantly changing sensations and urges, continuously passing through your\nbody. Just because some of these sensations and urges are uncomfortable doesn’t mean they’re\n“bad”. For example, if you grew up in a family where people didn’t openly express love and\naffection, then you may find loving feelings uncomfortable. Does that mean they’re “bad’? And\nisn’t it interesting that many people judge fear a ‘bad’ emotion, yet they will pay good money to\nwatch a horror movie or read a thriller, precisely to experience that very feeling! So no emotion is\nin itself “bad”. ‘Bad’ is just a thought: a judgement made by our thinking self. But if we fuse with\nthat thought—if we literally believe that the feeling is ‘bad’—then, naturally, we will struggle with\nit all the harder. (And we know where that leads.)\n\n---\n\nAny defusion strategy can help you deal with unhelpful thoughts about your feelings. For example,\nsuppose your mind says, ‘I can’t stand this feeling.’ You could then acknowledge, ‘I’m having the\nthought that I can’t stand this feeling.’ Or, more simply, you could reply, “Thanks, Mind!’\n\n---\n\nOne strategy for dealing with judgements specifically is to label them as such. Suppose your mind\nsays, ‘This anxiety is terrible.” You could then acknowledge, ‘I’m making the judgement “This\nanxiety is terrible”.” Or suppose your mind says, ‘This guilt is awful.’ You could then acknowledge,\n‘I’m making the judgement “This guilt is awful”.’\n\n---\n\nUsing this phrase makes you aware of the process of judging. Then you have a choice in how much\nyou buy into those judgements. Alternatively, each time you notice a judgement you can silently\nsay to yourself, ‘Judging...’ and let it be.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_107_b63a304c",
+    "extractor": "openai",
+    "generation_rules": [
+      "Label judgments explicitly (e.g., 'I’m making the judgement ...')",
+      "Acknowledge thoughts as thoughts (e.g., 'I’m having the thought that ...')",
+      "Use simple verbal responses to thoughts (e.g., 'Thanks, Mind!')"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the text"
+    ],
+    "psychological_function": "Promotes cognitive defusion by recognizing thoughts as mental events rather than truths, thereby decreasing fusion with negative judgments.",
+    "repetition_rules": [
+      "Silently repeat the word 'Judging...' upon noticing a judgment"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_107",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "stream of constantly changing sensations and urges",
+      "judging as a thought rather than reality"
+    ],
+    "therapeutic_function": "Encourages acceptance of emotions without judgment and reduces struggle with uncomfortable feelings by defusing unhelpful thoughts.",
+    "voice_rules": [
+      "Use a non-judgmental, observational tone",
+      "Address the mind or thoughts directly in a friendly or neutral manner"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_107_b63a304c",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_107",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:48:36+00:00"
+}

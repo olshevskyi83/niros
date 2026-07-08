@@ -1,0 +1,60 @@
+{
+  "created_at": "2026-07-07T21:43:55+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_025_50c3f0c0",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "unpleasant thoughts",
+      "unpleasant feelings",
+      "avoidance behaviors",
+      "psychological distress",
+      "low self-esteem",
+      "addictions",
+      "depression",
+      "anxiety"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the text"
+    ],
+    "evidence_text": "Presumably, if you’re reading this book, there’s room for your life to work better than it does.\nMaybe your relationship is in trouble, or you’re lonely or heart broken. Maybe you hate your job, or\nmaybe you’ve lost it. Maybe your health is deteriorating. Maybe someone you love has died, or\nrejected you, or moved far away. Maybe you’re having a midlife crisis. Maybe you have low selfesteem or no self-confidence or feelings of inadequacy. Maybe you have drug or alcohol problems\nor other addictions. It could be financial or legal difficulties, or that you just feel stuck and don’t\nknow what you want. Maybe you’re suffering from depression or anxiety, or you could just be\nbored with life or feel that it lacks any meaning.\n\n---\n\nWhatever the problem is, it undoubtedly gives rise to unpleasant thoughts and feelings—and you’ ve\nprobably spent a lot of time and effort trying to escape them or blot them out. But suppose those\nattempts to get rid of your bad thoughts and feelings are actually lowering the quality of your life?\nIn ACT we have a saying for this: ‘The solution is the problem!’\n\n---\n\nWhat do you do when you have an itch? You scratch it, right? And usually this works so well you\ndon’t even think about it: scratch the itch and it goes away. Problem solved. But suppose one day\nyou develop a patch of eczema (a common skin condition). The skin is very itchy, so naturally you\nscratch it. However, the skin cells in this region are already inflamed and therefore highly sensitive,\nand when you scratch them, they release chemicals called histamines, which are highly irritating.\nAnd these histamines inflame the skin even further. So after a little while the itch returns—with a\ngreater intensity than before. And, of course, if you scratch it again, it gets even worse! The more\nyou scratch, the worse the eczema and the bigger the itch.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_025_50c3f0c0",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use metaphorical analogy (itch and scratching) to illustrate psychological processes",
+      "Present common life problems as relatable entry points",
+      "Frame avoidance attempts as counterproductive"
+    ],
+    "pause_rules": [
+      "Pause after presenting the paradox ('The solution is the problem!') to allow reflection"
+    ],
+    "psychological_function": "Highlighting the paradoxical effect of struggling against negative internal experiences, illustrating how such efforts can exacerbate suffering.",
+    "repetition_rules": [
+      "Reinforce the paradoxical nature of avoidance by repeating the itch-scratch cycle analogy"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_025",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "itch",
+      "scratching",
+      "eczema",
+      "histamines",
+      "inflammation"
+    ],
+    "therapeutic_function": "To help individuals recognize that attempts to avoid or suppress unpleasant thoughts and feelings may worsen their psychological distress, thereby encouraging acceptance rather than avoidance.",
+    "voice_rules": [
+      "Use conversational and empathetic tone",
+      "Employ direct address to reader",
+      "Use illustrative examples to clarify concepts"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_025_50c3f0c0",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_025",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:43:55+00:00"
+}

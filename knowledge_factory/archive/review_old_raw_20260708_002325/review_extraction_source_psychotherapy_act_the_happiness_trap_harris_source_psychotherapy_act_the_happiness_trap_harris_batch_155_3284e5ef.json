@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-07-07T21:51:06+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_155_3284e5ef",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "individuals experiencing depression",
+      "individuals experiencing anxiety",
+      "individuals stuck in negative self-narratives"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "Not explicitly stated in the segment"
+    ],
+    "evidence_text": "Of course, it is true that Soula was single and getting older and that most of her friends were in\nlong-term relationships. But remember the key question: is this story helpful? In this case it clearly\nwasn’t. And this was by no means an isolated episode. For most of a year now the ‘single and\nlonely’ story had been a major source of misery for Soula, making her increasingly depressed.\nWhen her friends talked about their relationships she was consumed with envy. And when she spent\ntime with couples she felt like a complete ‘reject’. Developing connection skills played a vital part\nin Soula’s recovery. It enabled her to enjoy the good things she had in her life, instead of always\nfocusing on what she lacked. (However I wouldn’t want you to think this was some ‘quick fix’ that\nchanged her life overnight. It was only the start of Soula’s journey. We’ll revisit her later in the\nbook to see how else she transformed her life.)\n\n---\n\nSadly, scenarios like Soula’s are all too common. The more we focus on unpleasant thoughts and\nfeelings, the more we disconnect from the present moment. This particularly tends to happen with\ndepression and anxiety disorders. With anxiety you tend to get hooked by stories about the future:\nabout things that might go wrong and how badly you’re sure to handle them. With depression you\ntend to get hooked by stories from the past: about all the things that actually have gone wrong and\nhow badly they’ve affected you. The thinking self then uses that history to convince you that the\nfuture is going to be just more of the same. These stories are very compelling and we’re all too\nready to give them our full attention.",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_155_3284e5ef",
+    "extractor": "openai",
+    "generation_rules": [
+      "Identify unhelpful self-stories and question their helpfulness",
+      "Encourage focus on present moment and positive aspects of life",
+      "Develop interpersonal connection skills"
+    ],
+    "pause_rules": [
+      "Not explicitly stated in the segment"
+    ],
+    "psychological_function": "Reducing engagement with unhelpful self-narratives that fuel depression and anxiety; decreasing rumination on past failures and future worries",
+    "repetition_rules": [
+      "Not explicitly stated in the segment"
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_155",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "‘single and lonely’ story",
+      "stories about the future",
+      "stories from the past",
+      "thinking self"
+    ],
+    "therapeutic_function": "Developing connection skills to enable enjoyment of present positive experiences and reduce focus on negative self-stories",
+    "voice_rules": [
+      "Use reflective and questioning tone to challenge unhelpful stories",
+      "Adopt empathetic and supportive voice when discussing emotional difficulties"
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_155_3284e5ef",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_155",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:51:06+00:00"
+}

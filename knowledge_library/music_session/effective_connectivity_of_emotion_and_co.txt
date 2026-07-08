@@ -1,0 +1,1938 @@
+[PAGE 001]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+1 Effective connectivity of emotion and cognition under psilocybin
+
+
+2
+
+
+3 Devon Stoliker’”, Leonardo Novelli’, Franz X. Vollenweider’, Gary F. Egan’”, Katrin H. Preller’ *, Adeel
+4 Razi 2 +>*
+
+
+5 "Turner Institute for Brain and Mental Health, Monash University, Clayton, VIC
+6 * Monash Biomedical Imaging, Monash University, Clayton, VIC
+7 ° Department of Psychiatry, Psychotherapy & Psychosomatics, Psychiatric University Hospital Zurich,
+8 Zurich, Switzerland
+9 * Wellcome Centre for Human Neuroimaging, UCL, London, United Kingdom
+10 °CIFAR Azrieli Global Scholars Program, CIFAR, Toronto, Canada
+11
+
+
+12 * Corresponding author:
+
+
+13 Devon Stoliker, Monash Biomedical Imaging, 762-772 Blackburn Rd, Clayton VIC 3168. Australia.
+
+
+14 Email: devon.stoliker@ monash.edu
+
+
+15 + Joint Senior Authors
+
+
+16 Word count = 4692
+
+
+17
+
+
+18 Abstract
+
+
+19
+
+
+20 Classic psychedelics alter sense of self and patterns of self-related thought. These changes are
+
+
+21 hypothesised to underlie their therapeutic efficacy across internalising pathologies such as addiction,
+
+
+22 anxiety, and depression. Using resting-state functional MRI images from a randomised, double blinded,
+
+
+23 placebo-controlled clinical trial of 24 healthy adults under 0.215mg/kg psilocybin, we investigated the
+
+
+24 effective connectivity changes between the amygdala and the default mode network (DMN), salience
+
+
+25 network (SN) and central executive network (CEN). This connectivity underpins the appraisal and
+
+
+26 regulation of emotion and is associated with clinical symptomatology. We observed a general pattern of
+
+
+27 decreased top-down effective connectivity from the resting state networks of interest to the amygdala and
+
+
+28 directed connectivity changes associated with altered emotion and meaning under psilocybin. Our
+
+
+NOTE: This preprint reports new research that has not been certified by peer review and should not be used to guide clinical practice.
+
+[PAGE 002]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+29 findings identify cognitive-emotional connectivity associated with the subjective effects of psilocybin and
+
+
+30 the attenuation of the amygdala as a potential biomarker of psilocybin’s therapeutic efficacy.
+
+
+31
+
+
+32 Keywords — fMRI, psychedelics, resting state connectivity, dynamic causal modelling, psilocybin,
+
+
+33 emotion, cognition
+
+
+34
+
+
+35 Introduction
+
+
+36
+
+
+37 Psilocybin, the main active compound of so-called magic mushrooms, is a serotonergic psychedelic that
+
+
+38 has been used throughout history in religious and medical rituals to alter consciousness (Carod-Artal,
+
+
+39 2015; Nichols, 2016). It belongs to a larger group of substances such as ayahuasca (DMT) and mescaline
+
+
+40 that share molecular binding kinetics to serotonergic 5-HT receptors distributed throughout the brain
+
+
+41 (Nichols, 2012). Agonism of the 5-HT2A receptor is primarily responsible for psychedelic subjective
+
+
+42 effects that can elicit powerful changes to subjective experience (Vollenweider et al 1998, Kometer et al.
+
+
+43 2013, Preller et al. 2017, Kraehenmann et al. 2017). These include profound alterations in self-
+
+
+44 consciousness and perception including visual illusions, hallucinations, and synaesthesia, emotion and
+
+
+45 cognitive capacities, and transcendence of space and time (Studerus, Gamma, & Vollenweider, 2010;
+
+
+46 Swanson, 2018; Wittmann et al., 2007; Stoliker, Egan, Friston, & Razi, 2021). Serotonergic psychedelic-
+
+
+47 induced alterations can also involve an experience of ego dissolution defined as a loss of self-boundaries
+
+
+48 and sense of unity between the self and the environment (Stoliker, et al., 2021; Lebedev et al., 2015).
+
+
+49 Although, complete ego dissolution is rare at the doses used in clinical trials, several studies have
+
+
+50 associated measurable degrees of ego dissolution (indexed as total mystical score or oceanic self-
+
+
+51 boundlessness) to symptom reduction of depression (Griffiths et al., 2016; Roseman, Nutt, & Carhart-
+
+
+52 Harris, 2018; Ross et al., 2016) and addiction (Bogenschutz et al., 2015; Garcia-Romeu, Griffiths, &
+
+
+53 Johnson, 2014). However, the cognitive and emotional neural mechanisms that underlie psychedelic
+
+
+54 subjective and therapeutic effects are not well understood. Therefore, our goal was to investigate
+
+[PAGE 003]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+55 connectivity changes that may underlie the therapeutic efficacy of psychedelics and their association to
+
+
+56 behaviour.
+
+
+57
+
+
+58 Previous research has demonstrated change to the amygdala and associative connectivity under
+
+
+59 psychedelics. The amygdala’s role in emotional arousal and the function of associative connectivity in
+
+
+60 cognition identify the amygdala connectivity as a target to investigate emotional and cognitive change
+
+
+61 under psilocybin. The amygdala is a bilateral subcortical region composed of many subnuclei that
+
+
+62 integrate cortical and thalamic sensory inputs and their emotional valence (Babaev, Piletti Chatain, &
+
+
+63 Krueger-Burg, 2018). For example, presentations of positive or negative emotional stimuli—such as
+
+
+64 physical threats—elicit activation of the amygdala (Alexander et al., 2021; Garavan, Pendergrass, Ross,
+
+
+65 Stein, & Risinger, 2001; Hobin, Goosens, & Maren, 2003; Weymar & Schwabe, 2016). The amygdala is
+
+
+66 also well known for its involvement in fear conditioning (Sun, Gooch, & Sah, 2020) and activates in
+
+
+67 experiences of emotional empathy (Geng et al., 2018; Hillis, 2014; Marsh et al., 2013). Hyperactivation
+
+
+68 of the amygdala is a marker of stress and anxiety and is implicated across internalising disorders for
+
+
+69 which psychedelics demonstrate efficacy (Nutt & Carhart-Harris, 2020; Koob & Volkow, 2010; Luo,
+
+
+70 Xue, Shen, & Lu, 2013; Menon, 2011). Interestingly, the amygdala also responds to beliefs (Kaplan,
+
+
+71 Gimbel, & Harris, 2016) suggesting that the amygdala conditions an emotional response to self-related
+
+
+72 beliefs that may underline internalising disorders. Damage to the amygdala affects decision-making
+
+
+73 (Gupta, Koscik, Bechara, & Tranel, 2011), memory (Adolphs, Tranel, & Denburg, 2000), and behaviour
+
+
+74 regulation. Moreover, its damage can also diminish an individual's sense of shame (Piretti et al., 2020)
+
+
+75 further suggesting the amygdala mediates the relationship between emotion and cognition.
+
+
+76
+
+
+77 The amygdala is integrated with cognition through top-down projections from midline cortical regions
+
+
+78 (Etkin et al., 2011; Kraehenmann et al., 2016; Robinson et al., 2013) that underlie the perception and
+
+
+79 intensity of positive and negative emotions (Bonnet et al., 2015). This circuitry also underlies
+
+
+80 psychopathological conditions such as anxiety disorders (Menon, 2011). Modulation of top-down control
+
+[PAGE 004]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+81 by psilocybin suggests influence on limbic region emotional processing (Bernasconi et al., 2014). For
+
+
+82 example, healthy adults administered psilocybin show reduced effective amygdala connectivity to the
+
+
+83 primary visual cortex, coinciding with reduced threat processing (Kraehenmann et al., 2016). The
+
+
+84 semisynthetic psychedelic drug lysergic diethylamide acid (LSD) also has been shown to dampen the
+
+
+85 amygdala response to the presentation of fearful faces (Mueller et al., 2017). Moreover, decreased
+
+
+86 amygdala activity has been correlated with positive mood under psilocybin (Kraehenmann et al., 2015).
+
+
+87 Together, these results suggest a decrease in amygdala connectivity in association with therapeutic
+
+
+88 response in healthy adults under the acute influence of psychedelics.
+
+
+89
+
+
+90 In contrast, clinical populations measured the day after administration of psilocybin demonstrated an
+
+
+91 opposite pattern of amygdala activity. The amygdala response to emotional faces has been reported to
+
+
+92 increase the day after psilocybin administration (Roseman, Demetriou, Wall, Nutt, & Carhart-Harris,
+
+
+93 2018) and be accompanied by decreased functional connectivity with the prefrontal cortex (Mertens et al.,
+
+
+94 2020; Mueller et al., 2017). It has been proposed that increased amygdala activity in the sub-acute period
+
+
+95 may underlie a sense of emotional reconnection (Watts, Day, Krzanowski, Nutt, & Carhart-Harris, 2017).
+
+
+96 Changes to the amygdala and cortical regions are sustained well beyond the half-life of psilocybin and
+
+
+97 may last up to one month post administration (Barrett, Doss, Sepeda, Pekar, & Griffiths, 2020),
+
+
+98 demonstrating the lasting neural changes in association with positive responses to emotionally conflicting
+
+
+99 stimuli. These results indicate the acute effects of psychedelics in clinical studies may disrupt conditioned
+
+
+100 response patterns and produce enduring connectivity changes that support therapeutic modes of
+
+
+101 behaviour.
+
+
+102
+
+
+103 The importance of emotion and cognition to behaviour motivate investigation of cortical regions with
+
+
+104 established connections and associations to the amygdala. These include frontal and anterior regions that
+
+
+105 form nodes of distinct large-scale resting-state networks (RSNs). RSNs are determined by temporally
+
+
+106 correlated activation across spatially distributed brain regions and serve essential functions in cognition
+
+[PAGE 005]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+107 (Fox et al., 2005; Raichle, 2015). The RSN regions of particular relevance to this study are abundant in 5-
+
+
+108 HT2A receptors (R. L. Carhart-Harris & Friston, 2019). The functional integration of RSN nodes with the
+
+
+109 amygdala illustrate that emotion is a flexible and dynamic workspace within the brain (Lindquist, Satpute,
+
+
+110 Wager, Weber, & Barrett, 2016).
+
+
+111
+
+
+112 The default mode network (DMN) integrates internal and external information to perform self-referential
+
+
+113 mental activity that is closely identified with the sense of self. DMN hub regions comprise the medial
+
+
+114 prefrontal cortex (mPFC) and posterior cingulate cortex (PCC). The mPFC functions in temporally
+
+
+115 extended goal-directed thinking and regulation of behaviour, while the PCC orients information towards
+
+
+116 the self (Andrews-Hanna, Smallwood, & Spreng, 2014; J. A. Brewer, Garrison, & Whitfield-Gabrieli,
+
+
+117 2013). Information integration in the DMN sustains self-evaluative processes involved in forming self-
+
+
+118 beliefs (Amey, Leitner, Liu, & Forbes, 2022; Tompson, Chua, & Kitayama, 2016).
+
+
+119
+
+
+120 DMN connectivity is related to wellbeing. For example, limbic-cortical dysregulation have been reported
+
+
+121 to impact mood regulation (Zeng et al., 2012) and increased FC between the hippocampus and prefrontal
+
+
+122 cortex (e.g., mPFC) was observed in depression (Kaiser, Andrews-Hanna, Wager, & Pizzagalli, 2015).
+
+
+123 Increased DMN connectivity with the amygdala is also observed in depressed subjects (Sheline Yvette et
+
+
+124 al., 2009) in association with symptoms such as rumination (Cooney, Joormann, Eugéne, Dennis, &
+
+
+125 Gotlib, 2010). In contrast, decreased PCC-mPFC coupling is associated with the reduced mind wandering
+
+
+126 of advanced meditation practitioners (Judson A. Brewer et al., 2011) with similar decoupling found
+
+
+127 acutely (Carhart -Harris et al 2012) and the day after psilocybin (R. L.; Smigielski, Scheidegger, Kometer,
+
+
+128 & Vollenweider, 2019).
+
+
+129
+
+
+130 DMN frontal regions, specifically the mPFC, share well-established connectivity to the amygdala that
+
+
+131 plays a role in the valence and regulation of emotion (Willinger et al., 2019; Underwood, Tolmeijer,
+
+
+132 Wibroe, Peters, & Mason, 2021; Cooney et al., 2010). The PCC node of the DMN is less often associated
+
+[PAGE 006]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+133 with the amygdala. However, it plays a significant role in the experience of self. Under psychedelics,
+
+
+134 reduced PCC connectivity is associated with diminished feelings of self that align with descriptions of
+
+
+135 ego dissolution (R. L. Carhart-Harris et al., 2014) and reduced self-representation in social interaction
+
+
+136 (Preller et al., 2018). We hypothesise reduced interactions between the amygdala and DMN and reduced
+
+
+137 within-DMN connectivity may underwrite altered sense of self and self-related emotion under
+
+
+138 psychedelic subjective effects and serve as a biomarker of connectivity. that may be therapeutic.
+
+
+139
+
+
+140 Frontal regions also compose the dorsolateral prefrontal cortex (dIPFC) nodes of the central executive
+
+
+141 network (CEN). The CEN is a RSN involved in thinking, planning, and controlling attention (Andrews-
+
+
+142 Hanna et al., 2014; Menon, 2011). The dIPFC serves a primary role in regulating emotion (Underwood et
+
+
+143 al., 2021) and handles content in working memory and evaluates possible behavioural responses. The
+
+
+144 CEN also includes the lateral posterior parietal cortex (IPPC), which integrates sensory and interoceptive
+
+
+145 information to facilitate sustained attention (Borders, 2020). CEN functions are associated with mental
+
+
+146 health in various cognitive disorders. Hyper and hypo-frontal connectivity are often markers of disordered
+
+
+147 cognition and anxious behaviour. For example, increased CEN-AMG connectivity was observed in
+
+
+148 association with the catastrophising of chronic pain (Jiang et al., 2016), and dIPFC connectivity was
+
+
+149 associated with worry in healthy adults and individuals with generalised anxiety (Paulesu et al., 2010;
+
+
+150 Servaas et al., 2014; Jamieson, Harrison, Razi, & Davey, 2022). Moreover, reduced CEN activity has
+
+
+151 been associated with chronic schizophrenia and depression (Leptourgos et al., 2020; Menon, 2011).
+
+
+152 However, links between CEN activity and behaviour are suggested to be task and context-dependent
+
+
+153 (Borders, 2020). For example, reduced dIPFC was associated with reduced rumination observed in
+
+
+154 healthy adults (Cooney et al., 2010).
+
+
+155
+
+
+156 Under psychedelics, a number of brain mapping studies suggest CEN connectivity deviates from its usual
+
+
+157 functional pathways and proliferates to regions outside of this network. For example, LSD increases
+
+[PAGE 007]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+158 global connectivity with the CEN (Luppi et al., 2021; Tagliazucchi et al., 2016), and psilocybin renders
+
+
+159 the phase-locking of blood oxygen level-dependent (BOLD) neurovascular signals flexible (Lord et al.,
+
+
+160 2019). These changes have been associated with the shift in perceptual boundaries and the reduced
+
+
+161 integrity of the brain's "rich-club" organisation (Tagliazucchi et al., 2016). However, RSN connectivity
+
+
+162 changes with the amygdala, such as the CEN, under psychedelics have not been well explored and may
+
+
+163 underlie change to cognitive-emotional regulation.
+
+
+164
+
+
+165 The salience network (SN) is a cognitive RSN involved in detecting stimuli associated with biological or
+
+
+166 goal-directed personal significance. Both the DMN and CEN are under the influence of the SN (Menon &
+
+
+167 Uddin, 2010; Sridharan, Levitin, & Menon, 2008). The SN recruits CEN activity to provide task-relevant
+
+
+168 information in response to detection of salient features in the environment and disengages task-irrelevant
+
+
+169 activity, for example, daydreaming. The SN's cardinal regions are the dorsal anterior cingulate cortex
+
+
+170 (dACC) and anterior insula (AI). The dACC is involved in response selection and conflict monitoring
+
+
+171 (Ide, Shenoy, Yu, & Li, 2013; Menon, 2011) and activated in response to social pain (Rotge et al., 2015).
+
+
+172 The AI detects behaviourally relevant stimuli (Menon, 2015) and receives multimodal sensory input
+
+
+173 (Averbeck & Seo, 2008; Vogt & Pandya, 1987). Expanded network compositions of the SN also include
+
+
+174 the amygdala, which may be important for the initial emotional appraisal of salient stimuli (Menon,
+
+
+175 2011). Overactive salience attributed to stimuli is a feature of various forms of psychopathology.
+
+
+176 Hyperactivity of the AI or amygdala has been reported to underwrite enhanced salience detection
+
+
+177 (Menon, 2011). Moreover, increased salience and attention to the self during social interactions may
+
+
+178 underlie social anxiety, while overt salience and attention to negative stimuli or mentation has been
+
+
+179 suggested to reinforce depressed thinking. The salience of channels of attention (1.e., the top-down
+
+
+180 selection of bottom-up information that receives priority in attention) also plays a role in psychosis,
+
+
+181 suggesting the SN may act as pre-reflective mechanisms of attention that underlie perception and beliefs
+
+
+182 (Kapur, 2003).
+
+
+183
+
+[PAGE 008]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+184 Serotonergic receptors play a role in the selection of channels of attention (Stoliker, et al., 2021), and
+
+
+185 observations under psilocybin have shown reduced SN integrity (Lebedev et al., 2015). Changes to
+
+
+186 effective connectivity from the SN to the DMN are also observed under LSD (Stoliker, Novelli, et al.,
+
+
+187 2021). The dACC has been associated with changes in self-processing and a reduced sense of social
+
+
+188 exclusion under psilocybin administration that did not depend on changes in attention and awareness
+
+
+189 (Preller et al., 2016; Preller et al., 2015). However, amygdala links with the dACC and AI under
+
+
+190 psychedelics remain relatively unexplored and worthy of investigation for their contribution to the
+
+
+191 subjective effects and therapeutic benefits of psilocybin.
+
+
+192
+
+
+193 To address the gap in understanding emotion and cognition changes under psychedelics, we apply
+
+
+194 spectral dynamic causal modelling (spDCM) (Karl J. Friston, Kahan, Biswal, & Razi, 2014; Razi, Kahan,
+
+
+195 Rees, & Friston, 2015; Razi et al., 2017). DCM can infer the direction of connectivity between
+
+
+196 hierarchically organised brain regions composing RSNs (Zhou et al., 2018) and DCM has been used to
+
+
+197 measure the effective connectivity under LSD from the thalamus to the cortex (Preller et al., 2019) and
+
+
+198 among various RSNs (DMN, SN, DAN) (Stoliker, Novelli, et al., 2021). The ability of DCM to
+
+
+199 investigate bottom-up and top-down processes between regions of the brain suggests it as a valuable
+
+
+200 technique to investigate psilocybin-induced effective connectivity changes between high-level RSNs and
+
+
+201 the subcortical amygdala. Moreover, DCM allows the inference of association between effective
+
+
+202 connectivity changes and retrospective behavioural reports using the Bayesian framework of parametric
+
+
+203 empirical Bayes (PEB) (K. J. Friston et al., 2016). We measured changed meaning of
+
+
+204 precepts and blissful state collected 360 min following the administration of psilocybin using the five
+
+
+205 dimensions of altered states of consciousness scale (SD-ASC) (Studerus et al., 2010).
+
+
+206
+
+
+207 Previous evidence suggests that amygdala and RSN connectivity is decreased under psychedelics. The
+
+
+208 associative RSNs we examined express high density of the 5-HT2AR that are thought to alter the top-
+
+
+209 down modulation of subcortical connectivity. Previous reports also suggest psilocybin can induce
+
+[PAGE 009]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+210 psychological flexibility (Davis, Barrett, & Griffiths, 2020) and feelings of subjective wellbeing
+
+
+211 (Hirschfeld & Schmidt, 2020). We hypothesise reduced top-down effective connectivity from the RSNs
+
+
+212 to the amygdala under psilocybin. We anticipate effective connectivity changes in our model will be
+
+
+213 associated with altered meaning of precepts and blissful state. Evidence of cortex-amygdala effective
+
+
+214 connectivity changes associated to these behavioural changes is hypothesised to be a marker of
+
+
+215 connectivity that underlies psilocybin’s capacity to facilitate therapeutic outcomes.
+
+
+216
+
+
+217 Results:
+
+
+218
+
+
+219 Network effective connectivity change with the amygdala under psilocybin
+
+
+220
+
+
+221 Participants underwent resting-state fMRI scans 70 minutes post oral administration of psilocybin.
+
+
+222 Effective connectivity between the amygdala and the DMN and CEN was analysed. The reported results
+
+
+223 for effective connectivity used a threshold of posterior probability > 0.99 for inference with very strong
+
+
+224 evidence. Those connections not reported in the subsequent figures did not exceed this threshold. For
+
+
+225 details of the intervals see Supplementary Table 1.
+
+
+226
+
+
+227 i) Change of DMN effective connectivity to the amygdala under psilocybin
+
+
+228 Group level effective connectivity strength between regions of the DMN and amygdala showed decreased
+
+
+229 self-inhibition of the PCC and decreased effective connectivity from the PCC with the left amygdala
+
+
+230 compared to placebo. See Fig 1 and Supplementary for explanation of self-connections.
+
+[PAGE 010]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+-0.06 Blissful stat:
+issful state NG ie
+ES LR)
+
+
+-0.04 « Changed meaning of precepts
+>N 7 | Changed meaning of precepts >-0.06
+E
+SA
+231
+
+232 Fig 1. Default mode network effective connectivity change under psilocybin 70 minutes post-
+
+
+233 administration. Connections show changes in effective connectivity compared to placebo. PCC decreased
+
+
+234 self-inhibition (i.e., increased sensitivity to inputs) and connectivity to and from the left amygdala
+
+
+235 decreased compared to placebo. Values display effect sizes (posterior expectations) of connections in Hz
+
+
+236 (except the inhibitory self-connections which are log-scaled). All results are for posterior probability >
+
+
+237 0.99.
+
+
+238
+239 ii) Change of CEN effective connectivity to the amygdala under psilocybin
+
+
+240
+
+
+241 — Several changes in effective connectivity were found, whose interplay is captured schematically in Fig. 2.
+
+
+242 Specifically, group level effective connectivity strength between regions of the CEN and amygdala
+
+
+243 showed increased self-inhibition of the rdIPFC, IdIPFC and decreased self-inhibition of the ILPPC,
+
+
+244 compared to placebo. Effective connectivity from the ILPPC to the left amygdala decreased and increased
+
+
+245 to the rdlPFC and decreased to the right amygdala. IdIPFC effective connectivity to the right amygdala
+
+
+246 decreased and increased to the ILPPC, while rdIPFC increased to the IdIPFC and the right amygdala
+
+
+247 increased to the ILPPC, compared to placebo.
+
+[PAGE 011]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+9.20 Changed meaning of precepts _ -0.04
+Blissful state -0.06
+0.03 + Blissful state
+
+
+N 4 ($ |
+chin RL ey’
+Changed meaning of precepts 0.07
+
+
+-0.16
+
+248
+249 Fig 2. Central executive network effective connectivity change under psilocybin 70 minutes post-
+
+
+250 administration. Connections show changes in effective connectivity compared to placebo. rLPPC and
+
+
+251 IDLPFC connectivity to the right amygdala and ILPPC connectivity to the left amygdala become inhibitory
+
+
+252 compared to placebo. Bilateral self-connectivity of the dIPFC increased inhibition under psilocybin while
+
+
+253 the ILPPC self-connectivity decreased inhibition compared to placebo. These changes accompany
+
+
+254 excitatory change from the rLPPC to the rDLPFC, rDLPFC to the IdIPFC, the IdIPFC to the ILPPC and right
+
+
+255 amygdala to the ILPPC, compared to placebo. Values display effect sizes (posterior expectations) of
+
+
+256 connections in Hz (except the inhibitory self-connections which are log-scaled). All results are for
+
+
+257 posterior probability > 0.99.
+
+
+258
+259 lil) Change of SN effective connectivity to the amygdala under psilocybin
+
+
+260
+
+
+261 Group-level effective connectivity showedanalysis showed increased self-inhibition of the rAI and
+
+
+262 bilateral amygdala, and decreased effective connectivity from the dACC and IAI to the right amygdala
+
+
+263 compared to placebo (Fig 3).
+
+[PAGE 012]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+Changed meaning of precepts _ -0.06
+
+
+-0.24
+
+
+264
+
+
+265 Fig 3. Salience network effective connectivity change under psilocybin 70 minutes post-administration.
+
+
+266 Connections show changes in effective connectivity compared to placebo. rAl and bilateral AMG self-
+
+
+267 inhibition increased, and connectivity from the dACC to the right AMG decreased compared to placebo.
+
+
+268 Values display effect sizes (posterior expectations) of connections in Hz (except the inhibitory self-
+
+
+269 connections which are log-scaled). All results are for posterior probability > 0.99.
+
+
+270
+
+
+271 Brain-behavior associations
+
+
+272 1) Behavioural associations to DMN-amygdala effective connectivity change under psilocybin
+
+
+273
+
+
+274 Decreased self-inhibition of the PCC was associated with blissful state, while bidirectional PCC-left
+
+
+275 amygdala connectivity inhibition was associated with changed meaning of precepts. See Fig 1.
+
+
+276
+
+
+277 li) Behavioural associations to CEN-amygdala effective connectivity change under psilocybin
+
+
+278
+
+
+279 Excitation of the right amygdala to the ILPPC was associated with blissful state. Changed meaning of
+
+
+280 precepts and blissful state were both associated with the decreased self-inhibition of the ILPPC.
+
+[PAGE 013]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+281 Excitatory effective connectivity from the rdIPFC to the IdIPFC and IdPFC to ILPPC was associated with
+
+
+282 changed meaning of precepts. See Fig 2.
+
+
+283
+
+
+284 iii) Behavioural associations to SN-amygdala effective connectivity change under psilocybin
+
+
+285
+
+
+286 = Inhibitory connectivity from the IAI to the right amygdala was associated with changed meaning of
+
+
+287 precepts. See Fig 3.
+
+
+288
+
+
+289 Discussion:
+
+
+290
+
+
+291 To investigate the influence of psilocybin on the interaction between emotion and cognition, we measured
+
+
+292 connectivity changes between the amygdala and selected RSNs. These networks serve functions in
+
+
+293 — selfhood and cognition and are composed of regions linked to the regulation and experience of emotion.
+
+
+294 Our results demonstrate increased inhibitory effective connectivity from cortical regions to the amygdala
+
+
+295 under psilocybin. For example, we showed this change in connectivity from the PCC, IdPFC, bilateral
+
+
+296 IPPC, ACC, and IAI. These results suggest cognitive resources do not recruit the amygdala under
+
+
+297 — psilocybin, and this may relate to subjective and therapeutic effects. of psilocybin. While we did not find
+
+
+298 effective connectivity change involving the mPFC—which has been frequently cited in association with
+
+
+299 emotion, such as emotional valence (Willinger et al., 2019)—examination of the PCC and amygdala
+
+
+300 revealed multiple connectivity changes and behavioural associations under psilocybin. PCC and amygdala
+
+
+301 effective connectivity change was bidirectional and accompanied by reduced PCC self-inhibition, which
+
+
+302 indicates increased synaptic gain or its sensitivity to inputs. Increased PCC synaptic gain was associated
+
+
+303 with the subjective experience of blissful state, and PCC bilateral inhibition with the left amygdala was
+
+
+304 associated with changed meaning of precepts. Our findings suggest inhibition between amygdala-
+
+
+305 mediated emotion and self-referential functions as an important factor in these subjective changes that
+
+
+306 may contribute to the joyous feelings of self-dissolution of ego dissolution and reduced self-other
+
+[PAGE 014]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+307 processing under psychedelics (Preller et al., 2018; R. Carhart-Harris, Kaelen, & Nutt, 2014; Stoliker,
+
+
+308 Novelli, et al., 2021).
+
+
+309
+
+
+310 IDLPFC and bilateral ILPPC inhibition to the amygdala is situated within the CEN. Connectivity in this
+
+
+311 network is believed to underlie the evaluative aspect of thought, with the DLPFC playing a central role in
+
+
+312 emotional regulation. However, IDLPFC inhibition to the amygdala was not associated with subjective
+
+
+313 effects. Instead, the pattern of activity in this network is open to interpretation. One characterisation of the
+
+
+314 observed activity may be its resemblance to hyper-frontality, which is associated with worry and anxiety
+
+
+315 (Park, Wood, Bondi, Del Arco, & Moghaddam, 2016), and acute psychosis (Vollenweider et al., 1997).
+
+
+316 — Participants in this study were experiencing the effects of psychedelics in the setting of an fMRI scan,
+
+
+317 which may arouse substantial anxiety. Moreover, strong parallels between cortical activity patterns
+
+
+318 associated with psychedelic subjective effects have been shown to resemble anxiety (Stoliker, et al.,
+
+
+319 2021). However, subjects of this study reported nominal anxiety, see Supplementary Material. An
+
+
+320 alternative interpretation is that the observed connectivity pattern between regions of the CEN constitutes
+
+
+321 an increase in evaluative thought processes. This interpretation aligns with the function of the CEN and
+
+
+322 evidence that increased intrinsic CEN connectivity is related to resilience (Miller Gregory et al., 2018).
+
+
+323 This may suggest the within-network excitatory effective connectivity change as a biomarker for potential
+
+
+324 therapeutic revision of beliefs.
+
+
+325
+
+
+326 Although we expect re-evaluations of thought under psychedelics to be influenced by the context,
+
+
+327 measured subjective effects associated with CEN connectivity support this view. For example, increased
+
+
+328 connectivity from the IDLPFC to IIPPC and connectivity between the bilateral DLPFC was associated
+
+
+329 with changed meaning of precepts. Moreover, decreased IIPPC self-inhibition and its directed
+
+
+330 interconnectivity with the IdIPFC and rAMG constituted a primary source of behavioural change related
+
+
+331 to ego dissolution. The bilateral IPPC inhibition to the bilateral amygdala suggests its decoupling from the
+
+
+332 amygdala limiting the sensory and interoceptive information to the amygdala, while the left amygdala
+
+[PAGE 015]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+333 synaptic gain increased. These results align with previous reports of increased flexibility in thinking,
+
+
+334 functional desegregation and expansion of brain states made available under psychedelics which may be
+
+
+335 important to the therapeutic experience under psilocybin and lasting cognitive-emotional changes (Atasoy
+
+
+336 et al., 2017; Barnett, Muthukumaraswamy, Carhart-Harris, & Seth, 2019; R. L. Carhart-Harris & Nutt,
+
+
+337 2017; Davis et al., 2020; Matias, Lottem, Dugué, & Mainen, 2017; Stoliker, Egan, & Razi, 2022;
+
+
+338 Tagliazucchi, Carhart] Harris, Leech, Nutt, & Chialvo, 2014; Watts & Luoma, 2020). Moreover, previous
+
+
+339 brain network research on emotion indicates that flexible and nimble brain networks are instrumental to
+
+
+340 positive emotion and affect (Alexander et al., 2021).
+
+
+341
+
+
+342 The ACC and IAI serve essential functions in salience detection, and these regions' integration with the
+
+
+343 amygdala may underwrite pathologically enhanced salience detection (Menon, 2011). These regions
+
+
+344 inhibition to the right amygdala suggests their role in salience detection is diminished under psilocybin,
+
+
+345 which may be therapeutic in internalising disorders characterised. However, inhibited salience detection
+
+
+346 also aligns with positive symptoms in schizophrenia (i.e., hallucinations and delusions) (Menon, 2011).
+
+
+347 ‘At higher doses, psychedelics can induce a psychotic-like state in some individuals that may be related to
+
+
+348 the effect of serotonergic psychedelics on salience detection. However, psychotic-like behavioural
+
+
+349 outcomes rarely occur in a controlled clinical setting.
+
+
+350
+
+
+351 Previous research shows the increased functional connectivity between the AI and amygdala is associated
+
+
+352 with relapse of addiction in preclinical studies (Venniro et al., 2017) and behavioural habituation in
+
+
+353 healthy adults (Denny et al., 2014). The Al inhibition to the amygdala was associated with changed
+
+
+354 meaning of precepts suggesting it may be associated with therapeutic behavioural change. Previous task-
+
+
+355 based research shows reduced dACC activity in association with blunted response to social exclusion
+
+
+356 under psilocybin. Although our findings did not associate subjective effects with this connection,
+
+
+357 inhibition from the dACC to the right amygdala aligns with the inhibition of social pain (Preller et al.,
+
+
+358 2016; Preller et al., 2015) and previous findings of this circuits top-down inhibition in the resolution of
+
+[PAGE 016]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+359 emotional conflict (Etkin, Egner, Peraza, Kandel, & Hirsch, 2006). DCM also estimated increased self-
+
+
+360 inhibition in the bilateral amygdala and rAI, suggesting reduced synaptic gain of the regions. However,
+
+
+361 these changes were not associated with the measured psychedelic subjective effects.
+
+
+362
+
+
+363 ‘Taken together, our results suggest that psilocybin attenuates the recruitment of the amygdala. This
+
+
+364 — connectivity contributes to the altered meaning of precepts and subjective emotion. Diminished amygdala
+
+
+365 activation may explain reduced aversion to emotional stimuli and may alter the patterns of connectivity
+
+
+366 that condition emotional, cognitive and self-reflective responses of the brain. The RSNs reduced
+
+
+367 connectivity to the amygdala and altered within-RSN effective connectivity may be important conditions
+
+
+368 for ego dissolution and emotional-cognitive changes that facilitate the therapeutic revision of beliefs and
+
+
+369 therapeutic outcomes following psilocybin assisted therapy.
+
+
+370
+
+
+371 Our endeavour to investigate interactions between emotion and cognition in a healthy population under
+
+
+372 psilocybin has several limitations. For example, our analysis would benefit from MRI scans taken before
+
+
+373 and after the administration of psilocybin. Exploring links between emotional and associative
+
+
+374 connectivity also involves deciding network configuration and regions for analysis. Regions such as the
+
+
+375 ventral striatum, precuneus, and parahippocampus and further subregions of the PFC and ACC may also
+
+
+376 be valuable for examining the links between emotion and cognition (Underwood et al., 2021).
+
+
+377 Furthermore, each region selected as part of the network may be determined differently depending on the
+
+
+378 method of identifying the region. Further standardisation of this process is complex for anatomical
+
+
+379 reasons and remains under debate. The processing pipeline, participant sample and dose can also strongly
+
+
+380 impact the reliability of results. Participants were given less than currently used in clinical studies into
+
+
+381 depression and substance dependence disorders. Therefore, connectivity dynamics may be dissimilar at a
+
+
+382 higher dose. Data sets of higher doses may provide improved inference and more nuanced
+
+
+383 characterisation of neural dynamics. We also overlooked the influence of numerous neurotransmitter
+
+[PAGE 017]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+384 systems involved in emotion that may interact with altered serotonin transmission. These interactions may
+
+
+385 provide a novel line of inquiry to understand psychedelic therapeutic effects.
+
+
+386
+
+
+387 Other limitations in the methods and analysis include the use of global signal regression and the limited
+
+
+388 temporal resolution. Temporal resolution may be significant to emotion. For example, the time course of
+
+
+389 emotion may present distinct contributions of brain regions involved in valence and arousal (Alexander et
+
+
+390 al., 2021). Modalities with temporal specificity capable of resolving insight and emotional change, such
+
+
+391 as EEG or MEG, which can also be analysed using DCM, are needed in future investigations.
+
+
+392 Furthermore, studies using task-based {MRI paradigms that can induce activations in specific emotion and
+
+
+393 cognition related brain regions.
+
+
+394
+
+
+395 The generalisability of our results to clinical populations is limited by the use of a small healthy adult
+
+
+396 sample and the congruence between our results and previous findings. Previous research indicates
+
+
+397 psychedelics may globally increase bottom-up connectivity (R. Carhart-Harris, Kaelen, & Nutt, 2014; R.
+
+
+398 L. Carhart-Harris & Friston, 2019; Swanson, 2018). For example, evidence of thalamic connectivity to
+
+
+399 the cortex supports this view (Müller, Dolder, Schmidt, Liechti, & Borgwardt, 2018; Preller et al., 2019).
+
+
+400 However, decoupling between limbic regions and the cortex has also been identified (Robin L. Carhart-
+
+
+401 Harris et al., 2016; Lebedev et al., 2015). Our evidence only found increased bottom-up connectivity from
+
+
+402 the right amygdala to the IIPPC and aligns with the latter studies. As psychedelic research advances, we
+
+
+403 suggest examination of multiple limbic regions and their subnuclei connectivity to the cortex. This may
+
+
+404 — reveal more precise and nuanced dynamics between the subcortex and cortex underlie previously
+
+
+405 _ theorised global patterns. For example, recent investigations have demonstrated spatial specificity of
+
+
+406 _ entropic activity and thalamic connectivity associated with psychedelic subjective effects (Gaddis et al.,
+
+
+407 2022; Herzog et al., 2020). Along these lines, the amygdala is composed of many subnuclei. Its small
+
+
+408 size, anatomical variability and position deep within the brain presents challenges for noise-to-signal ratio
+
+
+409 and spatial location in group fMRI analysis, which future imaging and research methods may overcome.
+
+[PAGE 018]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+410 Finally, increased directed excitation among the CEN contrasts with previous analyses, which found a
+
+
+411 general reduction in associative functional connectivity (Katrin H. Preller et al., 2020). While the global
+
+
+412 reduction of associative connectivity may help explain experiences of ego dissolution, psychedelic
+
+
+413 experiences also contain phenomenological richness (Milliére, Carhart-Harris, Roseman, Trautwein, &
+
+
+414 — Berkovich-Ohana, 2018). Future research of CEN regions may wish to address the reliability of this
+
+
+415 — directed connectivity and examine links between the CEN, subjective experience, and therapeutic
+
+
+416 outcomes.
+
+
+417
+
+
+418 In sum, we demonstrated altered within-RSN effective connectivity and reduced top-down RSN-
+
+
+419 amygdala effective connectivity associated with emotional and cognitive behavioural changes under
+
+
+420 psilocybin. The functional significance of this connectivity in perceptual processes and psychopathology
+
+
+421 suggests its acute alteration by psilocybin may elicit changes to conscious perception that are important to
+
+
+422 subjective wellbeing. Psilocybin altered cognition underwritten by connectivity changes may contribute to
+
+
+423 lasting therapeutic outcomes and enable the emotional and cognitive flexibility that facilitate alternate
+
+
+424 selection of perceptual hypotheses which underwrite self-beliefs. In particular, we suggest RSN
+
+
+425 attenuation of the amygdala as a potential biomarker for future clinical research investigating the neural
+
+
+426 correlates of psychedelic therapeutic efficacy. Future work may also build upon our directed connectivity
+
+
+427 findings to understand how connectivity involved in emotion and cognition interact with the therapeutic
+
+
+428 context to effect patterns of thought and behaviour. These lines of enquiry can help discern the imperative
+
+
+429 of the psychedelic subjective experience to therapeutic outcomes and bridge gaps in our understanding of
+
+
+430 the relationship between brain connectivity and behaviour.
+
+
+431
+
+
+432 Methods
+
+
+433
+
+
+434 = Participants
+
+[PAGE 019]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+435 The data analysed in this paper were collected as part of a previous study (registered at ClinicalTrials.gov
+
+
+436 (NCT03736980)), which is reported in (Katrin H. Preller et al., 2020) and was approved by the Cantonal
+
+
+437 Ethics Committee of Zurich. Twenty four subjects (12 males and 11 females; mean age = 26.3 y; range =
+
+
+438 20-40 y; 1 subject did not complete the study) were recruited through advertisements at universities in
+
+
+439 Zurich, Switzerland. All participants were deemed healthy after screening for medical history, physical
+
+
+440 examination, blood analysis, and electrocardiography. The Mini-International Neuropsychiatric Interview
+
+
+441 (MINI-SCID) (Sheehan et al., 1998), the DSM-IV fourth edition self-rating questionnaire for Axis-II
+
+
+442 personality disorders (SCID-II) (Fydrich, Renneberg, Schmitz, & Wittchen, 1997), and the Hopkins
+
+
+443 Symptom Checklist (SCL-90-R) (Franke, 2002) were used to exclude subjects with present or previous
+
+
+444 psychiatric disorders or a history of major psychiatric disorders in first-degree relatives. Participants were
+
+
+445 asked to abstain from prescription and illicit drug use two weeks prior to first testing and throughout the
+
+
+446 duration of the study, and abstain from alcohol use 24 hours prior to testing days. Urine tests and self-
+
+
+447 report questionnaires were used to verify the absence of drug and alcohol use. Urine tests were also used
+
+
+448 to exclude pregnancy. Further exclusion criteria included left-handedness, poor knowledge of the German
+
+
+449 language, cardiovascular disease, history of head injury or neurological disorder, history of alcohol or
+
+
+450 _ illicit drug dependence, MRI exclusion criteria, including claustrophobia, and previous significant adverse
+
+
+451 reactions to a hallucinogenic drug. All participants provided written informed consent statements in
+
+
+452 accordance with the declaration of Helsinki before participation in the study. Subjects received written
+
+
+453 and oral descriptions of the study procedures, as well as details regarding the effects and possible risks of
+
+
+454 drug treatment.
+
+
+455
+
+
+456 Design
+
+
+457 A double blind, randomised, placebo-controlled, cross-over study was performed. Testing days occurred
+
+
+458 two weeks apart and participants were orally administered either psilocybin (0.2mg/kg orally) or placebo
+
+
+459 (179 mg mannitol and colloidal silicon dioxide (Aerosil) 1 mg. Resting state scans (10 minutes each)
+
+
+460 were taken 20, 40 and 70 minutes following administration. However, only scans at 70 minutes during the
+
+[PAGE 020]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+461 peak effects were used in our analysis. Participants were asked to not engage in repetitive thoughts such
+
+
+462 as counting and instructed to close their eyes during the resting state scan. Subjective experience was
+
+
+463 assessed using the retrospective 5-Dimensions Altered States of Consciousness (5D-ASC) questionnaire.
+
+
+464 ‘Participants completed the 5D-ASC 360 min following psilocybin administration, see Supplementary.
+
+
+465
+
+
+466 MRI Data Acquisition and Preprocessing
+
+
+467 MRI data were acquired on a Philips Achieva 3T whole-body scanner. A 32-channel receive head coil
+
+
+468 and MultiTransmit parallel radio frequency transmission was used. Images were acquired using a whole-
+
+
+469 brain gradient-echo planar imaging (EPI) sequence (repetition time, 2,430 ms; echo time, 27 ms; slice
+
+
+470 thickness, 3 mm; 45 axial slices; no slice gap; field of view, 240 x 240 mm; in-plane resolution, 3 x 3
+
+471 mm’; sensitivity-encoding reduction factor, 2.0). 265 volumes were acquired per resting state scan
+
+472 resulting in a scan duration of 10 mins. Additionally, two high-resolution anatomical images (voxel size,
+
+
+473 0.7 x 0.7 x 0.7 mm’) were acquired using Tl-weighted and T2-weighted sequences using 3D
+
+474 magnetization prepared rapid-acquisition gradient echo sequence (MP-RAGE) and a turbo spin-echo
+
+
+475 sequence, respectively. See Supplementary for more details. The acquired images were analysed using
+
+
+476 SPM12 (https://www.fil.ion.ucl.ac.uk).
+
+
+477 The pre-processing steps of the images consisted of slice-timing correction, realignment, spatial
+
+
+478 normalization to the standard EPI template of the Montreal Neurological Institute (MNJ, and spatial
+
+
+479 — smoothing using a Gaussian kernel of 6-mm full-width at half maximum. Head motion was investigated
+
+
+480 for any excessive movement. Three subjects were excluded due to head motion and one subject did not
+
+
+481 complete the scan at 70 minutes.
+
+
+482
+
+
+483 Independent RSN-AMG DCM models
+
+
+484 To reduce model complexity and focus the interpretation of the results on the connections of interest our
+
+
+485 analysis investigated independent models of amygdala effective connectivity with the DMN, CEN and
+
+
+486 SN.
+
+[PAGE 021]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+487
+
+
+488 Extraction of region coordinates across subjects
+
+
+489 Neurosynth, a large-scale automated synthesis of functional neuroimaging data, was used to identify
+
+
+490 coordinates composing regions of interest (Yarkoni, Poldrack, Nichols, Van Essen, & Wager, 2011).
+
+
+491 More details can be found in Supplementary.
+
+
+492 Networks were composed of cardinal regions constituting core parts of the DMN (Andrews-Hanna,
+
+
+493 Reidler, Sepulcre, Poulin, & Buckner, 2010; Dixon et al., 2017), SN and CEN. The DMN and SN
+
+
+494 followed the selection of regions in a related investigation by Zhou and colleagues (Zhou et al., 2018) and
+
+
+495 all networks were included for their role in consciousness and link to emotion (Alexander et al., 2021;
+
+
+496 Borders, 2020; Underwood, Tolmeijer, Wibroe, Peters, & Mason, 2021). Associations between peak
+
+
+497 coordinates and cardinal nodes of network regions of interest (ROI) were determined by expert visual
+
+
+498 inspection. The MNI coordinates of the selected ROIs are listed in Table 1.
+
+
+499 A generalized linear model (GLM) was used to regress 6 head motion parameters (3 translation and 3
+
+
+500 rotational), white matter and cerebrospinal fluid signals from preprocessed data. One subject was
+
+
+501 excluded as no activation was found in one or more regions of interest. We also used global signal
+
+
+502 regression in our pre-processing pipeline in line with our previous work (Stoliker, Novelli, et al., 2021).
+
+
+503 The time series for each ROI was computed as the first principal component of the voxel activity within a
+
+
+504 6 mm radius sphere centred on the ROI coordinates (as listed in Table 1).
+
+
+Region MNI coordinates Network/System
+x y zz
+PCC 0 -50 28 DMN
+
+mPFC 0 54 20 DMN
+
+ACC 2 28 22 SN
+
+IAI -34 19 0 SN
+
+rAl 38 18 0 SN
+
+IdIPFC -46 30 32 CEN
+
+rdlPFC 42 37 31 CEN
+
+IIPPC -22 -62 62 CEN
+
+[PAGE 022]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+Region MNI coordinates Network/System
+
+x y zZ
+
+
+rIPPC 19 -64 55 CEN
+
+IAMYGDALA -21 -5 -17 LIMBIC
+
+rAMYGDALA 23 -3 -19 LIMBIC
+
+
+505
+
+
+506 Table 1 Coordinates of regions of interest. The DMN comprised of the posterior cingulate cortex (PCC)
+
+
+507 and medial prefrontal cortex (mPFC); the SN comprised of the dorsal anterior cingulate cortex (dACC),
+
+
+508 left and right anterior insula (IAI/rAl); and the CEN comprised the left and right dorsal lateral prefrontal
+
+
+509 cortex (rdIPFC/rdIPFC) and the left and right lateral posterior parietal lobule (IIPPC/rIPPC).
+
+
+510
+
+
+511 — Specification and Inversion of DCM
+
+
+512 Three independent fully-connected DCM models were specified for each network and the amygdala using
+
+
+513 the 11 ROIs defined in Table 4, without any exogenous inputs. The DCM for each subject was then
+
+
+514 inverted using spectral DCM (Karl J. Friston, Kahan, Biswal, & Razi, 2014; Razi, Kahan, Rees, &
+
+
+515 Friston, 2015) to infer the effective connectivity that best explains the observed cross-spectral density for
+
+
+516 each subject. This procedure was repeated for each testing condition. The DCM fit to the data using cross
+
+
+517 _ spectral density averaged 90.9% for placebo conditions and 89.8% for psilocybin conditions.
+
+
+518
+
+
+519 = Second Level Analysis Using Parametric Empirical Bayes
+
+
+520 The effective connectivity inferred by spectral DCM for each subject was taken to the second (group)
+
+
+521 level to test hypotheses concerning between-group effects. A general linear model (GLM) was employed
+
+
+522 to decompose individual differences in effective connectivity into hypothesised group-average connection
+
+
+523 strengths together with unexplained noise. Hypotheses on the group-level parameters are tested within the
+
+
+524 parametric empirical Bayes (PEB) framework (K. J. Friston et al., 2016), where both the expected values
+
+
+525 and the covariance of the parameters were taken into account. That is, precise parameter estimates
+
+[PAGE 023]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+526 influence the group-level result more strongly than uncertain estimates, which are down-weighted.
+
+
+527 Bayesian model reduction (BMR) is used as an efficient form of Bayesian model selection (K. J. Friston
+
+
+528 et al., 2016). Please see supplementary material for further technical details about PEB.
+
+
+529
+
+
+530 References
+
+
+531 Alexander, R., Aragón, O. R., Bookwala, J., Cherbuin, N., Gatt, J. M., Kahrilas, |. J., ... Styliadis, C.
+532 (2021). The neuroscience of positive emotions and affect: Implications for cultivating
+533 happiness and wellbeing
+534 . Neuroscience & Biobehavioral Reviews, 121, 220-249.
+535 doi:https://doi.org/10.1016/j.neubiorev.2020.12.002
+536 Andrews-Hanna, J. R., Reidler, J. S., Sepulcre, J., Poulin, R., & Buckner, R. L. (2010). Functional537 anatomic fractionation of the brain's default network. Neuron, 65(4), 550-562.
+538 doi:10.1016/j.neuron.2010.02.005
+539 Atasoy, S., Roseman, L., Kaelen, M., Kringelbach, M. L., Deco, G., & Carhart-Harris, R. L. (2017).
+540 Connectome-harmonic decomposition of human brain activity reveals dynamical
+541 repertoire re-organization under LSD. Scientific Reports, 7. doi:10.1038/s41598-017542 17546-0
+543 Barnett, L., Muthukumaraswamy, S. D., Carhart-Harris, R. L., & Seth, A. K. (2019). Decreased
+544 Directed Functional Connectivity in the Psychedelic State. bioRxiv, 703660.
+545 doi:10.1101/703660
+546 Bernasconi, F., Schmidt, A., Pokorny, T., Kometer, M., Seifritz, E., & Vollenweider, F. X. (2014).
+547 Spatiotemporal brain dynamics of emotional face processing modulations induced by
+548 the serotonin 1A/2A receptor agonist psilocybin. Cereb Cortex, 24(12), 3221-3231.
+549 doi:10.1093/cercor/bht178
+550 Borders, A. (2020). Chapter 9 - Rumination, cognition, and the brain. In A. Borders (Ed.),
+551 Rumination and Related Constructs (pp. 279-311): Academic Press.
+552 Carhart-Harris, R., Kaelen, M., & Nutt, D. (2014). How do hallucinogens work on the brain?
+553 Psychologist, 27(9), 662-665. Retrieved from <Go to ISI>://WOS:000341172000027
+554 Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the Anarchic Brain: Toward a Unified
+555 Model of the Brain Action of Psychedelics. Pharmacological Reviews, 71(3), 316-344.
+556 doi:10.1124/pr.118.017160
+557 Carhart-Harris, R. L., & Nutt, D. J. (2017). Serotonin and brain function: a tale of two receptors.
+558 Journal of Psychopharmacology, 31(9), 1091-1120. doi:10.1177/0269881117725915
+559 Davis, A. K., Barrett, F. S., € Griffiths, R. R. (2020). Psychological flexibility mediates the relations
+560 between acute psychedelic effects and subjective decreases in depression and anxiety. J
+561 Contextual Behav Sci, 15, 39-45. doi:10.1016/j.jcbs.2019.11.004
+562 Dixon, M. L., Andrews-Hanna, J. R., Spreng, R. N., Irving, Z. C., Mills, C., Girn, M., & Christoff, K.
+563 (2017). Interactions between the default network and dorsal attention network vary
+564 across default subsystems, time, and cognitive states. Neurolmage, 147, 632-649.
+565 doi:10.1016/j.neuroimage.2016.12.073
+
+[PAGE 024]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+566 Etkin, A., Egner, T., Peraza, D. M., Kandel, E. R., & Hirsch, J. (2006). Resolving Emotional Conflict:
+567 A Role for the Rostral Anterior Cingulate Cortex in Modulating Activity in the Amygdala.
+568 Neuron, 51(6), 871-882. doi:https://doi.org/10.1016/j.neuron.2006.07.029
+569 Fox, M. D., Snyder, A. Z., Vincent, J. L., Corbetta, M., Van Essen, D. C., & Raichle, M. E. (2005).
+570 The human brain is intrinsically organized into dynamic, anticorrelated functional
+571 networks. Proceedings of the National Academy of Sciences of the United States of
+572 America, 102(27), 9673. doi:10.1073/pnas.0504136102
+573 Franke, G. (2002). Die Symptom-Checkliste von Derogatis (SCL-90-R) - Deutsche Version -
+574 Manual.
+575 Friston, K. J., Kahan, J., Biswal, B., € Razi, A. (2014). A DCM for resting state fMRI. Neurolmage,
+576 94, 396-407. doi:https://doi.org/10.1016/j.neuroimage.2013.12.009
+577 Friston, K. J., Litvak, V., Oswal, A., Razi, A., Stephan, K. E., van Wijk, B. C. M.,.... Zeidman, P.
+578 (2016). Bayesian model reduction and empirical Bayes for group (DCM) studies.
+579 Neurolmage, 128, 413-431. doi:10.1016/j.neuroimage.2015.11.015
+580 Fydrich, T., Renneberg, B., Schmitz, B., & Wittchen, H. U. (1997). SKID Il. Strukturiertes Klinisches
+581 Interview fur DSM-IV, Achse Il: Persönlichkeitsstörungen. Interviewheft. Eine
+582 deutschspeachige, erw. Bearb. d. amerikanischen Originalversion d. SKID-II von: M.B.
+583 First, R.L. Spitzer, M. Gibbon, J.B.W. Williams, L. Benjamin, (Version 3/96).
+584 Griffiths, R. R., Johnson, M. W., Carducci, M. A., Umbricht, A., Richards, W. A., Richards, B. D.,..
+585 . Klinedinst, M. A. (2016). Psilocybin produces substantial and sustained decreases in
+586 depression and anxiety in patients with life-threatening cancer: A randomized double587 blind trial. Journal of Psychopharmacology, 30(12), 1181-1197.
+588 doi:10.1177/0269881116675513
+589 Hirschfeld, T., & Schmidt, T. T. (2020). How does it feel to be on psilocybin? Dose-response
+590 relationships of subjective experiences in humans. bioRxiv, 2020.2006.2009.142802.
+591 doi:10.1101/2020.06.09.142802
+592 Jamieson, A. J., Harrison, B. J., Razi, A., € Davey, C. G. (2022). Rostral anterior cingulate network
+593 effective connectivity in depressed adolescents and associations with treatment
+594 response in a randomized controlled trial. Neuropsychopharmacology, 47(6), 1240-1248.
+595 doi:10.1038/s41386-021-01214-z
+596 Kapur, S. (2003). Psychosis as a State of Aberrant Salience: A Framework Linking Biology,
+597 Phenomenology, and Pharmacology in Schizophrenia. American Journal of Psychiatry,
+598 160(1), 13-23. doi:10.1176/appi.ajp.160.1.13
+599 Kometer, M., Schmidt, A., Jáncke, L., & Vollenweider, F. X. (2013). Activation of Serotonin 2A
+600 Receptors Underlies the Psilocybin-Induced Effects on a Oscillations, N170 Visual601 Evoked Potentials, and Visual Hallucinations. The Journal of Neuroscience, 33(25),
+602 10544. doi:10.1523/JNEUROSCI.3007-12.2013
+603 Kraehenmann, R., Pokorny, D., Vollenweider, L., Preller, K. H., Pokorny, T., Seifritz, E., &
+604 Vollenweider, F. X. (2017). Dreamlike effects of LSD on waking imagery in humans
+605 depend on serotonin 2A receptor activation. Psychopharmacology (Berl), 234(13), 2031606 2046. doi:10.1007/s00213-017-4610-0
+607 Lebedev, A. V., Lövden, M., Rosenthal, G., Feilding, A., Nutt, D. J., & Carhart-Harris, R. L. (2015).
+608 Finding the self by losing the self: Neural correlates of ego-dissolution under psilocybin.
+609 Human Brain Mapping, 36(8), 3137-3153. doi:10.1002/hbm.22833
+
+[PAGE 025]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+610 Luppi, A. |., Carhart-Harris, R. L., Roseman, L., Pappas, |., Menon, D. K., & Stamatakis, E. A.
+611 (2021). LSD alters dynamic integration and segregation in the human brain.
+612 Neurolmage, 227, 117653. doi:https://doi.org/10.1016/j.neuroimage.2020.117653
+613 Matias, S., Lottem, E., Dugué, G. P., & Mainen, Z. F. (2017). Activity patterns of serotonin
+614 neurons underlying cognitive flexibility. eLife, 6, e20552. doi:10.7554/eLife.20552
+615 Menon, V., & Uddin, L. Q. (2010). Saliency, switching, attention and control: a network model of
+616 insula function. Brain structure & function, 214(5-6), 655-667. doi:10.1007/s00429-010617 0262-0
+618 Milliere, R., Carhart-Harris, R. L., Roseman, L., Trautwein, F.-M., & Berkovich-Ohana, A. (2018).
+619 Psychedelics, Meditation, and Self-Consciousness. Frontiers in Psychology, 9(1475).
+620 doi:10.3389/fpsyg.2018.01475
+621 Nutt, D., & Carhart-Harris, R. (2020). The Current Status of Psychedelics in Psychiatry. JAMA
+622 Psychiatry. doi:10.1001/jamapsychiatry.2020.2171
+623 Park, J., Wood, J., Bondi, C., Del Arco, A., & Moghaddam, B. (2016). Anxiety Evokes
+624 Hypofrontality and Disrupts Rule-Relevant Encoding by Dorsomedial Prefrontal Cortex
+625 Neurons. The Journal of Neuroscience, 36(11), 3322-3335. doi:10.1523/jneurosci.4250626 15.2016
+627 Preller, K. H., Duerler, P., Burt, J. B., Ji, J. L., Adkinson, B., Stampfli, P., . .. Vollenweider, F. X.
+628 (2020). Psilocybin Induces Time-Dependent Changes in Global Functional Connectivity.
+629 Biological Psychiatry, 88(2), 197-207.
+630 doi:https://doi.org/10.1016/j.biopsych.2019.12.027
+631 Raichle, M. E. (2015). The brain's default mode network. Annu Rev Neurosci, 38, 433-447.
+632 doi:10.1146/annurev-neuro-071013-014030
+633 Razi, A., Kahan, J., Rees, G., & Friston, K. J. (2015). Construct validation of a DCM for resting
+634 state fMRI. Neuroimage, 106, 1-14.
+635 doi:https://doi.org/10.1016/j.neuroimage.2014.11.027
+636 Roseman, L., Nutt, D. J., & Carhart-Harris, R. L. (2018). Quality of Acute Psychedelic Experience
+637 Predicts Therapeutic Efficacy of Psilocybin for Treatment-Resistant Depression. Frontiers
+638 in Pharmacology, 8, 974. doi:10.3389/fphar.2017.00974
+639 Ross, S., Bossis, A., Guss, J., Agin-Liebes, G., Malone, T., Cohen, B., ... Schmidt, B. L. (2016).
+640 Rapid and sustained symptom reduction following psilocybin treatment for anxiety and
+641 depression in patients with life-threatening cancer: a randomized controlled trial.
+642 Journal of Psychopharmacology, 30(12), 1165-1180. doi:10.1177/0269881116675512
+643 Rotge, J. Y., Lemogne, C., Hinfray, S., Huguet, P., Grynszpan, O., Tartour, E.,... Fossati, P.
+644 (2015). A meta-analysis of the anterior cingulate contribution to social pain. Social
+645 cognitive and affective neuroscience, 10(1), 19-27. doi:10.1093/scan/nsu110
+646 Sheehan, D. V., Lecrubier, Y., Sheehan, K. H., Amorim, P., Janavs, J., Weiller, E., ... Dunbar, G. C.
+647 (1998). The Mini-International Neuropsychiatric Interview (M.I.N.I.): the development
+648 and validation of a structured diagnostic psychiatric interview for DSM-IV and ICD-10. J
+649 Clin Psychiatry, 59 Suppl 20, 22-33;quiz 34-57.
+650 Sridharan, D., Levitin, D. J., & Menon, V. (2008). A critical role for the right fronto-insular cortex
+651 in switching between central-executive and default-mode networks. Proc Nat! Acad Sci
+652 USA, 105(34), 12569-12574. doi:10.1073/pnas.0800005105
+
+[PAGE 026]
+
+medRxiv preprint doi: https://doi.org/10.1101/2022.09.06.22279626; this version posted September 9, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.
+It is made available under a CC-BY-NC-ND 4.0 International license .
+
+
+653 Stoliker, D., Egan, G., Friston, K., & Razi, A. (2021). Neural Mechanisms and Psychology of
+654 Psychedelic Ego Dissolution. In: PsyArXiv.
+655 Stoliker, D., Egan, G. F., €: Razi, A. (2022). Reduced Precision Underwrites Ego Dissolution and
+656 Therapeutic Outcomes Under Psychedelics. Frontiers in Neuroscience, 16.
+657 doi:10.3389/fnins.2022.827400
+658 Swanson, L. R. (2018). Unifying Theories of Psychedelic Drug Effects. Frontiers in Pharmacology,
+659 9(172). doi:10.3389/fphar.2018.00172
+660 Tagliazucchi, E., Carhart-Harris, R., Leech, R., Nutt, D., €: Chialvo, D. R. (2014). Enhanced
+661 repertoire of brain dynamical states during the psychedelic experience. Human Brain
+662 Mapping, 35(11), 5442-5456. doi:10.1002/hbm.22562
+663 Tagliazucchi, E., Roseman, L., Kaelen, M., Orban, C., Muthukumaraswamy, S. D., Murphy, K.,...
+664 Carhart-Harris, R. (2016). Increased Global Functional Connectivity Correlates with LSD665 Induced Ego Dissolution. Current biology: CB, 26(8), 1043-1050.
+666 doi:10.1016/j.cub.2016.02.010
+667 Underwood, R., Tolmeijer, E., Wibroe, J., Peters, E., & Mason, L. (2021). Networks underpinning
+668 emotion: A systematic review and synthesis of functional and effective connectivity.
+669 Neurolmage, 243, 118486. doi:10.1016/j.neuroimage.2021.118486
+670 Vollenweider, F. X., Leenders, K. L., Scharfetter, C., Maguire, P., Stadelmann, O., & Angst, J.
+671 (1997). Positron emission tomography and fluorodeoxyglucose studies of metabolic
+672 hyperfrontality and psychopathology in the psilocybin model of psychosis.
+673 Neuropsychopharmacology, 16(5), 357-372. doi:10.1016/s0893-133x(96)00246-1
+674 Watts, R., & Luoma, J. B. (2020). The use of the psychological flexibility model to support
+675 psychedelic assisted therapy. Journal of Contextual Behavioral Science, 15, 92-102.
+676 doi:https://doi.org/10.1016/j.jcbs.2019.12.004
+677 Yarkoni, T., Poldrack, R. A., Nichols, T. E., Van Essen, D. C., & Wager, T. D. (2011). Large-scale
+678 automated synthesis of human functional neuroimaging data. Nature Methods, 8(8),
+679 665-670. doi:10.1038/nmeth.1635
+680 Zhou, Y., Friston, K. J., Zeidman, P., Chen, J., Li, S., & Razi, A. (2018). The Hierarchical
+681 Organization of the Default, Dorsal Attention and Salience Networks in Adolescents and
+682 Young Adults. Cereb Cortex, 28(2), 726-737. doi:10.1093/cercor/bhx307
+683
+
+
+684

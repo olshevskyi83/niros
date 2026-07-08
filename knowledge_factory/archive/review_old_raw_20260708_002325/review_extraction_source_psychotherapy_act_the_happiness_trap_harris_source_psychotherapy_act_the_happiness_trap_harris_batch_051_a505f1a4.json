@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-07-07T21:45:27+00:00",
+  "edited_extraction": null,
+  "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_051_a505f1a4",
+  "knowledge_domain": "psychotherapy_tle",
+  "original_extraction": {
+    "candidate_targets": [
+      "distressing thoughts",
+      "stress",
+      "anxiety",
+      "depression",
+      "unhelpful or difficult thoughts"
+    ],
+    "confidence": 0.9,
+    "contraindications": [
+      "None explicitly stated in the text."
+    ],
+    "evidence_text": "Now you’re no doubt brimming with all sorts of questions. But be patient. In the next few chapters\nwe’re going to cover defusion in much more detail, including how to use it with mental images. In\nthe meantime, practise using the three techniques we’ve covered so far: I’m Having the Thought\nthat..., Musical Thoughts and Naming the Story.\n\n---\n\nOf course, if you don’t like a particular technique, you can leave it. And if you have a favourite, you\ncan stick to it. Use these techniques regularly with distressing thoughts, at least ten times a day\nwhen starting. Any time you’re feeling stressed, anxious or depressed, ask yourself: ‘What story is\nmy mind telling me now?’ Then once you’ve identified it, defuse it.\n\n---\n\nIt’s important not to build up great expectations at this point. At times defusion occurs easily; at\nother times it may not happen at all. So play around with these methods and notice what happens—\nbut don’t expect instant transformation.\n\n---\n\nIf all this seems too difficult, just acknowledge, ‘I’m having the thought that it’s too difficult!’ It’s\nokay to have the thought that ‘It’s too hard’, or that ‘This is stupid’, or that ‘It won’t work.’ They’re\nall just thoughts, so see them for what they are and let them be.\n\n---\n\n“That's all fine,’ you may say, “but what if the thoughts are true?”\n\n---\n\nIn ACT, whether a thought is true is not that important. Far more important is whether it’s helpful.\nTruthful or not, thoughts are nothing more than words. If they’re helpful words, then it’s worth\npaying attention to them. If they’re not helpful, then why bother?",
+    "extraction_id": "extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_051_a505f1a4",
+    "extractor": "openai",
+    "generation_rules": [
+      "Use defusion techniques regularly, at least ten times a day when starting.",
+      "Identify the story the mind is telling and then defuse it.",
+      "Allow for variability in effectiveness without expecting instant transformation.",
+      "Acknowledge difficult thoughts without resistance."
+    ],
+    "pause_rules": [
+      "Pause to notice what happens when using techniques without expectation of immediate change."
+    ],
+    "psychological_function": "Recognizing thoughts as mere words rather than truths, reducing attachment to unhelpful thoughts, and promoting acceptance of difficult experiences.",
+    "repetition_rules": [
+      "Practice defusion techniques multiple times daily, especially during distress."
+    ],
+    "review_status": "draft",
+    "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_051",
+    "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+    "symbolic_elements": [
+      "Musical Thoughts",
+      "Naming the Story",
+      "I’m Having the Thought that..."
+    ],
+    "therapeutic_function": "Defusion from distressing thoughts through specific techniques to reduce their impact and increase psychological flexibility.",
+    "voice_rules": [
+      "Encourage patience and experimentation with techniques.",
+      "Normalize difficulty and resistance in the process.",
+      "Emphasize the non-importance of truthfulness of thoughts compared to their helpfulness."
+    ]
+  },
+  "review_id": "review_extraction_source_psychotherapy_act_the_happiness_trap_harris_source_psychotherapy_act_the_happiness_trap_harris_batch_051_a505f1a4",
+  "reviewer_id": "",
+  "reviewer_notes": "",
+  "segment_id": "source_psychotherapy_act_the_happiness_trap_harris_batch_051",
+  "source_id": "source_psychotherapy_act_the_happiness_trap_harris",
+  "status": "pending",
+  "updated_at": "2026-07-07T21:45:27+00:00"
+}
