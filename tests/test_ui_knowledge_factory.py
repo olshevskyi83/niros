@@ -30,6 +30,7 @@ from niros.ui_knowledge_factory import (
     compile_summary_ui_funnel,
     count_knowledge_library_sources_by_family,
     filter_usable_segments,
+    format_causal_chain_for_display,
     import_knowledge_source_for_ui,
     import_txt_for_ui,
     knowledge_domain_for_library_source,
@@ -50,9 +51,20 @@ from niros.ui_knowledge_factory import (
     resolve_txt_input_path,
     review_can_be_approved,
     review_is_actionable,
+    review_uses_stored_structured_knowledge,
     run_library_source_extraction_for_ui,
+    structured_evidence_fragment_details,
+    structured_knowledge_quality_warnings,
     suggested_action_for_review,
     summarize_workspace,
+)
+from niros.knowledge_consolidator import (
+    ConsolidationSourceContext,
+    KnowledgeConsolidator,
+)
+from niros.semantic_knowledge_extraction import (
+    ONTOLOGY_STATUS_ADDS_NEW_EVIDENCE,
+    ONTOLOGY_STATUS_POTENTIAL_NEW_MECHANISM,
 )
 
 
@@ -731,3 +743,204 @@ def test_compile_progress_ui_summary_includes_counts() -> None:
     assert summary.failed == 1
     assert summary.skipped == 0
     assert summary.live_log_path == "/tmp/live.jsonl"
+
+
+def _experiential_avoidance_extraction(**overrides) -> TherapeuticFunctionExtraction:
+    source_id = overrides.get("source_id", "book_a")
+    segment_id = overrides.get("segment_id", "book_a_batch_001")
+    therapeutic_function = overrides.get("therapeutic_function", "experiential_avoidance")
+    psychological_function = overrides.get(
+        "psychological_function",
+        (
+            "Attempts to avoid painful internal experiences reduce distress briefly but "
+            "maintain long-term suffering and reduce valued action."
+        ),
+    )
+    base = {
+        "extraction_id": build_extraction_id(
+            source_id,
+            segment_id,
+            therapeutic_function,
+            psychological_function,
+        ),
+        "source_id": source_id,
+        "segment_id": segment_id,
+        "therapeutic_function": therapeutic_function,
+        "psychological_function": psychological_function,
+        "evidence_text": (
+            "When painful feelings arise, the client uses control or avoidance strategies. "
+            "Short-term relief appears, but valued action narrows and suffering persists over time."
+        ),
+        "mechanism_name": "Experiential Avoidance",
+        "ontology_status": ONTOLOGY_STATUS_ADDS_NEW_EVIDENCE,
+        "ontology_mechanism_id": "experiential_avoidance",
+        "causal_process": (
+            "Painful thoughts and feelings trigger control or avoidance strategies. "
+            "These strategies reduce distress briefly but reinforce avoidance and narrow "
+            "behavior over time."
+        ),
+        "why_this_is_a_mechanism": (
+            "This describes a maintaining loop linking internal distress, avoidance behavior, "
+            "short-term relief, and long-term suffering."
+        ),
+        "confidence": 0.85,
+        "extractor": "openai",
+    }
+    base.update(overrides)
+    return TherapeuticFunctionExtraction(**base)
+
+
+def _create_structured_consolidated_review(tmp_path: Path) -> str:
+    root = tmp_path / "knowledge_factory"
+    paths = ensure_knowledge_workspace(str(root))
+    workflow = HumanReviewWorkflow(paths=paths)
+    candidate = KnowledgeConsolidator().consolidate(
+        (
+            _experiential_avoidance_extraction(
+                source_id="book_a",
+                segment_id="book_a_batch_001",
+            ),
+            _experiential_avoidance_extraction(
+                source_id="book_b",
+                segment_id="book_b_batch_002",
+            ),
+        ),
+        source_contexts={
+            "book_a": ConsolidationSourceContext("book_a", "act", "psychotherapy"),
+            "book_b": ConsolidationSourceContext("book_b", "cft", "psychotherapy"),
+        },
+    ).candidates[0]
+    record = workflow.create_pending_consolidated_review(
+        candidate,
+        knowledge_domain=KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
+    )
+    return record.review_id
+
+
+def test_load_review_for_ui_loads_structured_candidate(tmp_path: Path) -> None:
+    root = tmp_path / "knowledge_factory"
+    review_id = _create_structured_consolidated_review(tmp_path)
+
+    detail = load_review_for_ui(review_id, str(root))
+
+    assert detail.uses_structured_knowledge_review
+    assert detail.structured_knowledge_candidate is not None
+    assert detail.mechanism_name == "Experiential Avoidance"
+
+
+def test_structured_review_detail_exposes_evidence_fragments(tmp_path: Path) -> None:
+    root = tmp_path / "knowledge_factory"
+    review_id = _create_structured_consolidated_review(tmp_path)
+
+    detail = load_review_for_ui(review_id, str(root))
+
+    assert detail.structured_evidence_fragment_details
+    fragment = detail.structured_evidence_fragment_details[0]
+    assert fragment.source_id
+    assert fragment.segment_id
+    assert fragment.source_family
+    assert fragment.evidence_text
+    assert fragment.supports
+    assert fragment.confidence > 0.0
+
+
+def test_structured_quality_warnings_for_potential_new_mechanism() -> None:
+    warnings = structured_knowledge_quality_warnings(
+        {
+            "ontology_status": ONTOLOGY_STATUS_POTENTIAL_NEW_MECHANISM,
+            "confidence": 0.9,
+            "evidence_fragments": [{"source_id": "book_a"}],
+            "maintaining_processes": [{"description": "Avoidance maintains suffering."}],
+            "causal_chains": [{"internal_process": "Avoidance loop."}],
+            "contraindications": [],
+        }
+    )
+
+    assert any("potential_new_mechanism" in warning for warning in warnings)
+
+
+def test_old_consolidated_review_without_structured_candidate_still_loads(
+    tmp_path: Path,
+) -> None:
+    root = tmp_path / "knowledge_factory"
+    paths = ensure_knowledge_workspace(str(root))
+    workflow = HumanReviewWorkflow(paths=paths)
+    review_id = _create_structured_consolidated_review(tmp_path)
+    saved = workflow.load_review(review_id)
+    legacy_record = HumanReviewRecord(
+        review_id=saved.review_id,
+        extraction_id=saved.extraction_id,
+        source_id=saved.source_id,
+        segment_id=saved.segment_id,
+        status=saved.status,
+        original_extraction=saved.original_extraction,
+        created_at=saved.created_at,
+        updated_at=saved.updated_at,
+        knowledge_domain=saved.knowledge_domain,
+        review_type=saved.review_type,
+        consolidated_candidate=saved.consolidated_candidate,
+        structured_knowledge_candidate=None,
+        therapeutic_relevance=saved.therapeutic_relevance,
+    )
+    workflow.save_review(legacy_record)
+
+    detail = load_review_for_ui(review_id, str(root))
+
+    assert not detail.uses_structured_knowledge_review
+    assert detail.structured_knowledge_candidate is None
+    assert detail.therapeutic_function
+    assert not review_uses_stored_structured_knowledge(workflow.load_review(review_id))
+
+
+def test_structured_consolidated_review_approve_unchanged(tmp_path: Path) -> None:
+    root = tmp_path / "knowledge_factory"
+    paths = ensure_knowledge_workspace(str(root))
+    review_id = _create_structured_consolidated_review(tmp_path)
+
+    approved = approve_review_for_ui(review_id, str(root))
+
+    assert approved.review.status == "approved"
+    assert list(Path(paths.ctpc_dir).rglob("*.json"))
+
+
+def test_structured_consolidated_review_reject_unchanged(tmp_path: Path) -> None:
+    review_id = _create_structured_consolidated_review(tmp_path)
+
+    rejected = reject_review_for_ui(review_id, str(tmp_path / "knowledge_factory"), notes="Needs clearer evidence.")
+
+    assert rejected.status == "rejected"
+
+
+def test_format_causal_chain_for_display_joins_non_empty_parts() -> None:
+    summary = format_causal_chain_for_display(
+        {
+            "trigger": "Painful feeling",
+            "internal_process": "",
+            "behavior_response": "Avoidance",
+            "short_term_effect": "Relief",
+            "long_term_effect": "Suffering",
+        }
+    )
+
+    assert summary == "Painful feeling → Avoidance → Relief → Suffering"
+
+
+def test_structured_evidence_fragment_details_from_payload() -> None:
+    details = structured_evidence_fragment_details(
+        {
+            "evidence_fragments": [
+                {
+                    "source_id": "book_a",
+                    "segment_id": "book_a_batch_001",
+                    "source_family": "act",
+                    "evidence_text": "Avoidance maintains suffering.",
+                    "supports": ["evidence", "causal_process"],
+                    "confidence": 0.88,
+                }
+            ]
+        }
+    )
+
+    assert len(details) == 1
+    assert details[0].source_family == "act"
+    assert details[0].supports == ("evidence", "causal_process")

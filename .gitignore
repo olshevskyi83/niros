@@ -1,3 +1,7 @@
 __pycache__/
 .env
 .DS_Store
+
+# Generated Knowledge Factory runtime artifacts
+knowledge_factory/logs/
+knowledge_factory/review/review_candidate_*.json

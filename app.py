@@ -93,6 +93,7 @@ from niros.ui_knowledge_factory import (
     archive_pending_reviews_for_ui,
     parse_review_mode_option,
     format_multiline_field,
+    format_causal_chain_for_display,
     import_knowledge_source_for_ui,
     list_extraction_results_for_ui,
     list_knowledge_library_sources_for_ui,
@@ -1215,8 +1216,20 @@ def _render_knowledge_factory(language: str) -> None:
         can_approve = review_can_be_approved(review_record)
 
         header_cols = st.columns([3, 1])
+        structured_payload = detail.structured_knowledge_candidate
+        uses_structured = detail.uses_structured_knowledge_review and structured_payload
         with header_cols[0]:
-            if detail.review_type == "consolidated_candidate":
+            if uses_structured:
+                structured_confidence = float(
+                    structured_payload.get("confidence", detail.confidence) or 0.0
+                )
+                st.markdown(
+                    f"**Mechanism:** {structured_payload.get('mechanism_name') or detail.mechanism_name} · "
+                    f"**Ontology status:** `{structured_payload.get('ontology_status') or 'unknown'}` · "
+                    f"confidence **{structured_confidence:.2f}** · "
+                    f"status `{detail.status}` · domain `{detail.knowledge_domain}`"
+                )
+            elif detail.review_type == "consolidated_candidate":
                 st.markdown(
                     f"**Mechanism:** {detail.mechanism_name or detail.canonical_name or detail.therapeutic_function} · "
                     f"**Ontology status:** `{detail.ontology_status or 'unknown'}` · "
@@ -1235,55 +1248,127 @@ def _render_knowledge_factory(language: str) -> None:
         with header_cols[1]:
             st.caption(f"source: `{detail.source_id}`")
 
-        evidence_col, fields_col = st.columns([1.1, 1])
-        with evidence_col:
-            if detail.mechanism_name or detail.mechanism_description:
-                st.markdown("**Mechanism knowledge**")
-                if detail.mechanism_name:
-                    st.markdown(f"**Name:** {detail.mechanism_name}")
-                if detail.mechanism_description:
-                    st.caption(detail.mechanism_description)
-                if detail.ontology_mechanism_id:
-                    st.caption(f"Ontology ID: `{detail.ontology_mechanism_id}`")
-            if detail.why_this_is_a_mechanism or detail.causal_process:
-                st.markdown("**Reason for extraction**")
-                if detail.why_this_is_a_mechanism:
-                    st.info(detail.why_this_is_a_mechanism)
-                if detail.causal_process:
-                    st.markdown("**Causal explanation**")
-                    st.write(detail.causal_process)
-            if detail.why_extracted:
-                st.markdown("**Gate reasoning**")
-                st.info(detail.why_extracted)
-                if detail.knowledge_kind or detail.relevance_score:
-                    st.caption(
-                        f"Relevance: {detail.relevance_score:.2f} · "
-                        f"kind `{detail.knowledge_kind or 'unknown'}`"
-                    )
-                if detail.evidence_span:
-                    st.caption(f"Gate evidence: {detail.evidence_span}")
-            if detail.evidence_fragments:
-                st.markdown("**Evidence fragments**")
-                with st.expander(
-                    f"Found {detail.mention_count} time(s) across {detail.book_count} book(s)",
-                    expanded=True,
-                ):
-                    st.code("\n\n".join(detail.evidence_fragments), language="text")
-            st.markdown("**Evidence summary**")
-            st.text_area(
-                "evidence_text",
-                value=detail.evidence_text,
-                height=280,
-                disabled=True,
-                label_visibility="collapsed",
-                key=f"kf_evidence_{detail.review_id}",
+        approve_clicked = False
+        reject_clicked = False
+        changes_clicked = False
+        reviewer_notes = detail.reviewer_notes
+        therapeutic_function = detail.therapeutic_function
+        psychological_function = detail.psychological_function
+        generation_rules = format_multiline_field(detail.generation_rules)
+        voice_rules = format_multiline_field(detail.voice_rules)
+        pause_rules = format_multiline_field(detail.pause_rules)
+        repetition_rules = format_multiline_field(detail.repetition_rules)
+        symbolic_elements = format_multiline_field(detail.symbolic_elements)
+
+        if uses_structured:
+            for warning in detail.quality_warnings:
+                st.warning(warning)
+
+            st.markdown("**Mechanism**")
+            mechanism_label = structured_payload.get("mechanism_name") or detail.mechanism_name
+            st.write(mechanism_label or "—")
+            if structured_payload.get("mechanism_id"):
+                st.caption(f"Mechanism ID: `{structured_payload['mechanism_id']}`")
+
+            st.markdown("**Ontology status**")
+            st.write(f"`{structured_payload.get('ontology_status') or 'unknown'}`")
+
+            st.markdown("**Confidence**")
+            st.write(
+                f"{float(structured_payload.get('confidence', detail.confidence) or 0.0):.2f}"
             )
+
+            st.markdown("**Maintaining processes**")
+            maintaining = structured_payload.get("maintaining_processes") or []
+            if maintaining:
+                for item in maintaining:
+                    st.write(item.get("description", ""))
+            else:
+                st.caption("—")
+
+            st.markdown("**Causal chains**")
+            causal_chains = structured_payload.get("causal_chains") or []
+            if causal_chains:
+                for chain in causal_chains:
+                    summary = format_causal_chain_for_display(chain)
+                    if summary:
+                        st.write(summary)
+            else:
+                st.caption("—")
+
+            st.markdown("**Change processes**")
+            change_processes = structured_payload.get("change_processes") or []
+            if change_processes:
+                for process in change_processes:
+                    st.write(
+                        f"{process.get('process_name', process.get('process_id', 'process'))}: "
+                        f"{process.get('description', '')}"
+                    )
+            else:
+                st.caption("—")
+
+            st.markdown("**Evidence fragments**")
+            if detail.structured_evidence_fragment_details:
+                for fragment in detail.structured_evidence_fragment_details:
+                    st.markdown(
+                        f"`{fragment.source_id}` · `{fragment.segment_id}` · "
+                        f"`{fragment.source_family}` · confidence **{fragment.confidence:.2f}**"
+                    )
+                    st.caption(
+                        f"Supports: {', '.join(fragment.supports) if fragment.supports else 'evidence'}"
+                    )
+                    st.write(fragment.evidence_text)
+            else:
+                st.caption("—")
+
+            st.markdown("**Related mechanisms**")
+            related_mechanisms = structured_payload.get("related_mechanisms") or []
+            if related_mechanisms:
+                for mechanism in related_mechanisms:
+                    st.caption(f"· `{mechanism}`")
+            else:
+                st.caption("—")
+
+            st.markdown("**Contraindications**")
+            contraindications = structured_payload.get("contraindications") or []
+            if contraindications:
+                for item in contraindications:
+                    st.caption(f"· {item}")
+            else:
+                st.caption("—")
+
+            st.markdown("**Clinical notes**")
+            clinical_notes = structured_payload.get("clinical_notes", "")
+            if clinical_notes:
+                st.info(clinical_notes)
+            else:
+                st.caption("—")
+
+            st.markdown("**Open questions**")
+            if detail.open_questions:
+                for question in detail.open_questions:
+                    st.caption(f"· {question}")
+            else:
+                st.caption("—")
+
+            if detail.why_extracted:
+                with st.expander("Gate reasoning", expanded=False):
+                    st.info(detail.why_extracted)
+                    if detail.knowledge_kind or detail.relevance_score:
+                        st.caption(
+                            f"Relevance: {detail.relevance_score:.2f} · "
+                            f"kind `{detail.knowledge_kind or 'unknown'}`"
+                        )
+                    if detail.evidence_span:
+                        st.caption(f"Gate evidence: {detail.evidence_span}")
+
             reviewer_notes = st.text_input(
                 "Reviewer notes",
                 value=detail.reviewer_notes,
                 disabled=not editable,
                 key=f"kf_notes_{detail.review_id}",
             )
+
             if editable and not is_compilable_knowledge_domain(review_record.knowledge_domain):
                 st.warning(
                     "This review has unknown knowledge domain. Assign a domain before approval."
@@ -1314,90 +1399,277 @@ def _render_knowledge_factory(language: str) -> None:
                         st.session_state.kf_message = str(exc)
             elif editable and not can_approve:
                 st.warning("This review cannot be approved until domain is assigned.")
-            action_cols = st.columns(3)
+
+            st.markdown("### Review decision")
+            decision_cols = st.columns(3)
             approve_clicked = (
                 editable
                 and can_approve
-                and action_cols[0].button(
+                and decision_cols[0].button(
                     workstation_ui_text("kf_approve_compile", language),
                     type="primary",
                     use_container_width=True,
                     key=f"kf_approve_{detail.review_id}",
                 )
             )
-            reject_clicked = editable and action_cols[1].button(
+            reject_clicked = editable and decision_cols[1].button(
                 workstation_ui_text("kf_reject", language),
                 use_container_width=True,
                 key=f"kf_reject_{detail.review_id}",
             )
             changes_clicked = (
                 detail.status == "pending"
-                and action_cols[2].button(
+                and decision_cols[2].button(
                     workstation_ui_text("kf_request_changes", language),
                     use_container_width=True,
                     key=f"kf_changes_{detail.review_id}",
                 )
             )
 
-        with fields_col:
-            therapeutic_function = st.text_area(
-                "therapeutic_function",
-                value=detail.therapeutic_function,
-                height=72,
-                disabled=not editable,
-                key=f"kf_tf_{detail.review_id}",
-            )
-            psychological_function = st.text_area(
-                "psychological_function",
-                value=detail.psychological_function,
-                height=72,
-                disabled=not editable,
-                key=f"kf_pf_{detail.review_id}",
-            )
-            rule_cols = st.columns(2)
-            with rule_cols[0]:
-                generation_rules = st.text_area(
-                    "generation_rules",
-                    value=format_multiline_field(detail.generation_rules),
-                    height=88,
-                    disabled=not editable,
-                    key=f"kf_gr_{detail.review_id}",
-                )
-                voice_rules = st.text_area(
-                    "voice_rules",
-                    value=format_multiline_field(detail.voice_rules),
+            with st.expander("Edit extraction", expanded=False):
+                therapeutic_function = st.text_area(
+                    "therapeutic_function",
+                    value=detail.therapeutic_function,
                     height=72,
                     disabled=not editable,
-                    key=f"kf_vr_{detail.review_id}",
+                    key=f"kf_tf_{detail.review_id}",
                 )
-                pause_rules = st.text_area(
-                    "pause_rules",
-                    value=format_multiline_field(detail.pause_rules),
+                psychological_function = st.text_area(
+                    "psychological_function",
+                    value=detail.psychological_function,
                     height=72,
                     disabled=not editable,
-                    key=f"kf_pr_{detail.review_id}",
+                    key=f"kf_pf_{detail.review_id}",
                 )
-            with rule_cols[1]:
-                repetition_rules = st.text_area(
-                    "repetition_rules",
-                    value=format_multiline_field(detail.repetition_rules),
-                    height=88,
+                rule_cols = st.columns(2)
+                with rule_cols[0]:
+                    generation_rules = st.text_area(
+                        "generation_rules",
+                        value=format_multiline_field(detail.generation_rules),
+                        height=88,
+                        disabled=not editable,
+                        key=f"kf_gr_{detail.review_id}",
+                    )
+                    voice_rules = st.text_area(
+                        "voice_rules",
+                        value=format_multiline_field(detail.voice_rules),
+                        height=72,
+                        disabled=not editable,
+                        key=f"kf_vr_{detail.review_id}",
+                    )
+                    pause_rules = st.text_area(
+                        "pause_rules",
+                        value=format_multiline_field(detail.pause_rules),
+                        height=72,
+                        disabled=not editable,
+                        key=f"kf_pr_{detail.review_id}",
+                    )
+                with rule_cols[1]:
+                    repetition_rules = st.text_area(
+                        "repetition_rules",
+                        value=format_multiline_field(detail.repetition_rules),
+                        height=88,
+                        disabled=not editable,
+                        key=f"kf_rr_{detail.review_id}",
+                    )
+                    symbolic_elements = st.text_area(
+                        "symbolic_elements",
+                        value=format_multiline_field(detail.symbolic_elements),
+                        height=72,
+                        disabled=not editable,
+                        key=f"kf_se_{detail.review_id}",
+                    )
+                    if detail.candidate_targets:
+                        st.markdown("**candidate_targets**")
+                        for target in detail.candidate_targets:
+                            st.caption(f"· {target}")
+
+            with st.expander("Legacy consolidated fields", expanded=False):
+                st.markdown("**Evidence summary**")
+                st.text_area(
+                    "legacy_evidence_text",
+                    value=detail.evidence_text,
+                    height=180,
+                    disabled=True,
+                    label_visibility="collapsed",
+                    key=f"kf_legacy_evidence_{detail.review_id}",
+                )
+                if detail.mechanism_description:
+                    st.caption(detail.mechanism_description)
+                if detail.causal_process:
+                    st.markdown("**Causal explanation**")
+                    st.write(detail.causal_process)
+                if detail.why_this_is_a_mechanism:
+                    st.markdown("**Reason for extraction**")
+                    st.info(detail.why_this_is_a_mechanism)
+
+        else:
+            evidence_col, fields_col = st.columns([1.1, 1])
+            with evidence_col:
+                if detail.mechanism_name or detail.mechanism_description:
+                    st.markdown("**Mechanism knowledge**")
+                    if detail.mechanism_name:
+                        st.markdown(f"**Name:** {detail.mechanism_name}")
+                    if detail.mechanism_description:
+                        st.caption(detail.mechanism_description)
+                    if detail.ontology_mechanism_id:
+                        st.caption(f"Ontology ID: `{detail.ontology_mechanism_id}`")
+                    if detail.why_this_is_a_mechanism or detail.causal_process:
+                        st.markdown("**Reason for extraction**")
+                        if detail.why_this_is_a_mechanism:
+                            st.info(detail.why_this_is_a_mechanism)
+                        if detail.causal_process:
+                            st.markdown("**Causal explanation**")
+                            st.write(detail.causal_process)
+                    if detail.evidence_fragments:
+                        st.markdown("**Evidence fragments**")
+                        with st.expander(
+                            f"Found {detail.mention_count} time(s) across {detail.book_count} book(s)",
+                            expanded=True,
+                        ):
+                            st.code("\n\n".join(detail.evidence_fragments), language="text")
+                if detail.why_extracted:
+                    st.markdown("**Gate reasoning**")
+                    st.info(detail.why_extracted)
+                    if detail.knowledge_kind or detail.relevance_score:
+                        st.caption(
+                            f"Relevance: {detail.relevance_score:.2f} · "
+                            f"kind `{detail.knowledge_kind or 'unknown'}`"
+                        )
+                    if detail.evidence_span:
+                        st.caption(f"Gate evidence: {detail.evidence_span}")
+                st.markdown("**Evidence summary**")
+                st.text_area(
+                    "evidence_text",
+                    value=detail.evidence_text,
+                    height=280,
+                    disabled=True,
+                    label_visibility="collapsed",
+                    key=f"kf_evidence_{detail.review_id}",
+                )
+                reviewer_notes = st.text_input(
+                    "Reviewer notes",
+                    value=detail.reviewer_notes,
                     disabled=not editable,
-                    key=f"kf_rr_{detail.review_id}",
+                    key=f"kf_notes_{detail.review_id}",
                 )
-                symbolic_elements = st.text_area(
-                    "symbolic_elements",
-                    value=format_multiline_field(detail.symbolic_elements),
+                if editable and not is_compilable_knowledge_domain(review_record.knowledge_domain):
+                    st.warning(
+                        "This review has unknown knowledge domain. Assign a domain before approval."
+                    )
+                    assign_labels = [label for _, label in _KF_DOMAIN_OPTIONS]
+                    assign_by_label = {label: value for value, label in _KF_DOMAIN_OPTIONS}
+                    assign_label = st.selectbox(
+                        "Assign knowledge domain",
+                        options=assign_labels,
+                        key=f"kf_assign_domain_{detail.review_id}",
+                    )
+                    if st.button(
+                        "Save domain",
+                        key=f"kf_save_domain_{detail.review_id}",
+                    ):
+                        try:
+                            assign_review_domain_for_ui(
+                                selected_review_id,
+                                assign_by_label[assign_label],
+                                workspace_root,
+                            )
+                            st.session_state.kf_message = (
+                                f"Assigned domain `{assign_by_label[assign_label]}` "
+                                f"to `{detail.segment_id}`."
+                            )
+                            st.rerun()
+                        except HumanReviewError as exc:
+                            st.session_state.kf_message = str(exc)
+                elif editable and not can_approve:
+                    st.warning("This review cannot be approved until domain is assigned.")
+
+                st.markdown("### Review decision")
+                action_cols = st.columns(3)
+                approve_clicked = (
+                    editable
+                    and can_approve
+                    and action_cols[0].button(
+                        workstation_ui_text("kf_approve_compile", language),
+                        type="primary",
+                        use_container_width=True,
+                        key=f"kf_approve_{detail.review_id}",
+                    )
+                )
+                reject_clicked = editable and action_cols[1].button(
+                    workstation_ui_text("kf_reject", language),
+                    use_container_width=True,
+                    key=f"kf_reject_{detail.review_id}",
+                )
+                changes_clicked = (
+                    detail.status == "pending"
+                    and action_cols[2].button(
+                        workstation_ui_text("kf_request_changes", language),
+                        use_container_width=True,
+                        key=f"kf_changes_{detail.review_id}",
+                    )
+                )
+
+            with fields_col:
+                st.markdown("**Edit extraction**")
+                therapeutic_function = st.text_area(
+                    "therapeutic_function",
+                    value=detail.therapeutic_function,
                     height=72,
                     disabled=not editable,
-                    key=f"kf_se_{detail.review_id}",
+                    key=f"kf_tf_{detail.review_id}",
                 )
-                if detail.candidate_targets:
-                    st.markdown("**candidate_targets**")
-                    for target in detail.candidate_targets:
-                        st.caption(f"· {target}")
-                else:
-                    st.caption("candidate_targets: —")
+                psychological_function = st.text_area(
+                    "psychological_function",
+                    value=detail.psychological_function,
+                    height=72,
+                    disabled=not editable,
+                    key=f"kf_pf_{detail.review_id}",
+                )
+                rule_cols = st.columns(2)
+                with rule_cols[0]:
+                    generation_rules = st.text_area(
+                        "generation_rules",
+                        value=format_multiline_field(detail.generation_rules),
+                        height=88,
+                        disabled=not editable,
+                        key=f"kf_gr_{detail.review_id}",
+                    )
+                    voice_rules = st.text_area(
+                        "voice_rules",
+                        value=format_multiline_field(detail.voice_rules),
+                        height=72,
+                        disabled=not editable,
+                        key=f"kf_vr_{detail.review_id}",
+                    )
+                    pause_rules = st.text_area(
+                        "pause_rules",
+                        value=format_multiline_field(detail.pause_rules),
+                        height=72,
+                        disabled=not editable,
+                        key=f"kf_pr_{detail.review_id}",
+                    )
+                with rule_cols[1]:
+                    repetition_rules = st.text_area(
+                        "repetition_rules",
+                        value=format_multiline_field(detail.repetition_rules),
+                        height=88,
+                        disabled=not editable,
+                        key=f"kf_rr_{detail.review_id}",
+                    )
+                    symbolic_elements = st.text_area(
+                        "symbolic_elements",
+                        value=format_multiline_field(detail.symbolic_elements),
+                        height=72,
+                        disabled=not editable,
+                        key=f"kf_se_{detail.review_id}",
+                    )
+                    if detail.candidate_targets:
+                        st.markdown("**candidate_targets**")
+                        for target in detail.candidate_targets:
+                            st.caption(f"· {target}")
+                    else:
+                        st.caption("candidate_targets: —")
 
         with st.expander("Review metadata", expanded=False):
             st.write(f"review_id: `{detail.review_id}`")

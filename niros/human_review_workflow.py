@@ -72,6 +72,7 @@ class HumanReviewRecord:
     knowledge_domain: str = KNOWLEDGE_DOMAIN_UNKNOWN
     review_type: str = REVIEW_TYPE_BATCH
     consolidated_candidate: dict[str, Any] | None = None
+    structured_knowledge_candidate: dict[str, Any] | None = None
     therapeutic_relevance: dict[str, Any] | None = None
 
 
@@ -144,6 +145,8 @@ def serialize_human_review_record(record: HumanReviewRecord) -> dict[str, Any]:
         payload["edited_extraction"] = None
     if record.consolidated_candidate is not None:
         payload["consolidated_candidate"] = record.consolidated_candidate
+    if record.structured_knowledge_candidate is not None:
+        payload["structured_knowledge_candidate"] = record.structured_knowledge_candidate
     if record.therapeutic_relevance is not None:
         payload["therapeutic_relevance"] = record.therapeutic_relevance
     return payload
@@ -170,6 +173,7 @@ def deserialize_human_review_record(data: dict[str, Any]) -> HumanReviewRecord:
         knowledge_domain=normalize_review_knowledge_domain(data.get("knowledge_domain")),
         review_type=data.get("review_type", REVIEW_TYPE_BATCH),
         consolidated_candidate=data.get("consolidated_candidate"),
+        structured_knowledge_candidate=data.get("structured_knowledge_candidate"),
         therapeutic_relevance=data.get("therapeutic_relevance"),
     )
 
@@ -298,6 +302,10 @@ class HumanReviewWorkflow:
             build_representative_extraction,
             serialize_consolidated_candidate,
         )
+        from niros.structured_knowledge_candidate import (
+            build_structured_knowledge_candidate,
+            serialize_structured_knowledge_candidate,
+        )
 
         if not isinstance(candidate, ConsolidatedCandidatePattern):
             raise HumanReviewValidationError(
@@ -319,6 +327,9 @@ class HumanReviewWorkflow:
             knowledge_domain=resolved_domain,
             review_type=REVIEW_TYPE_CONSOLIDATED,
             consolidated_candidate=serialize_consolidated_candidate(candidate),
+            structured_knowledge_candidate=serialize_structured_knowledge_candidate(
+                build_structured_knowledge_candidate(candidate)
+            ),
             therapeutic_relevance=therapeutic_relevance,
         )
         return self._persist_mutation(record, created=True)

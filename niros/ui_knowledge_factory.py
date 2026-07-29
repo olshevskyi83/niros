@@ -27,6 +27,12 @@ from niros.knowledge_consolidator import (
     REVIEW_MODE_NORMAL,
     deserialize_consolidated_candidate,
 )
+from niros.semantic_knowledge_extraction import ONTOLOGY_STATUS_POTENTIAL_NEW_MECHANISM
+from niros.structured_knowledge_candidate import (
+    StructuredKnowledgeCandidate,
+    build_structured_knowledge_candidate,
+    deserialize_structured_knowledge_candidate,
+)
 from niros.knowledge_domain import (
     KNOWLEDGE_DOMAIN_PSYCHOTHERAPY_TLE,
     KNOWLEDGE_DOMAIN_UNKNOWN,
@@ -169,6 +175,19 @@ class ReviewListItem:
     psychological_function: str
 
 
+STRUCTURED_REVIEW_CONFIDENCE_WARNING_THRESHOLD = 0.75
+
+
+@dataclass(frozen=True)
+class StructuredEvidenceFragmentDetail:
+    source_id: str
+    segment_id: str
+    source_family: str
+    evidence_text: str
+    supports: tuple[str, ...]
+    confidence: float
+
+
 @dataclass(frozen=True)
 class ReviewDetail:
     filename: str
@@ -207,6 +226,11 @@ class ReviewDetail:
     causal_process: str = ""
     ontology_status: str = ""
     ontology_mechanism_id: str = ""
+    structured_knowledge_candidate: dict[str, Any] | None = None
+    uses_structured_knowledge_review: bool = False
+    structured_evidence_fragment_details: tuple[StructuredEvidenceFragmentDetail, ...] = ()
+    quality_warnings: tuple[str, ...] = ()
+    open_questions: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
@@ -879,6 +903,97 @@ def _consolidated_candidate_for_record(record: HumanReviewRecord):
     return deserialize_consolidated_candidate(record.consolidated_candidate)
 
 
+def structured_knowledge_for_record(
+    record: HumanReviewRecord,
+) -> StructuredKnowledgeCandidate | None:
+    """Return structured knowledge for one consolidated review record."""
+    if record.review_type != REVIEW_TYPE_CONSOLIDATED:
+        return None
+    if record.structured_knowledge_candidate:
+        structured = deserialize_structured_knowledge_candidate(
+            record.structured_knowledge_candidate
+        )
+        if record.reviewer_notes.strip() and not structured.reviewer_notes.strip():
+            return replace(
+                structured,
+                reviewer_notes=record.reviewer_notes.strip(),
+            )
+        return structured
+    candidate = _consolidated_candidate_for_record(record)
+    if candidate is None:
+        return None
+    return build_structured_knowledge_candidate(
+        candidate,
+        reviewer_notes=record.reviewer_notes,
+    )
+
+
+def review_uses_stored_structured_knowledge(record: HumanReviewRecord) -> bool:
+    """Return True when review JSON includes a stored structured knowledge candidate."""
+    return record.structured_knowledge_candidate is not None
+
+
+def structured_evidence_fragment_details(
+    payload: dict[str, Any] | None,
+) -> tuple[StructuredEvidenceFragmentDetail, ...]:
+    """Build UI-ready evidence fragment rows from structured knowledge JSON."""
+    if not payload:
+        return ()
+    details: list[StructuredEvidenceFragmentDetail] = []
+    for item in payload.get("evidence_fragments") or []:
+        details.append(
+            StructuredEvidenceFragmentDetail(
+                source_id=str(item.get("source_id", "")),
+                segment_id=str(item.get("segment_id", "")),
+                source_family=str(item.get("source_family", "")),
+                evidence_text=str(item.get("evidence_text", "")),
+                supports=tuple(item.get("supports") or ()),
+                confidence=float(item.get("confidence", 0.0) or 0.0),
+            )
+        )
+    return tuple(details)
+
+
+def structured_knowledge_quality_warnings(
+    payload: dict[str, Any] | None,
+) -> tuple[str, ...]:
+    """Return human-review quality warnings for one structured knowledge candidate."""
+    if not payload:
+        return ()
+    warnings: list[str] = []
+    if payload.get("ontology_status") == ONTOLOGY_STATUS_POTENTIAL_NEW_MECHANISM:
+        warnings.append(
+            "Ontology status is potential_new_mechanism — validate mechanism identity before approval."
+        )
+    confidence = float(payload.get("confidence", 0.0) or 0.0)
+    if confidence < STRUCTURED_REVIEW_CONFIDENCE_WARNING_THRESHOLD:
+        warnings.append(
+            f"Confidence {confidence:.2f} is below "
+            f"{STRUCTURED_REVIEW_CONFIDENCE_WARNING_THRESHOLD:.2f}."
+        )
+    if not payload.get("evidence_fragments"):
+        warnings.append("No evidence fragments are attached to this structured candidate.")
+    if not payload.get("maintaining_processes"):
+        warnings.append("Maintaining processes are empty.")
+    if not payload.get("causal_chains"):
+        warnings.append("Causal chains are empty.")
+    if payload.get("contraindications"):
+        warnings.append("Contraindications are present — review carefully before approval.")
+    return tuple(warnings)
+
+
+def format_causal_chain_for_display(chain: dict[str, Any]) -> str:
+    """Format one causal chain dict for review UI display."""
+    parts = (
+        str(chain.get("trigger", "")).strip(),
+        str(chain.get("internal_process", "")).strip(),
+        str(chain.get("behavior_response", "")).strip(),
+        str(chain.get("short_term_effect", "")).strip(),
+        str(chain.get("long_term_effect", "")).strip(),
+    )
+    return " → ".join(part for part in parts if part)
+
+
 def load_review_for_ui(
     review_id: str,
     workspace_root: str = DEFAULT_KNOWLEDGE_ROOT,
@@ -888,6 +1003,13 @@ def load_review_for_ui(
     record = workflow.load_review(review_id)
     extraction = _display_extraction(record)
     candidate = _consolidated_candidate_for_record(record)
+    uses_structured = review_uses_stored_structured_knowledge(record)
+    stored_structured_payload = record.structured_knowledge_candidate
+    structured = (
+        deserialize_structured_knowledge_candidate(stored_structured_payload)
+        if uses_structured and stored_structured_payload is not None
+        else None
+    )
     filename = f"{record.review_id}.json"
     review_path = Path(workflow.paths.review_dir) / filename
     if review_path.exists():
@@ -905,16 +1027,32 @@ def load_review_for_ui(
         book_count = candidate.book_count
         batch_count = candidate.batch_count
         source_families = candidate.source_families
-        evidence_fragments = tuple(
-            f"{fragment.source_id} / {fragment.segment_id}: {fragment.evidence_text.strip()}"
-            for fragment in candidate.evidence_fragments
-        )
-        ontology_status = candidate.ontology_status
-        causal_process = candidate.causal_process_summary
-        why_this_is_a_mechanism = candidate.why_extraction_summary
-        ontology_mechanism_id = candidate.ontology_mechanism_id
-        mechanism_name = candidate.canonical_name
-        mechanism_description = candidate.description
+        if structured is not None:
+            evidence_fragments = tuple(
+                (
+                    f"{fragment.source_id} / {fragment.segment_id} "
+                    f"[{', '.join(fragment.supports) or 'evidence'}]: "
+                    f"{fragment.evidence_text.strip()}"
+                )
+                for fragment in structured.evidence_fragments
+            )
+            ontology_status = structured.ontology_status
+            causal_process = candidate.causal_process_summary
+            why_this_is_a_mechanism = structured.clinical_notes
+            ontology_mechanism_id = structured.mechanism_id
+            mechanism_name = structured.mechanism_name
+            mechanism_description = candidate.description
+        else:
+            evidence_fragments = tuple(
+                f"{fragment.source_id} / {fragment.segment_id}: {fragment.evidence_text.strip()}"
+                for fragment in candidate.evidence_fragments
+            )
+            ontology_status = candidate.ontology_status
+            causal_process = candidate.causal_process_summary
+            why_this_is_a_mechanism = candidate.why_extraction_summary
+            ontology_mechanism_id = candidate.ontology_mechanism_id
+            mechanism_name = candidate.canonical_name
+            mechanism_description = candidate.description
     else:
         ontology_status = extraction.ontology_status
         causal_process = extraction.causal_process
@@ -967,6 +1105,17 @@ def load_review_for_ui(
         causal_process=causal_process,
         ontology_status=ontology_status,
         ontology_mechanism_id=ontology_mechanism_id,
+        structured_knowledge_candidate=stored_structured_payload,
+        uses_structured_knowledge_review=uses_structured,
+        structured_evidence_fragment_details=structured_evidence_fragment_details(
+            stored_structured_payload
+        ),
+        quality_warnings=structured_knowledge_quality_warnings(stored_structured_payload),
+        open_questions=tuple(
+            stored_structured_payload.get("open_questions") or ()
+        )
+        if stored_structured_payload is not None
+        else (),
     )
 
 

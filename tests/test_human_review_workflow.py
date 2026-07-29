@@ -24,6 +24,7 @@ from niros.knowledge_domain import (
     KNOWLEDGE_DOMAIN_VOCAL_ICARO,
 )
 from niros.knowledge_workspace import ensure_knowledge_workspace
+from niros.semantic_knowledge_extraction import ONTOLOGY_STATUS_ADDS_NEW_EVIDENCE
 from niros.therapeutic_extraction import TherapeuticFunctionExtraction, build_extraction_id
 
 
@@ -44,6 +45,51 @@ def _extraction(**overrides) -> TherapeuticFunctionExtraction:
         "therapeutic_function": therapeutic_function,
         "psychological_function": psychological_function,
         "evidence_text": "May the heart be softened and fear released.",
+        "confidence": 0.85,
+        "extractor": "openai",
+    }
+    base.update(overrides)
+    return TherapeuticFunctionExtraction(**base)
+
+
+def _experiential_avoidance_extraction(**overrides) -> TherapeuticFunctionExtraction:
+    source_id = overrides.get("source_id", "book_a")
+    segment_id = overrides.get("segment_id", "book_a_batch_001")
+    therapeutic_function = overrides.get("therapeutic_function", "experiential_avoidance")
+    psychological_function = overrides.get(
+        "psychological_function",
+        (
+            "Attempts to avoid painful internal experiences reduce distress briefly but "
+            "maintain long-term suffering and reduce valued action."
+        ),
+    )
+    base = {
+        "extraction_id": build_extraction_id(
+            source_id,
+            segment_id,
+            therapeutic_function,
+            psychological_function,
+        ),
+        "source_id": source_id,
+        "segment_id": segment_id,
+        "therapeutic_function": therapeutic_function,
+        "psychological_function": psychological_function,
+        "evidence_text": (
+            "When painful feelings arise, the client uses control or avoidance strategies. "
+            "Short-term relief appears, but valued action narrows and suffering persists over time."
+        ),
+        "mechanism_name": "Experiential Avoidance",
+        "ontology_status": ONTOLOGY_STATUS_ADDS_NEW_EVIDENCE,
+        "ontology_mechanism_id": "experiential_avoidance",
+        "causal_process": (
+            "Painful thoughts and feelings trigger control or avoidance strategies. "
+            "These strategies reduce distress briefly but reinforce avoidance and narrow "
+            "behavior over time."
+        ),
+        "why_this_is_a_mechanism": (
+            "This describes a maintaining loop linking internal distress, avoidance behavior, "
+            "short-term relief, and long-term suffering."
+        ),
         "confidence": 0.85,
         "extractor": "openai",
     }
@@ -80,15 +126,17 @@ def test_create_pending_consolidated_review_and_approve(tmp_path: Path) -> None:
 
     workflow = _workflow(tmp_path)
     extractions = (
-        _extraction(
+        _experiential_avoidance_extraction(
             source_id="book_a",
             segment_id="book_a_batch_001",
-            therapeutic_function="accept emotions",
         ),
-        _extraction(
+        _experiential_avoidance_extraction(
             source_id="book_b",
             segment_id="book_b_batch_002",
-            therapeutic_function="allow emotions",
+            evidence_text=(
+                "The client notices urges to escape uncomfortable emotions and chooses avoidance. "
+                "Relief is immediate, but avoidance maintains distance from what matters over time."
+            ),
         ),
     )
     candidate = KnowledgeConsolidator().consolidate(
