@@ -1,5 +1,24 @@
 # NIROS Research OS v4 — Foundation Release
 
+> [!IMPORTANT]
+> **Archived research prototype — July 2026**
+>
+> Active development of NIROS has stopped. The project explored whether a
+> structured psychological intake and evidence-informed personalization system
+> could support the creation of short therapeutic vocal patterns for
+> psychedelic contexts.
+>
+> The central hypothesis was not validated. In particular, the project did not
+> establish that its psychological inferences were clinically reliable or that
+> personalized vocal patterns were safe or therapeutically effective during
+> psychedelic experiences. The software must not be used for diagnosis,
+> treatment, crisis support, psychedelic-session guidance, or autonomous
+> psychological intervention.
+>
+> The repository is preserved as a research and engineering record. Its
+> architectures, tests, ontologies, scores, and generated outputs should not be
+> interpreted as clinical evidence.
+
 **NIROS** is a research operating system for building an adaptive human-understanding and therapeutic-support platform.
 
 This vault is designed for two audiences:
